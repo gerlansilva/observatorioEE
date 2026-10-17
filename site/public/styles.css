@@ -164,6 +164,10 @@ h1[tabindex="-1"]:focus-visible {
 }
 
 .tainacan-static-header .nav-link--admin {
+  margin-left: 1.35rem;
+  padding-left: 1.45rem !important;
+  border-left: 1px solid var(--tainacan-border);
+  border-bottom-color: transparent !important;
   color: var(--palette-teal-soft) !important;
 }
 
