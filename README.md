@@ -292,7 +292,7 @@ O repositório já inclui `.github/workflows/deploy.yml`. Configure em **Setting
 | Secret | `CLOUDFLARE_ACCOUNT_ID` | ID da conta Cloudflare |
 | Variable | `CLOUDFLARE_PROJECT` | nome do projeto no Cloudflare Pages (opcional) |
 
-O workflow executa `node scripts/validar.mjs` e publica `site/public` com Wrangler.
+O workflow executa `node scripts/validar.mjs` e publica `site/public` com Wrangler. Enquanto os secrets não estiverem configurados, a etapa de publicação é ignorada e o workflow continua apenas com a validação.
 
 ### Cabeçalhos
 

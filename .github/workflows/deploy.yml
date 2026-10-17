@@ -18,7 +18,19 @@ jobs:
           node-version: 20
       - name: Validar dados
         run: node scripts/validar.mjs
+      - name: Verificar configuração do Cloudflare
+        id: cloudflare
+        env:
+          CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          if [ -n "$CF_TOKEN" ]; then
+            echo "enabled=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "enabled=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::Cloudflare não configurado; publicação ignorada."
+          fi
       - name: Publicar no Cloudflare Pages
+        if: steps.cloudflare.outputs.enabled == 'true'
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
