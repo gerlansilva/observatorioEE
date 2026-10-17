@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="theme-color" content="#174B57" />
+    <title>Painel administrativo · Observatório EE</title>
+    <link rel="icon" href="../assets/brand/mark-observatorio.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="../assets/fonts/roboto/roboto.css" />
+    <link rel="stylesheet" href="./admin.css?v=1" />
+  </head>
+  <body>
+    <header class="admin-header">
+      <a class="admin-brand" href="../" aria-label="Voltar ao site">
+        <img src="../assets/brand/logo-observatorio.svg" alt="Observatório EE" />
+      </a>
+      <div class="admin-header-actions">
+        <a href="../" target="_blank" rel="noopener noreferrer">Ver site ↗</a>
+        <button type="button" id="logout" class="button button--ghost" hidden>Sair</button>
+      </div>
+    </header>
+
+    <section class="login" id="login">
+      <form class="login-card" id="login-form">
+        <p class="eyebrow">Acesso restrito</p>
+        <h1>Painel administrativo</h1>
+        <p>
+          Informe o token administrativo configurado no Cloudflare Pages para editar,
+          incluir ou excluir fichas do acervo.
+        </p>
+        <label for="token">Token administrativo</label>
+        <input id="token" name="token" type="password" autocomplete="current-password" required />
+        <button class="button button--primary" type="submit">Entrar</button>
+        <p class="login-note" id="login-note" role="status"></p>
+      </form>
+    </section>
+
+    <main class="admin-shell" id="app" hidden>
+      <aside class="admin-sidebar">
+        <div class="sidebar-head">
+          <strong>Fichas do acervo</strong>
+          <button type="button" class="button button--primary button--small" id="new-item">Novo</button>
+        </div>
+        <input id="search" type="search" placeholder="Buscar por título ou autoria" autocomplete="off" />
+        <p class="result-line" id="result-line"></p>
+        <div class="item-list" id="item-list"></div>
+      </aside>
+
+      <section class="admin-editor">
+        <div class="editor-head">
+          <div>
+            <p class="eyebrow" id="editor-mode">Selecione uma ficha</p>
+            <h1 id="editor-title">Acervo</h1>
+          </div>
+          <div class="editor-actions">
+            <button type="button" class="button button--danger" id="delete-item" hidden>Excluir</button>
+            <button type="submit" form="item-form" class="button button--primary" id="save-item" disabled>
+              Salvar alterações
+            </button>
+          </div>
+        </div>
+
+        <p class="status" id="status" role="status"></p>
+
+        <form id="item-form" class="item-form" hidden>
+          <fieldset>
+            <legend>Identificação</legend>
+            <label class="span-2">ID da ficha
+              <input name="id" id="field-id" required pattern="[a-z0-9][a-z0-9\-]*" />
+              <small>Minúsculas, números e hífens. Não altere o ID de uma ficha existente.</small>
+            </label>
+            <label class="span-2">Título
+              <textarea name="titulo" id="field-titulo" rows="2" required></textarea>
+            </label>
+            <label>Autor(a)
+              <input name="autor" id="field-autor" required />
+            </label>
+            <label>Orientação
+              <input name="orientador" id="field-orientador" />
+            </label>
+            <label>Ano
+              <input name="ano" id="field-ano" type="number" min="1900" max="2100" required />
+            </label>
+            <label>Tipo
+              <select name="tipo" id="field-tipo">
+                <option>Dissertação</option>
+                <option>Tese</option>
+              </select>
+            </label>
+            <label>Grau
+              <select name="grau" id="field-grau">
+                <option>Mestrado Acadêmico</option>
+                <option>Mestrado Profissional</option>
+                <option>Doutorado</option>
+              </select>
+            </label>
+          </fieldset>
+
+          <fieldset>
+            <legend>Instituição e classificação</legend>
+            <label>Instituição
+              <input name="instituicao" id="field-instituicao" />
+            </label>
+            <label>Programa
+              <input name="programa" id="field-programa" />
+            </label>
+            <label>Cidade
+              <input name="cidade" id="field-cidade" />
+            </label>
+            <label>Estado
+              <input name="estado" id="field-estado" />
+            </label>
+            <label>Região
+              <input name="regiao" id="field-regiao" />
+            </label>
+            <label>Área
+              <input name="area" id="field-area" />
+            </label>
+            <label>Nível de ensino
+              <input name="nivel" id="field-nivel" />
+            </label>
+            <label>Foco temático
+              <input name="foco" id="field-foco" />
+            </label>
+            <label>Conteúdo
+              <input name="conteudo" id="field-conteudo" />
+            </label>
+          </fieldset>
+
+          <fieldset>
+            <legend>Resumo e palavras-chave</legend>
+            <label class="span-2">Resumo em português
+              <textarea name="resumo" id="field-resumo" rows="8"></textarea>
+            </label>
+            <label>Idioma do resumo
+              <input name="resumo_idioma" id="field-resumo_idioma" placeholder="por" />
+            </label>
+            <label>Fonte do resumo
+              <input name="resumo_fonte" id="field-resumo_fonte" type="url" placeholder="https://..." />
+            </label>
+            <label class="span-2">Palavras-chave
+              <input name="tags" id="field-tags" placeholder="separadas por vírgula ou ponto e vírgula" />
+            </label>
+            <label class="span-2">Problema / objetivos (texto de apoio)
+              <textarea name="problema" id="field-problema" rows="4"></textarea>
+            </label>
+          </fieldset>
+
+          <fieldset>
+            <legend>Links</legend>
+            <label>Registro na BDTD
+              <input name="link_bdtd" id="field-link_bdtd" type="url" placeholder="https://bdtd.ibict.br/..." />
+            </label>
+            <label>Registro no repositório
+              <input name="link_registro" id="field-link_registro" type="url" placeholder="https://..." />
+            </label>
+            <label>Texto completo
+              <input name="link_texto" id="field-link_texto" type="url" placeholder="https://...pdf" />
+            </label>
+            <label>Google Scholar
+              <input name="link_scholar" id="field-link_scholar" type="url" />
+            </label>
+          </fieldset>
+
+          <div class="form-footer">
+            <span class="muted">As alterações são salvas como commit no GitHub e reindexadas automaticamente.</span>
+            <button type="submit" class="button button--primary">Salvar alterações</button>
+          </div>
+        </form>
+
+        <div class="empty-editor" id="empty-editor">
+          <p>Selecione uma ficha na lista ou crie um novo trabalho.</p>
+        </div>
+      </section>
+    </main>
+
+    <script type="module" src="./admin.js?v=1"></script>
+  </body>
+</html>

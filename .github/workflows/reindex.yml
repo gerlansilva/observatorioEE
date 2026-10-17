@@ -1,0 +1,41 @@
+name: reindexar-acervo
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'site/public/data/itens/**'
+
+permissions:
+  contents: write
+
+jobs:
+  reindex:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+      - name: Reindexar, gerar miniaturas e CSV
+        run: |
+          python scripts/reindexar.py
+          python scripts/gerar_miniaturas.py
+          python scripts/exportar_csv.py
+          python scripts/relatorio_cobertura.py
+      - name: Publicar artefatos gerados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/public/data/indice.json site/public/data/agregados.json \
+            site/public/data/itens site/public/assets/images/thumbs \
+            site/public/dados/teses.csv dados/teses.csv dados/cobertura_bdtd.json
+          if git diff --cached --quiet; then
+            echo "Nada para reindexar."
+            exit 0
+          fi
+          git commit -m "Reindexa acervo após alteração de ficha"
+          git push

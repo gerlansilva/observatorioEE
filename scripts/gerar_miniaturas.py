@@ -115,12 +115,18 @@ def build_svg(item: dict, index: int) -> str:
 def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
     paths = sorted(ITEMS.glob("*.json"))
+    expected = set()
     for position, path in enumerate(paths, start=1):
         item = json.loads(path.read_text(encoding="utf-8"))
         svg = build_svg(item, position)
-        (OUT / f"{item['id']}.svg").write_text(svg, encoding="utf-8")
+        filename = f"{item['id']}.svg"
+        expected.add(filename)
+        (OUT / filename).write_text(svg, encoding="utf-8")
         item["thumbnail"] = f"./assets/images/thumbs/{item['id']}.svg"
         path.write_text(json.dumps(item, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    for old in OUT.glob("*.svg"):
+        if old.name not in expected:
+            old.unlink()
     print(f"✓ {len(paths)} miniaturas geradas em {OUT.relative_to(ROOT)}")
 
 

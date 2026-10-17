@@ -18,6 +18,7 @@ O site é uma publicação estática: os dados são extraídos da planilha de es
 - [Rodando localmente](#rodando-localmente)
 - [Pipeline de dados](#pipeline-de-dados)
 - [Publicação no Cloudflare Pages](#publicação-no-cloudflare-pages)
+- [Painel administrativo](#painel-administrativo)
 - [Atualizando o acervo](#atualizando-o-acervo)
 - [Critérios e limitações](#critérios-e-limitações)
 - [Identidade visual](#identidade-visual)
@@ -72,6 +73,7 @@ Os números do site são gerados a partir de `site/public/data/agregados.json`; 
 - Download dos dados em CSV e JSON.
 - Miniaturas tipográficas determinísticas para todos os registros.
 - Layout responsivo e navegação por teclado.
+- Painel administrativo em `/admin/` para editar, incluir e excluir fichas, com commits automáticos no GitHub.
 
 ## Arquitetura
 
@@ -145,6 +147,10 @@ observatorioEE/
 │   ├── index.html
 │   ├── styles.css
 │   ├── app.js
+│   ├── admin/                           # painel administrativo
+│   │   ├── index.html
+│   │   ├── admin.css
+│   │   └── admin.js
 │   ├── _headers                         # cabeçalhos do Cloudflare Pages
 │   ├── assets/
 │   │   ├── brand/                       # marca, logo, favicon, OG e tokens
@@ -159,7 +165,13 @@ observatorioEE/
 │   │   ├── mapa-brasil.json
 │   │   └── itens/                       # 259 fichas completas
 │   └── dados/teses.csv
-├── .github/workflows/deploy.yml
+├── functions/api/admin/                 # API do painel no Cloudflare Pages
+│   ├── _utils.js
+│   ├── session.js
+│   └── item.js
+├── .github/workflows/
+│   ├── deploy.yml
+│   └── reindex.yml
 ├── requirements.txt
 ├── package.json
 └── README.md
@@ -298,9 +310,61 @@ O workflow executa `node scripts/validar.mjs` e publica `site/public` com Wrangl
 
 O arquivo `site/public/_headers` define cabeçalhos de segurança e políticas de cache para o Cloudflare Pages.
 
+## Painel administrativo
+
+O painel fica em **`/admin/`** e permite:
+
+- editar fichas existentes;
+- incluir novos trabalhos;
+- excluir trabalhos;
+- gerenciar resumo, palavras-chave e links.
+
+O painel não usa banco de dados: cada operação cria um commit no GitHub. O workflow
+`.github/workflows/reindex.yml` detecta a alteração, reconstrói `indice.json`, `agregados.json`,
+as miniaturas e o CSV, e faz um novo commit. Em seguida, o Cloudflare Pages republica o site.
+
+### Configuração no Cloudflare Pages
+
+Em **Settings → Environment variables**, configure para Production e Preview:
+
+| Variável | Uso |
+|---|---|
+| `ADMIN_TOKEN` | senha/token de acesso ao painel; use uma string longa e aleatória |
+| `GITHUB_TOKEN` | fine-grained PAT com permissão **Contents: Read and write** neste repositório |
+| `GITHUB_REPO` | opcional; padrão `gerlansilva/observatorioEE` |
+| `GITHUB_BRANCH` | opcional; padrão `main` |
+
+O `GITHUB_TOKEN` fica apenas no servidor do Cloudflare Pages Functions e nunca é enviado ao
+navegador. O `ADMIN_TOKEN` é solicitado na tela de login e fica somente na sessão do navegador.
+
+Depois de cadastrar as variáveis, faça um novo deploy para que as Functions as recebam.
+
+### Segurança recomendada
+
+Além do token do painel, proteja as rotas `/admin/*` e `/api/admin/*` com **Cloudflare Access**
+(Zero Trust), permitindo apenas o seu e-mail. O token administrativo continua sendo necessário
+como segunda camada.
+
+### Como usar
+
+1. Acesse `https://SEU-DOMINIO/admin/`.
+2. Informe o `ADMIN_TOKEN`.
+3. Selecione uma ficha na lista ou clique em **Novo**.
+4. Edite os campos e clique em **Salvar alterações**.
+5. O commit é criado e a reindexação automática é iniciada no GitHub.
+6. Aguarde o workflow e a publicação do Cloudflare Pages.
+
+Para editar localmente as Functions, use o Wrangler:
+
+```bash
+npx wrangler pages dev site/public
+```
+
+Defina `ADMIN_TOKEN`, `GITHUB_TOKEN`, `GITHUB_REPO` e `GITHUB_BRANCH` no ambiente local.
+
 ## Atualizando o acervo
 
-Para incluir novos trabalhos:
+O caminho mais simples é usar o painel em `/admin/`. Para edições em lote ou reconstrução completa:
 
 1. Atualize a planilha original ou os arquivos de dados.
 2. Rode o pipeline de extração e enriquecimento.

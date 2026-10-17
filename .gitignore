@@ -5,10 +5,8 @@ __pycache__/
 .cache/
 site/public/mobile.html
 site/public/mobile-item.html
-
 node_modules/
 .wrangler/
 .env
 .env.*
 *.log
-.DS_Store

@@ -4,6 +4,12 @@
   X-Frame-Options: SAMEORIGIN
   Permissions-Policy: geolocation=(), camera=(), microphone=()
 
+/admin/*
+  Cache-Control: no-store
+
+/api/*
+  Cache-Control: no-store
+
 /*.html
   Cache-Control: public, max-age=0, must-revalidate
 
