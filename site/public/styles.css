@@ -163,6 +163,10 @@ h1[tabindex="-1"]:focus-visible {
   border-bottom: 2px solid transparent;
 }
 
+.tainacan-static-header .nav-link--admin {
+  color: var(--palette-teal-soft) !important;
+}
+
 .tainacan-static-header .nav-link:hover,
 .tainacan-static-header .nav-link[aria-current="page"] {
   color: var(--tainacan-interface--link-color) !important;
