@@ -1,0 +1,82 @@
+{
+  "id": "costa-2012",
+  "autor": "Gislaine Donizeti Fagnani da Costa",
+  "ano": 2012,
+  "tipo": "Tese",
+  "titulo": "A metodologia de projetos como uma alternativa para ensinar estatística no ensino superior",
+  "instituicao": "Universidade Estadual de Campinas",
+  "cidade": "Campinas",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Dione Carvalho",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "4",
+  "foco": "Cognição e Psicologia da Educação Estatística",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "Estatística",
+  "problema": "investigar a metodologia de projetos como uma alternativa para ensinar estatística no ensino superior focando aspectos afetivos presentes na relação professor-aluno na formação profissional do nutricionista.",
+  "metodologia": "O trabalho de campo da presente pesquisa qualitativa foi realizado num curso de Nutrição, em uma instituição particular de ensino da cidade de Campinas-SP, sendo caracterizado com o desenvolvimento de um projeto interdisciplinar que contou com a integração das disciplinas de Saúde Pública, Avaliação Nutricional e Bioestatística. O material que originou a análise foi constituído pelas observações dos depoimentos das alunas em caderno de campo, pelos depoimentos e dados coletados durante a realização de uma dinâmica no primeiro dia de aula da disciplina de Bioestatística, bem como pelas observações contidas no diário da pesquisadora.",
+  "contribuicoes": "A análise interpretativa dos dados produzidos trouxe indícios de que o trabalho realizado propiciou às alunas do curso a compreensão e aplicação de conceitos estatísticos em situações semelhantes às do exercício de sua profissão. Avaliamos que, assim, foram constituídos valores e significados que fundamentam o aprendizado desses conceitos, contribuindo para que as alunas se tornassem, no curso superior, protagonistas do processo ensino-aprendizagem, bem como promoveu-se a mobilização, modificação e ressignificação de fatores sociais e afetivos, crenças e atitudes negativas com relação à matemática, adquiridas ao longo da escolaridade.",
+  "palavras_chave": "",
+  "referencial": "Henri Wallon: afetividade e educação",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+metodologia+de+projetos+como+uma+alternativa+para+ensinar+estat%C3%ADstica+no+ensino+superior%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+metodologia+de+projetos+como+uma+alternativa+para+ensinar+estat%C3%ADstica+no+ensino+superior&type=AllFields",
+    "registro_institucional": "https://hdl.handle.net/20.500.12733/1619441",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_8bad5199ee69dd6340539bd1b7bcb9ca"
+  },
+  "autor_planilha": "COSTA, G. D. F.",
+  "orientador_planilha": "Dione Carvalho",
+  "autor_capes": "Gislaine Donizeti Fagnani da Costa",
+  "programa_capes": "Educação",
+  "instituicao_capes": "Universidade Estadual de Campinas",
+  "cidade_capes": "Campinas",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20124008933003017001P2",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Educação; Educação - Estatísticas; Educação - Metodologia; Projetos educacionais; Afetividade; Education; Education - Statistical; Education - Methodology; Education - Projects; Affectiveness",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "UNICAMP-30_8bad5199ee69dd6340539bd1b7bcb9ca",
+    "url": "https://hdl.handle.net/20.500.12733/1619441",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Educação",
+    "Educação - Estatísticas",
+    "Educação - Metodologia",
+    "Projetos educacionais",
+    "Afetividade",
+    "Affectiveness"
+  ],
+  "resumo": "Tendo em vista a mudança dos paradigmas científicos que procuram ressignificar o papel das emoções no pensamento humano e acreditando na interação entre cognição e afetividade, o objetivo deste trabalho foi investigar a metodologia de projetos como uma alternativa para ensinar estatística no ensino superior focando aspectos afetivos presentes na relação professor-aluno na formação profissional do nutricionista. O trabalho de campo da presente pesquisa qualitativa foi realizado num curso de Nutrição, em uma instituição particular de ensino da cidade de Campinas-SP, sendo caracterizado com o desenvolvimento de um projeto interdisciplinar que contou com a integração das disciplinas de Saúde Pública, Avaliação Nutricional e Bioestatística. O material que originou a análise foi constituído pelas observações dos depoimentos das alunas em caderno de campo, pelos depoimentos e dados coletados durante a realização de uma dinâmica no primeiro dia de aula da disciplina de Bioestatística, bem como pelas observações contidas no diário da pesquisadora. A análise interpretativa dos dados produzidos trouxe indícios de que o trabalho realizado propiciou às alunas do curso a compreensão e aplicação de conceitos estatísticos em situações semelhantes às do exercício de sua profissão. Avaliamos que, assim, foram constituídos valores e significados que fundamentam o aprendizado desses conceitos, contribuindo para que as alunas se tornassem, no curso superior, protagonistas do processo ensino-aprendizagem, bem como promoveu-se a mobilização, modificação e ressignificação de fatores sociais e afetivos, crenças e atitudes negativas com relação à matemática, adquiridas ao longo da escolaridade.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_8bad5199ee69dd6340539bd1b7bcb9ca",
+  "ano_bdtd": 2012,
+  "tipo_bdtd": "Tese",
+  "instituicao_bdtd": "[s.n.]",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UNICAMP-30_8bad5199ee69dd6340539bd1b7bcb9ca",
+    "url": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_8bad5199ee69dd6340539bd1b7bcb9ca",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/costa-2012.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_8bad5199ee69dd6340539bd1b7bcb9ca",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_8bad5199ee69dd6340539bd1b7bcb9ca",
+    "confianca": "alta"
+  }
+}

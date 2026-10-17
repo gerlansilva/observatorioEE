@@ -1,0 +1,54 @@
+{
+  "id": "souza-2007",
+  "autor": "Antonio Carlos de Souza",
+  "ano": 2007,
+  "tipo": "Dissertação",
+  "titulo": "Educação Estatística na Infância",
+  "instituicao": "Universidade Cruzeiro do Sul",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Celi Lopes",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Estatística",
+  "problema": "verificar as etapas de uma proposta didático-pedagógica para a \nabordagem da Estatística na Educação Infantil e o significado que as crianças atribuem a algumas noções \nestatísticas",
+  "metodologia": "foi desenvolvida com a participação de 17 alunos de uma escola municipal de Suzano-SP. Seus \ndados foram construídos a partir de observações e intervenções do pesquisador-professor no desenvolvimento \ndas atividades relacionadas a um projeto estatístico sobre uma temática escolhida a partir das discussões \nrealizadas com as crianças.",
+  "contribuicoes": "Na análise dos dados verificou-se que o projeto desenvolvido possibilitou aos alunos a utilização de \nconhecimentos matemáticos já construídos, a aquisição de novos conhecimentos matemáticos e a importância \ndo contexto na abordagem de idéias estatísticas. O trabalho desenvolvido mostrou ser viável o estudo de \nidéias estatísticas na Educação Infantil.",
+  "palavras_chave": "Ensino Infantil. Estatística – Educação. Educação Matemática",
+  "referencial": "O referencial teórico centrou-se em trabalhos de Batanero; Garfield e Gal; e \nLopes.",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Educa%C3%A7%C3%A3o+Estat%C3%ADstica+na+Inf%C3%A2ncia%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educa%C3%A7%C3%A3o+Estat%C3%ADstica+na+Inf%C3%A2ncia&type=AllFields"
+  },
+  "autor_planilha": "SOUZA, A. C.",
+  "orientador_planilha": "Celi Lopes",
+  "autor_capes": "Antonio Carlos de Souza",
+  "programa_capes": "Ensino de Ciências e Matemática",
+  "instituicao_capes": "Universidade Cruzeiro do Sul",
+  "cidade_capes": "São Paulo",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20071933078017002P3",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.446
+  },
+  "tags": [
+    "Ensino Infantil",
+    "Estatística – Educação",
+    "Educação Matemática"
+  ],
+  "thumbnail": "./assets/images/thumbs/souza-2007.svg"
+}

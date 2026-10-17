@@ -1,0 +1,80 @@
+{
+  "id": "barroso-2009",
+  "autor": "Jane Carmelita das Dores Garandy de Arruda Barroso",
+  "ano": 2009,
+  "tipo": "Tese",
+  "titulo": "O ensino de estatística e a pesquisa científica em cursos de graduação das áreas humanas e sociais",
+  "instituicao": "Pontifícia Universidade Católica de Minas Gerais",
+  "cidade": "Belo Horizonte",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Dimas Miranda",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "7",
+  "foco": "História, Filosofia e revisão da literatura",
+  "grau_codigo": "MA",
+  "grau": "Doutorado",
+  "conteudo": "Estatística",
+  "problema": "observar se alunos de \nalguns cursos de graduação das áreas de ciências humanas e sociais utilizam, de forma \neficaz, os conceitos e concepções aprendidos na disciplina Estatística, em suas \ninvestigações, e que contribuições técnicas e metodológicas esta disciplina pode dar à \npesquisa científica",
+  "metodologia": "Foram sujeitos da pesquisa, 15 professores orientadores e 50 alunos dos \nperíodos finais dos cursos de Administração, Pedagogia, Psicologia, Serviço Social e \nSistemas de Informação de uma instituição particular de ensino superior de Guanhães, \nSerro e Belo Horizonte, Minas Gerais, que já haviam cursado a disciplina Estatística. Os \ndados foram colhidos por meio de questionários, estudo de casos, entrevistas livres e \nsequência de atividades.",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O+ensino+de+estat%C3%ADstica+e+a+pesquisa+cient%C3%ADfica+em+cursos+de+gradua%C3%A7%C3%A3o+das+%C3%A1reas+humanas+e+sociais%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+ensino+de+estat%C3%ADstica+e+a+pesquisa+cient%C3%ADfica+em+cursos+de+gradua%C3%A7%C3%A3o+das+%C3%A1reas+humanas+e+sociais&type=AllFields",
+    "texto_completo": "http://bib.pucminas.br/teses/Ensino_JaneCarmelitaDasDoresGarandyDeArrudaBarroso_2738.pdf",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_MINS_5a1bd94309f289ccc50c516a26ca2638"
+  },
+  "autor_planilha": "BARROSO, J. C. D. G. A.",
+  "orientador_planilha": "Dimas Miranda",
+  "autor_capes": "Jane Carmelita das Dores Garandy de Arruda Barroso",
+  "programa_capes": "Ensino",
+  "instituicao_capes": "Pontifícia Universidade Católica de Minas Gerais",
+  "cidade_capes": "Belo Horizonte",
+  "capes": {
+    "status": "ok",
+    "score": 0.952,
+    "id": "20092232008015013P0",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Estatística matemática; Estatística",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "PUC_MINS_5a1bd94309f289ccc50c516a26ca2638",
+    "url": "http://bib.pucminas.br/teses/Ensino_JaneCarmelitaDasDoresGarandyDeArrudaBarroso_2738.pdf",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Ensino-aprendizagem de Estatística",
+    "pesquisa científica",
+    "conceitos estatísticos",
+    "Estatística matemática",
+    "Estatística"
+  ],
+  "ano_bdtd": 2009,
+  "tipo_bdtd": "Tese",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_MINS_5a1bd94309f289ccc50c516a26ca2638",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_MINS_5a1bd94309f289ccc50c516a26ca2638",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/barroso-2009.svg",
+  "resumo": "O estudo realizado neste trabalho objetivou observar se os alunos dos cursos de graduação das áreas de ciências humanas e sociais utilizam, de forma eficaz, os conceitos e concepções aprendidos na disciplina Estatística, em suas investigações, e que contribuições técnicas e metodológicas esta disciplina pode dar à pesquisa científica. Detectaram-se, também, dificuldades e erros cometidos no manuseio de conteúdos estatísticos. Assumiu-se como pressuposto que a Estatística constitui uma ferramenta indispensável no planejamento, na coleta, organização, interpretação e análise de dados dos trabalhos científicos desenvolvidos pelos alunos do ensino superior. Foram sujeitos da pesquisa, 15 professores orientadores e 50 alunos dos períodos finais dos cursos de Administração, Pedagogia, Psicologia, Serviço Social e Sistemas de Informação de uma instituição particular de ensino superior de Guanhães, Serro e Belo Horizonte, Minas Gerais, que já haviam cursado a disciplina Estatística. Este estudo analisou procedimentos da utilização dos conceitos estatísticos em trabalhos de conclusão de curso, à luz das teorias da didática da Estatística proposta por Batanero (2001), Barbetta (2006) e outros. Foi elaborada e aplicada uma sequência de atividades para os alunos de uma turma de Estatística do 2º período do curso de Administração, envolvendo o conteúdo estudado até o momento da aplicação da atividade. Foram apreciados, também, livros didáticos de Estatística sobre a abordagem da relação desta disciplina com a pesquisa científica. Conclui-se deste trabalho a necessidade de uma nova postura no ensino de Estatística dos cursos destas áreas de conhecimento, afim de que se tenha uma aprendizagem da Estatística mais associada a Metodologia do Trabalho Científico, oferecendo ao aluno oportunidades de utilizar tópicos de Estatística em seus trabalhos de pesquisa, com maior segurança e compreensão.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bib.pucminas.br/teses/Ensino_JaneCarmelitaDasDoresGarandyDeArrudaBarroso_2738.pdf",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bib.pucminas.br/teses/Ensino_JaneCarmelitaDasDoresGarandyDeArrudaBarroso_2738.pdf",
+    "fonte_palavras": "https://bib.pucminas.br/teses/Ensino_JaneCarmelitaDasDoresGarandyDeArrudaBarroso_2738.pdf",
+    "confianca": "alta"
+  }
+}

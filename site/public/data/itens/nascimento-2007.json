@@ -1,0 +1,83 @@
+{
+  "id": "nascimento-2007",
+  "autor": "Regina Silva do Nascimento",
+  "ano": 2007,
+  "tipo": "Dissertação",
+  "titulo": "A formação de conceitos elementares do conteúdo do tratamento de informação com o auxílio de material concreto: uma intervenção de ensino",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Sandra Maria Pinto Magina",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino de Matemática",
+  "nivel_codigo": "2",
+  "nivel": "Ensino Fundamental – anos iniciais",
+  "foco_codigo": "3",
+  "foco": "TICs, materiais e recursos didáticos",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Estatística",
+  "problema": "investigar o processo de formação de conhecimento de conceitos elementares de estatística em alunos de 5ª série por meio de uma intervenção de ensino por meio de material manipulativo, a fim de responder a seguinte questão de pesquisa: \"quais as contribuições, do ponto de vista da formação de conceitos elementares de estatística, que o uso de material manipulativo, dentro de uma sequência de ensino, traz para alunos da 5ª série do ensino fundamental?\"",
+  "metodologia": "Pesquisa de caráter intervencionista composta por um grupo experiemental e um grupo de controle. Ao grupo experimental, foi aplicada uma intervenção de ensino com uso de material manipulativo.",
+  "contribuicoes": "Os resultados indicam que o uso de material manipulativo possibilitou tanto as abstrações para a obtenção do conhecimento, como a relação entre os elementos dos conceitos estudados que permitem a ampliação do campo conceitual que contém elementos do \"tratamento da informação\"",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+forma%C3%A7%C3%A3o+de+conceitos+elementares+do+conte%C3%BAdo+do+tratamento+de+informa%C3%A7%C3%A3o+com+o+aux%C3%ADlio+de+material+concreto%3A+uma+interven%C3%A7%C3%A3o+de+ensino%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+forma%C3%A7%C3%A3o+de+conceitos+elementares+do+conte%C3%BAdo+do+tratamento+de+informa%C3%A7%C3%A3o+com+o+aux%C3%ADlio+de+material+concreto%3A+uma+interven%C3%A7%C3%A3o+de+ensino&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/11267",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_25b8d16e224a58de0e89bb6e133f4171"
+  },
+  "autor_planilha": "NASCIMENTO, R. S.",
+  "orientador_planilha": "Sandra Magina",
+  "autor_capes": "REGINA SILVA DO NASCIMENTO",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "orientador_capes": "Sandra Maria Pinto Magina",
+  "capes": {
+    "status": "ok",
+    "score": 0.995,
+    "id": "20075133005010030P9",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Formação de conceitos; Leitura e interpretação de gráficos; Educacao matematica; Matematica; Estudo e ensino; Estatistica",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.994,
+    "id": "PUC_SP-1_25b8d16e224a58de0e89bb6e133f4171",
+    "url": "https://tede2.pucsp.br/handle/handle/11267",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Formação de conceitos",
+    "Leitura e interpretação de gráficos",
+    "Educacao matematica",
+    "Matematica",
+    "Estudo e ensino",
+    "Estatistica"
+  ],
+  "resumo": "A presente dissertação teve como objetivo investigar o processo de formação de conhecimento de conceitos elementares de estatística em alunos da 5ª série do Ensino Fundamental, por meio de uma intervenção de ensino com uso de material manipulativo, a fim de responder a seguinte questão de pesquisa: Quais as contribuições, do ponto de vista da formação de conceitos elementares da estatística, que o uso de material manipulativo, dentro de uma seqüência de ensino, traz para alunos da 5ª série do Ensino Fundamental? Para tanto, foi desenvolvida uma pesquisa, de caráter intervencionista, composta por dois grupos de estudo: o Grupo Experimental (GE) e o Grupo de Controle (GC), ambos formados por alunos da 5a série do Ensino Fundamental de uma escola da rede pública estadual de São José dos Campos, São Paulo. O trabalho dividiu-se em duas partes. A primeira formalizou-se com a aplicação de instrumentos diagnósticos (pré e pós-testes). A segunda, pela aplicação de uma intervenção de ensino com uso de material manipulativo, ao grupo experimental. Os resultados obtidos em cada uma destas partes foram analisados, tendo como base cinco unidades de estudo que abrangeram: a leitura e interpretação pontual dos dados, a leitura e interpretação global dos dados, construções de gráficos e tabelas, a conceitualização e cálculo da moda, mediana e da média aritmética e as inferências e extrapolações a partir destas leituras. Os resultados desta pesquisa indicam que o uso do material manipulativo possibilitou tanto as abstrações necessárias à obtenção do conhecimento, como as relações entre os elementos dos conceitos estudados que permitem a ampliação do campo conceitual que contém elementos do Tratamento da Informação",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_25b8d16e224a58de0e89bb6e133f4171/Details",
+  "ano_bdtd": 2007,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_25b8d16e224a58de0e89bb6e133f4171",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_25b8d16e224a58de0e89bb6e133f4171",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/nascimento-2007.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_25b8d16e224a58de0e89bb6e133f4171/Details",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_25b8d16e224a58de0e89bb6e133f4171/Details",
+    "confianca": "alta"
+  }
+}

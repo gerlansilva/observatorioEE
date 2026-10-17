@@ -1,0 +1,44 @@
+{
+  "id": "pinheiro-2011",
+  "autor": "C. A. M. Pinheiro",
+  "ano": 2011,
+  "tipo": "Tese",
+  "titulo": "As etapas do raciocínio combinatório desenvolvidas por meio da metodologia de resolução de problemas",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Celina Abar",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "4",
+  "foco": "Cognição e Psicologia da Educação Estatística",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "Combinatória",
+  "problema": "identificar os níveis do pensamento combinatório nos \nalunos que já desenvolveram as habilidades básicas dos conceitos da combinatória \nescolar por meio da resolução de problemas como ponto de partida; e procura respostas \npara seguinte questão: Quais são os níveis do pensamento combinatório instaurado nos \nalunos que já desenvolveram as habilidades básicas dos conceitos da combinatória \nescolar?",
+  "metodologia": "Optamos \npor desenvolver a pesquisas com a colaboração de alunos que estão cursando o ensino \nmédio e ainda não passaram pelo ensino da combinatória escolar. Pensamos em utilizar, \no design experiments como metodológica da investigação científica e o software \nATLAS.ti 6 como ferramenta para organização, seleção e tratamento dos dados. O \naporte teórico é composto por alguns aspectos da teoria de Vygotsky, dos registros de \nrepresentações semióticas, da teoria das situações didáticas e da teoria da resolução de \nproblemas.",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "O aporte teórico é composto por alguns aspectos da teoria de Vygotsky, dos registros de \nrepresentações semióticas, da teoria das situações didáticas e da teoria da resolução de \nproblemas.",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22As+etapas+do+racioc%C3%ADnio+combinat%C3%B3rio+desenvolvidas+por+meio+da+metodologia+de+resolu%C3%A7%C3%A3o+de+problemas%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=As+etapas+do+racioc%C3%ADnio+combinat%C3%B3rio+desenvolvidas+por+meio+da+metodologia+de+resolu%C3%A7%C3%A3o+de+problemas&type=AllFields"
+  },
+  "capes": {
+    "status": "baixa_confianca",
+    "score": 0.499,
+    "candidato": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "PINHEIRO, C. A. M.",
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.421
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/pinheiro-2011.svg"
+}

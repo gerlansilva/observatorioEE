@@ -1,0 +1,82 @@
+{
+  "id": "pereira-2009",
+  "autor": "Silvana Pereira",
+  "ano": 2009,
+  "tipo": "Dissertação",
+  "titulo": "A leitura e interpretação de tabelas e gráficos para alunos do 6º ano do ensino fundamental: Uma intervenção de ensino",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Sandra Maria Pinto Magina",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino de Matemática",
+  "nivel_codigo": "3",
+  "nivel": "Ensino Fundamental – anos finais",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Estatística",
+  "problema": "investigar os avanços e limitações de uma intervenção de ensino no 6º ano do ensino fundamental de uma escola da rede pública de são paulo, com a finalidade de responder a seguinte questão de pesquisa: quais os avanços e limitações de uma intervenção de ensino com vistas a apropriação de leitura e interpretação de gráficos e tabelas?",
+  "metodologia": "pesquisa de caráter intervencionista, com um grupo experimental, que passou pela intervenção, e um grupo de controle. O quadro teórico contou com os estudos de Wainer sobre tabelas; de Curcio, sobre compreensão gráfica; e a teoria de registros de representação semiótica, de duval",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "estudo sobre tabelas de Wainer; Curcio: compreensão gráfica; Duval: teoria dos registros de representação semiótica",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+leitura+e+interpreta%C3%A7%C3%A3o+de+tabelas+e+gr%C3%A1ficos+para+alunos+do+6%C2%BA+ano+do+ensino+fundamental%3A+Uma+interven%C3%A7%C3%A3o+de+ensino%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+leitura+e+interpreta%C3%A7%C3%A3o+de+tabelas+e+gr%C3%A1ficos+para+alunos+do+6%C2%BA+ano+do+ensino+fundamental%3A+Uma+interven%C3%A7%C3%A3o+de+ensino&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/11433",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_e046a3d54e8e0e7e0ae4d98182574dfe"
+  },
+  "autor_planilha": "PEREIRA, S.",
+  "orientador_planilha": "Sandra Magina",
+  "autor_capes": "Silvana Pereira",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "orientador_capes": "Sandra Maria Pinto Magina",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "2009833005010030P9",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Ensino fundamental; Intervenção de ensino; Leitura e interpretação de gráficos e tabelas; Matematica (Elementar); Estudo e ensino",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "PUC_SP-1_e046a3d54e8e0e7e0ae4d98182574dfe",
+    "url": "https://tede2.pucsp.br/handle/handle/11433",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Ensino fundamental",
+    "Intervenção de ensino",
+    "Leitura e interpretação de gráficos e tabelas",
+    "Matematica (Elementar)",
+    "Estudo e ensino"
+  ],
+  "resumo": "O objetivo desta pesquisa foi investigar os avanços e limitações de uma intervenção de ensino no 6º ano do Ensino Fundamental de uma escola da Rede Pública do Estado de São Paulo, com a finalidade de responder a seguinte questão de pesquisa: Quais os avanços e limitações que uma intervenção de ensino para alunos do 6º ano do Ensino Fundamental com vistas à apropriação de leitura e interpretação de gráficos e tabelas? Para tanto, desenvolvemos uma pesquisa com caráter intervencionista, a qual contou com dois grupos: um grupo experimental GE com 35 alunos, passando pela intervenção de ensino e a aplicação de dois testes diagnósticos, e o outro foi o grupo controle GC, também com 35 alunos, no qual foram aplicados os testes diagnósticos, ambos formados por alunos do 6º ano do Ensino Fundamental. O quadro teórico dessa pesquisa contou com os estudos de Wainer (1992) referentes às tabelas, também foram utilizados os estudos de Curcio (1989) sobre compreensão gráfica, e a Teoria de Registros de Representações Semióticas de Duval (1992). Os dados coletados por intermédio dos testes diagnósticos realizados foram analisados a luz dessas mesmas teorias. E essa análise mostrou-nos um desempenho significativo por parte dos alunos do GE no pós-teste. Os resultados, analisados qualitativa e quantitativamente nos permitiram inferir que a intervenção de ensino foi eficaz no seu propósito de promover a aprendizagem. O destaque positivo da intervenção ficou por conta das questões relacionadas ao nível avançado, tanto na leitura e interpretação de tabelas quanto nos gráficos, cujos resultados foram significativos e superiores aos obtidos no nível intermediário",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_e046a3d54e8e0e7e0ae4d98182574dfe/Details",
+  "ano_bdtd": 2009,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_e046a3d54e8e0e7e0ae4d98182574dfe",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_e046a3d54e8e0e7e0ae4d98182574dfe",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/pereira-2009.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_e046a3d54e8e0e7e0ae4d98182574dfe/Details",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_e046a3d54e8e0e7e0ae4d98182574dfe/Details",
+    "confianca": "alta"
+  }
+}

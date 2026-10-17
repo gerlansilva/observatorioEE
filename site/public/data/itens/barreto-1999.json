@@ -1,0 +1,50 @@
+{
+  "id": "barreto-1999",
+  "autor": "Antonio Rodolfo Barreto",
+  "ano": 1999,
+  "tipo": "Dissertação",
+  "titulo": "UMA ABORDAGEM HISTORICA DO DESENVOLVIMENTO DA ESTATISTICA NO ESTADO DE SAO PAULO.",
+  "instituicao": "Universidade Estadual Paulista",
+  "cidade": "Rio Claro",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Sérgio Nobre",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "7",
+  "foco": "História, Filosofia e revisão da literatura",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22UMA+ABORDAGEM+HISTORICA+DO+DESENVOLVIMENTO+DA+ESTATISTICA+NO+ESTADO+DE+SAO+PAULO.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UMA+ABORDAGEM+HISTORICA+DO+DESENVOLVIMENTO+DA+ESTATISTICA+NO+ESTADO+DE+SAO+PAULO.&type=AllFields"
+  },
+  "autor_planilha": "BARRETO, A. R.",
+  "orientador_planilha": "Sérgio Nobre",
+  "autor_capes": "ANTONIO RODOLFO BARRETO",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Universidade Estadual Paulista Júlio de Mesquita Filho (sede",
+  "cidade_capes": "São Paulo",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "19997133004137031P7",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.517
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/barreto-1999.svg"
+}

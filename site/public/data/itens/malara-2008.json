@@ -1,0 +1,73 @@
+{
+  "id": "malara-2008",
+  "autor": "Maria Bernadete da Silva Malara",
+  "ano": 2008,
+  "tipo": "Tese",
+  "titulo": "Os Saberes Docentes Do Professor Universitário Do Curso Introdutório de Estatística Expressos no Discurso dos Formadores",
+  "instituicao": "Universidade Estadual Paulista",
+  "cidade": "Rio Claro",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Maria Lucia Lorenzetti Wodewotzki",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "6",
+  "foco": "Crenças, concepções, atitudes e saberes práticos",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "Estatística",
+  "problema": "Este trabalho teve como objetivo observar, compreender e caracterizar os saberes/conhecimentos que os professores formadores acreditam ser necessários para a prática pedagógica dos professores que ministram um Curso Introdutório de Estatística, visando a uma aprendizagem da disciplina direcionada para o desenvolvimento do pensamento estatístico.",
+  "metodologia": "A investigação, que se insere no contexto de uma pesquisa qualitativa, baseou-se em dados coletados por meio de entrevistas semi-estruturadas, de contato via correio eletrônico e de consulta ao material produzido pelos entrevistados. Os critérios usados para selecionar os quatro formadores, levaram em conta as seguintes condições: graduação em Matemática ou Estatística, ser um formador de professor de Estatística para o ensino superior, ministrar ou ter ministrado um Curso Introdutório de Estatística e ter comprovado envolvimento na pesquisa científica.",
+  "contribuicoes": "Analisando o discurso dos professores entrevistados, encontramos evidências de diferentes tipos de saberes: derivados da experiência como aluno; derivados das concepções sobre a função do professor universitário; das concepções sobre aprendizagem, sobre como ensinar que definem paradigmas, relacionados com o conhecimento do conteúdo específico, relacionados à mobilização para o conhecimento, referentes à postura pessoal do professor–educador, relativos aos fatores que interferem na prática docente e saberes relativos às dificuldades do aluno.",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Os+Saberes+Docentes+Do+Professor+Universit%C3%A1rio+Do+Curso+Introdut%C3%B3rio+de+Estat%C3%ADstica+Expressos+no+Discurso+dos+Formadores%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Os+Saberes+Docentes+Do+Professor+Universit%C3%A1rio+Do+Curso+Introdut%C3%B3rio+de+Estat%C3%ADstica+Expressos+no+Discurso+dos+Formadores&type=AllFields",
+    "registro_institucional": "http://hdl.handle.net/11449/102086",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UNSP_057156901ecc32c3545ff9540e2a8f85"
+  },
+  "autor_planilha": "MALARA, M. B. S.",
+  "orientador_planilha": "Maria Wodewotzki",
+  "autor_capes": "MARIA BERNADETE DA SILVA MALARA",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Universidade Estadual Paulista Júlio de Mesquita Filho ( Rio",
+  "cidade_capes": "Rio Claro",
+  "orientador_capes": "Maria Lucia Lorenzetti Wodewotzki",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20081533004137031P7",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Teachers’ formation; Professores - Formação",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "UNSP_057156901ecc32c3545ff9540e2a8f85",
+    "url": "http://hdl.handle.net/11449/102086",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Professores - Formação"
+  ],
+  "resumo": "A investigação, que se insere no contexto de uma pesquisa qualitativa, baseou-se em dados coletados por meio de entrevistas semi-estruturadas, de contato via correio eletrônico e de consulta ao material produzido pelos entrevistados. Os critérios usados para selecionar os quatro formadores, levaram em conta as seguintes condições: graduação em Matemática ou Estatística, ser um formador de professor de Estatística para o ensino superior, ministrar ou ter ministrado um Curso Introdutório de Estatística e ter comprovado envolvimento na pesquisa científica. Analisando o discurso dos professores entrevistados, encontramos evidências de diferentes tipos de saberes: derivados da experiência como aluno; derivados das concepções sobre a função do professor universitário; das concepções sobre aprendizagem, sobre como ensinar que definem paradigmas, relacionados com o conhecimento do conteúdo específico, relacionados à mobilização para o conhecimento, referentes à postura pessoal do professor–educador, relativos aos fatores que interferem na prática docente e saberes relativos às dificuldades do aluno.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UNSP_057156901ecc32c3545ff9540e2a8f85",
+  "ano_bdtd": 2008,
+  "tipo_bdtd": "Tese",
+  "instituicao_bdtd": "Universidade Estadual Paulista (Unesp)",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UNSP_057156901ecc32c3545ff9540e2a8f85",
+    "url": "https://bdtd.ibict.br/vufind/Record/UNSP_057156901ecc32c3545ff9540e2a8f85",
+    "fonte": "jina-reader",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/malara-2008.svg"
+}

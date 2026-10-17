@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="color-scheme" content="light" />
+    <meta name="theme-color" content="#174B57" />
+    <title>Repositório de Teses e Dissertações em Educação Estatística</title>
+    <meta
+      name="description"
+      content="Repositório digital da produção brasileira de teses e dissertações em Educação Estatística (1984–2013)."
+    />
+    <link rel="stylesheet" href="./assets/fonts/roboto/roboto.css?v=20261017-9" />
+    <link rel="stylesheet" href="./assets/vendor/bootstrap/bootstrap.min.css?v=20261017-9" />
+    <link rel="stylesheet" href="./assets/css/tainacan-interface.css?v=20261017-9" />
+    <link rel="stylesheet" href="./assets/fonts/tainacan-icons/css/tainacanicons.css?v=20261017-9" />
+    <link rel="stylesheet" href="./styles.css?v=20261017-50" />
+    <link rel="icon" href="./assets/brand/mark-observatorio.svg" type="image/svg+xml" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Observatório EE — Teses e dissertações em Educação Estatística" />
+    <meta property="og:description" content="Repositório digital da produção brasileira de teses e dissertações em Educação Estatística (1984–2013)." />
+    <meta property="og:image" content="./assets/brand/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+  </head>
+  <body class="tainacan-static">
+    <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+
+    <nav class="navbar navbar-expand-md navbar-light bg-white menu-shadow px-0 navbar--border-bottom tainacan-static-header">
+      <div class="container-fluid max-large px-0 margin-one-column" id="topNavbar">
+        <a class="navbar-brand tainacan-static-brand" href="#/" aria-label="Ir para a página inicial">
+          <img class="tainacan-static-logo" src="./assets/brand/logo-observatorio.svg" alt="Observatório EE — Teses e dissertações em Educação Estatística" width="660" height="130" />
+        </a>
+
+        <div class="navbar-box">
+          <nav class="navbar navbar-expand-md navbar-light px-0 menu-belowheader" aria-label="Navegação principal">
+            <div class="container-fluid max-large px-0 margin-one-column">
+              <button
+                class="navbar-toggler text-heavy-metal border-0 p-2 collapsed tainacan-menu-toggle"
+                type="button"
+                aria-controls="menubelowHeader"
+                aria-expanded="false"
+                aria-label="Abrir menu de navegação"
+              >
+                <span class="tainacan-icon tainacan-icon-menu"></span>
+                <span class="tainacan-icon tainacan-icon-close"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="menubelowHeader">
+                <ul class="navbar-nav mr-auto">
+                  <li class="nav-item"><a class="nav-link" href="#/" data-nav="home">Início</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#/acervo" data-nav="acervo">Acervo</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#/panorama" data-nav="panorama">Panorama</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#/sobre" data-nav="sobre">Sobre</a></li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+
+          <div class="btn-group tainacan-search-toggle-wrap">
+            <button
+              class="btn btn-link text-midnight-blue px-1 tainacan-search-toggle"
+              type="button"
+              id="search-toggle"
+              aria-label="Abrir busca"
+              aria-expanded="false"
+              aria-controls="header-search"
+            >
+              <i class="tainacan-icon tainacan-icon-search" aria-hidden="true"></i>
+              <i class="tainacan-icon tainacan-icon-close" aria-hidden="true"></i>
+            </button>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <div class="tainacan-header-search" id="header-search" hidden>
+      <form class="max-large margin-one-column" id="header-search-form" role="search">
+        <label class="sr-only" for="header-search-input">Buscar no acervo</label>
+        <input
+          type="search"
+          id="header-search-input"
+          name="q"
+          placeholder="Buscar por autor, título, instituição ou palavra-chave..."
+          autocomplete="off"
+          spellcheck="false"
+        />
+        <button type="submit" class="tainacan-header-search-button" aria-label="Buscar">
+          <i class="tainacan-icon tainacan-icon-search" aria-hidden="true"></i>
+        </button>
+      </form>
+    </div>
+
+    <main id="conteudo" class="tainacan-static-main" tabindex="-1">
+      <p id="route-status" class="sr-only" role="status" aria-live="polite"></p>
+      <div id="app">
+        <div class="tainacan-loading" role="status">
+          <span class="tainacan-spinner" aria-hidden="true"></span>
+          <p>Carregando o repositório…</p>
+        </div>
+      </div>
+    </main>
+
+    <footer class="container-fluid p-4 p-sm-5 mt-5 tainacan-footer tainacan-footer-dark">
+      <div class="max-large margin-one-column">
+        <div class="row tainacan-footer-widgets-area">
+          <div class="col-12 col-md-4">
+            <img class="tainacan-footer-mark" src="./assets/brand/mark-observatorio-inverse.svg" alt="" width="38" height="38" />
+            <p class="tainacan-footer-heading">Observatório EE</p>
+            <p class="tainacan-footer-text">
+              Repositório digital de teses e dissertações brasileiras em Educação Estatística
+              (1984–2013).
+            </p>
+          </div>
+          <div class="col-6 col-md-2">
+            <p class="tainacan-footer-heading">Acervo</p>
+            <a href="#/acervo">Explorar os 259 registros</a>
+            <a href="#/panorama">Panorama</a>
+            <a href="#/sobre">Sobre os dados</a>
+          </div>
+          <div class="col-6 col-md-2">
+            <p class="tainacan-footer-heading">Dados abertos</p>
+            <a href="./dados/teses.csv" download>Baixar CSV</a>
+            <a href="./data/indice.json" download>Baixar JSON</a>
+          </div>
+          <div class="col-12 col-md-3">
+            <p class="tainacan-footer-heading">Fonte</p>
+            <p class="tainacan-footer-text">
+              Planilha “Estado da arte”; nomes complementados pela CAPES e links por BDTD e
+              repositórios institucionais. Os trabalhos não são hospedados aqui: os links levam
+              ao repositório de origem.
+            </p>
+            <p class="tainacan-footer-text" id="footer-updated"></p>
+          </div>
+        </div>
+        <hr class="tainacan-footer-area-separator" />
+        <div class="row tainacan-footer-info">
+          <div class="col tainacan-footer-text">
+            Dados organizados para consulta e pesquisa. Interface inspirada no tema
+            <a href="https://tainacan.org" target="_blank" rel="noopener noreferrer">Tainacan Interface</a>
+          </div>
+          <div class="col-auto tainacan-footer-logo">
+            <a href="https://tainacan.org" target="_blank" rel="noopener noreferrer">
+              <img src="./assets/images/logo-footer.svg" alt="Tainacan" />
+            </a>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <noscript>
+      <div class="max-large margin-one-column tainacan-noscript">
+        Este site precisa de JavaScript para a busca e os filtros. Os dados também estão
+        disponíveis em <a href="./dados/teses.csv">CSV</a> e
+        <a href="./data/indice.json">JSON</a>.
+      </div>
+    </noscript>
+
+    <script src="./app.js?v=20261017-39" type="module"></script>
+  </body>
+</html>

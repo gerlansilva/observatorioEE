@@ -1,0 +1,79 @@
+{
+  "id": "santos-2010-3",
+  "autor": "Paulo Avelino dos Santos",
+  "ano": 2010,
+  "tipo": "Dissertação",
+  "titulo": "A modelagem como proposta para a introdução à probabilidade por meio dos 'passeios aleatórios da Mônica'.",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Sandra Maria Pinto Magina",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino de Matemática",
+  "nivel_codigo": "3",
+  "nivel": "Ensino Fundamental – anos finais",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Probabilidade",
+  "problema": "propor e analisar as contribuições que uma sequência de ensino aplicada na sala no sentido inverso da praxeologia usual traz para a apropriação introdutória do conceito de probabilidade a partir de uma proposta de simulação e modelagem envolvendo \"os passeios aleatórios da mônica\"",
+  "metodologia": "participaram 70 estudantes do 8º ano do ensino fundamental da rede privada de ensino da cidade de são paulo. Foi realizada uma intervenção de ensino com foco na pesquisa-ação",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "Cazorla e Santana (2006); Cazorla e Gusmão (2009); Nagamine, Henriques e Cazorla (2010)",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+modelagem+como+proposta+para+a+introdu%C3%A7%C3%A3o+%C3%A0+probabilidade+por+meio+dos+%27passeios+aleat%C3%B3rios+da+M%C3%B4nica%27.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+modelagem+como+proposta+para+a+introdu%C3%A7%C3%A3o+%C3%A0+probabilidade+por+meio+dos+%27passeios+aleat%C3%B3rios+da+M%C3%B4nica%27.&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/10846",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_ac6002eeea5b8868a0526b30d42719b2"
+  },
+  "autor_planilha": "SANTOS, P. A.",
+  "orientador_planilha": "Sandra Magina",
+  "autor_capes": "PAULO AVELINO DOS SANTOS",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "orientador_capes": "Sandra Maria Pinto Magina",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20102533005010030P9",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Ensino de probabilidade; Simulação e modelagem matemática em probabilidade",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "PUC_SP-1_ac6002eeea5b8868a0526b30d42719b2",
+    "url": "https://tede2.pucsp.br/handle/handle/10846",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Ensino de probabilidade",
+    "Simulação e modelagem matemática em probabilidade"
+  ],
+  "resumo": "Neste trabalho propomos a analise das contribuições que uma sequência de ensino aplicada na sala de aula no sentido inverso da praxeologia usual traz para a apropriação introdutória do conceito de probabilidade, ou seja, como a seqüência de ensino que aborda a introdução à probabilidade, por meio de uma proposta de simulação e modelagem envolvendo Os passeios aleatórios da Mônica - atividade para ensinar conceitos básicos de Probabilidades pode favorecer a aprendizagem. A realização deste estudo teve como sujeitos de pesquisa, 70 estudantes do 8º ano do Ensino Fundamental da rede privada de ensino, na cidade de São Paulo. Realizamos nossa pesquisa considerando os estudos de Cazorla e Santana (2006), em conjunto com as pesquisas realizadas por Cazorla e Gusmão (2009) e o Grupo de Pesquisa AVALE , que utiliza a modelagem como recurso didático. Para analisar as realizações dos estudantes, consideramos os questionamentos mencionados anteriormente e, principalmente a questão: Quais as contribuições que uma sequência de ensino, aplicada em sala de aula no sentido inverso da praxeologia usual traz para a apropriação introdutória do conceito de probabilidade? , está vinculada ao nosso referencial teórico, a Teoria Antropológica do Didático (TAD) e os estudos de Nagamine, Henriques e Cazorla (2010), pois estes entendem que o tipo de tarefa (T), técnica (&#61556;), tecnologia (&#952;) e teoria (&#61521;) descrevem uma organização praxeológica completa [T/&#61556;/&#61553;/&#61521;], e ainda, pela sugestão da inversão da praxeologia usual ao realizar o estudo de introdução à Probabilidade. Idealizamos o nosso trabalho por meio da realização de uma intervenção de ensino com foco na pesquisa-ação, dada a interação entre o pesquisador e os estudantes, e considerando que o nosso propósito era o de verificar se o processo de simulação e modelagem pode, ou não, favorecer o ensino de probabilidade no Ensino Fundamental de forma experimental",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_ac6002eeea5b8868a0526b30d42719b2/Details",
+  "ano_bdtd": 2010,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_ac6002eeea5b8868a0526b30d42719b2",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_ac6002eeea5b8868a0526b30d42719b2",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/santos-2010-3.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_ac6002eeea5b8868a0526b30d42719b2/Details",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_ac6002eeea5b8868a0526b30d42719b2/Details",
+    "confianca": "alta"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "cunha-2012",
+  "autor": "Márcia Loureiro da Cunha",
+  "ano": 2012,
+  "tipo": "Dissertação",
+  "titulo": "Contrinuições de uma unidade de aprendizagem sobre estatística com o recurso da planilha",
+  "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+  "cidade": "Porto Alegre",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Lorí Viali",
+  "programa": "Educação em Ciências e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "3",
+  "nivel": "Ensino Fundamental – anos finais",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "investigar as contribuições de uma Unidade de \nAprendizagem para a aplicação de conceitos estatísticos com o uso da planilha.",
+  "metodologia": "A análise partiu da identificação dos conhecimentos prévios dos \nalunos sobre conceitos estatísticos e a utilização do computador. A partir das \nrespostas obtidas em um questionário de investigação inicial, deu-se a elaboração e \norganização da Unidade de Aprendizagem. Com base nas observações da \nprofessora pesquisadora e na análise dos materiais produzidos pelos discentes, \ninvestigou-se como se dá a compreensão sobre os conceitos estatísticos por meio \nde uma Unidade de Aprendizagem com o uso da planilha.",
+  "contribuicoes": "Os resultados apontaram \npara uma evolução no nível de letramento estatístico dos estudantes participantes e \nse observou, também, mudanças positivas em termos comportamentais e de \nconvivência em grupo.",
+  "palavras_chave": "Ensino de Estatística. Unidade de Aprendizagem. Ensino com a \nplanilha.",
+  "referencial": "Vygotski",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Contrinui%C3%A7%C3%B5es+de+uma+unidade+de+aprendizagem+sobre+estat%C3%ADstica+com+o+recurso+da+planilha%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Contrinui%C3%A7%C3%B5es+de+uma+unidade+de+aprendizagem+sobre+estat%C3%ADstica+com+o+recurso+da+planilha&type=AllFields",
+    "texto_completo": "https://tede2.pucrs.br/tede2/bitstream/tede/3425/1/438965.pdf",
+    "registro_institucional": "http://tede2.pucrs.br/tede2/handle/tede/3425",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/P_RS_ad05a6215bdd38cc39afc3bdd069c258"
+  },
+  "capes": {
+    "status": "baixa_confianca",
+    "score": 0.445,
+    "candidato": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "CUNHA, M. L.",
+  "orientador_planilha": "Lorí Viali",
+  "instituicao_agente": "Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)",
+  "programa_agente": "Programa de Pós-Graduação em Educação em Ciências e Matemática",
+  "enriquecimento_manual": {
+    "fonte": "TEDE/PUCRS (registro completo) + BDTD + Catálogo CAPES",
+    "confianca": "alta",
+    "observacao": "Título correto no repositório: 'Contribuições de uma Unidade de Aprendizagem sobre estatística com o recurso da planilha' (o registro original traz 'Contrinuições'). Defesa em 30/03/2012; 93 f. CAPES confirma PUCRS, programa Educação em Ciências e Matemática, grau Mestrado."
+  },
+  "instituicao_planilha": "Pontifícia Universidade Católica do Rio Grande do Sul",
+  "programa_planilha": "Educação em Ciências e Matemática",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.991,
+    "id": "P_RS_ad05a6215bdd38cc39afc3bdd069c258",
+    "url": "http://tede2.pucrs.br/tede2/handle/tede/3425",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "EDUCAÇÃO",
+    "Ensino de Estatística",
+    "Unidade de Aprendizagem",
+    "Ensino com a planilha"
+  ],
+  "resumo": "A pesquisa de campo foi realizada com alunos do sexto ano do Ensino Fundamental, em uma escola municipal na periferia da região metropolitana de Porto Alegre, Rio Grande do Sul. A análise partiu da identificação dos conhecimentos prévios dos alunos sobre conceitos estatísticos e a utilização do computador. A partir das respostas obtidas em um questionário de investigação inicial, deu-se a elaboração e organização da Unidade de Aprendizagem. Com base nas observações da professora pesquisadora e na análise dos materiais produzidos pelos discentes, investigou-se como se dá a compreensão sobre os conceitos estatísticos por meio de uma Unidade de Aprendizagem com o uso da planilha. Os resultados apontaram para uma evolução no nível de letramento estatístico dos estudantes participantes e se observou, também, mudanças positivas em termos comportamentais e de convivência em grupo.This paper aims to analyze the contributions of a Learning Unit for the application of statistical concepts using the spreadsheet. The field research was conducted with students in their sixth year of elementary school in a school hall on the outskirts of the metropolitan area of Porto Alegre, Rio Grande do Sul. The analysis was the identification of students' prior knowledge of statistical concepts and computer use. From the responses received to a questionnaire given initial investigation is the preparation and organization of the Learning Unit. Based on observations of teacher and researcher in the analysis of the materials produced by students, we investigate how is the understanding of statistical concepts through a Learning Unit with the use of spreadsheet features. The results showed a trend in the level of statistical literacy of participating students, it also noted positive changes in behavioral terms and their relationships in the group.Pontifícia Universidade Católica do Rio Grande do SulFaculdade de FícaBRPUCRSPrograma de Pós-Graduação em Educação em Ciências e MatemáticaViali, Lorí",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/P_RS_ad05a6215bdd38cc39afc3bdd069c258",
+  "palavras_chave_bdtd": "EDUCAÇÃO",
+  "ano_bdtd": 2012,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica do Rio Grande do Sul Faculdade de Fíca BR PUCRS Programa de Pós-Graduação em Educação em Ciências e Matemática",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "P_RS_ad05a6215bdd38cc39afc3bdd069c258",
+    "url": "https://bdtd.ibict.br/vufind/Record/P_RS_ad05a6215bdd38cc39afc3bdd069c258",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/cunha-2012.svg"
+}

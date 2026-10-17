@@ -1,0 +1,80 @@
+{
+  "id": "rotunno-2007",
+  "autor": "Sandra Aparecida Martins Rotunno",
+  "ano": 2007,
+  "tipo": "Dissertação",
+  "titulo": "Estatística e probabilidade: um estudo sobre a inserção desses conteúdos no ensino fundamental",
+  "instituicao": "Universidade Federal do Paraná",
+  "cidade": "Curitiba",
+  "estado": "Paraná",
+  "regiao": "Sul",
+  "orientador": "Ademir Caldeira",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "11",
+  "nivel": "Ensino Fundamental (anos iniciais e finais)",
+  "foco_codigo": "5",
+  "foco": "Currículo e análise de conteúdo bibliográfico",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Probabilidade e Estatística",
+  "problema": "O presente estudo é resultado de uma investigação acerca da inclusão dos \nconteúdos de Estatística e Probabilidade no Ensino Fundamental, conforme \nsugerido pelos Parâmetros Curriculares Nacionais em 1995.",
+  "metodologia": "Na tentativa de responder que fatores \ncontribuíram para a escolha desses conteúdos no currículo, fez-se imprescindível \nlançar olhares ao contexto em que esse documento foi elaborado, bem como aos \nfatos que o precederam. Recorreu-se, ainda, a depoimentos de elaboradores e \nconsultores que participaram das Propostas Curriculares Estaduais da década de 80 \ne dos Parâmetros Curriculares Nacionais da década de 90.",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Estat%C3%ADstica+e+probabilidade%3A+um+estudo+sobre+a+inser%C3%A7%C3%A3o+desses+conte%C3%BAdos+no+ensino+fundamental%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estat%C3%ADstica+e+probabilidade%3A+um+estudo+sobre+a+inser%C3%A7%C3%A3o+desses+conte%C3%BAdos+no+ensino+fundamental&type=AllFields",
+    "registro_institucional": "https://hdl.handle.net/1884/12350",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UFPR_3cfcbb5da2fe54ecfc16ffdcbf011572"
+  },
+  "autor_planilha": "ROTUNNO, S. A. M.",
+  "orientador_planilha": "Ademir Caldeira",
+  "autor_capes": "Sandra Aparecida Martins Rotunno",
+  "programa_capes": "Educação",
+  "instituicao_capes": "Universidade Federal do Paraná",
+  "cidade_capes": "Curitiba",
+  "capes": {
+    "status": "ok",
+    "score": 0.992,
+    "id": "20075340001016001P0",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Matemática - Estudo e ensino; Estatistica educacional; Dissertações - Educação; Educação",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "UFPR_3cfcbb5da2fe54ecfc16ffdcbf011572",
+    "url": "https://hdl.handle.net/1884/12350",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Matemática - Estudo e ensino",
+    "Estatistica educacional",
+    "Dissertações - Educação",
+    "Educação"
+  ],
+  "ano_bdtd": 2007,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Não Informado pela instituição",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UFPR_3cfcbb5da2fe54ecfc16ffdcbf011572",
+    "url": "https://bdtd.ibict.br/vufind/Record/UFPR_3cfcbb5da2fe54ecfc16ffdcbf011572",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/rotunno-2007.svg",
+  "resumo": "O presente estudo é resultado de uma investigação acerca da inclusão dos conteúdos de Estatística e Probabilidade no Ensino Fundamental, conforme sugerido pelos Parâmetros Curriculares Nacionais em 1995. Tal documento reitera, insistentemente, que a inserção destes conteúdos na Educação Fundamental tem o objetivo de atender as necessidades da demanda social, cuja ênfase está na formação de um cidadão crítico. Estes temas não apenas foram inseridos no currículo, como também foram postos em evidência, em um eixo de estudos denominado \"Tratamento da Informação\". Na tentativa de responder que fatores contribuíram para a escolha desses conteúdos no currículo, fez-se imprescindível lançar olhares ao contexto em que esse documento foi elaborado, bem como aos fatos que o precederam. Recorreu-se, ainda, a depoimentos de elaboradores e consultores que participaram das Propostas Curriculares Estaduais da década de 80 e dos Parâmetros Curriculares Nacionais da década de 90. Conclui-se, ao final desta investigação, que a inserção desses temas não decorre apenas de uma demanda social e do desenvolvimento intelectual dos alunos, mas também de outros fatores, tais como: de reorganização do conhecimento escolar; da capacidade cognitiva do aluno e de influências políticas e estrangeiras.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UFPR_3cfcbb5da2fe54ecfc16ffdcbf011572",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/UFPR_3cfcbb5da2fe54ecfc16ffdcbf011572",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/UFPR_3cfcbb5da2fe54ecfc16ffdcbf011572",
+    "confianca": "alta"
+  }
+}

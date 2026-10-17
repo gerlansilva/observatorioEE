@@ -1,0 +1,83 @@
+{
+  "id": "rodrigues-2009",
+  "autor": "Corina Rodrigues",
+  "ano": 2009,
+  "tipo": "Dissertação",
+  "titulo": "Leitura e interpretação de gráficos e tabelas: um estudo comparativo sobre o desempenho de alunos de licenciatura em matemática, pedagogia e bachalelados em administração",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Sandra Maria Pinto Magina",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino de Matemática",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "10",
+  "foco": "Erros e dificuldades de aprendizagem",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Estatística",
+  "problema": "investigar quais são os conhecimentos básicos de um grupo de alunos dos cursos de licenciatura em matemática, pedagogia e bacharelado em administração com relação a leiture e interpretação de gráficos e tabelas estudados na disciplina de estatística",
+  "metodologia": "aplicação de um teste diagnóstico em 174 sujeitos divididos da seguinte forma: 72 sujeitos de lic. Em matemática, 48 sujeitos de pedagogia e 54 de bacharelado em administração. A pesquisa segue uma abordagem empírico-analítica com perspectiva descritiva. O tipo de coleta de dados segue os preceitos de uma pesquisa naturalista ou de campo e a análise dos resultados, uma análise quali-quantitativa",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Leitura+e+interpreta%C3%A7%C3%A3o+de+gr%C3%A1ficos+e+tabelas%3A+um+estudo+comparativo+sobre+o+desempenho+de+alunos+de+licenciatura+em+matem%C3%A1tica%2C+pedagogia+e+bachalelados+em+administra%C3%A7%C3%A3o%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Leitura+e+interpreta%C3%A7%C3%A3o+de+gr%C3%A1ficos+e+tabelas%3A+um+estudo+comparativo+sobre+o+desempenho+de+alunos+de+licenciatura+em+matem%C3%A1tica%2C+pedagogia+e+bachalelados+em+administra%C3%A7%C3%A3o&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/11417",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_371d534d5c904dffc15d52a91f40362d"
+  },
+  "autor_planilha": "RODRIGUES, C.",
+  "orientador_planilha": "Sandra Magina",
+  "autor_capes": "Corina Rodrigues",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "orientador_capes": "Sandra Maria Pinto Magina",
+  "capes": {
+    "status": "ok",
+    "score": 0.994,
+    "id": "20091833005010030P9",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Gráficos; Tabelas; Representação semiótica em estatística; Educação estatística; Estatistica; Estudo e ensino",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.993,
+    "id": "PUC_SP-1_371d534d5c904dffc15d52a91f40362d",
+    "url": "https://tede2.pucsp.br/handle/handle/11417",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Gráficos",
+    "Tabelas",
+    "Representação semiótica em estatística",
+    "Educação estatística",
+    "Estatistica",
+    "Estudo e ensino"
+  ],
+  "resumo": "A presente pesquisa investigou quais são os conhecimentos básicos de um grupo de alunos dos cursos de Licenciatura em Matemática, Pedagogia e bacharelado em Administração com relação à leitura e interpretação de gráficos e tabelas estudados na disciplina de Estatística. A escolha de investigar como a Estatística é ensinada na licenciatura em Matemática, dentre tantos cursos de licenciatura, deu-se por acreditarmos serem esses futuros professores de Matemática, os responsáveis por ensinar de uma forma mais analítica, a Estatística básica nas escolas. Os futuros Pedagogos, ao optarem pelo curso de Pedagogia, poderão introduzi-la nas escolas, porém de forma mais pictórica e menos analítica. O bacharelado em Administração foi escolhido por entendermos ser um curso que faz da Estatística básica uma disciplina de serviço , com ênfase na leitura e interpretação de gráficos e tabelas e pela aplicabilidade em sua carreira em contexto de usuário da Estatística. Tendo como hipótese que os alunos de Administração apresentariam melhor desempenho frente às situações que envolvem a leitura e interpretação de gráficos e tabelas do que os alunos de Licenciatura em Matemática e Pedagogia; aplicamos um teste diagnóstico em 174 sujeitos divididos da seguinte forma: 72 sujeitos de Licenciatura em Matemática, 48 sujeitos de Pedagogia e 54 de bacharelado em Administração. Quanto ao aspecto teórico-epistemológico nossa pesquisa segue uma abordagem empírico-analítica com perspectiva descritiva. O tipo de coleta segue os preceitos de uma pesquisa naturalista ou de campo e, a análise dos resultados, uma abordagem quali-quantitativa promovendo uma comparação entre os desempenhos dos três grupos. Essa análise nos evidenciou que os desempenhos dos sujeitos de Licenciatura em Matemática foram estatisticamente mais positivos que os desempenhos dos sujeitos de Administração e estes, mais positivos que os desempenhos dos sujeitos de Pedagogia, refutando nossa hipótese de pesquisa",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_371d534d5c904dffc15d52a91f40362d",
+  "ano_bdtd": 2009,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_371d534d5c904dffc15d52a91f40362d",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_371d534d5c904dffc15d52a91f40362d",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/rodrigues-2009.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_371d534d5c904dffc15d52a91f40362d",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_371d534d5c904dffc15d52a91f40362d",
+    "confianca": "alta"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "silva-2002",
+  "autor": "Ismael de Araujo Silva",
+  "ano": 2002,
+  "tipo": "Dissertação",
+  "titulo": "Probabilidades: a visão Laplaciana e a visão freqüentista na introdução do conceito",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Saddo Ag Almouloud",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Probabilidade",
+  "problema": "teve por objetivo o estudo e aplicação de uma sequência didática na qual os conceitos ou noções que conduzem à definição de probabilidades fossem abordados a partir de atividades ou situações-problema e as concepções frequentista e clássica pudessem ser integradas no ensino",
+  "metodologia": "Aplicação de uma sequência didática.",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "Chevallard: transposição didática; Michel Henry: situação-problema; Vergnaud: teoria dos campos conceituais",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Probabilidades%3A+a+vis%C3%A3o+Laplaciana+e+a+vis%C3%A3o+freq%C3%BCentista+na+introdu%C3%A7%C3%A3o+do+conceito%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Probabilidades%3A+a+vis%C3%A3o+Laplaciana+e+a+vis%C3%A3o+freq%C3%BCentista+na+introdu%C3%A7%C3%A3o+do+conceito&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/11188",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_30a12678dfa0d0b68842c6fd756db0b1"
+  },
+  "autor_planilha": "SILVA, I. A.",
+  "orientador_planilha": "Saddo Almouloud",
+  "autor_capes": "Ismael de Araujo Silva",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "orientador_capes": "Saddo Ag Almouloud",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20028433005010005P4",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Visao laplaciana; Visao frequentista; Educacao matematica; Matematica; Estudo e ensino; Probabilidades",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "PUC_SP-1_30a12678dfa0d0b68842c6fd756db0b1",
+    "url": "https://tede2.pucsp.br/handle/handle/11188",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Visao laplaciana",
+    "Visao frequentista",
+    "Educacao matematica",
+    "Matematica",
+    "Estudo e ensino",
+    "Probabilidades"
+  ],
+  "resumo": "Desde a sua origem, o conceito de probabilidades desenvolveu-se em múltiplas perspectivas: concretamente, a probabilidade de um acontecimento ou de um fenômeno tem sido concebida numa vertente clássica ou laplaciana (baseada na \"Lei de Laplace\"), numa vertente freqüentista (baseada na \"Lei dos Grandes Números\" de Jacques Bernoulli) e numa vertente pessoal ou subjetiva. Esta dissertação de mestrado teve por objetivo o estudo e aplicação de uma seqüência didática na qual os conceitos ou noções que conduzem à definição de probabilidades fossem abordados a partir de atividades ou situações-problema e as concepções freqüentista e clássica de probabilidade pudessem ser integradas no ensino tendo em vista uma aprendizagem mais profunda e significativa em termos de compreensão e aplicação das probabilidades. A partir do estabelecimento de uma fundamentação teórica e de uma metodologia de pesquisa, dos estudos da História, da Epistemologia e da Transposição Didática, estabelecemos nossa problemática, hipóteses e objetivos de pesquisa. Aplicamos, então, uma seqüência didática com o intuito de atingirmos nossos objetivos de pesquisa. Em seguida, elaboramos nossas conclusões e apresentamos uma bibliografia de nossa pesquisa seguida do questionário aplicado no teste piloto",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_30a12678dfa0d0b68842c6fd756db0b1/Details",
+  "ano_bdtd": 2002,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_30a12678dfa0d0b68842c6fd756db0b1",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_30a12678dfa0d0b68842c6fd756db0b1",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/silva-2002.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_30a12678dfa0d0b68842c6fd756db0b1/Details",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_30a12678dfa0d0b68842c6fd756db0b1/Details",
+    "confianca": "alta"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "mendonca-2012",
+  "autor": "Washington de Mendonça",
+  "ano": 2012,
+  "tipo": "Dissertação",
+  "titulo": "Autorregulação de estratégias de aprendizagem de estatística e a sua relação com o nível de letramento estatístico : um estudo com estudantes universitários",
+  "instituicao": "Universidade Bandeirantes de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Maria Helena Palma de Oliveira",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "",
+  "foco": "Não informado",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Autorregula%C3%A7%C3%A3o+de+estrat%C3%A9gias+de+aprendizagem+de+estat%C3%ADstica+e+a+sua+rela%C3%A7%C3%A3o+com+o+n%C3%ADvel+de+letramento+estat%C3%ADstico+%3A+um+estudo+com+estudantes+universit%C3%A1rios%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Autorregula%C3%A7%C3%A3o+de+estrat%C3%A9gias+de+aprendizagem+de+estat%C3%ADstica+e+a+sua+rela%C3%A7%C3%A3o+com+o+n%C3%ADvel+de+letramento+estat%C3%ADstico+%3A+um+estudo+com+estudantes+universit%C3%A1rios&type=AllFields"
+  },
+  "autor_planilha": "MENDONÇA, W.",
+  "orientador_planilha": "Maria de Oliveira",
+  "autor_capes": "Washington de Mendonça",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Universidade Anhanguera de São Paulo",
+  "cidade_capes": "São Paulo",
+  "orientador_capes": "Maria Helena Palma de Oliveira",
+  "capes": {
+    "status": "ok",
+    "score": 0.897,
+    "id": "20122233107017003P8",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.518
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/mendonca-2012.svg"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "rodrigues-2009-2",
+  "autor": "Chang Kuo Rodrigues",
+  "ano": 2009,
+  "tipo": "Tese",
+  "titulo": "O Teorema Central do Limite: um estudo ecológico do saber e do didático.",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Cileda de Queiroz e Silva Coutinho",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "Probabilidade",
+  "problema": "construir ideias e conceitos matemáticos e/ou estatísticos em torno do teorema central do limite para os licenciandos de matemática",
+  "metodologia": "Os procedimentos metodológicos estão ligados ao design didático, já que a investigação tem o cunho qualitativo e cujos pressupostos estão ligados à engenharia didática. Os sujeitos da investigação são licenciandos em matemática.",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "Chevallard: transposição didática; Engenharia didática; Análise de textos a luz da teoria antropológica do didático",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O+Teorema+Central+do+Limite%3A+um+estudo+ecol%C3%B3gico+do+saber+e+do+did%C3%A1tico.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+Teorema+Central+do+Limite%3A+um+estudo+ecol%C3%B3gico+do+saber+e+do+did%C3%A1tico.&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/11426",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_0bb54f4c9bf58dd70a8926d19d2c587d"
+  },
+  "autor_planilha": "RODRIGUES, C. K.",
+  "orientador_planilha": "Cileda Coutinho",
+  "autor_capes": "CHANG KUO RODRIGUES",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "orientador_capes": "Cileda de Queiroz e Silva Coutinho",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20093533005010005P4",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Teorema central do limite; Ensino de estatística; Inferência estatística; Estatistica; Estudo e ensino; Matematica",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "PUC_SP-1_0bb54f4c9bf58dd70a8926d19d2c587d",
+    "url": "https://tede2.pucsp.br/handle/handle/11426",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Teorema central do limite",
+    "Ensino de estatística",
+    "Inferência estatística",
+    "Estatistica",
+    "Estudo e ensino",
+    "Matematica"
+  ],
+  "resumo": "O presente trabalho refere-se à construção das ideias e dos conceitos matemáticos e/ou estatísticos em torno do Teorema Central do Limite para os Licenciandos de Matemática. O cerne da investigação limita-se à importância do teorema na Inferência Estatística e à sua compreensão pelos futuros profissionais que atuarão na Educação Básica. Nesse sentido, optamos por revisar algumas bibliografias que têm relação com o processo de ensino e de aprendizagem do teorema e enfatizamos sua importância na pratica do dia a dia do professor de Matemática. O quadro teórico incide sobre as teorias da Didática da Matemática, particularmente, a Teoria da Transposição Didática (CHEVALLARD, 1985), munido de uma abordagem ecológica sob o ponto de vista do saber e do didático (ARTAUD, 1998). Optamos por procedimentos metodológicos voltados para o design didático (ARTIGUE, 2009), de cunho qualitativo e, cujos pressupostos estão aliados à Engenharia Didática (ARTIGUE, 1988). Os sujeitos dessa investigação são os licenciandos que já predispunham de conhecimentos sobre a Estatística Básica e, a partir de uma análise prévia sobre que tipos de conhecimento eles já detinham sobre o tema, apresentamos algumas atividades no contexto de uma situação-problema pertinente ao cotidiano dos professores de Matemática. A análise desses resultados nos propiciou interrelacionar as problemáticas existentes na disciplina de Matemática com alunos da Educação Básica, envolvendo assim, a literacia estatística. Após a realização dessas atividades, ocorreu também um diálogo, com discussões acerca do tema, o que nos permitiu analisar como foram construídos as ideias e os conceitos no entorno do Teorema Central do Limite, de modo que sua compreensão fosse o principal alvo para os licenciandos. Além disso, analisamos alguns livrostexto do ensino superior, à luz da Teoria Antropológica do Didático (CHEVALLARD, 1996, 1999), o que também nos indicou que saberes são indispensáveis de modo que o teorema viva , já que a abordagem é sob o ponto de vista ecológico do saber e do didático. Por outro lado, detectamos que tipos de limitações, ou restrições, existem nas obras consultadas, interferindo assim, a elaboração das atividades por parte do professor. Portanto, a nossa investigação reitera a importância do ensino e da aprendizagem da Estatística nas diversas aplicações na formação dos futuros professores de Matemática num mundo ditado pelos avanços tecnológicos, que interferem diretamente na leitura de informações que recebemos a todo instante",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_0bb54f4c9bf58dd70a8926d19d2c587d",
+  "ano_bdtd": 2009,
+  "tipo_bdtd": "Tese",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_0bb54f4c9bf58dd70a8926d19d2c587d",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_0bb54f4c9bf58dd70a8926d19d2c587d",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/rodrigues-2009-2.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_0bb54f4c9bf58dd70a8926d19d2c587d",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_0bb54f4c9bf58dd70a8926d19d2c587d",
+    "confianca": "alta"
+  }
+}

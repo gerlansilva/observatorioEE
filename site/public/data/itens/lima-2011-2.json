@@ -1,0 +1,80 @@
+{
+  "id": "lima-2011-2",
+  "autor": "Tereza Raquel Couto de Lima",
+  "ano": 2011,
+  "tipo": "Tese",
+  "titulo": "Ensinando e aprendendo análise combinatória através da leitura e resolução de problemas e da construção de enunciados",
+  "instituicao": "Pontifícia Universidade Católica de Minas Gerais",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Dimas Felipe de Miranda",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MP",
+  "grau": "Doutorado",
+  "conteudo": "Combinatória",
+  "problema": "propor atividades de ensino na qual o uso de fórmulas \nnão é privilegiado",
+  "metodologia": "Analisamos os Parâmetros Curriculares Nacionais para o Ensino Médio, além de \ndiversos livros didáticos e pesquisas sobre o tema. A pesquisa foi desenvolvida em uma turma \nde segunda série do Ensino Médio de uma escola da rede pública de ensino do estado de \nMinas Gerais, no ano de 2010. A coleta de dados se deu por meio de anotações, feitas pela \nprofessora pesquisadora e registros produzidos pelos alunos ao longo das aulas.",
+  "contribuicoes": "Com esta \npesquisa, pudemos verificar que o estudo de análise combinatória, sem a preocupação \nexcessiva com o uso de fórmulas, contribui para o desenvolvimento de habilidades para lidar \ncom os problemas. Ao desenvolver habilidades na criação de enunciados de problemas, os \nestudantes tornam-se mais autônomos e seguros, sendo capazes de propor soluções por \ndiferentes caminhos às questões propostas.",
+  "palavras_chave": "",
+  "referencial": "Duval: teoria dos registros de representação semiótica; João Pedro da Ponte: teoria das investigações matemáticas; George polya: teoria de resolução de problemas; Mercedes Carvalho: teoria leitura, interpretação e construção de enunciados",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Ensinando+e+aprendendo+an%C3%A1lise+combinat%C3%B3ria+atrav%C3%A9s+da+leitura+e+resolu%C3%A7%C3%A3o+de+problemas+e+da+constru%C3%A7%C3%A3o+de+enunciados%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Ensinando+e+aprendendo+an%C3%A1lise+combinat%C3%B3ria+atrav%C3%A9s+da+leitura+e+resolu%C3%A7%C3%A3o+de+problemas+e+da+constru%C3%A7%C3%A3o+de+enunciados&type=AllFields",
+    "texto_completo": "http://bib.pucminas.br/teses/EnCiMat_LimaTRC_1.pdf",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_MINS_e8a523387c3b507c08286b614f989af7"
+  },
+  "autor_planilha": "LIMA, T. R. C.",
+  "orientador_planilha": "Dimas Miranda",
+  "autor_capes": "Tereza Raquel Couto de Lima",
+  "programa_capes": "Ensino",
+  "instituicao_capes": "Pontifícia Universidade Católica de Minas Gerais",
+  "cidade_capes": "Belo Horizonte",
+  "orientador_capes": "Dimas Felipe de Miranda",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20111832008015013P0",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Matemática -; Análise combinatória -; Aprendizagem baseada em problemas",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "PUC_MINS_e8a523387c3b507c08286b614f989af7",
+    "url": "http://bib.pucminas.br/teses/EnCiMat_LimaTRC_1.pdf",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Raciocínio combinatório, resolução de problemas e construção de enunciados",
+    "Matemática -",
+    "Análise combinatória -",
+    "Aprendizagem baseada em problemas"
+  ],
+  "ano_bdtd": 2011,
+  "tipo_bdtd": "Tese",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_MINS_e8a523387c3b507c08286b614f989af7",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_MINS_e8a523387c3b507c08286b614f989af7",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/lima-2011-2.svg",
+  "resumo": "Esta pesquisa originou-se a partir de questionamentos da pesquisadora ao lecionar especialmente a parte introdutória de análise combinatória, conforme as diretrizes metodológicas dos livros didáticos adotados. Com o intuito de suavizar as dificuldades encontradas pelos estudantes elaboramos um conjunto de atividades na qual o uso de fórmulas não é privilegiado. Nestas atividades os alunos devem ler, interpretar e resolver problemas, além de criar diversos enunciados para situações problemas que envolvem este conteúdo. O referencial teórico e metodológico é constituído pela teoria dos registros de representação semiótica, propostas por Raymond Duval; pela teoria das Investigações matemáticas, propostas por João Pedro da Ponte; pela teoria de Resolução de Problemas, de George Polya; e pela teoria de Leitura, Interpretação e Construção de Enunciados, encontrada em Mercedes Carvalho. Analisamos os Parâmetros Curriculares Nacionais para o Ensino Médio, além de diversos livros didáticos e pesquisas sobre o tema. A pesquisa foi desenvolvida em uma turma de segunda série do Ensino Médio de uma escola da rede pública de ensino do estado de Minas Gerais, no ano de 2010. A coleta de dados se deu por meio de anotações, feitas pela professora pesquisadora e registros produzidos pelos alunos ao longo das aulas. Com esta pesquisa, pudemos verificar que o estudo de análise combinatória, sem a preocupação excessiva com o uso de fórmulas, contribui para o desenvolvimento de habilidades para lidar com os problemas. Ao desenvolver habilidades na criação de enunciados de problemas, os estudantes tornam-se mais autônomos e seguros, sendo capazes de propor soluções por diferentes caminhos às questões propostas.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bib.pucminas.br/teses/EnCiMat_LimaTRC_1.pdf",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bib.pucminas.br/teses/EnCiMat_LimaTRC_1.pdf",
+    "fonte_palavras": "https://bib.pucminas.br/teses/EnCiMat_LimaTRC_1.pdf",
+    "confianca": "alta"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "raymundo-2009",
+  "autor": "Carlos Eduardo Raymundo",
+  "ano": 2009,
+  "tipo": "Dissertação",
+  "titulo": "Desenvolvimento de material instrucional com enfoque construtivista para cursos de bioestatística aplicada à análise epidemiológica usando o R",
+  "instituicao": "Universidade do Estado do Rio de Janeiro",
+  "cidade": "Rio de Janeiro",
+  "estado": "Rio de Janeiro",
+  "regiao": "Sudeste",
+  "orientador": "Michael Eduardo Reichenheim",
+  "programa": "Saúde Coletiva",
+  "area": "Outros",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "3",
+  "foco": "TICs, materiais e recursos didáticos",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "desenvolver material didático em R para os cursos de bioestatística aplicada à análise epidemiológica",
+  "metodologia": "a base teórico-pedagógica foi definida a partir dos princípios construtivistas, na qual o indivíduo é ativo e crítico de seu próprio conhecimento. E, à ótica construtivista, seguiu-se a metodologia de ensino da problematização, abrangendo problemas oriundos de situações reais e sistematizados por escrito. Os métodos computacionais foram baseados na Novas Tecnologias de Informação e da Comunicação (NTIC)",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "Teoria construtivista",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Desenvolvimento+de+material+instrucional+com+enfoque+construtivista+para+cursos+de+bioestat%C3%ADstica+aplicada+%C3%A0+an%C3%A1lise+epidemiol%C3%B3gica+usando+o+R%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Desenvolvimento+de+material+instrucional+com+enfoque+construtivista+para+cursos+de+bioestat%C3%ADstica+aplicada+%C3%A0+an%C3%A1lise+epidemiol%C3%B3gica+usando+o+R&type=AllFields",
+    "registro_institucional": "http://www.bdtd.uerj.br/handle/1/4184",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UERJ_db0f951ba37977fae5093d63c7426d05"
+  },
+  "autor_planilha": "RAYMUNDO, C. E.",
+  "orientador_planilha": "Michael Reichenhein",
+  "autor_capes": "Carlos Eduardo Raymundo",
+  "programa_capes": "Saúde Coletiva",
+  "instituicao_capes": "Universidade do Estado do Rio de Janeiro",
+  "cidade_capes": "Rio de Janeiro",
+  "orientador_capes": "Michael Eduardo Reichenheim",
+  "capes": {
+    "status": "ok",
+    "score": 0.995,
+    "id": "20091031004016004P2",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Construtivismo; Ensino em epidemiologia; Análise estatística; Material didático",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.994,
+    "id": "UERJ_db0f951ba37977fae5093d63c7426d05",
+    "url": "http://www.bdtd.uerj.br/handle/1/4184",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Construtivismo",
+    "Ensino em epidemiologia",
+    "Análise estatística",
+    "Material didático"
+  ],
+  "resumo": "Os recentes avanços tecnológicos fizeram aumentar o nível de qualificação do pesquisador em epidemiologia. A importância do papel estratégico da educação não pode ser ignorada. Todavia, a Associação Brasileira de Pós-graduação em Saúde Coletiva (ABRASCO), no seu último plano diretor (2005-2009), aponta uma pequena valorização na produção de material didático-pedagógico e, ainda, a falta de uma política de desenvolvimento e utilização de software livre no ensino da epidemiologia. É oportuno, portanto, investir em uma perspectiva relacional, na linha do que a corrente construtivista propõe, uma vez que esta teoria tem sido reconhecida como a mais adequada no desenvolvimento de materiais didáticos informatizados. Neste sentido, promover cursos interativos e, no bojo destes, desenvolver material didático conexo é oportuno e profícuo. No âmbito da questão política de desenvolvimento e utilização de software livre no ensino da epidemiologia, particularmente em estatística aplicada, o R tem se mostrado um software de interesse emergente. Ademais, não só porque evita possíveis penalizações por utilização de software comercial sem licença, mas também porque o franco acesso aos códigos e programação o torna uma ferramenta excelente para a elaboração de material didático em forma de hiperdocumentos, importantes alicerces para uma tão desejada interação docentediscente em sala de aula. O principal objetivo é desenvolver material didático em R para os cursos de bioestatística aplicada à análise epidemiológica. Devido a não implementação de certas funções estatísticas no R, também foi incluída a programação de funções adicionais. Os cursos empregados no desenvolvimento desse material fundamentaram-se nas disciplinas Uma introdução à Plataforma R para Modelagem Estatística de Dados e Instrumento de Aferição em Epidemiologia I: Teoria Clássica de Medidas (Análise) vinculadas ao departamento de Epidemiologia, Instituto de Medicina Social (IMS) da Universidade do Estado do Rio de Janeiro (UERJ). A base teórico-pedagógica foi definida a partir dos princípios construtivistas, na qual o indivíduo é agente ativo e crítico de seu próprio conhecimento, construindo significados a partir de experiências próprias. E, à ótica construtivista, seguiu-se a metodologia de ensino da problematização, abrangendo problemas oriundos de situações reais e sistematizados por escrito. Já os métodos computacionais foram baseados nas Novas Tecnologias da Informação e Comunicação (NTIC). As NTIC s exploram a busca pela consolidação de currículos mais flexíveis, adaptados às características diferenciadas de aprendizagem dos alunos. A implementação das NTIC s foi feita através de hipertexto, que é uma estrutura de textos interligados por nós ou vínculos ( links ), formando uma rede de informações relacionadas. Durante a concepção do material didático, foram realizadas mudanças na interface básica do sistema de ajuda do R para garantir a interatividade aluno-material. O próprio instrutivo é composto por blocos, que incentivam a discussão e a troca de informações entre professor e alunos.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UERJ_db0f951ba37977fae5093d63c7426d05",
+  "ano_bdtd": 2009,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Universidade do Estado do Rio de Janeiro",
+  "programa_bdtd": "Programa de Pós-Graduação em Saúde Coletiva",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UERJ_db0f951ba37977fae5093d63c7426d05",
+    "url": "https://bdtd.ibict.br/vufind/Record/UERJ_db0f951ba37977fae5093d63c7426d05",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/raymundo-2009.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/UERJ_db0f951ba37977fae5093d63c7426d05",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/UERJ_db0f951ba37977fae5093d63c7426d05",
+    "confianca": "alta"
+  }
+}

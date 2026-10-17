@@ -1,0 +1,83 @@
+{
+  "id": "miranda-2008",
+  "autor": "Mara Lúcia de Miranda",
+  "ano": 2008,
+  "tipo": "Tese",
+  "titulo": "Correlação e regressão em curso de engenharia: uma abordagem com foco na leitura e interpretação de dados",
+  "instituicao": "Pontifícia Universidade Católica de Minas Gerais",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Maria Clara Rezende Frota",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MP",
+  "grau": "Doutorado",
+  "conteudo": "Estatística",
+  "problema": "Esse trabalho investigou possibilidades de uma abordagem \nmetodológica para o ensino-aprendizagem de correlação e regressão, com \nbase nos trabalhos de Batanero e colaboradores (1994, 1995, 1996, 2001)",
+  "metodologia": "O \ntópico estatístico foi discutido a partir de um enfoque intuitivo, com ênfase no \ndesenvolvimento dos níveis de compreensão de leitura de dados apresentados \nna forma de gráficos e tabelas, propostos por Curcio (1987). Foram sujeitos da \npesquisa, alunos do quarto período de um curso de Engenharia, de uma \ninstituição particular de ensino de Belo Horizonte, Minas Gerais. Na pesquisa, \nde caráter qualitativo, foram elaboradas e aplicadas duas seqüências de \natividades, envolvendo o conteúdo correlação e regressão, além da análise \ndesse assunto em quatro livros didáticos.",
+  "contribuicoes": "Os resultados apontam que \natividades desenhadas numa linha investigativa a partir de uma abordagem \ninicial intuitiva do tema correlação e regressão, utilizando gráficos e tabelas, \npodem contribuir de forma significativa para o entendimento e a formalização \ndas idéias estatísticas. A proposta de abordagem do tema, em cursos de \nengenharia, que integra esse trabalho, amplia as seqüências de atividades \ntestadas em sala, oferecendo novas possibilidades para uma abordagem \nintrodutória do tema correlação e regressão.",
+  "palavras_chave": "",
+  "referencial": "abordagem \nmetodológica para o ensino-aprendizagem de correlação e regressão, com \nbase nos trabalhos de Batanero e colaboradores (1994, 1995, 1996, 2001), com ênfase no \ndesenvolvimento dos níveis de compreensão de leitura de dados apresentados \nna forma de gráficos e tabelas, propostos por Curcio (1987).",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Correla%C3%A7%C3%A3o+e+regress%C3%A3o+em+curso+de+engenharia%3A+uma+abordagem+com+foco+na+leitura+e+interpreta%C3%A7%C3%A3o+de+dados%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Correla%C3%A7%C3%A3o+e+regress%C3%A3o+em+curso+de+engenharia%3A+uma+abordagem+com+foco+na+leitura+e+interpreta%C3%A7%C3%A3o+de+dados&type=AllFields",
+    "texto_completo": "http://bib.pucminas.br/teses/EnCiMat_MirandaML_1r.pdf",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_MINS_002ce0b3f181ca585107af52ba58b341"
+  },
+  "autor_planilha": "MIRANDA, M. L.",
+  "orientador_planilha": "Maria Frota",
+  "autor_capes": "Mara Lúcia de Miranda",
+  "programa_capes": "Ensino",
+  "instituicao_capes": "Pontifícia Universidade Católica de Minas Gerais",
+  "cidade_capes": "Belo Horizonte",
+  "orientador_capes": "Maria Clara Rezende Frota",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20082532008015013P0",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Estatística -; Correlação (Estatística) -; Análise de regressão -; Modelos lineares (Estatística)",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "PUC_MINS_002ce0b3f181ca585107af52ba58b341",
+    "url": "http://bib.pucminas.br/teses/EnCiMat_MirandaML_1r.pdf",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Ensino–aprendizagem de Estatística",
+    "Correlação e regressão linear",
+    "leitura e interpretação de dados",
+    "Estatística -",
+    "Correlação (Estatística) -",
+    "Análise de regressão -",
+    "Modelos lineares (Estatística)"
+  ],
+  "ano_bdtd": 2008,
+  "tipo_bdtd": "Tese",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_MINS_002ce0b3f181ca585107af52ba58b341",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_MINS_002ce0b3f181ca585107af52ba58b341",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/miranda-2008.svg",
+  "resumo": "Esse trabalho investigou possibilidades de uma abordagem metodológica para o ensino-aprendizagem de correlação e regressão, com base nos trabalhos de Batanero e colaboradores (1994, 1995, 1996, 2001). O tópico estatístico foi discutido a partir de um enfoque intuitivo, com ênfase no desenvolvimento dos níveis de compreensão de leitura de dados apresentados na forma de gráficos e tabelas, propostos por Curcio (1987). Foram sujeitos da pesquisa, alunos do quarto período de um curso de Engenharia, de uma instituição particular de ensino de Belo Horizonte, Minas Gerais. Na pesquisa, de caráter qualitativo, foram elaboradas e aplicadas duas seqüências de atividades, envolvendo o conteúdo correlação e regressão, além da análise desse assunto em quatro livros didáticos. Os resultados apontam que atividades desenhadas numa linha investigativa a partir de uma abordagem inicial intuitiva do tema correlação e regressão, utilizando gráficos e tabelas, podem contribuir de forma significativa para o entendimento e a formalização das idéias estatísticas. A proposta de abordagem do tema, em cursos de engenharia, que integra esse trabalho, amplia as seqüências de atividades testadas em sala, oferecendo novas possibilidades para uma abordagem introdutória do tema correlação e regressão.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bib.pucminas.br/teses/EnCiMat_MirandaML_1r.pdf",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bib.pucminas.br/teses/EnCiMat_MirandaML_1r.pdf",
+    "fonte_palavras": "https://bib.pucminas.br/teses/EnCiMat_MirandaML_1r.pdf",
+    "confianca": "alta"
+  }
+}

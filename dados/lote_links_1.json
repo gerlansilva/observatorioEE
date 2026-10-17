@@ -1,0 +1,170 @@
+[
+  {
+    "id": "almeida-2010-2",
+    "titulo": "Análise de um instrumento de letramento estatístico para o ensino fundamental II",
+    "autor": "Cátia Cândida de Almeida",
+    "ano": 2010,
+    "instituicao": "Universidade Bandeirantes de São Paulo",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "barrizon-2011",
+    "titulo": "Adaptação e validação de uma escala de autorregulação das estratégias de aprendizagem de estatística de estudantes da terceira série do ensino médio de são paulo",
+    "autor": "Erliete Barizon",
+    "ano": 2011,
+    "instituicao": "Universidade Bandeirantes de São Paulo",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "contini-neto-2012",
+    "titulo": "Autorregulação de estratégias de memória na aprendizagem de estatística e os níveis de letramento estatístico de estudantes de ensino médio de escolas estaduais de são paulo",
+    "autor": "Florindo Contini Neto",
+    "ano": 2012,
+    "instituicao": "Universidade Bandeirantes de São Paulo",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "correa-neto-2010",
+    "titulo": "Distribuição binomial: um experimento de ensino utilizando o software R com foco nos registros de representação semiótica",
+    "autor": "Pedro Marques Corrêa Neto",
+    "ano": 2010,
+    "instituicao": "Universidade Bandeirantes de São Paulo",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "evangelista-2010",
+    "titulo": "O raciocínio combinatório e probabilístico de alunos do 6º ano do ensino fundamental",
+    "autor": "Francisco Evangelista Sobrinho",
+    "ano": 2010,
+    "instituicao": "Universidade Cruzeiro do Sul",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "ferreira-2011",
+    "titulo": "Ensino de probabilidade com o uso do programa estatístico R numa perspectiva construcionista",
+    "autor": "Robson dos Santos Ferreira",
+    "ano": 2011,
+    "instituicao": "Universidade Bandeirantes de São Paulo",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "freitas-2010-2",
+    "titulo": "O software estocático como suporte lúdico-investigativo à cultura infantil",
+    "autor": "Nilton de Freitas",
+    "ano": 2010,
+    "instituicao": "Universidade Cruzeiro do Sul",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "fujii-2006",
+    "titulo": "Modelagem e sequenciamento de objetos de aprendizagem de estatística",
+    "autor": "N. P. N. Fujii",
+    "ano": 2006,
+    "instituicao": "Universidade Cruzeiro do Sul",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "lugli-2011",
+    "titulo": "A Análise de Dados e a Probabilidade nas Avaliações Externas para o Ensino Médio: ENEM e SARESP",
+    "autor": "Luciana de Castro Lugli",
+    "ano": 2011,
+    "instituicao": "Universidade Cruzeiro do Sul",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "meirelles-2006",
+    "titulo": "A intervenção docente na aprendizagem de estatística e probabilidade",
+    "autor": "Elaine Cristina Soares Meirelles",
+    "ano": 2006,
+    "instituicao": "Universidade Cruzeiro do Sul",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "mendonca-2008",
+    "titulo": "A Educação Estatística em ambiente de Modelagem Matemática no Ensino Médio",
+    "autor": "Luzinete de Oliveira Mendonça",
+    "ano": 2008,
+    "instituicao": "Universidade Cruzeiro do Sul",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "mendonca-2012",
+    "titulo": "Autorregulação de estratégias de aprendizagem de estatística e a sua relação com o nível de letramento estatístico : um estudo com estudantes universitários",
+    "autor": "Washington de Mendonça",
+    "ano": 2012,
+    "instituicao": "Universidade Bandeirantes de São Paulo",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "petta-2001",
+    "titulo": "Tecnologia aplicada ao processo de ensino-aprendizagem de estatística na graduação",
+    "autor": "J. H. S. Petta",
+    "ano": 2001,
+    "instituicao": "Universidade Bandeirantes de São Paulo",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "santos-2011-2",
+    "titulo": "Uma abordagem do ensino de análise combinatória sob a ótica da resolução de problemas",
+    "autor": "Rafael Henrique dos Santos",
+    "ano": 2011,
+    "instituicao": "Universidade Cruzeiro do Sul",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "silveira-2010",
+    "titulo": "Elaboração e validação de uma escala de atitudes em relação à Estatística para o ensino médio.",
+    "autor": "Elvis Miranda Silveira",
+    "ano": 2011,
+    "instituicao": "Universidade Bandeirantes de São Paulo",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "sobrinho-2010",
+    "titulo": "O raciocínio combinatório e probabilístico de alunos do 6o. ano do Ensino Fundamental",
+    "autor": "Francisco Evangelista Sobrinho",
+    "ano": 2010,
+    "instituicao": "Universidade Cruzeiro do Sul",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "souza-2007",
+    "titulo": "Educação Estatística na Infância",
+    "autor": "Antonio Carlos de Souza",
+    "ano": 2007,
+    "instituicao": "Universidade Cruzeiro do Sul",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "souza-2009",
+    "titulo": "A Educação Estatística no Ensino Fundamental e os Recursos Tecnológicos",
+    "autor": "Leandro de Oliveira Souza",
+    "ano": 2009,
+    "instituicao": "Universidade Cruzeiro do Sul",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "teixeira-2012",
+    "titulo": "Um estudo sobre os conhecimentos necessários ao professor de matemática para a exploração de problemas de contagem no Ensino Fundamental",
+    "autor": "Paulo Jorge Magalhães Teixeira",
+    "ano": 2012,
+    "instituicao": "Universidade Bandeirantes de São Paulo",
+    "tipo": "Tese"
+  },
+  {
+    "id": "tonouti-2011",
+    "titulo": "Estudo sobre probabilidade e risco no ensino fundamental I",
+    "autor": "R. R. Tonouti",
+    "ano": 2011,
+    "instituicao": "Universidade Bandeirantes de São Paulo",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "zequim-2010",
+    "titulo": "Impacto do uso do AVALE para o ensino de estatística na educação básica",
+    "autor": "A. M. Zequim",
+    "ano": 2010,
+    "instituicao": "Universidade Bandeirantes de São Paulo",
+    "tipo": "Dissertação"
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "basseti-2012",
+  "autor": "Adriana Vieira Basseti",
+  "ano": 2012,
+  "tipo": "Dissertação",
+  "titulo": "Organização, representação e interpretação na construção de gráficos por alunos de 6º e 7º anos do ensino fundamental",
+  "instituicao": "Universidade Bandeirantes de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Maria Helena Palma de Oliveira",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Organiza%C3%A7%C3%A3o%2C+representa%C3%A7%C3%A3o+e+interpreta%C3%A7%C3%A3o+na+constru%C3%A7%C3%A3o+de+gr%C3%A1ficos+por+alunos+de+6%C2%BA+e+7%C2%BA+anos+do+ensino+fundamental%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Organiza%C3%A7%C3%A3o%2C+representa%C3%A7%C3%A3o+e+interpreta%C3%A7%C3%A3o+na+constru%C3%A7%C3%A3o+de+gr%C3%A1ficos+por+alunos+de+6%C2%BA+e+7%C2%BA+anos+do+ensino+fundamental&type=AllFields",
+    "texto_completo": "https://repositorio.pgsscogna.com.br/bitstream/123456789/3505/1/ADRIANA%20VIEIRA%20BASSETI.pdf",
+    "registro_institucional": "https://repositorio.pgsscogna.com.br/handle/123456789/3505"
+  },
+  "capes": {
+    "status": "baixa_confianca",
+    "score": 0.619,
+    "candidato": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "BASSETI, A. V.",
+  "orientador_planilha": "Maria de Oliveira",
+  "instituicao_agente": "Universidade Bandeirante de São Paulo (UNIBAN)",
+  "instituicao_planilha": "Universidade Bandeirantes de São Paulo",
+  "programa_agente": "Mestrado Acadêmico em Educação Matemática",
+  "programa_planilha": "Educação Matemática",
+  "enriquecimento_manual": {
+    "fonte": "Repositório institucional (repositorio.pgsscogna.com.br, acervo UNIBAN/Anhanguera) e Currículo Lattes da orientadora (via Escavador)",
+    "confianca": "alta",
+    "observacao": "PDF do repositório confirma autoria, título, ano (2012, 139 f.) e instituição. Título idêntico ao do registro. O nome da IES aparece também como 'Universidade Anhanguera de São Paulo' após a reorganização institucional, mas o grau foi obtido na UNIBAN."
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/basseti-2012.svg",
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.544
+  }
+}

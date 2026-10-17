@@ -1,0 +1,73 @@
+{
+  "id": "lima-2010",
+  "autor": "Izauriana Borges Lima",
+  "ano": 2010,
+  "tipo": "Dissertação",
+  "titulo": "Investigando o desempenho de jovens e adultos na construção e interpretação de gráficos",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Ana Selva",
+  "programa": "Educação Matemática e Tecnológica",
+  "area": "Educação Matemática",
+  "nivel_codigo": "10",
+  "nivel": "EJA – Fundamental e Médio",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "analisar estudantes de EJA resolvendo atividades de construção e interpretação de gráficos",
+  "metodologia": "Os alunos resolveram atividades elaboradas segundo critérios pré-estabelecidos e os resultados foram avaliados",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Investigando+o+desempenho+de+jovens+e+adultos+na+constru%C3%A7%C3%A3o+e+interpreta%C3%A7%C3%A3o+de+gr%C3%A1ficos%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Investigando+o+desempenho+de+jovens+e+adultos+na+constru%C3%A7%C3%A3o+e+interpreta%C3%A7%C3%A3o+de+gr%C3%A1ficos&type=AllFields",
+    "registro_institucional": "https://repositorio.ufpe.br/handle/123456789/3931",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UFPE_431d9348cca00d05a14c02da7ce20601"
+  },
+  "autor_planilha": "LIMA, I. B.",
+  "orientador_planilha": "Ana Selva",
+  "autor_capes": "IZAURIANA BORGES LIMA",
+  "programa_capes": "Educação Matemática e Tecnológica",
+  "instituicao_capes": "Universidade Federal de Pernambuco",
+  "cidade_capes": "Recife",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "2010225001019069P0",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Escolarização; Interpretação e construção de gráficos; Educação de Jovens e Adultos",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "UFPE_431d9348cca00d05a14c02da7ce20601",
+    "url": "https://repositorio.ufpe.br/handle/123456789/3931",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Escolarização",
+    "Interpretação e construção de gráficos",
+    "Educação de Jovens e Adultos"
+  ],
+  "resumo": "O objetivo deste estudo foi analisar estudantes da EJA, em diferentes níveis de escolarização, resolvendo atividades de construção e interpretação de gráficos. Participaram da pesquisa 30 estudantes da EJA distribuídos em três grupos: 10 dos anos iniciais do Ensino Fundamental (G1), 10 dos anos finais do Ensino Fundamental (G2) e 10 do Ensino Médio (G3). Cada estudante resolveu cinco atividades, sendo três de interpretação e duas de construção. Foram analisados os desempenhos dos estudantes em questões de leitura pontual, comparação, combinação, igualização, extrapolação e análise geral para cada gráfico, sendo um gráfico de linhas e dois de barras (um de categorias e outro com série de tempo). Os resultados não mostraram diferenças significativas no desempenho dos estudantes nas atividades de interpretação em função da escolaridade. Questões de combinação e de comparação foram as que trouxeram maior dificuldade para todos os grupos. Considerando os tipos de gráficos, diferenças significativas foram constatadas apenas entre os gráficos de barras com categorias e o gráfico de barras com série de tempo. Este resultado sugere a importância de se considerar vários aspectos, como informações adicionais do gráfico, o tema abordado, conhecimentos prévios, no processo de interpretação de gráficos. Ao mesmo tempo, rompe com a pressuposição de que apenas o tipo do gráfico define seu grau de dificuldade. Na construção dos gráficos várias dificuldades foram observadas. A maioria dos gráficos construídos não apresentou informações necessárias para a compreensão do mesmo (título, nomeação dos eixos, descrição das variáveis). Dificuldade com a escala foi um dos aspectos mais evidentes entre os estudantes. Comparando os resultados obtidos nas atividades de interpretação e construção de gráficos, observamos que os desempenhos dos alunos que conseguiram realizar com sucesso as atividades de interpretação não garantiram a construção adequada de um gráfico. Este dado sugere que há pouca relação entre tais atividades e que interpretar parece ter sido mais fácil que construir. Os resultados desta pesquisa apontam para a necessidade de um olhar mais detalhado para os processos de ensino-aprendizagem de Matemática e, especialmente, sobre o trabalho com gráficos na EJA. A escola tem um papel a cumprir na ampliação e sistematização dos conhecimentos e deve dar conta deste papel. Gráficos devem ser trabalhados em sala de aula de forma articulada com os diferentes componentes curriculares, aproveitando-se as vantagens deste tipo de representação. Os dados sugerem que há necessidade de maior estímulo à construção de gráficos na EJA e que o professor articule as atividades de interpretação com as de construção de gráficos. Por fim, é ainda necessário que o trabalho com gráficos sejam algo contínuo e sistemático em todo o percurso escolar, proporcionando reflexões e desenvolvimento crítico das informações veiculadas por este tipo de representaçãoCoordenação de Aperfeiçoamento de Pessoal de Nível SuperiorporUniversidade Federal de PernambucoAttribution-NonCommercial-NoDerivs 3.0 Brazil",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UFPE_431d9348cca00d05a14c02da7ce20601",
+  "ano_bdtd": 2010,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Universidade Federal de Pernambuco",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UFPE_431d9348cca00d05a14c02da7ce20601",
+    "url": "https://bdtd.ibict.br/vufind/Record/UFPE_431d9348cca00d05a14c02da7ce20601",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/lima-2010.svg"
+}

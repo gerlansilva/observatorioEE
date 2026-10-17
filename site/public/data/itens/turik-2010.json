@@ -1,0 +1,73 @@
+{
+  "id": "turik-2010",
+  "autor": "Claudia Turik",
+  "ano": 2010,
+  "tipo": "Dissertação",
+  "titulo": "ANÁLISE DE ATITUDES DE ALUNOS UNIVERSITÁRIOS EM RELAÇÃO À ESTATÍSTICA POR MEIO DA TEORIA DA RESPOSTA AO ITEM (TRI).",
+  "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Lorí Viali",
+  "programa": "Educação em Ciências e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "4",
+  "foco": "Cognição e Psicologia da Educação Estatística",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "avaliar as atitudes em relação à estatística de 360 alunos de uma \nuniversidade particular, que responderam a Escala de Atitudes em relação à \nEstatística (EAE).",
+  "metodologia": "As respostas foram analisadas por meio da Teoria Clássica dos \nTestes e pela Teoria da Resposta ao Item",
+  "contribuicoes": "Os resultados da classificação das \natitudes, em positivas ou negativas, encontradas por escores brutos e por escores \nlatentes, foram fortemente concordantes (Kappa = 0,87). A escala apresentou boa \nconsistência interna nas duas análises, com Alfa de Cronbach de 0,95 e com \nparâmetro de discriminação dos itens (a\ni\n) variando de moderado a alto. Os alunos \napresentaram atitudes mais desfavoráveis do que favoráveis. Os parâmetros de \ndificuldade dos itens (bi\n) mostraram que a proposição de mais fácil concordância por \nparte dos alunos foi referente à tensão sentida pelos mesmos durante as aulas de \nestatística. As variáveis que mostraram influenciar no nível de atitudes foram: área \nde estudo, auto-percepção de desempenho na disciplina e reconhecimento da \naplicabilidade da estatística. Esses resultados sugerem que sejam adotadas \nestratégias para desenvolvimento de um ambiente de ensino-aprendizado \nestimulante, agradável, e que reforce as aplicações da Estatística no contexto do \ncurso de cada estudante.",
+  "palavras_chave": "Atitudes. Educação Estatística. Teoria da Resposta ao Item.",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22AN%C3%81LISE+DE+ATITUDES+DE+ALUNOS+UNIVERSIT%C3%81RIOS+EM+RELA%C3%87%C3%83O+%C3%80+ESTAT%C3%8DSTICA+POR+MEIO+DA+TEORIA+DA+RESPOSTA+AO+ITEM+%28TRI%29.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AN%C3%81LISE+DE+ATITUDES+DE+ALUNOS+UNIVERSIT%C3%81RIOS+EM+RELA%C3%87%C3%83O+%C3%80+ESTAT%C3%8DSTICA+POR+MEIO+DA+TEORIA+DA+RESPOSTA+AO+ITEM+%28TRI%29.&type=AllFields",
+    "registro_institucional": "http://tede2.pucrs.br/tede2/handle/tede/3376",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/P_RS_750af9e4d9fd9fbf3f7e9ee4c949937b"
+  },
+  "autor_planilha": "TURIK, C.",
+  "orientador_planilha": "Lorí Viali",
+  "autor_capes": "CLAUDIA TURIK",
+  "programa_capes": "Educação Em Ciências e Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica do Rio Grande do Sul",
+  "cidade_capes": "Porto Alegre",
+  "orientador_capes": "Lorí Viali",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20102242005019026P3",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "P_RS_750af9e4d9fd9fbf3f7e9ee4c949937b",
+    "url": "http://tede2.pucrs.br/tede2/handle/tede/3376",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Atitudes",
+    "Educação Estatística",
+    "Teoria da Resposta ao Item"
+  ],
+  "resumo": "O presente trabalho avaliou as atitudes em relação à estatística de 360 alunos de uma universidade particular, que responderam a Escala de Atitudes em relação à Estatística (EAE). As respostas foram analisadas por meio da Teoria Clássica dos Testes e pela Teoria da Resposta ao Item. Os resultados da classificação das atitudes, em positivas ou negativas, encontradas por escores brutos e por escores latentes, foram fortemente concordantes (Kappa = 0,87). A escala apresentou boa consistência interna nas duas análises, com Alfa de Cronbach de 0,95 e com parâmetro de discriminação dos itens (ai) variando de moderado a alto. Os alunos apresentaram atitudes mais desfavoráveis do que favoráveis. Os parâmetros de dificuldade dos itens (bi) mostraram que a proposição de mais fácil concordância por parte dos alunos foi referente à tensão sentida pelos mesmos durante as aulas de estatística. As variáveis que mostraram influenciar no nível de atitudes foram: área de estudo, auto-percepção de desempenho na disciplina e reconhecimento da aplicabilidade da estatística. Esses resultados sugerem que sejam adotadas estratégias para desenvolvimento de um ambiente de ensino-aprendizado estimulante, agradável, e que reforce as aplicações da Estatística no contexto do curso de cada estudante.Pontifícia Universidade Católica do Rio Grande do SulFaculdade de FícaBRPUCRSPrograma de Pós-Graduação em Educação em Ciências e MatemáticaViali, Lorí",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/P_RS_750af9e4d9fd9fbf3f7e9ee4c949937b",
+  "ano_bdtd": 2010,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica do Rio Grande do Sul Faculdade de Fíca BR PUCRS Programa de Pós-Graduação em Educação em Ciências e Matemática",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "P_RS_750af9e4d9fd9fbf3f7e9ee4c949937b",
+    "url": "https://bdtd.ibict.br/vufind/Record/P_RS_750af9e4d9fd9fbf3f7e9ee4c949937b",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/turik-2010.svg"
+}

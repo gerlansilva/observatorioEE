@@ -1,0 +1,81 @@
+{
+  "id": "lima-2011",
+  "autor": "Cristiane Carvalho Bezerra de Lima",
+  "ano": 2011,
+  "tipo": "Dissertação",
+  "titulo": "Análise combinatória: uma aprendizagem significativa com mapas conceituais",
+  "instituicao": "Universidade Federal da Paraíba",
+  "cidade": "João Pessoa",
+  "estado": "Paraíba",
+  "regiao": "Nordeste",
+  "orientador": "Romero da Silva",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Combinatória",
+  "problema": "este trabalho apresenta uma estratégia de ensino de matemática numa perspectiva de aprendizagem significativa, referente ao conteúdo de ensino médio análise combinatória, a fim de que possamos entender os processos de contagem a partir dos conceitos envolvidos",
+  "metodologia": "metodologia baseada na teoria de Ausubel e nos mapas conceituais de Novak e Gowin, como mecanismo de estruturação do conhecimento dos alunos no processo de ensino e aprendizagem do conteúdo mencionado",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "Ausubel: apredizagem significativa; Novak e Gowin: teoria dos mapas conceituais",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22An%C3%A1lise+combinat%C3%B3ria%3A+uma+aprendizagem+significativa+com+mapas+conceituais%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=An%C3%A1lise+combinat%C3%B3ria%3A+uma+aprendizagem+significativa+com+mapas+conceituais&type=AllFields",
+    "registro_institucional": "https://repositorio.ufpb.br/jspui/handle/tede/4634",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UFPB-2_ae324c7f9706ec74f6da5f6a417ea0aa"
+  },
+  "autor_planilha": "LIMA, C. C. B.",
+  "orientador_planilha": "Romero da Silva",
+  "autor_capes": "Cristiane Carvalho Bezerra de Lima",
+  "programa_capes": "Educação",
+  "instituicao_capes": "Universidade Federal da Paraíba ( João Pessoa )",
+  "cidade_capes": "João Pessoa",
+  "capes": {
+    "status": "ok",
+    "score": 0.79,
+    "id": "20111324001015001P4",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Educação Matemática; Aprendizagem significativa; Mapas conceituais; Análise combinatória; Taxonomia de Bloom-Modificada",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "UFPB-2_ae324c7f9706ec74f6da5f6a417ea0aa",
+    "url": "https://repositorio.ufpb.br/jspui/handle/tede/4634",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Educação Matemática",
+    "Aprendizagem significativa",
+    "Mapas conceituais",
+    "Análise combinatória",
+    "Taxonomia de Bloom-Modificada"
+  ],
+  "resumo": "Este trabalho apresenta uma estratégia de ensino de matemática numa perspectiva de aprendizagem significativa, referente ao conteúdo do Ensino Médio intitulado Análise Combinatória, a fim de que possamos entender os processos de contagem a partir da compreensão dos conceitos envolvidos. Para o desenvolvimento da pesquisa, utilizaram-se pressupostos de uma metodologia de ensino baseada na teoria de David Ausubel e nas estratégias dos mapas conceituais de Joseph Novak e Bob Gowin, como mecanismo de estruturação do conhecimento dos alunos no processo de ensino e aprendizagem do conteúdo mencionado. Ausubel nos fala que o conhecimento será adquirido e retido se o aprendiz conseguir associar as ideias relevantes pré existentes em sua estrutura cognitiva com as novas informações que estão sendo oferecidas. Nesta direção, Novak utiliza-se dos mapas conceituais para que essa relação entre o conhecimento existente e o adquirido tenha sentido para o aprendiz. Nosso trabalho foi de caráter experimental, expondo o conteúdo Análise Combinatória através do uso de mapas conceituais construídos e sistematizados pela Taxonomia de Bloom-Modificada, de maneira que verificamos a aprendizagem significativa no aprendiz. Para essa verificação, aplicamos um teste antes e depois da exposição do conteúdo, com uso de mapas conceituais na turma experimental e sem o uso de mapas conceituais na turma controle. Os resultados foram avaliados sobre um aspecto quantitativo e uma análise qualitativa, comprovando que o uso de mapas conceituais no estudo de matemática, especificamente no conteúdo trabalhado, favoreceu a aprendizagem significativa.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UFPB-2_ae324c7f9706ec74f6da5f6a417ea0aa",
+  "ano_bdtd": 2011,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Universidade Federal da Paraí­ba",
+  "programa_bdtd": "Programa de Pós-Graduação em Educação",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UFPB-2_ae324c7f9706ec74f6da5f6a417ea0aa",
+    "url": "https://bdtd.ibict.br/vufind/Record/UFPB-2_ae324c7f9706ec74f6da5f6a417ea0aa",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/lima-2011.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/UFPB-2_ae324c7f9706ec74f6da5f6a417ea0aa",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/UFPB-2_ae324c7f9706ec74f6da5f6a417ea0aa",
+    "confianca": "alta"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "jacobini-1999",
+  "autor": "Otavio Roberto Jacobini",
+  "ano": 1999,
+  "tipo": "Dissertação",
+  "titulo": "A modelação matemática aplicada no ensino de Estatística em cursos de Graduação",
+  "instituicao": "Universidade Estadual Paulista",
+  "cidade": "Rio Claro",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Maria Wodewotzki",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "elaborar e testar a aplicabilidade de uma alternativa pedagógica para os cursos introdutórios de Estatística – interdisciplinar e voltada para o pensamento estatístico - que tem na modelação matemática o seu principal instrumento pedagógico. É também objetivo desta pesquisa mostrar que, com a aplicação da modelação matemática, é possível minimizar os efeitos das tensões dos alunos, principalmente daqueles que apresentam formação deficiente em matemática.",
+  "metodologia": "Apresentar uma metodologia de ensino da estatística",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+modela%C3%A7%C3%A3o+matem%C3%A1tica+aplicada+no+ensino+de+Estat%C3%ADstica+em+cursos+de+Gradua%C3%A7%C3%A3o%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+modela%C3%A7%C3%A3o+matem%C3%A1tica+aplicada+no+ensino+de+Estat%C3%ADstica+em+cursos+de+Gradua%C3%A7%C3%A3o&type=AllFields"
+  },
+  "autor_planilha": "JACOBINI, O. R.",
+  "orientador_planilha": "Maria Wodewotzki",
+  "autor_capes": "OTAVIO ROBERTO JACOBINI",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Universidade Estadual Paulista Júlio de Mesquita Filho (sede",
+  "cidade_capes": "São Paulo",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "19997333004137031P7",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.45
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/jacobini-1999.svg"
+}

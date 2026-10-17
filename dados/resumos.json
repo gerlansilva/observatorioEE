@@ -1,0 +1,79 @@
+[
+  {
+    "id": "braga-2009",
+    "status": "ok",
+    "chars": 1674,
+    "url": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/98"
+  },
+  {
+    "id": "carneiro-2003",
+    "status": "sem_resumo",
+    "url": "https://repositorio.usp.br/item/001321380"
+  },
+  {
+    "id": "dias-2008",
+    "status": "sem_resumo",
+    "url": "https://www.usf.edu.br/galeria/getImage/385/6977855934502341.pdf"
+  },
+  {
+    "id": "giusti-2012",
+    "status": "ok",
+    "chars": 2109,
+    "url": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/157"
+  },
+  {
+    "id": "gouvea-2011",
+    "status": "ok",
+    "chars": 1987,
+    "url": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/140"
+  },
+  {
+    "id": "homa-2012",
+    "status": "ok",
+    "chars": 2600,
+    "url": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/160"
+  },
+  {
+    "id": "marocci-2011",
+    "status": "sem_resumo",
+    "url": "https://www.usf.edu.br/galeria/getImage/385/434466096628132.pdf"
+  },
+  {
+    "id": "medici-2007",
+    "status": "sem_resumo",
+    "url": "https://tede2.pucsp.br/handle/handle/11125"
+  },
+  {
+    "id": "nogueira-2008",
+    "status": "sem_resumo",
+    "url": "https://www.usf.edu.br/galeria/getImage/385/6974541869235604.pdf"
+  },
+  {
+    "id": "oliveira-2009",
+    "status": "ok",
+    "chars": 2013,
+    "url": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/101"
+  },
+  {
+    "id": "santos-2010-2",
+    "status": "sem_resumo",
+    "url": "https://www.usf.edu.br/galeria/getImage/385/435269848186970.pdf"
+  },
+  {
+    "id": "silva-2006",
+    "status": "sem_resumo",
+    "url": "https://www.usf.edu.br/galeria/getImage/385/6970207433172090.pdf"
+  },
+  {
+    "id": "silva-2011",
+    "status": "ok",
+    "chars": 1945,
+    "url": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/150"
+  },
+  {
+    "id": "souza-2006",
+    "status": "ok",
+    "chars": 1573,
+    "url": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/43"
+  }
+]

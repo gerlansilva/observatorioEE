@@ -1,0 +1,83 @@
+{
+  "id": "conti-2009",
+  "autor": "Keli Cristina Conti",
+  "ano": 2009,
+  "tipo": "Dissertação",
+  "titulo": "O papel da estatistica na inclusão de alunos da educação de jovens e adultos em atividades letradas",
+  "instituicao": "Universidade Estadual de Campinas",
+  "cidade": "Campinas",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Dione Lucchesi de Carvalho",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "5",
+  "nivel": "EJA – Ensino Fundamental",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "analisar e compreender o ensino e a aprendizagem de\n Estatística em aulas de Matemática de alunos da 7.ª série do Ensino Fundamental da Educação de Jovens e Adultos e o papel da produção desse conhecimento na inclusão desses alunos em atividades letradas",
+  "metodologia": "pesquisa de campo, do tipo participante",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O+papel+da+estatistica+na+inclus%C3%A3o+de+alunos+da+educa%C3%A7%C3%A3o+de+jovens+e+adultos+em+atividades+letradas%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+papel+da+estatistica+na+inclus%C3%A3o+de+alunos+da+educa%C3%A7%C3%A3o+de+jovens+e+adultos+em+atividades+letradas&type=AllFields",
+    "registro_institucional": "https://hdl.handle.net/20.500.12733/1609648",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_d6bfa40e92ea69421128cad8705c849b"
+  },
+  "autor_planilha": "CONTI, K. C.",
+  "orientador_planilha": "Dione Carvalho",
+  "autor_capes": "Keli Cristina Conti",
+  "programa_capes": "Educação",
+  "instituicao_capes": "Universidade Estadual de Campinas",
+  "cidade_capes": "Campinas",
+  "orientador_capes": "Dione Lucchesi de Carvalho",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20093327433003017001P2",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Educação matemática; Educação; Estatística; Letramento; Educação de jovens e adultos; Mathematics education; Education; Statistics; Literacy; Adults education",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "UNICAMP-30_d6bfa40e92ea69421128cad8705c849b",
+    "url": "https://hdl.handle.net/20.500.12733/1609648",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Educação matemática",
+    "Educação",
+    "Estatística",
+    "Letramento",
+    "Educação de jovens e adultos",
+    "Literacy"
+  ],
+  "resumo": "O objetivo deste trabalho foi analisar e compreender o ensino e a aprendizagem de Estatística em aulas de Matemática de alunos da 7.a serie do Ensino Fundamental da Educação de Jovens e Adultos e o papel da produção desse conhecimento na inclusão desses alunos em atividades letradas. O trabalho de campo da pesquisa que denominarei participante foi realizado em uma escola publica do interior do Estado de São Paulo, onde desenvolvi um projeto chamado \"Construindo Estatística\", que contou com o auxilio, de forma colaborativa, de dois estagiários, auxiliares de pesquisa. O material de analise foi constituído por transcrições das gravações em áudio e vídeo das atividades de sala de aula, portfolios das produções dos alunos, diários de campo meu e dos estagiários. Os três eixos de analise emergiram do processo de analise desse material: a) a relação dos alunos com a Matemática; b) a produção de conhecimentos dos alunos em Estatística nos encontros referentes ao projeto; c) a inclusão dos alunos em atividades letradas. Embora consciente das dificuldades dos alunos em \"ler e escrever\" e das situações pouco propicias para o desenvolvimento dessas competências na realidade da própria escola, não enfrentei esses fatos como obstáculos intransponíveis: fiz questão de caminhar para a inclusão desses alunos em atividades letradas, quer respondendo seus questionamentos, quer dando-lhes voz, quer, ainda, fazendo-os transformar suas \"vozes\" em escrita e, ate mesmo, acreditando que seriam capazes de significar um texto acadêmico. E possível afirmar que essa produção de conhecimento foi alem do conhecimento de Matemática e de Estatística e cumpriu o que se pretendia com relação a construção de conhecimento. Alem disso, os alunos interagiram com a comunidade escolar, com a pesquisadora, com os estagiários e com os colegas, de forma a serem protagonistas da constituição de seu conhecimento, e isso foi muito importante para nos e provavelmente para eles.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_d6bfa40e92ea69421128cad8705c849b",
+  "ano_bdtd": 2009,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "[s.n.]",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UNICAMP-30_d6bfa40e92ea69421128cad8705c849b",
+    "url": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_d6bfa40e92ea69421128cad8705c849b",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/conti-2009.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_d6bfa40e92ea69421128cad8705c849b",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_d6bfa40e92ea69421128cad8705c849b",
+    "confianca": "alta"
+  }
+}

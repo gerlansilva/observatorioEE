@@ -1,0 +1,83 @@
+{
+  "id": "santos-2003-2",
+  "autor": "Sandra da Silva Santos",
+  "ano": 2003,
+  "tipo": "Dissertação",
+  "titulo": "A formação do professor não especialista em conceitos elementares do bloco Tratamento da Informação: um estudo de caso no ambiente computacional",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Sandra Magina",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "11",
+  "nivel": "Ensino Fundamental (anos iniciais e finais)",
+  "foco_codigo": "3",
+  "foco": "TICs, materiais e recursos didáticos",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Combinatória, Probabilidade e Estatística",
+  "problema": "investigar as possibilidades oferecidas pelo ambiente computacional do tabletop no processo de formação dos conhecimentos elementares de estatística, a fim de responder à seguinte questão da pesquisa: como se dá o processo de formação e desenvolvimento de conceitos matemáticos referentes ao bloco de conteúdos \"tratamento da informação?",
+  "metodologia": "estudo de caso com uma professora das séries iniciais do ensino fundamental de uma escola pública estadual de são paulo. Foram realizados encontros e oficinas com a intenção de contribuir com a formação da professora e, em seguida, foi analisada a atuação da professora com os alunos. Também houve aplicação de instrumentos diagnósticos: entrevistas e testes realizados no início e término da pesquisa",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+forma%C3%A7%C3%A3o+do+professor+n%C3%A3o+especialista+em+conceitos+elementares+do+bloco+Tratamento+da+Informa%C3%A7%C3%A3o%3A+um+estudo+de+caso+no+ambiente+computacional%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+forma%C3%A7%C3%A3o+do+professor+n%C3%A3o+especialista+em+conceitos+elementares+do+bloco+Tratamento+da+Informa%C3%A7%C3%A3o%3A+um+estudo+de+caso+no+ambiente+computacional&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/11149",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_f237d0787938b7e24fe1bccb3f2680c2"
+  },
+  "autor_planilha": "SANTOS, S. S.",
+  "orientador_planilha": "Sandra Magina",
+  "autor_capes": "Sandra da Silva Santos",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "200312033005010005P4",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Estatística; Informática; Formação de conceitos; Séries iniciais e formação de professor; Educacao matematica; Matematica; Estudo e ensino",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "PUC_SP-1_f237d0787938b7e24fe1bccb3f2680c2",
+    "url": "https://tede2.pucsp.br/handle/handle/11149",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Estatística",
+    "Informática",
+    "Formação de conceitos",
+    "Séries iniciais e formação de professor",
+    "Educacao matematica",
+    "Matematica",
+    "Estudo e ensino"
+  ],
+  "resumo": "A presente dissertação teve por objetivo investigar as possibilidades oferecidas pelo ambiente computacional do Tabletop no processo de formação dos conhecimentos elementares de estatística, a fim de responder a seguinte questão de pesquisa: como se dá o processo de formação e desenvolvimento de conceitos matemáticos referentes ao bloco de conteúdos Tratamento da Informação , por parte do professor, com auxilio do ambiente computacional? Para tanto, desenvolvi um estudo de caso com uma professora das séries iniciais do Ensino Fundamental de uma escola da rede pública estadual de São Paulo. A pesquisa de campo teve duração de oito meses e contemplou dois grandes momentos: o primeiro deles refere-se à formação da professora, que se deu tanto em encontros individuais como em encontros coletivos (oficinas) e o segundo momento trata-se da sua atuação com alunos e professores. Além desse acompanhamento, houve a aplicação de instrumentos diagnósticos: entrevistas e testes realizados no início e término da pesquisa, sendo que cada um dos testes foi aplicado no contexto papel e lápis e no contexto do computador. Os resultados obtidos em cada um desses momentos foram analisados a luz de três perspectivas: a perspectiva da matemática, da tecnologia e da própria professora. Dessa forma, no final da investigação, os resultados apontam para um avanço dos conhecimentos matemáticos da professora, um maior domínio do ambiente computacional Tabletop e segurança para desenvolver atividades sobre tratamento da informação, para seus alunos ou professores. Tais resultados permitiram concluir que a coleta e organização dos dados em tabelas representam uma importante etapa no estudo de um conjunto de dados, e que o computador, em especial o Tabletop, pode contribuir de forma significativa para o entendimento dos gráficos e tabelas extraídas da manipulação desses dados. Porém, ao mesmo tempo em que o Tabletop pode ser um agente facilitador da aprendizagem dos conhecimentos estatísticos, o uso inadequado de um dos seus recursos pode atrapalhar o estudo de uma representação dos dados e o desenvolvimento de outros conceitos",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_f237d0787938b7e24fe1bccb3f2680c2",
+  "ano_bdtd": 2003,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_f237d0787938b7e24fe1bccb3f2680c2",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_f237d0787938b7e24fe1bccb3f2680c2",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/santos-2003-2.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_f237d0787938b7e24fe1bccb3f2680c2",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_f237d0787938b7e24fe1bccb3f2680c2",
+    "confianca": "alta"
+  }
+}

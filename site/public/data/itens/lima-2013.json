@@ -1,0 +1,82 @@
+{
+  "id": "lima-2013",
+  "autor": "Felipe Mascagna Bittencourt Lima",
+  "ano": 2013,
+  "tipo": "Dissertação",
+  "titulo": "O ensino de probabilidade com o uso do problema dos discos",
+  "instituicao": "Universidade Federal de São Carlos",
+  "cidade": "São Carlos",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Roberto Ribeiro Paterlini",
+  "programa": "Ensino de Ciências Exatas",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Probabilidade",
+  "problema": "apresentar uma proposta didática baseada no jogo dos discos destinada a introduzir a probabilidade a alunos do ensino básico",
+  "metodologia": "o problema foi apresentado a 3 turmas de ensino médio de forma contextualizada antes que o assunto probabilidade fosse ministrado formalmente. A ideia é que os alunos tentassem resolver o problema com o mínimo de ajuda do professor, aproximando o percentual de acertos com a frequência obtida a partir de experimentação",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O+ensino+de+probabilidade+com+o+uso+do+problema+dos+discos%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+ensino+de+probabilidade+com+o+uso+do+problema+dos+discos&type=AllFields",
+    "registro_institucional": "https://repositorio.ufscar.br/handle/20.500.14289/4436",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/SCAR_ad9d79dc6327776f686873bb4f055062"
+  },
+  "autor_planilha": "LIMA, F. M. B.",
+  "orientador_planilha": "",
+  "autor_capes": "FELIPE MASCAGNA BITTENCOURT LIMA",
+  "programa_capes": "Ensino de Ciências Exatas",
+  "instituicao_capes": "Universidade Federal de São Carlos",
+  "cidade_capes": "São Carlos",
+  "orientador_capes": "Roberto Ribeiro Paterlini",
+  "capes": {
+    "status": "ok",
+    "score": 0.955,
+    "id": "808659",
+    "url": "https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=808659",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Matemática - estudo e ensino; Jogos em educação matemática; Probabilidades - estudo e ensino; Experimentação; Modelagem",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.948,
+    "id": "SCAR_ad9d79dc6327776f686873bb4f055062",
+    "url": "https://repositorio.ufscar.br/handle/20.500.14289/4436",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Matemática - estudo e ensino",
+    "Jogos em educação matemática",
+    "Probabilidades - estudo e ensino",
+    "Experimentação",
+    "Modelagem"
+  ],
+  "resumo": "Neste trabalho, apresentamos uma proposta didática destinada a introduzir a Probabilidade a alunos do Ensino Básico. Tal proposta consta de uma sequência de aulas que toma por base o Problema do Jogo dos Discos, no qual tem-se como objetivo determinar o diâmetro que um disco deve ter para que, quando lançado aleatoriamente sobre pisos quadrados, tenha determinada probabilidade de interceptar suas linhas de separação. Este problema foi colocado a alunos de três turmas de terceiro ano do ensino médio de uma escola estadual de maneira contextualizada e antes que o assunto Probabilidade tivesse sido abordado pelo docente. A ideia era que os estudantes tentassem resolver o problema em grupos e com o mínimo de ajuda do professor. Mesmo com os alunos apresentando dificuldades, isso se mostrou possível, tendo os mesmos resolvido o problema utilizando a experimentação concreta do jogo. Para isso, eles aproximaram a probabilidade de ganho com certo disco com o percentual de vitórias na experimentação e, através de modelagem gráfica, conseguiram a resposta desejada. Tal proposta de ensino teve como motivação a constatação do autor de que o ensino de Probabilidade feito da maneira tradicional tem se mostrado pouco eficaz. Além disso, pôde-se perceber que vários documentos oficiais, como os Parâmetros Curriculares Nacionais (PCN) e a Proposta Curricular do Estado de São Paulo, bem como outros pesquisadores da área, sugerem que a experimentação concreta seja realizada para um efetivo ensino da Probabilidade. Com os resultados obtidos e apresentados nesta dissertação, concluímos que nossa proposta didática se mostrou eficiente, tornando as aulas motivadoras e propiciando um ambiente no qual os alunos, além de aprender Probabilidade, pudessem exercitar sua capacidade criativa.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/SCAR_ad9d79dc6327776f686873bb4f055062/Details",
+  "ano_bdtd": 2013,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Universidade Federal de São Carlos",
+  "programa_bdtd": "Programa de Pós-Graduação em Ensino de Ciências Exatas - PPGECE",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "SCAR_ad9d79dc6327776f686873bb4f055062",
+    "url": "https://bdtd.ibict.br/vufind/Record/SCAR_ad9d79dc6327776f686873bb4f055062",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/lima-2013.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/SCAR_ad9d79dc6327776f686873bb4f055062/Details",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/SCAR_ad9d79dc6327776f686873bb4f055062/Details",
+    "confianca": "alta"
+  }
+}

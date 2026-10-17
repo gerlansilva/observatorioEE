@@ -1,0 +1,83 @@
+{
+  "id": "reis-2009",
+  "autor": "Romeu Mauro dos Reis",
+  "ano": 2009,
+  "tipo": "Dissertação",
+  "titulo": "Tratamento da informação e o ENEM: a matemática na trama da Avaliação",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Sandra Maria Pinto Magina",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino de Matemática",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "9",
+  "foco": "Avaliação",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Estatística",
+  "problema": "analisar o desempenho e as estratégias utilizadas pelos alunos do 3º ano do ensino médio na resolução de questões que envolvam a leitura e a interpretação de gráficos e tabelas por meio das questões do ENEM, a fim de responder à seguinte questão: qual o desempenho e quais as estratégias utilizadas pelos alunos na leitura e interpretação de gráficos e tabelas em questões do ENEM?",
+  "metodologia": "Pesquisa descritiva com 40 alunos divididos em dois grupos com aplicação de instrumento diagnóstico e entrevistas semiestruturadas.",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Tratamento+da+informa%C3%A7%C3%A3o+e+o+ENEM%3A+a+matem%C3%A1tica+na+trama+da+Avalia%C3%A7%C3%A3o%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Tratamento+da+informa%C3%A7%C3%A3o+e+o+ENEM%3A+a+matem%C3%A1tica+na+trama+da+Avalia%C3%A7%C3%A3o&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/11431",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_426694de2d90374d13cc18dc11b2cf93"
+  },
+  "autor_planilha": "REIS, R. M.",
+  "orientador_planilha": "Sandra Magina",
+  "autor_capes": "Romeu Mauro dos Reis",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "orientador_capes": "Sandra Maria Pinto Magina",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20091233005010030P9",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Leitura e interpretação de tabelas e gráficos; ENEM; 3º ano do ensino médio; Exame Nacional do Ensino Medio - ENEM; Matematica (Ensino medio); Estudo e ensino",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "PUC_SP-1_426694de2d90374d13cc18dc11b2cf93",
+    "url": "https://tede2.pucsp.br/handle/handle/11431",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Leitura e interpretação de tabelas e gráficos",
+    "ENEM",
+    "3º ano do ensino médio",
+    "Exame Nacional do Ensino Medio - ENEM",
+    "Matematica (Ensino medio)",
+    "Estudo e ensino"
+  ],
+  "resumo": "Este estudo teve como objetivo analisar o desempenho e as estratégias utilizadas pelos alunos do 3º ano do Ensino Médio (E.M.) na resolução de questões que envolvam a leitura e a interpretação de gráficos e tabelas por meio das questões do Exame Nacional do Ensino Médio (ENEM) que abordam este tema, a fim de responder à seguinte questão de pesquisa: QUAL O DESEMPENHO E QUAIS AS ESTRATÉGIAS UTILIZADAS PELOS ALUNOS DO 3º ANO DO ENSINO MÉDIO NA LEITURA E INTERPRETAÇÃO DE GRÁFICOS E TABELAS EM QUESTÕES DO ENEM? . Para tanto, foi desenvolvido uma pesquisa descritiva, com 40 alunos do 3º ano do E.M. de uma escola pública de São Paulo, distribuídos a priori em dois grupos de 20 alunos, definidos como G1 alunos que estudaram Estatística e G2 alunos que podem ou não ter estudado Estatística . A posteriore, os grupos foram redistribuídos, segundo o reconhecimento do aluno ter estudado ou não Estatística, ficando redefinidos como G 1 estudaram Estatística e G 2 não estudaram Estatística . A pesquisa dividiu-se em dois momentos: o primeiro, tratou da aplicação de um instrumento diagnóstico dividido em duas partes: parte (A): questionário que serviu de base para a coleta dos dados relacionados ao perfil dos sujeitos. Parte (B): questionário com oito questões objetivas, a fim de identificar o desempenho e as estratégias dos alunos, no que tange às questões referentes a gráficos e tabelas. No segundo momento, foi realizada uma entrevista semiestruturada com alguns dos sujeitos participantes da pesquisa para obter informações que não podiam ser colhidas somente com o questionário. Os resultados evidenciaram uma tendência do grupo G 1 apresentar melhor desempenho do que o G 2. No entanto, de maneira geral, o desempenho dos sujeitos em leitura e interpretação de tabelas e gráficos foi insatisfatório. As estratégias utilizadas ora estavam limitadas aos conceitos adquiridos durante os anos escolares (cálculo de porcentagem, probabilidade, outros) e, por vezes, encontravam-se vinculadas a contextos sociais, nos quais eles acreditavam como verdadeiros. Concluiu-se que o ensino de Estatística precisa melhorar nas escolas, de modo que o aluno possa reconhecê-la, entendê-la e empregá-la de forma eficiente em seu cotidiano. Em relação à prova do ENEM, a qualidade das questões deve passar por uma melhoria acentuada",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_426694de2d90374d13cc18dc11b2cf93",
+  "ano_bdtd": 2009,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_426694de2d90374d13cc18dc11b2cf93",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_426694de2d90374d13cc18dc11b2cf93",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/reis-2009.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_426694de2d90374d13cc18dc11b2cf93",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_426694de2d90374d13cc18dc11b2cf93",
+    "confianca": "alta"
+  }
+}

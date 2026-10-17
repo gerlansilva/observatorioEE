@@ -1,0 +1,85 @@
+{
+  "id": "santos-2010",
+  "autor": "Cristiano Silva dos Santos",
+  "ano": 2010,
+  "tipo": "Dissertação",
+  "titulo": "Jogos de linguagem no estduo do tratamento da informação em uma classe de EJA",
+  "instituicao": "Universidade Federal do Rio Grande do Sul",
+  "cidade": "Porto Alegre",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Samuel Edmundo López Bello",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino de Matemática",
+  "nivel_codigo": "5",
+  "nivel": "EJA – Ensino Fundamental",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Combinatória, Probabilidade e Estatística",
+  "problema": "apontar especificidades desta modalidade de educação; apresentar uma proposta de trabalho para o estudo do tratamento da informação em uma classe de EJA",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "Wittgenstein: jogos de linguagem",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Jogos+de+linguagem+no+estduo+do+tratamento+da+informa%C3%A7%C3%A3o+em+uma+classe+de+EJA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Jogos+de+linguagem+no+estduo+do+tratamento+da+informa%C3%A7%C3%A3o+em+uma+classe+de+EJA&type=AllFields",
+    "texto_completo": "https://lume.ufrgs.br/bitstream/handle/10183/32469/000787324.pdf?sequence=1&isAllowed=y",
+    "registro_institucional": "https://lume.ufrgs.br/handle/10183/32469",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UFRGS-2_9de04fc4a3a36e9c52c79a6700b2386d"
+  },
+  "capes": {
+    "status": "baixa_confianca",
+    "score": 0.545,
+    "candidato": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "SANTOS, C. S.",
+  "orientador_planilha": "Samuel Belo",
+  "instituicao_agente": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+  "programa_agente": "Programa de Pós-Graduação em Ensino de Matemática (Instituto de Matemática)",
+  "enriquecimento_manual": {
+    "fonte": "LUME/UFRGS (metadados completos, nível 'Master professional') + Catálogo CAPES",
+    "confianca": "alta",
+    "observacao": "Corrige a grafia do título ('estduo' → 'estudo'). O Catálogo CAPES registra título ampliado: 'Jogos de linguagem e mobilização de cultura matemática no estudo do tratamento da informação em uma classe de educação de jovens e adultos', UFRGS, Ensino de Matemática, grau Profissionalizante, defesa em out/2010."
+  },
+  "instituicao_planilha": "Universidade Federal do Rio Grande do Sul",
+  "programa_planilha": "Ensino de Matemática",
+  "tags": [
+    "Jogos de linguagem",
+    "Matemática : Tratamento da Informação",
+    "Educação Matemática",
+    "Educação de jovens e adultos"
+  ],
+  "resumo": "Esta dissertação de mestrado parte das inquietações, dúvidas, certezas e questionamentos de um professor de matemática que admite a reflexão sobre a prática de ensinar matemática, como o ponto de partida para ação do professor. Percorrendo diferentes caminhos até chegar à Educação Matemática de Jovens e Adultos, esta dissertação tem por objetivo: apontar especificidades desta modalidade de educação; qualificar minha formação profissional; e apresentar uma proposta de trabalho para o estudo do tratamento da informação em uma classe de jovens e adultos. Através do desenvolvimento de uma proposta didática, em uma turma de anos finais do ensino fundamental de EJA, e fundamentando-se nos jogos de linguagem, nas semelhanças de família e na matemática normativa do II Wittgenstein, aponto para a existência de diferentes práticas sociais de mobilização de cultura matemática que, por se tratarem de práticas distintas, com jogos de linguagem e regras de significação próprias, só podem ser significadas em seu contexto de origem.This dissertation starts due to some concerns, doubts, certainties and questions of a math teacher who admits to thinking about the practice of teaching mathematics, as the starting point for action of the teacher. Traversing different paths to get to the Mathematics Education of Youths and Adults, this thesis aims to: point out specificities of this form of education; qualify my professional training, and submit a work proposal for the study of information processing in a class of young and adults. By developing a proposal for teaching in a class of final year of elementary school to adult education, and basing it in language games, in family similarities and in II Wittgenstein's normative mathematics, I point to the existence of different social practices mobilization of mathematical culture that, due to the fact they are related to different practices, with language games and own rules of signification, can only be meant in their origin contexts.Esta tesis parte de algunas de las inquietudes, dudas, certezas y preguntas de un profesor de matemáticas que se admite a pensar en la práctica de la enseñanza de las matemáticas, como punto de partida para la acción del profesor. Atravesando diferentes caminos para llegar a la Educación Matemática de Jóvenes y Adultos, esta tesis tiene como objetivos: identificar características específicas de esta forma de educación; calificar mi formación profesional, y presentar una propuesta de trabajo para el estudio del procesamiento de la información en una clase de jóvenes y adultos. Mediante el desarrollo de una propuesta para la enseñanza en una clase de último año de escuela primaria a la educación de adultos, y apoyándose en los juegos de lenguaje, en las similitudes de familia y en las matemáticas normativas de II Wittgenstein, apunto a la existencia de diferentes prácticas sociales de movilización de la cultura matemática, que por relacionarse con prácticas diferentes, con los juegos de lenguaje y reglas de significación propias, sólo se pueden decir en sus contextos de origen.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UFRGS-2_9de04fc4a3a36e9c52c79a6700b2386d",
+  "thumbnail": "./assets/images/thumbs/santos-2010.svg",
+  "palavras_chave_bdtd": "Jogos de linguagem; Matemática : Tratamento da Informação; Educação Matemática; Educação de jovens e adultos",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.99,
+    "id": "UFRGS-2_9de04fc4a3a36e9c52c79a6700b2386d",
+    "url": "http://hdl.handle.net/10183/32469",
+    "consultado_em": "2026-10-17"
+  },
+  "ano_bdtd": 2010,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Não Informado pela instituição",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UFRGS-2_9de04fc4a3a36e9c52c79a6700b2386d",
+    "url": "https://bdtd.ibict.br/vufind/Record/UFRGS-2_9de04fc4a3a36e9c52c79a6700b2386d",
+    "fonte": "agente"
+  },
+  "pesquisa_agente_links": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/UFRGS-2_9de04fc4a3a36e9c52c79a6700b2386d e https://lume.ufrgs.br/handle/10183/32469",
+    "fonte_palavras": "https://lume.ufrgs.br/handle/10183/32469 (dc.subject)",
+    "confianca": "alta"
+  }
+}

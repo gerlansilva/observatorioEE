@@ -1,0 +1,71 @@
+{
+  "id": "zeferino-2009",
+  "autor": "Rosane Scandolara Zeferino",
+  "ano": 2009,
+  "tipo": "Dissertação",
+  "titulo": "Ensino de estatística com e sem recursos tecnológicos : uma investigação com normalistas",
+  "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+  "cidade": "Porto Alegre",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Lorí Viali",
+  "programa": "Educação em Ciências e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "3",
+  "foco": "TICs, materiais e recursos didáticos",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "investigar as concepções dos alunos do Curso \nNormal Médio a respeito do ensino de Matemática e de Estatística e comparar a \npercepção dos alunos do 3º e 4º anos sobre a Estatística a partir de duas \nabordagens de ensino: aula tradicional e aula com utilização de recursos \ncomputacionais.",
+  "metodologia": "O delineamento deste estudo foi do tipo observacional descritivo. \nParticiparam numa primeira etapa todos os alunos de um curso Normal Médio de \numa Escola do interior gaúcho e numa segunda etapa os alunos do 3º e 4º anos \ndeste mesmo curso. Foram aplicados dois questionários, sendo que no primeiro foi \ninvestigada a percepção dos alunos em relação à Estatística, bem como a satisfação \ncom relação à carga horária da disciplina de Matemática no curso Normal Médio. \nTambém os alunos responderam como classificariam o relacionamento deles com a \ndisciplina de Matemática e ainda apresentaram sugestões de mudanças na sua \nforma de ensino. O segundo questionário teve como objetivo fazer uma coleta de \ndados para a organização de um banco de dados. A proposta de trabalho foi \ndesenvolvida no primeiro trimestre de 2009, a partir do banco de dados obtido. Com \nos alunos do 3º ano utilizou-se o método chamado de tradicional de ensino, em sala \nde aula, com aulas expositivas e dialogadas e no 4º ano no laboratório de \ninformática fazendo uso de planilha eletrônica. As principais atividades \ndesenvolvidas foram: construção de tabelas, gráficos, cruzamento de dados e \ncálculos estatísticos. No final das atividades foi aplicado um novo questionário \nenvolvendo as turmas de 3º e 4º anos visando coletar informações para fazer uma \nanálise comparativa das duas formas de abordagem de ensino.",
+  "contribuicoes": "Em relação às aulas \ntradicionais os alunos afirmaram que as aulas eram repetitivas e pouco \ninteressantes, ao passo que, as aulas com recursos computacionais tornavam o \ntrabalho atrativo, criativo, inovador e o professor sendo um mediador do \nconhecimento.",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Ensino+de+estat%C3%ADstica+com+e+sem+recursos+tecnol%C3%B3gicos+%3A+uma+investiga%C3%A7%C3%A3o+com+normalistas%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Ensino+de+estat%C3%ADstica+com+e+sem+recursos+tecnol%C3%B3gicos+%3A+uma+investiga%C3%A7%C3%A3o+com+normalistas&type=AllFields",
+    "registro_institucional": "http://tede2.pucrs.br/tede2/handle/tede/3371",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/P_RS_c034677418effd34fb057095b87de307"
+  },
+  "autor_planilha": "ZEFERINO, R. S.",
+  "orientador_planilha": "Lorí Viali",
+  "autor_capes": "ROSANE SCANDOLARA ZEFERINO",
+  "programa_capes": "Educação Em Ciências e Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica do Rio Grande do Sul",
+  "cidade_capes": "Porto Alegre",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "2009142005019026P3",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "INFORMÁTICA NA EDUCAÇÃO; MATEMÁTICA - ENSINO MÉDIO; ESTATÍSTICA - METODOLOGIA; MÉTODOS E TÉCNICAS DE ENSINO; PLANILHAS ELETRÔNICAS (COMPUTAÇÃO); TECNOLOGIA EDUCACIONAL",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "P_RS_c034677418effd34fb057095b87de307",
+    "url": "http://tede2.pucrs.br/tede2/handle/tede/3371",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "TECNOLOGIA EDUCACIONAL"
+  ],
+  "resumo": "Este estudo teve como objetivo investigar as concepções dos alunos do Curso Normal Médio a respeito do ensino de Matemática e de Estatística e comparar a percepção dos alunos do 3º e 4º anos sobre a Estatística a partir de duas abordagens de ensino: aula tradicional e aula com utilização de recursos computacionais. O delineamento deste estudo foi do tipo observacional descritivo. Participaram numa primeira etapa todos os alunos de um curso Normal Médio de uma Escola do interior gaúcho e numa segunda etapa os alunos do 3º e 4º anos deste mesmo curso. Foram aplicados dois questionários, sendo que no primeiro foi investigada a percepção dos alunos em relação à Estatística, bem como a satisfação com relação à carga horária da disciplina de Matemática no curso Normal Médio. Também os alunos responderam como classificariam o relacionamento deles com a disciplina de Matemática e ainda apresentaram sugestões de mudanças na sua forma de ensino. O segundo questionário teve como objetivo fazer uma coleta de dados para a organização de um banco de dados. A proposta de trabalho foi desenvolvida no primeiro trimestre de 2009, a partir do banco de dados obtido. Com os alunos do 3º ano utilizou-se o método chamado de tradicional de ensino, em sala de aula, com aulas expositivas e dialogadas e no 4º ano no laboratório de informática fazendo uso de planilha eletrônica. As principais atividades desenvolvidas foram: construção de tabelas, gráficos, cruzamento de dados e cálculos estatísticos. No final das atividades foi aplicado um novo questionário envolvendo as turmas de 3º e 4º anos visando coletar informações para fazer uma análise comparativa das duas formas de abordagem de ensino. Em relação às aulas tradicionais os alunos afirmaram que as aulas eram repetitivas e pouco interessantes, ao passo que, as aulas com recursos computacionais tornavam o trabalho atrativo, criativo, inovador e o professor sendo um mediador do conhecimento.Pontifícia Universidade Católica do Rio Grande do SulFaculdade de FícaBRPUCRSPrograma de Pós-Graduação em Educação em Ciências e MatemáticaViali, Lorí",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/P_RS_c034677418effd34fb057095b87de307",
+  "ano_bdtd": 2009,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica do Rio Grande do Sul Faculdade de Fíca BR PUCRS Programa de Pós-Graduação em Educação em Ciências e Matemática",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "P_RS_c034677418effd34fb057095b87de307",
+    "url": "https://bdtd.ibict.br/vufind/Record/P_RS_c034677418effd34fb057095b87de307",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/zeferino-2009.svg"
+}

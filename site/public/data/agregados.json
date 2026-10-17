@@ -1,0 +1,459 @@
+{
+  "total": 259,
+  "periodo": {
+    "inicio": 1984,
+    "fim": 2013
+  },
+  "instituicoes": 57,
+  "estados": 14,
+  "regioes": 5,
+  "atualizado_em": "2026-10-17T22:18:18+00:00",
+  "por_ano": [
+    {
+      "ano": 1984,
+      "total": 1
+    },
+    {
+      "ano": 1985,
+      "total": 0
+    },
+    {
+      "ano": 1986,
+      "total": 0
+    },
+    {
+      "ano": 1987,
+      "total": 0
+    },
+    {
+      "ano": 1988,
+      "total": 1
+    },
+    {
+      "ano": 1989,
+      "total": 0
+    },
+    {
+      "ano": 1990,
+      "total": 0
+    },
+    {
+      "ano": 1991,
+      "total": 0
+    },
+    {
+      "ano": 1992,
+      "total": 0
+    },
+    {
+      "ano": 1993,
+      "total": 0
+    },
+    {
+      "ano": 1994,
+      "total": 2
+    },
+    {
+      "ano": 1995,
+      "total": 0
+    },
+    {
+      "ano": 1996,
+      "total": 1
+    },
+    {
+      "ano": 1997,
+      "total": 1
+    },
+    {
+      "ano": 1998,
+      "total": 4
+    },
+    {
+      "ano": 1999,
+      "total": 4
+    },
+    {
+      "ano": 2000,
+      "total": 5
+    },
+    {
+      "ano": 2001,
+      "total": 12
+    },
+    {
+      "ano": 2002,
+      "total": 10
+    },
+    {
+      "ano": 2003,
+      "total": 12
+    },
+    {
+      "ano": 2004,
+      "total": 10
+    },
+    {
+      "ano": 2005,
+      "total": 13
+    },
+    {
+      "ano": 2006,
+      "total": 17
+    },
+    {
+      "ano": 2007,
+      "total": 24
+    },
+    {
+      "ano": 2008,
+      "total": 19
+    },
+    {
+      "ano": 2009,
+      "total": 19
+    },
+    {
+      "ano": 2010,
+      "total": 41
+    },
+    {
+      "ano": 2011,
+      "total": 37
+    },
+    {
+      "ano": 2012,
+      "total": 25
+    },
+    {
+      "ano": 2013,
+      "total": 1
+    }
+  ],
+  "por_grau": [
+    {
+      "rotulo": "Mestrado Acadêmico",
+      "total": 158
+    },
+    {
+      "rotulo": "Mestrado Profissional",
+      "total": 63
+    },
+    {
+      "rotulo": "Doutorado",
+      "total": 38
+    }
+  ],
+  "por_tipo": [
+    {
+      "rotulo": "Dissertação",
+      "total": 221
+    },
+    {
+      "rotulo": "Tese",
+      "total": 38
+    }
+  ],
+  "por_regiao": [
+    {
+      "rotulo": "Sudeste",
+      "total": 165
+    },
+    {
+      "rotulo": "Sul",
+      "total": 58
+    },
+    {
+      "rotulo": "Nordeste",
+      "total": 29
+    },
+    {
+      "rotulo": "Centro-Oeste",
+      "total": 5
+    },
+    {
+      "rotulo": "Norte",
+      "total": 2
+    }
+  ],
+  "por_estado": [
+    {
+      "rotulo": "São Paulo",
+      "total": 140
+    },
+    {
+      "rotulo": "Rio Grande do Sul",
+      "total": 32
+    },
+    {
+      "rotulo": "Pernambuco",
+      "total": 25
+    },
+    {
+      "rotulo": "Minas Gerais",
+      "total": 14
+    },
+    {
+      "rotulo": "Santa Catarina",
+      "total": 13
+    },
+    {
+      "rotulo": "Paraná",
+      "total": 13
+    },
+    {
+      "rotulo": "Rio de Janeiro",
+      "total": 11
+    },
+    {
+      "rotulo": "Mato Grosso do Sul",
+      "total": 2
+    },
+    {
+      "rotulo": "Pará",
+      "total": 2
+    },
+    {
+      "rotulo": "Distrito Federal",
+      "total": 2
+    },
+    {
+      "rotulo": "Paraíba",
+      "total": 2
+    },
+    {
+      "rotulo": "Goiás",
+      "total": 1
+    },
+    {
+      "rotulo": "Sergipe",
+      "total": 1
+    },
+    {
+      "rotulo": "Ceará",
+      "total": 1
+    }
+  ],
+  "por_area": [
+    {
+      "rotulo": "Educação Matemática",
+      "total": 76
+    },
+    {
+      "rotulo": "Ensino de Matemática",
+      "total": 44
+    },
+    {
+      "rotulo": "Ensino de Ciências e Matemática",
+      "total": 51
+    },
+    {
+      "rotulo": "Educação",
+      "total": 57
+    },
+    {
+      "rotulo": "Estatística e Matemática",
+      "total": 6
+    },
+    {
+      "rotulo": "Engenharia",
+      "total": 6
+    },
+    {
+      "rotulo": "Psicologia",
+      "total": 4
+    },
+    {
+      "rotulo": "Computação",
+      "total": 5
+    },
+    {
+      "rotulo": "Administração",
+      "total": 6
+    },
+    {
+      "rotulo": "Outros",
+      "total": 4
+    }
+  ],
+  "por_foco": [
+    {
+      "rotulo": "Processo de ensino e aprendizagem da Estocástica",
+      "total": 88
+    },
+    {
+      "rotulo": "Não informado",
+      "total": 40
+    },
+    {
+      "rotulo": "TICs, materiais e recursos didáticos",
+      "total": 32
+    },
+    {
+      "rotulo": "Crenças, concepções, atitudes e saberes práticos",
+      "total": 26
+    },
+    {
+      "rotulo": "Cognição e Psicologia da Educação Estatística",
+      "total": 22
+    },
+    {
+      "rotulo": "Formação inicial/continuada e desenvolvimento profissional de professores",
+      "total": 16
+    },
+    {
+      "rotulo": "Currículo e análise de conteúdo bibliográfico",
+      "total": 14
+    },
+    {
+      "rotulo": "História, Filosofia e revisão da literatura",
+      "total": 7
+    },
+    {
+      "rotulo": "Avaliação",
+      "total": 5
+    },
+    {
+      "rotulo": "Erros e dificuldades de aprendizagem",
+      "total": 5
+    },
+    {
+      "rotulo": "Outros temas",
+      "total": 4
+    }
+  ],
+  "por_conteudo": [
+    {
+      "rotulo": "Estatística",
+      "total": 171
+    },
+    {
+      "rotulo": "Probabilidade",
+      "total": 36
+    },
+    {
+      "rotulo": "Combinatória",
+      "total": 31
+    },
+    {
+      "rotulo": "Probabilidade e Estatística",
+      "total": 15
+    },
+    {
+      "rotulo": "Combinatória e Probabilidade",
+      "total": 2
+    },
+    {
+      "rotulo": "Combinatória, Probabilidade e Estatística",
+      "total": 4
+    }
+  ],
+  "por_nivel": [
+    {
+      "rotulo": "Ensino Superior",
+      "total": 60
+    },
+    {
+      "rotulo": "Não informado",
+      "total": 59
+    },
+    {
+      "rotulo": "Ensino Médio",
+      "total": 58
+    },
+    {
+      "rotulo": "Ensino Fundamental – anos finais",
+      "total": 24
+    },
+    {
+      "rotulo": "Ensino Fundamental – anos iniciais",
+      "total": 23
+    },
+    {
+      "rotulo": "Indefinido",
+      "total": 20
+    },
+    {
+      "rotulo": "EJA – Ensino Fundamental",
+      "total": 3
+    },
+    {
+      "rotulo": "Ensino Fundamental (anos finais) e Médio",
+      "total": 3
+    },
+    {
+      "rotulo": "Ensino Fundamental (anos iniciais e finais)",
+      "total": 3
+    },
+    {
+      "rotulo": "EJA – Ensino Médio",
+      "total": 2
+    },
+    {
+      "rotulo": "EJA e Ensino Fundamental (anos iniciais)",
+      "total": 1
+    },
+    {
+      "rotulo": "EJA – Fundamental e Médio",
+      "total": 1
+    },
+    {
+      "rotulo": "Educação Infantil",
+      "total": 1
+    },
+    {
+      "rotulo": "Educação Infantil e Fundamental (anos iniciais)",
+      "total": 1
+    }
+  ],
+  "top_instituicoes": [
+    {
+      "nome": "Pontifícia Universidade Católica de São Paulo",
+      "total": 68
+    },
+    {
+      "nome": "Universidade Federal de Pernambuco",
+      "total": 22
+    },
+    {
+      "nome": "Universidade Estadual de Campinas",
+      "total": 15
+    },
+    {
+      "nome": "Universidade Bandeirantes de São Paulo",
+      "total": 12
+    },
+    {
+      "nome": "Universidade Estadual Paulista",
+      "total": 10
+    },
+    {
+      "nome": "Universidade Cruzeiro do Sul",
+      "total": 10
+    },
+    {
+      "nome": "Universidade de São Paulo",
+      "total": 9
+    },
+    {
+      "nome": "Universidade Federal de Santa Catarina",
+      "total": 9
+    },
+    {
+      "nome": "Pontifícia Universidade Católica do Rio Grande do Sul",
+      "total": 9
+    },
+    {
+      "nome": "Universidade Luterana do Brasil (ULBRA/Canoas)",
+      "total": 8
+    },
+    {
+      "nome": "Pontifícia Universidade Católica de Minas Gerais",
+      "total": 7
+    },
+    {
+      "nome": "Universidade São Francisco",
+      "total": 7
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "wada-1996",
+  "autor": "Ronaldo Seichi Wada",
+  "ano": 1996,
+  "tipo": "Tese",
+  "titulo": "Estatística e Ensino: um estudo sobre representações de professores de 3º grau",
+  "instituicao": "Universidade Estadual de Campinas",
+  "cidade": "Campinas",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Maria Almeida",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "6",
+  "foco": "Crenças, concepções, atitudes e saberes práticos",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "Estatística",
+  "problema": "captar e identificar representações de professores do 3º grau sobre a estatística",
+  "metodologia": "estudo de caso com professores da graduação em estatística da unicamp",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Estat%C3%ADstica+e+Ensino%3A+um+estudo+sobre+representa%C3%A7%C3%B5es+de+professores+de+3%C2%BA+grau%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estat%C3%ADstica+e+Ensino%3A+um+estudo+sobre+representa%C3%A7%C3%B5es+de+professores+de+3%C2%BA+grau&type=AllFields",
+    "registro_institucional": "https://hdl.handle.net/20.500.12733/1584200",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_7c8ee98f7eb94b170f29482b939e80de"
+  },
+  "autor_planilha": "WADA, R. S.",
+  "orientador_planilha": "Maria Almeida",
+  "autor_capes": "RONALDO SEICHI WADA",
+  "programa_capes": "Educacao",
+  "instituicao_capes": "Universidade Estadual de Campinas",
+  "cidade_capes": "Campinas",
+  "capes": {
+    "status": "ok",
+    "score": 0.991,
+    "id": "19966933003017001P2",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Estatistica - Estudo e ensino (Superior); Professores universitários; Estatística - Métodos estatísticos",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "UNICAMP-30_7c8ee98f7eb94b170f29482b939e80de",
+    "url": "https://hdl.handle.net/20.500.12733/1584200",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Estatistica - Estudo e ensino (Superior)",
+    "Professores universitários",
+    "Estatística - Métodos estatísticos"
+  ],
+  "ano_bdtd": 1996,
+  "tipo_bdtd": "Tese",
+  "instituicao_bdtd": "[s.n.]",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UNICAMP-30_7c8ee98f7eb94b170f29482b939e80de",
+    "url": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_7c8ee98f7eb94b170f29482b939e80de",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/wada-1996.svg",
+  "resumo": "Neste estudo, procuramos captar e identificar representações dos professores do 3° grau sobre a Estatística. Procuramos evidenciar, em uma perspectiva histórica, o interesse no uso de informações numéricas, o desenvolvimento, a valorização e o reconhecimento da Estatística como método de análise de dados. Possíveis influências de tendências pedagógicas e de categorias como paradigma, tradição seletiva e currículo oculto, dentre outras, constituem-se elementos importantes na nossa abordagem para compreender a maneira como os professores pensam e valorizam a Estatística, enquanto curso, disciplina de serviço e método. Optamos pelo estudo de caso do curso de graduação em Estatística da UNICAMP por sua importância no ensino superior e pela nossa história de ex-aluno. Neste estudo, pudemos observar a existência de uma vinculação entre o significado do método estatístico e a concepção do professor em relação ao curso de graduação em Estatística, valorizando determinados tópicos, influenciando nas disciplinas, nos conteúdos e no ensino. Observamos representações dos professores sobre a cientificidade do método, muitas vezes considerado como única forma válida de análise. A adesão e a reprodução dessas idéias, imprimem um caráter paradigmático à essa metodologia, cuja utilização é aceita e estimulada pela comunidade científica. Colhemos manifestações de professores que, sugeriram desde formas de se ministrar disciplinas até a necessidade de se buscar informações em termos de conteúdo e de formação profissional dos alunos na perspectiva de uma reorganização do curso tendo em vista as necessidades atuais de mercado. São sugestões de oferecimento de novas disciplinas, como a de consultoria, a reformulação do estágio e até mesmo propostas de se introduzir a Estatística no 2° grau.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://hdl.handle.net/20.500.12733/1584200",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://hdl.handle.net/20.500.12733/1584200",
+    "fonte_palavras": "https://hdl.handle.net/20.500.12733/1584200",
+    "confianca": "media"
+  }
+}

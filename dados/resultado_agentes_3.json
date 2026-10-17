@@ -1,0 +1,47 @@
+[
+  {
+    "id": "contini-neto-2012",
+    "encontrado": true,
+    "autor": "Florindo Contini Neto",
+    "orientador": "Maria Helena Palma de Oliveira",
+    "ano": 2012,
+    "grau": "Mestrado Acadêmico",
+    "instituicao": "Universidade Anhanguera de São Paulo (UNIAN; antiga Universidade Bandeirante de São Paulo — UNIBAN)",
+    "programa": "Educação Matemática",
+    "link_registro": "",
+    "link_texto_completo": "",
+    "fonte": "Catálogo de Teses e Dissertações da CAPES (registro id 2012933107017003P8)",
+    "confianca": "media",
+    "observacao": "Registro CAPES confirmado: 'Estratégias de memória na autorregulação da aprendizagem de estatística de alunos do Ensino Médio', Florindo Contini Neto, 156 p., defesa em 2012, orientadora Maria Helena Palma de Oliveira. O título do lote é mais longo e difere do título registrado na CAPES, mas autor, ano, instituição e tema são compatíveis. O repositório da Kroton/Cogna estava fora do ar durante a verificação."
+  },
+  {
+    "id": "ficagna-2005",
+    "encontrado": true,
+    "autor": "Nádia Carraro Ficagna",
+    "orientador": "Carlos Eduardo da Cunha Pinent",
+    "ano": 2005,
+    "grau": "Mestrado Acadêmico",
+    "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)",
+    "programa": "Programa de Pós-Graduação em Educação em Ciências e Matemática",
+    "link_registro": "https://tede2.pucrs.br/tede2/handle/tede/3299",
+    "link_texto_completo": "https://tede2.pucrs.br/tede2/bitstream/tede/3299/1/341299.pdf",
+    "fonte": "TEDE PUCRS (registro completo: autor, orientador, programa, data, tipo e arquivo PDF)",
+    "confianca": "alta",
+    "observacao": "Título confirmado: 'Unidade de aprendizagem: uma forma diferenciada de aprender estatística alicerçada no educar pela pesquisa'. Dissertação, 179 f., defesa em 09/12/2005. PDF verificado (HTTP 200, application/pdf, ~1,06 MB)."
+  },
+  {
+    "id": "miguel-2005",
+    "encontrado": true,
+    "autor": "Maria Inez Rodrigues Miguel",
+    "orientador": "Saddo Ag Almouloud",
+    "ano": 2005,
+    "grau": "Doutorado",
+    "instituicao": "Pontifícia Universidade Católica de São Paulo (PUC-SP)",
+    "programa": "Programa de Estudos Pós-Graduados em Educação Matemática",
+    "link_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_7b55f515026b4b0c0b733432484d7306",
+    "link_texto_completo": "https://tede2.pucsp.br/handle/handle/10890",
+    "fonte": "BDTD (metadados completos) + Catálogo CAPES (registro id 200518433005010005P4)",
+    "confianca": "alta",
+    "observacao": "Título exato no repositório/BDTD: 'Ensino e aprendizagem do modelo Poisson: uma experiência com modelagem'. Tese de Doutorado, PUC-SP, 2005, orientador Saddo Ag Almouloud. O handle do TEDE PUC-SP responde com bloqueio anti-bot (HTTP 468), mas o registro está descrito integralmente no BDTD."
+  }
+]

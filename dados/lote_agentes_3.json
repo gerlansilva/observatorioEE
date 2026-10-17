@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bortolanza-2003",
+    "titulo": "Tratamento da informação no ensino fundamental de matemática",
+    "autor": "BORTOLANZA, C.",
+    "ano": 2003,
+    "instituicao": "Faculdades Integradas de Palmas",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "contini-neto-2012",
+    "titulo": "Autorregulação de estratégias de memória na aprendizagem de estatística e os níveis de letramento estatístico de estudantes de ensino médio de escolas estaduais de são paulo",
+    "autor": "CONTINI NETO, F.",
+    "ano": 2012,
+    "instituicao": "Universidade Bandeirantes de São Paulo",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "ficagna-2005",
+    "titulo": "Unidade de Aprendizado: uma forma diferenciada de aprender estatística alicerçada no educar pela pesquisa.",
+    "autor": "FICAGNA, N. C.",
+    "ano": 2005,
+    "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "gaiovicz-2007",
+    "titulo": "Laboratório de ensino de Matemática e estatística: uma proposta de construção",
+    "autor": "GAIOVICZ, M. J.",
+    "ano": 2007,
+    "instituicao": "Faculdades Integradas de Palmas",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "miguel-2005",
+    "titulo": "Ensino e aprendizagem do modelo de Poisson: uma experiência com modelagem",
+    "autor": "MIGUEL, M. I. R.",
+    "ano": 2005,
+    "instituicao": "Pontifícia Universidade Católica de São Paulo",
+    "tipo": "Tese"
+  },
+  {
+    "id": "pinheiro-2011",
+    "titulo": "As etapas do raciocínio combinatório desenvolvidas por meio da metodologia de resolução de problemas",
+    "autor": "PINHEIRO, C. A. M.",
+    "ano": 2011,
+    "instituicao": "Pontifícia Universidade Católica de São Paulo",
+    "tipo": "Tese"
+  },
+  {
+    "id": "santos-2003",
+    "titulo": "A utilização social da matemática por meio da linguagem estatística no ensino-aprendizagem no ensino fundamental",
+    "autor": "SANTOS, F. A.",
+    "ano": 2003,
+    "instituicao": "Universidade Santa Úrsula",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "silva-2001",
+    "titulo": "O ensino de estatística no curso de pedagogia usando o excel como instrumento facilitador da aprendizagem",
+    "autor": "SILVA, E. A.",
+    "ano": 2001,
+    "instituicao": "Universidade Guarulhos",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "vasconcelos-2003",
+    "titulo": "O ensino de linguagem de programação baseado em pedagogia por projetos e EAD colaborativa:estudo de casos em estatística.",
+    "autor": "VASCONCELOS, D. M.",
+    "ano": 2003,
+    "instituicao": "Universidade Estadual do Ceará",
+    "tipo": "Dissertação"
+  }
+]

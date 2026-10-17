@@ -1,0 +1,72 @@
+{
+  "id": "dias-2008",
+  "autor": "Anelise Silva Dias",
+  "ano": 2008,
+  "tipo": "Dissertação",
+  "titulo": "EVIDÊNCIAS DE VALIDADE DE UMA PROVA DE COMPREENSÃO EM LEITURA EM ESTATÍSTICA",
+  "instituicao": "Universidade São Francisco",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Claudette Vendramini",
+  "programa": "Psicologia",
+  "area": "Psicologia",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "4",
+  "foco": "Cognição e Psicologia da Educação Estatística",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "verificar as evidências de validade de uma prova \nde compreensão em leitura de um texto com informações estatísticas em estudantes de \nPsicologia.",
+  "metodologia": "Foram participantes 206 estudantes regularmente matriculados no curso de \npsicologia, sendo 79,1% do gênero feminino, com idades variando de 17 a 54 anos \n(M=25,9; DP=6,8), dos turnos diurno (17,5%) e noturno (82,5%). Foram utilizados um \nquestionário sobre conceitos estatísticos, e duas provas de compreensão, uma de um texto \ngeral, e a outra de um texto específico que envolve conceitos estatísticos. Os instrumentos \nforam aplicados coletivamente pela pesquisadora, em uma sessão, em horários regulares de \naula.",
+  "contribuicoes": "",
+  "palavras_chave": "compreensão em leitura; cloze; educação estatística; teoria de resposta ao \nitem; psicometria.",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22EVID%C3%8ANCIAS+DE+VALIDADE+DE+UMA+PROVA+DE+COMPREENS%C3%83O+EM+LEITURA+EM+ESTAT%C3%8DSTICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=EVID%C3%8ANCIAS+DE+VALIDADE+DE+UMA+PROVA+DE+COMPREENS%C3%83O+EM+LEITURA+EM+ESTAT%C3%8DSTICA&type=AllFields",
+    "texto_completo": "https://www.usf.edu.br/galeria/getImage/385/6977855934502341.pdf",
+    "registro_institucional": "https://www.usf.edu.br/galeria/getImage/385/6977855934502341.pdf"
+  },
+  "autor_planilha": "DIAS, A. S.",
+  "orientador_planilha": "Claudette Vendramini",
+  "autor_capes": "Anelise Silva Dias",
+  "programa_capes": "Psicologia",
+  "instituicao_capes": "Universidade São Francisco",
+  "cidade_capes": "Bragança Paulista",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "2008633050015005P8",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.458
+  },
+  "tags": [
+    "compreensão em leitura",
+    "cloze",
+    "educação estatística",
+    "teoria de resposta ao item",
+    "psicometria"
+  ],
+  "enriquecimento_manual": {
+    "fonte": "USF – lista oficial de dissertações",
+    "confianca": "alta",
+    "observacao": "Autora e título conferem (Psicologia, orient. Claudette M. M. Vendramini)."
+  },
+  "thumbnail": "./assets/images/thumbs/dias-2008.svg",
+  "resumo": "O objetivo principal deste estudo foi o de verificar as evidências de validade de uma prova de compreensão em leitura de um texto com informações estatísticas em estudantes de Psicologia. Foram participantes 206 estudantes regularmente matriculados no curso de psicologia, sendo 79,1% do gênero feminino, com idades variando de 17 a 54 anos (M=25,9; DP=6,8), dos turnos diurno (17,5%) e noturno (82,5%). Foram utilizados um questionário sobre conceitos estatísticos, e duas provas de compreensão, uma de um texto geral, e a outra de um texto específico que envolve conceitos estatísticos. Os instrumentos foram aplicados coletivamente pela pesquisadora, em uma sessão, em horários regulares de aula. Os resultados indicaram que houve evidências de validade convergente entre os dois instrumentos de compreensão, uma vez que houve correlação significativa (r=0,535; p<0,001) entre a prova de compreensão de um texto que envolve conceitos estatísticos e a prova de compreensão de um texto de leitura geral. A análise fatorial com informação completa revelou a predominância unidimensional para os itens da prova de leitura específica, podendo explicar 24,80% da variância entre os itens. A análise pela Teoria de Resposta ao Item mostrou um melhor ajuste pelo modelo de três parâmetros, sendo este, em que se observou o menor resíduo. O coeficiente de fidedignidade avaliado pelo coeficiente de Kuder-Richardson, indicou que a prova apresenta uma boa precisão (KR-21=0,813).",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://www.usf.edu.br/galeria/getImage/385/6977855934502341.pdf",
+  "pesquisa_agente_links": {
+    "status": "ok",
+    "fonte_resumo": "https://www.usf.edu.br/galeria/getImage/385/6977855934502341.pdf",
+    "fonte_palavras": "https://www.usf.edu.br/galeria/getImage/385/6977855934502341.pdf",
+    "confianca": "alta"
+  }
+}

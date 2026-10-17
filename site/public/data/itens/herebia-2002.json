@@ -1,0 +1,50 @@
+{
+  "id": "herebia-2002",
+  "autor": "Roberto Belarmino Herebia",
+  "ano": 2003,
+  "tipo": "Dissertação",
+  "titulo": "A característica da formação inicial e continuada docente de estatística da UCDB",
+  "instituicao": "Universidade Católica Dom Bosco",
+  "cidade": "Campo Grande",
+  "estado": "Mato Grosso do Sul",
+  "regiao": "Centro-Oeste",
+  "orientador": "Fernando Salles",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "2",
+  "foco": "Formação inicial/continuada e desenvolvimento profissional de professores",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "abordar as características da formação inicial e continuada dos professores que atuam na disciplina de estatística na busca de subsídios que conduzam ao questionamento e à valorização do docente, no sentido de incentivar sua formação continuada",
+  "metodologia": "buscoou-se abordar a estatística a partir da lente da história, que demonstrou ser este tema um objeto de discussão mais remoto do que imaginávamos, onde o fluxo de sua história remonta as sociedades mais primitivas imagináveis.",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+caracter%C3%ADstica+da+forma%C3%A7%C3%A3o+inicial+e+continuada+docente+de+estat%C3%ADstica+da+UCDB%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+caracter%C3%ADstica+da+forma%C3%A7%C3%A3o+inicial+e+continuada+docente+de+estat%C3%ADstica+da+UCDB&type=AllFields"
+  },
+  "autor_planilha": "HEREBIA, R. B.",
+  "orientador_planilha": "Fernando Salles",
+  "autor_capes": "ROBERTO BELARMINO HEREBIA",
+  "programa_capes": "Educação",
+  "instituicao_capes": "Universidade Católica Dom Bosco",
+  "cidade_capes": "Campo Grande",
+  "capes": {
+    "status": "ok",
+    "score": 0.9,
+    "id": "200310351002019002P3",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.407
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/herebia-2002.svg"
+}

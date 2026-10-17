@@ -1,0 +1,89 @@
+{
+  "id": "miguel-2005",
+  "autor": "Maria Inez Rodrigues Miguel",
+  "ano": 2005,
+  "tipo": "Tese",
+  "titulo": "Ensino e aprendizagem do modelo de Poisson: uma experiência com modelagem",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Saddo Ag Almouloud",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "Probabilidade",
+  "problema": "Esta tese é centrada no ensino e na aprendizagem do modelo de Poison, seu questionamento refere-se ao uso da modelagem matemática, das etapas a serem consideradas e dos resultados, tanto na interação didática como nas aquisições e erros dos alunos participantes",
+  "metodologia": "Engenharia didática",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "Modelagem matemática de henry; engenharia didática; prazeologia de Chevallard e o enfoque ontológico-semiótico de da cognição e instrução matemática de Godino",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Ensino+e+aprendizagem+do+modelo+de+Poisson%3A+uma+experi%C3%AAncia+com+modelagem%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Ensino+e+aprendizagem+do+modelo+de+Poisson%3A+uma+experi%C3%AAncia+com+modelagem&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/10890",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_7b55f515026b4b0c0b733432484d7306"
+  },
+  "capes": {
+    "status": "baixa_confianca",
+    "score": 0.299,
+    "candidato": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "MIGUEL, M. I. R.",
+  "orientador_planilha": "Saddo Almouloud",
+  "instituicao_agente": "Pontifícia Universidade Católica de São Paulo (PUC-SP)",
+  "instituicao_planilha": "Pontifícia Universidade Católica de São Paulo",
+  "programa_agente": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "programa_planilha": "Educação Matemática",
+  "enriquecimento_manual": {
+    "fonte": "BDTD (metadados completos) + Catálogo CAPES (registro id 200518433005010005P4)",
+    "confianca": "alta",
+    "observacao": "Título exato no repositório/BDTD: 'Ensino e aprendizagem do modelo Poisson: uma experiência com modelagem'. Tese de Doutorado, PUC-SP, 2005, orientador Saddo Ag Almouloud. O handle do TEDE PUC-SP responde com bloqueio anti-bot (HTTP 468), mas o registro está descrito integralmente no BDTD."
+  },
+  "tags": [
+    "Modelo de Poisson",
+    "Modelagem matemática",
+    "Engenharia Didática",
+    "Teoria Antropológica da Didática",
+    "Teoria das Funções Semióticas.",
+    "Educação matemática",
+    "Matemática - Estudo e ensino",
+    "Teoria das Funções Semióticas"
+  ],
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.979,
+    "id": "PUC_SP-1_7b55f515026b4b0c0b733432484d7306",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_7b55f515026b4b0c0b733432484d7306",
+    "origem": "busca_html",
+    "consultado_em": "2026-10-17"
+  },
+  "resumo": "Esta tese é centrada no ensino e na aprendizagem do Modelo de Poisson, seu questinamento refere-se ao uso da Modelagem Matemática, das etapas a serem consideradas e dos resultados, tanto na interação didática como nas aquisições e erros dos alunos participantes. As hipóteses de que o trabalho em dupla, o uso do computador e o experimento realizado na prática pudessem favorecer o desenvolvimento do projeto foram admitidas, a fim de serem validadas, ou não. Para tal, uma seqüência de ensino, elaborada com base nas etapas de Modelagem Matemática de Henry, foi aplicada a um grupo de alunos do segundo ano de graduação em Engenharia Elétrica e Ciência da Computação de uma Instituição de Ensino Superior. No estudo, a metodologia adotada foi a Engenharia Didática que permite a validação das hipóteses pela confrontação entre as análises a priori e a posteriori e favorece o realinhamento das atividades durante o processo. As bases teóricas foram a praxeologia de Chevallard e o enfoque ontológico-semiótico da cognição e instrução matemática de Godino. A primeira norteou a análise dos livros didáticos, a elaboração e a apresentação das tarefas propostas na seqüência pretendida; a segunda fundamentou a determinação de elementos de significado do Modelo de Poisson para serem considerados no ensino e orientar a análise dos resultados, possibilitando a identificação dos conhecimentos adquiridos que estão conforme a pauta institucional e os que podem ser considerados erros de aprendizagem. A pesquisa permitiu concluir que, não só o uso da Modelagem Matemática é favorável ao estudo realizado, como também todas as etapas de modelagem puderam ser interpretadas, adaptadas e consideradas essenciais, para que os objetivos fossem atingidos, salientando-se que o experimento realizado deve ser cuidadosamente selecionado, a fim de servir de motivação aos sujeitos visados e, se possível, contemplar a interdisciplinaridade. Entre os diversos elementos de significado do Modelo de Poisson tomados como referência, muitos foram adquiridos pelo grupo de alunos participantes, embora algumas dificuldades relacionadas à utilização do aplicativo, à interpretação de termos do tipo: ao menos, no máximo, etc., e à representação simbólica persistiram durante todo o processo. A construção do Modelo de Poisson baseada nas hipóteses citadas sobre o experimento realizado mostrou ser uma estratégia viável e eficiente, garantindo relativa facilidade na aplicação do modelo nas mais variadas situações, inclusive, naquelas de aproximação ao Modelo Binomial. O resultado permite que se sugira a introdução do referido modelo nos moldes apresentados, em lugar do modo clássico com definição, exemplo e exercícios, ou ainda, por meio da aproximação ao Modelo Binomial. O uso de um aplicativo mostrou-se eficiente para agilizar as representações e facilitar a visualização de propriedades; no entanto, a aprendizagem da manipulação do aplicativo não pode concorrer simultaneamente com o estudo do conteúdo pretendido sob pena de comprometê-lo. O trabalho em dupla revelou que as trocas de informações, enriquecidas e complementadas pelas duas formações dos sujeitos envolvidos, permitiram o levantamento de novas questões e maior confiabilidade na realização das tarefas propostas.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_7b55f515026b4b0c0b733432484d7306",
+  "palavras_chave_bdtd": "Modelo de Poisson; Modelagem matemática; Engenharia Didática; Teoria Antropológica da Didática; Teoria das Funções Semióticas; Educação matemática; Matemática - Estudo e ensino",
+  "ano_bdtd": 2005,
+  "tipo_bdtd": "Tese",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_7b55f515026b4b0c0b733432484d7306",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_7b55f515026b4b0c0b733432484d7306",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/miguel-2005.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_7b55f515026b4b0c0b733432484d7306",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_7b55f515026b4b0c0b733432484d7306",
+    "confianca": "alta"
+  }
+}

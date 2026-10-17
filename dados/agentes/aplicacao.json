@@ -1,0 +1,723 @@
+[
+  {
+    "id": "alves-2010",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 4,
+    "bdtd": false
+  },
+  {
+    "id": "barbosa-2012",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 3,
+    "bdtd": false
+  },
+  {
+    "id": "barroso-2009",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 3,
+    "bdtd": false
+  },
+  {
+    "id": "biajone-2006",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 5,
+    "bdtd": false
+  },
+  {
+    "id": "buehring-2006",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 3,
+    "bdtd": false
+  },
+  {
+    "id": "coelho-2010",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 5,
+    "bdtd": false
+  },
+  {
+    "id": "conti-2009",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 5,
+    "bdtd": false
+  },
+  {
+    "id": "costa-2012",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 5,
+    "bdtd": false
+  },
+  {
+    "id": "duarte-2010",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 4,
+    "bdtd": false
+  },
+  {
+    "id": "goncales-2002",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 4,
+    "bdtd": false
+  },
+  {
+    "id": "goncalves-2010",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 4,
+    "bdtd": false
+  },
+  {
+    "id": "lima-2011-2",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 1,
+    "bdtd": false
+  },
+  {
+    "id": "lopes-1998",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 3,
+    "bdtd": false
+  },
+  {
+    "id": "lopes-2003",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 5,
+    "bdtd": false
+  },
+  {
+    "id": "megid-2002",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 3,
+    "bdtd": false
+  },
+  {
+    "id": "miranda-2008",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 3,
+    "bdtd": false
+  },
+  {
+    "id": "oliveira-2003",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 6,
+    "bdtd": false
+  },
+  {
+    "id": "pamplona-2009",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 6,
+    "bdtd": false
+  },
+  {
+    "id": "pieruccini-2010",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 6,
+    "bdtd": false
+  },
+  {
+    "id": "rebelo-2004",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 3,
+    "bdtd": false
+  },
+  {
+    "id": "ricardo-2004",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 3,
+    "bdtd": false
+  },
+  {
+    "id": "rodrigues-2005",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 4,
+    "bdtd": false
+  },
+  {
+    "id": "rodrigues-2011",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 5,
+    "bdtd": false
+  },
+  {
+    "id": "rotunno-2007",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 4,
+    "bdtd": false
+  },
+  {
+    "id": "santos-2008",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 5,
+    "bdtd": false
+  },
+  {
+    "id": "sganzerla-1984",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 3,
+    "bdtd": false
+  },
+  {
+    "id": "silva-2000",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 3,
+    "bdtd": false
+  },
+  {
+    "id": "stelmastchuck-2009",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 4,
+    "bdtd": false
+  },
+  {
+    "id": "sturm-1999",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 5,
+    "bdtd": false
+  },
+  {
+    "id": "vargas-2011",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 3,
+    "bdtd": false
+  },
+  {
+    "id": "vendramini-2000",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 3,
+    "bdtd": false
+  },
+  {
+    "id": "wada-1996",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 3,
+    "bdtd": false
+  },
+  {
+    "id": "amaral-2007",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 7,
+    "bdtd": true
+  },
+  {
+    "id": "bifi-2006",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 4,
+    "bdtd": true
+  },
+  {
+    "id": "cabral-junior-2009",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 7,
+    "bdtd": true
+  },
+  {
+    "id": "canossa-2009",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 8,
+    "bdtd": true
+  },
+  {
+    "id": "correa-2010",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 8,
+    "bdtd": true
+  },
+  {
+    "id": "dell-orti-2010",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 4,
+    "bdtd": true
+  },
+  {
+    "id": "freitas-2010",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 7,
+    "bdtd": true
+  },
+  {
+    "id": "garcia-2008",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 7,
+    "bdtd": true
+  },
+  {
+    "id": "leite-2010",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 3,
+    "bdtd": true
+  },
+  {
+    "id": "lima-2009",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 10,
+    "bdtd": true
+  },
+  {
+    "id": "mendonca-2011",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 4,
+    "bdtd": true
+  },
+  {
+    "id": "morais-2006",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 8,
+    "bdtd": true
+  },
+  {
+    "id": "novaes-2011",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 4,
+    "bdtd": true
+  },
+  {
+    "id": "pedrosa-filho-2008",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 7,
+    "bdtd": true
+  },
+  {
+    "id": "raymundo-2009",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 4,
+    "bdtd": true
+  },
+  {
+    "id": "ribeiro-2007",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 9,
+    "bdtd": true
+  },
+  {
+    "id": "rodrigues-2009",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 6,
+    "bdtd": true
+  },
+  {
+    "id": "santos-2003-2",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 7,
+    "bdtd": true
+  },
+  {
+    "id": "santos-2011",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 3,
+    "bdtd": true
+  },
+  {
+    "id": "silva-2007",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 8,
+    "bdtd": true
+  },
+  {
+    "id": "simone-neto-2008",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 8,
+    "bdtd": true
+  },
+  {
+    "id": "stieler-2007",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 2,
+    "bdtd": true
+  },
+  {
+    "id": "vasques-2007",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 8,
+    "bdtd": true
+  },
+  {
+    "id": "vieira-2008",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 10,
+    "bdtd": true
+  },
+  {
+    "id": "amaral-2010",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 11,
+    "bdtd": true
+  },
+  {
+    "id": "bigattao-jr-2004",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 10,
+    "bdtd": true
+  },
+  {
+    "id": "caetano-2004",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 9,
+    "bdtd": true
+  },
+  {
+    "id": "cardoso-2007",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 9,
+    "bdtd": true
+  },
+  {
+    "id": "costa-2003",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 13,
+    "bdtd": true
+  },
+  {
+    "id": "duarte-2008",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 8,
+    "bdtd": true
+  },
+  {
+    "id": "friolani-2007",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 10,
+    "bdtd": true
+  },
+  {
+    "id": "goncalves-2004",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 3,
+    "bdtd": true
+  },
+  {
+    "id": "lemos-2011",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 3,
+    "bdtd": true
+  },
+  {
+    "id": "lima-2011",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 5,
+    "bdtd": true
+  },
+  {
+    "id": "miguel-2005",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 7,
+    "bdtd": true
+  },
+  {
+    "id": "moreno-2010",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 5,
+    "bdtd": true
+  },
+  {
+    "id": "oliveira-2010",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 5,
+    "bdtd": true
+  },
+  {
+    "id": "pereira-2007",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 9,
+    "bdtd": true
+  },
+  {
+    "id": "reis-2009",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 6,
+    "bdtd": true
+  },
+  {
+    "id": "ribeiro-2010",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 5,
+    "bdtd": true
+  },
+  {
+    "id": "rodrigues-2009-2",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 6,
+    "bdtd": true
+  },
+  {
+    "id": "santos-2005",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 6,
+    "bdtd": true
+  },
+  {
+    "id": "santos-filho-2010",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 3,
+    "bdtd": true
+  },
+  {
+    "id": "silva-2007-2",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 7,
+    "bdtd": true
+  },
+  {
+    "id": "souza-2002",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 8,
+    "bdtd": true
+  },
+  {
+    "id": "tonnetti-2010",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 4,
+    "bdtd": true
+  },
+  {
+    "id": "vazquez-2011",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 3,
+    "bdtd": true
+  },
+  {
+    "id": "vita-2012",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 4,
+    "bdtd": true
+  },
+  {
+    "id": "araujo-2007",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 9,
+    "bdtd": true
+  },
+  {
+    "id": "boga-neto-2005",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 4,
+    "bdtd": true
+  },
+  {
+    "id": "campos-2011",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 5,
+    "bdtd": true
+  },
+  {
+    "id": "chagas-2010",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 5,
+    "bdtd": true
+  },
+  {
+    "id": "costa-2007",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 3,
+    "bdtd": false
+  },
+  {
+    "id": "esteves-2001",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 5,
+    "bdtd": true
+  },
+  {
+    "id": "gaffuri-2012",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 3,
+    "bdtd": true
+  },
+  {
+    "id": "goulart-2007",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 9,
+    "bdtd": true
+  },
+  {
+    "id": "lima-2005",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 10,
+    "bdtd": true
+  },
+  {
+    "id": "lima-2013",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 5,
+    "bdtd": true
+  },
+  {
+    "id": "miranda-2011",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 6,
+    "bdtd": true
+  },
+  {
+    "id": "nascimento-2007",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 6,
+    "bdtd": true
+  },
+  {
+    "id": "pagan-2010",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 6,
+    "bdtd": true
+  },
+  {
+    "id": "pereira-2009",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 5,
+    "bdtd": true
+  },
+  {
+    "id": "ribacionka-2010",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 2,
+    "bdtd": true
+  },
+  {
+    "id": "rodrigues-2007",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 7,
+    "bdtd": true
+  },
+  {
+    "id": "sabo-2010",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 9,
+    "bdtd": true
+  },
+  {
+    "id": "santos-2010-3",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 2,
+    "bdtd": true
+  },
+  {
+    "id": "silva-2002",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 6,
+    "bdtd": true
+  },
+  {
+    "id": "silva-2008",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 8,
+    "bdtd": true
+  },
+  {
+    "id": "stella-2003",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 8,
+    "bdtd": true
+  },
+  {
+    "id": "vasconcelos-2007",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 10,
+    "bdtd": true
+  },
+  {
+    "id": "veras-2010",
+    "status": "aplicado",
+    "resumo": true,
+    "tags": 2,
+    "bdtd": true
+  }
+]

@@ -1,0 +1,83 @@
+{
+  "id": "santos-2005",
+  "autor": "Clemente Ramos dos Santos",
+  "ano": 2005,
+  "tipo": "Dissertação",
+  "titulo": "O tratamento da informação: currículos prescritos, formação de professores e implementação na sala de aula",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Célia Pires",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino de Matemática",
+  "nivel_codigo": "12",
+  "nivel": "Ensino Fundamental (anos finais) e Médio",
+  "foco_codigo": "2",
+  "foco": "Formação inicial/continuada e desenvolvimento profissional de professores",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Combinatória, Probabilidade e Estatística",
+  "problema": "contribuir para o entendimento de como se dá o \nprocesso de incorporação de temas ligados à combinatória, probabilidade e \nestatística na Educação Básica e as relações dessa inovação curricular com o \nprocesso de formação continuada de professores.",
+  "metodologia": "Em nossa pesquisa buscamos \na triangulação de métodos, ou seja, a utilização de procedimentos como a \nobservação de um curso de formação continuada, entrevistas e observação de \naulas de quatro professores, que participaram dessa formação, em turmas de \nEnsino Fundamental e Médio.",
+  "contribuicoes": "Nosso estudo revela que, de modo geral, esses \nprofessores não acham esses conteúdos viáveis para o Ensino Fundamental e \nmesmo para o Ensino Médio; apresentam certa resistência por não dominarem \nesses conteúdos e consideram que estes não estão previstos pelas propostas \npara o ensino fundamental e que são complexos. Afirmam não ter conhecimento \ndo que é proposto pelos PCN para o ensino de combinatória, probabilidade e \nestatística e declaram não ter estudado esses conteúdos no curso de graduação. \nCom relação ao curso de formação continuada, constatamos que a falta de \ndiscussões mais consistentes em relação à prática de ensino desses conteúdos \nem sala de aula e o pouco tempo destinado para o desenvolvimento do assunto \nfazem com que sua contribuição não tenha sido suficiente para colocação em \nprática de propostas para o ensino desses conteúdos, de forma a possibilitar boa \naprendizagem por parte dos alunos.",
+  "palavras_chave": "Tratamento da Informação, Inovação Curricular e Formação de \nProfessores",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O+tratamento+da+informa%C3%A7%C3%A3o%3A+curr%C3%ADculos+prescritos%2C+forma%C3%A7%C3%A3o+de+professores+e+implementa%C3%A7%C3%A3o+na+sala+de+aula%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+tratamento+da+informa%C3%A7%C3%A3o%3A+curr%C3%ADculos+prescritos%2C+forma%C3%A7%C3%A3o+de+professores+e+implementa%C3%A7%C3%A3o+na+sala+de+aula&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/11482",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_d15703f05486d67e7ef2c781713f77db"
+  },
+  "autor_planilha": "SANTOS, C. R.",
+  "orientador_planilha": "Célia Pires",
+  "autor_capes": "CLEMENTE RAMOS DOS SANTOS",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "2005833005010030P9",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "PUC_SP-1_d15703f05486d67e7ef2c781713f77db",
+    "url": "https://tede2.pucsp.br/handle/handle/11482",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Tratamento da Informação",
+    "Inovação Curricular",
+    "Formação de Professores",
+    "Educação matemática",
+    "Matemática - Estudo e ensino",
+    "Professores - Formação profissional",
+    "Inovação Curricular e Formação de Professores"
+  ],
+  "resumo": "Este trabalho tem como finalidade contribuir para o entendimento de como se dá o processo de incorporação de temas ligados à combinatória, probabilidade e estatística na Educação Básica e as relações dessa inovação curricular com o processo de formação continuada de professores. Em nossa pesquisa buscamos a triangulação de métodos, ou seja, a utilização de procedimentos como a observação de um curso de formação continuada, entrevistas e observação de aulas de quatro professores, que participaram dessa formação, em turmas de Ensino Fundamental e Médio. Nosso estudo revela que, de modo geral, esses professores não acham esses conteúdos viáveis para o Ensino Fundamental e mesmo para o Ensino Médio; apresentam certa resistência por não dominarem esses conteúdos e consideram que estes não estão previstos pelas propostas para o ensino fundamental e que são complexos. Afirmam não ter conhecimento do que é proposto pelos PCN para o ensino de combinatória, probabilidade e estatística e declaram não ter estudado esses conteúdos no curso de graduação. Com relação ao curso de formação continuada, constatamos que a falta de discussões mais consistentes em relação à prática de ensino desses conteúdos em sala de aula e o pouco tempo destinado para o desenvolvimento do assunto fazem com que sua contribuição não tenha sido suficiente para colocação em prática de propostas para o ensino desses conteúdos, de forma a possibilitar boa aprendizagem por parte dos alunos.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_d15703f05486d67e7ef2c781713f77db",
+  "palavras_chave_bdtd": "Tratamento da Informação; Inovação Curricular; Formação de Professores; Educação matemática; Matemática - Estudo e ensino; Professores - Formação profissional",
+  "ano_bdtd": 2005,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_d15703f05486d67e7ef2c781713f77db",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_d15703f05486d67e7ef2c781713f77db",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/santos-2005.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_d15703f05486d67e7ef2c781713f77db",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_d15703f05486d67e7ef2c781713f77db",
+    "confianca": "alta"
+  }
+}

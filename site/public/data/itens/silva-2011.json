@@ -1,0 +1,70 @@
+{
+  "id": "silva-2011",
+  "autor": "Altemar Melo da Silva",
+  "ano": 2011,
+  "tipo": "Dissertação",
+  "titulo": "O ENSINO DE ESTATÍSTICA NAS ESCOLAS DE ENSINO MÉDIO INTEGRADO NO ESTADO DE RORAIMA",
+  "instituicao": "Universidade Luterana do Brasil (ULBRA/Canoas)",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "6",
+  "foco": "Crenças, concepções, atitudes e saberes práticos",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "investigar como está sendo desenvolvido o ensino de \nEstatística nas escolas de Ensino Médio Integrado no Estado de Roraima.",
+  "metodologia": "pesquisa de campo \nabordando aspectos quantitativos e qualitativos e aplicamos questionários e \nentrevistas para os professores. A aplicação do questionário ocorreu no período de \n10 a 28 de março de 2011 no turno matutino. Averiguamos também, os currículos \ndas escolas de Ensino Médio Integrado. Os dados coletados foram analisados a \npartir do referencial teórico que propiciou subsídios para diagnosticar como está \nsendo desenvolvido o conteúdo de Estatística nas escolas de Ensino Médio \nIntegrado no Estado de Roraima.",
+  "contribuicoes": "Após analisamos os dados coletados verificamos \nque a Estatística está presente, nas escolas pesquisadas, sendo contemplada no \ncurrículo, o qual contém objetivos, orientações metodológicas e conteúdos \nreferentes ao eixo Análise de dados, um dos três eixos junto com a Álgebra: \nnúmeros e funções, Geometria e Medidas. Todos os professores são licenciados em \nMatemática, utilizam como principal metodologia a resolução de problema e o seu \nprincipal recurso didático e o livro didático. Diante dos resultados obtidos, \nverificamos que o ensino de Estatística está sendo desenvolvido nas escolas de \nEnsino Médio Integrado no Estado de Roraima, porém, com algumas restrições, \ncomo a falta de formação dos professores referentes à Educação Estatística.",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O+ENSINO+DE+ESTAT%C3%8DSTICA+NAS+ESCOLAS+DE+ENSINO+M%C3%89DIO+INTEGRADO+NO+ESTADO+DE+RORAIMA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+ENSINO+DE+ESTAT%C3%8DSTICA+NAS+ESCOLAS+DE+ENSINO+M%C3%89DIO+INTEGRADO+NO+ESTADO+DE+RORAIMA&type=AllFields",
+    "texto_completo": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/download/150/144",
+    "registro_institucional": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/150"
+  },
+  "autor_planilha": "SILVA, A. M.",
+  "orientador_planilha": "",
+  "autor_capes": "Altemar Melo da Silva",
+  "programa_capes": "Ensino de Ciências e Matemática",
+  "instituicao_capes": "Universidade Luterana do Brasil",
+  "cidade_capes": "Canoas",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20111242019010005P7",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.64
+  },
+  "tags": [
+    "Ensino de Estatística",
+    "Ensino Médio Integrado",
+    "Currículos"
+  ],
+  "enriquecimento_manual": {
+    "fonte": "Teses e Dissertações PPGECIM – ULBRA",
+    "confianca": "alta",
+    "observacao": "Título e autor (Altemar Melo da Silva) conferem; PDF aberto."
+  },
+  "resumo": "Esse estudo investigou o ensino de Estatística nas Escolas de Ensino Médio Integrado no estado de Roraima. Os conceitos estatísticos são fundamentais na formação do cidadão por sua aplicabilidade cotidiana e em praticamente todas as ciências. Os conceitos de Estatística segundo Cazorla, Kataoka e Silva (2010) devem estar presentes na formação dos alunos desde as series iniciais passando pelos cursos técnicos de nível médio, graduação e pós-graduação. Neste trabalho nossa questão de pesquisa foi investigar como está sendo desenvolvido o ensino de Estatística nas escolas de Ensino Médio Integrado no Estado de Roraima. Para a realização da pesquisa adotamos uma metodologia de pesquisa de campo abordando aspectos quantitativos e qualitativos e aplicamos questionários e entrevistas para os professores. A aplicação do questionário ocorreu no período de 10 a 28 de março de 2011 no turno matutino. Averiguamos também, os currículos das escolas de Ensino Médio Integrado. Os dados coletados foram analisados a partir do referencial teórico que propiciou subsídios para diagnosticar como está sendo desenvolvido o conteúdo de Estatística nas escolas de Ensino Médio Integrado no Estado de Roraima. Após analisamos os dados coletados verificamos que a Estatística está presente, nas escolas pesquisadas, sendo contemplada no currículo, o qual contém objetivos, orientações metodológicas e conteúdos referentes ao eixo Análise de dados, um dos três eixos junto com a Álgebra: números e funções, Geometria e Medidas. Todos os professores são licenciados em Matemática, utilizam como principal metodologia a resolução de problema e o seu principal recurso didático e o livro didático. Diante dos resultados obtidos, verificamos que o ensino de Estatística está sendo desenvolvido nas escolas de Ensino Médio Integrado no Estado de Roraima, porém, com algumas restrições, como a falta de formação dos professores referentes à Educação Estatística.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/150",
+  "thumbnail": "./assets/images/thumbs/silva-2011.svg",
+  "pesquisa_agente_links": {
+    "status": "ok",
+    "fonte_resumo": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/150",
+    "fonte_palavras": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/150",
+    "confianca": "alta"
+  }
+}

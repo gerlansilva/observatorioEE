@@ -1,0 +1,72 @@
+{
+  "id": "cazorla-2002",
+  "autor": "Irene Maurício Cazorla",
+  "ano": 2002,
+  "tipo": "Tese",
+  "titulo": "A RELAÇÃO ENTE A HABILIDADE VISO-PICTÓRICA E O DOMÍNIO DE CONCEITOS ESTATÍSTICOS NA LEITURA DE GRÁFICOS",
+  "instituicao": "Universidade Estadual de Campinas",
+  "cidade": "Campinas",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Marcia Regina Ferreira Brito",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "4",
+  "foco": "Cognição e Psicologia da Educação Estatística",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "Estatística",
+  "problema": "investigar os fatores que interferem na leitura de gráficos\nestatísticos à luz da teoria de habilidades matemáticas de Krutetskii e da teoria de\ncompreensão gráfica de Pinker.",
+  "metodologia": "Foram sujeitos da pesquisa 814 estudantes universitários\nque estavam cursando disciplinas de Estatística. Foram utilizados seis instrumentos: um\nquestionário, duas escalas de atitudes (Matemática e Estatística), uma prova matemática,\numa estatística e uma de aptidão verbal.",
+  "contribuicoes": "O sucesso na leitura de gráficos depende do\ndomínio do conceito estatístico, do background gráfico, da habilidade viso-pictórica e do\ngênero. Os homens apresentaram atitudes mais positivas e pontuações mais altas nas provas\ncognitivas, com exceção da prova verbal. O papel da instrução mostrou-se relevante no\ndesenvolvimento do conceito de média e da leitura de gráficos.",
+  "palavras_chave": "Métodos gráficos, leitura, Educação Estatística",
+  "referencial": "Krutetskii: teoria das habilidades matemáticas; Pinker: teoria de compreensão gráfica",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+RELA%C3%87%C3%83O+ENTE+A+HABILIDADE+VISO-PICT%C3%93RICA+E+O+DOM%C3%8DNIO+DE+CONCEITOS+ESTAT%C3%8DSTICOS+NA+LEITURA+DE+GR%C3%81FICOS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+RELA%C3%87%C3%83O+ENTE+A+HABILIDADE+VISO-PICT%C3%93RICA+E+O+DOM%C3%8DNIO+DE+CONCEITOS+ESTAT%C3%8DSTICOS+NA+LEITURA+DE+GR%C3%81FICOS&type=AllFields",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_56bef1f7308d2dde5dadfe1bacc4d290",
+    "registro_institucional": "https://hdl.handle.net/20.500.12733/1592398"
+  },
+  "autor_planilha": "CAZORLA, I. M.",
+  "orientador_planilha": "Márcia Brito",
+  "autor_capes": "Irene Maurício Cazorla",
+  "programa_capes": "Educação",
+  "instituicao_capes": "Universidade Estadual de Campinas",
+  "cidade_capes": "Campinas",
+  "orientador_capes": "Marcia Regina Ferreira Brito",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20021870733003017001P2",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.0
+  },
+  "tags": [
+    "Métodos gráficos",
+    "leitura",
+    "Educação Estatística"
+  ],
+  "thumbnail": "./assets/images/thumbs/cazorla-2002.svg",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UNICAMP-30_56bef1f7308d2dde5dadfe1bacc4d290",
+    "url": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_56bef1f7308d2dde5dadfe1bacc4d290",
+    "fonte": "agente"
+  },
+  "pesquisa_agente_links": {
+    "status": "ok",
+    "fonte_resumo": "https://www.psiem.fe.unicamp.br/pf-psiem/cazorla_irenemauricio_d.pdf",
+    "fonte_palavras": "https://www.psiem.fe.unicamp.br/pf-psiem/cazorla_irenemauricio_d.pdf",
+    "confianca": "alta"
+  },
+  "resumo": "O presente estudo investigou os fatores que interferem na leitura de gráficos estatísticos à luz da teoria de habilidades matemáticas de Krutetskii e da teoria de compreensão gráfica de Pinker. Foram sujeitos da pesquisa 814 estudantes universitários que estavam cursando disciplinas de Estatística. Foram utilizados seis instrumentos: um questionário, duas escalas de atitudes (Matemática e Estatística), uma prova matemática, uma estatística e uma de aptidão verbal. O sucesso na leitura de gráficos depende do domínio do conceito estatístico, do background gráfico, da habilidade viso-pictórica e do gênero. Os homens apresentaram atitudes mais positivas e pontuações mais altas nas provas cognitivas, com exceção da prova verbal. O papel da instrução mostrou-se relevante no desenvolvimento do conceito de média e da leitura de gráficos.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://www.psiem.fe.unicamp.br/pf-psiem/cazorla_irenemauricio_d.pdf"
+}

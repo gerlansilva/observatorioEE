@@ -1,0 +1,22 @@
+[
+  {
+    "id": "abe-2011",
+    "status": "baixa_similaridade",
+    "score": 0.378
+  },
+  {
+    "id": "almeida-2010-2",
+    "status": "baixa_similaridade",
+    "score": 0.615
+  },
+  {
+    "id": "cureau-2000",
+    "status": "baixa_similaridade",
+    "score": 0.508
+  },
+  {
+    "id": "sartor-2000",
+    "status": "baixa_similaridade",
+    "score": 0.322
+  }
+]

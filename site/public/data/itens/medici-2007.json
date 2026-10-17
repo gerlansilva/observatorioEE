@@ -1,0 +1,80 @@
+{
+  "id": "medici-2007",
+  "autor": "Michele Médici",
+  "ano": 2007,
+  "tipo": "Dissertação",
+  "titulo": "A construção do pensamento estatístico:organização, representação e interpretação de dados por alunos da 5ª sériedo ensino fundamental",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Cileda Coutinho",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "3",
+  "nivel": "Ensino Fundamental – anos finais",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "conceber uma sequência didática, em um enfoque experimental, para introduzir estatística para alunos da quinta série do ensino fundamental",
+  "metodologia": "Engenharia didática",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "Engenharia didática",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+constru%C3%A7%C3%A3o+do+pensamento+estat%C3%ADstico%3Aorganiza%C3%A7%C3%A3o%2C+representa%C3%A7%C3%A3o+e+interpreta%C3%A7%C3%A3o+de+dados+por+alunos+da+5%C2%AA+s%C3%A9riedo+ensino+fundamental%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+constru%C3%A7%C3%A3o+do+pensamento+estat%C3%ADstico%3Aorganiza%C3%A7%C3%A3o%2C+representa%C3%A7%C3%A3o+e+interpreta%C3%A7%C3%A3o+de+dados+por+alunos+da+5%C2%AA+s%C3%A9riedo+ensino+fundamental&type=AllFields",
+    "texto_completo": "https://tede2.pucsp.br/bitstream/handle/11125/1/dissertacao_michele_medici.pdf",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/11125",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_137f313abd621e47c117bf6aa151acee"
+  },
+  "autor_planilha": "MEDICI, M.",
+  "orientador_planilha": "Cileda Coutinho",
+  "autor_capes": "MICHELE MÉDICI",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "capes": {
+    "status": "ok",
+    "score": 0.997,
+    "id": "20074133005010005P4",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.0
+  },
+  "tags": [
+    "representações tabulares e gráficas",
+    "pensamento estatístico",
+    "seqüência didática",
+    "Educacao matematica",
+    "Matematica -- Estudo e ensino",
+    "Estatistica (Ensino fundamental)"
+  ],
+  "enriquecimento_manual": {
+    "fonte": "TEDE PUC-SP",
+    "confianca": "alta",
+    "observacao": "Handle, título, autora e orientador (Cileda de Q. e Silva Coutinho) confirmados."
+  },
+  "thumbnail": "./assets/images/thumbs/medici-2007.svg",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_137f313abd621e47c117bf6aa151acee",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_137f313abd621e47c117bf6aa151acee",
+    "fonte": "agente"
+  },
+  "resumo": "No nosso dia-a-dia ou em estudos e pesquisas científicas constatamos a necessidade de explorar as representações tabulares e gráficas. O relatório do 4º INAF ressalta, entre outros aspectos, que apenas 23% da população brasileira demonstra certa familiaridade com essas representações. Por acreditar que devemos começar cedo a explorá-las, o objetivo desta dissertação foi conceber uma seqüência didática, em um enfoque experimental, para introduzir estatística aos alunos da 5ª série (hoje 6º ano) do Ensino Fundamental. Buscamos não apenas as condições didáticas que favoreçam a evolução autônoma do aluno na resolução de problemas de organização, representação e interpretação de um conjunto de dados, mas também a seqüência didática que o professor possa utilizar, visando favorecer a construção do pensamento estatístico. Assim, investigamos a maneira como o aluno interage com as situações propostas pelo professor, os conhecimentos preliminares que os alunos já possuem, as hipóteses elaboradas por eles e a forma como mobilizam os conhecimentos construídos. Para tais análises, utilizamos os pressupostos da Engenharia Didática e concluímos que as aulas devem ser permeadas por debates coletivos e em pequenos grupos de trabalho e que todas as etapas devem ser construídas pelos alunos, responsáveis pela sua pesquisa. Pudemos verificar que os elementos para a construção do pensamento estatístico puderam ser compostos gradativamente pelos alunos e que as representações foram muitas vezes pouco organizadas e / ou com informações inexatas ou faltantes. Os debates proporcionaram uma homogeneização dos milieux, o que pôde levar à aprendizagem dos alunos. Levantamos uma série de questões para serem exploradas com esses alunos no ano seguinte de escolaridade",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_137f313abd621e47c117bf6aa151acee",
+  "pesquisa_agente_links": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_137f313abd621e47c117bf6aa151acee",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_137f313abd621e47c117bf6aa151acee",
+    "confianca": "alta"
+  }
+}

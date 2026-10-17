@@ -1,0 +1,83 @@
+{
+  "id": "goncalves-2010",
+  "autor": "Sérgio Pereira Gonçalves",
+  "ano": 2010,
+  "tipo": "Tese",
+  "titulo": "Estratégias didáticas no ensino de estatística básica em curso de ecologia.",
+  "instituicao": "Pontifícia Universidade Católica de Minas Gerais",
+  "cidade": "Belo Horizonte",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Dimas Felipe de Miranda",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Doutorado",
+  "conteudo": "Estatística",
+  "problema": "identificar \nalgumas contribuições que a aplicação de atividades didáticas planejadas, em aulas \nregulares, pode dar ao processo ensino/aprendizagem de tópicos básicos de \nEstatística Descritiva",
+  "metodologia": "Este trabalho traz a descrição e a análise de uma pesquisa junto a uma turma de 19 \nalunos de um curso superior de Ecologia. Foram organizados textos de atividades didáticas de \nEstatística, cujas aplicações se deram em aulas alternadas com as aulas expositivas \ntradicionais e com aulas práticas em um Laboratório de Informática. Essa alternância \nde estratégias didáticas, suas conexões, e as situações de desafio a que os alunos e \ntambém este professor pesquisador se expuseram, constituíram-se no principal foco \nde observação e reflexão da pesquisa durante o processo. tRATA-SE DE UMA PESQUISA-AÇÃO",
+  "contribuicoes": "As observações indicam \nque a estratégia metodológica usada, assumida com referência na concepção da \npesquisa/ação, interação pesquisador/pesquisado, contribuiu para motivar, despertar \ne responder indagações e dar significado e entendimento aos assuntos estudados.",
+  "palavras_chave": "Ensino de Estatística. Estratégias Didáticas. Pesquisa/Ação. \nEstatística Descritiva.",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Estrat%C3%A9gias+did%C3%A1ticas+no+ensino+de+estat%C3%ADstica+b%C3%A1sica+em+curso+de+ecologia.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estrat%C3%A9gias+did%C3%A1ticas+no+ensino+de+estat%C3%ADstica+b%C3%A1sica+em+curso+de+ecologia.&type=AllFields",
+    "texto_completo": "https://bib.pucminas.br/teses/Ensino_SergioPereiraGoncalves_5272_TextoCompleto.pdf",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_MINS_80072f66b14510583d0f71a2bd97b3fc"
+  },
+  "autor_planilha": "GONÇALVES, S. P.",
+  "orientador_planilha": "Dimas Miranda",
+  "autor_capes": "Sérgio Pereira Gonçalves",
+  "programa_capes": "Ensino",
+  "instituicao_capes": "Pontifícia Universidade Católica de Minas Gerais",
+  "cidade_capes": "Belo Horizonte",
+  "orientador_capes": "Dimas Felipe de Miranda",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20102032008015013P0",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "PUC_MINS_80072f66b14510583d0f71a2bd97b3fc",
+    "url": "https://bib.pucminas.br/teses/Ensino_SergioPereiraGoncalves_5272_TextoCompleto.pdf",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Ensino de Estatística",
+    "Estratégias Didáticas",
+    "Pesquisa/Ação",
+    "Estatística Descritiva",
+    "Estatística -",
+    "Aprendizagem por atividades -",
+    "Pesquisa-ação"
+  ],
+  "palavras_chave_bdtd": "Estatística -; Aprendizagem por atividades -; Pesquisa-ação",
+  "ano_bdtd": 2010,
+  "tipo_bdtd": "Tese",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_MINS_80072f66b14510583d0f71a2bd97b3fc",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_MINS_80072f66b14510583d0f71a2bd97b3fc",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/goncalves-2010.svg",
+  "resumo": "Este trabalho traz a descrição e a análise de uma pesquisa junto a uma turma de 19 alunos de um curso superior de Ecologia, por meio da qual visou-se identificar algumas contribuições que a aplicação de atividades didáticas planejadas, em aulas regulares, pode dar ao processo ensino/aprendizagem de tópicos básicos de Estatística Descritiva. Foram organizados textos de atividades didáticas de Estatística, cujas aplicações se deram em aulas alternadas com as aulas expositivas tradicionais e com aulas práticas em um Laboratório de Informática. Essa alternância de estratégias didáticas, suas conexões, e as situações de desafio a que os alunos e também este professor pesquisador se expuseram, constituíram-se no principal foco de observação e reflexão da pesquisa durante o processo. As observações indicam que a estratégia metodológica usada, assumida com referência na concepção da pesquisa/ação, interação pesquisador/pesquisado, contribuiu para motivar, despertar e responder indagações e dar significado e entendimento aos assuntos estudados.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bib.pucminas.br/teses/Ensino_SergioPereiraGoncalves_5272_TextoCompleto.pdf",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bib.pucminas.br/teses/Ensino_SergioPereiraGoncalves_5272_TextoCompleto.pdf",
+    "fonte_palavras": "https://bib.pucminas.br/teses/Ensino_SergioPereiraGoncalves_5272_TextoCompleto.pdf",
+    "confianca": "alta"
+  }
+}

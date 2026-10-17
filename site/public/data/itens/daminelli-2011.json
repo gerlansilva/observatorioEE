@@ -1,0 +1,73 @@
+{
+  "id": "daminelli-2011",
+  "autor": "Elisa Daminelli",
+  "ano": 2011,
+  "tipo": "Dissertação",
+  "titulo": "Uma proposta de ensino de estatística na 8ª série/9º ano do ensino fundamental.",
+  "instituicao": "Universidade Federal do Rio Grande do Sul",
+  "cidade": "Porto Alegre",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Alvino Sant'Ana",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino de Matemática",
+  "nivel_codigo": "3",
+  "nivel": "Ensino Fundamental – anos finais",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Estatística",
+  "problema": "apresentar uma proposta para o ensino de estatística no 9º ano do ensino fundamental, verificando como se desenvolve o ensino dessa ciência neste nível de escolaridade e qual a contribuição da estatística para a aprendizagem de matemática e para a formação crítica dos estudantes",
+  "metodologia": "Trata-se de uma proposta de ensino de estatística. Foi realizado um estudo de caso e o referencial teórico baseia-se na modelagem matemática de barbosa e na proposta de cenários para a investigação de Skovsmose",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "Barbosa: modelagem matemática; Skovsmose: cenários para investigação",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Uma+proposta+de+ensino+de+estat%C3%ADstica+na+8%C2%AA+s%C3%A9rie%2F9%C2%BA+ano+do+ensino+fundamental.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma+proposta+de+ensino+de+estat%C3%ADstica+na+8%C2%AA+s%C3%A9rie%2F9%C2%BA+ano+do+ensino+fundamental.&type=AllFields",
+    "registro_institucional": "http://hdl.handle.net/10183/37124",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UFRGS-2_adf9e5e8147edb3b2881882a7de685be"
+  },
+  "autor_planilha": "DAMINELLI, E.",
+  "orientador_planilha": "Alvino Sant'Ana",
+  "autor_capes": "Elisa Daminelli",
+  "programa_capes": "Ensino de Matemática",
+  "instituicao_capes": "Universidade Federal do Rio Grande do Sul",
+  "cidade_capes": "Porto Alegre",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "2011642001013081P9",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Ensino de estatística; Modelagem matemática; Estatistica : Ensino",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "UFRGS-2_adf9e5e8147edb3b2881882a7de685be",
+    "url": "http://hdl.handle.net/10183/37124",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Ensino de estatística",
+    "Modelagem matemática",
+    "Estatistica : Ensino"
+  ],
+  "resumo": "O objetivo deste trabalho é apresentar uma proposta para o ensino de Estatística na 8ªsérie/9º ano do Ensino Fundamental, verificando como se desenvolve o ensino desta ciência neste nível de escolaridade e qual a contribuição da Estatística para a aprendizagem de Matemática e para a formação crítica dos estudantes. Para isto, elaboramos e aplicamos uma sequência didática, que envolveu a realização de pesquisas, pelos alunos de uma 8ª série, com temas de seus interesses. A turma, na qual desenvolvemos este trabalho, faz parte de uma escola de Ensino Fundamental da rede Municipal de Osório. A metodologia de pesquisa utilizada foi o Estudo de Caso e o referencial teórico baseia-se na Modelagem Matemática de Barbosa e na proposta de Cenários para Investigação de Skovsmose. O desempenho dos alunos durante as aulas, como o interesse e a participação nas atividades, mostrou que a proposta é válida e adequada para o ensino de Estatística no Ensino Fundamental. Verificou-se que os Ambientes de Aprendizagem, que foram construídos durante as atividades, contribuíram para uma melhor compreensão dos conceitos trabalhados, inclusive oportunizando a revisão de outros conceitos da Matemática. Além disso, as atividades também oportunizaram a discussão de temas transversais. O trabalho apresenta como produto final o material elaborado e aplicado neste estudo e que poderá ser utilizado por professores na realização de atividades semelhantes para o Ensino de Estatística.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UFRGS-2_adf9e5e8147edb3b2881882a7de685be",
+  "ano_bdtd": 2011,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Não Informado pela instituição",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UFRGS-2_adf9e5e8147edb3b2881882a7de685be",
+    "url": "https://bdtd.ibict.br/vufind/Record/UFRGS-2_adf9e5e8147edb3b2881882a7de685be",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/daminelli-2011.svg"
+}

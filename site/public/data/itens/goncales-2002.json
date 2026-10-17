@@ -1,0 +1,80 @@
+{
+  "id": "goncales-2002",
+  "autor": "Norival Gonçalez",
+  "ano": 2002,
+  "tipo": "Tese",
+  "titulo": "Atitudes dos alunos do curso de pedagogia com relação a disciplina de estatistica no laboratorio de informática",
+  "instituicao": "Universidade Estadual de Campinas",
+  "cidade": "Campinas",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "James Maher",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "4",
+  "foco": "Cognição e Psicologia da Educação Estatística",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "Estatística",
+  "problema": "verificar as atitudes em relação à \nEstatística, o desempenho e a utilização do computador como mais um \ninstrumento facilitador da aprendizagem, tendo como sujeitos 1096 estudantes \nuniversitários do Curso de Pedagogia.",
+  "metodologia": "pesquisa quase- \nexperimental, descritiva e correlacional que, através das análises dos dados e da \nbusca de relações entre as variáveis, forneceu dados sobre as atitudes em relação à \nEstatística. Os sujeitos são 1096 estudantes \nuniversitários do Curso de Pedagogia. Os instrumentos foram: um \nquestionário informativo e uma Escala de Atitudes em relação à Estatística.",
+  "contribuicoes": "Os \nresultados revelaram que a maioria dos sujeitos opta pelo Curso de Pedagogia \npor vocação e 558 alunos apresentaram atitudes mais favoráveis em relação à \nEstatística e 538 alunos apresentaram atitudes menos favoráveis em relação à \nEstatística. O número de sujeitos com atitudes menos favoráveis em relação à \nEstatística é preocupante e motivou a busca de possíveis soluções para \nminimizar a ocorrência dessas atitudes. Seqüencialmente, foram investigados \n259 estudantes que foram submetidos ao uso do computador durante as aulas \nde Estatística e foram aplicados os seguintes instrumentos: Escala de Atitudes \nem relação à Estatística, questionário e uma prova de Matemática. Os \nresultados revelaram que os alunos iniciaram o Curso com pouco \nconhecimento dos conceitos básicos de Matemática e, ao longo do curso, \nforam mostrando ter atitudes mais favoráveis em relação à Estatística, \nalegando que o uso do computador facilitou o aprendizado.",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Atitudes+dos+alunos+do+curso+de+pedagogia+com+rela%C3%A7%C3%A3o+a+disciplina+de+estatistica+no+laboratorio+de+inform%C3%A1tica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Atitudes+dos+alunos+do+curso+de+pedagogia+com+rela%C3%A7%C3%A3o+a+disciplina+de+estatistica+no+laboratorio+de+inform%C3%A1tica&type=AllFields",
+    "registro_institucional": "https://hdl.handle.net/20.500.12733/1592033",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_aec3d8b690805d00417b487af45e03e1"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 0.997,
+    "id": "20021795633003017001P2",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "GONÇALES, N.",
+  "orientador_planilha": "James Maher",
+  "autor_capes": "Norival Gonçalez",
+  "programa_capes": "Educação",
+  "instituicao_capes": "Universidade Estadual de Campinas",
+  "cidade_capes": "Campinas",
+  "palavras_chave_bdtd": "Estatística; Estudantes - Atitudes; Computadores; Educação",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "UNICAMP-30_aec3d8b690805d00417b487af45e03e1",
+    "url": "https://hdl.handle.net/20.500.12733/1592033",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Estatística",
+    "Estudantes - Atitudes",
+    "Computadores",
+    "Educação"
+  ],
+  "ano_bdtd": 2002,
+  "tipo_bdtd": "Tese",
+  "instituicao_bdtd": "[s.n.]",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UNICAMP-30_aec3d8b690805d00417b487af45e03e1",
+    "url": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_aec3d8b690805d00417b487af45e03e1",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/goncales-2002.svg",
+  "resumo": "O presente estudo teve por objetivo verificar as atitudes em relação à Estatística, o desempenho e a utilização do computador como mais um instrumento facilitador da aprendizagem, tendo como sujeitos 1096 estudantes universitários do Curso de Pedagogia. Os instrumentos foram: um questionário informativo e uma Escala de Atitudes em relação à Estatística. Os resultados revelaram que a maioria dos sujeitos opta pelo Curso de Pedagogia por vocação e 558 alunos apresentaram atitudes mais favoráveis em relação à Estatística e 538 alunos apresentaram atitudes menos favoráveis em relação à Estatística. O número de sujeitos com atitudes menos favoráveis em relação à Estatística é preocupante e motivou a busca de possíveis soluções para minimizar a ocorrência dessas atitudes. Seqüencialmente, foram investigados 259 estudantes que foram submetidos ao uso do computador durante as aulas de Estatística e foram aplicados os seguintes instrumentos: Escala de Atitudes em relação à Estatística, questionário e uma prova de Matemática. Os resultados revelaram que os alunos iniciaram o Curso com pouco conhecimento dos conceitos básicos de Matemática e, ao longo do curso, foram mostrando ter atitudes mais favoráveis em relação à Estatística, alegando que o uso do computador facilitou o aprendizado.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://hdl.handle.net/20.500.12733/1592033",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://hdl.handle.net/20.500.12733/1592033",
+    "fonte_palavras": "https://hdl.handle.net/20.500.12733/1592033",
+    "confianca": "alta"
+  }
+}

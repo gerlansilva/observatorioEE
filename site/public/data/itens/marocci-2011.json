@@ -1,0 +1,73 @@
+{
+  "id": "marocci-2011",
+  "autor": "Lia Marques Marocci",
+  "ano": 2011,
+  "tipo": "Dissertação",
+  "titulo": "O movimento das significações probabilísticas proporcionado pela resolução de problemas e pela prática colaborativa numa turma de 1º ano do ensino médio",
+  "instituicao": "Universidade São Francisco",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Adair Mendes Nacarato",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Probabilidade",
+  "problema": "investigar os processos de elaboração conceitual probabilística dos alunos, quando inseridos em um contexto de resolução de problemas. A questão: “Quais contribuições um ambiente de cooperação investigativa traz para a elaboração conceitual probabilística dos alunos?” foi norteadora desta investigação.",
+  "metodologia": "Trata-se de uma pesquisa-ação em colaboração com a professora que leciona nessa turma. Por meio dessa parceria, foram desenvolvidos processos cíclicos de planejamento, ação e reflexão, acerca das ações e situações ocorridas na sala de aula, desde a seleção das tarefas até os processos avaliativos, perpassando o movimento de socializações das resoluções dos problemas apresentados. O estudo apoiou-se em três principais eixos teóricos: perspectiva histórico-cultural, probabilidade e resolução de problemas, a fim de contemplar os seguintes objetivos: 1) Analisar a circulação de significações matemáticas nos momentos de socialização das resoluções apresentadas aos problemas propostos; e 2) Analisar as ideias sobre probabilidade que emergem por parte dos alunos, quando inseridos em contextos de resolução de problemas. O material foi produzido por meio de: diário de campo da pesquisadora; áudio gravações das discussões em pequenos grupos; histórico de conversas via internet e áudio gravações das discussões entre pesquisadora e professora-pesquisadora colaboradora; videogravações das socializações das resoluções elaboradas pelos grupos para os problemas apresentados; registros escritos produzidos pelos alunos e entrevistas semi-estruturadas realizadas com alguns alunos.",
+  "contribuicoes": "A análise foi dividida em dois eixos: no primeiro, foram analisados alguns episódios, baseados na perspectiva histórico-cultural, que contêm excertos das socializações ocorridas nas aulas, nas quais eram discutidas as resoluções desenvolvidas pelos alunos, para os problemas que lhes eram apresentados; essas análises permitiram obter informações sobre o movimento de negociação de significações que os alunos possuem para conceitos relativos à probabilidade. No segundo eixo, focou-se a análise em alguns registros escritos elaborados pelos alunos, cartas pessoais e tirinhas; desse modo, foi possível levantar indícios sobre a aprendizagem dos alunos e o ambiente de aprendizagem constituído na sala de aula. A partir dessas análises, pôde-se observar que o estudo da probabilidade por meio da resolução de problemas ajudou os alunos a avançarem em seu processo de elaboração conceitual, mesmo que em diferentes níveis. Também se constatou que, quando é dada aos alunos a oportunidade de se expressar por meio de diversos instrumentos, eles são capazes de fazer importantes inferências sobre o ambiente de aprendizagem no qual estão inseridos e sobre seu próprio aprendizado. A rotatividade de interlocutores proporcionada pelo uso de várias formas de comunicação pôde ajudar os alunos a avançarem, tanto no que diz respeito à formação do pensamento matemático, quanto ao desenvolvimento humano.",
+  "palavras_chave": "",
+  "referencial": "perspectiva histórico-cultural, probabilidade e resolução de problemas",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O+movimento+das+significa%C3%A7%C3%B5es+probabil%C3%ADsticas+proporcionado+pela+resolu%C3%A7%C3%A3o+de+problemas+e+pela+pr%C3%A1tica+colaborativa+numa+turma+de+1%C2%BA+ano+do+ensino+m%C3%A9dio%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+movimento+das+significa%C3%A7%C3%B5es+probabil%C3%ADsticas+proporcionado+pela+resolu%C3%A7%C3%A3o+de+problemas+e+pela+pr%C3%A1tica+colaborativa+numa+turma+de+1%C2%BA+ano+do+ensino+m%C3%A9dio&type=AllFields",
+    "texto_completo": "https://www.usf.edu.br/galeria/getImage/385/434466096628132.pdf",
+    "registro_institucional": "https://www.usf.edu.br/galeria/getImage/385/434466096628132.pdf"
+  },
+  "autor_planilha": "MAROCCI, L. M.",
+  "orientador_planilha": "Adair Nacarato",
+  "autor_capes": "Lia Marques Marocci",
+  "programa_capes": "Educação",
+  "instituicao_capes": "Universidade São Francisco",
+  "cidade_capes": "Bragança Paulista",
+  "orientador_capes": "Adair Mendes Nacarato",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20111433050015004P1",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.245
+  },
+  "tags": [
+    "ambiente de aprendizagem",
+    "circulação de significações",
+    "prática colaborativa",
+    "probabilidade",
+    "resolução de problemas"
+  ],
+  "enriquecimento_manual": {
+    "fonte": "USF – lista oficial de dissertações",
+    "confianca": "alta",
+    "observacao": "Autora (Lia Marques Marocci) e tema conferem (orient. Adair Mendes Nacarato)."
+  },
+  "thumbnail": "./assets/images/thumbs/marocci-2011.svg",
+  "resumo": "O presente estudo foi desenvolvido por meio de uma abordagem qualitativa, em uma sala de aula de 1º ano do Ensino Médio de uma escola pública estadual, localizada na cidade de Louveira/SP, e investigou os processos de elaboração conceitual probabilística dos alunos, quando inseridos em um contexto de resolução de problemas. A questão: ―Quais contribuições um ambiente de cooperação investigativa traz para a elaboração conceitual probabilística dos alunos?‖ foi norteadora desta investigação. Trata-se de uma pesquisa-ação em colaboração com a professora que leciona nessa turma. Por meio dessa parceria, foram desenvolvidos processos cíclicos de planejamento, ação e reflexão, acerca das ações e situações ocorridas na sala de aula, desde a seleção das tarefas até os processos avaliativos, perpassando o movimento de socializações das resoluções dos problemas apresentados. O estudo apoiou-se em três principais eixos teóricos: perspectiva histórico-cultural, probabilidade e resolução de problemas, a fim de contemplar os seguintes objetivos: 1) Analisar a circulação de significações matemáticas nos momentos de socialização das resoluções apresentadas aos problemas propostos; e 2) Analisar as ideias sobre probabilidade que emergem por parte dos alunos, quando inseridos em contextos de resolução de problemas. O material foi produzido por meio de: diário de campo da pesquisadora; áudio gravações das discussões em pequenos grupos; histórico de conversas via internet e áudio gravações das discussões entre pesquisadora e professora-pesquisadora colaboradora; videogravações das socializações das resoluções elaboradas pelos grupos para os problemas apresentados; registros escritos produzidos pelos alunos e entrevistas semi-estruturadas realizadas com alguns alunos. A análise foi dividida em dois eixos: no primeiro, foram analisados alguns episódios, baseados na perspectiva histórico-cultural, que contêm excertos das socializações ocorridas nas aulas, nas quais eram discutidas as resoluções desenvolvidas pelos alunos, para os problemas que lhes eram apresentados; essas análises permitiram obter informações sobre o movimento de negociação de significações que os alunos possuem para conceitos relativos à probabilidade. No segundo eixo, focou-se a análise em alguns registros escritos elaborados pelos alunos, cartas pessoais e tirinhas; desse modo, foi possível levantar indícios sobre a aprendizagem dos alunos e o ambiente de aprendizagem constituído na sala de aula. A partir dessas análises, pôde-se observar que o estudo da probabilidade por meio da resolução de problemas ajudou os alunos a avançarem em seu processo de elaboração conceitual, mesmo que em diferentes níveis. Também se constatou que, quando é dada aos alunos a oportunidade de se expressar por meio de diversos instrumentos, eles são capazes de fazer importantes inferências sobre o ambiente de aprendizagem no qual estão inseridos e sobre seu próprio aprendizado. A rotatividade de interlocutores proporcionada pelo uso de várias formas de comunicação pôde ajudar os alunos a avançarem, tanto no que diz respeito à formação do pensamento matemático, quanto ao desenvolvimento humano.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://www.usf.edu.br/galeria/getImage/385/434466096628132.pdf",
+  "pesquisa_agente_links": {
+    "status": "ok",
+    "fonte_resumo": "https://www.usf.edu.br/galeria/getImage/385/434466096628132.pdf",
+    "fonte_palavras": "https://www.usf.edu.br/galeria/getImage/385/434466096628132.pdf",
+    "confianca": "alta"
+  }
+}

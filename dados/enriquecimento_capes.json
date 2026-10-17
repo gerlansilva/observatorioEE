@@ -1,0 +1,298 @@
+[
+  {
+    "id": "basseti-2012",
+    "status": "baixa_confianca",
+    "score": 0.619,
+    "autor": "BASSETI, A. V.",
+    "orientador": "Maria de Oliveira",
+    "url": null
+  },
+  {
+    "id": "becegato-1999",
+    "status": "baixa_confianca",
+    "score": 0.533,
+    "autor": "BECEGATO, R. C. G. B.",
+    "orientador": "Samuel Sanches",
+    "url": null
+  },
+  {
+    "id": "bortolanza-2003",
+    "status": "baixa_confianca",
+    "score": 0.495,
+    "autor": "BORTOLANZA, C.",
+    "orientador": "Nelson Hein",
+    "url": null
+  },
+  {
+    "id": "buehring-2006",
+    "status": "ok",
+    "score": 0.997,
+    "autor": "Roberta Schnorr Buehring",
+    "orientador": "Méricles Moretti",
+    "url": "undefined"
+  },
+  {
+    "id": "cardoso-2004",
+    "status": "baixa_confianca",
+    "score": 0.358,
+    "autor": "CARDOSO, J. C.",
+    "orientador": "Diva Flemming",
+    "url": null
+  },
+  {
+    "id": "casas-1997",
+    "status": "baixa_confianca",
+    "score": 0.363,
+    "autor": "CASAS, M. P. L.",
+    "orientador": "Valdemir Gutierrez",
+    "url": null
+  },
+  {
+    "id": "cavalcanti-2010",
+    "status": "baixa_confianca",
+    "score": 0.426,
+    "autor": "CAVALCANTI, M. R. G.",
+    "orientador": "Gilda Guimarães",
+    "url": null
+  },
+  {
+    "id": "contini-neto-2012",
+    "status": "baixa_confianca",
+    "score": 0.684,
+    "autor": "CONTINI NETO, F.",
+    "orientador": "Maria de Oliveira",
+    "url": null
+  },
+  {
+    "id": "cunha-2012",
+    "status": "baixa_confianca",
+    "score": 0.445,
+    "autor": "CUNHA, M. L.",
+    "orientador": "Lorí Viali",
+    "url": null
+  },
+  {
+    "id": "cureau-2000",
+    "status": "baixa_confianca",
+    "score": 0.496,
+    "autor": "CUREAU, D.",
+    "orientador": "Anselmo Chaves Neto",
+    "url": null
+  },
+  {
+    "id": "ferreira-2004",
+    "status": "baixa_confianca",
+    "score": 0.481,
+    "autor": "FERREIRA, J. Z.",
+    "orientador": "Silvana Rosa",
+    "url": null
+  },
+  {
+    "id": "ficagna-2005",
+    "status": "baixa_confianca",
+    "score": 0.552,
+    "autor": "FICAGNA, N. C.",
+    "orientador": "Carlos Pinent",
+    "url": null
+  },
+  {
+    "id": "figueiredo-2000",
+    "status": "baixa_confianca",
+    "score": 0.443,
+    "autor": "FIGUEIREDO, A. C.",
+    "orientador": "Benedito Silva",
+    "url": null
+  },
+  {
+    "id": "flores-2005",
+    "status": "baixa_confianca",
+    "score": 0.563,
+    "autor": "FLORES, A. A. N.",
+    "orientador": "Adriano Ruiz",
+    "url": null
+  },
+  {
+    "id": "fujii-2006",
+    "status": "baixa_confianca",
+    "score": 0.454,
+    "autor": "FUJII, N. P. N.",
+    "orientador": "Ismar Silveira",
+    "url": null
+  },
+  {
+    "id": "gaiovicz-2007",
+    "status": "baixa_confianca",
+    "score": 0.443,
+    "autor": "GAIOVICZ, M. J.",
+    "orientador": "Anselmo Chaves Neto",
+    "url": null
+  },
+  {
+    "id": "grzebieluchas-2001",
+    "status": "baixa_confianca",
+    "score": 0.421,
+    "autor": "GRZEBIELUCHAS, J.",
+    "orientador": "Ireno Berticelli",
+    "url": null
+  },
+  {
+    "id": "hey-2001",
+    "status": "baixa_confianca",
+    "score": 0.319,
+    "autor": "HEY, A. U. B.",
+    "orientador": "Silvana Rosa",
+    "url": null
+  },
+  {
+    "id": "lopes-1988",
+    "status": "baixa_confianca",
+    "score": 0.415,
+    "autor": "LOPES, A. E. C. O.",
+    "orientador": "Bernadete Gatti",
+    "url": null
+  },
+  {
+    "id": "miguel-2005",
+    "status": "baixa_confianca",
+    "score": 0.299,
+    "autor": "MIGUEL, M. I. R.",
+    "orientador": "Saddo Almouloud",
+    "url": null
+  },
+  {
+    "id": "milagre-2001",
+    "status": "baixa_confianca",
+    "score": 0.429,
+    "autor": "MILAGRE, R. A.",
+    "orientador": "Amir Valente",
+    "url": null
+  },
+  {
+    "id": "nunes-2009",
+    "status": "baixa_confianca",
+    "score": 0.461,
+    "autor": "NUNES, E. M. A.",
+    "orientador": "Sebastião de Carvalho",
+    "url": null
+  },
+  {
+    "id": "petta-2001",
+    "status": "baixa_confianca",
+    "score": 0.39,
+    "autor": "PETTA, J. H. S.",
+    "orientador": "Maria de Oliveira",
+    "url": null
+  },
+  {
+    "id": "pinheiro-2011",
+    "status": "baixa_confianca",
+    "score": 0.499,
+    "autor": "PINHEIRO, C. A. M.",
+    "orientador": "Celina Abar",
+    "url": null
+  },
+  {
+    "id": "putvinskis-2001",
+    "status": "baixa_confianca",
+    "score": 0.481,
+    "autor": "PUTVINSKIS, R.",
+    "orientador": "Arilda Godoy",
+    "url": null
+  },
+  {
+    "id": "reis-2001",
+    "status": "baixa_confianca",
+    "score": 0.435,
+    "autor": "REIS, M. M.",
+    "orientador": "Edson Paladini",
+    "url": null
+  },
+  {
+    "id": "rodrigues-2008",
+    "status": "baixa_confianca",
+    "score": 0.468,
+    "autor": "RODRIGUES, G. M.",
+    "orientador": "",
+    "url": null
+  },
+  {
+    "id": "santos-2003",
+    "status": "baixa_confianca",
+    "score": 0.509,
+    "autor": "SANTOS, F. A.",
+    "orientador": "Maria Lopes",
+    "url": null
+  },
+  {
+    "id": "santos-2010",
+    "status": "baixa_confianca",
+    "score": 0.545,
+    "autor": "SANTOS, C. S.",
+    "orientador": "Samuel Belo",
+    "url": null
+  },
+  {
+    "id": "sartor-2000",
+    "status": "baixa_confianca",
+    "score": 0.462,
+    "autor": "SARTOR, A. H. F.",
+    "orientador": "Maria Vasconcelos",
+    "url": null
+  },
+  {
+    "id": "sganzerla-1984",
+    "status": "baixa_confianca",
+    "score": 0.421,
+    "autor": "SGANZERLA, N. M. Z.",
+    "orientador": "Zélia Pavão",
+    "url": null
+  },
+  {
+    "id": "silva-2001",
+    "status": "baixa_confianca",
+    "score": 0.555,
+    "autor": "SILVA, E. A.",
+    "orientador": "Domingos Chorfi",
+    "url": null
+  },
+  {
+    "id": "souza-2002-2",
+    "status": "baixa_confianca",
+    "score": 0.509,
+    "autor": "SOUZA, K. M. T.",
+    "orientador": "Amir Valente",
+    "url": null
+  },
+  {
+    "id": "tomio-2005",
+    "status": "baixa_confianca",
+    "score": 0.496,
+    "autor": "TOMIO, J. C.",
+    "orientador": "Silvana Rosa",
+    "url": null
+  },
+  {
+    "id": "tonouti-2011",
+    "status": "baixa_confianca",
+    "score": 0.451,
+    "autor": "TONOUTI, R. R.",
+    "orientador": "Verônica Kataoka",
+    "url": null
+  },
+  {
+    "id": "vasconcelos-2003",
+    "status": "baixa_confianca",
+    "score": 0.445,
+    "autor": "VASCONCELOS, D. M.",
+    "orientador": "Airton Xavier",
+    "url": null
+  },
+  {
+    "id": "zequim-2010",
+    "status": "baixa_confianca",
+    "score": 0.66,
+    "autor": "ZEQUIM, A. M.",
+    "orientador": "Verônica Kataoka",
+    "url": null
+  }
+]

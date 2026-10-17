@@ -1,0 +1,51 @@
+{
+  "id": "marquez-2006",
+  "autor": "Giovana Dalmás Marquez",
+  "ano": 2006,
+  "tipo": "Dissertação",
+  "titulo": "As concepções dos professores de matemática do ensino fundamental e médio da 16ª CRE em relação ao ensino de estatística",
+  "instituicao": "Universidade Luterana do Brasil (ULBRA/Canoas)",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Arno Bayer",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "6",
+  "foco": "Crenças, concepções, atitudes e saberes práticos",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "investigar as concepções dos\nprofessores de Matemática do Ensino Fundamental e do Ensino Médio da 16ª Coordenadoria\nRegional de Educação, com relação ao ensino da Estatística.",
+  "metodologia": "o trabalho foi compos-to de 3 etapas distintas: a primeira foi um estudo bibliográfico a respeito de currículo; a segun-da foi a busca de dados sobre os conteúdos de Matemática e Estatística presentes nos planos\nde estudo das escolas e a terceira foi a investigação das opiniões dos professores que estavam\natuando na disciplina de Matemática em relação ao ensino da Estatística. Para o levantamento\ndos conteúdos foi solicitado o manuseio dos planos de estudo de cada escola, da coordenadoria.\nPara a investigação das opiniões dos professores, foi encaminhado um instrumento de pesqui-sa. Buscou-se saber dos educadores como os conteúdos de Estatística eram abordados e traba-lhados no Ensino Fundamental e no Ensino Médio. Foi investigada a importância dada pelos\nprofessores ao ensino de Estatística. Procurou-se saber dos professores se utilizavam o com-putador para a abordagem dos conteúdos de Estatística em aula e como eram discutidos pelo\nprofessor estes conteúdos, que são incluídos no plano de ensino. Investigou-se ainda, a visão\ndo professor sobre quais eram os objetivos da Estatística.",
+  "contribuicoes": "Após análise dos dados, de conhecer\no perfil dos professores da 16ª CRE, percebeu-se que menos da metade dos programas das\nescolas aborda o conteúdo de Estatística, porém, os professores consideraram que a aborda-gem deste conteúdo nas aulas seja importante e que pode contribuir efetivamente para a for-mação do aluno, desenvolvendo o espírito crítico e a cidadania.",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22As+concep%C3%A7%C3%B5es+dos+professores+de+matem%C3%A1tica+do+ensino+fundamental+e+m%C3%A9dio+da+16%C2%AA+CRE+em+rela%C3%A7%C3%A3o+ao+ensino+de+estat%C3%ADstica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=As+concep%C3%A7%C3%B5es+dos+professores+de+matem%C3%A1tica+do+ensino+fundamental+e+m%C3%A9dio+da+16%C2%AA+CRE+em+rela%C3%A7%C3%A3o+ao+ensino+de+estat%C3%ADstica&type=AllFields"
+  },
+  "autor_planilha": "MARQUEZ, G. D.",
+  "orientador_planilha": "",
+  "autor_capes": "Giovana Dalmás Marquez",
+  "programa_capes": "Ensino de Ciências e Matemática",
+  "instituicao_capes": "Universidade Luterana do Brasil",
+  "cidade_capes": "Canoas",
+  "orientador_capes": "Arno Bayer",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20062342019010005P7",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.526
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/marquez-2006.svg"
+}

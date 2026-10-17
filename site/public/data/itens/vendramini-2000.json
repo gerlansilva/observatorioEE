@@ -1,0 +1,80 @@
+{
+  "id": "vendramini-2000",
+  "autor": "Claudette Maria Medeiros Vendramini",
+  "ano": 2000,
+  "tipo": "Tese",
+  "titulo": "Implicações das atitudes e das habilidades matemáticas na aprendizagem dos conceitos de estatística.",
+  "instituicao": "Universidade Estadual de Campinas",
+  "cidade": "Campinas",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Márcia Regina Ferreira de Brito",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "4",
+  "foco": "Cognição e Psicologia da Educação Estatística",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "Estatística",
+  "problema": "verificar a relação entre as atitudes em relação à estatística, as habilidades matemáticas e a aprendizagem dos conceitos estatísticos",
+  "metodologia": "foram aplicados questionários a 319 estudantes universitários, assim como uma prova de estatística e uma prova de matemática",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Implica%C3%A7%C3%B5es+das+atitudes+e+das+habilidades+matem%C3%A1ticas+na+aprendizagem+dos+conceitos+de+estat%C3%ADstica.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Implica%C3%A7%C3%B5es+das+atitudes+e+das+habilidades+matem%C3%A1ticas+na+aprendizagem+dos+conceitos+de+estat%C3%ADstica.&type=AllFields",
+    "registro_institucional": "https://hdl.handle.net/20.500.12733/1589468",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_6d321c3f1efa4bd562a7ef4494a3c8fe"
+  },
+  "autor_planilha": "VENDRAMINI, C. M. M.",
+  "orientador_planilha": "Márcia Brito",
+  "autor_capes": "CLAUDETTE MARIA MEDEIROS VENDRAMINI",
+  "programa_capes": "Educação",
+  "instituicao_capes": "Universidade Estadual de Campinas",
+  "cidade_capes": "Campinas",
+  "orientador_capes": "Márcia Regina Ferreira de Brito",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "200038033003017001P2",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Estatística; Matemática - Estudo e ensino - Atitudes; Capacidade matemática",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "UNICAMP-30_6d321c3f1efa4bd562a7ef4494a3c8fe",
+    "url": "https://hdl.handle.net/20.500.12733/1589468",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Estatística",
+    "Matemática - Estudo e ensino - Atitudes",
+    "Capacidade matemática"
+  ],
+  "ano_bdtd": 2000,
+  "tipo_bdtd": "Tese",
+  "instituicao_bdtd": "[s.n.]",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UNICAMP-30_6d321c3f1efa4bd562a7ef4494a3c8fe",
+    "url": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_6d321c3f1efa4bd562a7ef4494a3c8fe",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/vendramini-2000.svg",
+  "resumo": "Para atingir um bom desempenho acadêmico, os alunos universitários necessitam, além das habilidades básicas, dentre as quais as habilidades matemáticas, ter atitudes positivas em relação às disciplinas da sua área de estudo. Na maioria das grades curriculares dos cursos de graduação, as disciplinas Matemática e Estatística estão presentes, fato que motivou vários estudos das atitudes em relação às mesmas. Assim, o presente estudo teve por objetivo verificar as relações entre as atitudes em relação à Estatística, as habilidades matemáticas e a aprendizagem dos conceitos estatísticos, tendo como sujeitos 319 estudantes universitários. Os instrumentos foram: um questionário informativo, uma escala de atitudes em relação à Estatística, uma prova de Estatística e uma prova de Matemática. Os resultados revelaram que poucos sujeitos conseguiram identificar características do conceito de Estatística - apenas 24,5%. Todavia, 80,3% declararam ter um motivo para estudá-la e 90,0% a consideraram uma ferramenta útil. Não foram encontradas diferenças significativas de atitudes em relação à Estatística entre os sujeitos que conseguiram identificar características da definição de Estatística e aqueles que não conseguiram identificar nenhuma característica de sua definição (p=0,1950). No entanto, a porcentagem de sujeitos com atitudes positivas, os quais citaram pelo menos uma utilidade para a Estatística, foi significativamente superior à porcentagem de sujeitos com atitudes negativas (p=0,0044). A análise das correlações entre o desempenho dos sujeitos em Estatística, a atitude em relação à Estatística, o desempenho na prova de Estatística e na prova de Matemática, revelou associações positivas e significativamente diferentes de zero. A análise de regressão múltipla mostrou que, quanto mais positivas eram as atitudes dos sujeitos em relação à Estatística e quanto melhor o desempenho na solução de problemas matemáticos, melhor era o desempenho desses sujeitos em Estatística. Esses resultados sugerem que sejam adotadas estratégias de ensino que desenvolvam as habilidades matemáticas e que tornem as atitudes em relação à Estatística mais positivas para, assim, melhorar o ensino-aprendizagem da Estatística, consequentemente melhorando o desempenho desses sujeitos nessa disciplina.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://hdl.handle.net/20.500.12733/1589468",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://hdl.handle.net/20.500.12733/1589468",
+    "fonte_palavras": "https://hdl.handle.net/20.500.12733/1589468",
+    "confianca": "media"
+  }
+}

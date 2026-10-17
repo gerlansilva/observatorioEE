@@ -1,0 +1,72 @@
+{
+  "id": "braga-2009",
+  "autor": "Kátia Aires Matins Braga",
+  "ano": 2009,
+  "tipo": "Dissertação",
+  "titulo": "O processo de ensino e aprendizagem de análise combinatória: uma visão dos professores de matemática de Floriano-PI",
+  "instituicao": "Universidade Luterana do Brasil (ULBRA/Canoas)",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Arno Bayer",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "6",
+  "foco": "Crenças, concepções, atitudes e saberes práticos",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Combinatória",
+  "problema": "investigar o desenvolvimento do processo ensino e aprendizagem do conteúdo \nAnálise Combinatória, na visão dos professores de Ensino Médio do município de \nFloriano/Piauí",
+  "metodologia": "foram investigadas sete escolas, sendo duas da rede \nprivada e cinco da rede públicas (das esferas: federal e estadual) e aplicado um \nquestionário a dezenove professores que trabalham ou trabalharam esse conteúdo \nem sala de aula. O questionário buscou identificar a importância dada por esses \nprofissionais a esse assunto do Ensino Médio, as dificuldades de aprendizagem \ndos alunos identificadas pelos professores e de que forma eles desenvolvem o \nensino da Análise Combinatória em sala de aula. Além disso, foram realizadas \nentrevistas com os docentes e análises dos livros didáticos adotados pelas escolas, \nprocurando colher informações sobre como esses livros desenvolvem o conteúdo \nde Análise Combinatória",
+  "contribuicoes": "A análise desses livros mostrou que se trata de material \ncom as seguintes características: presença de questões bastante contextualizadas; \nos materiais pouco utilizam fatos históricos para expor o conteúdo; não \nrelacionam os tipos de agrupamentos, deixando de destacar, muitas vezes, as \ndiferenças entre eles; abordam de forma detalhada o conteúdo, porém considera-se que pouco estimulam o raciocínio do aluno e pouco favorecem ao professor \ndesenvolver no aluno essa capacidade. Na visão dos professores, as maiores \ndificuldades no ensino e aprendizagem estão na interpretação dos problemas, na \ndiferenciação dos tipos de agrupamentos e na capacidade dos alunos em \nraciocinar nas questões de Análise Combinatória.",
+  "palavras_chave": "Ensino da Matemática, Matemática do Ensino Médio, \nEnsino e aprendizagem de Análise Combinatória, livros didáticos.",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O+processo+de+ensino+e+aprendizagem+de+an%C3%A1lise+combinat%C3%B3ria%3A+uma+vis%C3%A3o+dos+professores+de+matem%C3%A1tica+de+Floriano-PI%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+processo+de+ensino+e+aprendizagem+de+an%C3%A1lise+combinat%C3%B3ria%3A+uma+vis%C3%A3o+dos+professores+de+matem%C3%A1tica+de+Floriano-PI&type=AllFields",
+    "texto_completo": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/download/98/91",
+    "registro_institucional": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/98"
+  },
+  "autor_planilha": "BRAGA, K. A. M.",
+  "orientador_planilha": "Arno Bayer",
+  "autor_capes": "Kátia Aires Matins Braga",
+  "programa_capes": "Ensino de Ciências e Matemática",
+  "instituicao_capes": "Universidade Luterana do Brasil",
+  "cidade_capes": "Canoas",
+  "orientador_capes": "Arno Bayer",
+  "capes": {
+    "status": "ok",
+    "score": 0.994,
+    "id": "20092842019010005P7",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.574
+  },
+  "tags": [
+    "Ensino da Matemática",
+    "Matemática do Ensino Médio",
+    "Ensino e aprendizagem de Análise Combinatória",
+    "livros didáticos"
+  ],
+  "enriquecimento_manual": {
+    "fonte": "Teses e Dissertações PPGECIM – ULBRA",
+    "confianca": "alta",
+    "observacao": "Título e autora (Kátia Aires Braga) conferem; PDF aberto."
+  },
+  "resumo": "Esta dissertação apresenta o resultado da pesquisa, cujo objetivo foi investigar o desenvolvimento do processo ensino e aprendizagem do conteúdo Análise Combinatória, na visão dos professores de Ensino Médio do município de Floriano/Piauí. Para tanto, foram investigadas sete escolas, sendo duas da rede privada e cinco da rede públicas (das esferas: federal e estadual) e aplicado um questionário a dezenove professores que trabalham ou trabalharam esse conteúdo em sala de aula. O questionário buscou identificar a importância dada por esses profissionais a esse assunto do Ensino Médio, as dificuldades de aprendizagem dos alunos identificadas pelos professores e de que forma eles desenvolvem o ensino da Análise Combinatória em sala de aula. Além disso, foram realizadas entrevistas com os docentes e análises dos livros didáticos adotados pelas escolas, procurando colher informações sobre como esses livros desenvolvem o conteúdo de Análise Combinatória. A análise desses livros mostrou que se trata de material com as seguintes características: presença de questões bastante contextualizadas; os materiais pouco utilizam fatos históricos para expor o conteúdo; não relacionam os tipos de agrupamentos, deixando de destacar, muitas vezes, as diferenças entre eles; abordam de forma detalhada o conteúdo, porém considerase que pouco estimulam o raciocínio do aluno e pouco favorecem ao professor desenvolver no aluno essa capacidade. Na visão dos professores, as maiores dificuldades no ensino e aprendizagem estão na interpretação dos problemas, na diferenciação dos tipos de agrupamentos e na capacidade dos alunos em raciocinar nas questões de Análise Combinatória.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/98",
+  "thumbnail": "./assets/images/thumbs/braga-2009.svg",
+  "pesquisa_agente_links": {
+    "status": "ok",
+    "fonte_resumo": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/98",
+    "fonte_palavras": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/98",
+    "confianca": "alta"
+  }
+}

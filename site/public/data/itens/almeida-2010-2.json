@@ -1,0 +1,61 @@
+{
+  "id": "almeida-2010-2",
+  "autor": "Cátia Cândida de Almeida",
+  "ano": 2010,
+  "tipo": "Dissertação",
+  "titulo": "Análise de um instrumento de letramento estatístico para o ensino fundamental II",
+  "instituicao": "Universidade Bandeirantes de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Verônica Kataoka",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "3",
+  "nivel": "Ensino Fundamental – anos finais",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "avaliar o instrumento de letramento estatístico com \nalunos do ensino Fundamental II de escolas do Estado de São Paulo, a partir de um \ninstrumento elaborado e validado pelas pesquisadoras Watson e Callingham",
+  "metodologia": "foram utilizados: um questionário de perfil e o \ninstrumento de letramento estatístico. Do instrumento completo, foram selecionadas \napenas 8 questões para serem analisadas nessa pesquisa, utilizando o critério de \nrepresentatividade dos conceitos estatísticos/probabilísticos para o ensino \nfundamental II. As respostas dos 376 alunos foram classificadas de acordo com as \ncategorias definidas pelas pesquisadoras Watson e Callighman, construídas a partir \nda interação da taxonomia SOLO e dos estágios de conhecimento do contexto",
+  "contribuicoes": "Os resultados do teste estatístico mostraram que os alunos do 9º ano significativamente \nmaior dos que os demais, apenas para a questão de leitura pontual de um gráfico de \nbarras. O maior índice de respostas (32%) na questão de variabilidade foi no nível \nde resposta da categoria 0. As questões sobre amostragem, variabilidade e leitura \nde gráficos apresentaram baixos percentuais de respostas classificados na categoria \n3. O melhor desempenho dos alunos foi na questão de Probabilidade, indicando \nque, de fato, este tópico esteja sendo trabalhado nessa fase escolar, com destaque \npara o 8º e 9º ano, em que houve 12,3% e 14,9%, respectivamente, das respostas \nclassificadas na categoria 3. De todas as questões, esta foi a que teve menor \npercentual de respostas na categoria 0. As dificuldades na compreensão de alguns \nconceitos estatísticos foram similares às apontadas pelas pesquisadoras Watson e \nCallingham nas escolas australianas. Os resultados parecem indicar que é \nimportante trabalhar com situações didáticas contextualizadas para o ensino de \nEstatística.",
+  "palavras_chave": "Educação matemática, educação estatística, letramento estatístico, ensino fundamental II",
+  "referencial": "A construção do instrumento de letramento estatístico proposto pela autora toma como base teórica o modelo de letramento estatístico proposto por Gal",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22An%C3%A1lise+de+um+instrumento+de+letramento+estat%C3%ADstico+para+o+ensino+fundamental+II%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=An%C3%A1lise+de+um+instrumento+de+letramento+estat%C3%ADstico+para+o+ensino+fundamental+II&type=AllFields"
+  },
+  "bdtd": {
+    "status": "baixa_confianca",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "ALMEIDA, C. C.",
+  "orientador_planilha": "Verônica Kataoka",
+  "autor_capes": "Cátia Cândida de Almeida",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Universidade Anhanguera de São Paulo",
+  "cidade_capes": "São Paulo",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "2010433107017003P8",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.498
+  },
+  "tags": [
+    "Educação matemática",
+    "educação estatística",
+    "letramento estatístico",
+    "ensino fundamental II"
+  ],
+  "thumbnail": "./assets/images/thumbs/almeida-2010-2.svg"
+}

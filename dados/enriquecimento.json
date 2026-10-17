@@ -1,0 +1,92 @@
+[
+  {
+    "id": "abe-2011",
+    "status": "baixa_confianca",
+    "score": 0.0,
+    "autor": "ABE, T. S.",
+    "orientador": "Marilena Bittar",
+    "url": null,
+    "link": null
+  },
+  {
+    "id": "albuquerque-2010",
+    "status": "ok",
+    "score": 1.0,
+    "autor": "Milka Rossana Guerra Cavalcanti de ALBUQUERQUE",
+    "orientador": "Gilda Lisbôa GUIMARÃES",
+    "url": "https://bdtd.ibict.br/vufind/Record/UFPE_40c03f4a6532ffcad555853833096b23",
+    "link": "https://repositorio.ufpe.br/handle/123456789/3875"
+  },
+  {
+    "id": "alcantara-2012",
+    "status": "ok",
+    "score": 1.0,
+    "autor": "Luciana Rufino de ALCÂNTARA",
+    "orientador": "Iranete Maria de LIMA",
+    "url": "https://bdtd.ibict.br/vufind/Record/UFPE_404f95039cf0504a0631f5106414ed5a",
+    "link": "https://repositorio.ufpe.br/handle/123456789/12657"
+  },
+  {
+    "id": "almeida-2010-2",
+    "status": "baixa_confianca",
+    "score": 0.0,
+    "autor": "ALMEIDA, C. C.",
+    "orientador": "Verônica Kataoka",
+    "url": null,
+    "link": null
+  },
+  {
+    "id": "almeida-2010",
+    "status": "ok",
+    "score": 0.977,
+    "autor": "Adriana Luziê de Almeida",
+    "orientador": "Ana Cristina Ferreira",
+    "url": "https://bdtd.ibict.br/vufind/Record/UFOP_ffb44f2fc5843daa83197de5a4e51fc8",
+    "link": "http://www.repositorio.ufop.br/handle/123456789/2522"
+  },
+  {
+    "id": "alves-2010",
+    "status": "ok",
+    "score": 1.0,
+    "autor": "Alessandro Caldeira Alves",
+    "orientador": "Maria Frota",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_MINS_c8ef7358e609d4dc686c784cc5a0c64f",
+    "link": "http://bib.pucminas.br/teses/EnCiMat_AlvesAC_1.pdf"
+  },
+  {
+    "id": "alves-2011",
+    "status": "ok",
+    "score": 1.0,
+    "autor": "Iane Maria Pereira ALVES",
+    "orientador": "Carlos Eduardo Ferreira MONTEIRO",
+    "url": "https://bdtd.ibict.br/vufind/Record/UFPE_22764562e605e312abcbb281b1344232",
+    "link": "https://repositorio.ufpe.br/handle/123456789/3687"
+  },
+  {
+    "id": "alves-2012",
+    "status": "baixa_confianca",
+    "score": 0.0,
+    "autor": "ALVES, R. C.",
+    "orientador": "Claudia Vianna",
+    "url": null,
+    "link": null
+  },
+  {
+    "id": "amancio-2012",
+    "status": "nao_encontrado",
+    "score": null,
+    "autor": "AMANCIO, J. R.",
+    "orientador": "Claudia Vianna",
+    "url": null,
+    "link": null
+  },
+  {
+    "id": "amaral-2007",
+    "status": "nao_encontrado",
+    "score": null,
+    "autor": "AMARAL, M. H.",
+    "orientador": "Cileda Coutinho",
+    "url": null,
+    "link": null
+  }
+]

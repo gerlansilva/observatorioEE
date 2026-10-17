@@ -1,0 +1,81 @@
+{
+  "id": "sturm-1999",
+  "autor": "Wilton Sturm",
+  "ano": 1999,
+  "tipo": "Dissertação",
+  "titulo": "As possibilidades de um ensino de análise combinatória sob uma abordagem alternativa",
+  "instituicao": "Universidade Estadual de Campinas",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Dione Carvalho",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Combinatória",
+  "problema": "propor uma abordagem alternativa para o ensino de combinatória, baseada na participação ativa dos alunos e na predominância do pensamento combinatório em detrimento da aplicação de fórmulas",
+  "metodologia": "pesquisa qualitativa, onde o próprio pesquisador analisou a própria prática",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "modelagem matemática",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22As+possibilidades+de+um+ensino+de+an%C3%A1lise+combinat%C3%B3ria+sob+uma+abordagem+alternativa%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=As+possibilidades+de+um+ensino+de+an%C3%A1lise+combinat%C3%B3ria+sob+uma+abordagem+alternativa&type=AllFields",
+    "registro_institucional": "https://hdl.handle.net/20.500.12733/1590495",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_1d8cd7f211e213a7119c386ad0acf4f5"
+  },
+  "autor_planilha": "STURM, W.",
+  "orientador_planilha": "Dione Carvalho",
+  "autor_capes": "WILTON STURM",
+  "programa_capes": "Educação",
+  "instituicao_capes": "Universidade Estadual de Campinas",
+  "cidade_capes": "Campinas",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "199931133003017001P2",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Análise combinatória; Aprendizagem; Ambiente de sala de aula; Educação matemática; Solução de problemas",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "UNICAMP-30_1d8cd7f211e213a7119c386ad0acf4f5",
+    "url": "https://hdl.handle.net/20.500.12733/1590495",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Análise combinatória",
+    "Aprendizagem",
+    "Ambiente de sala de aula",
+    "Educação matemática",
+    "Solução de problemas"
+  ],
+  "ano_bdtd": 1999,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "[s.n.]",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UNICAMP-30_1d8cd7f211e213a7119c386ad0acf4f5",
+    "url": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_1d8cd7f211e213a7119c386ad0acf4f5",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/sturm-1999.svg",
+  "resumo": "A pesquisa que originou esta dissertação teve como foco os procedimentos apresentados pelos alunos e pelo professor, perante uma proposta pedagógica alternativa de Análise Combinatória. A denominação \"alternativa\" deve-se a características como abertura à participação dos alunos e predominância do pensamento combinatório ao invés da ênfase às fórmulas. Foi desenvolvida em uma sala de 2ª série do Ensino Médio. Uma razão que motivou este trabalho foi que boa parte dos professores consideram Análise Combinatória como algo complicado. Consideram-na um assunto de difícil entendimento por parte dos alunos. Estes, por sua vez, acabam vendo-se frente a várias fórmulas e nomenclaturas \"sem sentido\". Outra razão é a dificuldade de se encontrar textos relativos ao ensino de Análise Combinatória. A análise se desenvolveu numa perspectiva qualitativa, na qual o pesquisador analisou sua própria prática pedagógica, como professor da turma. O principal instrumento de registro foi o \"Diário\", no qual foi anotado com o máximo de detalhes o que ocorreu durante as aulas. Foram selecionados dois episódios para análises. O primeiro refere-se a um exercício trabalhado durante as aulas, que reúne a inclusão do exercício na proposta, seu desenvolvimento em aula e os momentos de debates após o mesmo ter sido apresentado. O outro episódio discute a relação entre Arranjo e Combinação, verificando como alguns textos tratam este assunto e analisando as aulas dedicadas a esta parte da proposta. Finalmente, foram feitas considerações acerca da pesquisa e mais especificamente, da proposta, e abertos horizontes para outras pesquisas.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_1d8cd7f211e213a7119c386ad0acf4f5",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_1d8cd7f211e213a7119c386ad0acf4f5",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_1d8cd7f211e213a7119c386ad0acf4f5",
+    "confianca": "media"
+  }
+}

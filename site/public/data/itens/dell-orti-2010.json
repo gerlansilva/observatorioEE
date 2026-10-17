@@ -1,0 +1,81 @@
+{
+  "id": "dell-orti-2010",
+  "autor": "Marcelo Dugan Dell' Orti",
+  "ano": 2010,
+  "tipo": "Dissertação",
+  "titulo": "Representações gráficas: conhecimentos mobilizados por alunos do ensino médio na compreensão e análise de informações contidas em gráficos",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Benedito Antonio da Silva",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino de Matemática",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Estatística",
+  "problema": "investigar o desempenho de alunos do 2º ano do ensino médio de uma escola pública estadual de são paulo, sobre a interpretação e análise de informações contidas em gráficos",
+  "metodologia": "A pesquisa é diagnóstica e insere-se na metodologia qualitativa. Os dados foram coletados por meio da resolução de 5 atividades. As análises desses dados foram norteadas pela teoria dos registros de representação semiótica de Duval, e pelos níveis de compreensão de representações gráficas, de Curcio.",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "Duval: registros de representação semiótica; Curcio: compreensão de representações gráficas",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Representa%C3%A7%C3%B5es+gr%C3%A1ficas%3A+conhecimentos+mobilizados+por+alunos+do+ensino+m%C3%A9dio+na+compreens%C3%A3o+e+an%C3%A1lise+de+informa%C3%A7%C3%B5es+contidas+em+gr%C3%A1ficos%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Representa%C3%A7%C3%B5es+gr%C3%A1ficas%3A+conhecimentos+mobilizados+por+alunos+do+ensino+m%C3%A9dio+na+compreens%C3%A3o+e+an%C3%A1lise+de+informa%C3%A7%C3%B5es+contidas+em+gr%C3%A1ficos&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/10827",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_6cf766e0a0f1016f70b4aae34b830e93"
+  },
+  "autor_planilha": "DELL'ORTI, M. D.",
+  "orientador_planilha": "Benedito Silva",
+  "autor_capes": "MARCELO DUGAN DELL' ORTI",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "orientador_capes": "Benedito Antonio da Silva",
+  "capes": {
+    "status": "ok",
+    "score": 0.8,
+    "id": "20102033005010030P9",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "São Paulo Faz Escola; Gráficos; Registros de representações semiótica; Níveis de compressão da representação gráfica",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.8,
+    "id": "PUC_SP-1_6cf766e0a0f1016f70b4aae34b830e93",
+    "url": "https://tede2.pucsp.br/handle/handle/10827",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "São Paulo Faz Escola",
+    "Gráficos",
+    "Registros de representações semiótica",
+    "Níveis de compressão da representação gráfica"
+  ],
+  "resumo": "Este trabalho é uma pesquisa qualitativa que tem como finalidade investigar o desempenho de alunos do 2º ano do Ensino Médio de uma escola pública estadual de São Paulo, sobre a interpretação e análise de informações contidas em gráficos. O estudo foi inspirado no projeto de recuperação e reforço de alunos da rede pública estadual, São Paulo Faz Escola , proposto pela Secretaria de Educação do Estado de São Paulo no ano de 2008. Especificamente, nos detivemos no material direcionado aos alunos de 7ª e 8ª séries, na forma de um jornal, no qual o bloco de Ciências Naturais sugere diversas atividades, envolvendo textos e gráficos que tratam do crescimento de determinadas populações de quatis. O ponto de partida dessa proposta foi discussão do significado da cadeia alimentar relacionada à vida animal de uma determinada região, culminando com o cálculo das taxas de crescimento bruto e relativo. Percebemos que essas atividades com representações gráficas, solicitavam dos alunos habilidades matemáticas e capacidade de leitura e interpretação de dados contidos em gráficos, para resolvê-las. Identificamos aí uma boa oportunidade para realizar nosso trabalho, visando investigar como os alunos se comportam quando solicitados a buscar informações contidas em gráficos, para fazerem comparações de quantidades e manipularem conhecimentos mobilizáveis de matemática, no que se refere às operações de subtração e divisão. O instrumento para coleta de dados foi constituído por cinco atividades contento textos e representações gráficas, que foram norteadas pela teoria dos Registros de Representações Semióticas de Duval, e pelos níveis de compreensão de representações gráficas, de Cúrcio. Os estudantes realizaram as atividades num clima de entusiasmo e seriedade e os resultados permitem inferir que, com as habilidades trabalhadas, os alunos parecem estar instrumentalizados a iniciar a análise do comportamento de funções a partir de seu registro gráfico. Esta conjectura pode servir de ponto de partida para futuras pesquisas",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_6cf766e0a0f1016f70b4aae34b830e93",
+  "ano_bdtd": 2010,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_6cf766e0a0f1016f70b4aae34b830e93",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_6cf766e0a0f1016f70b4aae34b830e93",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/dell-orti-2010.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_6cf766e0a0f1016f70b4aae34b830e93",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_6cf766e0a0f1016f70b4aae34b830e93",
+    "confianca": "alta"
+  }
+}

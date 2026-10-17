@@ -1,0 +1,73 @@
+{
+  "id": "lira-2010",
+  "autor": "Olga Cristina Teixeira Lira",
+  "ano": 2010,
+  "tipo": "Dissertação",
+  "titulo": "O uso de ferramentas do software tinkerplots para a interpretação de dados",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "Recife",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Carlos Eduardo Ferreira Monteiro",
+  "programa": "Educação Matemática e Tecnológica",
+  "area": "Educação Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "",
+  "foco": "Não informado",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O+uso+de+ferramentas+do+software+tinkerplots+para+a+interpreta%C3%A7%C3%A3o+de+dados%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+uso+de+ferramentas+do+software+tinkerplots+para+a+interpreta%C3%A7%C3%A3o+de+dados&type=AllFields",
+    "registro_institucional": "https://repositorio.ufpe.br/handle/123456789/3817",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UFPE_b8e523bf74fd734bd7c8ba3e45077275"
+  },
+  "autor_planilha": "LIRA, O. C. T.",
+  "orientador_planilha": "Carlos Monteiro",
+  "autor_capes": "OLGA CRISTINA TEIXEIRA LIRA",
+  "programa_capes": "Educação",
+  "instituicao_capes": "Universidade Federal de Pernambuco",
+  "cidade_capes": "Recife",
+  "orientador_capes": "Carlos Eduardo Ferreira Monteiro",
+  "capes": {
+    "status": "ok",
+    "score": 0.981,
+    "id": "20103125001019001P7",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Interpretação de dados; Software TinkerPlots; Uso do computador",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.778,
+    "id": "UFPE_b8e523bf74fd734bd7c8ba3e45077275",
+    "url": "https://repositorio.ufpe.br/handle/123456789/3817",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Interpretação de dados",
+    "Uso do computador"
+  ],
+  "resumo": "A ideia do uso do computador como ferramenta de apoio às práticas pedagógicas tem sido bastante defendida conforme recomendam os PCN (BRASIL, 1997). Estudos como os de Gitirana, Roazzi e Guimarães (2001), Ainley, Pratt e Nardi (2001), Magina e Santos (2008) abordam o tema sobre o trabalho com gráficos. Monteiro (1998) destaca esse tipo de representação de dados como meio de informação bastante veiculado pela mídia e a importância da interpretação desse tipo de veiculação de informações. Além desses estudos, Konold e Ben-Zvi (2006), Konold (2006), Beckker, Dery e Konold (2006) e Watson (2008) pesquisaram sobre a utilização do software TinkerPlots para o trabalho de análise de dados. Diante de propostas sobre o uso de software para o ensino de elementos da Estatística no currículo de Matemática, a presente pesquisa teve como objetivo investigar como estudantes do 7º ano do Ensino Fundamental realizam o processo de interpretação de dados utilizando o software TinkerPlots, usando, especificamente, as ferramentas Cards, Table e Plot. Foram participantes desta pesquisa, 12 estudantes do 7º ano do Ensino Fundamental de uma escola da rede privada, na zona Oeste da cidade do Recife. Os estudantes foram agrupados em duplas. A coleta dos dados foi realizada em quatro sessões. Na primeira sessão o software foi apresentado ao grupo todo para conhecer suas ferramentas, uma vez que o software utilizado neste estudo não é na primeira língua dos participantes, mas em inglês. Na segunda sessão os estudantes trabalharam, em duplas, utilizando as ferramentas do software para organização e interpretação de dados fictícios. Nas sessões seguintes, foi desenvolvida uma pesquisa cujo tema foi escolhido pelos próprios estudantes. Eles participaram de todo o processo desde a escolha do tema, à coleta dos dados até a interpretação dos mesmos. Os instrumentos utilizados nesta dissertação para registro dos dados foram a videografia através do software Camtasia Studio e o registro escrito, em protocolos, das observações da pesquisadora durante as sessões. Os estudantes manipularam as ferramentas do software TinkerPlots de forma a obter representações gráficas que possibilitaram a interpretação dos dados. Os resultados sugerem que o",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UFPE_b8e523bf74fd734bd7c8ba3e45077275",
+  "ano_bdtd": 2010,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Universidade Federal de Pernambuco",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UFPE_b8e523bf74fd734bd7c8ba3e45077275",
+    "url": "https://bdtd.ibict.br/vufind/Record/UFPE_b8e523bf74fd734bd7c8ba3e45077275",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/lira-2010.svg"
+}

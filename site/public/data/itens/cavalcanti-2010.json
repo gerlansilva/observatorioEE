@@ -1,0 +1,68 @@
+{
+  "id": "cavalcanti-2010",
+  "autor": "Milka Rossana Guerra Cavalcanti de Albuquerque",
+  "ano": 2010,
+  "tipo": "Dissertação",
+  "titulo": "Educação estatística: saberes de adultos e crianças em início de escolariação",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "Recife",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Gilda Lisbôa Guimarães",
+  "programa": "Educação Matemática e Tecnológica",
+  "area": "Educação Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "",
+  "foco": "Não informado",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Educa%C3%A7%C3%A3o+estat%C3%ADstica%3A+saberes+de+adultos+e+crian%C3%A7as+em+in%C3%ADcio+de+escolaria%C3%A7%C3%A3o%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educa%C3%A7%C3%A3o+estat%C3%ADstica%3A+saberes+de+adultos+e+crian%C3%A7as+em+in%C3%ADcio+de+escolaria%C3%A7%C3%A3o&type=AllFields",
+    "texto_completo": "https://repositorio.ufpe.br/bitstream/123456789/3875/1/arquivo52_1.pdf",
+    "registro_institucional": "https://repositorio.ufpe.br/handle/123456789/3875"
+  },
+  "capes": {
+    "status": "baixa_confianca",
+    "score": 0.426,
+    "candidato": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "CAVALCANTI, M. R. G.",
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.303
+  },
+  "tags": [
+    "adultos",
+    "crianças",
+    "escala",
+    "ensino-aprendizagem"
+  ],
+  "orientador_planilha": "Gilda Guimarães",
+  "instituicao_agente": "Universidade Federal de Pernambuco (UFPE)",
+  "programa_agente": "Programa de Pós-Graduação em Educação Matemática e Tecnológica (Edumatec)",
+  "enriquecimento_manual": {
+    "fonte": "Repositório Institucional da UFPE; Catálogo de Teses e Dissertações da CAPES",
+    "confianca": "alta",
+    "observacao": "O registro no repositório e no CAPES tem o título 'Como adultos e crianças compreendem a escala representada em gráficos'. Autor, instituição, ano, programa e orientadora coincidem."
+  },
+  "resumo": "O desenvolvimento tecnológico deu origem a uma grande quantidade de informações e a representação gráfica passou a configurar-se como um instrumento impressindível para a sua transmissão, devido a sua capacidade de transmitir de forma rápida e resumida um quantitativo grande de dados.Entretanto, a escala apresentada em um gráfico pode ser um instrumento utilizado para manipular dados, podendo gerar imagens distorcidas sobre as informações que são veiculadas. Dessa forma, tivemos como objetivo investigar como adultos e crianças dos anos iniciais de escolarização compreendem a escala representada em gráficos de barras e de linha. Participaram da pesquisa 152 alunos de escolas públicas da Região Metropolitana do Recife, sendo os mesmos do 3º e 5º ano do Ensino Fundamental e Módulos I-II e III da Educação de Jovens e Adultos. Foram realizados testes com os alunos, a fim de investigar quatro variáveis que estudos anteriores consideram importantes para a compreensão da escala apresentada nos gráficos, quais sejam: o tipo de gráfico; o valor da escala; a necessidade de o aluno localizar um valor implícito ou explícito na escala, ou de localizar uma frequência ou uma categoria a partir da escala. Percebemos que os alunos investigados não apresentaram um bom desempenho nessas questões. Na maioria das atividades, as crianças, principalmente do 5º ano, tiveram desempenho melhor do que os adultos, sendo o Módulo I-II o que apresentou o pior desempenho. Quanto às variáveis estruturais da representação, o gráfico de barras com escala unitária foi o que apresentou maior percentual de acertos. Em relação à natureza das questões, as de localização de categoria a partir de frequência e principalmente de valor explícito foram as que podemos considerar mais simples para os estudantes. Entretanto, quando não é preciso remeter à escala, devido aos valores que estão explícitos em cima de cada barra (como na maioria dos gráficos apresentados na mídia impressa), os alunos conseguem apresentar um bom desempenho. Assim, esse estudo evidencia a dificuldade dos alunos em compreender os valores em uma reta numérica, ou seja, compreender a proporcionalidade existente entre os valores expressos e suas subunidades. Acreditamos ser fundamental que a escola proponha um trabalho sistematizado com representações gráficas considerando os diferentes tipos de gráficos e as diferentes unidades escalares, aliando esse trabalho à compreensão de diferentes grandezas, principalmente a grandeza comprimento, discutindo as unidades de medidas e suas subunidades, para que de fato possamos construir cidadãos capazes de serem críticos frente às diversas estratégias utilizadas pela mídia para mascarar, omitir ou manipular as informações.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://repositorio.ufpe.br/handle/123456789/3875",
+  "thumbnail": "./assets/images/thumbs/cavalcanti-2010.svg",
+  "pesquisa_agente_links": {
+    "status": "ok",
+    "fonte_resumo": "https://repositorio.ufpe.br/handle/123456789/3875",
+    "fonte_palavras": "https://repositorio.ufpe.br/handle/123456789/3875",
+    "confianca": "alta"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "goncalves-2004",
+  "autor": "Mauro César Gonçalves",
+  "ano": 2004,
+  "tipo": "Dissertação",
+  "titulo": "Concepções de professores e o ensino de probabilidade na escola básica",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Cileda Coutinho",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "3",
+  "nivel": "Ensino Fundamental – anos finais",
+  "foco_codigo": "6",
+  "foco": "Crenças, concepções, atitudes e saberes práticos",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Probabilidade",
+  "problema": "identificar as concepções atuais dos professores de matemática em exercício no ensino fundamental sobre probabilidade, e verificar se há relações dessas concepções e as diferentes tendências de ensino da probabilidade nos anos 70, 80 e 90",
+  "metodologia": "Trabalho composto de estudos e análises de livros didáticos e de orientações institucionais desde a década de 70, por meio da orientação prazeológica de Chevallard, o que permitiu identificar as diferentes tendências quanto ao ensino de probabilidades. Uma amostra de 20 professores respondeu a um instrumento diagnóstico, um questionário. Os resultados foram comparados com o tipo de concepções apresentadas por Goded e os diferentes períodos de ensino de probabilidades, ambos por meio do software C.H.I.C.",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "Chevallard: transposição didática e organização prazeológica",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Concep%C3%A7%C3%B5es+de+professores+e+o+ensino+de+probabilidade+na+escola+b%C3%A1sica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Concep%C3%A7%C3%B5es+de+professores+e+o+ensino+de+probabilidade+na+escola+b%C3%A1sica&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/18471",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_ae08bf9301348e012c8239e348ca9825"
+  },
+  "autor_planilha": "GONÇALVES, M. C.",
+  "orientador_planilha": "Cileda Coutinho",
+  "autor_capes": "Mauro César Gonçalves",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "200413233005010005P4",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Concepção de Professores; Formação de Professores; Ensino de Probabilidades",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "PUC_SP-1_ae08bf9301348e012c8239e348ca9825",
+    "url": "https://tede2.pucsp.br/handle/handle/18471",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Concepção de Professores",
+    "Formação de Professores",
+    "Ensino de Probabilidades"
+  ],
+  "resumo": "Nossa pesquisa teve como objetivo identificar as concepções atuais dos Professores de Matemática em exercício no Ensino Fundamental sobre Probabilidade, e verificar se há relação entre estas concepções e as diferentes tendências do Ensino de Probabilidade nas décadas de 70, 80 e 90. Para isso, nosso trabalho foi composto de estudos e análises de livros didáticos e de orientações institucionais desde a década de 70, por meio da Organização Praxeológica de Yves Chevallard (1995), o que nos deu condições de identificar as diferentes tendências quanto ao Ensino de Probabilidades. Esta análise contribuiu diretamente com o estudo que fizemos da Transposição Didática em torno de Probabilidades, de acordo com as propostas de Yves Chevallard (1991), atuando diretamente na identificação dos saberes a ensinar e no saber escolar. Num outro momento, recorremos a uma amostra composta por vinte professores que responderam ao nosso instrumento diagnóstico, um questionário, constituído por duas partes, sendo a primeira, responsável por nos fornecer informações sobre o perfil de cada docente, e a segunda, relacionada às suas concepções probabilísticas. Os resultados dos questionários foram relacionados com os tipos de concepções apresentados por Goded (1996) e os diferentes períodos do Ensino de Probabilidades, ambos por meio do software C.H.I.C. Com isso, pudemos obter, simultaneamente, informações referentes ao tipo de concepção e período de formação básica. De modo geral, a análise das informações obtidas permite-nos afirmar que há indícios de que a prática docente influencia na mudança de concepções, pois, em nossa amostra, professores que obtiveram sua formação básica no mesmo período e atuam em séries ou níveis distintos possuem concepções, também, distintas",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_ae08bf9301348e012c8239e348ca9825",
+  "ano_bdtd": 2004,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_ae08bf9301348e012c8239e348ca9825",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_ae08bf9301348e012c8239e348ca9825",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/goncalves-2004.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_ae08bf9301348e012c8239e348ca9825",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_ae08bf9301348e012c8239e348ca9825",
+    "confianca": "alta"
+  }
+}

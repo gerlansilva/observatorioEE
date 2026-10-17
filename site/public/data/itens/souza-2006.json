@@ -1,0 +1,67 @@
+{
+  "id": "souza-2006",
+  "autor": "Talita de Lourdes Rosso de Souza",
+  "ano": 2006,
+  "tipo": "Dissertação",
+  "titulo": "Estatística no Ensino Médio: um estudo no município de Cachoeira do Sul.",
+  "instituicao": "Universidade Luterana do Brasil (ULBRA/Canoas)",
+  "cidade": "Canoas",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Marilaine de Fraga Sant´ana",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "5",
+  "foco": "Currículo e análise de conteúdo bibliográfico",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "investigar a presença da Estatística nas escolas de Ensino Médio da cidade de Cachoeira do \nSul.",
+  "metodologia": "elaboramos uma seqüência de etapas que julgamos importantes: análise dos \ncurrículos das escolas de Ensino Médio, tomando como referência o currículo do PEIES \n(Programa de Ingresso ao Ensino Superior), elaborado pela UFSM (Universidade Federal de \nSanta Maria), verificando a presença ou não da Estatística; análise de livros didáticos de \nMatemática, com relação à abordagem desse conteúdo; aplicação de um instrumento de \ncoleta de dados para conhecer a posição dos professores com relação ao tratamento a ela \ndispensado; e a investigação da viabilidade da aplicação de um projeto que permitisse ao \naluno vivenciar a Estatística em seu ambiente.",
+  "contribuicoes": "Nas questões que encaminhamos aos \nprofessores percebemos, de forma clara e objetiva, que os alunos das Escolas de Ensino \nMédio da cidade, até 2003, não estavam recebendo as importantes experiências que a \nEstatística proporciona. Somente em 2004, pela ação da noosfera, ela passa a fazer parte do \ncurrículo do PEIES e, portanto, do currículo das escolas. Verificamos por fim, que a \ntransposição didática da Estatística através do desenvolvimento de projetos, pode ser muito \nimportante para viabilizar o ensino dessa disciplina, por trazer novas experiências e \nconhecimentos para todos os envolvidos, auxiliando num processo conjunto de construção do \nsaber.",
+  "palavras_chave": "",
+  "referencial": "Pautamos nossas análises pelas referencias \nque nos proporcionaram Hernandez e Chevallard.",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Estat%C3%ADstica+no+Ensino+M%C3%A9dio%3A+um+estudo+no+munic%C3%ADpio+de+Cachoeira+do+Sul.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estat%C3%ADstica+no+Ensino+M%C3%A9dio%3A+um+estudo+no+munic%C3%ADpio+de+Cachoeira+do+Sul.&type=AllFields",
+    "texto_completo": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/download/43/40",
+    "registro_institucional": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/43"
+  },
+  "autor_planilha": "SOUZA, T. L. R.",
+  "orientador_planilha": "Marilaine Sant'ana",
+  "autor_capes": "Talita de Lourdes Rosso de Souza",
+  "programa_capes": "Ensino de Ciências e Matemática",
+  "instituicao_capes": "Universidade Luterana do Brasil",
+  "cidade_capes": "Canoas",
+  "orientador_capes": "Marilaine de Fraga Sant´ana",
+  "capes": {
+    "status": "ok",
+    "score": 0.985,
+    "id": "2006342019010005P7",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.477
+  },
+  "tags": [],
+  "enriquecimento_manual": {
+    "fonte": "Teses e Dissertações PPGECIM – ULBRA",
+    "confianca": "alta",
+    "observacao": "Título e autora conferem; PDF aberto."
+  },
+  "resumo": "Nesta dissertação, realizamos uma pesquisa de caráter qualitativo, buscando investigar a presença da Estatística nas escolas de Ensino Médio da cidade de Cachoeira do Sul. Para tanto, elaboramos uma seqüência de etapas que julgamos importantes: análise dos currículos das escolas de Ensino Médio, tomando como referência o currículo do PEIES (Programa de Ingresso ao Ensino Superior), elaborado pela UFSM (Universidade Federal de Santa Maria), verificando a presença ou não da Estatística; análise de livros didáticos de Matemática, com relação à abordagem desse conteúdo; aplicação de um instrumento de coleta de dados para conhecer a posição dos professores com relação ao tratamento a ela dispensado; e a investigação da viabilidade da aplicação de um projeto que permitisse ao aluno vivenciar a Estatística em seu ambiente. Pautamos nossas análises pelas referencias que nos proporcionaram Hernandez e Chevallard. Nas questões que encaminhamos aos professores percebemos, de forma clara e objetiva, que os alunos das Escolas de Ensino Médio da cidade, até 2003, não estavam recebendo as importantes experiências que a Estatística proporciona. Somente em 2004, pela ação da noosfera, ela passa a fazer parte do currículo do PEIES e, portanto, do currículo das escolas. Verificamos por fim, que a transposição didática da Estatística através do desenvolvimento de projetos, pode ser muito importante para viabilizar o ensino dessa disciplina, por trazer novas experiências e conhecimentos para todos os envolvidos, auxiliando num processo conjunto de construção do saber.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/43",
+  "thumbnail": "./assets/images/thumbs/souza-2006.svg",
+  "pesquisa_agente_links": {
+    "status": "ok",
+    "fonte_resumo": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/43",
+    "fonte_palavras": null,
+    "confianca": "alta"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "moraes-2011",
+  "autor": "Luciana Rockenbach de Moraes",
+  "ano": 2011,
+  "tipo": "Dissertação",
+  "titulo": "Desenvolvimento de um sistema modelo para ensino aprendizagem de estatística nas séries iniciais.",
+  "instituicao": "Universidade Regional Integrada",
+  "cidade": "Santo Ângelo",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Rozelaine de Fatima Franzin Contri",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Estatística",
+  "problema": "desenvolver um sistema modelo estatístico para trabalhar com alunos de \n1ª a 4ª série que auxilie na prática pedagógica do professor e que facilite aprendizagem dos alunos.",
+  "metodologia": "foi necessário \nrealizar uma pesquisa bibliográfica sobre os softwares estatísticos existentes para alunos e verificar as vantagens da sua \nutilização para professores e alunos.",
+  "contribuicoes": "Pode-se dizer que os professores das séries iniciais possuem uma grande dificuldade \npara trabalhar a estatística com os seus alunos sem o uso de um software adequado, para tanto sugere-se o trabalho que segue, \npois assim cabe ao professor preocupar-se com a realidade existente, a tecnologia, buscar renovar seus conhecimento e \ntransmitir aos alunos esta matéria como mais facilidade. Para complementar as características existentes na educação, é \npossível a utilização de softwares, para a elaboração de um protótipo é necessário seguir algumas etapas, a análise, o \nobjetivo, o planejamento, a programação e a validação e revisão. Após esta análise construiu-se o sistema modelo \ndenominado SESINI – Sistema Estatístico para Séries Iniciais.",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Desenvolvimento+de+um+sistema+modelo+para+ensino+aprendizagem+de+estat%C3%ADstica+nas+s%C3%A9ries+iniciais.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Desenvolvimento+de+um+sistema+modelo+para+ensino+aprendizagem+de+estat%C3%ADstica+nas+s%C3%A9ries+iniciais.&type=AllFields"
+  },
+  "autor_planilha": "MORAES, L. R.",
+  "orientador_planilha": "Rozelaine Franzin",
+  "autor_capes": "LUCIANA ROCKENBACH DE MORAES",
+  "programa_capes": "Ensino Cientifico e Tecnológico",
+  "instituicao_capes": "Universidade Regional Integrada do Alto Uruguai e das Missõe",
+  "cidade_capes": "Erechim",
+  "orientador_capes": "Rozelaine de Fatima Franzin Contri",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "2011142010012006P2",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.477
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/moraes-2011.svg"
+}

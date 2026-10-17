@@ -1,0 +1,73 @@
+{
+  "id": "pimentel-2009",
+  "autor": "Adriano Cesar dos Santos Pimentel",
+  "ano": 2009,
+  "tipo": "Dissertação",
+  "titulo": "Análise da influência do estilo de aprendizagem e da atitude em disciplinas de estatística da FEARP",
+  "instituicao": "Universidade de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Adriana Backx Noronha Viana",
+  "programa": "Administração de Organizações",
+  "area": "Administração",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "4",
+  "foco": "Cognição e Psicologia da Educação Estatística",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "com o objetivo de ientificar como variáveis demográficas, estilos de aprendizagem dos alunos e a atitude dos alunos perante a estatística influenciam o desempenho, este estudo analisou as características, estilos, atitudes e desempenho dos alunos de estatística da FEARP/USP",
+  "metodologia": "Foi utilizado o índice de estilos de aprendizagem de felder e solomon e a escala de atitudes de Schau.",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "índice de estilos de aprendizagem de felder e Soloman; escalade atitudes de Schau",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22An%C3%A1lise+da+influ%C3%AAncia+do+estilo+de+aprendizagem+e+da+atitude+em+disciplinas+de+estat%C3%ADstica+da+FEARP%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=An%C3%A1lise+da+influ%C3%AAncia+do+estilo+de+aprendizagem+e+da+atitude+em+disciplinas+de+estat%C3%ADstica+da+FEARP&type=AllFields",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/USP_221f73cf6392f89e22023c6d9876deae"
+  },
+  "autor_planilha": "PIMENTEL, A. C. S.",
+  "orientador_planilha": "Adriana Viana",
+  "autor_capes": "Adriano Cesar dos Santos Pimentel",
+  "programa_capes": "Administração de Organizações",
+  "instituicao_capes": "Universidade de São Paulo ( Ribeirão Preto )",
+  "cidade_capes": "Ribeirão Preto",
+  "orientador_capes": "Adriana Backx Noronha Viana",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "2009633002029036P0",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Atitude perante estatística; Attitude towards statistics; Education statistics; Ensino de estatística; Estilos de aprendizagem; Styles of learning",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "USP_221f73cf6392f89e22023c6d9876deae",
+    "url": "",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Atitude perante estatística",
+    "Ensino de estatística",
+    "Estilos de aprendizagem"
+  ],
+  "resumo": "O aprendizado de Estatística vem se tornando cada vez mais importante para o sucesso de empresas que competem em cenário globalizado e tem destacado os profissionais que, de fato, possuem este conhecimento. Em especial na administração, a estatística auxilia nas tomadas de decisão e é usada como ferramenta em diversas áreas como Finanças, Marketing e Produção, contudo, é utilizada também em outros cursos. Sabe-se,",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/USP_221f73cf6392f89e22023c6d9876deae",
+  "ano_bdtd": 2009,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Biblioteca Digitais de Teses e Dissertações da USP",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "USP_221f73cf6392f89e22023c6d9876deae",
+    "url": "https://bdtd.ibict.br/vufind/Record/USP_221f73cf6392f89e22023c6d9876deae",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/pimentel-2009.svg"
+}

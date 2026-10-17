@@ -1,0 +1,71 @@
+{
+  "id": "homa-2012",
+  "autor": "Agostinho Iaqchan Ryokiti Homa",
+  "ano": 2012,
+  "tipo": "Dissertação",
+  "titulo": "E-Learning com análise combinatória",
+  "instituicao": "Universidade Luterana do Brasil (ULBRA/Canoas)",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Claudia Groenwald",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "3",
+  "foco": "TICs, materiais e recursos didáticos",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Combinatória",
+  "problema": "investigar o desenvolvimento de uma sequência didática em formato \neletrônico, com o conteúdo matemático de Análise Combinatória, utilizando recursos \nmetodológicos diferenciados, possibilitando gerar cenários diferenciados e individualizados \nde navegação.",
+  "metodologia": "A metodologia de investigação consistiu no desenvolvimento de um \ne-learning, na plataforma ILIAS, e de um experimento com 7 alunos do curso de Licenciatura \nem Matemática, da Universidade Luterana do Brasil, no Rio Grande do Sul, com os conceitos \ndo Princípio Fundamental da Contagem, Permutação Simples, Arranjo Simples e Combinação \nSimples, com diferentes apresentações didáticas, utilizando vinte objetos de aprendizagem. \nPara o desenvolvimento da sequência didática utilizou-se, além dos dezessete objetos de \naprendizagem desenvolvidos para a sequência, três objetos da Rede Internacional Virtual de \nEducação (RIVED) e os seguintes recursos tecnológicos: Lousa interativa; Vídeo tutorial; \nTeste Adaptativo Computacional (iQuiz/iQuizcreate); Ferramenta de autoria Reload; \nplataforma eletrônica de aprendizagem ILIAS.",
+  "contribuicoes": "Os resultados apontam, em virtude dos objetivos investigados, \nque a pesquisa cumpriu seus propósitos, apresentando um e-learning em uma proposta \nconcreta de trabalho que valoriza a autoavaliação do aluno, com um tema matemático \nrelevante à formação do pensamento formal, a Análise Combinatória.",
+  "palavras_chave": "",
+  "referencial": "SCORM, Testes \nAdaptativos, Teoria de Resposta ao Item, Teste Adaptativo Computacional e Análise \nCombinatória",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22E-Learning+com+an%C3%A1lise+combinat%C3%B3ria%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=E-Learning+com+an%C3%A1lise+combinat%C3%B3ria&type=AllFields",
+    "texto_completo": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/download/160/186",
+    "registro_institucional": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/160"
+  },
+  "autor_planilha": "HOMA, A. I. R.",
+  "orientador_planilha": "Claudia Groenwald",
+  "autor_capes": "AGOSTINHO IAQCHAN RYOKITI HOMA",
+  "programa_capes": "Ensino de Ciências e Matemática",
+  "instituicao_capes": "Universidade Luterana do Brasil",
+  "cidade_capes": "Canoas",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "2012542019010005P7",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.603
+  },
+  "tags": [
+    "Tecnologias na Educação",
+    "Educação Matemática",
+    "Análise Combinatória",
+    "SCORM"
+  ],
+  "enriquecimento_manual": {
+    "fonte": "Teses e Dissertações PPGECIM – ULBRA",
+    "confianca": "alta",
+    "observacao": "Título e autor (Agostinho Iaqchan Ryokiti Homa) conferem; PDF aberto."
+  },
+  "resumo": "A facilidade de acesso aos computadores e à Internet tem mudado as características de interação do ser humano com o mundo. Nesse período de informatização massiva, onde várias atividades têm migrado para o digital, a aprendizagem eletrônica é uma das possibilidades para o desenvolvimento do processo de ensino e aprendizagem no meio computacional. Esse trabalho investigou como implementar um e-learning com o tema Análise Combinatória, baseada no padrão SCORM, de maneira que o aluno tenha a liberdade de estudo e a possibilidade de escolha entre recursos metodológicos diferenciados. Nesse sentido, o objetivo geral foi investigar o desenvolvimento de uma sequência didática em formato eletrônico, com o conteúdo matemático de Análise Combinatória, utilizando recursos metodológicos diferenciados, possibilitando gerar cenários diferenciados e individualizados de navegação. A metodologia de investigação consistiu no desenvolvimento de um e-learning, na plataforma ILIAS, e de um experimento com 7 alunos do curso de Licenciatura em Matemática, da Universidade Luterana do Brasil, no Rio Grande do Sul, com os conceitos do Princípio Fundamental da Contagem, Permutação Simples, Arranjo Simples e Combinação Simples, com diferentes apresentações didáticas, utilizando vinte objetos de aprendizagem. Para o desenvolvimento da sequência didática utilizou-se, além dos dezessete objetos de aprendizagem desenvolvidos para a sequência, três objetos da Rede Internacional Virtual de Educação (RIVED) e os seguintes recursos tecnológicos: Lousa interativa; Vídeo tutorial; Teste Adaptativo Computacional (iQuiz/iQuizcreate); Ferramenta de autoria Reload; plataforma eletrônica de aprendizagem ILIAS. O e-learning proporcionou, aos alunos, a escolha entre os diferentes objetos multimidiáticos, possibilitando a continuação na sequência ou a revisão do conteúdo já estudado, valorizando a autoavaliação, e o acompanhamento da sua aprendizagem, através de um Teste Adaptativo Computacional. A coleta de dados foi realizada através das observações do pesquisador e das informações armazenadas no banco de dados da plataforma de aprendizagem utilizada no experimento. A análise dos dados foi realizada segundo as categorias: plataforma de aprendizagem, sequência didática e sequência de navegação dos estudantes. Os resultados apontam, em virtude dos objetivos investigados, que a pesquisa cumpriu seus propósitos, apresentando um e-learning em uma proposta concreta de trabalho que valoriza a autoavaliação do aluno, com um tema matemático relevante à formação do pensamento formal, a Análise Combinatória.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/160",
+  "thumbnail": "./assets/images/thumbs/homa-2012.svg",
+  "pesquisa_agente_links": {
+    "status": "ok",
+    "fonte_resumo": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/160",
+    "fonte_palavras": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/160",
+    "confianca": "alta"
+  }
+}

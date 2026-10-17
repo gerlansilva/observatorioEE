@@ -1,0 +1,816 @@
+[
+  {
+    "id": "abe-2011",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "almeida-2010-2",
+    "status": "sem_url"
+  },
+  {
+    "id": "alves-2010",
+    "status": "sem_url"
+  },
+  {
+    "id": "alves-2012",
+    "status": "sem_url"
+  },
+  {
+    "id": "amancio-2012",
+    "status": "sem_url"
+  },
+  {
+    "id": "amaral-2007",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "amaral-2010",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "araujo-2007",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "araujo-2008",
+    "status": "sem_url"
+  },
+  {
+    "id": "barbosa-2012",
+    "status": "sem_url"
+  },
+  {
+    "id": "barreto-1999",
+    "status": "sem_url"
+  },
+  {
+    "id": "barrizon-2011",
+    "status": "sem_url"
+  },
+  {
+    "id": "barroso-2009",
+    "status": "sem_url"
+  },
+  {
+    "id": "basseti-2012",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "becegato-1999",
+    "status": "sem_url"
+  },
+  {
+    "id": "biajone-2006",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "bifi-2006",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "bigattao-jr-2004",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "boga-neto-2005",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "bortolanza-2003",
+    "status": "sem_url"
+  },
+  {
+    "id": "braga-2009",
+    "status": "ok",
+    "url": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/98",
+    "chars": 1674
+  },
+  {
+    "id": "buehring-2006",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "cabral-junior-2009",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "caetano-2004",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "campos-2011",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "canossa-2009",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "cardoso-2004",
+    "status": "sem_url"
+  },
+  {
+    "id": "cardoso-2007",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "carneiro-2003",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "carvalho-2005",
+    "status": "sem_url"
+  },
+  {
+    "id": "carvalho-2011-2",
+    "status": "sem_url"
+  },
+  {
+    "id": "casas-1997",
+    "status": "sem_url"
+  },
+  {
+    "id": "cavalcanti-2010",
+    "status": "ok",
+    "url": "https://repositorio.ufpe.br/handle/123456789/3875",
+    "chars": 2734
+  },
+  {
+    "id": "cazorla-2002",
+    "status": "sem_url"
+  },
+  {
+    "id": "chagas-2010",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "coelho-2010",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "conti-2009",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "contini-neto-2012",
+    "status": "sem_url"
+  },
+  {
+    "id": "correa-2010",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "correa-neto-2010",
+    "status": "sem_url"
+  },
+  {
+    "id": "costa-1994",
+    "status": "sem_url"
+  },
+  {
+    "id": "costa-2003",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "costa-2004",
+    "status": "sem_url"
+  },
+  {
+    "id": "costa-2007",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "costa-2012",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "cureau-2000",
+    "status": "sem_url"
+  },
+  {
+    "id": "dell-orti-2010",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "dias-2008",
+    "status": "sem_url"
+  },
+  {
+    "id": "duarte-2008",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "duarte-2010",
+    "status": "sem_url"
+  },
+  {
+    "id": "esteves-2001",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "evangelista-2010",
+    "status": "sem_url"
+  },
+  {
+    "id": "ferreira-2004",
+    "status": "sem_url"
+  },
+  {
+    "id": "ferreira-2011",
+    "status": "sem_url"
+  },
+  {
+    "id": "figueiredo-2000",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "flores-2005",
+    "status": "sem_url"
+  },
+  {
+    "id": "freitas-2010-2",
+    "status": "sem_url"
+  },
+  {
+    "id": "freitas-2010",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "friolani-2007",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "fujii-2006",
+    "status": "sem_url"
+  },
+  {
+    "id": "furlan-2011",
+    "status": "sem_url"
+  },
+  {
+    "id": "gaffuri-2012",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "gaiovicz-2007",
+    "status": "sem_url"
+  },
+  {
+    "id": "garcia-2008",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "giusti-2012",
+    "status": "ok",
+    "url": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/157",
+    "chars": 2109
+  },
+  {
+    "id": "goncales-2002",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "goncalves-2004",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "goncalves-2005",
+    "status": "sem_url"
+  },
+  {
+    "id": "goncalves-2010",
+    "status": "sem_url"
+  },
+  {
+    "id": "goulart-2007",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "gouvea-2011",
+    "status": "ok",
+    "url": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/140",
+    "chars": 1987
+  },
+  {
+    "id": "grzebieluchas-2001",
+    "status": "sem_url"
+  },
+  {
+    "id": "herebia-2002",
+    "status": "sem_url"
+  },
+  {
+    "id": "hey-2001",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "homa-2012",
+    "status": "ok",
+    "url": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/160",
+    "chars": 2600
+  },
+  {
+    "id": "jacobini-1999",
+    "status": "sem_url"
+  },
+  {
+    "id": "jung-2003",
+    "status": "sem_url"
+  },
+  {
+    "id": "leao-2006",
+    "status": "ok",
+    "url": "http://www.tede2.ufrpe.br:8080/tede2/handle/tede2/5399",
+    "chars": 1108
+  },
+  {
+    "id": "leite-2010",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "lemos-2002",
+    "status": "sem_url"
+  },
+  {
+    "id": "lemos-2011",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "lima-2005",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "lima-2009",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "lima-2011-2",
+    "status": "sem_url"
+  },
+  {
+    "id": "lima-2011",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "lima-2013",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "lopes-1988",
+    "status": "sem_url"
+  },
+  {
+    "id": "lopes-1998",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "lopes-2003",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "lugli-2011",
+    "status": "sem_url"
+  },
+  {
+    "id": "marocci-2011",
+    "status": "sem_url"
+  },
+  {
+    "id": "marquez-2006",
+    "status": "sem_url"
+  },
+  {
+    "id": "maschio-2002",
+    "status": "sem_url"
+  },
+  {
+    "id": "medici-2007",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "megid-2002",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "meirelles-2006",
+    "status": "sem_url"
+  },
+  {
+    "id": "melamed-1998",
+    "status": "sem_url"
+  },
+  {
+    "id": "mendonca-2008",
+    "status": "sem_url"
+  },
+  {
+    "id": "mendonca-2011",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "mendonca-2012",
+    "status": "sem_url"
+  },
+  {
+    "id": "miguel-2005",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "milagre-2001",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "miranda-2008",
+    "status": "sem_url"
+  },
+  {
+    "id": "miranda-2011",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "monteiro-1998",
+    "status": "sem_url"
+  },
+  {
+    "id": "moraes-2011",
+    "status": "sem_url"
+  },
+  {
+    "id": "morais-2006",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "moreno-2010",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "nascimento-2007",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "nogueira-2008",
+    "status": "sem_url"
+  },
+  {
+    "id": "nogueira-2011",
+    "status": "sem_url"
+  },
+  {
+    "id": "novaes-2011",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "nunes-2009",
+    "status": "sem_url"
+  },
+  {
+    "id": "oliveira-2003",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "oliveira-2005",
+    "status": "sem_url"
+  },
+  {
+    "id": "oliveira-2009",
+    "status": "ok",
+    "url": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/101",
+    "chars": 2013
+  },
+  {
+    "id": "oliveira-2010",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "pacheco-2001",
+    "status": "sem_url"
+  },
+  {
+    "id": "pagan-2010",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "pamplona-2009",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "panaino-1998",
+    "status": "sem_url"
+  },
+  {
+    "id": "pedrosa-filho-2008",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "pereira-2007",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "pereira-2009",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "pessanha-2001",
+    "status": "sem_url"
+  },
+  {
+    "id": "petta-2001",
+    "status": "sem_url"
+  },
+  {
+    "id": "pichler-e-2005",
+    "status": "sem_url"
+  },
+  {
+    "id": "pieruccini-2010",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "pinheiro-2008",
+    "status": "sem_url"
+  },
+  {
+    "id": "pinheiro-2011",
+    "status": "sem_url"
+  },
+  {
+    "id": "raymundo-2009",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "rebelo-2004",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "reis-2001",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "reis-2009",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "ribacionka-2010",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "ribeiro-2004",
+    "status": "sem_url"
+  },
+  {
+    "id": "ribeiro-2007",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "ribeiro-2010",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "ricardo-2004",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "rodrigues-2005",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "rodrigues-2007",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "rodrigues-2008",
+    "status": "sem_url"
+  },
+  {
+    "id": "rodrigues-2009-2",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "rodrigues-2009",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "rodrigues-2011",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "rosa-2006",
+    "status": "sem_url"
+  },
+  {
+    "id": "rotunno-2007",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "sabo-2010",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "santos-2003-2",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "santos-2003",
+    "status": "sem_url"
+  },
+  {
+    "id": "santos-2005",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "santos-2008",
+    "status": "sem_url"
+  },
+  {
+    "id": "santos-2010-2",
+    "status": "sem_url"
+  },
+  {
+    "id": "santos-2010-3",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "santos-2010",
+    "status": "ok",
+    "url": "https://lume.ufrgs.br/handle/10183/32469",
+    "chars": 1032
+  },
+  {
+    "id": "santos-2011-2",
+    "status": "sem_url"
+  },
+  {
+    "id": "santos-2011",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "santos-filho-2010",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "sartor-2000",
+    "status": "sem_url"
+  },
+  {
+    "id": "sganzerla-1984",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "sganzerla-2001",
+    "status": "sem_url"
+  },
+  {
+    "id": "silva-2000",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "silva-2001",
+    "status": "sem_url"
+  },
+  {
+    "id": "silva-2002",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "silva-2006",
+    "status": "sem_url"
+  },
+  {
+    "id": "silva-2007-2",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "silva-2007",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "silva-2008",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "silva-2011",
+    "status": "ok",
+    "url": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/150",
+    "chars": 1945
+  },
+  {
+    "id": "silveira-2010",
+    "status": "sem_url"
+  },
+  {
+    "id": "simone-neto-2008",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "sobrinho-2010",
+    "status": "sem_url"
+  },
+  {
+    "id": "souza-2002-2",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "souza-2002",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "souza-2006",
+    "status": "ok",
+    "url": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/43",
+    "chars": 1573
+  },
+  {
+    "id": "souza-2007",
+    "status": "sem_url"
+  },
+  {
+    "id": "souza-2009",
+    "status": "sem_url"
+  },
+  {
+    "id": "stella-2003",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "stelmastchuck-2009",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "stieler-2007",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "sturm-1999",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "teixeira-2012",
+    "status": "sem_url"
+  },
+  {
+    "id": "tomio-2005",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "tonnetti-2010",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "tonouti-2011",
+    "status": "sem_url"
+  },
+  {
+    "id": "vargas-2011",
+    "status": "sem_url"
+  },
+  {
+    "id": "vasconcelos-2003",
+    "status": "sem_url"
+  },
+  {
+    "id": "vasconcelos-2007",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "vasques-2007",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "vazquez-2011",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "vendramini-2000",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "veras-2010",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "vieira-2008",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "vita-2012",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "wada-1996",
+    "status": "nao_encontrado"
+  },
+  {
+    "id": "walichinski-2012",
+    "status": "ok",
+    "url": "http://repositorio.utfpr.edu.br/jspui/handle/1/1252",
+    "chars": 2632
+  },
+  {
+    "id": "yahata-2012",
+    "status": "sem_url"
+  },
+  {
+    "id": "zequim-2010",
+    "status": "sem_url"
+  }
+]

@@ -1,0 +1,82 @@
+{
+  "id": "moreno-2010",
+  "autor": "Marcelo Marcos Bueno Moreno",
+  "ano": 2010,
+  "tipo": "Dissertação",
+  "titulo": "Ensino e aprendizagem de estatística com ênfase na variabilidade: um estudo com alunos de um curso de Licenciatura em Matemática.",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Cileda de Queiroz e Silva Coutinho",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino de Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Estatística",
+  "problema": "estudar as características das atividades de uma formação com alunos de um curso de licenciatura em Matemática, que favoreçam a apreensão da variabilidade em um conjunto de valores",
+  "metodologia": "Uma Sequência Didática foi elaborada, segundo a proposta de construção de cenários de aprendizagem que se baseia na articulação de diversas teorias de aprendizagem. A sequência foi dividida em três partes: introdução e construção do conceito de média aritmética; construção do conceito de variabilidade pelo uso de medidas de dispersão e aplicação do conceito de variação para tomada de decisões. Das tarefas aplicadas, escolhemos três que fossem representativas para a análise teórica e análise das produções dos participantes, seguindo os pressupostos da Engenharia Didática, que foi a metodologia utilizada nesta pesquisa.",
+  "contribuicoes": "O resultado de outras pesquisas relacionadas ao presente tema, no que se refere à interpretação da variação, foi confirmado. A variação era considerada, apenas entre os dados e não em relação a uma medida de tendência central. Tal ocorrência consistiu em um fator de dificuldade para a interpretação das medidas de variabilidade. A abordagem dos intervalos com base em k desvio-padrão da média ajudou os participantes a darem sentido a esta medida de dispersão, e a comparação entre distribuições com a mesma média e diferentes dispersões auxiliou-os a perceberem a insuficiência da média, como medida-resumo e a importância das medidas de variação. A utilização de situações nas quais o conhecimento visado é a solução mais adequada para o problema e a estratégia da organização de tarefas cujos alunos pudessem mobilizar conhecimentos prévios para construírem os novos, mostraram-se úteis para a construção dos conceitos. Ao final da formação, os alunos (futuros professores) mostraram uma visão mais ampla para fazer uma Análise Exploratória de Dados e preocupavam-se em considerar a variabilidade.",
+  "palavras_chave": "",
+  "referencial": "Pressupostos teóricos da engenharia didática",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Ensino+e+aprendizagem+de+estat%C3%ADstica+com+%C3%AAnfase+na+variabilidade%3A+um+estudo+com+alunos+de+um+curso+de+Licenciatura+em+Matem%C3%A1tica.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Ensino+e+aprendizagem+de+estat%C3%ADstica+com+%C3%AAnfase+na+variabilidade%3A+um+estudo+com+alunos+de+um+curso+de+Licenciatura+em+Matem%C3%A1tica.&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/11472",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_aa975e720bf466e548f7feadb4fe6611"
+  },
+  "autor_planilha": "MORENO, M. M. B.",
+  "orientador_planilha": "Cileda Coutinho",
+  "autor_capes": "MARCELO MARCOS BUENO MORENO",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "orientador_capes": "Cileda de Queiroz e Silva Coutinho",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20102133005010030P9",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Variabilidade; Formação inicial de professores; Educação estatística; Sequência didática; Estatistica",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "PUC_SP-1_aa975e720bf466e548f7feadb4fe6611",
+    "url": "https://tede2.pucsp.br/handle/handle/11472",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Variabilidade",
+    "Formação inicial de professores",
+    "Educação estatística",
+    "Sequência didática",
+    "Estatistica"
+  ],
+  "resumo": "Tendo em vista a novidade da estatística nos currículos da Educação Básica, a escassez de pesquisas sobre a variabilidade descrita por vários autores, a dificuldade dos alunos na compreensão do desvio-padrão e na articulação dos conhecimentos matemáticos e estatísticos para aplicá-los em situações novas, objetivou-se estudar as características das atividades de uma formação com alunos de um curso de licenciatura em Matemática, que favoreçam a apreensão da variabilidade em um conjunto de valores. Uma Sequência Didática foi elaborda, segundo a proposta de construção de cenários de aprendizagem que se baseia na articulação de diversas teorias de aprendizagem. A sequência foi dividida em três partes: introdução e construção do conceito de média aritmética; construção do conceito de variabilidade pelo uso de medidas de dispersão e aplicação do conceito de variação para tomada de decisões. Das tarefas aplicadas, escolhemos três que fossem representativas para a análise teórica e análise das produções dos participantes, seguindo os pressupostos da Engenharia Didática, que foi a metodologia utilizada nesta pesquisa. O resultado de outras pesquisas relacionadas ao presente tema, no que se refere à interpretação da variação, foi confirmado. A variação era considerada, apenas entre os dados e não em relação a uma medida de tendência central. Tal ocorrência consistiu em um fator de dificuldade para a interpretação das medidas de variabilidade. A abordagem dos intervalos com base em k desvio-padrão da média ajudou os participantes a darem sentido a esta medida de dispersão, e a comparação entre distribuições com a mesma média e diferentes dispersões auxiliou-os a perceberem a insuficiência da média, como medida-resumo e a importância das medidas de variação. A utilização de situações nas quais o conhecimento visado é a solução mais adequada para o problema e a estratégia da organização de tarefas cujos alunos pudessem mobilizar conhecimentos prévios para construírem os novos, mostraram-se úteis para a construção dos conceitos. Ao final da formação, os alunos (futuros professores) mostraram uma visão mais ampla para fazer uma Análise Exploratória de Dados e preocupavam-se em considerar a variabilidade",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_aa975e720bf466e548f7feadb4fe6611",
+  "ano_bdtd": 2010,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_aa975e720bf466e548f7feadb4fe6611",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_aa975e720bf466e548f7feadb4fe6611",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/moreno-2010.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_aa975e720bf466e548f7feadb4fe6611",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_aa975e720bf466e548f7feadb4fe6611",
+    "confianca": "alta"
+  }
+}

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 120" role="img" aria-label="Observatório EE — Teses e dissertações em Educação Estatística">
+  <g transform="translate(0,28)">
+    <circle cx="32" cy="32" r="30" fill="#287A74"/>
+    <circle cx="32" cy="32" r="23" fill="none" stroke="#ffffff" stroke-opacity=".18" stroke-width="1.5"/>
+    <g fill="#ffffff">
+      <rect x="17" y="37" width="6" height="12" rx="1"/>
+      <rect x="26" y="30" width="6" height="19" rx="1"/>
+      <rect x="35" y="34" width="6" height="15" rx="1" fill="#AEEED3"/>
+      <rect x="44" y="23" width="6" height="26" rx="1"/>
+    </g>
+  </g>
+  <text x="88" y="64" font-family="Roboto, Arial, sans-serif" font-size="34" font-weight="500" fill="#1d1d1d" letter-spacing="-.3">Observatório EE</text>
+  <text x="88" y="88" font-family="Roboto, Arial, sans-serif" font-size="11" font-weight="400" fill="#898d8f" letter-spacing="2.1">TESES E DISSERTAÇÕES EM EDUCAÇÃO ESTATÍSTICA</text>
+</svg>

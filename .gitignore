@@ -1,0 +1,14 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+.cache/
+site/public/mobile.html
+site/public/mobile-item.html
+
+node_modules/
+.wrangler/
+.env
+.env.*
+*.log
+.DS_Store

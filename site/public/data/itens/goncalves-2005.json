@@ -1,0 +1,50 @@
+{
+  "id": "goncalves-2005",
+  "autor": "Harryson Júnio Lessa Gonçalves",
+  "ano": 2005,
+  "tipo": "Dissertação",
+  "titulo": "A educação estatística no ensino fundamental: discussões sobre a práxis de professoras que ensinam matemática no interior de Goiás",
+  "instituicao": "Universidade de Brasília",
+  "cidade": "Brasilia",
+  "estado": "Distrito Federal",
+  "regiao": "Centro-Oeste",
+  "orientador": "Cristiano Muniz",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "2",
+  "nivel": "Ensino Fundamental – anos iniciais",
+  "foco_codigo": "2",
+  "foco": "Formação inicial/continuada e desenvolvimento profissional de professores",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "quais \nconstruções e processos são identificados na práxis de professoras que ensinam Matemática \nno Ensino Fundamental em relação ao ensino de noções estocásticas na escola?",
+  "metodologia": "A construção \nmetodológica da pesquisa constituiu-se por dois grandes momentos de ação: no primeiro \nmomento, vivencio o cotidiano de uma professora de 4ª série em uma escola pública \nmunicipal de Formosa, interior de Goiás, buscando conhecer um pouco da realidade do ensino \nde Matemática, em especial, a presença de conceitos estocásticos no contexto da sala de aula. \nNo segundo momento, desenvolvo um curso de extensão para professores que ensinam \nMatemática no Ensino Fundamental de Formosa/GO.",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+educa%C3%A7%C3%A3o+estat%C3%ADstica+no+ensino+fundamental%3A+discuss%C3%B5es+sobre+a+pr%C3%A1xis+de+professoras+que+ensinam+matem%C3%A1tica+no+interior+de+Goi%C3%A1s%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+educa%C3%A7%C3%A3o+estat%C3%ADstica+no+ensino+fundamental%3A+discuss%C3%B5es+sobre+a+pr%C3%A1xis+de+professoras+que+ensinam+matem%C3%A1tica+no+interior+de+Goi%C3%A1s&type=AllFields"
+  },
+  "autor_planilha": "GONÇALVES, H. J. L.",
+  "orientador_planilha": "Cristiano Muniz",
+  "autor_capes": "HARRYSON JÚNIO LESSA GONÇALVES",
+  "programa_capes": "Educação",
+  "instituicao_capes": "Universidade de Brasília",
+  "cidade_capes": "Brasília",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "200537253001010001P0",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.572
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/goncalves-2005.svg"
+}

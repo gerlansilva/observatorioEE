@@ -1,0 +1,82 @@
+{
+  "id": "campos-2011",
+  "autor": "Carlos Eduardo de Campos",
+  "ano": 2011,
+  "tipo": "Dissertação",
+  "titulo": "Análise combinatória e proposta curricular paulista: um estudo dos problemas de contagem",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Sonia Barbosa Camargo Igliori",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "5",
+  "foco": "Currículo e análise de conteúdo bibliográfico",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Combinatória",
+  "problema": "avaliar os tipos de problemas de contagem que figuram no caderno do aluno do 2º ano do ensino médio da rede estadual paulista de ensino, com vistas à formação do raciocínio combinatório, levando em conta o pressuposto da proposta curricular em questão que entende a resolução de problemas como uma abordagem de ensino eficaz para os conceitos combinatórios",
+  "metodologia": "É realizada uma revisão da literatura nos cadernos de ensino das escolas paulista e uma análise de conteúdo balizada nos pressupostos de Batanero e Navarro-Pelayo",
+  "contribuicoes": "Os resultados mostram que, mesmo com um elenco importante de problemas, muitos se revelam repetitivos por envolver situações semelhantes.",
+  "palavras_chave": "Análise combinatória, modelo combinatório implícito, ensino médio, problemas de contagem, proposta curricular do estado de são paulo",
+  "referencial": "Vergnaud: teoria dos campos conceituais; Batanero, Navarro-Pelayo: variáveis de tarefa - modelo combinatório implícito, operação combinatória, natureza dos elementos que se combinam e valores dados aos elementos m e n",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22An%C3%A1lise+combinat%C3%B3ria+e+proposta+curricular+paulista%3A+um+estudo+dos+problemas+de+contagem%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=An%C3%A1lise+combinat%C3%B3ria+e+proposta+curricular+paulista%3A+um+estudo+dos+problemas+de+contagem&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/10901",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_259224165c794019137c156378acc963"
+  },
+  "autor_planilha": "CAMPOS, C. E.",
+  "orientador_planilha": "Sonia Igliori",
+  "autor_capes": "CARLOS EDUARDO DE CAMPOS",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "orientador_capes": "Sonia Barbosa Camargo Igliori",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "2011533005010005P4",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "PUC_SP-1_259224165c794019137c156378acc963",
+    "url": "https://tede2.pucsp.br/handle/handle/10901",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Análise combinatória",
+    "Modelo combinatório implícito",
+    "Ensino médio",
+    "Problemas de contagem",
+    "Proposta Curricular do Estado de São Paulo"
+  ],
+  "resumo": "Esta dissertação tem por foco o ensino e a aprendizagem da Análise Combinatória ou, mais especificamente, dos Problemas de Contagem. Trata-se do relatório minucioso de pesquisa documental de análise de material didático e, sobretudo, os procedimentos metodológicos são os adequados a essa modalidade de investigação. O objetivo da investigação é avaliar os tipos de Problemas de Contagem, que figuram no Caderno do Aluno do 3º bimestre do 2º ano do Ensino Médio, da Rede Estadual Paulista de Ensino, com vistas à formação do raciocínio combinatório, levando em conta o pressuposto da Proposta Curricular em questão que entende a resolução de problemas como uma abordagem de ensino eficaz para os conceitos combinatórios. Os problemas estudados são entendidos e classificados como simples, ou seja, aqueles que podem ser resolvidos usando somente uma operação combinatória. Os balizadores da análise de conteúdo realizada no Caderno são as variáveis de tarefa usadas por Batanero e Navarro-Pelayo: modelo combinatório implícito, operação combinatória, natureza dos elementos que se combinam e valores dados aos parâmetros m e n. Os mesmos são respaldados na Teoria dos Campos Conceituais de Verganaud, para a qual conceitos não podem ser apreendidos com a abordagem de um único tipo de problema. Nossa investigação nos levou a constatar que, mesmo com um elenco importante de problemas, muitos deles envolviam situações semelhantes. Isso se deu porque nem todas as variáveis consideradas foram encontradas nesse rol",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_259224165c794019137c156378acc963/Details",
+  "palavras_chave_bdtd": "Análise combinatória; Modelo combinatório implícito; Ensino médio; Problemas de contagem; Proposta Curricular do Estado de São Paulo",
+  "ano_bdtd": 2011,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_259224165c794019137c156378acc963",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_259224165c794019137c156378acc963",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/campos-2011.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_259224165c794019137c156378acc963/Details",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_259224165c794019137c156378acc963/Details",
+    "confianca": "alta"
+  }
+}

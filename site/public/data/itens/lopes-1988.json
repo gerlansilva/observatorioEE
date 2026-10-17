@@ -1,0 +1,52 @@
+{
+  "id": "lopes-1988",
+  "autor": "Antônia Elisa Calô Lopes",
+  "ano": 1988,
+  "tipo": "Dissertação",
+  "titulo": "A Estatística e sua história: Uma contribuição para o ensino da Estatística aplicada a educação",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Bernadete Gatti",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "7",
+  "foco": "História, Filosofia e revisão da literatura",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "buscar na historiografia disponível e nas pessoas que aí estão na prática do dia-a-dia algumas passagens históricas pelas quais se expressa e vai se solidificando o conhecimento estatístico",
+  "metodologia": "pesquisa bibliográfica de natureza historiográfica",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+Estat%C3%ADstica+e+sua+hist%C3%B3ria%3A+Uma+contribui%C3%A7%C3%A3o+para+o+ensino+da+Estat%C3%ADstica+aplicada+a+educa%C3%A7%C3%A3o%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+Estat%C3%ADstica+e+sua+hist%C3%B3ria%3A+Uma+contribui%C3%A7%C3%A3o+para+o+ensino+da+Estat%C3%ADstica+aplicada+a+educa%C3%A7%C3%A3o&type=AllFields"
+  },
+  "capes": {
+    "status": "baixa_confianca",
+    "score": 0.415,
+    "candidato": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "LOPES, A. E. C. O.",
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.452
+  },
+  "orientador_planilha": "Bernadete Gatti",
+  "instituicao_agente": "Pontifícia Universidade Católica de São Paulo (PUC-SP)",
+  "programa_agente": "Programa de Estudos Pós-Graduados em Educação: História, Política, Sociedade",
+  "enriquecimento_manual": {
+    "fonte": "Catálogo CAPES (ID 1989633005010001P9); artigo dos Anais do ENEM/SBEM 2016",
+    "confianca": "media",
+    "observacao": "CAPES registra 'ANTONIA ELISA C. DE OLIVEIRA LOPES', defesa em 01/02/1989; a literatura da área cita 1988. Título compatível. Orientador não localizado. Sem link público estável."
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/lopes-1988.svg"
+}

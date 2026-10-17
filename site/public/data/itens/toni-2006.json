@@ -1,0 +1,73 @@
+{
+  "id": "toni-2006",
+  "autor": "Marijane Paese de Toni",
+  "ano": 2006,
+  "tipo": "Dissertação",
+  "titulo": "A compreensão da Estatística a partir da Utilização da Planilha",
+  "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+  "cidade": "Porto Alegre",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Lorí Viali",
+  "programa": "Educação em Ciências e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "3",
+  "foco": "TICs, materiais e recursos didáticos",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "investigar a imagem, a aprendizagem e o interesse \ndos estudantes com relação à Estatística, comparando a abordagem tradicional (aula \nexpositiva) com uma metodologia que envolve o uso da planilha.",
+  "metodologia": "O trabalho foi realizado utilizando como amostra uma turma de alunos do \nterceiro ano do Ensino Médio de uma escola particular do interior do estado do Rio Grande do \nSul. O delineamento da investigação colocou metade da turma com a aula expositiva \ntradicional enquanto a outra metade foi trabalhada com uma metodologia envolvendo o uso da \nplanilha.",
+  "contribuicoes": "Os resultados foram confrontados através de análise de variância e o teste t para \namostras independentes. Os estudantes sujeitos a metodologia tradicional tiveram ao final, \naulas na informática, aplicando os conhecimentos adquiridos.",
+  "palavras_chave": "Ensino de estatística, Imagem da Estatística, Ensino com a planilha, Ensino \natravés de projetos.",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+compreens%C3%A3o+da+Estat%C3%ADstica+a+partir+da+Utiliza%C3%A7%C3%A3o+da+Planilha%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+compreens%C3%A3o+da+Estat%C3%ADstica+a+partir+da+Utiliza%C3%A7%C3%A3o+da+Planilha&type=AllFields",
+    "registro_institucional": "http://tede2.pucrs.br/tede2/handle/tede/3351",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/P_RS_ff4dbd9c82a3a94dcf54f328075dac59"
+  },
+  "autor_planilha": "TONI, M. P.",
+  "orientador_planilha": "Lorí Viali",
+  "autor_capes": "Marijane Paese de Toni",
+  "programa_capes": "Educação Em Ciências e Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica do Rio Grande do Sul",
+  "cidade_capes": "Porto Alegre",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20061342005019026P3",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.8,
+    "id": "P_RS_ff4dbd9c82a3a94dcf54f328075dac59",
+    "url": "http://tede2.pucrs.br/tede2/handle/tede/3351",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Ensino de estatística",
+    "Imagem da Estatística",
+    "Ensino com a planilha",
+    "Ensino através de projetos"
+  ],
+  "resumo": "Este trabalho tem por objetivo investigar a imagem, a aprendizagem e o interesse dos estudantes com relação à Estatística, comparando a abordagem tradicional (aula expositiva) com uma metodologia que envolve o uso da planilha. Como forma de motivar e envolver o aluno uma pesquisa de campo foi realizada levando em conta um tema de interesse dos estudantes. O trabalho foi realizado utilizando como amostra uma turma de alunos do terceiro ano do Ensino Médio de uma escola particular do interior do estado do Rio Grande do Sul. O delineamento da investigação colocou metade da turma com a aula expositiva tradicional enquanto a outra metade foi trabalhada com uma metodologia envolvendo o uso da planilha. Os resultados foram confrontados através de análise de variância e o teste t para amostras independentes. Os estudantes sujeitos a metodologia tradicional tiveram ao final, aulas na informática, aplicando os conhecimentos adquiridos.Pontifícia Universidade Católica do Rio Grande do SulFaculdade de FícaBRPUCRSPrograma de Pós-Graduação em Educação em Ciências e MatemáticaViali, Lorí",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/P_RS_ff4dbd9c82a3a94dcf54f328075dac59",
+  "ano_bdtd": 2006,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica do Rio Grande do Sul Faculdade de Fíca BR PUCRS Programa de Pós-Graduação em Educação em Ciências e Matemática",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "P_RS_ff4dbd9c82a3a94dcf54f328075dac59",
+    "url": "https://bdtd.ibict.br/vufind/Record/P_RS_ff4dbd9c82a3a94dcf54f328075dac59",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/toni-2006.svg"
+}

@@ -1,0 +1,353 @@
+[
+ {
+  "id": "alves-2012",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD (busca por título e autor) nem no repositório Pantheon/UFRJ; sem resumo em fonte pública verificável."
+ },
+ {
+  "id": "barreto-1999",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD (buscas por título e autor) nem no Repositório Institucional da UNESP; sem resumo em fonte pública verificável."
+ },
+ {
+  "id": "becegato-1999",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD (busca por título). Não foi localizado repositório institucional público da UNOESTE; sem resumo em fonte verificável."
+ },
+ {
+  "id": "cardoso-2004",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD (busca por título e termos do município). Não foi localizado repositório institucional público da UNISUL; sem resumo em fonte verificável."
+ },
+ {
+  "id": "carvalho-2011-2",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD nem no Repositório Institucional do CEFET-RJ; sem resumo em fonte pública verificável."
+ },
+ {
+  "id": "cazorla-2002",
+  "bdtd_url": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_56bef1f7308d2dde5dadfe1bacc4d290",
+  "repositorio_url": "https://hdl.handle.net/20.500.12733/1592398",
+  "resumo_pt": "O presente estudo investigou os fatores que interferem na leitura de gráficos estatísticos à luz da teoria de habilidades matemáticas de Krutetskii e da teoria de compreensão gráfica de Pinker. Foram sujeitos da pesquisa 814 estudantes universitários que estavam cursando disciplinas de Estatística. Foram utilizados seis instrumentos: um questionário, duas escalas de atitudes (Matemática e Estatística), uma prova matemática, uma estatística e uma de aptidão verbal. O sucesso na leitura de gráficos depende do domínio do conceito estatístico, do background gráfico, da habilidade viso-pictórica e do gênero. Os homens apresentaram atitudes mais positivas e pontuações mais altas nas provas cognitivas, com exceção da prova verbal. O papel da instrução mostrou-se relevante no desenvolvimento do conceito de média e da leitura de gráficos.",
+  "fonte_resumo": "https://www.psiem.fe.unicamp.br/pf-psiem/cazorla_irenemauricio_d.pdf",
+  "palavras_chave_pt": [
+   "Métodos gráficos",
+   "leitura",
+   "Educação Estatística"
+  ],
+  "fonte_palavras": "https://www.psiem.fe.unicamp.br/pf-psiem/cazorla_irenemauricio_d.pdf",
+  "confianca": "alta",
+  "observacao": "Registro BDTD confirmado (título e autora). O registro BDTD não traz resumo; resumo e palavras-chave extraídos do PDF oficial da tese (arquivo de pesquisa do grupo PSIEM/FE-UNICAMP)."
+ },
+ {
+  "id": "costa-1994",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD (busca por título e autor). Não foi possível consultar o sistema de teses da USP por busca; sem resumo em fonte pública verificável."
+ },
+ {
+  "id": "dias-2008",
+  "bdtd_url": null,
+  "repositorio_url": "https://www.usf.edu.br/galeria/getImage/385/6977855934502341.pdf",
+  "resumo_pt": "O objetivo principal deste estudo foi o de verificar as evidências de validade de uma prova de compreensão em leitura de um texto com informações estatísticas em estudantes de Psicologia. Foram participantes 206 estudantes regularmente matriculados no curso de psicologia, sendo 79,1% do gênero feminino, com idades variando de 17 a 54 anos (M=25,9; DP=6,8), dos turnos diurno (17,5%) e noturno (82,5%). Foram utilizados um questionário sobre conceitos estatísticos, e duas provas de compreensão, uma de um texto geral, e a outra de um texto específico que envolve conceitos estatísticos. Os instrumentos foram aplicados coletivamente pela pesquisadora, em uma sessão, em horários regulares de aula. Os resultados indicaram que houve evidências de validade convergente entre os dois instrumentos de compreensão, uma vez que houve correlação significativa (r=0,535; p<0,001) entre a prova de compreensão de um texto que envolve conceitos estatísticos e a prova de compreensão de um texto de leitura geral. A análise fatorial com informação completa revelou a predominância unidimensional para os itens da prova de leitura específica, podendo explicar 24,80% da variância entre os itens. A análise pela Teoria de Resposta ao Item mostrou um melhor ajuste pelo modelo de três parâmetros, sendo este, em que se observou o menor resíduo. O coeficiente de fidedignidade avaliado pelo coeficiente de Kuder-Richardson, indicou que a prova apresenta uma boa precisão (KR-21=0,813).",
+  "fonte_resumo": "https://www.usf.edu.br/galeria/getImage/385/6977855934502341.pdf",
+  "palavras_chave_pt": [
+   "compreensão em leitura",
+   "cloze",
+   "educação estatística",
+   "teoria de resposta ao item",
+   "psicometria"
+  ],
+  "fonte_palavras": "https://www.usf.edu.br/galeria/getImage/385/6977855934502341.pdf",
+  "confianca": "alta",
+  "observacao": "Sem registro na BDTD. Resumo e palavras-chave extraídos do PDF da dissertação hospedado no site oficial da Universidade São Francisco (não é repositório DSpace, e sim o arquivo institucional)."
+ },
+ {
+  "id": "ferreira-2011",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD nem em repositório institucional público; sem resumo em fonte verificável."
+ },
+ {
+  "id": "flores-2005",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD (busca por título). Não foi localizado repositório institucional público da UNOESTE; sem resumo em fonte verificável."
+ },
+ {
+  "id": "furlan-2011",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD (busca por título e autora). Não foi localizada cópia pública no site da Universidade São Francisco; resumo só aparece citado em trabalhos de terceiros, o que não serve como fonte."
+ },
+ {
+  "id": "goncalves-2005",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD nem no Repositório Institucional da UnB; sem resumo em fonte pública verificável."
+ },
+ {
+  "id": "herebia-2002",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD (busca por título e autor). Não foi localizado repositório institucional público da UCDB; existência confirmada apenas em listagens acadêmicas, sem resumo público."
+ },
+ {
+  "id": "jacobini-1999",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD. No Repositório da UNESP consta apenas a tese de doutorado de 2004 do autor, não esta dissertação de 1999."
+ },
+ {
+  "id": "lopes-1988",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD (busca por título e autora). Repositório Tede2/PUC-SP inacessível (bloqueio WAF) e obra de 1988 provavelmente não digitalizada; sem resumo em fonte verificável."
+ },
+ {
+  "id": "marquez-2006",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD nem na revista de teses do PPGECIM/ULBRA; sem resumo em fonte pública verificável."
+ },
+ {
+  "id": "meirelles-2006",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD nem em repositório institucional público; sem resumo em fonte verificável."
+ },
+ {
+  "id": "mendonca-2012",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD nem em repositório institucional público; sem resumo em fonte verificável."
+ },
+ {
+  "id": "moraes-2011",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD (busca por título e autora). A página oficial do mestrado da URI lista a defesa, mas não disponibiliza resumo nem registro em repositório."
+ },
+ {
+  "id": "nunes-2009",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD (busca por título e autor). Sem repositório institucional localizado para a FAFIJAN; sem resumo em fonte verificável."
+ },
+ {
+  "id": "pacheco-2001",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD nem no Repositório Institucional da UFPE; sem resumo em fonte pública verificável."
+ },
+ {
+  "id": "petta-2001",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD (busca por título e autor). Sem repositório institucional público localizado (UNIBAN); sem resumo em fonte verificável."
+ },
+ {
+  "id": "pinheiro-2011",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD (busca por título e autor; consta apenas outro trabalho do autor, de 2019). Repositório Tede2/PUC-SP inacessível por bloqueio WAF; sem resumo em fonte verificável."
+ },
+ {
+  "id": "ribeiro-2004",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD nem no Repositório Institucional da PUC-Campinas; sem resumo em fonte pública verificável."
+ },
+ {
+  "id": "santos-2003",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD (busca por título). Sem repositório institucional localizado para a Universidade Santa Úrsula; sem resumo em fonte verificável."
+ },
+ {
+  "id": "santos-2011-2",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD nem em repositório institucional público; sem resumo em fonte verificável."
+ },
+ {
+  "id": "silva-2001",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD (busca por título). Sem repositório institucional localizado para a UNG; sem resumo em fonte verificável."
+ },
+ {
+  "id": "silveira-2010",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD nem em repositório institucional público; sem resumo em fonte verificável."
+ },
+ {
+  "id": "souza-2006",
+  "bdtd_url": null,
+  "repositorio_url": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/43",
+  "resumo_pt": "Nesta dissertação, realizamos uma pesquisa de caráter qualitativo, buscando investigar a presença da Estatística nas escolas de Ensino Médio da cidade de Cachoeira do Sul. Para tanto, elaboramos uma seqüência de etapas que julgamos importantes: análise dos currículos das escolas de Ensino Médio, tomando como referência o currículo do PEIES (Programa de Ingresso ao Ensino Superior), elaborado pela UFSM (Universidade Federal de Santa Maria), verificando a presença ou não da Estatística; análise de livros didáticos de Matemática, com relação à abordagem desse conteúdo; aplicação de um instrumento de coleta de dados para conhecer a posição dos professores com relação ao tratamento a ela dispensado; e a investigação da viabilidade da aplicação de um projeto que permitisse ao aluno vivenciar a Estatística em seu ambiente. Pautamos nossas análises pelas referencias que nos proporcionaram Hernandez e Chevallard. Nas questões que encaminhamos aos professores percebemos, de forma clara e objetiva, que os alunos das Escolas de Ensino Médio da cidade, até 2003, não estavam recebendo as importantes experiências que a Estatística proporciona. Somente em 2004, pela ação da noosfera, ela passa a fazer parte do currículo do PEIES e, portanto, do currículo das escolas. Verificamos por fim, que a transposição didática da Estatística através do desenvolvimento de projetos, pode ser muito importante para viabilizar o ensino dessa disciplina, por trazer novas experiências e conhecimentos para todos os envolvidos, auxiliando num processo conjunto de construção do saber.",
+  "fonte_resumo": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/43",
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "alta",
+  "observacao": "Sem registro na BDTD (buscas por título e autora). Resumo copiado da página oficial da Revista Teses e Dissertações PPGECIM/ULBRA. A página não informa palavras-chave."
+ },
+ {
+  "id": "teixeira-2012",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD nem em repositório institucional público; sem resumo em fonte verificável."
+ },
+ {
+  "id": "vasconcelos-2003",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Não localizado na BDTD (busca por título e por nome completo do autor). Não foi localizado repositório institucional público da UECE; sem resumo em fonte verificável."
+ }
+]

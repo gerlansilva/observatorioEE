@@ -1,0 +1,50 @@
+{
+  "id": "maschio-2002",
+  "autor": "Joelson Maschio",
+  "ano": 2002,
+  "tipo": "Dissertação",
+  "titulo": "Uma experiência de ensino: noções de amostra representativa e probabilidade durante um curso de estatística",
+  "instituicao": "Universidade Estadual de Londrina",
+  "cidade": "Londrina",
+  "estado": "Paraná",
+  "regiao": "Sul",
+  "orientador": "Verônica Haydu",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Probabilidade e Estatística",
+  "problema": "O presente trabalho descreve uma experiência de ensino das noções de amostra representativa e probabilidade em um curso de Estatística para alunos do Ensino Médio.",
+  "metodologia": "Os participantes eram alunos da 2ª e 3ª séries do Centro Federal de Educação Tecnológica do Paraná - CEFET-PR, Unidade de Cornélio Procópio, matriculados na disciplina optativa de Estatística. Foram ministradas 34 h/aula, as quais foram organizadas em 12 etapas. Tanto a noção de amostra representativa quanto a de probabilidade foram ensinadas em três momentos distintos. Inicialmente, o professor procurou conhecer e transmitir a aplicação do conhecimento que os alunos já possuíam sobre as noções de amostra representativa e probabilidade. No segundo momento, foram realizadas consultas em diversos livros de Estatística, com o objetivo de contrastar as diferentes formas de apresentação desses conteúdos, por diferentes autores. No terceiro momento, os alunos realizaram exercícios e simulações no computador, usando o programa Excel® da Microsoft. Para ensinar as noções de amostra representativa e probabilidade, foi utilizado um recurso didático, que se constituía em lixo. Este foi coletado durante três dias consecutivos na residência de quatro famílias de funcionários. Como estratégia de ensino, os alunos tiveram o \"papel de detetives\" para descobrir quais eram os funcionários e o perfil dessas famílias. Para o desenvolvimento do curso, foi adotado o trabalho em duplas, a confecção de relatórios, a utilização de vários livros didáticos como fonte de consulta e não somente um livro texto, atividades no computador, além de trabalho com dados da realidade. Foi priorizada a participação dos alunos e valorizado o processo de resolução das atividades propostas.",
+  "contribuicoes": "Por meio do pré-teste e do pós-teste, utilizados para verificar se houve evolução na aprendizagem das noções de amostra representativa e probabilidade, pôde-se constatar que estes aprenderam as noções estudadas. Com a utilização da proposta de ensino, houve mudanças no comportamento dos alunos e do professor. Comparando as atividades realizadas, com base nos relatórios e na ficha de avaliação dos alunos, o professor observou que estes melhoraram: a atenção ao processo de solução de um problema ao invés de atenção só ao resultado final; a transcrição das suas atividades para a forma escrita e a estruturação na forma oral; o trabalho em equipe; a participação nas discussões em sala de aula. Com base nas auto-avaliações, eles referem que o professor modificou suas atitudes, valorizou a participação, estimulou atitudes como respeito à opinião do próximo, responsabilidade, concentração, atitude reflexiva e crítica diante das informações estatísticas na escola e no contexto cotidiano.",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Uma+experi%C3%AAncia+de+ensino%3A+no%C3%A7%C3%B5es+de+amostra+representativa+e+probabilidade+durante+um+curso+de+estat%C3%ADstica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma+experi%C3%AAncia+de+ensino%3A+no%C3%A7%C3%B5es+de+amostra+representativa+e+probabilidade+durante+um+curso+de+estat%C3%ADstica&type=AllFields"
+  },
+  "autor_planilha": "MASCHIO, J.",
+  "orientador_planilha": "Verônica Haydu",
+  "autor_capes": "JOELSON MASCHIO",
+  "programa_capes": "Educação",
+  "instituicao_capes": "Universidade Estadual de Londrina",
+  "cidade_capes": "Londrina",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20027040002012015P7",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.391
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/maschio-2002.svg"
+}

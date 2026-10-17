@@ -1,0 +1,482 @@
+[
+  {
+    "id": "abe-2011",
+    "status": "aplicado",
+    "bdtd": false,
+    "repo": true,
+    "resumo": true,
+    "tags": 0
+  },
+  {
+    "id": "amancio-2012",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "barrizon-2011",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "bortolanza-2003",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "carneiro-2003",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "casas-1997",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "contini-neto-2012",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "costa-2004",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "evangelista-2010",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "ficagna-2005",
+    "status": "aplicado",
+    "bdtd": true,
+    "repo": true,
+    "resumo": true,
+    "tags": 5
+  },
+  {
+    "id": "freitas-2010-2",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "gaiovicz-2007",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "gouvea-2011",
+    "status": "aplicado",
+    "bdtd": false,
+    "repo": true,
+    "resumo": true,
+    "tags": 0
+  },
+  {
+    "id": "hey-2001",
+    "status": "aplicado",
+    "bdtd": true,
+    "repo": true,
+    "resumo": false,
+    "tags": 0
+  },
+  {
+    "id": "jung-2003",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "lugli-2011",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "maschio-2002",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "melamed-1998",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "milagre-2001",
+    "status": "aplicado",
+    "bdtd": false,
+    "repo": true,
+    "resumo": true,
+    "tags": 3
+  },
+  {
+    "id": "nogueira-2008",
+    "status": "aplicado",
+    "bdtd": false,
+    "repo": false,
+    "resumo": true,
+    "tags": 4
+  },
+  {
+    "id": "oliveira-2005",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "panaino-1998",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "pichler-e-2005",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "putvinskis-2001",
+    "status": "aplicado",
+    "bdtd": true,
+    "repo": true,
+    "resumo": true,
+    "tags": 2
+  },
+  {
+    "id": "rodrigues-2008",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "santos-2010",
+    "status": "aplicado",
+    "bdtd": true,
+    "repo": true,
+    "resumo": true,
+    "tags": 4
+  },
+  {
+    "id": "sartor-2000",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "silva-2006",
+    "status": "aplicado",
+    "bdtd": false,
+    "repo": false,
+    "resumo": true,
+    "tags": 5
+  },
+  {
+    "id": "sobrinho-2010",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "souza-2007",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "tomio-2005",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "yahata-2012",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "almeida-2010-2",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "araujo-2008",
+    "status": "aplicado",
+    "bdtd": false,
+    "repo": false,
+    "resumo": true,
+    "tags": 4
+  },
+  {
+    "id": "basseti-2012",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "braga-2009",
+    "status": "aplicado",
+    "bdtd": false,
+    "repo": true,
+    "resumo": true,
+    "tags": 4
+  },
+  {
+    "id": "carvalho-2005",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "cavalcanti-2010",
+    "status": "aplicado",
+    "bdtd": false,
+    "repo": true,
+    "resumo": true,
+    "tags": 4
+  },
+  {
+    "id": "correa-neto-2010",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "cureau-2000",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "ferreira-2004",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "figueiredo-2000",
+    "status": "aplicado",
+    "bdtd": true,
+    "repo": true,
+    "resumo": true,
+    "tags": 8
+  },
+  {
+    "id": "fujii-2006",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "giusti-2012",
+    "status": "aplicado",
+    "bdtd": false,
+    "repo": true,
+    "resumo": true,
+    "tags": 4
+  },
+  {
+    "id": "grzebieluchas-2001",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "homa-2012",
+    "status": "aplicado",
+    "bdtd": false,
+    "repo": true,
+    "resumo": true,
+    "tags": 4
+  },
+  {
+    "id": "lemos-2002",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "marocci-2011",
+    "status": "aplicado",
+    "bdtd": false,
+    "repo": true,
+    "resumo": true,
+    "tags": 5
+  },
+  {
+    "id": "medici-2007",
+    "status": "aplicado",
+    "bdtd": true,
+    "repo": true,
+    "resumo": true,
+    "tags": 6
+  },
+  {
+    "id": "mendonca-2008",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "monteiro-1998",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "nogueira-2011",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "oliveira-2009",
+    "status": "aplicado",
+    "bdtd": false,
+    "repo": true,
+    "resumo": true,
+    "tags": 4
+  },
+  {
+    "id": "pessanha-2001",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "pinheiro-2008",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "reis-2001",
+    "status": "aplicado",
+    "bdtd": true,
+    "repo": true,
+    "resumo": true,
+    "tags": 3
+  },
+  {
+    "id": "rosa-2006",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "santos-2010-2",
+    "status": "aplicado",
+    "bdtd": false,
+    "repo": true,
+    "resumo": true,
+    "tags": 10
+  },
+  {
+    "id": "sganzerla-2001",
+    "status": "aplicado",
+    "bdtd": false,
+    "repo": true,
+    "resumo": true,
+    "tags": 0
+  },
+  {
+    "id": "silva-2011",
+    "status": "aplicado",
+    "bdtd": false,
+    "repo": true,
+    "resumo": true,
+    "tags": 3
+  },
+  {
+    "id": "souza-2002-2",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "souza-2009",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "tonouti-2011",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "zequim-2010",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "alves-2012",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "barreto-1999",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "becegato-1999",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "cardoso-2004",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "carvalho-2011-2",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "cazorla-2002",
+    "status": "aplicado",
+    "bdtd": true,
+    "repo": true,
+    "resumo": true,
+    "tags": 3
+  },
+  {
+    "id": "costa-1994",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "dias-2008",
+    "status": "aplicado",
+    "bdtd": false,
+    "repo": true,
+    "resumo": true,
+    "tags": 5
+  },
+  {
+    "id": "ferreira-2011",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "flores-2005",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "furlan-2011",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "goncalves-2005",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "herebia-2002",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "jacobini-1999",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "lopes-1988",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "marquez-2006",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "meirelles-2006",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "mendonca-2012",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "moraes-2011",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "nunes-2009",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "pacheco-2001",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "petta-2001",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "pinheiro-2011",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "ribeiro-2004",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "santos-2003",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "santos-2011-2",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "silva-2001",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "silveira-2010",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "souza-2006",
+    "status": "aplicado",
+    "bdtd": false,
+    "repo": true,
+    "resumo": true,
+    "tags": 0
+  },
+  {
+    "id": "teixeira-2012",
+    "status": "confianca_baixa"
+  },
+  {
+    "id": "vasconcelos-2003",
+    "status": "confianca_baixa"
+  }
+]

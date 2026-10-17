@@ -1,0 +1,84 @@
+{
+  "id": "reis-2001",
+  "autor": "Marcelo Menezes Reis",
+  "ano": 2001,
+  "tipo": "Tese",
+  "titulo": "Modelo para o ensino de controle estatístico da qualidade",
+  "instituicao": "Universidade Federal de Santa Catarina",
+  "cidade": "",
+  "estado": "Santa Catarina",
+  "regiao": "Sul",
+  "orientador": "Edson Pacheco Paladini",
+  "programa": "Engenharia de Produção",
+  "area": "Engenharia",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "3",
+  "foco": "TICs, materiais e recursos didáticos",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "Estatística",
+  "problema": "elaborar um modelo para o ensino de CEQ a partir de uma aplicação computacional baseada num sistema de tutorial inteligente implementado a partir de inteligência artificial",
+  "metodologia": "É discutida a teoria de ensino de CEQ e o modelo proposto é apresentado e discutido. Não há avaliação do modelo",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Modelo+para+o+ensino+de+controle+estat%C3%ADstico+da+qualidade%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Modelo+para+o+ensino+de+controle+estat%C3%ADstico+da+qualidade&type=AllFields",
+    "texto_completo": "https://repositorio.ufsc.br/bitstream/123456789/79748/1/180272.pdf",
+    "registro_institucional": "https://repositorio.ufsc.br/handle/123456789/79748",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UFSC_ae40dc8ec2bbe21e8cfeee7d2feb4197"
+  },
+  "capes": {
+    "status": "baixa_confianca",
+    "score": 0.435,
+    "candidato": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "REIS, M. M.",
+  "orientador_planilha": "Edson Paladini",
+  "instituicao_agente": "Universidade Federal de Santa Catarina (UFSC)",
+  "instituicao_planilha": "Universidade Federal de Santa Catarina",
+  "programa_agente": "Programa de Pós-Graduação em Engenharia de Produção",
+  "programa_planilha": "Engenharia de Produção",
+  "enriquecimento_manual": {
+    "fonte": "PDF da tese no Repositório Institucional da UFSC (folha de rosto e agradecimentos) e página pessoal do autor (inf.ufsc.br/~marcelo.menezes.reis)",
+    "confianca": "alta",
+    "observacao": "O PDF foi baixado e conferido: 'UM MODELO PARA O ENSINO DE CONTROLE ESTATÍSTICO DA QUALIDADE', Tese de Doutorado, PPGEP/UFSC, julho de 2001; nos agradecimentos, 'meu orientador professor Edson Pacheco Paladini'. O título no arquivo aparece também com 'DO' ('do Controle Estatístico da Qualidade')."
+  },
+  "tags": [
+    "Engenharia de produção",
+    "Sistemas tutoriais inteligentes",
+    "Controle de qualidade"
+  ],
+  "thumbnail": "./assets/images/thumbs/reis-2001.svg",
+  "palavras_chave_bdtd": "N; ã; o; I; n; f; r; m; a; d; p; e; l; i; s; t; u; ç",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.979,
+    "id": "UFSC_ae40dc8ec2bbe21e8cfeee7d2feb4197",
+    "url": "http://repositorio.ufsc.br/xmlui/handle/123456789/79748",
+    "consultado_em": "2026-10-17"
+  },
+  "ano_bdtd": 2001,
+  "tipo_bdtd": "Tese",
+  "instituicao_bdtd": "Florianópolis, SC",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UFSC_ae40dc8ec2bbe21e8cfeee7d2feb4197",
+    "url": "https://bdtd.ibict.br/vufind/Record/UFSC_ae40dc8ec2bbe21e8cfeee7d2feb4197",
+    "fonte": "agente"
+  },
+  "resumo": "O Controle Estatístico da Qualidade –CEQ (constituído por Controle Estatístico de Processos, Estudos de Capabilidade de Processos, Inspeção por Amostragem e Planejamento de Experimentos) compreende um conjunto de ferramentas muito importantes para a obtenção, manutenção e melhoria da Qualidade de produtos e serviços produzidos por uma organização. Por esse motivo é imprescindível que suas técnicas sejam corretamente aplicadas, pois a Avaliação da Qualidade é crucial para a organização e o CEQ é parte importante não somente da Avaliação, mas também do processo de melhoria da Qualidade. Não obstante sua importância, o CEQ vem sendo empregado de forma inadequada em muitas empresas. Como o CEQ é ensinado nos mais diversos cursos técnicos e superiores, bem como nos setores de treinamento das empresas, possivelmente a abordagem utilizada não é totalmente apropriada, por causar o mau uso das técnicas envolvidas. O objetivo deste trabalho é tornar o ensino de CEQ realmente efetivo, através da elaboração de um modelo para o ensino do CEQ que capacite os egressos a aplicarem corretamente as técnicas. O modelo incorpora uma aplicação computacional, com uma abordagem baseada na Inteligência Artificial, que tem obtido bons resultados em aplicações educacionais. Para desenvolver o modelo foram feitos os diagnósticos da atual forma como o CEQ é empregado nas empresas, e de como está sendo ensinado nas instituições de ensino e dentro das próprias empresas. A partir desses resultados foram definidos os conceitos a serem incluídos no modelo, e o detalhamento da abordagem de Inteligência Artificial que será utilizada na aplicação computacional. A aplicação computacional tem características de um Sistema Tutorial Inteligente, e o protótipo foi implementado inicialmente para os conceitos de Controle Estatístico de Processos e Estudos de Capabilidade de Processos.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UFSC_ae40dc8ec2bbe21e8cfeee7d2feb4197",
+  "pesquisa_agente_links": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/UFSC_ae40dc8ec2bbe21e8cfeee7d2feb4197",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/UFSC_ae40dc8ec2bbe21e8cfeee7d2feb4197",
+    "confianca": "alta"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "esteves-2001",
+  "autor": "Inês Esteves",
+  "ano": 2001,
+  "tipo": "Dissertação",
+  "titulo": "Investigando os fatores que influenciam o raciocínio combinatório em adolescentes de 14 anos - 8ª série do ensino fundamental",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Sandra Maria Pinto Magina",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "3",
+  "nivel": "Ensino Fundamental – anos finais",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Combinatória",
+  "problema": "estudar a aquisição e o desenvolvimento dos primeiros conceitos de análise combinatória em adolescentes de 14 anos, cursando a última série do fundamental",
+  "metodologia": "foi desenvolvida uma sequência didática e a aplicada a um grupo, experimental. O outro grupo, de controle, foi submetido a uma metodologia de ensino tradicional, baseada na abordagem dos livros didáticos. Os resultados foram comparados ao final da pesquisa",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "Chevallard: transposição didática; Vergnaud: teoria dos campos conceituais e zona de desenvolvimento proximal; Duval: registros de representações semióticas; Brousseau: contrato didático",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Investigando+os+fatores+que+influenciam+o+racioc%C3%ADnio+combinat%C3%B3rio+em+adolescentes+de+14+anos+-+8%C2%AA+s%C3%A9rie+do+ensino+fundamental%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Investigando+os+fatores+que+influenciam+o+racioc%C3%ADnio+combinat%C3%B3rio+em+adolescentes+de+14+anos+-+8%C2%AA+s%C3%A9rie+do+ensino+fundamental&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/18495",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_fcc38e5f698b53f632c00230cd8de638"
+  },
+  "autor_planilha": "ESTEVES, I.",
+  "orientador_planilha": "Sandra Magina",
+  "autor_capes": "Inês Esteves",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "orientador_capes": "Sandra Maria Pinto Magina",
+  "capes": {
+    "status": "ok",
+    "score": 0.931,
+    "id": "20015133005010005P4",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Educacao matematica; Matematica; Estudo e ensino; Analise combinatoria; Raciocinio combinatorio",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "PUC_SP-1_fcc38e5f698b53f632c00230cd8de638",
+    "url": "https://tede2.pucsp.br/handle/handle/18495",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Educacao matematica",
+    "Matematica",
+    "Estudo e ensino",
+    "Analise combinatoria",
+    "Raciocinio combinatorio"
+  ],
+  "resumo": "O objetivo desta pesquisa consistiu em estudar a aquisição e o desenvolvimento dos primeiros conceitos de análise combinatória em adolescentes de 14 anos de idade, cursando a última série do Ensino Fundamental. Para tal, construímos uma seqüência de ensino, fundamentada em teorias psicológicas e educacionais, que parte de situações-problema através da contagem direta. Trabalhamos com dois grupos: experimental e de referência. Estes se submeteram a um pré-teste antes de serem introduzidos nesse novo conceito, para, depois, estudarem o conceito de análise combinatória, segundo duas abordagens distintas. Enquanto o grupo experimental realizou o estudo através de uma seqüência de ensino elaborada por nós, o grupo de referência seguiu a abordagem tradicional apresentada pelos livros didáticos. Por fim, os dois grupos realizaram um pós-teste, cujos resultados foram analisados sob os seguintes pontos de vista: desempenho geral dos grupos e desempenho por itens, objetivo, indivíduo. Por fim, procedemos à análise do comportamento de três duplas do grupo experimental quanto a seus desempenhos ao longo do estudo. Os resultados mostram que os alunos apresentaram dificuldade em resolver esses problemas. As principais causas de fracasso são referentes à confusão sobre a relevância da ordem, principalmente em problemas de combinação, falta de organização para enumerar os dados sistematicamente, dúvidas na identificação da operação aritmética equivalente e interpretação incorreta do problema, quando este apresenta mais de uma etapa",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_fcc38e5f698b53f632c00230cd8de638/Details",
+  "ano_bdtd": 2001,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_fcc38e5f698b53f632c00230cd8de638",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_fcc38e5f698b53f632c00230cd8de638",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/esteves-2001.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_fcc38e5f698b53f632c00230cd8de638/Details",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_fcc38e5f698b53f632c00230cd8de638/Details",
+    "confianca": "alta"
+  }
+}

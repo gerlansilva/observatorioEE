@@ -1,0 +1,25 @@
+[
+  {
+    "id": "becegato-1999",
+    "status": "sem_resultado"
+  },
+  {
+    "id": "cureau-2000",
+    "status": "sem_resultado"
+  },
+  {
+    "id": "miguel-2005",
+    "status": "ok",
+    "score": 0.979,
+    "record": "PUC_SP-1_7b55f515026b4b0c0b733432484d7306",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_7b55f515026b4b0c0b733432484d7306"
+  },
+  {
+    "id": "petta-2001",
+    "status": "sem_resultado"
+  },
+  {
+    "id": "sartor-2000",
+    "status": "sem_resultado"
+  }
+]

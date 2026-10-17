@@ -1,0 +1,383 @@
+[
+ {
+  "id": "abe-2011",
+  "bdtd_url": null,
+  "repositorio_url": "https://posgraduacao.ufms.br/portal/trabalhos?b_trab_aluno=Thatiana+Sakate+Abe",
+  "resumo_pt": "Esta pesquisa teve como objetivo principal investigar a aprendizagem de probabilidade por alunos do 9º ano do Ensino Fundamental a partir de situações que envolvessem duas visões diferentes de probabilidade, a clássica e frequentista. Além disso, pretendeu-se evidenciar as vantagens de se trabalhar com a dualidade dessas duas abordagens na introdução desse conceito. Para tanto, utilizamos como referencial teórico alguns preceitos da Teoria das Situações Didáticas, proposta por Brousseau, que foi de fundamental importância para o encaminhamento desta pesquisa auxiliando na elaboração da sequência didática, na forma como procedemos a apresentação das situações aos alunos. Tentamos levá-los a vivenciar dialéticas adidáticas de ação, formulação e validação, visando à aprendizagem da Probabilidade por meio das abordagens clássica e frequentista. Como metodologia de pesquisa nos inspiramos na Engenharia Didática, conforme sugerida por Artigue, que nos auxiliou na elaboração, organização e aplicação de nossa sequência didática, além de tornar possível realizar as análises e validações propostas nos objetivos, uma vez que essa visa pesquisas que estudam os processos de aprendizagem de um dado objeto matemático, favorecendo uma ligação entre a pesquisa e a ação pedagógica. Nossos sujeitos de pesquisa foram seis alunos voluntários do 9º ano do Ensino Fundamental de uma escola estadual de Campo Grande/MS, que participaram das sessões, que ocorreram durante o horário normal de aulas sob autorização do professor e da direção da escola. Observamos que a realização dos experimentos aleatórios em conjunto com o recurso informático do simulador da roleta, favoreceu a aquisição e compreensão do cálculo de probabilidades por meio das visões clássica e frequentista pelos alunos, bem como a articulação entre ambas. O simulador da roleta propiciou uma observação concreta do que acontece quando realizamos um experimento aleatório uma quantidade pequena e um número significativamente grande de vezes, que se tornaria mais difícil sem este recurso, pois a realização de um mesmo experimento por muitas vezes poderia se tornar penoso e tomaria muito tempo.",
+  "fonte_resumo": "https://posgraduacao.ufms.br/portal/trabalhos?b_trab_aluno=Thatiana+Sakate+Abe",
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "media",
+  "observacao": "Registro oficial da UFMS traz o mesmo autor, ano e orientadora, mas com título diferente (\"Proposta de uma engenharia didática para o ensino de probabilidades nos anos finais do Ensino Fundamental\"); resumo integral copiado da página. A página não lista palavras-chave. Nenhum registro BDTD localizado (busca por título e por autor sem resultado)."
+ },
+ {
+  "id": "amancio-2012",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Busca no Pantheon/UFRJ (API DSpace) sem resultado para o título/autor; sem registro BDTD localizado pelo título."
+ },
+ {
+  "id": "barrizon-2011",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Instituição (UNIBAN) sem repositório público localizado; buscas no BDTD por título e autora sem resultado."
+ },
+ {
+  "id": "bortolanza-2003",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Instituição (Faculdades Integradas de Palmas) sem repositório público localizado; buscas no BDTD sem correspondência de título/autor. O registro da UPF encontrado no BDTD é de outro trabalho (autoria de Balke) e foi descartado."
+ },
+ {
+  "id": "carneiro-2003",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Repositório da PUC-SP (tede2.pucsp.br / repositorio.pucsp.br) recusa acesso externo (HTTP 468); busca no BDTD por título e autora sem resultado."
+ },
+ {
+  "id": "casas-1997",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Instituição (Universidade Guarulhos) sem repositório público localizado; busca no BDTD sem resultado."
+ },
+ {
+  "id": "contini-neto-2012",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Instituição (UNIBAN) sem repositório público localizado; buscas no BDTD por título e autor sem resultado."
+ },
+ {
+  "id": "costa-2004",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Repositório da PUC-SP (tede2.pucsp.br / repositorio.pucsp.br) recusa acesso externo (HTTP 468); busca no BDTD por título e autora sem resultado."
+ },
+ {
+  "id": "evangelista-2010",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Repositório Cruzeiro do Sul retorna HTTP 403 a acesso externo; busca no BDTD pelo título sem resultado."
+ },
+ {
+  "id": "ficagna-2005",
+  "bdtd_url": "https://bdtd.ibict.br/vufind/Record/P_RS_6645d28a5431c8c55b5c968928c2b46e",
+  "repositorio_url": "https://tede2.pucrs.br/tede2/handle/tede/3299",
+  "resumo_pt": "Este trabalho de pesquisa visa estudar o Interesse e a Construção do Processo da Aprendizagem em alunos do Ensino Médio de uma escola particular de Bento Gonçalves. O desenvolvimento de uma Unidade de Aprendizagem em Estatística, com os alunos do Ensino Médio, através dos depoimentos e entrevistas dos mesmos, pretende compreender de que forma ocorre o Interesse e a Construção do Processo da Aprendizagem através do Educar pela Pesquisa. O processo inicia com um relato sobre as origens da pesquisa, demonstrando as razões da escolha do tema e do problema, bem como as questões de pesquisa que alicerçam o trabalho. Para o desenvolvimento, nortearam-se alguns caminhos teóricos sobre o Educar pela Pesquisa, as Unidades de Aprendizagem, o Interesse e a Construção do Processo da Aprendizagem. A Unidade de Aprendizagem foi construída através das idéias prévias dos alunos, que foram categorizadas e analisadas para posterior realização das atividades. Com isto, foi possível identificar algumas categorias da aprendizagem como: construção da aprendizagem alicerçada pela pesquisa; limites, interesse e motivação; interdisciplinaridade e a utilização da informática, que foram analisados no decorrer da proposta. As conclusões demonstram a crença no desenvolvimento do Interesse e a Construção do Processo da Aprendizagem no espaço escolar. Assim, evidenciam-se formas que podem contribuir para que, efetivamente, ocorra o Interesse e a Construção de uma aprendizagem significativa para os alunos.",
+  "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/P_RS_6645d28a5431c8c55b5c968928c2b46e (campo description) e https://tede2.pucrs.br/tede2/handle/tede/3299",
+  "palavras_chave_pt": [
+   "APRENDIZAGEM",
+   "PESQUISA EDUCACIONAL",
+   "MÉTODOS E TÉCNICAS DE ENSINO",
+   "ESTATÍSTICA - ESTUDO E ENSINO",
+   "EDUCAÇÃO"
+  ],
+  "fonte_palavras": "https://tede2.pucrs.br/tede2/handle/tede/3299 (dc.subject / citation_keywords)",
+  "confianca": "alta",
+  "observacao": "Registro BDTD confirmado por API e página do registro; título e autora conferem."
+ },
+ {
+  "id": "freitas-2010-2",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Repositório Cruzeiro do Sul retorna HTTP 403 a acesso externo; busca no BDTD pelo título sem resultado."
+ },
+ {
+  "id": "gaiovicz-2007",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Instituição (Faculdades Integradas de Palmas) sem repositório público localizado; buscas no BDTD sem resultado."
+ },
+ {
+  "id": "gouvea-2011",
+  "bdtd_url": null,
+  "repositorio_url": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/140",
+  "resumo_pt": "Este trabalho teve como questão de pesquisa investigar como está sendo desenvolvido o ensino de Estatística nas séries iniciais das escolas de Ensino Fundamental no município de Boa Vista-RR. A Estatística é essencial na formação do indivíduo, visto que seus conceitos estão presentes em diversas situações do diaa-dia e são fundamentais para a compreensão do mundo que nos rodeia. Desta forma, a Estatística deve estar presente nas escolas desde as séries iniciais, como orientam os Parâmetros Curriculares Nacionais (BRASIL, 2001). Para a realização da pesquisa, seguimos uma metodologia de natureza quali-quantitativa, envolvendo a análise documental da Proposta Curricular do Município de Boa Vista e dos livros didáticos do componente curricular de Matemática, adotados pelas escolas municipais de Boa Vista-RR, além da observação e dos questionários aplicados aos professores no período de 07/2009 a 12/2010 nestas escolas. Os dados coletados foram analisados a partir de referencial teórico pertinente, o qual propiciou subsídios para diagnosticar a percepção dos professores e o tratamento que está sendo destinado ao ensino de Estatística nas referidas escolas. Com a análise dos dados coletados, identificamos que a Estatística está presente na educação municipal, sendo contemplada no currículo, o qual contém objetivos, orientações metodológicas e conteúdos referentes ao bloco “Tratamento da Informação” dentro do componente curricular Matemática. Os professores, na sua maioria, já desenvolvem os conteúdos de leitura, interpretação e construção de gráficos e tabelas em suas aulas e utilizam como principal estratégia e recurso metodológico o livro didático, que também contempla o ensino de Estatística. Diante dos resultados obtidos, evidenciamos que o ensino de Estatística está sendo desenvolvido nas séries iniciais nas escolas municipais de Boa Vista, ainda com algumas restrições, como a falta de recursos e formação dos professores na área da Educação Estatística.",
+  "fonte_resumo": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/140",
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "alta",
+  "observacao": "Resumo integral da página oficial do PPGECIM/ULBRA. A página não informa palavras-chave. Sem registro BDTD localizado."
+ },
+ {
+  "id": "hey-2001",
+  "bdtd_url": "https://bdtd.ibict.br/vufind/Record/UFSC_bfe0a21bd08c19525895d0190ca78b20",
+  "repositorio_url": "https://repositorio.ufsc.br/handle/123456789/82004",
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "media",
+  "observacao": "Registro BDTD confirmado (título e autor conferem), mas o campo description traz apenas a nota de dissertação, sem resumo. O repositório da UFSC bloqueia acesso externo (WAF) e não foi possível obter o resumo."
+ },
+ {
+  "id": "jung-2003",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Busca no repositório da UFSM (DSpace) não retornou o item; busca no BDTD por título/autor sem correspondência."
+ },
+ {
+  "id": "lugli-2011",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Repositório Cruzeiro do Sul retorna HTTP 403 a acesso externo; busca no BDTD pelo título sem resultado."
+ },
+ {
+  "id": "maschio-2002",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Biblioteca Digital da UEL (bibliotecadigital.uel.br) sem resposta (timeout); busca no BDTD pelo título sem correspondência."
+ },
+ {
+  "id": "melamed-1998",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Maxwell (PUC-Rio) sem busca direta acessível; busca no BDTD pelo título sem resultado (apenas registro BRCRIS, sem resumo)."
+ },
+ {
+  "id": "milagre-2001",
+  "bdtd_url": null,
+  "repositorio_url": "https://repositorio.ufsc.br/handle/123456789/81812",
+  "resumo_pt": "MILAGRE, Robson Amaral. Estatística: uma proposta de ensino para os cursos de Administração de Empresas. Florianópolis, 2001, 160f. Dissertação (Mestrado em Engenharia de Produção) – Programa de Pós-graduação em Engenharia de Produção, UFSC, 2001. O presente trabalho busca encontrar uma nova proposta de ensino de Estatística para os cursos de Administração de Empresas. Fundamenta -se na necessidade de mudanças impostas pela globalização econômica e pela evolução tecnológica, onde a informação ganha “status” de diferencial de mercado. Diante desta realidade, o Marketing, enquanto área de atuação do administrador de empresas também assume posição de destaque, posto que a concorrência torna-se cada vez mais acirrada num mercado muito competitivo. Assim, a análise do trabalho recai, num primeiro momento, sobre a evolução, o conceito e os fundamentos básicos do Marketing e da Estatística, bem como suas relações e aplicações na Administração. Em seguida aborda a questão do uso das novas tecnologias, sobretudo do computador, no processo da construção do conhecimento e da necessidade de se quebrar velhos paradigmas ainda comuns na educação brasileira. Por fim, apresenta um estudo de caso sobre o ensino de Estatística no curso de Administração de Empresas da Faculdade de Ciências Econômicas, Administrativas e Contábeis de Divinópolis – FACED, objetivando identificar os motivos pelos quais muitos alunos têm dificuldades de aprendizagem em Estatística e propor possíveis soluções.",
+  "fonte_resumo": "https://repositorio.ufsc.br/bitstream/handle/123456789/81812/186310.pdf",
+  "palavras_chave_pt": [
+   "Estatística",
+   "marketing",
+   "computador e construção do conhecimento"
+  ],
+  "fonte_palavras": "https://repositorio.ufsc.br/bitstream/handle/123456789/81812/186310.pdf (secao Resumo, \"Palavras chaves\")",
+  "confianca": "alta",
+  "observacao": "Resumo e palavras-chave copiados do PDF oficial da dissertação. Nenhum registro BDTD localizado."
+ },
+ {
+  "id": "nogueira-2008",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": "Nogueira, S. O. (2008). ENADE: Análise de Itens de Formação Geral e de Estatística pela TRI. Dissertação de Mestrado, Programa de Pós Graduação Stricto Sensu em Psicologia, da Universidade São Francisco, Itatiba, SP. A prova de Formação Geral do Exame Nacional de Desempenho dos Estudantes – ENADE, se propõe a avaliar a aquisição de competências, o desenvolvimento de habilidades e os conhecimentos considerados essenciais na formação geral do universitário, sendo a Estatística parte integrante deste repertório de conhecimentos. Tendo em vista a contribuição do construto inteligência no desempenho acadêmico, o estudo objetivou aplicar a Teoria de Resposta ao Item para avaliar as questões de formação geral da prova do ENADE, em especial aquelas que envolvem conceitos estatísticos, visando estimar a proficiência dos estudantes nos conteúdos avaliados e o ajuste dos itens ao modelo de Rasch. Foram utilizados dois bancos de dados contendo informações acadêmicas de 403.512 estudantes submetidos ao ENADE em 2004 e 2005. Os resultados indicam que as provas se ajustam ao modelo de Rasch, tendo a análise residual demonstrado uma baixa freqüência de resultados inesperados de padrões de erros e acertos. As questões objetivas da prova de 2004 apresentam parâmetros de dificuldade mais altos, exigindo maior habilidade do estudante para que haja a probabilidade de acerto. As questões discursivas de 2004 e 2005 apresentam parâmetros de dificuldade mais baixos, embora não sejam equiparáveis. Foram encontradas diferenças significativas entre gênero e carreiras em Estatística. As limitações deste estudo sugerem a realização de outros no âmbito acadêmico.",
+  "fonte_resumo": "https://www.usf.edu.br/galeria/getImage/385/6974541869235604.pdf",
+  "palavras_chave_pt": [
+   "Psicometria",
+   "Habilidade",
+   "Inteligência",
+   "Educação Superior"
+  ],
+  "fonte_palavras": "https://www.usf.edu.br/galeria/getImage/385/6974541869235604.pdf (secao RESUMO)",
+  "confianca": "alta",
+  "observacao": "Texto integral copiado do PDF institucional da USF (arquivo oficial da dissertação). Não há página de repositório com handle; o link informado é o PDF no domínio da universidade. Sem registro BDTD localizado."
+ },
+ {
+  "id": "oliveira-2005",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Busca no repositório da UFSM (DSpace) não retornou o item; busca no BDTD por título/autor sem correspondência."
+ },
+ {
+  "id": "panaino-1998",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Repositório UNESP com bloqueio anti-robô a acesso externo; busca no BDTD pelo título sem resultado (apenas registro BRCRIS, sem resumo)."
+ },
+ {
+  "id": "pichler-e-2005",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Repositório da UFSC bloqueia acesso externo (WAF); busca no BDTD pelo título sem correspondência."
+ },
+ {
+  "id": "putvinskis-2001",
+  "bdtd_url": "https://bdtd.ibict.br/vufind/Record/FECAP-0_50bb4283732c9968c1319519ce2e1828",
+  "repositorio_url": "https://tede.fecap.br/handle/tede/296",
+  "resumo_pt": "O objetivo desta dissertação é determinar o que está sendo ensinado em Estatística nos cursos de Administração de Empresas na cidade de São Paulo. O estudo se inicia expondo a evolução do ensino superior e dos cursos de Administração de Empresas no Brasil. Apresenta uma análise dos currículos do curso de Administração, procurando identificar como a disciplina de Estatística está sendo tratada sob o aspecto legal. Examina, também, a proposta das Diretrizes Curriculares, que atualmente encontra-se em fase de análise no Ministério de Educação - MEC para aprovação. A metodologia utilizada neste estudo constituiu na coleta dos planos de ensino das Instituições localizadas na cidade de São Paulo, cujos cursos de Administração são devidamente reconhecidos pelo MEC. Esta coleta resultou em 18 planos entre 35 Instituições consultadas. A análise desses planos levou em consideração todos os tópicos que os mesmos devem conter. Entre os itens avaliados foi verificado que as Instituições não levam em consideração estes tópicos e, entre os conteúdos analisados, estes não se mostram articulados consistentemente, embora estejam compatíveis com os objetivos declarados. Basicamente, os métodos e técnicas de ensino indicados nos planos, são os mesmos em todas as Instituições, ou seja, aulas teóricas expositivas acompanhadas de exercícios de aplicação. Os critérios de avaliação observados nas Instituições consultadas revelaram-se praticamente os mesmos, ou seja, aplicação de provas e listas de exercícios. A bibliografia adotada apresentou-se bastante extensa e com vários títulos esgotados e desatualizados. Acreditamos que um estudo desta natureza pode ser útil tanto para os professores quanto para os administradores escolares. No caso dos docentes, o conhecimento gerado nesse estudo, poderá propiciar uma reflexão visando a melhoria do processo de ensino da Estatística. Quanto aos administradores escolares, uma reflexão sobre o currículo do curso.",
+  "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/FECAP-0_50bb4283732c9968c1319519ce2e1828 e https://tede.fecap.br/handle/tede/296",
+  "palavras_chave_pt": [
+   "Administração de empresas - Estudo e ensino (Superior)",
+   "Estatística - Currículos - Planejamento"
+  ],
+  "fonte_palavras": "https://tede.fecap.br/handle/tede/296 (dc.subject)",
+  "confianca": "alta",
+  "observacao": "Registro BDTD confirmado; resumo em português disponível no repositório e no registro."
+ },
+ {
+  "id": "rodrigues-2008",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Busca no repositório da UFPE (simple-search) não retornou o item; busca no BDTD por título/autor sem correspondência."
+ },
+ {
+  "id": "santos-2010",
+  "bdtd_url": "https://bdtd.ibict.br/vufind/Record/UFRGS-2_9de04fc4a3a36e9c52c79a6700b2386d",
+  "repositorio_url": "https://lume.ufrgs.br/handle/10183/32469",
+  "resumo_pt": "Esta dissertação de mestrado parte das inquietações, dúvidas, certezas e questionamentos de um professor de matemática que admite a reflexão sobre a prática de ensinar matemática, como o ponto de partida para ação do professor. Percorrendo diferentes caminhos até chegar à Educação Matemática de Jovens e Adultos, esta dissertação tem por objetivo: apontar especificidades desta modalidade de educação; qualificar minha formação profissional; e apresentar uma proposta de trabalho para o estudo do tratamento da informação em uma classe de jovens e adultos. Através do desenvolvimento de uma proposta didática, em uma turma de anos finais do ensino fundamental de EJA, e fundamentando-se nos jogos de linguagem, nas semelhanças de família e na matemática normativa do II Wittgenstein, aponto para a existência de diferentes práticas sociais de mobilização de cultura matemática que, por se tratarem de práticas distintas, com jogos de linguagem e regras de significação próprias, só podem ser significadas em seu contexto de origem.",
+  "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/UFRGS-2_9de04fc4a3a36e9c52c79a6700b2386d e https://lume.ufrgs.br/handle/10183/32469",
+  "palavras_chave_pt": [
+   "Jogos de linguagem",
+   "Matemática : Tratamento da Informação",
+   "Educação Matemática",
+   "Educação de jovens e adultos"
+  ],
+  "fonte_palavras": "https://lume.ufrgs.br/handle/10183/32469 (dc.subject)",
+  "confianca": "alta",
+  "observacao": "Registro BDTD confirmado (título com a grafia \"estudo\", corrigida em relação ao arquivo de entrada); resumo integral em português."
+ },
+ {
+  "id": "sartor-2000",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Busca no repositório Mackenzie sem resultado; busca no BDTD pelo título sem correspondência."
+ },
+ {
+  "id": "silva-2006",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": "Silva, M. C. R. (2006). Evidências de Validade de uma Escala de Autoconceito Acadêmico em Estatística. Dissertação de Mestrado. Programa de Pós-Graduação Stricto Sensu em Psicologia. Universidade São Francisco, Itatiba. Este estudo teve como objetivo buscar evidências de validade da Escala de Autoconceito Acadêmico em Estatística, além de verificar associações entre atitudes, autoconceito e desempenho acadêmico em Estatística. Participaram 510 estudantes do segundo ao décimo semestre, dos cursos de Administração, Educação Física, Engenharia, Pedagogia e Psicologia, ingressantes de 1991 a 2006, com idades variando de 18 a 65 anos (M = 24,7; DP = 6,74), a maioria do gênero feminino (57,5%) e do período noturno (76,1%). Foram aplicados coletivamente, em sala de aula, um questionário de identificação, uma escala de autoconceito acadêmico em Estatística e uma escala de atitudes em relação à Estatística. Os principais resultados indicam uma alta consistência interna da escala de autoconceito (DCronbach = 0,94). A análise fatorial de componentes principais com rotação varimax dos 21 itens da escala, indicou que a carga fatorial do primeiro fator é quatro vezes superior a do segundo e explica 48,9% da variância total, podendo ser assumida a unidimensionalidade da escala. Os itens da escala de autoconceito apresentaram valores estatísticos adequados para o ajuste ao modelo de Rasch. Observou-se, também, uma correlação linear moderada e positiva entre autoconceito e desempenho, e uma alta correlação positiva entre autoconceito e atitudes. Constataram-se diferenças significativas do autoconceito entre cursos, séries e entre aprovados e reprovados em Estatística. Acredita-se que o estudo do autoconceito e das atitudes em relação à Estatística possa contribuir para a melhoria do ensino e da aprendizagem desta disciplina e de outras que necessitem de conceitos estatísticos.",
+  "fonte_resumo": "https://www.usf.edu.br/galeria/getImage/385/6970207433172090.pdf",
+  "palavras_chave_pt": [
+   "desempenho acadêmico",
+   "autopercepção",
+   "psicologia educacional",
+   "atitudes",
+   "teoria de resposta ao item"
+  ],
+  "fonte_palavras": "https://www.usf.edu.br/galeria/getImage/385/6970207433172090.pdf (secao Resumo)",
+  "confianca": "alta",
+  "observacao": "Texto integral copiado do PDF institucional da USF. Sem página de repositório com handle; sem registro BDTD localizado."
+ },
+ {
+  "id": "sobrinho-2010",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Repositório Cruzeiro do Sul retorna HTTP 403 a acesso externo; busca no BDTD pelo título sem resultado. Item duplicado de evangelista-2010 no lote."
+ },
+ {
+  "id": "souza-2007",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Repositório Cruzeiro do Sul retorna HTTP 403 a acesso externo; o handle 123456789/340 localizado trata de outro trabalho (2019) e foi descartado. Busca no BDTD sem resultado."
+ },
+ {
+  "id": "tomio-2005",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Registro Pergamum/UDESC sem metadados acessíveis; busca no BDTD pelo título sem correspondência."
+ },
+ {
+  "id": "yahata-2012",
+  "bdtd_url": null,
+  "repositorio_url": null,
+  "resumo_pt": null,
+  "fonte_resumo": null,
+  "palavras_chave_pt": [],
+  "fonte_palavras": null,
+  "confianca": "baixa",
+  "observacao": "Busca no Pantheon/UFRJ (API DSpace) sem resultado para o título/autor; sem registro BDTD localizado pelo título."
+ }
+]

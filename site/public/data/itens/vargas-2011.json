@@ -1,0 +1,83 @@
+{
+  "id": "vargas-2011",
+  "autor": "Saulo Vargas",
+  "ano": 2011,
+  "tipo": "Dissertação",
+  "titulo": "A importância do entendimento do acaso nas experiências aleatórias para o ensino e aprendizagem da probabilidade e estatística.",
+  "instituicao": "Universidade Regional de Blumenau",
+  "cidade": "Blumenau",
+  "estado": "Santa Catarina",
+  "regiao": "Sul",
+  "orientador": "Geraldo Moretto",
+  "programa": "Ensino de Ciências Naturais e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Probabilidade e Estatística",
+  "problema": "analisar se o uso de atividades didáticas no processo de ensino e \naprendizagem da disciplina probabilidade e estatística contribui para que os alunos passem a \nconsiderar o acaso nos fenômenos aleatórios.",
+  "metodologia": "Baseado nos pressupostos construtivistas de ensino \ne aprendizagem destacou-se três pressupostos julgados essenciais para o desenvolvimento do \naluno e que devem constituir o projeto educativo do professor de qualquer área: O que ensinar? \nComo ensinar? Porque ensinar?. No intuito de desenvolver atividades didáticas que explorem \nfatores casuais em experiências aleatórios, foram identificadas três concepções de como quarenta \ne cinco acadêmicos dos cursos de Biologia e Medicina Veterinária consideram o acaso nos \nfenômenos aleatórios a partir de suas experiências sociais e naturais. O instrumento utilizado para \ninvestigar essas concepções foi um questionário com quatro perguntas abertas que exigiam em \nsuas respostas considerações do acaso. A análise qualitativa das respostas apresentadas foi feita a \npartir de um conjunto de técnicas de exploração de documentos denominada de análise de \nconteúdo, onde se verificou três concepções de como os acadêmicos consideram o acaso nos \nfenômenos aleatórios: consideram o acaso e o utilizam corretamente em suas justificativas; \nconsideram o acaso, mas não o utilizam (corretamente) em suas justificativas; e não consideram o \nacaso. A partir dessas concepções foram elaboradas quatro atividades didáticas que visam \nauxiliar professor e aluno no processo de ensino e aprendizagem da probabilidade e estatística. \nEssas atividades estão relacionadas aos elementos de probabilidade e estatística que estavam \nimplícitos nas perguntas abertas do questionário: eventos pouco prováveis, lei dos grandes \nnúmeros e testes de hipótese. As atividades são compostas por experimentos acompanhados de \nquestionamentos que possibilitaram analisar a aplicação das atividades didáticas.",
+  "contribuicoes": "Assim, \nconstatou-se que essas atividades auxiliaram os acadêmicos na importância de considerar o acaso \npara compreender as oscilações no resultado dos fenômenos aleatórios e corroboram com um \nensino e aprendizagem mais reflexivo da disciplina probabilidade e estatística.",
+  "palavras_chave": "Acaso. Ensino e aprendizagem. Atividades didáticas.",
+  "referencial": "construtivismo",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+import%C3%A2ncia+do+entendimento+do+acaso+nas+experi%C3%AAncias+aleat%C3%B3rias+para+o+ensino+e+aprendizagem+da+probabilidade+e+estat%C3%ADstica.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+import%C3%A2ncia+do+entendimento+do+acaso+nas+experi%C3%AAncias+aleat%C3%B3rias+para+o+ensino+e+aprendizagem+da+probabilidade+e+estat%C3%ADstica.&type=AllFields",
+    "texto_completo": "http://bu.furb.br/docs/DS/2011/348186_1_1.pdf http://bu.furb.br/docs/DS/2011/348186_2_1.pdf",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/FURB_ef1a9feab4e3716eccdae62907b87dd9"
+  },
+  "autor_planilha": "VARGAS, S.",
+  "orientador_planilha": "Geraldo Moretto",
+  "autor_capes": "Saulo Vargas",
+  "programa_capes": "Ensino de Ciências Naturais e Matemática",
+  "instituicao_capes": "Universidade Regional de Blumenau",
+  "cidade_capes": "Blumenau",
+  "orientador_capes": "Geraldo Moretto",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20111041006011010P3",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "FURB_ef1a9feab4e3716eccdae62907b87dd9",
+    "url": "http://bu.furb.br/docs/DS/2011/348186_1_1.pdf",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Acaso",
+    "Ensino e aprendizagem",
+    "Atividades didáticas",
+    "Matemática Estudo e ensino",
+    "Probabilidades",
+    "Estatística"
+  ],
+  "palavras_chave_bdtd": "Matemática Estudo e ensino; Probabilidades; Estatística",
+  "ano_bdtd": 2011,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Universidade Regional de Blumenau.",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "FURB_ef1a9feab4e3716eccdae62907b87dd9",
+    "url": "https://bdtd.ibict.br/vufind/Record/FURB_ef1a9feab4e3716eccdae62907b87dd9",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/vargas-2011.svg",
+  "resumo": "Nesta dissertação, vinculada à linha de pesquisa Didática das Ciências Naturais e Matemática, é desenvolvida uma proposta para o ensino e aprendizagem da disciplina probabilidade e estatística que destaque a importância de considerar o acaso nos fenômenos aleatórios. O objetivo geral desta pesquisa consiste em analisar se o uso de atividades didáticas no processo de ensino e aprendizagem da disciplina probabilidade e estatística contribui para que os alunos passem a considerar o acaso nos fenômenos aleatórios. Baseado nos pressupostos construtivistas de ensino e aprendizagem destacou-se três pressupostos julgados essenciais para o desenvolvimento do aluno e que devem constituir o projeto educativo do professor de qualquer área: O que ensinar? Como ensinar? Porque ensinar?. No intuito de desenvolver atividades didáticas que explorem fatores casuais em experiências aleatórios, foram identificadas três concepções de como quarenta e cinco acadêmicos dos cursos de Biologia e Medicina Veterinária consideram o acaso nos fenômenos aleatórios a partir de suas experiências sociais e naturais. O instrumento utilizado para investigar essas concepções foi um questionário com quatro perguntas abertas que exigiam em suas respostas considerações do acaso. A análise qualitativa das respostas apresentadas foi feita a partir de um conjunto de técnicas de exploração de documentos denominada de análise de conteúdo, onde se verificou três concepções de como os acadêmicos consideram o acaso nos fenômenos aleatórios: consideram o acaso e o utilizam corretamente em suas justificativas; consideram o acaso, mas não o utilizam (corretamente) em suas justificativas; e não consideram o acaso. A partir dessas concepções foram elaboradas quatro atividades didáticas que visam auxiliar professor e aluno no processo de ensino e aprendizagem da probabilidade e estatística. Essas atividades estão relacionadas aos elementos de probabilidade e estatística que estavam implícitos nas perguntas abertas do questionário: eventos pouco prováveis, lei dos grandes números e testes de hipótese. As atividades são compostas por experimentos acompanhados de questionamentos que possibilitaram analisar a aplicação das atividades didáticas. Assim, constatou-se que essas atividades auxiliaram os acadêmicos na importância de considerar o acaso para compreender as oscilações no resultado dos fenômenos aleatórios e corroboram com um ensino e aprendizagem mais reflexivo da disciplina probabilidade e estatística.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "http://bu.furb.br/docs/DS/2011/348186_1_1.pdf",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "http://bu.furb.br/docs/DS/2011/348186_1_1.pdf",
+    "fonte_palavras": "http://bu.furb.br/docs/DS/2011/348186_1_1.pdf",
+    "confianca": "alta"
+  }
+}

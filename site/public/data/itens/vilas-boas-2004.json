@@ -1,0 +1,71 @@
+{
+  "id": "vilas-boas-2004",
+  "autor": "Francisco Luiz Vilas Boas",
+  "ano": 2004,
+  "tipo": "Dissertação",
+  "titulo": "Desenvolvimento de um sistema computacional para o ensino de Estatística à distância",
+  "instituicao": "Universidade Federal de Lavras",
+  "cidade": "Lavras",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Marcelo Silva de Oliveira",
+  "programa": "Estatística e experimentação agrária",
+  "area": "Estatística e Matemática",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "3",
+  "foco": "TICs, materiais e recursos didáticos",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "desenvolver um sistema computacional para o ensino de estatística a distância",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Desenvolvimento+de+um+sistema+computacional+para+o+ensino+de+Estat%C3%ADstica+%C3%A0+dist%C3%A2ncia%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Desenvolvimento+de+um+sistema+computacional+para+o+ensino+de+Estat%C3%ADstica+%C3%A0+dist%C3%A2ncia&type=AllFields",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UFLA_12dcd571cbb2ce916a5f82701da51631"
+  },
+  "autor_planilha": "VILAS BOAS, F. L.",
+  "orientador_planilha": "",
+  "autor_capes": "Francisco Luiz Vilas Boas",
+  "programa_capes": "Estatística e Experimentação Agropecuária",
+  "instituicao_capes": "Universidade Federal de Lavras",
+  "cidade_capes": "Lavras",
+  "capes": {
+    "status": "ok",
+    "score": 0.8,
+    "id": "20047832004010011P5",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Conhecimento - Aplicações científicas; Ensino a distância; Software",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.8,
+    "id": "UFLA_12dcd571cbb2ce916a5f82701da51631",
+    "url": "",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Conhecimento - Aplicações científicas",
+    "Ensino a distância"
+  ],
+  "resumo": "O objetivo deste capítulo é realizar um ensaio teórico sobre o EAD, mostrando suas principais características, aplicações, legislação, padrões de qualidade, limitações, perspectivas,teóricos da área, bem como as principais técnicas utilizadas no ensino utilizando o computador. É possível concluir que é valida a utilização do EAD conjugado com os recursos da informática como um meio democrático para a disseminação do conhecimento. O Master Stat é um software educativo, desenvolvido na Universidade Federal de Lavras, localizada no estado de Minas Gerais Brasil para ser usado no ensino da Estatística à distância. Neste capítulo o objetivo é trabalhar nos diferentes enfoques utilizados no ensino da Estatística, a aceitabilidade e desempenho do software no ensino presencial e futura utilização no EAD. Concluiu-se que o Master Stat disponibilizado em CD-ROM é uma ferramenta adequada para o ensino da Estatística à distância.Since the beginning of time knowledge has been a preponderant factor in the success and the happiness of an individual. Unfortunately,not everyone has access to it. Maybe because of economical reasons or because of the geographical distance from centers offering in formation. Because of this, Long Distance Teaching (LDT) was found to be a way of providing knowledge, more specifically, Statistical knowledge,to a larger number of individuals and also reaching areas of difficult access. With the Revolution of Computer science and the development of educational software like Master Stat,presented in this dissertation, LDT obtained the highest level in growth and development in its' history and it was made available to the public. In the beginning LDT presented little flexibility and interaction among those involved in the process of transmitting knowledge. With the Information Revolution or more specifically with the invention of computers, these inconveniences were over come.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UFLA_12dcd571cbb2ce916a5f82701da51631",
+  "ano_bdtd": 2004,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Universidade Federal de Lavras",
+  "programa_bdtd": "Programa de Pós-graduação em Estatística e Experimentação Agropecuária",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UFLA_12dcd571cbb2ce916a5f82701da51631",
+    "url": "https://bdtd.ibict.br/vufind/Record/UFLA_12dcd571cbb2ce916a5f82701da51631",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/vilas-boas-2004.svg"
+}

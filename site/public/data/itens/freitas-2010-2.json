@@ -1,0 +1,51 @@
+{
+  "id": "freitas-2010-2",
+  "autor": "Nilton de Freitas",
+  "ano": 2010,
+  "tipo": "Dissertação",
+  "titulo": "O software estocático como suporte lúdico-investigativo à cultura infantil",
+  "instituicao": "Universidade Cruzeiro do Sul",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Celi Aparecida Espasandin Lopes",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "",
+  "foco": "Não informado",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Estatística",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O+software+estoc%C3%A1tico+como+suporte+l%C3%BAdico-investigativo+%C3%A0+cultura+infantil%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+software+estoc%C3%A1tico+como+suporte+l%C3%BAdico-investigativo+%C3%A0+cultura+infantil&type=AllFields"
+  },
+  "autor_planilha": "FREITAS, N.",
+  "orientador_planilha": "",
+  "autor_capes": "NILTON DE FREITAS",
+  "programa_capes": "Ensino de Ciências e Matemática",
+  "instituicao_capes": "Universidade Cruzeiro do Sul",
+  "cidade_capes": "São Paulo",
+  "orientador_capes": "Celi Aparecida Espasandin Lopes",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20101933078017002P3",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.0
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/freitas-2010-2.svg"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "megid-2002",
+  "autor": "Maria Auxiliadora Bueno Andrade Megid",
+  "ano": 2002,
+  "tipo": "Dissertação",
+  "titulo": "Professores e Alunos Construindo Saberes e Significados em um Projeto de Estatística para 6a série: estudo de duas experiências em escolas pública e particular",
+  "instituicao": "Universidade Estadual de Campinas",
+  "cidade": "Campinas",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Dione Lucchesi de Carvalho",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "3",
+  "nivel": "Ensino Fundamental – anos finais",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "O estudo objetiva investigar a construção dos saberes docentes e discentes em um projeto \nsobre ensino de Estatística com turmas de 6a série, a partir da seguinte questão orientadora: Como professores e alunos de 6a série de escolas pública e privada interagem e constroem saberes em um projeto de estatística?",
+  "metodologia": "Inicialmente, apresenta-se um estudo das Propostas Curriculares para o Ensino \nFundamental; de livros didáticos e paradidáticos que abordam o tema Estatística e das Teses e \nDissertações sobre Ensino de Estatística; além de se discorrer sobre aspectos do Ensino de \nEstatística, de Educação e de Educação Matemática. \n As atividades de ensino aprendizagem são realizadas com duas turmas de 6\na\n série: uma da \nrede pública estadual e outra da rede particular, ambas do município de Campinas. \n O estudo apresenta a descrição dos encontros ocorridos nas duas escolas; os diálogos \nestabelecidos entre aluno-aluno e alunos-professora; o projeto de pesquisa estatística realizada \npelos alunos em ambas as turmas; o processo de tabulação dos dados e confecção de tabelas e \ngráficos por parte dos alunos; as produções dos alunos com o objetivo de divulgar os resultados \nobtidos na pesquisa escolar. \n Os dados da investigação foram coletados por intermédio de diário de campo, de \ngravações em áudio e vídeo, entrevistas com alunos e com as professoras auxiliares de pesquisa, \nalém das produções escritas dos alunos, sendo analisadas em duas categorias: 1. O processo de \nprodução e elaboração dos conhecimentos pelos alunos e 2. O processo de produção de \nconhecimentos pedagógicos e profissionais pela professora. \nEstas duas categorias foram permeadas por outras transversais: a mediação e os encontros \nde professora e alunos durante o trabalho pedagógico e os aspectos socioculturais presentes em \ntodo o processo investigativo.",
+  "contribuicoes": "Com as análises, alguns aspectos emergiram. Destacam-se os conhecimentos matemáticos \ntrabalhados durante a investigação, entre eles: cálculo de porcentagem; cálculo com graus; \ngráficos e tabelas. Também a importância da interação entre alunos nas tarefas realizadas em \ngrupo e nas negociações coletivas, na interação com a professora, proporcionando uma melhor \ncompreensão dos procedimentos matemáticos e estatísticos; auxiliando o aluno a verbalizar o que \npensa; a representar matematicamente as suas idéias. Tudo isso contribui para o desenvolvimento \ndo raciocínio, a flexibilidade do pensamento matemático e o desenvolvimento da linguagem \nmatemática.",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Professores+e+Alunos+Construindo+Saberes+e+Significados+em+um+Projeto+de+Estat%C3%ADstica+para+6a+s%C3%A9rie%3A+estudo+de+duas+experi%C3%AAncias+em+escolas+p%C3%BAblica+e+particular%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Professores+e+Alunos+Construindo+Saberes+e+Significados+em+um+Projeto+de+Estat%C3%ADstica+para+6a+s%C3%A9rie%3A+estudo+de+duas+experi%C3%AAncias+em+escolas+p%C3%BAblica+e+particular&type=AllFields",
+    "registro_institucional": "https://hdl.handle.net/20.500.12733/1593479",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_5914e5b3b3364db40363002ff2ecc1b7"
+  },
+  "autor_planilha": "MEGID, M. A. B. A.",
+  "orientador_planilha": "Dione Carvalho",
+  "autor_capes": "Maria Auxiliadora Bueno Andrade Megid",
+  "programa_capes": "Educação",
+  "instituicao_capes": "Universidade Estadual de Campinas",
+  "cidade_capes": "Campinas",
+  "orientador_capes": "Dione Lucchesi de Carvalho",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20022021833003017001P2",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Educação matemática; Estatística; Diálogos",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.995,
+    "id": "UNICAMP-30_5914e5b3b3364db40363002ff2ecc1b7",
+    "url": "https://hdl.handle.net/20.500.12733/1593479",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Educação matemática",
+    "Estatística",
+    "Diálogos"
+  ],
+  "ano_bdtd": 2002,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "[s.n.]",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UNICAMP-30_5914e5b3b3364db40363002ff2ecc1b7",
+    "url": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_5914e5b3b3364db40363002ff2ecc1b7",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/megid-2002.svg",
+  "resumo": "O estudo objetiva investigar a construção dos saberes docentes e discentes em um projeto sobre ensino de Estatística com turmas de 6a série, a partir da seguinte questão orientadora: Como professores e alunos de 6a série de escolas pública e privada interagem e constroem saberes em um projeto de estatística? Inicialmente, apresenta-se um estudo das Propostas Curriculares para o Ensino Fundamental; de livros didáticos e paradidáticos que abordam o tema Estatística e das Teses e Dissertações sobre Ensino de Estatística; além de se discorrer sobre aspectos do Ensino de Estatística, de Educação e de Educação Matemática. As atividades de ensino aprendizagem são realizadas com duas turmas de 6a série: uma da rede pública estadual e outra da rede particular, ambas do município de Campinas. O estudo apresenta a descrição dos encontros ocorridos nas duas escolas; os diálogos estabelecidos entre aluno-aluno e alunos-professora; o projeto de pesquisa estatística realizada pelos alunos em ambas as turmas; o processo de tabulação dos dados e confecção de tabelas e gráficos por parte dos alunos; as produções dos alunos com o objetivo de divulgar os resultados obtidos na pesquisa escolar. Os dados da investigação foram coletados por intermédio de diário de campo, de gravações em áudio e vídeo, entrevistas com alunos e com as professoras auxiliares de pesquisa, além das produções escritas dos alunos, sendo analisadas em duas categorias: 1. O processo de produção e elaboração dos conhecimentos pelos alunos e 2. O processo de produção de conhecimentos pedagógicos e profissionais pela professora. Estas duas categorias foram permeadas por outras transversais: a mediação e os encontros de professora e alunos durante o trabalho pedagógico e os aspectos socioculturais presentes em todo o processo investigativo. Com as análises, alguns aspectos emergiram. Destacam-se os conhecimentos matemáticos trabalhados durante a investigação, entre eles: cálculo de porcentagem; cálculo com graus; gráficos e tabelas. Também a importância da interação entre alunos nas tarefas realizadas em grupo e nas negociações coletivas, na interação com a professora, proporcionando uma melhor compreensão dos procedimentos matemáticos e estatísticos; auxiliando o aluno a verbalizar o que pensa; a representar matematicamente as suas idéias. Tudo isso contribui para o desenvolvimento do raciocínio, a flexibilidade do pensamento matemático e o desenvolvimento da linguagem matemática",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_5914e5b3b3364db40363002ff2ecc1b7",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_5914e5b3b3364db40363002ff2ecc1b7",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_5914e5b3b3364db40363002ff2ecc1b7",
+    "confianca": "alta"
+  }
+}

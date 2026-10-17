@@ -1,0 +1,82 @@
+{
+  "id": "oliveira-2010",
+  "autor": "Priscila Glauce de Oliveira",
+  "ano": 2010,
+  "tipo": "Dissertação",
+  "titulo": "Probabilidade: Concepções construídas e mobilizadas por alunos do Ensino Médio à luz da Teoria das Concepções (CK₵).",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Cileda de Queiroz e Silva Coutinho",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "6",
+  "foco": "Crenças, concepções, atitudes e saberes práticos",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Probabilidade",
+  "problema": "diagnosticar quais concepções probabilísticas são construídas e mobilizadas pelos alunos do ensino médio em situações de resolução de problema quando a aprendizagem é feita tendo como material didático o caderno do professor e o caderno do aluno, elaborado segundo a nova proposta curricular implementada no estado de são paulo, em 2008.",
+  "metodologia": "estudo de caso, com o quadro teórico composto a partir da teoria das concepções. Foram analisados documentos oficiais, como os PCN, o ENEM, e em especial os cadernos dos professores e alunos, integrantes da nova proposta curricular do estado de são paulo.",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "Teoria das concepções e categorias probabilísticas de Azcárate",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Probabilidade%3A+Concep%C3%A7%C3%B5es+constru%C3%ADdas+e+mobilizadas+por+alunos+do+Ensino+M%C3%A9dio+%C3%A0+luz+da+Teoria+das+Concep%C3%A7%C3%B5es+%28CK%E2%82%B5%29.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Probabilidade%3A+Concep%C3%A7%C3%B5es+constru%C3%ADdas+e+mobilizadas+por+alunos+do+Ensino+M%C3%A9dio+%C3%A0+luz+da+Teoria+das+Concep%C3%A7%C3%B5es+%28CK%E2%82%B5%29.&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/10831",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_679a899b55b3f13c6061832dbc3b0fd2"
+  },
+  "autor_planilha": "OLIVEIRA, P. G.",
+  "orientador_planilha": "Cileda Coutinho",
+  "autor_capes": "PRISCILA GLAUCE DE OLIVEIRA",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "orientador_capes": "Cileda de Queiroz e Silva Coutinho",
+  "capes": {
+    "status": "ok",
+    "score": 0.93,
+    "id": "20102233005010005P4",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Probabilidade; Concepção; Teoria CK¢; Proposta Curricular do Estado de São Paulo; Ensino médio",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "PUC_SP-1_679a899b55b3f13c6061832dbc3b0fd2",
+    "url": "https://tede2.pucsp.br/handle/handle/10831",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Probabilidade",
+    "Concepção",
+    "Teoria CK¢",
+    "Proposta Curricular do Estado de São Paulo",
+    "Ensino médio"
+  ],
+  "resumo": "Este trabalho tem como objetivo diagnosticar quais concepções probabilísticas são construídas e mobilizadas pelos alunos do Ensino Médio em situação de resolução de problemas, quando a aprendizagem é feita tendo como material didático o Caderno do Professor e o Caderno do Aluno, elaborados segundo a nova proposta curricular implementada no estado de São Paulo, em 2008. Com isso buscamos responder à questão: Quais concepções probabilísticas são mobilizadas por alunos do Ensino Médio na resolução de problemas, quando submetidos a uma aprendizagem baseada na nova proposta implementada na rede estadual de São Paulo a partir de 2008? Para respondê-la, optamos em realizar um estudo de caso e o quadro teórico utilizado para fundamentar as análises busca articular a Teoria das Concepções (ck¢) e as categorias probabilísticas identificadas em pesquisas anteriores, particularmente as propostas por Pilar Azcárate em sua tese de doutorado. Para responder nossa questão de pesquisa, analisamos alguns documentos oficiais, tais como Parâmetros Curriculares Nacionais, Exame Nacional do Ensino Médio e em especial os cadernos do professor e do aluno, integrantes da nova Proposta Curricular do estado de São Paulo. Ao final, aplicamos um questionário com três grupos de alunos voluntários, cursando o segundo e o terceiro ano do Ensino Médio de uma escola pública da rede estadual de ensino. A análise da nova proposta juntamente com a análise dos protocolos construídos a partir da aplicação do questionário nos permitiu identificar concepções do enfoque clássico de probabilidade, porém a partir de uma visão puramente determinista de probabilidade",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_679a899b55b3f13c6061832dbc3b0fd2",
+  "ano_bdtd": 2010,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_679a899b55b3f13c6061832dbc3b0fd2",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_679a899b55b3f13c6061832dbc3b0fd2",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/oliveira-2010.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_679a899b55b3f13c6061832dbc3b0fd2",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_679a899b55b3f13c6061832dbc3b0fd2",
+    "confianca": "alta"
+  }
+}

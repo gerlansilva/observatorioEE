@@ -1,0 +1,489 @@
+[
+  {
+    "id": "abe-2011",
+    "status": "nao_encontrado",
+    "score": 0.486
+  },
+  {
+    "id": "almeida-2010-2",
+    "status": "nao_encontrado",
+    "score": 0.498
+  },
+  {
+    "id": "alves-2012",
+    "status": "nao_encontrado",
+    "score": 0.51
+  },
+  {
+    "id": "amancio-2012",
+    "status": "nao_encontrado",
+    "score": 0.467
+  },
+  {
+    "id": "araujo-2008",
+    "status": "nao_encontrado",
+    "score": 0.51
+  },
+  {
+    "id": "barreto-1999",
+    "status": "nao_encontrado",
+    "score": 0.517
+  },
+  {
+    "id": "barrizon-2011",
+    "status": "nao_encontrado",
+    "score": 0.444
+  },
+  {
+    "id": "basseti-2012",
+    "status": "nao_encontrado",
+    "score": 0.544
+  },
+  {
+    "id": "becegato-1999",
+    "status": "nao_encontrado",
+    "score": 0.61
+  },
+  {
+    "id": "bortolanza-2003",
+    "status": "nao_encontrado",
+    "score": 0.566
+  },
+  {
+    "id": "braga-2009",
+    "status": "nao_encontrado",
+    "score": 0.574
+  },
+  {
+    "id": "cardoso-2004",
+    "status": "nao_encontrado",
+    "score": 0.315
+  },
+  {
+    "id": "carneiro-2003",
+    "status": "nao_encontrado",
+    "score": 0.606
+  },
+  {
+    "id": "carvalho-2005",
+    "status": "nao_encontrado",
+    "score": 0.557
+  },
+  {
+    "id": "carvalho-2011-2",
+    "status": "nao_encontrado",
+    "score": 0.563
+  },
+  {
+    "id": "casas-1997",
+    "status": "nao_encontrado",
+    "score": 0.435
+  },
+  {
+    "id": "cavalcanti-2010",
+    "status": "nao_encontrado",
+    "score": 0.303
+  },
+  {
+    "id": "cazorla-2002",
+    "status": "nao_encontrado",
+    "score": 0.0
+  },
+  {
+    "id": "contini-neto-2012",
+    "status": "nao_encontrado",
+    "score": 0.442
+  },
+  {
+    "id": "correa-neto-2010",
+    "status": "nao_encontrado",
+    "score": 0.397
+  },
+  {
+    "id": "costa-1994",
+    "status": "nao_encontrado",
+    "score": 0.475
+  },
+  {
+    "id": "costa-2004",
+    "status": "nao_encontrado",
+    "score": 0.45
+  },
+  {
+    "id": "cureau-2000",
+    "status": "nao_encontrado",
+    "score": 0.538
+  },
+  {
+    "id": "dias-2008",
+    "status": "nao_encontrado",
+    "score": 0.458
+  },
+  {
+    "id": "evangelista-2010",
+    "status": "nao_encontrado",
+    "score": 0.481
+  },
+  {
+    "id": "ferreira-2004",
+    "status": "nao_encontrado",
+    "score": 0.646
+  },
+  {
+    "id": "ferreira-2011",
+    "status": "nao_encontrado",
+    "score": 0.392
+  },
+  {
+    "id": "ficagna-2005",
+    "status": "ok",
+    "score": 0.981,
+    "repository": "http://tede2.pucrs.br/tede2/handle/tede/3299",
+    "bdtd": "http://tede2.pucrs.br/tede2/handle/tede/3299"
+  },
+  {
+    "id": "figueiredo-2000",
+    "status": "ok",
+    "score": 1.0,
+    "repository": "https://tede2.pucsp.br/handle/handle/11214",
+    "bdtd": "https://tede2.pucsp.br/handle/handle/11214"
+  },
+  {
+    "id": "flores-2005",
+    "status": "nao_encontrado",
+    "score": 0.647
+  },
+  {
+    "id": "freitas-2010-2",
+    "status": "nao_encontrado",
+    "score": 0.0
+  },
+  {
+    "id": "fujii-2006",
+    "status": "nao_encontrado",
+    "score": 0.526
+  },
+  {
+    "id": "furlan-2011",
+    "status": "nao_encontrado",
+    "score": 0.498
+  },
+  {
+    "id": "gaiovicz-2007",
+    "status": "nao_encontrado",
+    "score": 0.41
+  },
+  {
+    "id": "giusti-2012",
+    "status": "nao_encontrado",
+    "score": 0.552
+  },
+  {
+    "id": "goncalves-2005",
+    "status": "nao_encontrado",
+    "score": 0.572
+  },
+  {
+    "id": "gouvea-2011",
+    "status": "nao_encontrado",
+    "score": 0.566
+  },
+  {
+    "id": "grzebieluchas-2001",
+    "status": "nao_encontrado",
+    "score": 0.454
+  },
+  {
+    "id": "herebia-2002",
+    "status": "nao_encontrado",
+    "score": 0.407
+  },
+  {
+    "id": "hey-2001",
+    "status": "ok",
+    "score": 1.0,
+    "repository": "http://repositorio.ufsc.br/xmlui/handle/123456789/82004",
+    "bdtd": "http://repositorio.ufsc.br/xmlui/handle/123456789/82004"
+  },
+  {
+    "id": "homa-2012",
+    "status": "nao_encontrado",
+    "score": 0.603
+  },
+  {
+    "id": "jacobini-1999",
+    "status": "nao_encontrado",
+    "score": 0.45
+  },
+  {
+    "id": "jung-2003",
+    "status": "nao_encontrado",
+    "score": 0.396
+  },
+  {
+    "id": "lemos-2002",
+    "status": "nao_encontrado",
+    "score": 0.413
+  },
+  {
+    "id": "lopes-1988",
+    "status": "nao_encontrado",
+    "score": 0.452
+  },
+  {
+    "id": "lugli-2011",
+    "status": "nao_encontrado",
+    "score": 0.345
+  },
+  {
+    "id": "marocci-2011",
+    "status": "nao_encontrado",
+    "score": 0.245
+  },
+  {
+    "id": "marquez-2006",
+    "status": "nao_encontrado",
+    "score": 0.526
+  },
+  {
+    "id": "maschio-2002",
+    "status": "nao_encontrado",
+    "score": 0.391
+  },
+  {
+    "id": "medici-2007",
+    "status": "nao_encontrado",
+    "score": 0.0
+  },
+  {
+    "id": "meirelles-2006",
+    "status": "nao_encontrado",
+    "score": 0.485
+  },
+  {
+    "id": "melamed-1998",
+    "status": "nao_encontrado",
+    "score": 0.407
+  },
+  {
+    "id": "mendonca-2008",
+    "status": "nao_encontrado",
+    "score": 0.557
+  },
+  {
+    "id": "mendonca-2012",
+    "status": "nao_encontrado",
+    "score": 0.518
+  },
+  {
+    "id": "milagre-2001",
+    "status": "nao_encontrado",
+    "score": 0.526
+  },
+  {
+    "id": "monteiro-1998",
+    "status": "nao_encontrado",
+    "score": 0.455
+  },
+  {
+    "id": "moraes-2011",
+    "status": "nao_encontrado",
+    "score": 0.477
+  },
+  {
+    "id": "nogueira-2008",
+    "status": "nao_encontrado",
+    "score": 0.4
+  },
+  {
+    "id": "nogueira-2011",
+    "status": "nao_encontrado",
+    "score": 0.438
+  },
+  {
+    "id": "nunes-2009",
+    "status": "nao_encontrado",
+    "score": 0.608
+  },
+  {
+    "id": "oliveira-2005",
+    "status": "nao_encontrado",
+    "score": 0.545
+  },
+  {
+    "id": "oliveira-2009",
+    "status": "nao_encontrado",
+    "score": 0.503
+  },
+  {
+    "id": "pacheco-2001",
+    "status": "nao_encontrado",
+    "score": 0.436
+  },
+  {
+    "id": "panaino-1998",
+    "status": "nao_encontrado",
+    "score": 0.487
+  },
+  {
+    "id": "pessanha-2001",
+    "status": "nao_encontrado",
+    "score": 0.4
+  },
+  {
+    "id": "petta-2001",
+    "status": "nao_encontrado",
+    "score": 0.537
+  },
+  {
+    "id": "pichler-e-2005",
+    "status": "nao_encontrado",
+    "score": 0.416
+  },
+  {
+    "id": "pinheiro-2008",
+    "status": "nao_encontrado",
+    "score": 0.52
+  },
+  {
+    "id": "pinheiro-2011",
+    "status": "nao_encontrado",
+    "score": 0.421
+  },
+  {
+    "id": "putvinskis-2001",
+    "status": "ok",
+    "score": 1.0,
+    "repository": "https://tede.fecap.br/handle/tede/296",
+    "bdtd": "https://tede.fecap.br/handle/tede/296"
+  },
+  {
+    "id": "reis-2001",
+    "status": "ok",
+    "score": 0.979,
+    "repository": "http://repositorio.ufsc.br/xmlui/handle/123456789/79748",
+    "bdtd": "http://repositorio.ufsc.br/xmlui/handle/123456789/79748"
+  },
+  {
+    "id": "ribeiro-2004",
+    "status": "nao_encontrado",
+    "score": 0.426
+  },
+  {
+    "id": "rodrigues-2008",
+    "status": "nao_encontrado",
+    "score": 0.671
+  },
+  {
+    "id": "rosa-2006",
+    "status": "nao_encontrado",
+    "score": 0.43
+  },
+  {
+    "id": "santos-2003",
+    "status": "nao_encontrado",
+    "score": 0.417
+  },
+  {
+    "id": "santos-2010-2",
+    "status": "nao_encontrado",
+    "score": 0.495
+  },
+  {
+    "id": "santos-2010",
+    "status": "ok",
+    "score": 0.99,
+    "repository": "http://hdl.handle.net/10183/32469",
+    "bdtd": "http://hdl.handle.net/10183/32469"
+  },
+  {
+    "id": "santos-2011-2",
+    "status": "nao_encontrado",
+    "score": 0.737
+  },
+  {
+    "id": "sartor-2000",
+    "status": "nao_encontrado",
+    "score": 0.391
+  },
+  {
+    "id": "sganzerla-2001",
+    "status": "nao_encontrado",
+    "score": 0.396
+  },
+  {
+    "id": "silva-2001",
+    "status": "nao_encontrado",
+    "score": 0.512
+  },
+  {
+    "id": "silva-2006",
+    "status": "nao_encontrado",
+    "score": 0.425
+  },
+  {
+    "id": "silva-2011",
+    "status": "nao_encontrado",
+    "score": 0.64
+  },
+  {
+    "id": "silveira-2010",
+    "status": "nao_encontrado",
+    "score": 0.606
+  },
+  {
+    "id": "sobrinho-2010",
+    "status": "nao_encontrado",
+    "score": 0.481
+  },
+  {
+    "id": "souza-2002-2",
+    "status": "nao_encontrado",
+    "score": 0.603
+  },
+  {
+    "id": "souza-2006",
+    "status": "nao_encontrado",
+    "score": 0.477
+  },
+  {
+    "id": "souza-2007",
+    "status": "nao_encontrado",
+    "score": 0.446
+  },
+  {
+    "id": "souza-2009",
+    "status": "nao_encontrado",
+    "score": 0.622
+  },
+  {
+    "id": "teixeira-2012",
+    "status": "nao_encontrado",
+    "score": 0.676
+  },
+  {
+    "id": "tomio-2005",
+    "status": "nao_encontrado",
+    "score": 0.0
+  },
+  {
+    "id": "tonouti-2011",
+    "status": "nao_encontrado",
+    "score": 0.55
+  },
+  {
+    "id": "vasconcelos-2003",
+    "status": "nao_encontrado",
+    "score": 0.343
+  },
+  {
+    "id": "yahata-2012",
+    "status": "nao_encontrado",
+    "score": 0.391
+  },
+  {
+    "id": "zequim-2010",
+    "status": "nao_encontrado",
+    "score": 0.438
+  }
+]

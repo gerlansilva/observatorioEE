@@ -1,0 +1,73 @@
+{
+  "id": "lutz-2012",
+  "autor": "Mauricio Ramos Lutz",
+  "ano": 2012,
+  "tipo": "Dissertação",
+  "titulo": "Uma sequência didática para o ensino de estatística a alunos do ensino médio na modalidade PROEJA",
+  "instituicao": "Universidade Federal do Rio Grande do Sul",
+  "cidade": "Porto Alegre",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "João Moraes",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino de Matemática",
+  "nivel_codigo": "6",
+  "nivel": "EJA – Ensino Médio",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Estatística",
+  "problema": "elaborar, implementar e analisar uma sequência didática envolvendo atividades de ensino de estatística",
+  "metodologia": "Trabalho de natureza qualitativa aplicado a uma turma de 24 alunos de ensino médio, na modalidade PROEJA. A pesquisa utiliza elementos da engenharia didática e os registros de representação semiótica de Duval",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "Artigue: engenharia didática; Duval: teoria dos registros de representação semiótica",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Uma+sequ%C3%AAncia+did%C3%A1tica+para+o+ensino+de+estat%C3%ADstica+a+alunos+do+ensino+m%C3%A9dio+na+modalidade+PROEJA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma+sequ%C3%AAncia+did%C3%A1tica+para+o+ensino+de+estat%C3%ADstica+a+alunos+do+ensino+m%C3%A9dio+na+modalidade+PROEJA&type=AllFields",
+    "registro_institucional": "http://hdl.handle.net/10183/49625",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UFRGS-2_8b299e15aa14a1ed79362af2bdd59725"
+  },
+  "autor_planilha": "LUTZ, M. R.",
+  "orientador_planilha": "João Moraes",
+  "autor_capes": "Mauricio Ramos Lutz",
+  "programa_capes": "Ensino de Matemática",
+  "instituicao_capes": "Universidade Federal do Rio Grande do Sul",
+  "cidade_capes": "Porto Alegre",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20121442001013081P9",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Ensino-aprendizagem; Semiótica; Estatística",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "UFRGS-2_8b299e15aa14a1ed79362af2bdd59725",
+    "url": "http://hdl.handle.net/10183/49625",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Ensino-aprendizagem",
+    "Semiótica",
+    "Estatística"
+  ],
+  "resumo": "O presente estudo é uma pesquisa qualitativa que teve como objetivo principal elaborar, implementar e analisar uma sequência didática envolvendo atividades de ensino de Estatística. Além disso, visou desenvolver e acompanhar as habilidades dos alunos através da coleta dos dados, tratamento, interpretação e na crítica de informações retiradas de situações cotidianas, as quais chegam até eles através dos mais variados meios de comunicação. O trabalho foi aplicado em uma turma, com 24 alunos, de Ensino Médio na modalidade PROEJA do Curso Técnico em Informática – Etapa I, do Instituto Federal Farroupilha – Campus Alegrete/RS. A importância de se realizar tal temática se deve à necessidade de incluir o ensino de Estatística na disciplina de Matemática e a carência de material didático destinado ao público em estudo. Os Parâmetros Curriculares Nacionais (1999) apontam o ensino de Estatística, a partir do Ensino Fundamental, como uma necessidade para o entendimento das relações sociais, políticas e econômicas do mundo globalizado. Para fundamentar o processo de nossa pesquisa, foram utilizados como metodologia os pressupostos da Engenharia Didática, segundo descrição feita por Artigue (1996), visto que é usada nas pesquisas de Didática da Matemática, as quais incluem uma parte experimental. Também foi usada a Teoria dos Registros de Representação Semiótica de Duval (2003) devido à relevância da conversão de registros para abordar o ensino de Estatística, a fim de construir o conhecimento do aluno. O resultado desta pesquisa aponta que o material produzido favoreceu a aprendizagem dos conteúdos de Estatística. O produto final é uma sequência didática que aborda conteúdos de Estatística em que se contempla os registros e representações da língua natural, algébrico, tabela e gráficos, os quais contribuirão para instrumentalização dos professores do Ensino Médio.The present study is a qualitative research that aimed to develop, implement, and analyze main a didactic sequence involving statistical education activities. It also aimed to develop and monitor the skills of the students through the data collection, processing, interpretation and critique of information taken from everyday situations, which reaches them through a variety of media. The work was applied in a classroom, with 24 students high school course PROEJA on Technician Computer – stage I, of the Federal Institute Farroupilha – Campus Alegrete/RS Campus. The importance of holding such a session is due to the need to include the teaching of Statistics in Math discipline and the lack of educational material for the people in the study. The National Curricular Parameters (1999) pointed out the statistical education, from elementary school, as a necessity for the understandings of social, political, and economic relationships of the globalised world. To support the process of our research have been used as Didactic Engineering methodology assumptions, according to description given by Artigue (1996), since it is used in searches of Didactics of mathematics, including an experimental part. It was also used the theory of Semiotics Representation records Duval (2003) due to relevance of converting records to approach the teaching of Statistics, in order to build the student's knowledge. The result of this survey points out that the material produced favored content learning of statistics. The final product is a didactic sequence that covers Statistical content which covers the records and representations of natural language, algebraic, graphical and table, which will contribute as material for high school teachers.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UFRGS-2_8b299e15aa14a1ed79362af2bdd59725",
+  "ano_bdtd": 2012,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Não Informado pela instituição",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UFRGS-2_8b299e15aa14a1ed79362af2bdd59725",
+    "url": "https://bdtd.ibict.br/vufind/Record/UFRGS-2_8b299e15aa14a1ed79362af2bdd59725",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/lutz-2012.svg"
+}

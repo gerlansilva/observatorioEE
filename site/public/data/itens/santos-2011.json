@@ -1,0 +1,79 @@
+{
+  "id": "santos-2011",
+  "autor": "José Jefferson Aguiar dos Santos",
+  "ano": 2011,
+  "tipo": "Tese",
+  "titulo": "Desenvolvimento de um objeto de aprendizagem para o ensino de conceitos de probabilidade",
+  "instituicao": "Universidade Estadual da Paraíba",
+  "cidade": "Campina Grande",
+  "estado": "Paraíba",
+  "regiao": "Nordeste",
+  "orientador": "Filomena Moita",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Doutorado",
+  "conteudo": "Probabilidade",
+  "problema": "desenvolver um objeto de aprendizagem e investigar sua utilização no processo de ensino de conceitos de probabilidade",
+  "metodologia": "pesquisa qualitativa com observação participante na modalidade de estudo de caso. O trabalho foi realizado com uma turma de 3º ano de ensino médio",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Desenvolvimento+de+um+objeto+de+aprendizagem+para+o+ensino+de+conceitos+de+probabilidade%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Desenvolvimento+de+um+objeto+de+aprendizagem+para+o+ensino+de+conceitos+de+probabilidade&type=AllFields",
+    "registro_institucional": "https://repositorio.uepb.edu.br/handle/123456789/73720",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UEPB-2_c12188aa3e36bbade9ef70547983d0a6"
+  },
+  "autor_planilha": "SANTOS, J. J. A.",
+  "orientador_planilha": "Filomena Moita",
+  "autor_capes": "JOSÉ JEFFERSON AGUIAR DOS SANTOS",
+  "programa_capes": "Ensino de Ciências e Matemática",
+  "instituicao_capes": "Universidade Estadual da Paraiba",
+  "cidade_capes": "Campina Grande",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "2011424004014006P5",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Probabilidade; Tecnologia da Informação e Comunicação; Objetos de Aprendizagem",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "UEPB-2_c12188aa3e36bbade9ef70547983d0a6",
+    "url": "https://repositorio.uepb.edu.br/handle/123456789/73720",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Probabilidade",
+    "Tecnologia da Informação e Comunicação",
+    "Objetos de Aprendizagem"
+  ],
+  "resumo": "Esta pesquisa teve como objetivo desenvolver um Objeto de Aprendizagem e investigar sua utilização no processo de ensino de conceitos de probabilidade. Para tanto, apoiamo-nos na Teoria da Aprendizagem Significativa de Ausubel e na Construcionista de Papert como referenciais teóricos. Trabalhamos com uma turma de 3ª série de Ensino Médio de uma Escola Municipal do interior de Pernambuco. A metodologia empregada nesta pesquisa foi baseada nos estudos sobre pesquisa qualitativa, com a observação participante, e a modalidade escolhida foi o estudo de caso. Os resultados apontam mudanças efetivas na comunicação e na interação entre os componentes da sala de aula e uma melhoria significativa no processo de ensino e aprendizagem, que dá condições ao estudante para participar da construção de seu próprio conhecimento, o que lhe favorece uma melhor aquisição de conhecimentos, competências e habilidades sobre os conceitos de probabilidade.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UEPB-2_c12188aa3e36bbade9ef70547983d0a6",
+  "ano_bdtd": 2011,
+  "tipo_bdtd": "Tese",
+  "instituicao_bdtd": "Universidade Estadual da Paraíba 24004014006P5",
+  "programa_bdtd": "Programa de Pós-Graduação em Ensino de Ciências e Educação Matemática - PPGECEM",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UEPB-2_c12188aa3e36bbade9ef70547983d0a6",
+    "url": "https://bdtd.ibict.br/vufind/Record/UEPB-2_c12188aa3e36bbade9ef70547983d0a6",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/santos-2011.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/UEPB-2_c12188aa3e36bbade9ef70547983d0a6",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/UEPB-2_c12188aa3e36bbade9ef70547983d0a6",
+    "confianca": "alta"
+  }
+}

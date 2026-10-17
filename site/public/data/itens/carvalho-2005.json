@@ -1,0 +1,54 @@
+{
+  "id": "carvalho-2005",
+  "autor": "Rosália Policarpo Fagundes de Carvalho",
+  "ano": 2005,
+  "tipo": "Dissertação",
+  "titulo": "A formação de conceitos probabilísticos em crianças da 4ª série do ensino fundamental.",
+  "instituicao": "Universidade Católica de Brasília",
+  "cidade": "Brasília",
+  "estado": "Distrito Federal",
+  "regiao": "Centro-Oeste",
+  "orientador": "Beatrice Carnielli",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "2",
+  "nivel": "Ensino Fundamental – anos iniciais",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Probabilidade",
+  "problema": "analisar a constituição do conceito científico de probabilidade em alunos da 4ª série do ensino fundamental a partir dos conceitos por eles desenvolvidos.",
+  "metodologia": "Foram aplicados testes diagnósticos e os resultados foram analisados a partir do método microgenético pela perspectiva Vygotskyana",
+  "contribuicoes": "",
+  "palavras_chave": "formação de conceitos, probabilidade, ensino fundamental",
+  "referencial": "Vygotski e o método de análise microgenético",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+forma%C3%A7%C3%A3o+de+conceitos+probabil%C3%ADsticos+em+crian%C3%A7as+da+4%C2%AA+s%C3%A9rie+do+ensino+fundamental.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+forma%C3%A7%C3%A3o+de+conceitos+probabil%C3%ADsticos+em+crian%C3%A7as+da+4%C2%AA+s%C3%A9rie+do+ensino+fundamental.&type=AllFields"
+  },
+  "autor_planilha": "CARVALHO, R. P. F. de",
+  "orientador_planilha": "Beatrice Carnielli",
+  "autor_capes": "ROSÁLIA POLICARPO FAGUNDES DE CARVALHO",
+  "programa_capes": "Educação",
+  "instituicao_capes": "Universidade Católica de Brasília",
+  "cidade_capes": "Brasília",
+  "capes": {
+    "status": "ok",
+    "score": 0.947,
+    "id": "200518553003012001P9",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.557
+  },
+  "tags": [
+    "formação de conceitos",
+    "probabilidade",
+    "ensino fundamental"
+  ],
+  "thumbnail": "./assets/images/thumbs/carvalho-2005.svg"
+}

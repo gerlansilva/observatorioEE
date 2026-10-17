@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <title>Observatório EE — imagem de compartilhamento</title>
+    <link rel="stylesheet" href="../fonts/roboto/roboto.css" />
+    <style>
+      * { box-sizing: border-box; }
+      html, body { margin: 0; width: 1200px; height: 630px; overflow: hidden; }
+      body {
+        font-family: "Roboto", Arial, sans-serif;
+        color: #1d1d1d;
+        background: #fff;
+      }
+      .og { position: relative; width: 1200px; height: 630px; background: #fff; }
+      .hero {
+        height: 150px;
+        background: #174B57;
+        overflow: hidden;
+        border-bottom: 3px solid #D96A3A;
+        position: relative;
+      }
+      .hero::before {
+        content: "";
+        position: absolute;
+        left: 72px;
+        top: 52px;
+        width: 120px;
+        height: 4px;
+        background: #D96A3A;
+      }
+      .hero::after {
+        content: "1984 — 2013";
+        position: absolute;
+        right: 72px;
+        top: 44px;
+        color: #D96A3A;
+        font-size: 18px;
+        letter-spacing: 2px;
+      }
+      .content { padding: 44px 72px 0; position: relative; }
+      .mark { width: 72px; height: 72px; position: absolute; left: 72px; top: 38px; }
+      .kicker {
+        margin-left: 96px;
+        color: #174B57;
+        font-size: 13px;
+        font-weight: 700;
+        letter-spacing: 2.2px;
+        text-transform: uppercase;
+        padding-top: 10px;
+      }
+      h1 {
+        margin: 14px 0 0 96px;
+        font-size: 58px;
+        line-height: 1.02;
+        font-weight: 500;
+        letter-spacing: -1.2px;
+        max-width: 980px;
+      }
+      .sub {
+        margin: 14px 0 0 96px;
+        font-size: 24px;
+        line-height: 1.25;
+        color: #505253;
+        max-width: 900px;
+      }
+      .rule { width: 100%; height: 2px; background: #174B57; margin: 26px 0 20px; }
+      .stats { display: flex; gap: 54px; align-items: flex-end; }
+      .stat strong {
+        display: block;
+        font-size: 36px;
+        line-height: 1;
+        font-weight: 500;
+        color: #174B57;
+        font-variant-numeric: tabular-nums;
+      }
+      .stat span {
+        display: block;
+        margin-top: 4px;
+        font-size: 12px;
+        letter-spacing: 1.2px;
+        text-transform: uppercase;
+        color: #898d8f;
+      }
+      .footer {
+        position: absolute;
+        left: 72px;
+        right: 72px;
+        bottom: 26px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        color: #898d8f;
+        font-size: 12px;
+        letter-spacing: 0.6px;
+      }
+      .footer b { color: #505253; font-weight: 500; }
+    </style>
+  </head>
+  <body>
+    <div class="og">
+      <div class="hero"></div>
+      <div class="content">
+        <img class="mark" src="mark-observatorio.svg" alt="" />
+        <div class="kicker">Repositório digital · 1984–2013</div>
+        <h1>Observatório EE</h1>
+        <p class="sub">Teses e dissertações brasileiras em Educação Estatística</p>
+        <div class="rule"></div>
+        <div class="stats">
+          <div class="stat"><strong>259</strong><span>trabalhos</span></div>
+          <div class="stat"><strong>57</strong><span>instituições</span></div>
+          <div class="stat"><strong>14</strong><span>estados</span></div>
+          <div class="stat"><strong>5</strong><span>regiões</span></div>
+        </div>
+      </div>
+      <div class="footer">
+        <span><b>Observatório EE</b> · acervo digital</span>
+        <span>Interface Tainacan</span>
+      </div>
+    </div>
+  </body>
+</html>

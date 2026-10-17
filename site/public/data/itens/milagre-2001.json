@@ -1,0 +1,69 @@
+{
+  "id": "milagre-2001",
+  "autor": "Robson Amaral Milagre",
+  "ano": 2001,
+  "tipo": "Dissertação",
+  "titulo": "Estatística: uma proposta de ensino para os cursos de administração de empresas",
+  "instituicao": "Universidade Federal de Santa Catarina",
+  "cidade": "Florianópolis",
+  "estado": "Santa Catarina",
+  "regiao": "Sul",
+  "orientador": "Amir Mattar Valente",
+  "programa": "Engenharia de Produção",
+  "area": "Engenharia",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "O presente trabalho busca encontrar uma nova proposta de ensino de \nEstatística para os cursos de Administração de Empresas.",
+  "metodologia": "a análise do trabalho recai, num primeiro momento, sobre a evolução, o \nconceito e os fundamentos básicos do Marketing e da Estatística, bem como \nsuas relações e aplicações na Administração. Em seguida aborda a questão do \nuso das novas tecnologias, sobretudo do computador, no processo da \nconstrução do conhecimento e da necessidade de se quebrar velhos \nparadigmas ainda comuns na educação brasileira. Por fim, apresenta um \nestudo de caso sobre o ensino de Estatística no curso de Administração de \nEmpresas da Faculdade de Ciências Econômicas, Administrativas e Contábeis \nde Divinópolis – FACED, objetivando identificar os motivos pelos quais muitos \nalunos têm dificuldades de aprendizagem em Estatística e propor possíveis \nsoluções.",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Estat%C3%ADstica%3A+uma+proposta+de+ensino+para+os+cursos+de+administra%C3%A7%C3%A3o+de+empresas%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estat%C3%ADstica%3A+uma+proposta+de+ensino+para+os+cursos+de+administra%C3%A7%C3%A3o+de+empresas&type=AllFields",
+    "texto_completo": "https://repositorio.ufsc.br/bitstream/handle/123456789/81812/186310.pdf",
+    "registro_institucional": "https://repositorio.ufsc.br/handle/123456789/81812"
+  },
+  "capes": {
+    "status": "baixa_confianca",
+    "score": 0.429,
+    "candidato": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "MILAGRE, R. A.",
+  "orientador_planilha": "Amir Valente",
+  "instituicao_agente": "Universidade Federal de Santa Catarina (UFSC)",
+  "programa_agente": "Programa de Pós-Graduação em Engenharia de Produção (Centro Tecnológico)",
+  "enriquecimento_manual": {
+    "fonte": "Repositório Institucional da UFSC (PDF, folha de rosto e ficha de banca) + OpenAlex/BDTD (metadados OAI)",
+    "confianca": "alta",
+    "observacao": "Dados extraídos do próprio PDF: banca com Prof. Amir Mattar Valente (orientador), defesa em 13/07/2001, 160 f., 'Mestre em Engenharia de Produção'. O acesso direto ao repositório UFSC é bloqueado por firewall para IPs externos, mas o PDF foi lido via proxy de extração de texto."
+  },
+  "instituicao_planilha": "Universidade Federal de Santa Catarina",
+  "programa_planilha": "Engenharia de Produção",
+  "tags": [
+    "Estatística",
+    "marketing",
+    "computador e construção do conhecimento"
+  ],
+  "thumbnail": "./assets/images/thumbs/milagre-2001.svg",
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.526
+  },
+  "resumo": "MILAGRE, Robson Amaral. Estatística: uma proposta de ensino para os cursos de Administração de Empresas. Florianópolis, 2001, 160f. Dissertação (Mestrado em Engenharia de Produção) – Programa de Pós-graduação em Engenharia de Produção, UFSC, 2001. O presente trabalho busca encontrar uma nova proposta de ensino de Estatística para os cursos de Administração de Empresas. Fundamenta -se na necessidade de mudanças impostas pela globalização econômica e pela evolução tecnológica, onde a informação ganha “status” de diferencial de mercado. Diante desta realidade, o Marketing, enquanto área de atuação do administrador de empresas também assume posição de destaque, posto que a concorrência torna-se cada vez mais acirrada num mercado muito competitivo. Assim, a análise do trabalho recai, num primeiro momento, sobre a evolução, o conceito e os fundamentos básicos do Marketing e da Estatística, bem como suas relações e aplicações na Administração. Em seguida aborda a questão do uso das novas tecnologias, sobretudo do computador, no processo da construção do conhecimento e da necessidade de se quebrar velhos paradigmas ainda comuns na educação brasileira. Por fim, apresenta um estudo de caso sobre o ensino de Estatística no curso de Administração de Empresas da Faculdade de Ciências Econômicas, Administrativas e Contábeis de Divinópolis – FACED, objetivando identificar os motivos pelos quais muitos alunos têm dificuldades de aprendizagem em Estatística e propor possíveis soluções.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://repositorio.ufsc.br/bitstream/handle/123456789/81812/186310.pdf",
+  "pesquisa_agente_links": {
+    "status": "ok",
+    "fonte_resumo": "https://repositorio.ufsc.br/bitstream/handle/123456789/81812/186310.pdf",
+    "fonte_palavras": "https://repositorio.ufsc.br/bitstream/handle/123456789/81812/186310.pdf (secao Resumo, \"Palavras chaves\")",
+    "confianca": "alta"
+  }
+}

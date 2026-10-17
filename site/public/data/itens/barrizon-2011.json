@@ -1,0 +1,50 @@
+{
+  "id": "barrizon-2011",
+  "autor": "Erliete Barizon",
+  "ano": 2011,
+  "tipo": "Dissertação",
+  "titulo": "Adaptação e validação de uma escala de autorregulação das estratégias de aprendizagem de estatística de estudantes da terceira série do ensino médio de são paulo",
+  "instituicao": "Universidade Bandeirantes de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Verônica Kataoka",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Adapta%C3%A7%C3%A3o+e+valida%C3%A7%C3%A3o+de+uma+escala+de+autorregula%C3%A7%C3%A3o+das+estrat%C3%A9gias+de+aprendizagem+de+estat%C3%ADstica+de+estudantes+da+terceira+s%C3%A9rie+do+ensino+m%C3%A9dio+de+s%C3%A3o+paulo%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Adapta%C3%A7%C3%A3o+e+valida%C3%A7%C3%A3o+de+uma+escala+de+autorregula%C3%A7%C3%A3o+das+estrat%C3%A9gias+de+aprendizagem+de+estat%C3%ADstica+de+estudantes+da+terceira+s%C3%A9rie+do+ensino+m%C3%A9dio+de+s%C3%A3o+paulo&type=AllFields"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 0.933,
+    "id": "20113633107017003P8",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "BARRIZON, E.",
+  "orientador_planilha": "Verônica Kataoka",
+  "autor_capes": "Erliete Barizon",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Universidade Anhanguera de São Paulo",
+  "cidade_capes": "São Paulo",
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.444
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/barrizon-2011.svg"
+}

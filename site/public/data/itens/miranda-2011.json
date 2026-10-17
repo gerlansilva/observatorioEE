@@ -1,0 +1,83 @@
+{
+  "id": "miranda-2011",
+  "autor": "Maria do Carmo da Silva Rodrigues Miranda",
+  "ano": 2011,
+  "tipo": "Dissertação",
+  "titulo": "Uma trajetória hipotética de aprendizagem: leitura e interpretação de gráficos e tabelas e medidas de tendência central em uma perspectiva construtivista",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Armando Traldi Junior",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino de Matemática",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Estatística",
+  "problema": "verificar como desenvolver uma trajetória hipotética de aprendizagem (THA), de acordo com as perspectivas construtivistas, contemplando a leitura e a interpretação de gráficos, tabelas e medidas de tendência central.",
+  "metodologia": "Para a fundamentação teórica, foi utilizada a teoria de Simon (1995), pois defende a formalação de modelos de ensino baseados em uma perspectiva construtivista. Foi elaborada uma THA COM BASE EM ESTUDOS ANTERIORES",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "Simon: modelos de ensino baseados numa perspectiva construtivista; Trajetória hipotética de aprendizagem",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Uma+trajet%C3%B3ria+hipot%C3%A9tica+de+aprendizagem%3A+leitura+e+interpreta%C3%A7%C3%A3o+de+gr%C3%A1ficos+e+tabelas+e+medidas+de+tend%C3%AAncia+central+em+uma+perspectiva+construtivista%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma+trajet%C3%B3ria+hipot%C3%A9tica+de+aprendizagem%3A+leitura+e+interpreta%C3%A7%C3%A3o+de+gr%C3%A1ficos+e+tabelas+e+medidas+de+tend%C3%AAncia+central+em+uma+perspectiva+construtivista&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/10859",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_611e9e39c5dd310a06580c0c6b7d6d87"
+  },
+  "autor_planilha": "MIRANDA, M. C. S. R.",
+  "orientador_planilha": "Armando Traldi Junior",
+  "autor_capes": "MARIA DO CARMO DA SILVA RODRIGUES MIRANDA",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "orientador_capes": "Armando Traldi Junior",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20111933005010030P9",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Estatística; Leitura e interpretação de gráficos e tabelas; Trajetória hipotética de aprendizagem; Educação matemática; Ensino médio; Perspectiva construtivista",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "PUC_SP-1_611e9e39c5dd310a06580c0c6b7d6d87",
+    "url": "https://tede2.pucsp.br/handle/handle/10859",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Estatística",
+    "Leitura e interpretação de gráficos e tabelas",
+    "Trajetória hipotética de aprendizagem",
+    "Educação matemática",
+    "Ensino médio",
+    "Perspectiva construtivista"
+  ],
+  "resumo": "Este estudo teve como objetivo verificar como desenvolver uma trajetória hipotética de aprendizagem (THA), de acordo com as perspectivas construtivistas, contemplando a leitura e a interpretação de gráficos, tabelas e medidas de média, moda e mediana. Assim, analisou-se a atuação do professor de Matemática, no que se refere ao planejamento e desenvolvimento de uma trajetória hipotética de aprendizagem, de forma compatível com a perspectiva construtivista de aprendizagem. Para a fundamentação teórica, a teoria de Simon (1995) foi usada, pois defende a formulação de modelos de ensino, baseados em uma perspectiva construtivista. O estudo faz parte de um projeto de pesquisa denominado Construção de Trajetórias Hipotéticas de Aprendizagem e Implementação de Inovações Curriculares em Matemática no Ensino Médio . Com a finalidade de responder às questões de pesquisa, realizou-se um estudo de natureza qualitativa, contando com a participação de três professores em regime de colaboração da rede pública do Estado de São Paulo e 90 alunos da 3.ª série do Ensino Médio. A THA foi elaborada pela pesquisadora com base nos resultados de pesquisas já realizadas sobre leitura e interpretação de gráficos e tabelas estatísticas, medidas de média, moda e mediana que contemplam tarefas, contendo tabelas de dados brutos, situações-problema, representações gráficas e tarefas que envolveram a análise exploratória dos dados. Apoiada nos resultados obtidos, inferiu-se, que o uso dos resultados de pesquisa contribui de forma relevante para o planejamento de situações de ensino e aprendizagem, porém, é necessário rever como estas poderão chegar aos professores. Considera-se que, apesar do uso das THAs ser relevantes e servir realmente de ponto de referência para o planejamento das atividades de ensino, sua elaboração é uma tarefa difícil dentro do âmbito de uma aprendizagem, segundo os pressupostos de uma perspectiva construtivista. Ressalta-se ainda que apenas a THA não é suficiente, para que ocorra uma aprendizagem significativa",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_611e9e39c5dd310a06580c0c6b7d6d87/Details",
+  "ano_bdtd": 2011,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_611e9e39c5dd310a06580c0c6b7d6d87",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_611e9e39c5dd310a06580c0c6b7d6d87",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/miranda-2011.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_611e9e39c5dd310a06580c0c6b7d6d87/Details",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_611e9e39c5dd310a06580c0c6b7d6d87/Details",
+    "confianca": "alta"
+  }
+}

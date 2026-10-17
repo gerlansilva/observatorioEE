@@ -1,0 +1,83 @@
+{
+  "id": "silva-2007-2",
+  "autor": "Júlio César da Silva",
+  "ano": 2007,
+  "tipo": "Dissertação",
+  "titulo": "Conhecimentos estatísticos e os exames oficiais: SEADB, ENEM e SARESP",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Cileda Coutinho",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino de Matemática",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "5",
+  "foco": "Currículo e análise de conteúdo bibliográfico",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Estatística",
+  "problema": "verificar as relações entre os instrumentos educacionais brasileiros (livro didático, documentos oficiais e exames oficiais), no que tange os conteúdos da estatística",
+  "metodologia": "foram analisadas 2 coleções de livros didáticos e 3 exames oficiais, de modo a identificar as tarefas, técnicas e o discurso teórico-tecnológico por eles privilegiados",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "Gal, Wild e Pfannkuch: níveis de alfabetização estatística; Chevallard: organização praxeológica",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Conhecimentos+estat%C3%ADsticos+e+os+exames+oficiais%3A+SEADB%2C+ENEM+e+SARESP%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Conhecimentos+estat%C3%ADsticos+e+os+exames+oficiais%3A+SEADB%2C+ENEM+e+SARESP&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/11521",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_b639cdada212b431d33f0ed337680210"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 0.984,
+    "id": "20073433005010030P9",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "SILVA, J. C.",
+  "orientador_planilha": "Cileda Coutinho",
+  "autor_capes": "JÚLIO CÉSAR DA SILVA",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "palavras_chave_bdtd": "Educacao matematica; Matematica; Estudo e ensino; Pensamento estatistico; Exames oficiais; Livro didatico; Ensino medio",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.982,
+    "id": "PUC_SP-1_b639cdada212b431d33f0ed337680210",
+    "url": "https://tede2.pucsp.br/handle/handle/11521",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Educacao matematica",
+    "Matematica",
+    "Estudo e ensino",
+    "Pensamento estatistico",
+    "Exames oficiais",
+    "Livro didatico",
+    "Ensino medio"
+  ],
+  "resumo": "Nossa pesquisa teve por objetivo verificar as relações entre os instrumentos educacionais brasileiros (livro didático, documentos oficiais e os exames oficiais), no que tange aos conteúdos da Estatística, a luz dos níveis de alfabetização estatística propostos por Gal (2002) e Wild e Pffannkuch (1999). Neste trabalho, antes da busca pelas respostas, apresentamos os termos do nosso quadro teórico. Em seguida, analisamos os documentos oficiais (PCNEM, PNLEM, PCN+ e Orientações Curriculares do Ensino Médio) e verificamos que suas recomendações favorecem o desenvolvimento do pensamento estatístico. Finalmente, analisamos, segundo a Organização Praxeológica de Chevallard (1999), duas coleções de livros didáticos e três exames oficiais de modo a identificar as tarefas, as técnicas e o discurso teórico-tecnológico por eles privilegiados. Com base nessa análise, podemos inferir que os livros didáticos permitem desenvolver habilidades propícias à alfabetização estatística no nível cultural, enquanto para um bom desempenho nos exames oficiais são necessárias habilidades propícias à alfabetização estatística no nível funcional. Tendo em vista os resultados apontados neste trabalho, é de se esperar que nossos alunos apresentem dificuldades nas resoluções das questões estatísticas dos exames oficiais, mas acreditamos que a formação do pensamento estatístico seja fundamental para a aprendizagem estatística, assim como um caminho possível para minimizar essas dificuldades",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_b639cdada212b431d33f0ed337680210",
+  "ano_bdtd": 2007,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_b639cdada212b431d33f0ed337680210",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_b639cdada212b431d33f0ed337680210",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/silva-2007-2.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_b639cdada212b431d33f0ed337680210",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_b639cdada212b431d33f0ed337680210",
+    "confianca": "alta"
+  }
+}

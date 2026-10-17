@@ -1,0 +1,80 @@
+{
+  "id": "leite-2010",
+  "autor": "Ana Paula Fernandes Leite",
+  "ano": 2010,
+  "tipo": "Dissertação",
+  "titulo": "Estimativa de medidas de tendência central: uma intervenção de ensino.",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Sandra Maria Pinto Magina",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino de Matemática",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Estatística",
+  "problema": "investigar as contribuições de uma intervenção de ensino, pautada na significação e estimativa de medidas de tendência central, com base na leitura de gráficos e tabelas",
+  "metodologia": "estudo de caráter quase experimental, com a formação de um grupo de controle e um grupo expirmental, o qual sofreu uma intervenção de ensino baseada na significação e estimação de medidas de tendência central",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "Vergnaud: Teoria dos campos conceituAIS",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Estimativa+de+medidas+de+tend%C3%AAncia+central%3A+uma+interven%C3%A7%C3%A3o+de+ensino.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estimativa+de+medidas+de+tend%C3%AAncia+central%3A+uma+interven%C3%A7%C3%A3o+de+ensino.&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/11461",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_7da8b131e9af557adb0da15ea1ca57dc"
+  },
+  "autor_planilha": "LEITE, A. P. F.",
+  "orientador_planilha": "Sandra Magina",
+  "autor_capes": "ANA PAULA FERNANDES LEITE",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "orientador_capes": "Sandra Maria Pinto Magina",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "2010433005010030P9",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Medidas de tendência central; Gráficos; Tabelas",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "PUC_SP-1_7da8b131e9af557adb0da15ea1ca57dc",
+    "url": "https://tede2.pucsp.br/handle/handle/11461",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Medidas de tendência central",
+    "Gráficos",
+    "Tabelas"
+  ],
+  "resumo": "O objetivo deste estudo foi investigar as contribuições de uma intervenção de ensino, pautada na significação e estimativa de Medidas de Tendência Central, com base na da leitura de gráficos e tabelas. A fim de atingir o objetivo proposto, elaborou-se um estudo de caráter do tipo quase-experimental que contou com dois grupos distintos de uma escola da rede pública estadual da cidade de São Paulo. O primeiro grupo, denominado Grupo Experimental, composto por 30 alunos que sofreu uma intervenção de ensino diferenciada, baseada na significação e estimativa de Medidas de Tendência Central, e o segundo grupo, denominado Grupo de Controle, composto por 27 alunos, que teve suas aulas rotineiras. Foram aplicados a ambos os grupos um pré-teste, a fim de diagnosticar o nível de conhecimento prévio dos alunos envolvidos, e um pós-teste, após as intervenções de ensino, visando a diagnosticar os efeitos dessas intervenções. O quadro teórico do estudo contou com a Teoria dos Campos Conceituais de Gérard Vergnaud (1982; 1990; 1993; 1996; 1997 e 1998). Contamos ainda com alguns estudos correlatos de autores como Batanero et al. (1997), Cazorla (2003), Echeveste et al. (2006), Araujo (2007), Meyén et al. (2007), Silva (2008), Pagan (2009) e Magina et al. (no prelo). O estudo propôs-se a responder à seguinte questão: Em termos de aprendizagem, quais as contribuições que uma intervenção de ensino pautada na significação e estimativa de Medidas de Tendência Central traz aos alunos do Ensino Médio? . Para tal, tomou-se por base a análise quantitativa dos resultados obtidos nos testes estatísticos aplicados aos dois grupos envolvidos no estudo. As análises apontaram um ganho significativo com as intervenções de ensino nos dois grupos GE e GC, no que diz respeito à apreensão de conceitos básicos sobre Média, Moda e Mediana, contudo um desempenho significativamente superior foi apresentado pelos alunos do grupo experimental, após a intervenção de ensino. O resultado permitiu inferir que o processo de aprendizagem de conteúdos de Estatística, pautado na significação e estimativa, mostrou-se eficaz quanto ao ganho cognitivo por parte dos alunos em informações apresentadas na forma de gráficos e tabelas, e, também, quanto ao ganho adquirido no que diz respeito ao conhecimento dos elementos estatísticos estudados, mais especificamente, Média, Moda e Mediana",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_7da8b131e9af557adb0da15ea1ca57dc",
+  "ano_bdtd": 2010,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_7da8b131e9af557adb0da15ea1ca57dc",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_7da8b131e9af557adb0da15ea1ca57dc",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/leite-2010.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_7da8b131e9af557adb0da15ea1ca57dc",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_7da8b131e9af557adb0da15ea1ca57dc",
+    "confianca": "alta"
+  }
+}

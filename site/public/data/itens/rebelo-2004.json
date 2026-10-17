@@ -1,0 +1,80 @@
+{
+  "id": "rebelo-2004",
+  "autor": "Raquel Andrade Rebelo",
+  "ano": 2004,
+  "tipo": "Dissertação",
+  "titulo": "Planejamento de uma ferramenta computacional de ensino-aprendizagem de análise de regressão",
+  "instituicao": "Universidade Federal de Santa Catarina",
+  "cidade": "",
+  "estado": "Santa Catarina",
+  "regiao": "Sul",
+  "orientador": "Pedro Alberto Barbetta",
+  "programa": "Ciências da Computação",
+  "area": "Computação",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "3",
+  "foco": "TICs, materiais e recursos didáticos",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "traz para os alunos uma alternativa de como aprender \nanálise de regressão, tendo o computador como seu aliado e desencadeador da \naprendizagem. Este trabalho consiste no planejamento de um módulo Regressão Linear \nSimples (RLS), que pode ser implementado no SEstat.Net, e que propõe uma didática \ndiferenciada para trabalhar os conteúdos de regressão linear simples.",
+  "metodologia": "Elaboração de uma atividade em software",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Planejamento+de+uma+ferramenta+computacional+de+ensino-aprendizagem+de+an%C3%A1lise+de+regress%C3%A3o%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Planejamento+de+uma+ferramenta+computacional+de+ensino-aprendizagem+de+an%C3%A1lise+de+regress%C3%A3o&type=AllFields",
+    "registro_institucional": "http://repositorio.ufsc.br/xmlui/handle/123456789/87810",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UFSC_e7c637ae9d28962f8436ee0a866cbd54"
+  },
+  "autor_planilha": "REBELO, R. A.",
+  "orientador_planilha": "",
+  "autor_capes": "Raquel Andrade Rebelo",
+  "programa_capes": "Ciências da Computação",
+  "instituicao_capes": "Universidade Federal de Santa Catarina",
+  "cidade_capes": "Florianópolis",
+  "orientador_capes": "Pedro Alberto Barbetta",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "200475241001010025P2",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "N; ã; o; I; n; f; r; m; a; d; p; e; l; i; s; t; u; ç",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "UFSC_e7c637ae9d28962f8436ee0a866cbd54",
+    "url": "http://repositorio.ufsc.br/xmlui/handle/123456789/87810",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Análise de Regressão",
+    "SEstat",
+    "Sistemas Especialistas"
+  ],
+  "ano_bdtd": 2004,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Florianópolis, SC",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UFSC_e7c637ae9d28962f8436ee0a866cbd54",
+    "url": "https://bdtd.ibict.br/vufind/Record/UFSC_e7c637ae9d28962f8436ee0a866cbd54",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/rebelo-2004.svg",
+  "resumo": "A análise de regressão, introduzida por Galton no final do século XIX, tem se expandido principalmente à forma como ela explicita as relações estatísticas entre variáveis. Hoje há disponibilidade de instrumentos e softwares estatísticos com possibilidades de representação gráfica e tratamento de conjunto de dados variados. As possibilidades de ensinar análise de regressão são facilitadas com a disponibilidade de vários instrumentos computacionais; à quantidade de problemas que este método permite solucionar e à facilidade de modelagem do problema de pesquisa por regressão. A inserção de sistemas especialistas na educação pode trazer muitas possibilidades para o ensino de estatística, através de ferramentas específicas como o SEstat que é um sistema especialista que vem sendo utilizado como ferramenta de apoio ao ensino-aprendizagem de Estatística. A presente pesquisa traz para os alunos uma alternativa de como aprender análise de regressão, tendo o computador como seu aliado e desencadeador da aprendizagem. Este trabalho consiste no planejamento de um módulo Regressão Linear Simples (RLS), que pode ser implementado no SEstat.Net, e que propõe uma didática diferenciada para trabalhar os conteúdos de regressão linear simples. A apresentação do projeto do RLS é feita através de gráficos, algoritmos e novas concepções quanto à construção do conhecimento através deste software. O planejamento do módulo RLS utiliza-se de recursos de Inteligência Artificial (IA), Heurísticas e de Sistemas Especialistas (SEs).",
+  "resumo_idioma": "por",
+  "resumo_fonte": "http://repositorio.ufsc.br/bitstream/handle/123456789/87810/204482.pdf",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "http://repositorio.ufsc.br/bitstream/handle/123456789/87810/204482.pdf",
+    "fonte_palavras": "http://repositorio.ufsc.br/bitstream/handle/123456789/87810/204482.pdf",
+    "confianca": "alta"
+  }
+}

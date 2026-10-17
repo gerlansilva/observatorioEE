@@ -1,0 +1,73 @@
+{
+  "id": "campos-2007",
+  "autor": "Celso Ribeiro Campos",
+  "ano": 2007,
+  "tipo": "Tese",
+  "titulo": "A educação estatística: uma investigação acerca dos aspectos relevantes à didática da estatística em cursos de graduação",
+  "instituicao": "Universidade Estadual Paulista",
+  "cidade": "Rio Claro",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Maria Lucia Lorenzetti Wodewotzki",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "Estatística",
+  "problema": "Realizar o estudo teórico sobre os fundamentos da didática da Educação Estatística e sua \nintegração com a Educação Crítica e com a Modelagem Matemática; \ne fazer a aplicação dessa integração no microcosmo da sala de aula, com o \ndesenvolvimento e a execução de projetos pedagógicos voltados para esse fim.",
+  "metodologia": "A Modelagem Matemática e o trabalho com projetos servem, nesta pesquisa, \ncomo estratégia pedagógica utilizada para conceber os projetos de ensino que buscam \nconstruir e desenvolver as capacidades já listadas. \n A Educação Crítica se faz presente nos projetos com a problematização e a \ntematização do ensino, o trabalho com dados reais, contextualizados, o estímulo ao \ndebate e ao diálogo, a desierarquização e a democratização do ambiente pedagógico da \nsala de aula, o incentivo à capacidade crítica dos alunos, a valorização do conhecimento \nreflexivo e a preparação do estudante para interpretar o mundo, praticar o discurso da \nresponsabilidade social e a linguagem crítica, incentivando a liberdade individual, a \nética e a justiça social.",
+  "contribuicoes": "",
+  "palavras_chave": "Educação estatística, modelagem matemática, educação crítica",
+  "referencial": "Paulo Freire: educação crítica; Henry Giroux: pedagogia crítica; Ole Skovsmose: Educação matemática crítica",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+educa%C3%A7%C3%A3o+estat%C3%ADstica%3A+uma+investiga%C3%A7%C3%A3o+acerca+dos+aspectos+relevantes+%C3%A0+did%C3%A1tica+da+estat%C3%ADstica+em+cursos+de+gradua%C3%A7%C3%A3o%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+educa%C3%A7%C3%A3o+estat%C3%ADstica%3A+uma+investiga%C3%A7%C3%A3o+acerca+dos+aspectos+relevantes+%C3%A0+did%C3%A1tica+da+estat%C3%ADstica+em+cursos+de+gradua%C3%A7%C3%A3o&type=AllFields",
+    "registro_institucional": "http://hdl.handle.net/11449/102161",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UNSP_1e18b71cfa03dfeb30b775da3303adb3"
+  },
+  "autor_planilha": "CAMPOS, C. R.",
+  "orientador_planilha": "Maria Wodewotzki",
+  "autor_capes": "CELSO RIBEIRO CAMPOS",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Universidade Estadual Paulista Júlio de Mesquita Filho ( Rio",
+  "cidade_capes": "Rio Claro",
+  "orientador_capes": "Maria Lucia Lorenzetti Wodewotzki",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20071933004137031P7",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "UNSP_1e18b71cfa03dfeb30b775da3303adb3",
+    "url": "http://hdl.handle.net/11449/102161",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Educação estatística",
+    "modelagem matemática",
+    "educação crítica"
+  ],
+  "resumo": "Os objetivos desse trabalho são o estudo teórico sobre os fundamentos da didática da Educação Estatística e sua integração com a Educação Crítica e com a Modelagem Matemática e aplicação dessa integração no microcosmo da sala de aula, com o desenvolvimento e a execução de projetos pedagógicos voltados para esse fim. Sobre os fundamentos teóricos da didática da Estatística, observamos que o planejamento da instrução deve possibilitar o desenvolvimento da literacia, do raciocínio e do pensamento estatístico, para que o ensino/aprendizagem seja feito com sucesso. A Modelagem Matemática e o trabalho com projetos servem como estratégia pedagógica utilizada para conceber os projetos de ensino que buscam desenvolver essas capacidades. A Educação Crítica aparece nos projetos com a problematização do ensino, o trabalho com dados reais, contextualizados, o estímulo ao debate e ao diálogo, a desierarquização e a democratização da sala de aula, o incentivo à capacidade crítica, a valorização do conhecimento reflexivo e a preparação do estudante para interpretar o mundo, praticar o discurso da responsabilidade social e a linguagem crítica, incentivando a liberdade individual, a ética e a justiça social. Conjugando essas idéias, emerge a concepção de",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UNSP_1e18b71cfa03dfeb30b775da3303adb3",
+  "ano_bdtd": 2007,
+  "tipo_bdtd": "Tese",
+  "instituicao_bdtd": "Universidade Estadual Paulista (Unesp)",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UNSP_1e18b71cfa03dfeb30b775da3303adb3",
+    "url": "https://bdtd.ibict.br/vufind/Record/UNSP_1e18b71cfa03dfeb30b775da3303adb3",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/campos-2007.svg"
+}

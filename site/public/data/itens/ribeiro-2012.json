@@ -1,0 +1,73 @@
+{
+  "id": "ribeiro-2012",
+  "autor": "Rossano Evaldt Steinmetz Ribeiro",
+  "ano": 2012,
+  "tipo": "Dissertação",
+  "titulo": "Uma proposta de ensino de probabilidade no Ensino Médio",
+  "instituicao": "Universidade Federal do Rio Grande do Sul",
+  "cidade": "Porto Alegre",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Alvino Sant'Ana",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino de Matemática",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Probabilidade",
+  "problema": "Desenvolver, analisar e validar uma sequência didática para o ensino de probabilidade no ensino médio",
+  "metodologia": "Estudo de caso realizado em uma turma de ensino médio com 25 alunos. O referencial teórico foi os cenário para investigação de Skovsmose e a resolução de problemas fundamentada em Polya e Pozo",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "Aplicação de uma sequência didática; O referencial teórico foi os cenário para investigação de Skovsmose e a resolução de problemas fundamentada em Polya e Pozo",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Uma+proposta+de+ensino+de+probabilidade+no+Ensino+M%C3%A9dio%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma+proposta+de+ensino+de+probabilidade+no+Ensino+M%C3%A9dio&type=AllFields",
+    "registro_institucional": "http://hdl.handle.net/10183/55136",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UFRGS-2_a5f98de0ab1c0471d743880b5807a850"
+  },
+  "autor_planilha": "RIBEIRO, R. E. S.",
+  "orientador_planilha": "Alvino Sant'Ana",
+  "autor_capes": "Rossano Evaldt Steinmetz Ribeiro",
+  "programa_capes": "Ensino de Matemática",
+  "instituicao_capes": "Universidade Federal do Rio Grande do Sul",
+  "cidade_capes": "Porto Alegre",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "2012442001013081P9",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Probabilidade; Ensino médio; Resolução de problemas",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "UFRGS-2_a5f98de0ab1c0471d743880b5807a850",
+    "url": "http://hdl.handle.net/10183/55136",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Probabilidade",
+    "Ensino médio",
+    "Resolução de problemas"
+  ],
+  "resumo": "Este trabalho desenvolve, analisa e valida uma sequência didática para o ensino de Probabilidade no Ensino Médio. As atividades foram aplicadas em uma turma de vinte e cinco alunos do Ensino Médio noturno de uma escola da rede pública estadual. Estas atividades possibilitaram a exploração de conceitos de Probabilidade, nas quais os alunos foram convidados a questionar, conjecturar e criar respostas ou explicações para os problemas propostos. Utiliza-se como referencial teórico, os cenários para investigação de Skovsmose e a resolução de problemas fundamentada em Polya e Pozo. A metodologia de pesquisa utilizada foi o Estudo de Caso. A descrição das atividades foi divida em três etapas, nas quais são apresentadas o planejamento, objetivos, expectativas, descrição das aulas, observações do professor e análise. Realiza-se também a classificação das atividades, momento em que observa-se que estas ocorreram em diferentes Ambientes de Aprendizagem, gerando interesse e participação dos alunos, possibilitando discussões sobre conceitos de probabilidade e permitindo o confronto entre estes conceitos e a intuição dos alunos. Destaca-se também a importância da postura do professor no desenvolvimento das atividades, muito mais como orientador e instigador. O produto desta dissertação é uma sequência didática para o ensino de Probabilidade no Ensino Médio, elaborada e testada, e que pode ser utilizada por outros professores. Este produto encontra-se no apêndice A.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UFRGS-2_a5f98de0ab1c0471d743880b5807a850",
+  "ano_bdtd": 2012,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Não Informado pela instituição",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UFRGS-2_a5f98de0ab1c0471d743880b5807a850",
+    "url": "https://bdtd.ibict.br/vufind/Record/UFRGS-2_a5f98de0ab1c0471d743880b5807a850",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/ribeiro-2012.svg"
+}

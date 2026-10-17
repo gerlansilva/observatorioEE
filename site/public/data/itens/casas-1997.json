@@ -1,0 +1,54 @@
+{
+  "id": "casas-1997",
+  "autor": "Mercedes Puga Las Casas",
+  "ano": 1997,
+  "tipo": "Dissertação",
+  "titulo": "O ensino de estatística no primeiro grau",
+  "instituicao": "Universidade Guarulhos",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Valdemir Gutierrez Rodrigues",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "",
+  "foco": "Não informado",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O+ensino+de+estat%C3%ADstica+no+primeiro+grau%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+ensino+de+estat%C3%ADstica+no+primeiro+grau&type=AllFields"
+  },
+  "capes": {
+    "status": "baixa_confianca",
+    "score": 0.363,
+    "candidato": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "CASAS, M. P. L.",
+  "orientador_planilha": "Valdemir Gutierrez",
+  "instituicao_agente": "Universidade de Guarulhos (UnG)",
+  "programa_agente": "Mestrado em Educação Matemática",
+  "enriquecimento_manual": {
+    "fonte": "Currículo Lattes da autora e do orientador (via Escavador); artigo de Santos e Fiorentini (VIDYA, v. 36, n. 2, 2016)",
+    "confianca": "media",
+    "observacao": "Autoria, ano e instituição confirmados no Lattes da própria autora ('Mestrado em Educação Matemática', 1994-1997, UnG) e no Lattes do orientador. Não há registro em repositório digital, BDTD ou Catálogo CAPES (obra anterior à digitalização). Há divergência na literatura secundária quanto ao nome do programa ('Mestrado em Matemática' em algumas citações); adotou-se a denominação do Lattes da autora e do artigo de Santos e Fiorentini. Algumas referências datam a publicação em 1998."
+  },
+  "instituicao_planilha": "Universidade Guarulhos",
+  "programa_planilha": "Educação Matemática",
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.435
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/casas-1997.svg"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "silva-2000",
+  "autor": "Cláudia Borim da Silva",
+  "ano": 2000,
+  "tipo": "Dissertação",
+  "titulo": "Atitudes em relação à Estatística: um estudo com alunos de graduação",
+  "instituicao": "Universidade Estadual de Campinas",
+  "cidade": "Campinas",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Márcia Brito",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "4",
+  "foco": "Cognição e Psicologia da Educação Estatística",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "verificar as atitudes em relação à estatística de alunos de diversos cursos de graduação e compará-las com o desempenho na disciplina, com a auto percepção do desempenho em estatística e matemática, com as atitudes em relação à matemática, além de levantar como esses alunos entendem esta ferramenta",
+  "metodologia": "Os sujeitos foram 643 estudantes de cursos de áreas de ciências humanas, extas e biológicas, que cursaram a disciplina de estatística durante o ano de 1998. Os instrumentos usados foram um questionário e duas escalas do tipo Likert: uma relativa às atitudes em relação à estatística, e a outra em relação à matemática",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Atitudes+em+rela%C3%A7%C3%A3o+%C3%A0+Estat%C3%ADstica%3A+um+estudo+com+alunos+de+gradua%C3%A7%C3%A3o%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Atitudes+em+rela%C3%A7%C3%A3o+%C3%A0+Estat%C3%ADstica%3A+um+estudo+com+alunos+de+gradua%C3%A7%C3%A3o&type=AllFields",
+    "registro_institucional": "https://hdl.handle.net/20.500.12733/1589186",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_01ffdd3593897df0e84d17cbfd621f71"
+  },
+  "autor_planilha": "SILVA, C. B.",
+  "orientador_planilha": "Márcia Brito",
+  "autor_capes": "CLÁUDIA BORIM DA SILVA",
+  "programa_capes": "Educação",
+  "instituicao_capes": "Universidade Estadual de Campinas",
+  "cidade_capes": "Campinas",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "200037933003017001P2",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Estatística - Estudo e ensino; Estatistica - Atitudes; Atitudes",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "UNICAMP-30_01ffdd3593897df0e84d17cbfd621f71",
+    "url": "https://hdl.handle.net/20.500.12733/1589186",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Atitudes em relação à Estatística",
+    "Escalas",
+    "Educação Estatística",
+    "Estatística - Estudo e ensino",
+    "Estatistica - Atitudes",
+    "Atitudes"
+  ],
+  "ano_bdtd": 2000,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "[s.n.]",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UNICAMP-30_01ffdd3593897df0e84d17cbfd621f71",
+    "url": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_01ffdd3593897df0e84d17cbfd621f71",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/silva-2000.svg",
+  "resumo": "Devido à importância da Estatística na vida acadêmica, profissional e cotidiana das pessoas, foi objetivo desta pesquisa verificar as atitudes em relação à Estatística de alunos de diversos cursos de graduação e compará-las com o desempenho na disciplina, com a auto percepção do desempenho em Estatística e Matemática, com as atitudes em relação à matemática, além de levantar como estes alunos entendiam esta ferramenta. Os sujeitos foram 643 estudantes de cursos das áreas de Ciências Humanas, Exatas e Biológicas, que cursaram a disciplina Estatística durante o ano de 1998. Os instrumentos usados foram um questionário e duas escalas, do tipo Likert: uma relativa às atitudes em relação à Estatística e a outra em relação à Matemática. O nível de significância foi de 5%. A média obtida na escala de atitudes em relação à Estatística foi 49,93, sendo que 53,3% dos alunos apresentaram a pontuação na escala de atitudes acima desta média e foram considerados com atitudes positivas. Foi verificado que os alunos dos cursos da área de Humanas e os alunos que apresentaram críticas à Estatística foram aqueles que apresentaram atitudes mais negativas. Os alunos que consideraram a Estatística importante, confiável e que já haviam usado o que aprenderam, apresentaram atitudes mais positivas. Quanto à definição de Estatística apresentada pelos alunos, aqueles que incluíram na definição algum atributo relevante do conceito apresentaram atitudes mais positivas quando comparados com aqueles que incluíram algum conteúdo da Matemática. A análise de regressão mostrou que as variáveis mais significativas na determinação das atitudes em relação à Estatística foram respectivamente as atitudes em relação à Matemática, a auto percepção do desempenho em matemática, a auto percepção do desempenho em estatística e por último o desempenho na disciplina. A conclusão sugere que se de especial atenção ao ensino de Matemática, desde as séries iniciais, pois esta disciplina interfere nas atitudes em relação à Estatística e, consequentemente, no emprego da Estatística em situações nas quais é essencial.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://hdl.handle.net/20.500.12733/1589186",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://hdl.handle.net/20.500.12733/1589186",
+    "fonte_palavras": "https://hdl.handle.net/20.500.12733/1589186",
+    "confianca": "media"
+  }
+}

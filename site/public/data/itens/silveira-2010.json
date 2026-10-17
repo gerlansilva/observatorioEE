@@ -1,0 +1,51 @@
+{
+  "id": "silveira-2010",
+  "autor": "Elvis Miranda Silveira",
+  "ano": 2011,
+  "tipo": "Dissertação",
+  "titulo": "Elaboração e validação de uma escala de atitudes em relação à Estatística para o ensino médio.",
+  "instituicao": "Universidade Bandeirantes de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Verônica Yumi Kataoka",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "",
+  "foco": "Não informado",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Elabora%C3%A7%C3%A3o+e+valida%C3%A7%C3%A3o+de+uma+escala+de+atitudes+em+rela%C3%A7%C3%A3o+%C3%A0+Estat%C3%ADstica+para+o+ensino+m%C3%A9dio.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Elabora%C3%A7%C3%A3o+e+valida%C3%A7%C3%A3o+de+uma+escala+de+atitudes+em+rela%C3%A7%C3%A3o+%C3%A0+Estat%C3%ADstica+para+o+ensino+m%C3%A9dio.&type=AllFields"
+  },
+  "autor_planilha": "SILVEIRA, E. M.",
+  "orientador_planilha": "Verônica Kataoka",
+  "autor_capes": "Elvis Miranda Silveira",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Universidade Anhanguera de São Paulo",
+  "cidade_capes": "São Paulo",
+  "orientador_capes": "Verônica Yumi Kataoka",
+  "capes": {
+    "status": "ok",
+    "score": 0.9,
+    "id": "20113433107017003P8",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.606
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/silveira-2010.svg"
+}

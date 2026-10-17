@@ -1,0 +1,56 @@
+{
+  "id": "carneiro-2003",
+  "autor": "Maria Carolina Cascino da Cunha",
+  "ano": 2003,
+  "tipo": "Tese",
+  "titulo": "Estatística nas Séries Iniciais do Ensino Fundamental: Buscando Caminhos.",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Maria Domite",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "2",
+  "nivel": "Ensino Fundamental – anos iniciais",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "Estatística",
+  "problema": "contribuir para a compreensão de dinâmicas pedagógicas que possam aprimorar o entendimento das representações estatísticas. Na verdade, trata-se de discutir experiências pessoais de professores das séries iniciais do Ensino Fundamental em torno dos conteúdos estatísticos, particularmente, das representações gráficas, assim como contribuir para a compreensão dos mesmos pelos professores e educandos",
+  "metodologia": "Foi feita uma opção por estudo de caso, uma vez que os fatos ocorridos entre pesquisador/professor/educando foram analisados de modo qualitativo, considerando os referenciais teóricos assumidos.",
+  "contribuicoes": "Concluíu-se, dentre outros aspectos, que é possível e bastante frutífero, promover um trabalho de reflexão em e sobre ação docente em torno das representações gráficas estatíticas, admitindo o professor como co-responsável de todas as dinâmicas educativas propostas.",
+  "palavras_chave": "",
+  "referencial": "teoria das representações de Raymond Duval, pela Didática da Matemática, por pesquisas feitas na área, bem como pela teoria de formação docente baseada em análise de necessidades e nos processos de reflexão em e sobre a ação.",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Estat%C3%ADstica+nas+S%C3%A9ries+Iniciais+do+Ensino+Fundamental%3A+Buscando+Caminhos.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estat%C3%ADstica+nas+S%C3%A9ries+Iniciais+do+Ensino+Fundamental%3A+Buscando+Caminhos.&type=AllFields",
+    "registro_institucional": "https://repositorio.usp.br/item/001321380"
+  },
+  "autor_planilha": "CARNEIRO, M. C. C. C.",
+  "orientador_planilha": "Maria Domite",
+  "autor_capes": "Maria Carolina Cascino da Cunha",
+  "programa_capes": "Educação",
+  "instituicao_capes": "Universidade de São Paulo",
+  "cidade_capes": "São Paulo",
+  "capes": {
+    "status": "ok",
+    "score": 0.8,
+    "id": "200382633002010001P6",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.606
+  },
+  "tags": [],
+  "enriquecimento_manual": {
+    "fonte": "ReP USP – Repositório da Produção USP",
+    "confianca": "alta",
+    "observacao": "A tese é da Faculdade de Educação da USP, não da PUC-SP. Título e autora conferem; registro sem PDF disponível."
+  },
+  "thumbnail": "./assets/images/thumbs/carneiro-2003.svg"
+}

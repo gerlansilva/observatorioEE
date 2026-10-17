@@ -1,0 +1,50 @@
+{
+  "id": "furlan-2011",
+  "autor": "Joyce Furlan",
+  "ano": 2011,
+  "tipo": "Dissertação",
+  "titulo": "PROCESSOS DE AVALIAÇÃO NA RESOLUÇÃO DE PROBLEMAS EM ESTOCÁSTICA.",
+  "instituicao": "Universidade São Francisco",
+  "cidade": "Itatiba",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Regina Grando",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "3",
+  "nivel": "Ensino Fundamental – anos finais",
+  "foco_codigo": "9",
+  "foco": "Avaliação",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Probabilidade e Estatística",
+  "problema": "1) identificar os processos avaliativos que assumem um papel \nformativo num contexto de aulas de resolução de problemas; 2) analisar as \npotencialidades dos diversos processos avaliativos para a aprendizagem em Estocástica \ndos alunos no Ensino Fundamental.",
+  "metodologia": "Os dados foram produzidos em atividades mediadas \npor uma metodologia pautada na diversificação de instrumentos de avaliação, em \nambiente de compartilhamento de ideias, de comunicação, negociação de significados e \nreflexões, durante o segundo e o terceiro bimestres de 2010 na sala de aula de uma 8ª \nsérie do Ensino Fundamental. As tarefas — aplicadas na sala de aula da professora-colaboradora desta pesquisa e acompanhadas pela professora pesquisadora — foram \npreviamente discutidas, selecionadas e analisadas colaborativamente por elas, com a \nparticipação do grupo colaborativo – GRUCOMAT, da Universidade São Francisco – \nUSF—, do qual ambas fazem parte. A pesquisa foi desenvolvida em uma abordagem \nqualitativa e os dados foram obtidos a partir dos registros das aulas, coletados e \ndocumentados no diário de campo da pesquisadora; das produções dos alunos em \ninstrumentos diversos; e da transcrição dos momentos de socialização gravados em \nvídeo e áudio.",
+  "contribuicoes": "As dinâmicas de avaliação utilizadas \ncolaboraram para o desenvolvimento da proficiência dos alunos na argumentação, na \ncomunicação matemática, na reflexão e na autoavaliação. O caráter colaborativo desta \npesquisa possibilitou uma observação reflexiva compartilhada para o desenvolvimento \ndos alunos; potencializou e fortaleceu o aprendizado e o desenvolvimento das \nprofessoras envolvidas; e possibilitou um novo olhar para os processos avaliativos em \naulas de matemática. O estudo revelou novas formas de saber e fazer matemática, frutos \nde uma atividade coletiva, colaborativa e solidária.",
+  "palavras_chave": "",
+  "referencial": "Hadji e Santos: avaliação formativa",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22PROCESSOS+DE+AVALIA%C3%87%C3%83O+NA+RESOLU%C3%87%C3%83O+DE+PROBLEMAS+EM+ESTOC%C3%81STICA.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PROCESSOS+DE+AVALIA%C3%87%C3%83O+NA+RESOLU%C3%87%C3%83O+DE+PROBLEMAS+EM+ESTOC%C3%81STICA.&type=AllFields"
+  },
+  "autor_planilha": "FURLAN, J.",
+  "orientador_planilha": "Regina Grando",
+  "autor_capes": "Joyce Furlan",
+  "programa_capes": "Educação",
+  "instituicao_capes": "Universidade São Francisco",
+  "cidade_capes": "Bragança Paulista",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20111033050015004P1",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.498
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/furlan-2011.svg"
+}

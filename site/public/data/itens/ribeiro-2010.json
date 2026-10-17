@@ -1,0 +1,82 @@
+{
+  "id": "ribeiro-2010",
+  "autor": "Silverio Domingos Ribeiro",
+  "ano": 2010,
+  "tipo": "Dissertação",
+  "titulo": "As pesquisas sobre o ensino da estatística e da probabilidade no período de 2000 a 2008",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Ana Lucia Manrique",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino de Matemática",
+  "nivel_codigo": "8",
+  "nivel": "Indefinido",
+  "foco_codigo": "7",
+  "foco": "História, Filosofia e revisão da literatura",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Probabilidade e Estatística",
+  "problema": "fazer um levantamento da produção acadêmica que consta no banco de teses da capes, referente aos trabalhos relacionados com a problemática do ensino da estatística e da probabilidade no período de 2000 a 2008",
+  "metodologia": "o levantamento foi feito no banco de teses da capes com as seguintes palavras-chave: ensino da estatística e ensino da probabilidade",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22As+pesquisas+sobre+o+ensino+da+estat%C3%ADstica+e+da+probabilidade+no+per%C3%ADodo+de+2000+a+2008%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=As+pesquisas+sobre+o+ensino+da+estat%C3%ADstica+e+da+probabilidade+no+per%C3%ADodo+de+2000+a+2008&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/10837",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_c6ffa3835b8331726efebe0139b97bc4"
+  },
+  "autor_planilha": "RIBEIRO, S. D.",
+  "orientador_planilha": "Ana Manrique",
+  "autor_capes": "SILVERIO DOMINGOS RIBEIRO",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "orientador_capes": "Ana Lucia Manrique",
+  "capes": {
+    "status": "ok",
+    "score": 0.996,
+    "id": "20103433005010030P9",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Educação matemática; Estado da arte da pesquisa; Educação estatística; Estatística e probabilidade; Pesquisas brasileiras",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.824,
+    "id": "PUC_SP-1_c6ffa3835b8331726efebe0139b97bc4",
+    "url": "https://tede2.pucsp.br/handle/handle/10837",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Educação matemática",
+    "Estado da arte da pesquisa",
+    "Educação estatística",
+    "Estatística e probabilidade",
+    "Pesquisas brasileiras"
+  ],
+  "resumo": "Este trabalho teve como objetivo fazer um levantamento da produção acadêmica que consta no Banco de Teses da Capes, referente aos trabalhos relacionados com a problemática do ensino da Estatística e da Probabilidade, considerando-se os níveis de mestrado e doutorado, no período de 2000 a 2008. Para levantar essa produção utilizamos como palavras-chave: Ensino da Estatística e Ensino da Probabilidade. A partir dessa pesquisa compilamos cinquenta e oito trabalhos, sendo quarenta e três dissertações e treze teses. Estes trabalhos foram produzidos por vinte e duas universidades localizadas em três regiões brasileiras: Sul, Sudeste e Centro-Oeste. Tomando como base os resumos dessas obras, os trabalhos foram analisados e categorizados em cinco eixos temáticos com intuito de apresentar essa produção de modo sistematizado, oferecendo uma referência para o estudo às futuras pesquisas relacionadas com essa temática. Considerando cada eixo temático, realizamos uma metanálise das pesquisas em que podemos apontar os seguintes resultados. No eixo temático referente ao processo de ensino e aprendizagem da estatística e da probabilidade observamos a ocorrência de um número significativo de pesquisas que utilizaram os computadores como recurso para o ensino da estatística e da probabilidade. Nesse eixo temático também encontramos trabalhos que investigaram quais eram as implicações de uma abordagem utilizando a Modelagem Matemática para promover uma Matemática Crítica. No eixo temático sobre a formação inicial e continuada dos professores de matemática, os trabalhos, na sua maioria, abordaram a questão das atitudes, satisfação e concepção dos professores com relação à compreensão deste assunto. No eixo temático identificado com a prática docente, crenças/ concepções e saberes práticos, um número maior de pesquisas focou suas investigações na problemática do ensino da estatística e da probabilidade no ensino fundamental e médio. Neste eixo sentimos a ausência de trabalhos que investigassem a utilização dos computadores na prática de ensino e qual a influência dessa abordagem para a concepção dos professores com relação ao estudo da estatística e da probabilidade. No eixo temático sobre a utilização das TICs no ensino da estatística, as pesquisas investigaram como o computador pode ser um facilitador para o ensino desta disciplina. Ainda neste eixo temático o ensino à distância (EAD) foi investigado 6 através de duas pesquisas. No eixo temático sobre as mudanças curriculares, grande parte das pesquisas se ocupou da questão dos erros conceituais nos livros didáticos e a influência destes para a prática de sala de aula",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_c6ffa3835b8331726efebe0139b97bc4",
+  "ano_bdtd": 2010,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_c6ffa3835b8331726efebe0139b97bc4",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_c6ffa3835b8331726efebe0139b97bc4",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/ribeiro-2010.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_c6ffa3835b8331726efebe0139b97bc4",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_c6ffa3835b8331726efebe0139b97bc4",
+    "confianca": "alta"
+  }
+}

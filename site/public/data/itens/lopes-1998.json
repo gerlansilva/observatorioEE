@@ -1,0 +1,79 @@
+{
+  "id": "lopes-1998",
+  "autor": "Celi Aparecida Espasandin Lopes",
+  "ano": 1998,
+  "tipo": "Dissertação",
+  "titulo": "A probabilidade e a Estatística no ensino fundamental: uma análise curricular",
+  "instituicao": "Universidade Estadual de Campinas",
+  "cidade": "Campinas",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Regina Moran",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "11",
+  "nivel": "Ensino Fundamental (anos iniciais e finais)",
+  "foco_codigo": "5",
+  "foco": "Currículo e análise de conteúdo bibliográfico",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Probabilidade e Estatística",
+  "problema": "Este estudo teve como objetivo investigar e analisar o ensino da \nProbabilidade e da Estatística dentro do currículo de Matemática na Escola \nFundamental. \n A questão orientadora da investigação foi a seguinte: Como são \ntratados e quais os objetivos do ensino da Probabilidade e da Estatística \nnas propostas curriculares de Matemática dos estados de Minas Gerais, \nSão Paulo, Santa Catarina e nos Parâmetros Curiculares Nacionais, tendo \ncomo referencial alguns currículos internacionais?",
+  "metodologia": "Para nortear essa análise foram utilizados os seguintes critérios: \n- a concepção de Estatística e Probabilidade subjacentes a essas propostas; \n- a seleção de noções estatísticas e probabilísticas feita por essas propostas \npara serem “transpostas” para o plano escolar; \n- o modo como as propostas sugerem o tratamento dessas noções junto aos \nestudantes; \n- as finalidades da abordagem de tais noções, junto aos estudantes, \nexplicitadas ou não pelas propostas.",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+probabilidade+e+a+Estat%C3%ADstica+no+ensino+fundamental%3A+uma+an%C3%A1lise+curricular%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+probabilidade+e+a+Estat%C3%ADstica+no+ensino+fundamental%3A+uma+an%C3%A1lise+curricular&type=AllFields",
+    "registro_institucional": "https://hdl.handle.net/20.500.12733/1586331",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_501086835dda6a41de3aef572942add9"
+  },
+  "autor_planilha": "LOPES, C. A. E.",
+  "orientador_planilha": "Regina Moran",
+  "autor_capes": "CELI APARECIDA ESPASANDIN LOPES",
+  "programa_capes": "Educação",
+  "instituicao_capes": "Universidade Estadual de Campinas",
+  "cidade_capes": "Campinas",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "199819133003017001P2",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Estatística - Estudo e ensino; Probabilidades; Prática de ensino",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "UNICAMP-30_501086835dda6a41de3aef572942add9",
+    "url": "https://hdl.handle.net/20.500.12733/1586331",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Estatística - Estudo e ensino",
+    "Probabilidades",
+    "Prática de ensino"
+  ],
+  "ano_bdtd": 1998,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "[s.n.]",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UNICAMP-30_501086835dda6a41de3aef572942add9",
+    "url": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_501086835dda6a41de3aef572942add9",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/lopes-1998.svg",
+  "resumo": "Este estudo teve como objetivo investigar e analisar o ensino da Probabilidade e da Estatística dentro do currículo de Matemática na Escola Fundamental. A questão orientadora da investigação foi a seguinte: Como são tratados e quais os objetivos do ensino da Probabilidade e da Estatística nas propostas curriculares de Matemática dos estados de Minas Gerais, São Paulo, Santa Catarina e nos Parâmetros Curiculares Nacionais, tendo como referencial alguns currículos internacionais? Para nortear essa análise foram utilizados os seguintes critérios: - a concepção de Estatística e Probabilidade subjacentes a essas propostas; - a seleção de noções estatísticas e probabilísticas feita por essas propostas para serem “transpostas” para o plano escolar; - o modo como as propostas sugerem o tratamento dessas noções junto aos estudantes; - as finalidades da abordagem de tais noções, junto aos estudantes, explicitadas ou não pelas propostas. A partir desses critérios, consideramos alguns aspectos que emergiram à medida que a análise foi sendo desenvolvida. Assim, ressaltamos a importância desses temas à formação dos estudantes, por possibilitarem a ruptura com uma visão determinista da Matemática. O ensino de Probabilidade e Estatística pode ser um amplo espaço de trabalho pedagógico interdisciplinar e proporcionar, através da realização de experimentos, a exploração da idéia de acaso. Realizando observações, registros e representações de dados, os estudantes estarão aptos à leitura e interpretação de informações diferenciadas. Os conceitos estatísticos são importantes “ferramentas” para a resolução de problemas. O trabalho com a probabilidade auxiliará os alunos na tomada de decisões. Com isso, enfatizamos a necessidade de propormos situações de aprendizagem que possibilitem o desenvolvimento do pensamento estatístico e do pensamento probabilístico se buscamos a formação de um indivíduo que exerça consciente e criticamente sua cidadania.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://hdl.handle.net/20.500.12733/1586331",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://hdl.handle.net/20.500.12733/1586331",
+    "fonte_palavras": "https://hdl.handle.net/20.500.12733/1586331",
+    "confianca": "alta"
+  }
+}

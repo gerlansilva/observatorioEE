@@ -1,0 +1,82 @@
+{
+  "id": "pagan-2010",
+  "autor": "Maria Adriana Pagan",
+  "ano": 2010,
+  "tipo": "Dissertação",
+  "titulo": "A interdisciplinaridade como proposta pedagógica para o ensino de Estatística na Educação Básica.",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Sandra Magina",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino de Matemática",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Estatística",
+  "problema": "comparar os ganhos de aprendizagem de 3 grupos de alunos da 1ª série do ensino médio que tiveram contato com conceitos elementares de estatística a partir das aulas de matemática (GM), de geografia (GG) e de aulas de matemática aplicadas de forma interdisciplinar (GI)",
+  "metodologia": "Estudo de caráter quase-experimental com aplicação de dois testes diagnósticos (pré e pós teste) e uma intervenção de ensino em cada grupo. O quadro teórico contou com a teoria dos registros de representação semiótica de Duval; os estudos realizados por curcio e wainer quanto aos níveis de leitura e interpretação de dados em gráficos e tabelas; e letramento estatístico",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "Duval: teoria dos registros de representação semiótica",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+interdisciplinaridade+como+proposta+pedag%C3%B3gica+para+o+ensino+de+Estat%C3%ADstica+na+Educa%C3%A7%C3%A3o+B%C3%A1sica.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+interdisciplinaridade+como+proposta+pedag%C3%B3gica+para+o+ensino+de+Estat%C3%ADstica+na+Educa%C3%A7%C3%A3o+B%C3%A1sica.&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/11439",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_bfd6dcfbdedef39fe12e804d5165ce44"
+  },
+  "autor_planilha": "PAGAN, M. A.",
+  "orientador_planilha": "Sandra Magina",
+  "autor_capes": "MARIA ADRIANA PAGAN",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20102333005010030P9",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Ensino Médio; Construção de gráficos e tabelas; Média aritmética; Estatistica; Estudo e ensino (Ensino medio); Interdisciplinaridade em educacao",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "PUC_SP-1_bfd6dcfbdedef39fe12e804d5165ce44",
+    "url": "https://tede2.pucsp.br/handle/handle/11439",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Ensino Médio",
+    "Construção de gráficos e tabelas",
+    "Média aritmética",
+    "Estatistica",
+    "Estudo e ensino (Ensino medio)",
+    "Interdisciplinaridade em educacao"
+  ],
+  "resumo": "O objetivo deste estudo foi comparar os ganhos de aprendizagem de três grupos de alunos da 1ª série do Ensino Médio que tiveram contato com conceitos elementares da Estatística a partir das aulas de Matemática (GM), de Geografia (GG) e de aulas de Matemática aplicadas de forma interdisciplinar (Estatística a partir de conteúdos de Geografia, Biologia, Física e Química) (GI). Para atingir este objetivo, foi feito um estudo de caráter do tipo quase-experimental que contou com três grupos compostos de 35 alunos de uma escola da rede pública estadual da cidade de São Paulo. No estudo foram aplicados dois testes diagnósticos (pré e pós-teste) e uma intervenção de ensino ocorrida em cada grupo, realizada por professores distintos que compunham os grupos GM, GG e GI. O quadro teórico do estudo contou com a teoria dos Registros de Representações Semiótica de Raymond Duval (1995) quanto à mudança de registro. Os estudos realizados por Curcio (1989) e Wainer (1992), quanto aos níveis de leitura e interpretação de dados em gráficos e tabelas, respectivamente; o Letramento, Raciocínio e Pensamento Estatístico com diversos autores como Cazorla (2002, 2005), Gal (2002), Lopes (2004), Morais (2006), Silva (2007) e Campos (2007). Quanto a interdisciplinaridade contou com Fazenda (1994), Klein (2007) e Lenoir (2007) e para a média aritmética com Novaes e Coutinho (2008). O estudo propôs-se a responder à seguinte questão: Quais as contribuições que uma intervenção de ensino pautada nos princípios da interdisciplinaridade traz para a aprendizagem da Estatística? Para responder à questão de pesquisa, tomou-se por base as análises quantitativas dos resultados obtidos nos testes aplicados nos três grupos e uma análise qualitativa dos resultados apresentados pelos alunos do grupo GI. As análises mostraram um ganho com a intervenção de ensino nos três grupos GM, GG e GI no que diz respeito aos elementos estatísticos estudados (construção, interpretação e média aritmética), porém um desempenho significativo foi apresentado pelos alunos do grupo da Interdisciplinaridade após a intervenção de ensino. O resultado permitiu inferir que o ensino de Estatística, pautado nos moldes da interdisciplinaridade mostrou-se eficaz quanto ao interesse por parte dos alunos em tratar de assuntos e, também, quanto ao ganho adquirido no que diz respeito ao conhecimento dos elementos estatísticos estudados",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_bfd6dcfbdedef39fe12e804d5165ce44/Details",
+  "ano_bdtd": 2010,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_bfd6dcfbdedef39fe12e804d5165ce44",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_bfd6dcfbdedef39fe12e804d5165ce44",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/pagan-2010.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_bfd6dcfbdedef39fe12e804d5165ce44/Details",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_bfd6dcfbdedef39fe12e804d5165ce44/Details",
+    "confianca": "alta"
+  }
+}

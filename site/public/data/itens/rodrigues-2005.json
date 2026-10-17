@@ -1,0 +1,80 @@
+{
+  "id": "rodrigues-2005",
+  "autor": "José Maria Soares Rodrigues",
+  "ano": 2005,
+  "tipo": "Dissertação",
+  "titulo": "Formação matemática de professores de atuação multidisciplinar nas séries iniciais do ensino fundamental: indicativos com vista a estudos de noções de probabilidade",
+  "instituicao": "Universidade Federal do Paraná",
+  "cidade": "",
+  "estado": "Paraná",
+  "regiao": "Sul",
+  "orientador": "Maria Soares",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "2",
+  "foco": "Formação inicial/continuada e desenvolvimento profissional de professores",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Probabilidade",
+  "problema": "responder que conhecimentos referentes a noções de Probabilidade deveriam ser ensinados numa disciplina de Matemática para formação de professores de atuação multidisciplinar, com vistas ao ensino desse conteúdo nas séries iniciais do ensino fundamental, buscou-se identificar proposições e indicativos teóricos sobre a formação matemática desses professores; sobre conhecimentos que deveriam ter dos conteúdos que irão ensinar; e sobre noções de Probabilidade que poderiam ser contempladas em seus cursos de formação inicial.",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Forma%C3%A7%C3%A3o+matem%C3%A1tica+de+professores+de+atua%C3%A7%C3%A3o+multidisciplinar+nas+s%C3%A9ries+iniciais+do+ensino+fundamental%3A+indicativos+com+vista+a+estudos+de+no%C3%A7%C3%B5es+de+probabilidade%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Forma%C3%A7%C3%A3o+matem%C3%A1tica+de+professores+de+atua%C3%A7%C3%A3o+multidisciplinar+nas+s%C3%A9ries+iniciais+do+ensino+fundamental%3A+indicativos+com+vista+a+estudos+de+no%C3%A7%C3%B5es+de+probabilidade&type=AllFields",
+    "registro_institucional": "https://hdl.handle.net/1884/75529",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UFPR_7bf27d74671461e2d6daf9ff1ebf4a7f"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 0.998,
+    "id": "200537040001016001P0",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "RODRIGUES, J. M. S.",
+  "orientador_planilha": "Maria Soares",
+  "autor_capes": "José Maria Soares Rodrigues",
+  "programa_capes": "Educação",
+  "instituicao_capes": "Universidade Federal do Paraná",
+  "cidade_capes": "Curitiba",
+  "palavras_chave_bdtd": "Matemática - Estudo e ensino; Probabilidades; Redação acadêmica; Educação",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.998,
+    "id": "UFPR_7bf27d74671461e2d6daf9ff1ebf4a7f",
+    "url": "https://hdl.handle.net/1884/75529",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Matemática - Estudo e ensino",
+    "Probabilidades",
+    "Redação acadêmica",
+    "Educação"
+  ],
+  "ano_bdtd": 2005,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Não Informado pela instituição",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UFPR_7bf27d74671461e2d6daf9ff1ebf4a7f",
+    "url": "https://bdtd.ibict.br/vufind/Record/UFPR_7bf27d74671461e2d6daf9ff1ebf4a7f",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/rodrigues-2005.svg",
+  "resumo": "Na tentativa de responder que conhecimentos referentes a noções de Probabilidade deveriam ser ensinados numa disciplina de Matemática para formação de professores de atuação multidisciplinar, com vistas ao ensino desse conteúdo nas séries iniciais do ensino fundamental, buscou-se identificar proposições e indicativos teóricos sobre a formação matemática desses professores; sobre conhecimentos que deveriam ter dos conteúdos que irão ensinar; e sobre noções de Probabilidade que poderiam ser contempladas em seus cursos de formação inicial. Os resultados mostram, por um lado, que a formação matemática dos professores de atuação multidisciplinar é problemática e que vários fatores precisam ser observados pelos formadores e instituições formadoras; por outro lado, apontam para a necessidade desses professores desenvolverem um profundo conhecimento dos conteúdos que irão ensinar. Quanto a conhecimentos referentes a noções de Probabilidade a serem contemplados nessa formação matemática, evidencia-se a existência de perspectivas diferenciadas em relação a objetivos que se pretende com o ensino desse tópico da Matemática no contexto escolar, dentre as quais tem-se o desenvolvimento de um tipo de raciocínio não determinístico.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UFPR_7bf27d74671461e2d6daf9ff1ebf4a7f",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/UFPR_7bf27d74671461e2d6daf9ff1ebf4a7f",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/UFPR_7bf27d74671461e2d6daf9ff1ebf4a7f",
+    "confianca": "alta"
+  }
+}

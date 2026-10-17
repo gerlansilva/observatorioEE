@@ -1,0 +1,83 @@
+{
+  "id": "bifi-2006",
+  "autor": "Carlos Ricardo Bifi",
+  "ano": 2006,
+  "tipo": "Dissertação",
+  "titulo": "Estatística em um curso de administração de empresas: mobilização dos conceitos de base",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Cileda de Queiroz e Silva Coutinho",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "investigar se os alunos egressos do componente curricular estatística do curso de administração estão capacitados a utilizar e/ou mobilizar, de forma eficaz, as noções estatísticas de base - variabilidade, para resolver problemas práticos em sua área de atuação.",
+  "metodologia": "é proposta uma situação-problema na forma de uma atividade diagnóstica qualitativa, dividida em 3 etapas. Espera-se que essa atividade permita diagnosticar qual o nível de funcionamento dos conceitos",
+  "contribuicoes": "",
+  "palavras_chave": "Estatística, análise exploratória de dados, ensino-aprendizagem",
+  "referencial": "A. Robert: dimensões de análise dos conteúdos a ensinar em matemática",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Estat%C3%ADstica+em+um+curso+de+administra%C3%A7%C3%A3o+de+empresas%3A+mobiliza%C3%A7%C3%A3o+dos+conceitos+de+base%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estat%C3%ADstica+em+um+curso+de+administra%C3%A7%C3%A3o+de+empresas%3A+mobiliza%C3%A7%C3%A3o+dos+conceitos+de+base&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/11060",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_ccbc528642b43d7bf808252a8b8b2404"
+  },
+  "autor_planilha": "BIFI, C. R.",
+  "orientador_planilha": "Cileda Coutinho",
+  "autor_capes": "CARLOS RICARDO BIFI",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "orientador_capes": "Cileda de Queiroz e Silva Coutinho",
+  "capes": {
+    "status": "ok",
+    "score": 0.951,
+    "id": "2006833005010005P4",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.944,
+    "id": "PUC_SP-1_ccbc528642b43d7bf808252a8b8b2404",
+    "url": "https://tede2.pucsp.br/handle/handle/11060",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Estatística, Análise exploratória de dados, Ensino-aprendizagem",
+    "Estatistica",
+    "Estatistica matematica",
+    "Estudo e ensino",
+    "análise exploratória de dados",
+    "ensino-aprendizagem"
+  ],
+  "resumo": "A Estatística tem se destacado ultimamente por sua utilidade em praticamente todas as áreas do conhecimento Pesquisas e dissertações existentes sobre o assunto sugerem a necessidade de aprofundar os conhecimentos sobre as dificuldades no processo de ensino e aprendizagem dessa disciplina incluindo-se os aspectos didáticos do tema e os erros que os alunos geralmente cometem após a aprendizagem Nossa questão principal é investigar se os alunos egressos do componente curricular Estatística do curso de Administração estão capacitados a utilizar e ou mobilizar de forma eficaz as noções estatísticas de base variabilidade para resolver problemas práticos dentro da sua área de atuação Dessa forma nessa pesquisa pretendemos verificar o nível de mobilização dos conhecimentos por parte dos alunos do Ensino Superior segundo os termos de A Robert (1998) que realizou um estudo sobre quatro dimensões de análise dos conteúdos a ensinar no campo da Matemática A Quarta dimensão que é alvo do nosso trabalho trata dos níveis de ajustes em funcionamento dos conhecimentos pelos alunos Tentaremos diagnosticar qual o nível de conhecimento em que o aluno do Ensino Superior se encontra no conteúdo curricular Estatística quanto a Técnico Mobilizável e Disponível Mediante atividades extraídas de situações-problema da realidade do profissional da área de administração e que exigem conhecimentos de Estatística pode o aluno fazer a inter-relação entre os conteúdos que estudou e a resolução de problemas práticos da área profissional",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_ccbc528642b43d7bf808252a8b8b2404",
+  "palavras_chave_bdtd": "Estatística, Análise exploratória de dados, Ensino-aprendizagem; Estatistica; Estatistica matematica; Estudo e ensino",
+  "ano_bdtd": 2006,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_ccbc528642b43d7bf808252a8b8b2404",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_ccbc528642b43d7bf808252a8b8b2404",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/bifi-2006.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_ccbc528642b43d7bf808252a8b8b2404",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_ccbc528642b43d7bf808252a8b8b2404",
+    "confianca": "alta"
+  }
+}

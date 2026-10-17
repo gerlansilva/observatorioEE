@@ -1,0 +1,73 @@
+{
+  "id": "marques-2007",
+  "autor": "Erica Ferreira Marques",
+  "ano": 2007,
+  "tipo": "Tese",
+  "titulo": "A utilização do processo de avaliação on-line como apoio ao ensino presencial: desenvolvimento e análise junto ao laboratório virtual de estatística aplicada à Administração - LAVIE",
+  "instituicao": "Universidade de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Marcio Oliveira",
+  "programa": "Administração de Organizações",
+  "area": "Administração",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "3",
+  "foco": "TICs, materiais e recursos didáticos",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "Estatística",
+  "problema": "anilisar se a utilização da ferramenta de avaliação tipo teste no LaVie como apoio ao ensino presencial pode contribuir para o estudo de estatística multivariada para alunos de graduação em administração da FEARP/USP",
+  "metodologia": "Estudo realizado em duas etapas. Na primeira, foi realizado um estudo exploratório sobre pedagogia virtual; a segunda etapa corresponde à utilização do material didático pelos alunos; a terceira etapa objetiva olevantamento quantitativo com aplicação de questionário para análise da opinião dos alunos referente ao uso do sistema de avaliação on-line tipo teste",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+utiliza%C3%A7%C3%A3o+do+processo+de+avalia%C3%A7%C3%A3o+on-line+como+apoio+ao+ensino+presencial%3A+desenvolvimento+e+an%C3%A1lise+junto+ao+laborat%C3%B3rio+virtual+de+estat%C3%ADstica+aplicada+%C3%A0+Administra%C3%A7%C3%A3o+-+LAVIE%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+utiliza%C3%A7%C3%A3o+do+processo+de+avalia%C3%A7%C3%A3o+on-line+como+apoio+ao+ensino+presencial%3A+desenvolvimento+e+an%C3%A1lise+junto+ao+laborat%C3%B3rio+virtual+de+estat%C3%ADstica+aplicada+%C3%A0+Administra%C3%A7%C3%A3o+-+LAVIE&type=AllFields",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/USP_ce52f120f034cc85fa15e88eb310e1dd"
+  },
+  "autor_planilha": "MARQUES, E. F.",
+  "orientador_planilha": "Marcio Oliveira",
+  "autor_capes": "Erica Ferreira Marques",
+  "programa_capes": "Administração",
+  "instituicao_capes": "Universidade de São Paulo",
+  "cidade_capes": "São Paulo",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20072733002010085P5",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Análise multivariada; Avaliação da aprendizagem; Distance education; Educação a distância; Estatística; Learning evaluation; Multivariate statistical analysis",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "USP_ce52f120f034cc85fa15e88eb310e1dd",
+    "url": "",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Análise multivariada",
+    "Avaliação da aprendizagem",
+    "Educação a distância",
+    "Estatística"
+  ],
+  "resumo": "Este trabalho faz parte do projeto virtual denominado LaViE, que é um ambiente virtual de ensino-aprendizagem de estatística, e que está fundamentado em três dimensões: Pedagogia Virtual, Tecnologia da Comunicação e Processo de Validação. Para a criação dessa ferramenta de avaliação tipo teste online foi necessário, primeiramente, a elaboração de um protocolo para desenvolvimento e implementação desse sistema no LaViE. A metodologia, então, foi baseada em três etapas: 1) elaboração do protocolo fundamentado na pesquisa exploratória de pedagogia virtual com base na teoria sobre processo de ensino-aprendizagem para o desenvolvimento de um conjunto de regras e passos que balizasse a criação de questões testes on-line com níveis diferentes de ?adaptação? pelo aluno para cada módulo apresentado na disciplina em questão. Neste caso, foram criados três níveis de adaptação: básico (I), intermediário (II) e avançado (III); 2) implementação dessa ferramenta de avaliação no LaViE (teste seu conhecimento), com o desenvolvimento das questões baseadas nos assuntos sobre análise estatística multivariada e; 3) avaliação quantitativa da opinião dos alunos (usuários) quanto à usabilidade do sistema ?teste seu conhecimento? desenvolvido. Esses dados foram coletados quando essa disciplina foi ministrada, porém em dois períodos diferentes; no segundo semestre de 2005 como projeto-piloto, e no segundo semestre de 2006. Dessa forma, pôde ser feita uma análise comparativa da opinião dos alunos sobre o sistema em dois momentos diferentes. Para esse levantamento foram utilizados dois questionários aplicados diretamente aos alunos em sala de aula momentos antes da avaliação presencial da disciplina e um outro logo após essa avaliação presencial. Essas três etapas finalizadas deram condição de existência de uma ferramenta que faz parte de uma das três dimensões citadas do LaViE ? Processo de Validação.The mathematical knowledge involved in the process of learning statistics and its applications, brings about difficulties to the Humanities department students, thus making it a challenge not only to those who teach it but also to the ones who learn it. Therefore, this work aims at showing the contribution the elaboration and development of a tool such as an online evaluation test can give, as a support to the presencial teaching of the study of multivariate statistical resources, to the FEARP/USP Business Management undergraduate students, registered in Applied Statistics to Business Management II.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/USP_ce52f120f034cc85fa15e88eb310e1dd",
+  "ano_bdtd": 2007,
+  "tipo_bdtd": "Tese",
+  "instituicao_bdtd": "Biblioteca Digitais de Teses e Dissertações da USP",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "USP_ce52f120f034cc85fa15e88eb310e1dd",
+    "url": "https://bdtd.ibict.br/vufind/Record/USP_ce52f120f034cc85fa15e88eb310e1dd",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/marques-2007.svg"
+}

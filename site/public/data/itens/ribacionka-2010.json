@@ -1,0 +1,79 @@
+{
+  "id": "ribacionka-2010",
+  "autor": "Marcia Cristina dos Santos Ribacionka",
+  "ano": 2010,
+  "tipo": "Dissertação",
+  "titulo": "Uma proposta de Webquest para a introdução ao letramento estatístico dos alunos da EJA",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Celina Aparecida Almeida Pereira Abar",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino de Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "3",
+  "foco": "TICs, materiais e recursos didáticos",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Estatística",
+  "problema": "verificar se a utilização da metodologia de ensino WebQuest, permite a introdução ao letramento estatístico dos alunos da Educação de Jovens e Adultos da Terceira série do Ensino Médio, numa escola pública da rede estadual paulista.",
+  "metodologia": "A metodologia de pesquisa adotada foi o Design experiments, pois permite ao professor atuar como professor e pesquisador e, ainda, ao realizar um experimento, refletir sobre o ensinar e o aprender propondo seu aprimoramento. Para isso, foi elaborada uma sequência de atividades, propostas pelo ENCCEJA, para abordagem de conteúdos estatísticos. Na verificação do aprendizado, os alunos, por meio da WebQuest \"Conhecendo a Região Onde Você Vive\", utilizaram uma planilha eletrônica para a construção das representações gráficas; no estudo dos problemas encontrados na região, um editor de texto para a produção de um documento com as soluções propostas.",
+  "contribuicoes": "Na socialização do conhecimento realizaram um seminário utilizando um editor de apresentações. Este estudo aponta que é possível utilizar uma WebQuest na introdução ao letramento estatístico com os alunos da E.J.A.",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Uma+proposta+de+Webquest+para+a+introdu%C3%A7%C3%A3o+ao+letramento+estat%C3%ADstico+dos+alunos+da+EJA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma+proposta+de+Webquest+para+a+introdu%C3%A7%C3%A3o+ao+letramento+estat%C3%ADstico+dos+alunos+da+EJA&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/10828",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_2298e4a854f88d2d0b97ce99bafa56f3"
+  },
+  "autor_planilha": "RIBACIONKA, M. C. A.",
+  "orientador_planilha": "",
+  "autor_capes": "MARCIA CRISTINA DOS SANTOS RIBACIONKA",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "orientador_capes": "Celina Aparecida Almeida Pereira Abar",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20102233005010030P9",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Educação de Jovens e Adultos; Letramento estatístico",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.991,
+    "id": "PUC_SP-1_2298e4a854f88d2d0b97ce99bafa56f3",
+    "url": "https://tede2.pucsp.br/handle/handle/10828",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Educação de Jovens e Adultos",
+    "Letramento estatístico"
+  ],
+  "resumo": "Esta pesquisa tem como objetivo verificar se a utilização da metodologia de ensino WebQuest, permite a introdução do letramento estatístico aos alunos da Educação de Jovens e Adultos da 3º série do Ensino Médio, numa escola pública da rede estadual paulista. A metodologia de pesquisa adotada foi o Design experiments, porque permite ao professor atuar como professor e pesquisador e ainda, ao realizar um experimento, reflita sobre o ensinar e o aprender propondo seu aprimoramento. Para isso, foi elaborada uma sequência didática utilizando as atividades propostas pelo ENCCEJA no letramento estatístico. Na verificação do aprendizado, os alunos por meio da WebQuest, Conhecendo a Região Onde Você Vive , utilizaram uma planilha eletrônica, para a construção das representações gráficas; no estudo dos problemas encontrados na região, um editor de texto para a produção de um documento com as soluções propostas e na socialização do conhecimento realizaram um seminário utilizando um editor de apresentações. Este estudo aponta que é possível utilizar uma WebQuest na introdução do letramento estatístico com os alunos da E.J.A.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_2298e4a854f88d2d0b97ce99bafa56f3/Details",
+  "ano_bdtd": 2010,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_2298e4a854f88d2d0b97ce99bafa56f3",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_2298e4a854f88d2d0b97ce99bafa56f3",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/ribacionka-2010.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_2298e4a854f88d2d0b97ce99bafa56f3/Details",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_2298e4a854f88d2d0b97ce99bafa56f3/Details",
+    "confianca": "alta"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "tomio-2005",
+  "autor": "Júlio César Tomio",
+  "ano": 2005,
+  "tipo": "Dissertação",
+  "titulo": "A ANÁLISE DE INFORMAÇÕES ESTATÍSTICAS SEGUNDO UMA VISÃO MATEMÁTICO-CRÍTICA",
+  "instituicao": "Universidade do Estado de Santa Catarina",
+  "cidade": "Joinville",
+  "estado": "Santa Catarina",
+  "regiao": "Sul",
+  "orientador": "Silvana Bernardes Rosa",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "8",
+  "nivel": "Indefinido",
+  "foco_codigo": "11",
+  "foco": "Outros temas",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "mostrar que várias informações \nestatísticas veiculadas na mídia impressa (jornais e revistas) sofrem distorções, \ntanto do ponto de vista técnico quanto semântico, seja por falta de conhecimento \ndaqueles que as publicam, seja por manipulação intencional.",
+  "metodologia": "Através da análise de \ncasos, busca-se mostrar os equívocos eventualmente apresentados em termos de \ninformações estatísticas. Intenciona-se dessa maneira, construir uma linha de \nanálise que contribuirá para a obtenção de conclusões mais precisas por parte dos \nleitores.",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+AN%C3%81LISE+DE+INFORMA%C3%87%C3%95ES+ESTAT%C3%8DSTICAS+SEGUNDO+UMA+VIS%C3%83O+MATEM%C3%81TICO-CR%C3%8DTICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+AN%C3%81LISE+DE+INFORMA%C3%87%C3%95ES+ESTAT%C3%8DSTICAS+SEGUNDO+UMA+VIS%C3%83O+MATEM%C3%81TICO-CR%C3%8DTICA&type=AllFields",
+    "registro_institucional": "https://pergamumweb.udesc.br/acervo/85458"
+  },
+  "capes": {
+    "status": "baixa_confianca",
+    "score": 0.496,
+    "candidato": "https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=807484",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "TOMIO, J. C.",
+  "orientador_planilha": "Silvana Rosa",
+  "instituicao_agente": "Universidade do Estado de Santa Catarina (UDESC)",
+  "instituicao_planilha": "Universidade do Estado de Santa Catarina",
+  "programa_agente": "Mestrado em Educação e Cultura",
+  "programa_planilha": "Educação",
+  "enriquecimento_manual": {
+    "fonte": "Catálogo Pergamum da UDESC (acervo 85458) e Currículo Lattes de Silvana Bernardes Rosa (via Escavador)",
+    "confianca": "alta",
+    "observacao": "O catálogo da UDESC registra 'A análise de informações estatísticas segundo uma visão matemático-crítica / Júlio César Tomio, 2005'. O Lattes da orientadora confirma: 'Júlio César Tomio — A análise de informações estatísticas segundo numa visão matemático-crítica; 2005; 68 f; Dissertação (Mestrado em Educação e Cultura) - UDESC; Orientador: Silvana Bernardes Rosa'. O texto completo consta como arquivo eletrônico ('Júlio César Tomio.pdf') no acervo, mas não há URL pública estável verificável; o repositório institucional da UDESC é uma SPA que não expôs metadados à verificação."
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/tomio-2005.svg",
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.0
+  }
+}

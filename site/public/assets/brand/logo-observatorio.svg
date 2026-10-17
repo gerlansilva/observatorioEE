@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 130" width="660" height="130" role="img" aria-label="Observatório EE — Teses e dissertações em Educação Estatística">
+  <g fill="none" stroke="#174B57" stroke-linecap="round">
+    <circle cx="60" cy="66" r="52" stroke-width="7" stroke-dasharray="238 40" transform="rotate(-38 60 66)"/>
+    <circle cx="60" cy="66" r="41" stroke-width="5" stroke-dasharray="172 28" transform="rotate(118 60 66)" opacity=".92"/>
+    <circle cx="60" cy="66" r="29" stroke-width="4" stroke-dasharray="112 22" transform="rotate(-10 60 66)" opacity=".9"/>
+    <path d="M20 80 C34 68 44 76 50 88" stroke-width="4" opacity=".85"/>
+    <path d="M8 66 C28 52 40 62 48 76" stroke-width="4" opacity=".55"/>
+  </g>
+  <circle cx="60" cy="66" r="18" fill="#174B57"/>
+  <circle cx="67" cy="59" r="5" fill="#FFFFFF"/>
+  <circle cx="101" cy="31" r="6.5" fill="#D96A3A"/>
+  <circle cx="18" cy="25" r="6.5" fill="#D96A3A"/>
+  <path d="M99 18 A54 54 0 0 1 113 54" fill="none" stroke="#D96A3A" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="29" cy="92" r="5" fill="#2E7D89"/>
+  <circle cx="89" cy="88" r="5" fill="#2E7D89"/>
+  <text x="140" y="67" fill="#174B57" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.4">Observatório EE</text>
+  <text x="142" y="97" fill="#2E7D89" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" letter-spacing="0.1">Teses e dissertações em Educação Estatística</text>
+</svg>

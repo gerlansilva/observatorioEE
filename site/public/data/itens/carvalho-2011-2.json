@@ -1,0 +1,51 @@
+{
+  "id": "carvalho-2011-2",
+  "autor": "Wellington Tatagiba de Carvalho",
+  "ano": 2011,
+  "tipo": "Dissertação",
+  "titulo": "Uso de uma aventura solo como ferramenta didática para o ensino de análise combinatória",
+  "instituicao": "CEFET-RJ (Centro Federal de Educação Tecnológica Celso Suckow da Fonseca)",
+  "cidade": "",
+  "estado": "Rio de Janeiro",
+  "regiao": "Sudeste",
+  "orientador": "Sergio Eduardo Silva Duarte",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "3",
+  "foco": "TICs, materiais e recursos didáticos",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Combinatória",
+  "problema": "Apresentar e discutir a utilização de uma ferramenta didática baseada em técnicas de jogos de role-playing game (RPG) denominada Aventura-Solo",
+  "metodologia": "O jogo foi aplicado a um grupo teste e os resultados são discutidos",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Uso+de+uma+aventura+solo+como+ferramenta+did%C3%A1tica+para+o+ensino+de+an%C3%A1lise+combinat%C3%B3ria%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uso+de+uma+aventura+solo+como+ferramenta+did%C3%A1tica+para+o+ensino+de+an%C3%A1lise+combinat%C3%B3ria&type=AllFields"
+  },
+  "autor_planilha": "CARVALHO, W. T.",
+  "orientador_planilha": "Sérgio Duarte",
+  "autor_capes": "WELLINGTON TATAGIBA DE CARVALHO",
+  "programa_capes": "Ensino de Ciências e Matemática",
+  "instituicao_capes": "Centro Federal de Educação Tecn. Celso Suckow da Fonseca",
+  "cidade_capes": "Rio de Janeiro",
+  "orientador_capes": "Sergio Eduardo Silva Duarte",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "2011231022014002P0",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.563
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/carvalho-2011-2.svg"
+}

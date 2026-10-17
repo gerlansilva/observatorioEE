@@ -1,0 +1,51 @@
+{
+  "id": "pacheco-2001",
+  "autor": "Auxiliadora Baraldi Pacheco",
+  "ano": 2001,
+  "tipo": "Dissertação",
+  "titulo": "Uma Investigação sobre Erros Apresentados por Estudantes na Resolução de Problemas Verbais e Não-Verbais no Campo da Análise Combinatória",
+  "instituicao": "Universidade Federal Rural de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Cleide Farias de Medeiros",
+  "programa": "Ensino de Ciências",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "",
+  "foco": "Não informado",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Combinatória",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Uma+Investiga%C3%A7%C3%A3o+sobre+Erros+Apresentados+por+Estudantes+na+Resolu%C3%A7%C3%A3o+de+Problemas+Verbais+e+N%C3%A3o-Verbais+no+Campo+da+An%C3%A1lise+Combinat%C3%B3ria%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma+Investiga%C3%A7%C3%A3o+sobre+Erros+Apresentados+por+Estudantes+na+Resolu%C3%A7%C3%A3o+de+Problemas+Verbais+e+N%C3%A3o-Verbais+no+Campo+da+An%C3%A1lise+Combinat%C3%B3ria&type=AllFields"
+  },
+  "autor_planilha": "PACHECO, A. B.",
+  "orientador_planilha": "Cleide de Medeiros",
+  "autor_capes": "Auxiliadora Baraldi Pacheco",
+  "programa_capes": "Programa de Pós-graduação Em Ensino das Ciências",
+  "instituicao_capes": "Universidade Federal Rural de Pernambuco",
+  "cidade_capes": "Recife",
+  "orientador_capes": "Cleide Farias de Medeiros",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20011025003011012P1",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.436
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/pacheco-2001.svg"
+}

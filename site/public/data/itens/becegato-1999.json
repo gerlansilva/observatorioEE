@@ -1,0 +1,52 @@
+{
+  "id": "becegato-1999",
+  "autor": "Rita de Cássia Gabrielli Battilani Becegato",
+  "ano": 1999,
+  "tipo": "Dissertação",
+  "titulo": "Uma proposta de trabalho da estatística nos ensinos infantil e fundamental",
+  "instituicao": "Universidade do Oeste Paulista",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Samuel Fabre Sanches",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Uma+proposta+de+trabalho+da+estat%C3%ADstica+nos+ensinos+infantil+e+fundamental%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma+proposta+de+trabalho+da+estat%C3%ADstica+nos+ensinos+infantil+e+fundamental&type=AllFields"
+  },
+  "capes": {
+    "status": "baixa_confianca",
+    "score": 0.533,
+    "candidato": "https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=9149383",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "BECEGATO, R. C. G. B.",
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.61
+  },
+  "tags": [],
+  "orientador_planilha": "Samuel Sanches",
+  "instituicao_agente": "Universidade do Oeste Paulista (UNOESTE)",
+  "programa_agente": "Programa de Pós-Graduação em Educação",
+  "enriquecimento_manual": {
+    "fonte": "Currículo Lattes (via Escavador)",
+    "confianca": "media",
+    "observacao": "Lattes informa mestrado em Educação na UNOESTE, período 1994-1999, com 'Ano de Obtenção: 2003'. Mantido o ano de 1999 do registro original por causa do conflito. Título no Lattes: 'Uma Proposta de Trabalho Estatística no Ensino Infantil e Fundamental'. Não há texto completo em repositório."
+  },
+  "thumbnail": "./assets/images/thumbs/becegato-1999.svg"
+}

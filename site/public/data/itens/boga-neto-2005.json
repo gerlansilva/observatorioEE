@@ -1,0 +1,83 @@
+{
+  "id": "boga-neto-2005",
+  "autor": "Francisco Rodrigues Boga Neto",
+  "ano": 2005,
+  "tipo": "Dissertação",
+  "titulo": "Uma proposta para ensinar os conceitos de análise combinatória e probabilidade: uma aplicação do uso da história da matemática como organizador prévio e dos mapas conceituais",
+  "instituicao": "Universidade Federal do Pará",
+  "cidade": "Belém",
+  "estado": "Pará",
+  "regiao": "Norte",
+  "orientador": "Adilson Santo",
+  "programa": "Educação em Ciências e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Combinatória e Probabilidade",
+  "problema": "Discutir uma proposta de utilização da história da matemática como organizador prévio para o ensino da análise combinatória e da probabilidade",
+  "metodologia": "Teoricamente fundamentado nas teorias de Ausubel e Brousseau, este trabalho realiza um ensaio teórico a respeito do ensino da probabilidade e da combinatória a partir da história da Matemática. No final, uma proposta de ensino é apresentada e discutida",
+  "contribuicoes": "",
+  "palavras_chave": "Mapas conceituais, história da matemática, aprendizagem significativa",
+  "referencial": "Ausubel: mapas conceituais e aprendizagem significativa",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Uma+proposta+para+ensinar+os+conceitos+de+an%C3%A1lise+combinat%C3%B3ria+e+probabilidade%3A+uma+aplica%C3%A7%C3%A3o+do+uso+da+hist%C3%B3ria+da+matem%C3%A1tica+como+organizador+pr%C3%A9vio+e+dos+mapas+conceituais%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma+proposta+para+ensinar+os+conceitos+de+an%C3%A1lise+combinat%C3%B3ria+e+probabilidade%3A+uma+aplica%C3%A7%C3%A3o+do+uso+da+hist%C3%B3ria+da+matem%C3%A1tica+como+organizador+pr%C3%A9vio+e+dos+mapas+conceituais&type=AllFields",
+    "registro_institucional": "https://repositorio.ufpa.br/handle/2011/1833",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UFPA_b6b1517fd4fec1de053f8a1131cce0ab"
+  },
+  "autor_planilha": "BOGA NETO, F. R.",
+  "orientador_planilha": "Adilson Santo",
+  "autor_capes": "FRANCISCO RODRIGUES BOGA NETO",
+  "programa_capes": "Educação Em Ciências e Matemáticas",
+  "instituicao_capes": "Universidade Federal do Pará",
+  "cidade_capes": "Belém",
+  "capes": {
+    "status": "ok",
+    "score": 0.79,
+    "id": "20053015001016033P8",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.789,
+    "id": "UFPA_b6b1517fd4fec1de053f8a1131cce0ab",
+    "url": "https://repositorio.ufpa.br/handle/2011/1833",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Matemática",
+    "Ensino",
+    "Análise combinatória",
+    "Probabilidade",
+    "Mapas conceituais",
+    "história da matemática",
+    "aprendizagem significativa"
+  ],
+  "resumo": "Discutimos, neste trabalho, uma proposta de utilização da história da matemática, como organizador prévio, para o ensino da análise combinatória e da probabilidade. Esse uso da história da matemática tem como objetivo desenvolver os conhecimentos subsunçores, presentes na estrutura cognitiva dos alunos, para que possa ocorrer, de forma significativa, a aprendizagem dos conceitos desses tópicos da matemática, e que serão ensinados, de modo mais detalhado, posteriormente, através dos mapas conceituais. Vale ressaltar que, a utilização dos organizadores prévios do conteúdo, assim como a teoria dos mapas conceituais, têm fundamentação teórica nos trabalhos sobre aprendizagem significativa, do psicólogo educacional David P. Ausubel.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UFPA_b6b1517fd4fec1de053f8a1131cce0ab/Details",
+  "palavras_chave_bdtd": "Matemática; Ensino; Análise combinatória; Probabilidade",
+  "ano_bdtd": 2005,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Universidade Federal do Pará",
+  "programa_bdtd": "Programa de Pós-Graduação em Educação em Ciências e Matemáticas",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UFPA_b6b1517fd4fec1de053f8a1131cce0ab",
+    "url": "https://bdtd.ibict.br/vufind/Record/UFPA_b6b1517fd4fec1de053f8a1131cce0ab",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/boga-neto-2005.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/UFPA_b6b1517fd4fec1de053f8a1131cce0ab/Details",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/UFPA_b6b1517fd4fec1de053f8a1131cce0ab/Details",
+    "confianca": "alta"
+  }
+}

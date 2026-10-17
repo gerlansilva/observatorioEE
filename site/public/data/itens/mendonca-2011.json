@@ -1,0 +1,80 @@
+{
+  "id": "mendonca-2011",
+  "autor": "Luciane Mendonça",
+  "ano": 2011,
+  "tipo": "Dissertação",
+  "titulo": "Trajetória hipotética de aprendizagem: análise combinatória",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Armando Traldi Junior",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino de Matemática",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Combinatória",
+  "problema": "verificar a possibilidade de compatibilizar \nperspectivas construtivistas de aprendizagem com a planificação do ensino, em um \ntrabalho colaborativo entre pesquisador e professores, no que se refere ao tema \nAnálise Combinatória. Busca-se também verificar a atuação do professor de \nmatemática nas atividades de planejamento de ensino, de forma compatível com a \nperspectiva construtivista de aprendizagem presente na Trajetória Hipotética de \nAprendizagem (THA).",
+  "metodologia": "É um estudo de natureza qualitativa com três professores e \n104 alunos do Ensino Médio de duas escolas da rede pública do estado de São \nPaulo e tem como fundamentação teórica os trabalhos de Simon sobre o uso de \nTHA no ensino de Matemática para formular modelos de ensino baseados no \nconstrutivismo.",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "tem como fundamentação teórica os trabalhos de Simon sobre o uso de \nTHA no ensino de Matemática para formular modelos de ensino baseados no \nconstrutivismo",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Trajet%C3%B3ria+hipot%C3%A9tica+de+aprendizagem%3A+an%C3%A1lise+combinat%C3%B3ria%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Trajet%C3%B3ria+hipot%C3%A9tica+de+aprendizagem%3A+an%C3%A1lise+combinat%C3%B3ria&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/10862",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_8a596666666b37ace964bbfcca71ea02"
+  },
+  "autor_planilha": "MENDONÇA, L.",
+  "orientador_planilha": "Armando Traldi Junior",
+  "autor_capes": "LUCIANE MENDONÇA",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20111833005010030P9",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Análise combinatória; Trajetória hipotética de aprendizagem; Currículo de matemática para o ensino médio; Perspectiva construtivista",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "PUC_SP-1_8a596666666b37ace964bbfcca71ea02",
+    "url": "https://tede2.pucsp.br/handle/handle/10862",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Análise combinatória",
+    "Trajetória hipotética de aprendizagem",
+    "Currículo de matemática para o ensino médio",
+    "Perspectiva construtivista"
+  ],
+  "resumo": "O presente trabalho teve como objetivo verificar a possibilidade de compatibilizar perspectivas construtivistas de aprendizagem com a planificação do ensino, em um trabalho colaborativo entre pesquisador e professores, no que se refere ao tema Análise Combinatória. Busca-se também verificar a atuação do professor de matemática nas atividades de planejamento de ensino, de forma compatível com a perspectiva construtivista de aprendizagem presente na Trajetória Hipotética de Aprendizagem (THA). É um estudo de natureza qualitativa com três professores e 104 alunos do Ensino Médio de duas escolas da rede pública do estado de São Paulo e tem como fundamentação teórica os trabalhos de Simon sobre o uso de THA no ensino de Matemática para formular modelos de ensino baseados no construtivismo. Os resultados obtidos levaram-nos a inferir que o uso de pesquisas contribui para a organização do ensino de Análise Combinatória; que o comprometimento do docente ao planejar suas aulas e a prática em sala de aula condizente com a perspectiva construtivista são fundamentais para alcançar os resultados esperados para THA elaborada; que a atuação do professor tem papel decisivo na mediação da construção do conhecimento dos seus alunos; e que a interação e a participação entre alunos e professor são essenciais para que ocorra a aprendizagem",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_8a596666666b37ace964bbfcca71ea02",
+  "ano_bdtd": 2011,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_8a596666666b37ace964bbfcca71ea02",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_8a596666666b37ace964bbfcca71ea02",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/mendonca-2011.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_8a596666666b37ace964bbfcca71ea02",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_8a596666666b37ace964bbfcca71ea02",
+    "confianca": "alta"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "mantovani-2008",
+  "autor": "Daielly Melina Nassif Mantovani",
+  "ano": 2008,
+  "tipo": "Dissertação",
+  "titulo": "Método para implementação e acompanhamento de atividades a distância em disciplinas de estatística: um estudo de caso",
+  "instituicao": "Universidade de São Paulo",
+  "cidade": "Ribeirão Preto",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Adriana Backx Noronha Viana",
+  "programa": "Administração de Organizações",
+  "area": "Administração",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "3",
+  "foco": "TICs, materiais e recursos didáticos",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "desenvolver um método para implementação e acompanhamento de atividades a distância em disciplinas de estatística, por meio de ambientes virtuais de aprendizagem",
+  "metodologia": "o método inclui alguns recursos comumente encontrados em ambientes virtuais, como materiais de leitura, forum, chat, correio eletrônico, faq, links, espaço compartilhado de trabalho e quadro de notas. Este trabalho se configura como uma pesquisa qualitativa e descritiva, com delineamento por estudo de caso único, cuja coleta de dados ocorreu por meio de observação participante, entrevistas do tipo focus group, relatórios de acesso dos alunos ao ambiente e um survey sobre o perfil da turma",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22M%C3%A9todo+para+implementa%C3%A7%C3%A3o+e+acompanhamento+de+atividades+a+dist%C3%A2ncia+em+disciplinas+de+estat%C3%ADstica%3A+um+estudo+de+caso%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=M%C3%A9todo+para+implementa%C3%A7%C3%A3o+e+acompanhamento+de+atividades+a+dist%C3%A2ncia+em+disciplinas+de+estat%C3%ADstica%3A+um+estudo+de+caso&type=AllFields",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/USP_23ee4f01eaf343830219106c91f43bac"
+  },
+  "autor_planilha": "MANTOVANI, D. M. N.",
+  "orientador_planilha": "Adriana Viana",
+  "autor_capes": "Daielly Melina Nassif Mantovani",
+  "programa_capes": "Administração de Organizações",
+  "instituicao_capes": "Universidade de São Paulo ( Ribeirão Preto )",
+  "cidade_capes": "Ribeirão Preto",
+  "orientador_capes": "Adriana Backx Noronha Viana",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "2008633002029036P0",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "E-learning; Ensino-aprendizagem de estatística; Estatística aplicada à administração; Statistics applied to the administration; Statistics learning-teaching",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "USP_23ee4f01eaf343830219106c91f43bac",
+    "url": "",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Ensino-aprendizagem de estatística",
+    "Estatística aplicada à administração"
+  ],
+  "resumo": "Este trabalho se configura como uma pesquisa qualitativa e descritiva, com delineamento por estudo de caso único, cuja coleta de dados ocorreu por meio de observação participante (nos processos de tutoria), entrevistas do tipo focus group, relatórios de acessos dos alunos ao ambiente e um survey sobre o perfil da turma. O gerenciamento do curso ocorreu conjuntamente com o processo de tutoria da disciplina, o que permitiu acompanhar os acessos dos alunos a cada recurso do ambiente e o seu desempenho nas atividades propostas. Observou-se que alguns recursos não foram utilizados da forma planejada pelo método. A análise de regressão revelou que, durante a primeira fase da disciplina, as discussões no fórum e o desempenho nos trabalhos práticos influenciaram positivamente o desempenho do aluno na prova. Na segunda fase, apenas o trabalho prático e o fórum influenciaram na nota da prova. A análise de cluster identificou quatro grupos de alunos com desempenho: excelente, bom, mediano e insatisfatório. Os resultados indicam que outras variáveis, além das atividades a distância, determinam o desempenho do aluno na disciplina.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/USP_23ee4f01eaf343830219106c91f43bac",
+  "ano_bdtd": 2008,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Biblioteca Digitais de Teses e Dissertações da USP",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "USP_23ee4f01eaf343830219106c91f43bac",
+    "url": "https://bdtd.ibict.br/vufind/Record/USP_23ee4f01eaf343830219106c91f43bac",
+    "fonte": "jina-reader",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/mantovani-2008.svg"
+}

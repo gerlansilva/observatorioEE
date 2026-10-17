@@ -1,0 +1,91 @@
+{
+  "id": "figueiredo-2000",
+  "autor": "Auriluci de Carvalho Figueiredo",
+  "ano": 2000,
+  "tipo": "Dissertação",
+  "titulo": "Probabilidade Condicional: Um enfoque de seu ensino-aprendizagem",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Benedito Antonio da Silva",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Probabilidade",
+  "problema": "introduzir o conceito da probabilidade condicional em cursos de estatística na universidade.",
+  "metodologia": "Engenharia didática. A sequência de ensino é composta a partir das situações didáticas apresentadas por batanero e outros. Para trabalhar os conceitos, foi tomado como base os registros de representalção semiótica, de Duval",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "Duval: registros de representação semiótica; Artigue: engenharia didática",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Probabilidade+Condicional%3A+Um+enfoque+de+seu+ensino-aprendizagem%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Probabilidade+Condicional%3A+Um+enfoque+de+seu+ensino-aprendizagem&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/11214",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_8c9e5ee6db72f3523cc5fdb9e88a778e"
+  },
+  "capes": {
+    "status": "baixa_confianca",
+    "score": 0.443,
+    "candidato": "https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=16194477",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "FIGUEIREDO, A. C.",
+  "orientador_planilha": "Benedito Silva",
+  "instituicao_agente": "Pontifícia Universidade Católica de São Paulo (PUC-SP)",
+  "programa_agente": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "enriquecimento_manual": {
+    "fonte": "BDTD/VuFind (registro PUC_SP, com orientador e programa) e Repositório Institucional PUC-SP (TEDE)",
+    "confianca": "alta",
+    "observacao": "Autor, título, ano e instituição confirmados na BDTD; o orientador consta como 'Silva, Benedito Antonio da' e o programa como 'Programa de Estudos Pós-Graduados em Educação Matemática'. O link do handle leva ao PDF no TEDE PUC-SP; a página estava protegida por WAF (HTTP 468) no momento da checagem, por isso não foi possível copiar a URL direta do arquivo."
+  },
+  "instituicao_planilha": "Pontifícia Universidade Católica de São Paulo",
+  "programa_planilha": "Educação Matemática",
+  "tags": [
+    "Probabilidade condicional",
+    "Situações didáticas",
+    "Rregistros de representação",
+    "Diagrama de árvore",
+    "Tabela de contingência",
+    "Probabilidade -- Estudo e ensino",
+    "Educacao matematica",
+    "Matematica -- Estudo e ensino",
+    "Probabilidade",
+    "Estudo e ensino",
+    "Matematica"
+  ],
+  "thumbnail": "./assets/images/thumbs/figueiredo-2000.svg",
+  "palavras_chave_bdtd": "Probabilidade condicional; Situações didáticas; Rregistros de representação; Diagrama de árvore; Tabela de contingência; Probabilidade; Estudo e ensino; Educacao matematica; Matematica",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "PUC_SP-1_8c9e5ee6db72f3523cc5fdb9e88a778e",
+    "url": "https://tede2.pucsp.br/handle/handle/11214",
+    "consultado_em": "2026-10-17"
+  },
+  "resumo": "Este trabalho tem por objetivo introduzir o conceito da Probabilidade Condicional em cursos de Estatística na Universidade. Para isso, elaboramos, aplicamos e analisamos os resultados de uma seqüência de ensino levando em consideração os princípios de uma Engenharia Didática. Esta seqüência de ensino é composta de quatro atividades que foram criadas, baseando-se nas situações didáticas apresentadas por Carmen Batanero e outros autores, com o intuito de fazer o aluno refletir sobre circunstâncias que envolvam não só a Probabilidade Condicional, bem como os conceitos ligados ao Teorema da Probabilidade Total e o Teorema de Bayes. Para trabalhar com tais conceitos, articulamos nas questões das atividades, diferentes registros de representação: linguagem natural, simbólica, diagrama de árvore e tabela de contingência, tomando como base a Teoria de Registros de Representação de Raymond Duval. Aplicamos esta seqüência aos alunos dos cursos de Licenciatura de Matemática e Ciência da Computação e diante dos protocolos desses alunos, concluímos que nossa seqüência os auxiliou a minimizar as dificuldades levantadas por nós e pelos pesquisadores e ao mesmo tempo indicou temas para futuras pesquisas na área. Dentre outras conclusões, ressaltamos que a maioria dos alunos diante de questões que envolvam a Probabilidade Condicional diferenciavam esta da Probabilidade da Interseção de Eventos e o Cálculo da P(A/B) do de P(B/A), desde que estes se apresentassem nas perguntas em linguagem natural. No entanto, quando questões análogas foram apresentadas na linguagem simbólica, muitos alunos mostraram dificuldades em resolvê-las",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_8c9e5ee6db72f3523cc5fdb9e88a778e",
+  "ano_bdtd": 2000,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_8c9e5ee6db72f3523cc5fdb9e88a778e",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_8c9e5ee6db72f3523cc5fdb9e88a778e",
+    "fonte": "agente"
+  },
+  "pesquisa_agente_links": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_8c9e5ee6db72f3523cc5fdb9e88a778e",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_8c9e5ee6db72f3523cc5fdb9e88a778e",
+    "confianca": "alta"
+  }
+}

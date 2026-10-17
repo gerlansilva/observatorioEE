@@ -1,0 +1,50 @@
+{
+  "id": "souza-2009",
+  "autor": "Leandro de Oliveira Souza",
+  "ano": 2009,
+  "tipo": "Dissertação",
+  "titulo": "A Educação Estatística no Ensino Fundamental e os Recursos Tecnológicos",
+  "instituicao": "Universidade Cruzeiro do Sul",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Celi Lopes",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "",
+  "foco": "Não informado",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Estatística",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+Educa%C3%A7%C3%A3o+Estat%C3%ADstica+no+Ensino+Fundamental+e+os+Recursos+Tecnol%C3%B3gicos%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+Educa%C3%A7%C3%A3o+Estat%C3%ADstica+no+Ensino+Fundamental+e+os+Recursos+Tecnol%C3%B3gicos&type=AllFields"
+  },
+  "autor_planilha": "SOUZA, L. O.",
+  "orientador_planilha": "Celi Lopes",
+  "autor_capes": "LEANDRO DE OLIVEIRA SOUZA",
+  "programa_capes": "Ensino de Ciências e Matemática",
+  "instituicao_capes": "Universidade Cruzeiro do Sul",
+  "cidade_capes": "São Paulo",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20091733078017002P3",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.622
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/souza-2009.svg"
+}

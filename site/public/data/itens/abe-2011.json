@@ -1,0 +1,71 @@
+{
+  "id": "abe-2011",
+  "autor": "Thatiana Sakate Abe",
+  "ano": 2011,
+  "tipo": "Dissertação",
+  "titulo": "O ensino de probabilidades por meio das visões clássica e frequentista.",
+  "instituicao": "Universidade Federal de Mato Grosso do Sul",
+  "cidade": "Campo Grande",
+  "estado": "Mato Grosso do Sul",
+  "regiao": "Centro-Oeste",
+  "orientador": "Marilena Bittar",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "3",
+  "nivel": "Ensino Fundamental – anos finais",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Probabilidade",
+  "problema": "Investigar a aprendizagem de probabilidade por alunos do 9º ano do ensino fundamental a partir de situações que envolvessem duas visões diferentes de probabilidade, a clássica e a frequentista, evidenciando as vantagens de se trabalhar com a dualidade dessas duas abordagens na introdução desse conceito.",
+  "metodologia": "Engenharia didática, com elaboração, organização e aplicação de uma sequência didática para um grupo de seis alunos voluntários. (aproximação analítica)",
+  "contribuicoes": "A realização de experimentos aleatórios favoreceu a aquisição e compreensão do cálculo de probabilidades por meio das visões clássica e frequentista",
+  "palavras_chave": "Probabilidade clássica, probabilidade, frequentista, ensino fundamental",
+  "referencial": "Teoria das situações didáticas, de Brouseau; e engenharia didática, com aplicação de uma sequência didática, conforme sugerido por Artigue",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O+ensino+de+probabilidades+por+meio+das+vis%C3%B5es+cl%C3%A1ssica+e+frequentista.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+ensino+de+probabilidades+por+meio+das+vis%C3%B5es+cl%C3%A1ssica+e+frequentista.&type=AllFields",
+    "texto_completo": "https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/6863",
+    "registro_institucional": "https://posgraduacao.ufms.br/portal/trabalhos?b_trab_aluno=Thatiana+Sakate+Abe"
+  },
+  "bdtd": {
+    "status": "baixa_confianca",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-17"
+  },
+  "capes": {
+    "status": "baixa_confianca",
+    "score": 0.609,
+    "candidato": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "ABE, T. S.",
+  "enriquecimento_manual": {
+    "fonte": "Portal de Pós-Graduação da UFMS",
+    "confianca": "alta",
+    "observacao": "Nome e orientação confirmados na folha de rosto do PDF; trabalho não indexado na BDTD."
+  },
+  "tags": [
+    "Probabilidade clássica",
+    "probabilidade",
+    "frequentista",
+    "ensino fundamental"
+  ],
+  "thumbnail": "./assets/images/thumbs/abe-2011.svg",
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.486
+  },
+  "resumo": "Esta pesquisa teve como objetivo principal investigar a aprendizagem de probabilidade por alunos do 9º ano do Ensino Fundamental a partir de situações que envolvessem duas visões diferentes de probabilidade, a clássica e frequentista. Além disso, pretendeu-se evidenciar as vantagens de se trabalhar com a dualidade dessas duas abordagens na introdução desse conceito. Para tanto, utilizamos como referencial teórico alguns preceitos da Teoria das Situações Didáticas, proposta por Brousseau, que foi de fundamental importância para o encaminhamento desta pesquisa auxiliando na elaboração da sequência didática, na forma como procedemos a apresentação das situações aos alunos. Tentamos levá-los a vivenciar dialéticas adidáticas de ação, formulação e validação, visando à aprendizagem da Probabilidade por meio das abordagens clássica e frequentista. Como metodologia de pesquisa nos inspiramos na Engenharia Didática, conforme sugerida por Artigue, que nos auxiliou na elaboração, organização e aplicação de nossa sequência didática, além de tornar possível realizar as análises e validações propostas nos objetivos, uma vez que essa visa pesquisas que estudam os processos de aprendizagem de um dado objeto matemático, favorecendo uma ligação entre a pesquisa e a ação pedagógica. Nossos sujeitos de pesquisa foram seis alunos voluntários do 9º ano do Ensino Fundamental de uma escola estadual de Campo Grande/MS, que participaram das sessões, que ocorreram durante o horário normal de aulas sob autorização do professor e da direção da escola. Observamos que a realização dos experimentos aleatórios em conjunto com o recurso informático do simulador da roleta, favoreceu a aquisição e compreensão do cálculo de probabilidades por meio das visões clássica e frequentista pelos alunos, bem como a articulação entre ambas. O simulador da roleta propiciou uma observação concreta do que acontece quando realizamos um experimento aleatório uma quantidade pequena e um número significativamente grande de vezes, que se tornaria mais difícil sem este recurso, pois a realização de um mesmo experimento por muitas vezes poderia se tornar penoso e tomaria muito tempo.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://posgraduacao.ufms.br/portal/trabalhos?b_trab_aluno=Thatiana+Sakate+Abe",
+  "pesquisa_agente_links": {
+    "status": "ok",
+    "fonte_resumo": "https://posgraduacao.ufms.br/portal/trabalhos?b_trab_aluno=Thatiana+Sakate+Abe",
+    "fonte_palavras": null,
+    "confianca": "media"
+  }
+}

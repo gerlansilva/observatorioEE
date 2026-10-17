@@ -1,0 +1,79 @@
+{
+  "id": "stieler-2007",
+  "autor": "Marinez Cargnin Stieler",
+  "ano": 2007,
+  "tipo": "Dissertação",
+  "titulo": "Compreensão de conceitos de Matemática e Estatística na perspectiva da Modelagem Matemática: caminhos para uma aprendizagem significativa e contextualizada no Ensino Superior.",
+  "instituicao": "Centro Universitário Franciscano",
+  "cidade": "Santa Maria",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Vanilde Bisognin",
+  "programa": "Ensino de Física e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Estatística",
+  "problema": "tem como foco central a investigação sobre as possibilidades que a modelagem matemática oferece à aprendizagem contextualizada e significativa de conceitos matemáticos e estatísticos em uma turma de sétimo semestre de um curso de licenciatura em matemática da UNIFRA",
+  "metodologia": "Pesquisa de abordagem qualitativa, com dados coletados em entrevistas semi-estruturadas, observações participantes das atividades desenvolvidas com os alunos e relatos dos sujeitos da pesquisa (alunos da licenciatura em matemática)",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Compreens%C3%A3o+de+conceitos+de+Matem%C3%A1tica+e+Estat%C3%ADstica+na+perspectiva+da+Modelagem+Matem%C3%A1tica%3A+caminhos+para+uma+aprendizagem+significativa+e+contextualizada+no+Ensino+Superior.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Compreens%C3%A3o+de+conceitos+de+Matem%C3%A1tica+e+Estat%C3%ADstica+na+perspectiva+da+Modelagem+Matem%C3%A1tica%3A+caminhos+para+uma+aprendizagem+significativa+e+contextualizada+no+Ensino+Superior.&type=AllFields",
+    "registro_institucional": "http://tede.universidadefranciscana.edu.br:8080/handle/UFN-BDTD/141 http://www.tede.universidadefranciscana.edu.br:8080/handle/UFN-BDTD/399",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UFN-1_dce6506fa7d14207d807cb22c48a7f21"
+  },
+  "autor_planilha": "STIELER, M. C.",
+  "orientador_planilha": "Vanilde Bisognin",
+  "autor_capes": "Marinez Cargnin Stieler",
+  "programa_capes": "Ensino de Física e de Matemática",
+  "instituicao_capes": "Universidade Franciscana",
+  "cidade_capes": "Santa Maria",
+  "orientador_capes": "Vanilde Bisognin",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "2007942039010001P1",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "ensino e aprendizagem de matemática; modelagem matemática, ensino superior, aprendizagem significativa",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.998,
+    "id": "UFN-1_dce6506fa7d14207d807cb22c48a7f21",
+    "url": "http://tede.universidadefranciscana.edu.br:8080/handle/UFN-BDTD/141",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "ensino e aprendizagem de matemática",
+    "modelagem matemática, ensino superior, aprendizagem significativa"
+  ],
+  "resumo": "Este trabalho tem como foco central a investigação sobre as possibilidades que a Modelagem Matemática oferece à aprendizagem contextualizada e significativa de conceitos matemáticos e estatísticos, em uma turma de sétimo semestre do Curso de Licenciatura em Matemática da UNIFRA. As justificativas sustentam-se na possibilidade de adotar uma metodologia de ensino capaz de oportunizar aos alunos o contato com problemas do cotidiano, desenvolvendo a capacidade de resolvê-los e de analisar e interpretar as soluções e, ao mesmo tempo, aprender conteúdos matemáticos e estatísticos. A investigação foi operacionalizada, numa abordagem qualitativa, baseada nos dados coletados em entrevistas semi-estruturadas, observações participantes das atividades desenvolvidas com os alunos, relatos dos sujeitos da pesquisa registrados nos Diários de Campo e dos documentos por eles produzidos. Os sujeitos participantes da pesquisa são os alunos que freqüentaram a disciplina de Projeto de Pesquisa e Extensão em Educação Matemática II, que faz parte da matriz curricular do curso de Licenciatura em Matemática. Embasada nos pressupostos teóricos, em reflexões próprias e nos objetivos da pesquisa estabeleceu-se a análise dos dados. Com a análise foi possível perceber mudanças de atitudes durante a investigação e o comprometimento dos alunos com o trabalho desenvolvido. Percebeu-se também que o ambiente de Modelagem Matemática despertou o interesse e a motivação para estudar conteúdos matemáticos e estatísticos contextualizados e a significação desses conteúdos além de desenvolverem habilidades para a investigação e a compreensão do papel sociocultural da matemática.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UFN-1_dce6506fa7d14207d807cb22c48a7f21",
+  "ano_bdtd": 2007,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Universidade Franciscana",
+  "programa_bdtd": "Mestrado Profissionalizante em Ensino de Física e Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UFN-1_dce6506fa7d14207d807cb22c48a7f21",
+    "url": "https://bdtd.ibict.br/vufind/Record/UFN-1_dce6506fa7d14207d807cb22c48a7f21",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/stieler-2007.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/UFN-1_dce6506fa7d14207d807cb22c48a7f21",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/UFN-1_dce6506fa7d14207d807cb22c48a7f21",
+    "confianca": "alta"
+  }
+}

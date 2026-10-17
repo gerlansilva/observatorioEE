@@ -1,0 +1,41 @@
+{
+  "color": {
+    "primary": { "value": "#174B57", "type": "color", "description": "Azul institucional do Observatório EE" },
+    "primary-dark": { "value": "#123B45", "type": "color" },
+    "secondary": { "value": "#2E7D89", "type": "color", "description": "Azul secundário para links e apoios" },
+    "accent": { "value": "#D96A3A", "type": "color", "description": "Laranja da marca; usar com parcimônia" },
+    "surface": { "value": "#FFFFFF", "type": "color" },
+    "canvas": { "value": "#E8F0F1", "type": "color", "description": "Cinza azulado do hero e áreas suaves" },
+    "ink": { "value": "#1D2F34", "type": "color" },
+    "text": { "value": "#4F6266", "type": "color" },
+    "muted": { "value": "#7B8C90", "type": "color" },
+    "border": { "value": "#D9E3E4", "type": "color" }
+  },
+  "font": {
+    "family": { "value": "Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif", "type": "fontFamilies" },
+    "weight-regular": { "value": "400", "type": "fontWeights" },
+    "weight-medium": { "value": "500", "type": "fontWeights" },
+    "weight-bold": { "value": "700", "type": "fontWeights" },
+    "size-body": { "value": "14px", "type": "fontSizes" },
+    "size-small": { "value": "12px", "type": "fontSizes" },
+    "size-h1": { "value": "24px", "type": "fontSizes" },
+    "size-display": { "value": "32px", "type": "fontSizes" }
+  },
+  "spacing": {
+    "2": { "value": "8px", "type": "spacing" },
+    "3": { "value": "12px", "type": "spacing" },
+    "4": { "value": "16px", "type": "spacing" },
+    "6": { "value": "24px", "type": "spacing" },
+    "8": { "value": "32px", "type": "spacing" },
+    "12": { "value": "48px", "type": "spacing" }
+  },
+  "radius": {
+    "none": { "value": "0px", "type": "borderRadius" },
+    "sm": { "value": "2px", "type": "borderRadius" },
+    "md": { "value": "3px", "type": "borderRadius" }
+  },
+  "border": {
+    "hairline": { "value": "1px solid #D9E3E4", "type": "border" },
+    "accent": { "value": "2px solid #174B57", "type": "border" }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "barbosa-2012",
+  "autor": "Maria Beatriz Guimarães Barbosa",
+  "ano": 2012,
+  "tipo": "Tese",
+  "titulo": "Estudando estatística num curso de turismo: literacia, raciocínio e pensamento estatísticos",
+  "instituicao": "Pontifícia Universidade Católica de Minas Gerais",
+  "cidade": "Belo Horizonte",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Dimas Felipe de Miranda",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Doutorado",
+  "conteudo": "Estatística",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Estudando+estat%C3%ADstica+num+curso+de+turismo%3A+literacia%2C+racioc%C3%ADnio+e+pensamento+estat%C3%ADsticos%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estudando+estat%C3%ADstica+num+curso+de+turismo%3A+literacia%2C+racioc%C3%ADnio+e+pensamento+estat%C3%ADsticos&type=AllFields",
+    "texto_completo": "http://bib.pucminas.br/teses/EnCiMat_BarbosaMBG_1.pdf",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_MINS_c7d081b2be74a7e37d98650fb92c5808"
+  },
+  "autor_planilha": "BARBOSA, M. B. G.",
+  "orientador_planilha": "Dimas Miranda",
+  "autor_capes": "Maria Beatriz Guimarães Barbosa",
+  "programa_capes": "Ensino",
+  "instituicao_capes": "Pontifícia Universidade Católica de Minas Gerais",
+  "cidade_capes": "Belo Horizonte",
+  "orientador_capes": "Dimas Felipe de Miranda",
+  "capes": {
+    "status": "ok",
+    "score": 0.966,
+    "id": "20121432008015013P0",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Estatística -; Turismo -; Raciocínio",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.961,
+    "id": "PUC_MINS_c7d081b2be74a7e37d98650fb92c5808",
+    "url": "http://bib.pucminas.br/teses/EnCiMat_BarbosaMBG_1.pdf",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Medidas Estatísticas",
+    "Estatística no Turismo",
+    "Literacia, Raciocínio, e Pensamento Estatísticos",
+    "Estatística -",
+    "Turismo -",
+    "Raciocínio"
+  ],
+  "ano_bdtd": 2012,
+  "tipo_bdtd": "Tese",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_MINS_c7d081b2be74a7e37d98650fb92c5808",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_MINS_c7d081b2be74a7e37d98650fb92c5808",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/barbosa-2012.svg",
+  "resumo": "O objeto desta pesquisa foi o processo de ensino/aprendizagem do tópico de medidas estatísticas numa turma de alunos do Ensino Médio, do curso Técnico em Turismo. Elaborou-se uma Sequência de Atividades planejadas, para os estudantes desenvolverem habilidades de interpretação dessas medidas. A pesquisa, de caráter qualitativo, foi desenvolvida no Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG), na disciplina Matemática Aplicada, onde se estudam tópicos de Estatística em um dos capítulos. As atividades desenvolvidas foram diversificadas e dentro do contexto do mercado de trabalho de técnicos em Turismo. Foram utilizados métodos didáticos, como aulas expositivas, atividades investigativas e uso de software, como BrOffice e Geogebra na construção de tabelas e gráficos. As atividades foram elaboradas com o objetivo de desenvolver, nos alunos, competências nas áreas da Literacia, Raciocínio e Pensamento Estatístico. A pesquisadora, utilizando a metodologia da Observação Participante, analisou o trabalho dos alunos, organizados em grupos, o que proporcionou uma aprendizagem mais efetiva. A última atividade foi um Projeto em que os alunos ficaram responsáveis pela busca dos dados, a construção e interpretação de tabelas e gráficos, cálculos, representação e análise das medidas estatísticas, finalizando com uma apresentação oral e escrita, incluindo as conclusões, para os colegas. O produto dessa dissertação é composto pelo conjunto de Atividades elaboradas para a presente pesquisa.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bib.pucminas.br/teses/EnCiMat_BarbosaMBG_1.pdf",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bib.pucminas.br/teses/EnCiMat_BarbosaMBG_1.pdf",
+    "fonte_palavras": "https://bib.pucminas.br/teses/EnCiMat_BarbosaMBG_1.pdf",
+    "confianca": "alta"
+  }
+}

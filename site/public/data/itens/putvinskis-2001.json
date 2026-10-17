@@ -1,0 +1,84 @@
+{
+  "id": "putvinskis-2001",
+  "autor": "Reinaldo Putvinskis",
+  "ano": 2001,
+  "tipo": "Dissertação",
+  "titulo": "Análise da disciplina \"Estatística\" no curso de administração de empresas",
+  "instituicao": "Fundação Escola de Comércio Álvares Penteado",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Arilda Schimidt Godoy",
+  "programa": "Administração de Empresas",
+  "area": "Administração",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "5",
+  "foco": "Currículo e análise de conteúdo bibliográfico",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "determinar o que está sendo ensinado em estatística nos cursos de administração de empresas da cidade de são paulo",
+  "metodologia": "Apresenta uma análise do currículo dos cursos de administração, procurando identificar como a disciplina de Estatística está sendo tratada no aspecto legal",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22An%C3%A1lise+da+disciplina+%22Estat%C3%ADstica%22+no+curso+de+administra%C3%A7%C3%A3o+de+empresas%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=An%C3%A1lise+da+disciplina+%22Estat%C3%ADstica%22+no+curso+de+administra%C3%A7%C3%A3o+de+empresas&type=AllFields",
+    "texto_completo": "https://tede.fecap.br/bitstream/tede/296/1/Reinaldo_Putvinskis.pdf",
+    "registro_institucional": "https://tede.fecap.br/handle/tede/296",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/FECAP-0_50bb4283732c9968c1319519ce2e1828"
+  },
+  "capes": {
+    "status": "baixa_confianca",
+    "score": 0.481,
+    "candidato": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "PUTVINSKIS, R.",
+  "orientador_planilha": "Arilda Godoy",
+  "instituicao_agente": "Fundação Escola de Comércio Álvares Penteado (FECAP)",
+  "programa_agente": "Mestrado em Administração de Empresas (área de Administração Estratégica)",
+  "enriquecimento_manual": {
+    "fonte": "TEDE/FECAP (registro completo com orientador, banca e citação)",
+    "confianca": "alta",
+    "observacao": "Defesa em 10/12/2001; 118 f. Banca: Arilda Schimidt Godoy (orientadora), Maria do Socorro Taurino e Daniel Augusto Moreira."
+  },
+  "instituicao_planilha": "Fundação Escola de Comércio Álvares Penteado",
+  "programa_planilha": "Administração de Empresas",
+  "tags": [
+    "Administração de empresas - Estudo e ensino (Superior)",
+    "Estatística - Currículos - Planejamento",
+    "Statistics - Curriculum planning"
+  ],
+  "resumo": "O estudo se inicia expondo a evolução do ensino superior e dos cursos de Administração de Empresas no Brasil. Apresenta uma análise dos currículos do curso de Administração, procurando identificar como a disciplina de Estatística está sendo tratada sob o aspecto legal. Examina, também, a proposta das Diretrizes Curriculares, que atualmente encontra-se em fase de análise no Ministério de Educação - MEC para aprovação. A metodologia utilizada neste estudo constituiu na coleta dos planos de ensino das Instituições localizadas na cidade de São Paulo, cujos cursos de Administração são devidamente reconhecidos pelo MEC. Esta coleta resultou em 18 planos entre 35 Instituições consultadas. A análise desses planos levou em consideração todos os tópicos que os mesmos devem conter. Entre os itens avaliados foi verificado que as Instituições não levam em consideração estes tópicos e, entre os conteúdos analisados, estes não se mostram articulados consistentemente, embora estejam compatíveis com os objetivos declarados. Basicamente, os métodos e técnicas de ensino indicados nos planos, são os mesmos em todas as Instituições, ou seja, aulas teóricas expositivas acompanhadas de exercícios de aplicação. Os critérios de avaliação observados nas Instituições consultadas revelaram-se praticamente os mesmos, ou seja, aplicação de provas e listas de exercícios. A bibliografia adotada apresentou-se bastante extensa e com vários títulos esgotados e desatualizados. Acreditamos que um estudo desta natureza pode ser útil tanto para os professores quanto para os administradores escolares. No caso dos docentes, o conhecimento gerado nesse estudo, poderá propiciar uma reflexão visando a melhoria do processo de ensino da Estatística. Quanto aos administradores escolares, uma reflexão sobre o currículo do curso.The purpose of this work is to determine what is being taught in the discipline of Statistic in the Business Administration courses of the city of São Paulo.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/FECAP-0_50bb4283732c9968c1319519ce2e1828",
+  "thumbnail": "./assets/images/thumbs/putvinskis-2001.svg",
+  "palavras_chave_bdtd": "Statistics - Curriculum planning; Business management - Study and teaching (Higher); Administração de empresas - Estudo e ensino (Superior); Estatística - Currículos - Planejamento",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "FECAP-0_50bb4283732c9968c1319519ce2e1828",
+    "url": "https://tede.fecap.br/handle/tede/296",
+    "consultado_em": "2026-10-17"
+  },
+  "ano_bdtd": 2001,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "FECAP - Faculdade Escola de Comércio Álvares Penteado Administração estratégica BR FECAP Mestrado em Administração de Empresas",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "FECAP-0_50bb4283732c9968c1319519ce2e1828",
+    "url": "https://bdtd.ibict.br/vufind/Record/FECAP-0_50bb4283732c9968c1319519ce2e1828",
+    "fonte": "agente"
+  },
+  "pesquisa_agente_links": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/FECAP-0_50bb4283732c9968c1319519ce2e1828 e https://tede.fecap.br/handle/tede/296",
+    "fonte_palavras": "https://tede.fecap.br/handle/tede/296 (dc.subject)",
+    "confianca": "alta"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "pamplona-2009",
+  "autor": "Admur Severino Pamplona",
+  "ano": 2009,
+  "tipo": "Tese",
+  "titulo": "A formação estatistica e pedagogica do professor de matematica em comunidades de pratica",
+  "instituicao": "Universidade Estadual de Campinas",
+  "cidade": "Campinas",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Dione Carvalho",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "8",
+  "nivel": "Indefinido",
+  "foco_codigo": "2",
+  "foco": "Formação inicial/continuada e desenvolvimento profissional de professores",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "Estatística",
+  "problema": "Discutir a aprendizagem-ensino da Estatística na formação do Professor de Matemática, ressaltando as práticas pedagógicas nela envolvidas.",
+  "metodologia": "realizou-se uma pesquisa na qual foi utilizado um instrumento da História Oral, a \"Narrativa Biográfica\", para a recolha de dados. Tais narrativas foram obtidas de professores experientes que têm atuado no ensino de estatística, em cursos de formação de professores de matemática (Licenciatura em Matemática) em universidades paulistas. Como instrumento de análise, utilizou-se a \"Teoria Social da Aprendizagem\", de Wenger, sobre comunidade de prática, a partir da perspectiva histórico-cultural vygotskiana. Para compreender as práticas de formação pedagógicas presentes na formação estatísticas do professor de matemática, tanto alunos como professores foram considerados membros de uma mesma comunidade de prática, já que os sujeitos da pesquisa narraram suas práticas de formação tanto como alunos quanto como professores formadores. Para a análise esteve também presente pelo menos duas conjecturas: uma é \"toda prática de formação estatística tem imbricada uma prática de formação pedagógica\" e outra, surgida a partir dos estudos de Lee Shulman, é \"a formação estatística do professor é diferente da do especialista em estatística\". A diferença reside no fato de que, além de compreender os mesmos conceitos, o professor deve percebê-los como componentes de uma disciplina da grade curricular de um curso de formação profissional do Professor de Matemática, conhecendo a história e o desenvolvimento desses conceitos, da disciplina e da própria profissão.",
+  "contribuicoes": "As conjecturas se confirmaram na análise, cujos resultados permitiram oferecer resposta à questão colocada. \"Quais práticas os professores formadores citaram, desenvolveram ou valorizaram no sentido de evidenciar e fortalecer os nexos entre as práticas de formação estatística e aquelas de formação pedagógica?\" Esta análise levou a respostas tais como: o compartilhamento com os licenciandos dos problemas, das escolhas, dos trajetos, das perspectivas e dos prazeres que fazem parte do exercício da profissão do professor, de modo geral, e do ensino da Estatística, de modo particular; o questionamento das práticas discursivas e não discursivas que apoiam relações desiguais de poder entre práticas de formação matemática/estatística e práticas de formação pedagógica; entre outras. A partir daí, são apresentadas algumas sugestões para a ação do professor formador que visam facilitar/estimular, no licenciando, o discernimento dos múltiplos fazeres e pensares que compõem a prática da profissão Professor de Matemática. Uma dessas práticas pode ser, por exemplo, o uso de diferentes abordagens para a aprendizagem-ensino dos conteúdos estatísticos, acompanhados, a cada vez, da análise de uma questão do tipo: \"Que fatores contribuíram para que essa determinada abordagem fosse empregada para ensinar esse conteúdo?\". Isso se faria tanto como forma de favorecer a imaginação do licenciando a respeito da pertença na comunidade de prática dos professores que ensinam estatística, quanto de aumentar o seu saber a respeito do uso dessas abordagens, levando-os a perceber que não existe uma única abordagem aplicável em todas as situações.",
+  "palavras_chave": "",
+  "referencial": "Wenger: teoria social de aprendizagem; comunidades de prática, a partir da perspectiva histórico-cultural vygotskiana",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+forma%C3%A7%C3%A3o+estatistica+e+pedagogica+do+professor+de+matematica+em+comunidades+de+pratica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+forma%C3%A7%C3%A3o+estatistica+e+pedagogica+do+professor+de+matematica+em+comunidades+de+pratica&type=AllFields",
+    "registro_institucional": "https://hdl.handle.net/20.500.12733/1609883",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_4ceb4c498d133527d48110a0768da888"
+  },
+  "autor_planilha": "PAMPLONA, A. S.",
+  "orientador_planilha": "Dione Carvalho",
+  "autor_capes": "Admur Severino Pamplona",
+  "programa_capes": "Educação",
+  "instituicao_capes": "Universidade Estadual de Campinas",
+  "cidade_capes": "Campinas",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20093323933003017001P2",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Formação de professores; Aprendizagem; Estatística - Estudo e ensino; Educação matemática; Comunidades de prática; Narrativas; Teacher training; Learning; Statistics - Study and teaching; Mathematics education; Communities of practice; Narratives",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "UNICAMP-30_4ceb4c498d133527d48110a0768da888",
+    "url": "https://hdl.handle.net/20.500.12733/1609883",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Formação de professores",
+    "Aprendizagem",
+    "Estatística - Estudo e ensino",
+    "Educação matemática",
+    "Comunidades de prática",
+    "Narrativas",
+    "Narratives"
+  ],
+  "ano_bdtd": 2009,
+  "tipo_bdtd": "Tese",
+  "instituicao_bdtd": "[s.n.]",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UNICAMP-30_4ceb4c498d133527d48110a0768da888",
+    "url": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_4ceb4c498d133527d48110a0768da888",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/pamplona-2009.svg",
+  "resumo": "Neste trabalho discute-se a aprendizagem-ensino da Estatística na formação do Professor de Matemática, ressaltando as práticas pedagógicas nela envolvidas. Para tanto, realizou-se uma pesquisa na qual foi utilizado um instrumento da História Oral, a \"Narrativa Biográfica\", para a recolha de dados. Tais narrativas foram obtidas de professores experientes que têm atuado no ensino de estatística, em cursos de formação de professores de matemática (Licenciatura em Matemática) em universidades paulistas. Como instrumento de análise, utilizou-se a \"Teoria Social da Aprendizagem\", de Wenger, sobre comunidade de prática, a partir da perspectiva histórico-cultural vygotskiana. Para compreender as práticas de formação pedagógicas presentes na formação estatísticas do professor de matemática, tanto alunos como professores foram considerados membros de uma mesma comunidade de prática, já que os sujeitos da pesquisa narraram suas práticas de formação tanto como alunos quanto como professores formadores. Para a análise esteve também presente pelo menos duas conjecturas: uma é \"toda prática de formação estatística tem imbricada uma prática de formação pedagógica\" e outra, surgida a partir dos estudos de Lee Shulman, é \"a formação estatística do professor é diferente da do especialista em estatística\". A diferença reside no fato de que, além de compreender os mesmos conceitos, o professor deve percebê-los como componentes de uma disciplina da grade curricular de um curso de formação profissional do Professor de Matemática, conhecendo a história e o desenvolvimento desses conceitos, da disciplina e da própria profissão. As conjecturas se confirmaram na análise, cujos resultados permitiram oferecer resposta à questão colocada. \"Quais práticas os professores formadores citaram, desenvolveram ou valorizaram no sentido de evidenciar e fortalecer os nexos entre as práticas de formação estatística e aquelas de formação pedagógica?\" Esta análise levou a respostas tais como: o compartilhamento com os licenciandos dos problemas, das escolhas, dos trajetos, das perspectivas e dos prazeres que fazem parte do exercício da profissão do professor, de modo geral, e do ensino da Estatística, de modo particular; o questionamento das práticas discursivas e não discursivas que apoiam relações desiguais de poder entre práticas de formação matemática/estatística e práticas de formação pedagógica; entre outras. A partir daí, são apresentadas algumas sugestões para a ação do professor formador que visam facilitar/estimular, no licenciando, o discernimento dos múltiplos fazeres e pensares que compõem a prática da profissão Professor de Matemática. Uma dessas práticas pode ser, por exemplo, o uso de diferentes abordagens para a aprendizagem-ensino dos conteúdos estatísticos, acompanhados, a cada vez, da análise de uma questão do tipo: \"Que fatores contribuíram para que essa determinada abordagem fosse empregada para ensinar esse conteúdo?\". Isso se faria tanto como forma de favorecer a imaginação do licenciando a respeito da pertença na comunidade de prática dos professores que ensinam estatística, quanto de aumentar o seu saber a respeito do uso dessas abordagens, levando-os a perceber que não existe uma única abordagem aplicável em todas as situações.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_4ceb4c498d133527d48110a0768da888",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_4ceb4c498d133527d48110a0768da888",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_4ceb4c498d133527d48110a0768da888",
+    "confianca": "alta"
+  }
+}

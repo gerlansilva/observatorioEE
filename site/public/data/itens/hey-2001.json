@@ -1,0 +1,79 @@
+{
+  "id": "hey-2001",
+  "autor": "Amaury Ubiratan Borges Hey",
+  "ano": 2001,
+  "tipo": "Dissertação",
+  "titulo": "Uma proposta metodológica para a aprendizagem de estatística – contribuições da engenharia didática",
+  "instituicao": "Universidade Federal de Santa Catarina",
+  "cidade": "Florianópolis",
+  "estado": "Santa Catarina",
+  "regiao": "Sul",
+  "orientador": "Silvana Bernardes Rosa",
+  "programa": "Engenharia de Produção",
+  "area": "Engenharia",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "apresentar uma metodologia de ensino para a disciplina de Gestão da Produção, ramo Estatística, do Curso Superior de Tecnologia em Mecânica do Centro Federal de Educação Tecnológica do Paraná (CEFET-PR) e foi norteado por princípios epistemológicos, didáticos e tecnológicos necessários ao processo de condução da aprendizagem.",
+  "metodologia": "Para testar o funcionamento da metodologia , escolheu-se a fórmula da Distribuição Binomial e a aplicação ocorreu numa turma da disciplina de Gestão da Produção do CEFET-PR. A pesquisa foi analisada pela metodologia da engenharia didática, em três sessões que compõem a metodologia e é caracterizada pelo registro dos estudos feito sobre o entendimento da fórmula da Distribuição Binomial e pela validação. Esta validação da pesquisa é feita sobretudo internamente, prescindindo assim de análises comparativas utilizadas em outras metodologias, pois se baseia numa confrontação entre uma análise a priori e a posteriori.",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "Engenharia didática",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Uma+proposta+metodol%C3%B3gica+para+a+aprendizagem+de+estat%C3%ADstica+%E2%80%93+contribui%C3%A7%C3%B5es+da+engenharia+did%C3%A1tica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma+proposta+metodol%C3%B3gica+para+a+aprendizagem+de+estat%C3%ADstica+%E2%80%93+contribui%C3%A7%C3%B5es+da+engenharia+did%C3%A1tica&type=AllFields",
+    "registro_institucional": "https://repositorio.ufsc.br/handle/123456789/82004",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UFSC_bfe0a21bd08c19525895d0190ca78b20"
+  },
+  "capes": {
+    "status": "baixa_confianca",
+    "score": 0.319,
+    "candidato": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "HEY, A. U. B.",
+  "orientador_planilha": "Silvana Rosa",
+  "instituicao_agente": "Universidade Federal de Santa Catarina (UFSC)",
+  "instituicao_planilha": "Universidade Federal de Santa Catarina",
+  "programa_agente": "Programa de Pós-Graduação em Engenharia de Produção",
+  "programa_planilha": "Engenharia de Produção",
+  "enriquecimento_manual": {
+    "fonte": "Repositório Institucional da UFSC (busca por assunto) e Currículo Lattes de Silvana Bernardes Rosa (via Escavador)",
+    "confianca": "alta",
+    "observacao": "O repositório da UFSC registra 'Hey, Amaury Ubiratan Borges (Florianópolis, SC, 2001)' com o título exato. O Lattes da orientadora confirma: 'Uma Proposta Metodológica para a Aprendizagem de Estatística - Contribuições da Engenharia Didática; 2001; Dissertação (Mestrado em Engenharia de Produção) - UFSC; Orientador: Silvana Bernardes Rosa'. O PDF não pôde ser aberto diretamente por bloqueio de segurança (WAF) do repositório."
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/hey-2001.svg",
+  "palavras_chave_bdtd": "N; ã; o; I; n; f; r; m; a; d; p; e; l; i; s; t; u; ç",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "UFSC_bfe0a21bd08c19525895d0190ca78b20",
+    "url": "http://repositorio.ufsc.br/xmlui/handle/123456789/82004",
+    "consultado_em": "2026-10-17"
+  },
+  "ano_bdtd": 2001,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Florianópolis, SC",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UFSC_bfe0a21bd08c19525895d0190ca78b20",
+    "url": "https://bdtd.ibict.br/vufind/Record/UFSC_bfe0a21bd08c19525895d0190ca78b20",
+    "fonte": "agente"
+  },
+  "pesquisa_agente_links": {
+    "status": "ok",
+    "fonte_resumo": null,
+    "fonte_palavras": null,
+    "confianca": "media"
+  },
+  "resumo": "A pesquisa foi analisada pela metodologia da engenharia didática, em três sessões que compõem a metodologia e é caracterizada pelo registro dos estudos feito sobre o entendimento da fórmula da Distribuição Binomial e pela validação. Esta validação da pesquisa é feita sobretudo internamente, prescindindo assim de análises comparativas utilizadas em outras metodologias, pois se baseia numa confrontação entre uma análise a priori e a posteriori.ii,",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UFSC_bfe0a21bd08c19525895d0190ca78b20"
+}

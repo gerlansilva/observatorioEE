@@ -1,0 +1,79 @@
+{
+  "id": "santos-filho-2010",
+  "autor": "José Walter Santos Filho",
+  "ano": 2010,
+  "tipo": "Dissertação",
+  "titulo": "Jogo eletrônico digital como um objeto de aprendizagem visando a aprendizagem significativa: uma experiência com análise combinatória",
+  "instituicao": "Universidade Federal de Sergipe",
+  "cidade": "São Cristóvão",
+  "estado": "Sergipe",
+  "regiao": "Nordeste",
+  "orientador": "Henrique Schneider",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "3",
+  "foco": "TICs, materiais e recursos didáticos",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Combinatória",
+  "problema": "apresentar a construção e aplicação de um jogo eletrônico educacional na forma de objeto de aprendizagem, visando a aprendizagem significativa de análise combinatória",
+  "metodologia": "atividade aplicada em uma escola de aracaju a 19 alunos do 2º do ensino médio. O trabalho analisa a construção e aplicação de um jogo eletrônico como ferramenta de aprendizagem significativa, segundo os princípios estabelecidos por Ausubel",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "Ausubel: aprendizagem significativa",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Jogo+eletr%C3%B4nico+digital+como+um+objeto+de+aprendizagem+visando+a+aprendizagem+significativa%3A+uma+experi%C3%AAncia+com+an%C3%A1lise+combinat%C3%B3ria%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Jogo+eletr%C3%B4nico+digital+como+um+objeto+de+aprendizagem+visando+a+aprendizagem+significativa%3A+uma+experi%C3%AAncia+com+an%C3%A1lise+combinat%C3%B3ria&type=AllFields",
+    "registro_institucional": "https://ri.ufs.br/handle/riufs/4708",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UFS-2_14a057899321e446040d649406cd3605"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 0.761,
+    "id": "2010727001016003P5",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "SANTOS FILHO, J. W.",
+  "orientador_planilha": "Henrique Schneider",
+  "autor_capes": "José Walter Santos Filho",
+  "programa_capes": "Educação",
+  "instituicao_capes": "Fundação Universidade Federal de Sergipe",
+  "cidade_capes": "São Cristóvão",
+  "palavras_chave_bdtd": "Jogo eletrônico educacional; Aprendizagem significativa; Objeto de aprendizagem",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.764,
+    "id": "UFS-2_14a057899321e446040d649406cd3605",
+    "url": "https://ri.ufs.br/handle/riufs/4708",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Jogo eletrônico educacional",
+    "Aprendizagem significativa",
+    "Objeto de aprendizagem"
+  ],
+  "resumo": "Este trabalho refere-se a uma pesquisa científica que tem por objetivo apresentar a construção e aplicação de um Jogo Eletrônico Educacional na forma de Objeto de Aprendizagem, visando a Aprendizagem Significativa de Análise Combinatória. Para tanto, analisa as potencialidades desta forma de ensinar aplicada em sala de aula. Esta atividade foi aplicada em uma escola pública de Aracaju, a 19 alunos do 2º Ano do Ensino Médio. Ao analisar o Objeto de Aprendizagem desde a sua construção como Jogo Eletrônico Educacional, sua aplicação e a obtenção dos resultados, procura evidenciar se este jogo se configura como ferramenta cognitiva visando a aprendizagem significativa de acordo com a teoria de David P. Ausubel (1968, 2003). Na construção do jogo foi percebida uma variedade de formas de ensino de Análise Combinatória que utilizam a estratégia de resolução de situações-problema, da apresentação de fórmulas e do estímulo ao desenvolvimento do raciocínio combinatório, sendo esta última a forma que foi integrada ao Objeto de Aprendizagem. Foram definidos objetivos de aprendizagem a partir da Taxionomia de Bloom (1973), que ao serem atingidos proporcionaram ganhos aos alunos no seu domínio cognitivo. Ancorado na Teoria da Aprendizagem Significativa de Ausubel, o Jogo Eletrônico Educacional foi construído e aplicado por este pesquisador juntamente com um professor especialista em Matemática. Este artefato utiliza mapas conceituais e animações interativas na forma de Jogo Eletrônico Educacional para sustentar a mediação pedagógica, e pode ser considerado Objeto de Aprendizagem por ser um Software Educacional que entrelaça as funções lúdicas e educacionais na forma de Jogo. Ao final da pesquisa foi constatado que os alunos construíram novos conhecimentos matemáticos ao relembrarem os conceitos, entenderem o significado do princípio multiplicativo, aplicarem, analisarem e avaliarem o raciocínio combinatório e criarem problemas de Análise Combinatória. Configura-se assim este Jogo Eletrônico Educacional na forma de Objeto de Aprendizagem como um organizador prévio dos conhecimentos, funcionando como suporte cognitivo para uma Aprendizagem Significativa.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UFS-2_14a057899321e446040d649406cd3605",
+  "ano_bdtd": 2010,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Universidade Federal de Sergipe",
+  "programa_bdtd": "Pós-Graduação em Educação",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UFS-2_14a057899321e446040d649406cd3605",
+    "url": "https://bdtd.ibict.br/vufind/Record/UFS-2_14a057899321e446040d649406cd3605",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/santos-filho-2010.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/UFS-2_14a057899321e446040d649406cd3605",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/UFS-2_14a057899321e446040d649406cd3605",
+    "confianca": "alta"
+  }
+}

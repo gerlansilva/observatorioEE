@@ -1,0 +1,51 @@
+{
+  "id": "panaino-1998",
+  "autor": "Robinson Panaino",
+  "ano": 1998,
+  "tipo": "Dissertação",
+  "titulo": "Estatística no Ensino Fundamental: uma proposta de inclusão de conteúdos matemáticos",
+  "instituicao": "Universidade Estadual Paulista",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Maria Lucia Lorenzetti Wodewotzki",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "",
+  "foco": "Não informado",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Estat%C3%ADstica+no+Ensino+Fundamental%3A+uma+proposta+de+inclus%C3%A3o+de+conte%C3%BAdos+matem%C3%A1ticos%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estat%C3%ADstica+no+Ensino+Fundamental%3A+uma+proposta+de+inclus%C3%A3o+de+conte%C3%BAdos+matem%C3%A1ticos&type=AllFields"
+  },
+  "autor_planilha": "PANAINO, R.",
+  "orientador_planilha": "",
+  "autor_capes": "ROBINSON PANAINO",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Universidade Estadual Paulista Júlio de Mesquita Filho (sede",
+  "cidade_capes": "São Paulo",
+  "orientador_capes": "Maria Lucia Lorenzetti Wodewotzki",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "19985033004137031P7",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.487
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/panaino-1998.svg"
+}

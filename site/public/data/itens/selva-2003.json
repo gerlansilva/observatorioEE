@@ -1,0 +1,72 @@
+{
+  "id": "selva-2003",
+  "autor": "Ana Coelho Vieira Selva",
+  "ano": 2003,
+  "tipo": "Tese",
+  "titulo": "Gráficos de barras e materiais manipulativos: analisando dificuldades e contribuições de diferentes representações no desenvolvimento da conceitualização matemática em crianças de seis a oito anos",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "Recife",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Jorge Tarcisio da Rocha Falcão",
+  "programa": "Educação Matemática e Tecnológica",
+  "area": "Educação Matemática",
+  "nivel_codigo": "9",
+  "nivel": "Educação Infantil e Fundamental (anos iniciais)",
+  "foco_codigo": "3",
+  "foco": "TICs, materiais e recursos didáticos",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "Estatística",
+  "problema": "O objetivo desse trabalho foi investigar o uso de gráficos de barras como suporte \nrepresentacional na resolução de problemas aditivos e as dificuldades surgidas na \ninterpretação e construção dessa representação. Também, estávamos interessados em \navaliar se a combinação entre a representação gráfica e o uso de material manipulativo \npoderia auxiliar crianças a resolverem problemas aditivos envolvendo gráficos.",
+  "metodologia": "Dois estudos foram realizados. No primeiro estudo, 24 crianças pré-escolares \ncom idades entre seis e sete anos resolveram problemas aditivos com blocos e depois \ncom gráficos. Eles participaram de uma seqüência de atividades que tinha como \nobjetivo ajudá-los a lidar com algumas dificuldades relacionadas à representação \ngráfica. As crianças trabalharam em pares. Os resultados obtidos confirmaram estudos \nanteriores que mostraram dificuldades por parte das crianças em lidar com alguns \nconceitos matemáticos relacionados à construção e interpretação de gráficos. Entretanto, \nnossos dados também mostraram que tais dificuldades podem ser superadas a partir de \natividades que colocam em relevância o problema em questão. \nOs participantes do segundo estudo foram 57 crianças da alfabetização e \nprimeira série, com idades entre seis e oito anos. Comparamos duas metodologias para \ntrabalhar com gráficos, combinados com problemas verbais e blocos ou não. As \ncrianças foram distribuídas em tre grupos: bloco-gráfico, gráfico e controle. O grupo \nbloco-gráfico resolveu problemas apresentados através de gráficos de barras e de \nproblemas verbais com blocos de encaixe. O grupo gráfico resolveu a mesma série de \nproblemas, entretanto, todos os problemas foram apresentados através de gráficos. O \ngrupo controle resolveu o mesmo número de questões que os outros grupos, mas \nsomente foi apresentado a eles contas de adição e subtração. Os dados mostraram, após \na intervenção, melhores desempenhos de ambos grupos experimentais em relação ao \ngrupo controle. Entretanto, após oito semanas, apenas o grupo bloco-gráfico mostrou \num desempenho significativamente superior em relação ao grupo controle. Refinando-se \nessa análise, constatamos que a queda observada no grupo gráfico ocorreu \nespecificamente na série da alfabetização.",
+  "contribuicoes": "De modo geral, ambos estudos realizados mostraram que a combinação entre \ngráficos de barras e problemas verbais com blocos pode ser um caminho promissor para \no trabalho com gráficos, especialmente com crianças pequenas. Esta combinação \nparece auxiliar as crianças a relacionarem a representação gráfica com estratégias mais \nfamiliares de resolução de problemas",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Gr%C3%A1ficos+de+barras+e+materiais+manipulativos%3A+analisando+dificuldades+e+contribui%C3%A7%C3%B5es+de+diferentes+representa%C3%A7%C3%B5es+no+desenvolvimento+da+conceitualiza%C3%A7%C3%A3o+matem%C3%A1tica+em+crian%C3%A7as+de+seis+a+oito+anos%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Gr%C3%A1ficos+de+barras+e+materiais+manipulativos%3A+analisando+dificuldades+e+contribui%C3%A7%C3%B5es+de+diferentes+representa%C3%A7%C3%B5es+no+desenvolvimento+da+conceitualiza%C3%A7%C3%A3o+matem%C3%A1tica+em+crian%C3%A7as+de+seis+a+oito+anos&type=AllFields",
+    "registro_institucional": "https://repositorio.ufpe.br/handle/123456789/8190",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UFPE_7ddf330935bf8e409a3ecba7e687e146"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 0.998,
+    "id": "20039525001019018P7",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "SELVA, A. C. V.",
+  "orientador_planilha": "",
+  "autor_capes": "Ana Coelho Vieira Selva",
+  "programa_capes": "Psicologia (psicologia Cognitiva)",
+  "instituicao_capes": "Universidade Federal de Pernambuco",
+  "cidade_capes": "Recife",
+  "palavras_chave_bdtd": "Gráficos de barras; Problemas aditivos",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.798,
+    "id": "UFPE_7ddf330935bf8e409a3ecba7e687e146",
+    "url": "https://repositorio.ufpe.br/handle/123456789/8190",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Gráficos de barras",
+    "Problemas aditivos"
+  ],
+  "resumo": "O objetivo desse trabalho foi investigar o uso de gráficos de barras como suporte representacional na resolução de problemas aditivos e as dificuldades surgidas na interpretação e construção dessa representação. Também, estávamos interessados em avaliar se a combinação entre a representação gráfica e o uso de material manipulativo poderia auxiliar crianças a resolverem problemas aditivos envolvendo gráficos. Dois estudos foram realizados. No primeiro estudo, 24 crianças pré-escolares com idades entre seis e sete anos resolveram problemas aditivos com blocos e depois com gráficos. Eles participaram de uma seqüência de atividades que tinha como objetivo ajudá-los a lidar com algumas dificuldades relacionadas à representação gráfica. As crianças trabalharam em pares. Os resultados obtidos confirmaram estudos anteriores que mostraram dificuldades por parte das crianças em lidar com alguns conceitos matemáticos relacionados à construção e interpretação de gráficos. Entretanto, nossos dados também mostraram que tais dificuldades podem ser superadas a partir de atividades que colocam em relevância o problema em questão. Os participantes do segundo estudo foram 57 crianças da alfabetização e primeira série, com idades entre seis e oito anos. Comparamos duas metodologias para trabalhar com gráficos, combinados com problemas verbais e blocos ou não. As crianças foram distribuídas em tre grupos: bloco-gráfico, gráfico e controle. O grupo bloco-gráfico resolveu problemas apresentados através de gráficos de barras e de problemas verbais com blocos de encaixe. O grupo gráfico resolveu a mesma série de problemas, entretanto, todos os problemas foram apresentados através de gráficos. O grupo controle resolveu o mesmo número de questões que os outros grupos, mas somente foi apresentado a eles contas de adição e subtração. Os dados mostraram, após a intervenção, melhores desempenhos de ambos grupos experimentais em relação ao grupo controle. Entretanto, após oito semanas, apenas o grupo bloco-gráfico mostrou um desempenho significativamente superior em relação ao grupo controle. Refinando-se essa análise, constatamos que a queda observada no grupo gráfico ocorreu especificamente na série da alfabetização. De modo geral, ambos estudos realizados mostraram que a combinação entre gráficos de barras e problemas verbais com blocos pode ser um caminho promissor para o trabalho com gráficos, especialmente com crianças pequenas. Esta combinação parece auxiliar as crianças a relacionarem a representação gráfica com estratégias mais familiares de resolução de problemasUniversidade Federal de PernambucoporUniversidade Federal de PernambucoAttribution-NonCommercial-NoDerivs 3.0 Brazil",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UFPE_7ddf330935bf8e409a3ecba7e687e146",
+  "ano_bdtd": 2003,
+  "tipo_bdtd": "Tese",
+  "instituicao_bdtd": "Universidade Federal de Pernambuco",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UFPE_7ddf330935bf8e409a3ecba7e687e146",
+    "url": "https://bdtd.ibict.br/vufind/Record/UFPE_7ddf330935bf8e409a3ecba7e687e146",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/selva-2003.svg"
+}

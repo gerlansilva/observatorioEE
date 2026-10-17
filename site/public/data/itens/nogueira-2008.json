@@ -1,0 +1,71 @@
+{
+  "id": "nogueira-2008",
+  "autor": "Samantha de Oliveira Nogueira",
+  "ano": 2008,
+  "tipo": "Dissertação",
+  "titulo": "ENADE: Análise de itens de formação geral e de estatística pela TRI",
+  "instituicao": "Universidade São Francisco",
+  "cidade": "Itatiba",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Claudette Vendramini",
+  "programa": "Psicologia",
+  "area": "Psicologia",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "9",
+  "foco": "Avaliação",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "o estudo objetivou \naplicar a Teoria de Resposta ao Item para avaliar as questões de formação geral da prova do \nENADE, em especial aquelas que envolvem conceitos estatísticos, visando estimar a \nproficiência dos estudantes nos conteúdos avaliados e o ajuste dos itens ao modelo de \nRasch.",
+  "metodologia": "Foram utilizados dois bancos de dados contendo informações acadêmicas de \n403.512 estudantes submetidos ao ENADE em 2004 e 2005. Em seguida, foi aplicada a TRI",
+  "contribuicoes": "Os resultados indicam que as \nprovas se ajustam ao modelo de Rasch, tendo a análise residual demonstrado uma baixa \nfreqüência de resultados inesperados de padrões de erros e acertos. As questões objetivas da \nprova de 2004 apresentam parâmetros de dificuldade mais altos, exigindo maior habilidade \ndo estudante para que haja a probabilidade de acerto. As questões discursivas de 2004 e \n2005 apresentam parâmetros de dificuldade mais baixos, embora não sejam equiparáveis. \nForam encontradas diferenças significativas entre gênero e carreiras em Estatística. As \nlimitações deste estudo sugerem a realização de outros no âmbito acadêmico.",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ENADE%3A+An%C3%A1lise+de+itens+de+forma%C3%A7%C3%A3o+geral+e+de+estat%C3%ADstica+pela+TRI%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENADE%3A+An%C3%A1lise+de+itens+de+forma%C3%A7%C3%A3o+geral+e+de+estat%C3%ADstica+pela+TRI&type=AllFields",
+    "texto_completo": "https://www.usf.edu.br/galeria/getImage/385/6974541869235604.pdf",
+    "registro_institucional": "https://www.usf.edu.br/galeria/getImage/385/6974541869235604.pdf"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "2008533050015005P8",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "NOGUEIRA, S. O.",
+  "orientador_planilha": "Claudette Vendramini",
+  "autor_capes": "Samantha de Oliveira Nogueira",
+  "programa_capes": "Psicologia",
+  "instituicao_capes": "Universidade São Francisco",
+  "cidade_capes": "Bragança Paulista",
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.4
+  },
+  "tags": [
+    "Psicometria",
+    "Habilidade",
+    "Inteligência",
+    "Educação Superior"
+  ],
+  "enriquecimento_manual": {
+    "fonte": "USF – lista oficial de dissertações",
+    "confianca": "alta",
+    "observacao": "Título e autora conferem."
+  },
+  "thumbnail": "./assets/images/thumbs/nogueira-2008.svg",
+  "resumo": "Nogueira, S. O. (2008). ENADE: Análise de Itens de Formação Geral e de Estatística pela TRI. Dissertação de Mestrado, Programa de Pós Graduação Stricto Sensu em Psicologia, da Universidade São Francisco, Itatiba, SP. A prova de Formação Geral do Exame Nacional de Desempenho dos Estudantes – ENADE, se propõe a avaliar a aquisição de competências, o desenvolvimento de habilidades e os conhecimentos considerados essenciais na formação geral do universitário, sendo a Estatística parte integrante deste repertório de conhecimentos. Tendo em vista a contribuição do construto inteligência no desempenho acadêmico, o estudo objetivou aplicar a Teoria de Resposta ao Item para avaliar as questões de formação geral da prova do ENADE, em especial aquelas que envolvem conceitos estatísticos, visando estimar a proficiência dos estudantes nos conteúdos avaliados e o ajuste dos itens ao modelo de Rasch. Foram utilizados dois bancos de dados contendo informações acadêmicas de 403.512 estudantes submetidos ao ENADE em 2004 e 2005. Os resultados indicam que as provas se ajustam ao modelo de Rasch, tendo a análise residual demonstrado uma baixa freqüência de resultados inesperados de padrões de erros e acertos. As questões objetivas da prova de 2004 apresentam parâmetros de dificuldade mais altos, exigindo maior habilidade do estudante para que haja a probabilidade de acerto. As questões discursivas de 2004 e 2005 apresentam parâmetros de dificuldade mais baixos, embora não sejam equiparáveis. Foram encontradas diferenças significativas entre gênero e carreiras em Estatística. As limitações deste estudo sugerem a realização de outros no âmbito acadêmico.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://www.usf.edu.br/galeria/getImage/385/6974541869235604.pdf",
+  "pesquisa_agente_links": {
+    "status": "ok",
+    "fonte_resumo": "https://www.usf.edu.br/galeria/getImage/385/6974541869235604.pdf",
+    "fonte_palavras": "https://www.usf.edu.br/galeria/getImage/385/6974541869235604.pdf (secao RESUMO)",
+    "confianca": "alta"
+  }
+}

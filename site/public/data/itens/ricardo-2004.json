@@ -1,0 +1,80 @@
+{
+  "id": "ricardo-2004",
+  "autor": "Vilson Wronscki Ricardo",
+  "ano": 2004,
+  "tipo": "Dissertação",
+  "titulo": "Metodologia de gerenciamento de base de dados para ensino-aprendizagem de estatística na web",
+  "instituicao": "Universidade Federal de Santa Catarina",
+  "cidade": "",
+  "estado": "Santa Catarina",
+  "regiao": "Sul",
+  "orientador": "Silvia Modesto Nassar",
+  "programa": "Ciências da Computação",
+  "area": "Computação",
+  "nivel_codigo": "8",
+  "nivel": "Indefinido",
+  "foco_codigo": "3",
+  "foco": "TICs, materiais e recursos didáticos",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "desenvolver uma \nmetodologia de gerenciamento de base de dados que permita ao usuário alterar suas \npróprias bases de dados e em tempo real.",
+  "metodologia": "criou-se uma interface gráfica \npara a apresentação dos dados aos usuários que disponibiliza recursos como importação \ne exportação de dados, operações para definição de novas variáveis e transformações \npor meio de funções embutidas na linguagem SQL. Tendo em vista a sua aplicação em \nprocedimentos de análise estatística de dados destacam-se entre essas funções de \ntransformação: a função inversa, exponencial, raiz quadrada, logarítmica e a \npadronização pela normal. Considerando ainda que as operações são realizadas em \ntempo real, foi desenvolvido um módulo de matrícula para cadastro de usuários. \nO ambiente de ensino-aprendizagem que a metodologia foi testada é o SEstatNet \n(Sistema Especialista para Apoio ao Ensino de Estatística) e com ela o software apoiará \na aprendizagem de estatística via Web, trabalhando simultaneamente com diferentes \nusuários, que possuem diferentes bases de dados e realizam diferentes análises \nestatísticas.",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "desenvolvimento de uma ferramenta de educação a distância",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Metodologia+de+gerenciamento+de+base+de+dados+para+ensino-aprendizagem+de+estat%C3%ADstica+na+web%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Metodologia+de+gerenciamento+de+base+de+dados+para+ensino-aprendizagem+de+estat%C3%ADstica+na+web&type=AllFields",
+    "registro_institucional": "http://repositorio.ufsc.br/xmlui/handle/123456789/87270",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UFSC_73d6cde7d97e9ceb7ebbfe5099412aba"
+  },
+  "autor_planilha": "RICARDO, V. W.",
+  "orientador_planilha": "",
+  "autor_capes": "Vilson Wronscki Ricardo",
+  "programa_capes": "Ciências da Computação",
+  "instituicao_capes": "Universidade Federal de Santa Catarina",
+  "cidade_capes": "Florianópolis",
+  "orientador_capes": "Silvia Modesto Nassar",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "200477941001010025P2",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "N; ã; o; I; n; f; r; m; a; d; p; e; l; i; s; t; u; ç",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "UFSC_73d6cde7d97e9ceb7ebbfe5099412aba",
+    "url": "http://repositorio.ufsc.br/xmlui/handle/123456789/87270",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Banco de dados",
+    "Educação à distância",
+    "Análise Estatística"
+  ],
+  "ano_bdtd": 2004,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Florianópolis, SC",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UFSC_73d6cde7d97e9ceb7ebbfe5099412aba",
+    "url": "https://bdtd.ibict.br/vufind/Record/UFSC_73d6cde7d97e9ceb7ebbfe5099412aba",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/ricardo-2004.svg",
+  "resumo": "Um dos meios de comunicação mais emergentes atualmente é a Web, que se torna a cada dia mais comum e acessível. E o ensino à distância é uma dos segmentos que mais cresce na Internet. Hoje existem incontáveis cursos disponíveis e ambientes para a sua criação. Todo o controle e administração dos cursos on-line são feitos com o uso de Banco de Dados. Uma característica muito comum nos softwares que utilizam banco de dados é a situação em que o usuário final só pode realizar recuperações. As atualizações com novas informações são limitadas a especialistas do domínio do banco de dados, que supervisionam e analisam os novos dados que estão sendo inseridos. O desafio computacional é mudar essas características. Em torno dessa idéia surge o objetivo do trabalho que é desenvolver uma metodologia de gerenciamento de base de dados que permita ao usuário alterar suas próprias bases de dados e em tempo real. Dessa forma criou-se uma interface gráfica para a apresentação dos dados aos usuários que disponibiliza recursos como importação e exportação de dados, operações para definição de novas variáveis e transformações por meio de funções embutidas na linguagem SQL. Tendo em vista a sua aplicação em procedimentos de análise estatística de dados destacam-se entre essas funções de transformação: a função inversa, exponencial, raiz quadrada, logarítmica e a padronização pela normal. Considerando ainda que as operações são realizadas em tempo real, foi desenvolvido um módulo de matrícula para cadastro de usuários. O ambiente de ensino-aprendizagem que a metodologia foi testada é o SEstatNet (Sistema Especialista para Apoio ao Ensino de Estatística) e com ela o software apoiará a aprendizagem de estatística via Web, trabalhando simultaneamente com diferentes usuários, que possuem diferentes bases de dados e realizam diferentes análises estatísticas. A aplicação dessa metodologia resolveu o grande problema de acesso à base de dados que existia nas versões anteriores do SEstatNet, tornando o processo de ensino-aprendizagem de estatística mais dinâmico e eficaz.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "http://repositorio.ufsc.br/bitstream/handle/123456789/87270/221030.pdf",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "http://repositorio.ufsc.br/bitstream/handle/123456789/87270/221030.pdf",
+    "fonte_palavras": "http://repositorio.ufsc.br/bitstream/handle/123456789/87270/221030.pdf",
+    "confianca": "alta"
+  }
+}

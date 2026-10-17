@@ -1,0 +1,74 @@
+[
+  {
+    "id": "becegato-1999",
+    "titulo": "Uma proposta de trabalho da estatística nos ensinos infantil e fundamental",
+    "autor": "BECEGATO, R. C. G. B.",
+    "ano": 1999,
+    "instituicao": "Universidade do Oeste Paulista",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "cavalcanti-2010",
+    "titulo": "Educação estatística: saberes de adultos e crianças em início de escolariação",
+    "autor": "CAVALCANTI, M. R. G.",
+    "ano": 2010,
+    "instituicao": "Universidade Federal de Pernambuco",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "ferreira-2004",
+    "titulo": "Investigando uma metodologia de trabalho para a aprendizagem de estatística",
+    "autor": "FERREIRA, J. Z.",
+    "ano": 2004,
+    "instituicao": "Universidade do Estado de Santa Catarina",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "fujii-2006",
+    "titulo": "Modelagem e sequenciamento de objetos de aprendizagem de estatística",
+    "autor": "FUJII, N. P. N.",
+    "ano": 2006,
+    "instituicao": "Universidade Cruzeiro do Sul",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "lopes-1988",
+    "titulo": "A Estatística e sua história: Uma contribuição para o ensino da Estatística aplicada a educação",
+    "autor": "LOPES, A. E. C. O.",
+    "ano": 1988,
+    "instituicao": "Pontifícia Universidade Católica de São Paulo",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "petta-2001",
+    "titulo": "Tecnologia aplicada ao processo de ensino-aprendizagem de estatística na graduação",
+    "autor": "PETTA, J. H. S.",
+    "ano": 2001,
+    "instituicao": "Universidade Bandeirantes de São Paulo",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "rodrigues-2008",
+    "titulo": "Uma proposta interdisciplinar para o ensino de estatística no curso de pedagogia",
+    "autor": "RODRIGUES, G. M.",
+    "ano": 2008,
+    "instituicao": "Universidade Federal de Pernambuco",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "sganzerla-1984",
+    "titulo": "Contribuição dos bachareis em estatística , egressos da universidade federal do paraná, ao aprimoramento do currículo do curso",
+    "autor": "SGANZERLA, N. M. Z.",
+    "ano": 1984,
+    "instituicao": "Universidade Federal do Paraná",
+    "tipo": "Dissertação"
+  },
+  {
+    "id": "tonouti-2011",
+    "titulo": "Estudo sobre probabilidade e risco no ensino fundamental I",
+    "autor": "TONOUTI, R. R.",
+    "ano": 2011,
+    "instituicao": "Universidade Bandeirantes de São Paulo",
+    "tipo": "Dissertação"
+  }
+]

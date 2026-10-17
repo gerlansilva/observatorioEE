@@ -1,0 +1,79 @@
+{
+  "id": "veras-2010",
+  "autor": "Claudio Monteiro Veras",
+  "ano": 2010,
+  "tipo": "Dissertação",
+  "titulo": "A estatística nas séries iniciais: uma experiência de formação com um grupo colaborativo com professores polivalentes",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Sandra Maria Pinto Magina",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino de Matemática",
+  "nivel_codigo": "2",
+  "nivel": "Ensino Fundamental – anos iniciais",
+  "foco_codigo": "2",
+  "foco": "Formação inicial/continuada e desenvolvimento profissional de professores",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Estatística",
+  "problema": "investigar a compreensão de um grupo de\nprofessores polivalentes em um grupo colaborativo, que ensinam matemática nas\nséries iniciais, em relação às atividades de Estatística, considerando a\nOrganização Praxeológica e especificamente as compreensões que esses\nprofessores apresentam em relação à construção e leitura de gráficos e tabelas\nconsiderando os níveis propostos por Curcio e Wainer. Com a finalidade de\nresponder a seguinte questão de pesquisa “Quais as contribuições que uma\nformação, dentro de um grupo colaborativo, traz para a formação de um grupo de\nprofessores polivalentes?”",
+  "metodologia": "desenvolvemos uma pesquisa, na qual\ncontou com 16 professores polivalentes na qual participaram de um grupo\ncolaborativo. Os dados coletados foram em cinco encontros, na qual quatro foram\ntrabalhados situações-problemas envolvendo leitura e construção de gráficos e\ntabelas e um encontro aplicação de um questionário final para diagnosticar como\nfoi nossa formação no grupo colaborativo.",
+  "contribuicoes": "Essa análise mostrou um desempenho\nsignificativo por parte desses professores no que diz respeito à leitura e\nconstrução de gráficos e tabelas, segundo os níveis propostos por Curcio e\nWainer, desse modo verificamos que o grupo colaborativo foi eficiente para a\nformação desse grupo de professores.",
+  "palavras_chave": "",
+  "referencial": "níveis de compreensão gráfica de Curcio e Wainer; Organização praxeológica",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+estat%C3%ADstica+nas+s%C3%A9ries+iniciais%3A+uma+experi%C3%AAncia+de+forma%C3%A7%C3%A3o+com+um+grupo+colaborativo+com+professores+polivalentes%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+estat%C3%ADstica+nas+s%C3%A9ries+iniciais%3A+uma+experi%C3%AAncia+de+forma%C3%A7%C3%A3o+com+um+grupo+colaborativo+com+professores+polivalentes&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/11462",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_d6cfd12dae357ad6843205d321cccbcb"
+  },
+  "autor_planilha": "VERAS, C. M.",
+  "orientador_planilha": "Sandra Magina",
+  "autor_capes": "CLAUDIO MONTEIRO VERAS",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "orientador_capes": "Sandra Maria Pinto Magina",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "2010833005010030P9",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Formação de professores; Leitura e interpretação de gráficos e tabelas",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "PUC_SP-1_d6cfd12dae357ad6843205d321cccbcb",
+    "url": "https://tede2.pucsp.br/handle/handle/11462",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Formação de professores",
+    "Leitura e interpretação de gráficos e tabelas"
+  ],
+  "resumo": "O objetivo desta pesquisa é investigar a compreensão de um grupo de professores polivalentes em um grupo colaborativo, que ensinam matemática nas séries iniciais, em relação às atividades de Estatística, considerando a Organização Praxeológica e especificamente as compreensões que esses professores apresentam em relação à construção e leitura de gráficos e tabelas considerando os níveis propostos por Curcio e Wainer. Com a finalidade de responder a seguinte questão de pesquisa Quais as contribuições que uma formação, dentro de um grupo colaborativo, traz para a formação de um grupo de professores polivalentes? Para tanto, desenvolvemos uma pesquisa, na qual contou com 16 professores polivalentes na qual participaram de um grupo colaborativo. Os dados coletados foram em cinco encontros, na qual quatro foram trabalhados situações-problemas envolvendo leitura e construção de gráficos e tabelas e um encontro aplicação de um questionário final para diagnosticar como foi nossa formação no grupo colaborativo. Essa análise mostrou um desempenho significativo por parte desses professores no que diz respeito à leitura e construção de gráficos e tabelas, segundo os níveis propostos por Curcio e Wainer, desse modo verificamos que o grupo colaborativo foi eficiente para a formação desse grupo de professores",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_d6cfd12dae357ad6843205d321cccbcb/Details",
+  "ano_bdtd": 2010,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_d6cfd12dae357ad6843205d321cccbcb",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_d6cfd12dae357ad6843205d321cccbcb",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/veras-2010.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_d6cfd12dae357ad6843205d321cccbcb/Details",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_d6cfd12dae357ad6843205d321cccbcb/Details",
+    "confianca": "alta"
+  }
+}

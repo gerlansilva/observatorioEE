@@ -1,0 +1,51 @@
+{
+  "id": "oliveira-2005",
+  "autor": "Elaine Ewert de Oliveira",
+  "ano": 2005,
+  "tipo": "Dissertação",
+  "titulo": "O currículo de matemática no ensino fundamental e a estatística: relações e possibilidades",
+  "instituicao": "Universidade Federal de Santa Maria",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Beatriz Salemme Correa Cortela",
+  "programa": "Educação, Administração e Comunicação",
+  "area": "Administração",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "",
+  "foco": "Não informado",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O+curr%C3%ADculo+de+matem%C3%A1tica+no+ensino+fundamental+e+a+estat%C3%ADstica%3A+rela%C3%A7%C3%B5es+e+possibilidades%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+curr%C3%ADculo+de+matem%C3%A1tica+no+ensino+fundamental+e+a+estat%C3%ADstica%3A+rela%C3%A7%C3%B5es+e+possibilidades&type=AllFields"
+  },
+  "autor_planilha": "OLIVEIRA, E. E.",
+  "orientador_planilha": "",
+  "autor_capes": "ELAINE EWERT DE OLIVEIRA",
+  "programa_capes": "Educação, Administração e Comunicação",
+  "instituicao_capes": "Universidade São Marcos",
+  "cidade_capes": "São Paulo",
+  "orientador_capes": "Beatriz Salemme Correa Cortela",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20056633049017003P0",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.545
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/oliveira-2005.svg"
+}

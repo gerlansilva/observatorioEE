@@ -1,0 +1,51 @@
+{
+  "id": "lemos-2002",
+  "autor": "Maria Patrícia Freitas Lemos",
+  "ano": 2002,
+  "tipo": "Dissertação",
+  "titulo": "Professorandos analisando atividades de interpretação de gráficos de barra",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "Recife",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Verônica Gitirana Gomes Ferreira",
+  "programa": "Educação Matemática e Tecnológica",
+  "area": "Educação Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "2",
+  "foco": "Formação inicial/continuada e desenvolvimento profissional de professores",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "Este trabalho objetiva verificar como a análise, a priori, de atividades, realizada \npelos próprios professorandos dos 10 e 20 ciclos do Ensino Fundamental \ncontribui para sua formação didática e conceitual quanto à interpretação de \ngráficos de barra e de coluna.",
+  "metodologia": "Tendo em vista ser este um estudo exploratório, \nescolhemos fazer um estudo de caso, a fim de desenvolver uma investigação \nque propicie elementos sobre esse tipo de atividade para a formação de \nprofessores. Participaram da pesquisa quatro sujeitos, alunos do Curso de \nPedagogia de uma universidade particular (2 sujeitos) e de uma pública (2 \nsujeitos), que estavam ou já tinham cursado a disciplina Metodologia do Ensino \nda Matemática. O procedimento de coleta dos dados baseou-se numa \nmetodologia qualitativa e foi composta de sete etapas: (1) aplicação do pré-teste sobre interpretação de gráficos e questionário de caracterização dos \nsujeitos; (2) fundamentação estatística em gráficos de barras; (3) \nfundamentação didática sobre as dificuldades de alunos em interpretarem \ngráficos de barra; (4) desenvolvimento pelo professorando de análise· a priori \nde 3 atividades: interpretação de gráfico de barra nominal, ordinal e múltiplo; \n(5) aplicação do pós-teste.",
+  "contribuicoes": "Os resultados mostraram uma evolução do \nconhecimento conceitual dos sujeitos sobre gráficos de barras com variável \nnominal, ordinal e múltiplo, quando comparamos os pré e pós-testes. \nObservou-se, ainda, que as estratégias utilizadas, conhecimentos, objetivos e \nmudança dos problemas elaborados pelos sujeitos, mudavam de acordo com o \nnível de dificuldade de cada questão. O processo de análises a priori se \nconfigurou como um instrumento significativamente eficaz na identificação de \ndefeitos na elaboração de uma questão e na formação conceitual e didático-metodológica dos sujeitos. Apesar disso, a unicidade da estratégia que leva ao \nacerto não foi modificada. Ao explicitar novas estratégias, o professorando \napresenta apenas as que levam a erros.",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Professorandos+analisando+atividades+de+interpreta%C3%A7%C3%A3o+de+gr%C3%A1ficos+de+barra%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Professorandos+analisando+atividades+de+interpreta%C3%A7%C3%A3o+de+gr%C3%A1ficos+de+barra&type=AllFields"
+  },
+  "autor_planilha": "LEMOS, M. P. F.",
+  "orientador_planilha": "Verônica Ferreira",
+  "autor_capes": "MARIA PATRÍCIA FREITAS LEMOS",
+  "programa_capes": "Educação",
+  "instituicao_capes": "Universidade Federal de Pernambuco",
+  "cidade_capes": "Recife",
+  "orientador_capes": "Verônica Gitirana Gomes Ferreira",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "200214025001019001P7",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.413
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/lemos-2002.svg"
+}

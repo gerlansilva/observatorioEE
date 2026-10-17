@@ -1,0 +1,71 @@
+{
+  "id": "oliveira-2006",
+  "autor": "Paulo Iorque Freitas de Oliveira",
+  "ano": 2006,
+  "tipo": "Dissertação",
+  "titulo": "A estatística e a probabilidade nos livros didáticos de matemática do ensino médio",
+  "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Lorí Viali",
+  "programa": "Educação em Ciências e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "4",
+  "nivel": "Ensino Médio",
+  "foco_codigo": "5",
+  "foco": "Currículo e análise de conteúdo bibliográfico",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Probabilidade e Estatística",
+  "problema": "Realizar uma análise qualitativa e quantitativa de conteúdos de probabilidade e estatística de uma amostra de livros didáticos de matemática destinados ao ensino médio, editados entre 1992 e 2005",
+  "metodologia": "Análise bibliográfica de livros didáticos",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+estat%C3%ADstica+e+a+probabilidade+nos+livros+did%C3%A1ticos+de+matem%C3%A1tica+do+ensino+m%C3%A9dio%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+estat%C3%ADstica+e+a+probabilidade+nos+livros+did%C3%A1ticos+de+matem%C3%A1tica+do+ensino+m%C3%A9dio&type=AllFields",
+    "registro_institucional": "http://tede2.pucrs.br/tede2/handle/tede/3352",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/P_RS_fdf69fd82b1118bf28e60e244f5694dc"
+  },
+  "autor_planilha": "OLIVEIRA, P. I. F",
+  "orientador_planilha": "Lorí Viali",
+  "autor_capes": "Paulo Iorque Freitas de Oliveira",
+  "programa_capes": "Educação Em Ciências e Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica do Rio Grande do Sul",
+  "cidade_capes": "Porto Alegre",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20062142005019026P3",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "MATEMÁTICA - ENSINO MÉDIO; LIVROS DIDÁTICOS",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "P_RS_fdf69fd82b1118bf28e60e244f5694dc",
+    "url": "http://tede2.pucrs.br/tede2/handle/tede/3352",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "LIVROS DIDÁTICOS"
+  ],
+  "resumo": "Este estudo apresenta-se como a análise qualitativa e quantitativa dos conteúdos de Probabilidade e Estatística de uma amostra de livros didáticos de Matemática destinados ao Ensino Médio, editados entre 1992 e 2005. A importância da pesquisa decorre da discussão de uma visão curricular na qual o livro didático constitui-se como um recurso fundamental, tanto para os alunos que o utilizam, quanto para os professores que, na maioria das vezes, o tomam como base para sua atuação docente. A percepção de que Probabilidade e Estatística são temas que não recebem tratamento relevante nos livros didáticos do Ensino Médio, apesar de sua aplicabilidade no dia-a-dia dos estudantes e de permitirem fácil relacionamento com outras disciplinas, define o foco desta investigação e faz a análise convergir para os conceitos, propriedades e atividades propostas pelos livros didáticos da amostra, com relação aos conteúdos de Probabilidade e Estatística apresentados nesses livros. Na análise, evidencia-se que os livros didáticos dão pouco destaque aos conteúdos de Probabilidade e Estatística, além de alguns deles apresentarem conceitos equivocados, falta de contextualização dos temas e desconsideração da possibilidade de se usarem os recursos da calculadora e da Informática na resolução de problemas, indo de desencontro às Orientações Educacionais Complementares aos Parâmetros Curriculares Nacionais (PCN+).Pontifícia Universidade Católica do Rio Grande do SulFaculdade de FícaBRPUCRSPrograma de Pós-Graduação em Educação em Ciências e MatemáticaViali, Lorí",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/P_RS_fdf69fd82b1118bf28e60e244f5694dc",
+  "ano_bdtd": 2006,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica do Rio Grande do Sul Faculdade de Fíca BR PUCRS Programa de Pós-Graduação em Educação em Ciências e Matemática",
+  "programa_bdtd": "Não Informado pela instituição",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "P_RS_fdf69fd82b1118bf28e60e244f5694dc",
+    "url": "https://bdtd.ibict.br/vufind/Record/P_RS_fdf69fd82b1118bf28e60e244f5694dc",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/oliveira-2006.svg"
+}

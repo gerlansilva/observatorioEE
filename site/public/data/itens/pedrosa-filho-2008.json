@@ -1,0 +1,83 @@
+{
+  "id": "pedrosa-filho-2008",
+  "autor": "Celso Pedrosa Filho",
+  "ano": 2008,
+  "tipo": "Dissertação",
+  "titulo": "Uma experiência de introdução do raciocínio combinatório com alunos do primeiro ciclo do ensino fundamental (7 - 8 anos)",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Maria Miguel",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino de Matemática",
+  "nivel_codigo": "2",
+  "nivel": "Ensino Fundamental – anos iniciais",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Combinatória",
+  "problema": "investigar a aquisição e o desenvolvimento de noções introdutórias do raciocínio combinatório com crianças entre sete e oito anos de idade",
+  "metodologia": "Nesse estudo, construímos uma sequência de atividades, fundamentada na teoria dos campos conceituais, de Vergnaus, e na teoria dos registros de representação, de duval, partindo de situações concretas. O desenvolvimento dessa pesquisa segue os pressupostos da engenharia didática",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "Vergnaud: teoria dos campos conceituais; Duval: teoria dos registros de representação; engenharia didática de Douady",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Uma+experi%C3%AAncia+de+introdu%C3%A7%C3%A3o+do+racioc%C3%ADnio+combinat%C3%B3rio+com+alunos+do+primeiro+ciclo+do+ensino+fundamental+%287+-+8+anos%29%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma+experi%C3%AAncia+de+introdu%C3%A7%C3%A3o+do+racioc%C3%ADnio+combinat%C3%B3rio+com+alunos+do+primeiro+ciclo+do+ensino+fundamental+%287+-+8+anos%29&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/11299",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_0c2505a6ce89118a08780ec28715390a"
+  },
+  "autor_planilha": "PEDROSA FILHO, C.",
+  "orientador_planilha": "Maria Miguel",
+  "autor_capes": "CELSO PEDROSA FILHO",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "capes": {
+    "status": "ok",
+    "score": 0.8,
+    "id": "2008433005010030P9",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Raciocínio combinatório; Primeiro ciclo do ensino fundamental; Materiais manipuláveis; Trabalho em duplas; Educacao matematica; Matematica; Estudo e ensino",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.8,
+    "id": "PUC_SP-1_0c2505a6ce89118a08780ec28715390a",
+    "url": "https://tede2.pucsp.br/handle/handle/11299",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Raciocínio combinatório",
+    "Primeiro ciclo do ensino fundamental",
+    "Materiais manipuláveis",
+    "Trabalho em duplas",
+    "Educacao matematica",
+    "Matematica",
+    "Estudo e ensino"
+  ],
+  "resumo": "O objetivo desta dissertação é investigar a aquisição e o desenvolvimento de noções introdutórias do raciocínio combinatório com crianças entre sete e oito anos de idade. Nesse estudo, construímos uma seqüência de atividades, fundamentada na Teoria dos Campos Conceituais (Vergnaud, 1990) e na Teoria dos Registros de Representação (Duval, 1993), partindo de situações concretas. Nossa hipótese é que o trabalho em duplas possa contribuir no desenvolvimento das atividades, visto que favorece a troca de informações, a socialização dos sujeitos e das idéias, além da necessidade de justificativa em relação ao seu par. O desenvolvimento desta pesquisa segue os pressupostos de uma Engenharia Didática (Douady, 1987), ou seja, inicialmente fizemos uma breve introdução histórica e um levantamento do que encontramos nos Parâmetros Curriculares Nacionais (PCN, 1997) e em livros didáticos, no que se refere ao tema, além de uma visita a duas publicações diretamente relacionadas ao foco de nosso estudo. Na seqüência, construímos e fizemos uma análise preliminar de dois tipos de atividades, para as quais foram confeccionados materiais; uma delas visou à determinação de combinações de roupas em modelos, valendo-se de peças imantadas, e a outra, de possibilidades de caminhos, em um quadriculado, para se chegar a um determinado destino, a partir de lançamentos de um objeto semelhante a uma moeda. Depois de aplicá-las a um grupo de alunos do primeiro ciclo do Ensino Fundamental, fizemos uma análise do comportamento das duplas, dos procedimentos e dos registros obtidos. Os resultados evidenciaram que o uso de material manipulável e o trabalho em duplas favorecem não só o interesse pelo estudo proposto, mas, também o desenvolvimento de idéias de organização, leitura, contagem, visualização de resultados e dos primeiros passos na relação entre os campos: aditivo e multiplicativo, fundamentais para o desenvolvimento do raciocínio combinatório",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_0c2505a6ce89118a08780ec28715390a",
+  "ano_bdtd": 2008,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_0c2505a6ce89118a08780ec28715390a",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_0c2505a6ce89118a08780ec28715390a",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/pedrosa-filho-2008.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_0c2505a6ce89118a08780ec28715390a",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_0c2505a6ce89118a08780ec28715390a",
+    "confianca": "alta"
+  }
+}

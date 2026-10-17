@@ -1,0 +1,44 @@
+{
+  "id": "petta-2001",
+  "autor": "J. H. S. Petta",
+  "ano": 2001,
+  "tipo": "Dissertação",
+  "titulo": "Tecnologia aplicada ao processo de ensino-aprendizagem de estatística na graduação",
+  "instituicao": "Universidade Bandeirantes de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Maria de Oliveira",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "",
+  "foco": "Não informado",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Tecnologia+aplicada+ao+processo+de+ensino-aprendizagem+de+estat%C3%ADstica+na+gradua%C3%A7%C3%A3o%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Tecnologia+aplicada+ao+processo+de+ensino-aprendizagem+de+estat%C3%ADstica+na+gradua%C3%A7%C3%A3o&type=AllFields"
+  },
+  "capes": {
+    "status": "baixa_confianca",
+    "score": 0.39,
+    "candidato": "https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=7650390",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "PETTA, J. H. S.",
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.537
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/petta-2001.svg"
+}

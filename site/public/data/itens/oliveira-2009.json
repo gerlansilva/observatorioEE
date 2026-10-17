@@ -1,0 +1,72 @@
+{
+  "id": "oliveira-2009",
+  "autor": "Geraldo José de Oliveira",
+  "ano": 2009,
+  "tipo": "Dissertação",
+  "titulo": "A Disciplina Estatistica nos curso de Pedagogia e Normal superior nas instituições superiores de Ensino de Teresina - PI",
+  "instituicao": "Universidade Luterana do Brasil (ULBRA/Canoas)",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Arno Bayer",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "6",
+  "foco": "Crenças, concepções, atitudes e saberes práticos",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "investigar as \nopiniões dos professores e dos alunos sobre como é desenvolvida esta disciplina e qual a \nimportância dada a ela por esses dois agentes do processo ensino aprendizagem.",
+  "metodologia": "foram aplicados questionários a 10 professores que já lecionaram ou lecionam a disciplina \nEstatística para os cursos em tela e 210 alunos desses cursos, que já cursaram a disciplina.",
+  "contribuicoes": "Os resultados das entrevistas apontam que as causas do insucesso no processo ensino \naprendizagem de Estatística nos Cursos de Licenciatura em Normal Superior e Pedagogia \nnas IES de Teresina podem estar relacionadas à qualificação dos professores para \nministrarem a disciplina, uma vez que eles não são graduados na área de Estatística. Além \ndisso, os alunos sentem dificuldades para aprenderem os conteúdos da disciplina. Partindo \ndeste ponto, o autor sugere que o profissional habilitado para ministrar a disciplina \nEstatística para os alunos de Pedagogia e Licenciatura em Normal Superior seja aquele \nlicenciado em Estatística com pós-graduação em Educação. Que sejam vivenciados, em \nsala de aula, conteúdos direcionados para área de atuação dos profissionais que se deseja \nformar, que sejam escolhidos livros atualizados e que contenha os conteúdos e exemplos \ndirecionados para a proposta de plano da disciplina elaborado pelo professor. Que os \nsoftwares, utilizados nos laboratório, sejam práticos e possam ser utilizados no dia a dia do \nprofissional da educação.",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+Disciplina+Estatistica+nos+curso+de+Pedagogia+e+Normal+superior+nas+institui%C3%A7%C3%B5es+superiores+de+Ensino+de+Teresina+-+PI%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+Disciplina+Estatistica+nos+curso+de+Pedagogia+e+Normal+superior+nas+institui%C3%A7%C3%B5es+superiores+de+Ensino+de+Teresina+-+PI&type=AllFields",
+    "texto_completo": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/download/101/94",
+    "registro_institucional": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/101"
+  },
+  "autor_planilha": "OLIVEIRA, G. J.",
+  "orientador_planilha": "Arno Bayer",
+  "autor_capes": "Geraldo José de Oliveira",
+  "programa_capes": "Ensino de Ciências e Matemática",
+  "instituicao_capes": "Universidade Luterana do Brasil",
+  "cidade_capes": "Canoas",
+  "orientador_capes": "Arno Bayer",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20093042019010005P7",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.503
+  },
+  "tags": [
+    "professor de Estatística",
+    "aluno",
+    "educação estatística",
+    "formação docente"
+  ],
+  "enriquecimento_manual": {
+    "fonte": "Teses e Dissertações PPGECIM – ULBRA",
+    "confianca": "alta",
+    "observacao": "Título e autor (Geraldo José de Oliveira) conferem; PDF aberto."
+  },
+  "resumo": "A Estatística vem se destacando como um dos mais importantes conhecimentos, servindo para a tomada de decisão em qualquer área de atuação do homem, inclusive aquelas voltadas para a educação. Por essa razão, o Ministério da Educação tem incentivado a inclusão dessa ciência como disciplina nos currículos dos cursos de terceiro grau. Este trabalho apresenta resultados de pesquisa sobre como vem sendo abordada a disciplina Estatística nos Cursos de Pedagogia e Licenciatura em Normal Superior nas Instituições Superiores de Ensino de Teresina-Piauí. Tem como objetivo investigar as opiniões dos professores e dos alunos sobre como é desenvolvida esta disciplina e qual a importância dada a ela por esses dois agentes do processo ensino aprendizagem. Para tanto, foram aplicados questionários a 10 professores que já lecionaram ou lecionam a disciplina Estatística para os cursos em tela e 210 alunos desses cursos, que já cursaram a disciplina. Os resultados das entrevistas apontam que as causas do insucesso no processo ensino aprendizagem de Estatística nos Cursos de Licenciatura em Normal Superior e Pedagogia nas IES de Teresina podem estar relacionadas à qualificação dos professores para ministrarem a disciplina, uma vez que eles não são graduados na área de Estatística. Além disso, os alunos sentem dificuldades para aprenderem os conteúdos da disciplina. Partindo deste ponto, o autor sugere que o profissional habilitado para ministrar a disciplina Estatística para os alunos de Pedagogia e Licenciatura em Normal Superior seja aquele licenciado em Estatística com pós-graduação em Educação. Que sejam vivenciados, em sala de aula, conteúdos direcionados para área de atuação dos profissionais que se deseja formar, que sejam escolhidos livros atualizados e que contenha os conteúdos e exemplos direcionados para a proposta de plano da disciplina elaborado pelo professor. Que os softwares, utilizados nos laboratório, sejam práticos e possam ser utilizados no dia a dia do profissional da educação.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/101",
+  "thumbnail": "./assets/images/thumbs/oliveira-2009.svg",
+  "pesquisa_agente_links": {
+    "status": "ok",
+    "fonte_resumo": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/101",
+    "fonte_palavras": "http://www.ppgecim.ulbra.br/teses/index.php/ppgecim/article/view/101",
+    "confianca": "alta"
+  }
+}

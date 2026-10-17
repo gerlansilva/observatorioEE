@@ -1,0 +1,1712 @@
+[
+  {
+    "id": "abe-2011",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "albuquerque-2010",
+    "status": "ok",
+    "record": "UFPE_40c03f4a6532ffcad555853833096b23",
+    "abstract_chars": 2734,
+    "tags": 4,
+    "access": "https://repositorio.ufpe.br/handle/123456789/3875"
+  },
+  {
+    "id": "alcantara-2012",
+    "status": "ok",
+    "record": "UFPE_404f95039cf0504a0631f5106414ed5a",
+    "abstract_chars": 1871,
+    "tags": 4,
+    "access": "https://repositorio.ufpe.br/handle/123456789/12657"
+  },
+  {
+    "id": "almeida-2010-2",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "almeida-2010",
+    "status": "ok",
+    "record": "UFOP_ffb44f2fc5843daa83197de5a4e51fc8",
+    "abstract_chars": 2588,
+    "tags": 5,
+    "access": "http://www.repositorio.ufop.br/handle/123456789/2522"
+  },
+  {
+    "id": "alves-2010",
+    "status": "ok",
+    "record": "PUC_MINS_c8ef7358e609d4dc686c784cc5a0c64f",
+    "abstract_chars": 0,
+    "tags": 4,
+    "access": "http://bib.pucminas.br/teses/EnCiMat_AlvesAC_1.pdf"
+  },
+  {
+    "id": "alves-2011",
+    "status": "ok",
+    "record": "UFPE_22764562e605e312abcbb281b1344232",
+    "abstract_chars": 2536,
+    "tags": 5,
+    "access": "https://repositorio.ufpe.br/handle/123456789/3687"
+  },
+  {
+    "id": "alves-2012",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "amancio-2012",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "amaral-2007",
+    "status": "ok",
+    "record": "PUC_SP-1_808003d7f9b887a03b7fb1ee03385b1b",
+    "abstract_chars": 1827,
+    "tags": 7,
+    "access": "https://tede2.pucsp.br/handle/handle/11496"
+  },
+  {
+    "id": "amaral-2010",
+    "status": "ok",
+    "record": "PUC_SP-1_b6b7e55c46964afaa725f8b46de773a7",
+    "abstract_chars": 1503,
+    "tags": 11,
+    "access": "https://tede2.pucsp.br/handle/handle/11443"
+  },
+  {
+    "id": "amarante-2011",
+    "status": "ok",
+    "record": "UFPE_d39f3ad2311e571836d5cf064328f6e1",
+    "abstract_chars": 3103,
+    "tags": 4,
+    "access": "https://repositorio.ufpe.br/handle/123456789/3713"
+  },
+  {
+    "id": "andrade-2008",
+    "status": "ok",
+    "record": "UNSP_c0b7586a3b599e0c9c24a5a5c163a804",
+    "abstract_chars": 1830,
+    "tags": 3,
+    "access": "http://hdl.handle.net/11449/91104"
+  },
+  {
+    "id": "ara-2006",
+    "status": "ok",
+    "record": "USP_e36ad8f147778f6328a7a17a09176d4a",
+    "abstract_chars": 3557,
+    "tags": 12,
+    "access": ""
+  },
+  {
+    "id": "araujo-2007",
+    "status": "ok",
+    "record": "PUC_SP-1_556b9467dc0ae9e56f49d63a39dfe198",
+    "abstract_chars": 2061,
+    "tags": 9,
+    "access": "https://tede2.pucsp.br/handle/handle/11494"
+  },
+  {
+    "id": "araujo-2008",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "balke-2011",
+    "status": "ok",
+    "record": "UPF_ca8df55e2631da0628b9113008f7a3ac",
+    "abstract_chars": 1815,
+    "tags": 6,
+    "access": "https://repositorio.upf.br/handle/123456789/2101"
+  },
+  {
+    "id": "barbosa-2012",
+    "status": "ok",
+    "record": "PUC_MINS_c7d081b2be74a7e37d98650fb92c5808",
+    "abstract_chars": 0,
+    "tags": 3,
+    "access": "http://bib.pucminas.br/teses/EnCiMat_BarbosaMBG_1.pdf"
+  },
+  {
+    "id": "barreto-1999",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "barrizon-2011",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "barroso-2009",
+    "status": "ok",
+    "record": "PUC_MINS_5a1bd94309f289ccc50c516a26ca2638",
+    "abstract_chars": 0,
+    "tags": 2,
+    "access": "http://bib.pucminas.br/teses/Ensino_JaneCarmelitaDasDoresGarandyDeArrudaBarroso_2738.pdf"
+  },
+  {
+    "id": "basseti-2012",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "becegato-1999",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "berlikowski-2012",
+    "status": "ok",
+    "record": "P_RS_9d2e1549283611a9cb5d2df49f2b449c",
+    "abstract_chars": 1441,
+    "tags": 2,
+    "access": "http://tede2.pucrs.br/tede2/handle/tede/3432"
+  },
+  {
+    "id": "biajone-2006",
+    "status": "ok",
+    "record": "UNICAMP-30_0226218b334ba08c13faf39f951d322d",
+    "abstract_chars": 0,
+    "tags": 9,
+    "access": "https://hdl.handle.net/20.500.12733/1602510"
+  },
+  {
+    "id": "bifi-2006",
+    "status": "ok",
+    "record": "PUC_SP-1_ccbc528642b43d7bf808252a8b8b2404",
+    "abstract_chars": 1159,
+    "tags": 4,
+    "access": "https://tede2.pucsp.br/handle/handle/11060"
+  },
+  {
+    "id": "bigattao-jr-2004",
+    "status": "ok",
+    "record": "PUC_SP-1_00ad4ba2a9f153f245198b28d53d50f2",
+    "abstract_chars": 1231,
+    "tags": 10,
+    "access": "https://tede2.pucsp.br/handle/handle/11507"
+  },
+  {
+    "id": "boga-neto-2005",
+    "status": "ok",
+    "record": "UFPA_b6b1517fd4fec1de053f8a1131cce0ab",
+    "abstract_chars": 774,
+    "tags": 4,
+    "access": "https://repositorio.ufpa.br/handle/2011/1833"
+  },
+  {
+    "id": "bortolanza-2003",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "braga-2008",
+    "status": "ok",
+    "record": "UFRRJ-1_ed5dc78c7a2857b4663bfd4229990faf",
+    "abstract_chars": 1194,
+    "tags": 4,
+    "access": "https://rima.ufrrj.br/jspui/handle/20.500.14407/12456"
+  },
+  {
+    "id": "braga-2009",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "buehring-2006",
+    "status": "ok",
+    "record": "UFSC_596c24e5a9dc66c3f22732a5f3090921",
+    "abstract_chars": 0,
+    "tags": 0,
+    "access": "http://repositorio.ufsc.br/xmlui/handle/123456789/88820"
+  },
+  {
+    "id": "cabral-junior-2009",
+    "status": "ok",
+    "record": "PUC_SP-1_6d95731f6468d333d35b3a12986c855b",
+    "abstract_chars": 1349,
+    "tags": 7,
+    "access": "https://tede2.pucsp.br/handle/handle/11432"
+  },
+  {
+    "id": "caetano-2004",
+    "status": "ok",
+    "record": "PUC_SP-1_466bbc3e642ffb9ff9e6bd222f04e38e",
+    "abstract_chars": 1975,
+    "tags": 9,
+    "access": "https://tede2.pucsp.br/handle/handle/11138"
+  },
+  {
+    "id": "campos-2007-2",
+    "status": "ok",
+    "record": "UFU_3cb6461fbf762b578864d68418a63d02",
+    "abstract_chars": 2084,
+    "tags": 5,
+    "access": "https://repositorio.ufu.br/handle/123456789/14073"
+  },
+  {
+    "id": "campos-2007",
+    "status": "ok",
+    "record": "UNSP_1e18b71cfa03dfeb30b775da3303adb3",
+    "abstract_chars": 1346,
+    "tags": 1,
+    "access": "http://hdl.handle.net/11449/102161"
+  },
+  {
+    "id": "campos-2011",
+    "status": "ok",
+    "record": "PUC_SP-1_259224165c794019137c156378acc963",
+    "abstract_chars": 1518,
+    "tags": 5,
+    "access": "https://tede2.pucsp.br/handle/handle/10901"
+  },
+  {
+    "id": "canossa-2009",
+    "status": "ok",
+    "record": "PUC_SP-1_70b833f5fb3aa1d772fb56b51ade7c60",
+    "abstract_chars": 1840,
+    "tags": 8,
+    "access": "https://tede2.pucsp.br/handle/handle/11371"
+  },
+  {
+    "id": "cardoso-2004",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "cardoso-2007",
+    "status": "ok",
+    "record": "PUC_SP-1_a84f7282835a5f47c35974f3788c3d4a",
+    "abstract_chars": 1342,
+    "tags": 9,
+    "access": "https://tede2.pucsp.br/handle/handle/11196"
+  },
+  {
+    "id": "carneiro-2003",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "carvalho-2005",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "carvalho-2011-2",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "carvalho-2011",
+    "status": "ok",
+    "record": "UFPE_75f0a4f746e8270fae5ff75c6eb38081",
+    "abstract_chars": 3200,
+    "tags": 6,
+    "access": "https://repositorio.ufpe.br/handle/123456789/3728"
+  },
+  {
+    "id": "casas-1997",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "cavalcanti-2010",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "cavalcanti-2011",
+    "status": "ok",
+    "record": "UFPE_68fc9930e1e3206207299f13a2e77637",
+    "abstract_chars": 3363,
+    "tags": 3,
+    "access": "https://repositorio.ufpe.br/handle/123456789/3699"
+  },
+  {
+    "id": "cazorla-2002",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "chagas-2010",
+    "status": "ok",
+    "record": "PUC_SP-1_2ea5ec205b73ac1f65f7e8ee45f91bc0",
+    "abstract_chars": 1325,
+    "tags": 5,
+    "access": "https://tede2.pucsp.br/handle/handle/11444"
+  },
+  {
+    "id": "coelho-2010",
+    "status": "ok",
+    "record": "UNICAMP-30_471aa17afa050b78a2cac939ae5118dc",
+    "abstract_chars": 0,
+    "tags": 10,
+    "access": "https://hdl.handle.net/20.500.12733/1615057"
+  },
+  {
+    "id": "conti-2009",
+    "status": "ok",
+    "record": "UNICAMP-30_d6bfa40e92ea69421128cad8705c849b",
+    "abstract_chars": 0,
+    "tags": 10,
+    "access": "https://hdl.handle.net/20.500.12733/1609648"
+  },
+  {
+    "id": "contini-neto-2012",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "cordani-2001",
+    "status": "ok",
+    "record": "USP_9f069395a774146266526e5b4b56a987",
+    "abstract_chars": 2516,
+    "tags": 7,
+    "access": ""
+  },
+  {
+    "id": "correa-2010",
+    "status": "ok",
+    "record": "PUC_SP-1_5997532cadb49aa26792c8ffbd52cdba",
+    "abstract_chars": 1437,
+    "tags": 8,
+    "access": "https://tede2.pucsp.br/handle/handle/11459"
+  },
+  {
+    "id": "correa-2011",
+    "status": "ok",
+    "record": "P_RS_35a24653ca7a41143efbe4ac316f8f03",
+    "abstract_chars": 2203,
+    "tags": 4,
+    "access": "http://tede2.pucrs.br/tede2/handle/tede/3427"
+  },
+  {
+    "id": "correa-neto-2010",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "costa-1994",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "costa-2003",
+    "status": "ok",
+    "record": "PUC_SP-1_acaff1e9221c13b7eb7365f4086c50bd",
+    "abstract_chars": 1287,
+    "tags": 13,
+    "access": "https://tede2.pucsp.br/handle/handle/18492"
+  },
+  {
+    "id": "costa-2004",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "costa-2007",
+    "status": "ok",
+    "record": "UFG-2_2bff8b1db929811db11f434fdd8342da",
+    "abstract_chars": 1566,
+    "tags": 3,
+    "access": "http://repositorio.bc.ufg.br/tede/handle/tede/3968"
+  },
+  {
+    "id": "costa-2012",
+    "status": "ok",
+    "record": "UNICAMP-30_8bad5199ee69dd6340539bd1b7bcb9ca",
+    "abstract_chars": 0,
+    "tags": 10,
+    "access": "https://hdl.handle.net/20.500.12733/1619441"
+  },
+  {
+    "id": "coutinho-1994",
+    "status": "ok",
+    "record": "PUC_SP-1_c56681da39b839ad1fa5a0342e29008e",
+    "abstract_chars": 1498,
+    "tags": 7,
+    "access": "https://tede2.pucsp.br/handle/handle/11159"
+  },
+  {
+    "id": "cunha-2012",
+    "status": "ok",
+    "record": "P_RS_ad05a6215bdd38cc39afc3bdd069c258",
+    "abstract_chars": 1040,
+    "tags": 1,
+    "access": "http://tede2.pucrs.br/tede2/handle/tede/3425"
+  },
+  {
+    "id": "cureau-2000",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "daminelli-2011",
+    "status": "ok",
+    "record": "UFRGS-2_adf9e5e8147edb3b2881882a7de685be",
+    "abstract_chars": 1475,
+    "tags": 3,
+    "access": "http://hdl.handle.net/10183/37124"
+  },
+  {
+    "id": "dell-orti-2010",
+    "status": "ok",
+    "record": "PUC_SP-1_6cf766e0a0f1016f70b4aae34b830e93",
+    "abstract_chars": 2115,
+    "tags": 4,
+    "access": "https://tede2.pucsp.br/handle/handle/10827"
+  },
+  {
+    "id": "dias-2008",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "duarte-2008",
+    "status": "ok",
+    "record": "UFMG_a13e77035a878f4e064b13f2627a545e",
+    "abstract_chars": 2890,
+    "tags": 8,
+    "access": "https://hdl.handle.net/1843/ARCO-7FVRTQ"
+  },
+  {
+    "id": "duarte-2010",
+    "status": "ok",
+    "record": "PUC_MINS_ec35a0924ade118e65fbd1c3f9b97bb5",
+    "abstract_chars": 0,
+    "tags": 5,
+    "access": "http://bib.pucminas.br/teses/EnCiMat_DuarteLR_1.pdf"
+  },
+  {
+    "id": "duro-2012",
+    "status": "ok",
+    "record": "UFRGS-2_f555a5ce1607fb965dffa63b106650cb",
+    "abstract_chars": 791,
+    "tags": 6,
+    "access": "http://hdl.handle.net/10183/49729"
+  },
+  {
+    "id": "eisenmann-2009",
+    "status": "ok",
+    "record": "USP_5a3656f966ceade1313ae10549640f01",
+    "abstract_chars": 837,
+    "tags": 21,
+    "access": ""
+  },
+  {
+    "id": "estevam-2010",
+    "status": "ok",
+    "record": "UNSP_9e6e88dae850eee03fa1aa1eb6d678a0",
+    "abstract_chars": 1666,
+    "tags": 3,
+    "access": "http://hdl.handle.net/11449/92291"
+  },
+  {
+    "id": "esteves-2001",
+    "status": "ok",
+    "record": "PUC_SP-1_fcc38e5f698b53f632c00230cd8de638",
+    "abstract_chars": 1465,
+    "tags": 5,
+    "access": "https://tede2.pucsp.br/handle/handle/18495"
+  },
+  {
+    "id": "evangelista-2010",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "ferreira-2004",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "ferreira-2011",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "ficagna-2005",
+    "status": "ok",
+    "record": "P_RS_6645d28a5431c8c55b5c968928c2b46e",
+    "abstract_chars": 1498,
+    "tags": 3,
+    "access": "http://tede2.pucrs.br/tede2/handle/tede/3299"
+  },
+  {
+    "id": "figueiredo-2000",
+    "status": "ok",
+    "record": "PUC_SP-1_8c9e5ee6db72f3523cc5fdb9e88a778e",
+    "abstract_chars": 1663,
+    "tags": 9,
+    "access": "https://tede2.pucsp.br/handle/handle/11214"
+  },
+  {
+    "id": "flores-2005",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "fonseca-2012",
+    "status": "ok",
+    "record": "UFRGS-2_85db08914f380a78b27d7696b2fe4c75",
+    "abstract_chars": 1336,
+    "tags": 4,
+    "access": "http://hdl.handle.net/10183/67877"
+  },
+  {
+    "id": "freitas-2010-2",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "freitas-2010",
+    "status": "ok",
+    "record": "PUC_SP-1_ceb6a144da91c1cee9c534b0c3dd7142",
+    "abstract_chars": 1258,
+    "tags": 7,
+    "access": "https://tede2.pucsp.br/handle/handle/11450"
+  },
+  {
+    "id": "friolani-2007",
+    "status": "ok",
+    "record": "PUC_SP-1_208e35a4dfc672e88b1248a1b6119b55",
+    "abstract_chars": 946,
+    "tags": 10,
+    "access": "https://tede2.pucsp.br/handle/handle/11505"
+  },
+  {
+    "id": "fujii-2006",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "furlan-2011",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "gaffuri-2012",
+    "status": "ok",
+    "record": "UFN-1_568a3c4a5bb960a3fffd41d6b94f361f",
+    "abstract_chars": 2018,
+    "tags": 3,
+    "access": "http://tede.universidadefranciscana.edu.br:8080/handle/UFN-BDTD/135 http://www.tede.universidadefranciscana.edu.br:8080/handle/UFN-BDTD/388"
+  },
+  {
+    "id": "gaiovicz-2007",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "garcia-2008",
+    "status": "ok",
+    "record": "PUC_SP-1_5b7a9b18fbfdcabc48cb80d9bc1ed0b8",
+    "abstract_chars": 1476,
+    "tags": 7,
+    "access": "https://tede2.pucsp.br/handle/handle/11339"
+  },
+  {
+    "id": "giusti-2012",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "goncales-2002",
+    "status": "ok",
+    "record": "UNICAMP-30_aec3d8b690805d00417b487af45e03e1",
+    "abstract_chars": 0,
+    "tags": 4,
+    "access": "https://hdl.handle.net/20.500.12733/1592033"
+  },
+  {
+    "id": "goncalves-2004",
+    "status": "ok",
+    "record": "PUC_SP-1_ae08bf9301348e012c8239e348ca9825",
+    "abstract_chars": 1519,
+    "tags": 3,
+    "access": "https://tede2.pucsp.br/handle/handle/18471"
+  },
+  {
+    "id": "goncalves-2005",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "goncalves-2010",
+    "status": "ok",
+    "record": "PUC_MINS_80072f66b14510583d0f71a2bd97b3fc",
+    "abstract_chars": 0,
+    "tags": 3,
+    "access": "https://bib.pucminas.br/teses/Ensino_SergioPereiraGoncalves_5272_TextoCompleto.pdf"
+  },
+  {
+    "id": "goulart-2007",
+    "status": "ok",
+    "record": "PUC_SP-1_80a07c77836fc0cd64f4524c0775418d",
+    "abstract_chars": 1137,
+    "tags": 9,
+    "access": "https://tede2.pucsp.br/handle/handle/11273"
+  },
+  {
+    "id": "gouvea-2011",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "grzebieluchas-2001",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "guimaraes-2002",
+    "status": "ok",
+    "record": "UFPE_401840e6a05e5722361b285750418a39",
+    "abstract_chars": 3705,
+    "tags": 2,
+    "access": "https://repositorio.ufpe.br/handle/123456789/8222"
+  },
+  {
+    "id": "herebia-2002",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "hey-2001",
+    "status": "ok",
+    "record": "UFSC_bfe0a21bd08c19525895d0190ca78b20",
+    "abstract_chars": 0,
+    "tags": 0,
+    "access": "http://repositorio.ufsc.br/xmlui/handle/123456789/82004"
+  },
+  {
+    "id": "homa-2012",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "jacobini-1999",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "jung-2003",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "leao-2006",
+    "status": "ok",
+    "record": "URPE_0495de496b4384609846fb064795e501",
+    "abstract_chars": 1134,
+    "tags": 3,
+    "access": "http://www.tede2.ufrpe.br:8080/tede2/handle/tede2/5399"
+  },
+  {
+    "id": "leite-2010",
+    "status": "ok",
+    "record": "PUC_SP-1_7da8b131e9af557adb0da15ea1ca57dc",
+    "abstract_chars": 2207,
+    "tags": 3,
+    "access": "https://tede2.pucsp.br/handle/handle/11461"
+  },
+  {
+    "id": "lemos-2002",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "lemos-2011",
+    "status": "ok",
+    "record": "PUC_SP-1_276ffbe10f69700170c79f9fd597f02b",
+    "abstract_chars": 2862,
+    "tags": 3,
+    "access": "https://tede2.pucsp.br/handle/handle/10879"
+  },
+  {
+    "id": "lima-2005",
+    "status": "ok",
+    "record": "PUC_SP-1_f9ca15a491f737dd464bd0a25f6a76fc",
+    "abstract_chars": 2421,
+    "tags": 10,
+    "access": "https://tede2.pucsp.br/handle/handle/11108"
+  },
+  {
+    "id": "lima-2007",
+    "status": "ok",
+    "record": "UFMG_0aa75c2189657e58c9dd8590da11101f",
+    "abstract_chars": 1142,
+    "tags": 3,
+    "access": "https://hdl.handle.net/1843/FAEC-85JHGZ"
+  },
+  {
+    "id": "lima-2009",
+    "status": "ok",
+    "record": "PUC_SP-1_7f536092415344f74f912dec8ed53b88",
+    "abstract_chars": 1531,
+    "tags": 10,
+    "access": "https://tede2.pucsp.br/handle/handle/11398"
+  },
+  {
+    "id": "lima-2010",
+    "status": "ok",
+    "record": "UFPE_431d9348cca00d05a14c02da7ce20601",
+    "abstract_chars": 3281,
+    "tags": 3,
+    "access": "https://repositorio.ufpe.br/handle/123456789/3931"
+  },
+  {
+    "id": "lima-2011-2",
+    "status": "ok",
+    "record": "PUC_MINS_e8a523387c3b507c08286b614f989af7",
+    "abstract_chars": 0,
+    "tags": 3,
+    "access": "http://bib.pucminas.br/teses/EnCiMat_LimaTRC_1.pdf"
+  },
+  {
+    "id": "lima-2011",
+    "status": "ok",
+    "record": "UFPB-2_ae324c7f9706ec74f6da5f6a417ea0aa",
+    "abstract_chars": 1463,
+    "tags": 5,
+    "access": "https://repositorio.ufpb.br/jspui/handle/tede/4634"
+  },
+  {
+    "id": "lima-2013",
+    "status": "ok",
+    "record": "SCAR_ad9d79dc6327776f686873bb4f055062",
+    "abstract_chars": 1697,
+    "tags": 5,
+    "access": "https://repositorio.ufscar.br/handle/20.500.14289/4436"
+  },
+  {
+    "id": "lira-2010",
+    "status": "ok",
+    "record": "UFPE_b8e523bf74fd734bd7c8ba3e45077275",
+    "abstract_chars": 2767,
+    "tags": 3,
+    "access": "https://repositorio.ufpe.br/handle/123456789/3817"
+  },
+  {
+    "id": "lopes-1988",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "lopes-1998",
+    "status": "ok",
+    "record": "UNICAMP-30_501086835dda6a41de3aef572942add9",
+    "abstract_chars": 0,
+    "tags": 3,
+    "access": "https://hdl.handle.net/20.500.12733/1586331"
+  },
+  {
+    "id": "lopes-2003",
+    "status": "ok",
+    "record": "UNICAMP-30_ef1e9d7bea79b634558e2b1f3d95aa57",
+    "abstract_chars": 0,
+    "tags": 6,
+    "access": "https://hdl.handle.net/20.500.12733/1594225"
+  },
+  {
+    "id": "lugli-2011",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "lutz-2012",
+    "status": "ok",
+    "record": "UFRGS-2_8b299e15aa14a1ed79362af2bdd59725",
+    "abstract_chars": 1884,
+    "tags": 3,
+    "access": "http://hdl.handle.net/10183/49625"
+  },
+  {
+    "id": "malara-2008",
+    "status": "sem_dados",
+    "record": "UNSP_057156901ecc32c3545ff9540e2a8f85"
+  },
+  {
+    "id": "mantovani-2008",
+    "status": "sem_dados",
+    "record": "USP_23ee4f01eaf343830219106c91f43bac"
+  },
+  {
+    "id": "marocci-2011",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "marques-2007",
+    "status": "ok",
+    "record": "USP_ce52f120f034cc85fa15e88eb310e1dd",
+    "abstract_chars": 2528,
+    "tags": 7,
+    "access": ""
+  },
+  {
+    "id": "marquez-2006",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "maschio-2002",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "medici-2007",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "megid-2002",
+    "status": "ok",
+    "record": "UNICAMP-30_5914e5b3b3364db40363002ff2ecc1b7",
+    "abstract_chars": 0,
+    "tags": 3,
+    "access": "https://hdl.handle.net/20.500.12733/1593479"
+  },
+  {
+    "id": "meirelles-2006",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "melamed-1998",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "melo-2010",
+    "status": "ok",
+    "record": "UFPE_c0db456b7e9302d53f55abc3ec6f8b00",
+    "abstract_chars": 3389,
+    "tags": 3,
+    "access": "https://repositorio.ufpe.br/handle/123456789/3905"
+  },
+  {
+    "id": "mendonca-2008",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "mendonca-2011",
+    "status": "ok",
+    "record": "PUC_SP-1_8a596666666b37ace964bbfcca71ea02",
+    "abstract_chars": 1327,
+    "tags": 4,
+    "access": "https://tede2.pucsp.br/handle/handle/10862"
+  },
+  {
+    "id": "mendonca-2012",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "miguel-2005",
+    "status": "ok",
+    "record": "PUC_SP-1_7b55f515026b4b0c0b733432484d7306",
+    "abstract_chars": 3452,
+    "tags": 7,
+    "access": "https://tede2.pucsp.br/handle/handle/10890"
+  },
+  {
+    "id": "milagre-2001",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "miranda-2008",
+    "status": "ok",
+    "record": "PUC_MINS_002ce0b3f181ca585107af52ba58b341",
+    "abstract_chars": 0,
+    "tags": 4,
+    "access": "http://bib.pucminas.br/teses/EnCiMat_MirandaML_1r.pdf"
+  },
+  {
+    "id": "miranda-2011",
+    "status": "ok",
+    "record": "PUC_SP-1_611e9e39c5dd310a06580c0c6b7d6d87",
+    "abstract_chars": 1937,
+    "tags": 6,
+    "access": "https://tede2.pucsp.br/handle/handle/10859"
+  },
+  {
+    "id": "monteiro-1998",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "moraes-2011",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "morais-2006",
+    "status": "ok",
+    "record": "PUC_SP-1_c93e75af160a7e10933d7f993d0e1a83",
+    "abstract_chars": 1773,
+    "tags": 8,
+    "access": "https://tede2.pucsp.br/handle/handle/11066"
+  },
+  {
+    "id": "moreno-2010",
+    "status": "ok",
+    "record": "PUC_SP-1_aa975e720bf466e548f7feadb4fe6611",
+    "abstract_chars": 2316,
+    "tags": 5,
+    "access": "https://tede2.pucsp.br/handle/handle/11472"
+  },
+  {
+    "id": "moura-2005",
+    "status": "ok",
+    "record": "PUC_GO_229969517d861017d3e9ffe1b545d04d",
+    "abstract_chars": 1895,
+    "tags": 6,
+    "access": "https://tede2.pucgoias.edu.br/handle/tede/1141"
+  },
+  {
+    "id": "nascimento-2007",
+    "status": "ok",
+    "record": "PUC_SP-1_25b8d16e224a58de0e89bb6e133f4171",
+    "abstract_chars": 1794,
+    "tags": 6,
+    "access": "https://tede2.pucsp.br/handle/handle/11267"
+  },
+  {
+    "id": "nobrega-2010",
+    "status": "ok",
+    "record": "UFPE_958620fccbd3124bbf51d5b59d4c7dd8",
+    "abstract_chars": 3733,
+    "tags": 4,
+    "access": "https://repositorio.ufpe.br/handle/123456789/8592"
+  },
+  {
+    "id": "nogueira-2008",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "nogueira-2011",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "novaes-2004",
+    "status": "ok",
+    "record": "PUC_SP-1_04332d0c77b1a50ac10b92b15a4cb842",
+    "abstract_chars": 1702,
+    "tags": 8,
+    "access": "https://tede2.pucsp.br/handle/handle/18476"
+  },
+  {
+    "id": "novaes-2011",
+    "status": "ok",
+    "record": "PUC_SP-1_5dfe3edfc3ef7e7856b48c8c0269c4ca",
+    "abstract_chars": 2117,
+    "tags": 4,
+    "access": "https://tede2.pucsp.br/handle/handle/10878"
+  },
+  {
+    "id": "nunes-2009",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "oliveira-2003",
+    "status": "ok",
+    "record": "UNICAMP-30_3c628c24ec33be017a01247f5875032c",
+    "abstract_chars": 0,
+    "tags": 6,
+    "access": "https://hdl.handle.net/20.500.12733/1596945"
+  },
+  {
+    "id": "oliveira-2005",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "oliveira-2006",
+    "status": "ok",
+    "record": "P_RS_fdf69fd82b1118bf28e60e244f5694dc",
+    "abstract_chars": 1408,
+    "tags": 1,
+    "access": "http://tede2.pucrs.br/tede2/handle/tede/3352"
+  },
+  {
+    "id": "oliveira-2009",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "oliveira-2010",
+    "status": "ok",
+    "record": "PUC_SP-1_679a899b55b3f13c6061832dbc3b0fd2",
+    "abstract_chars": 1700,
+    "tags": 5,
+    "access": "https://tede2.pucsp.br/handle/handle/10831"
+  },
+  {
+    "id": "oliveira-2012",
+    "status": "ok",
+    "record": "UFPE_79749ebd0c11f3e42ea4152ae1ebd503",
+    "abstract_chars": 3556,
+    "tags": 4,
+    "access": "https://repositorio.ufpe.br/handle/123456789/13031"
+  },
+  {
+    "id": "pacheco-2001",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "pagan-2010",
+    "status": "ok",
+    "record": "PUC_SP-1_bfd6dcfbdedef39fe12e804d5165ce44",
+    "abstract_chars": 2263,
+    "tags": 6,
+    "access": "https://tede2.pucsp.br/handle/handle/11439"
+  },
+  {
+    "id": "pamplona-2009",
+    "status": "ok",
+    "record": "UNICAMP-30_4ceb4c498d133527d48110a0768da888",
+    "abstract_chars": 0,
+    "tags": 12,
+    "access": "https://hdl.handle.net/20.500.12733/1609883"
+  },
+  {
+    "id": "panaino-1998",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "pedrosa-filho-2008",
+    "status": "ok",
+    "record": "PUC_SP-1_0c2505a6ce89118a08780ec28715390a",
+    "abstract_chars": 1893,
+    "tags": 7,
+    "access": "https://tede2.pucsp.br/handle/handle/11299"
+  },
+  {
+    "id": "pereda-2006",
+    "status": "ok",
+    "record": "USP_cac7f3d18f23c02ea27ec5d5bc863166",
+    "abstract_chars": 846,
+    "tags": 8,
+    "access": ""
+  },
+  {
+    "id": "pereira-2007",
+    "status": "ok",
+    "record": "PUC_SP-1_078dbc9e27fb68f5517e63f314c56015",
+    "abstract_chars": 1550,
+    "tags": 9,
+    "access": "https://tede2.pucsp.br/handle/handle/11198"
+  },
+  {
+    "id": "pereira-2009",
+    "status": "ok",
+    "record": "PUC_SP-1_e046a3d54e8e0e7e0ae4d98182574dfe",
+    "abstract_chars": 1380,
+    "tags": 5,
+    "access": "https://tede2.pucsp.br/handle/handle/11433"
+  },
+  {
+    "id": "pessanha-2001",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "pessoa-2009",
+    "status": "ok",
+    "record": "UFPE_aebde3fba86d108aede5d5976507e116",
+    "abstract_chars": 2120,
+    "tags": 5,
+    "access": "https://repositorio.ufpe.br/handle/123456789/4189"
+  },
+  {
+    "id": "petta-2001",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "pichler-e-2005",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "pieruccini-2010",
+    "status": "ok",
+    "record": "UFPR_c55bb9c7c26664afdc32dcedd8682bf1",
+    "abstract_chars": 0,
+    "tags": 6,
+    "access": "https://hdl.handle.net/1884/26389"
+  },
+  {
+    "id": "pimentel-2009",
+    "status": "ok",
+    "record": "USP_221f73cf6392f89e22023c6d9876deae",
+    "abstract_chars": 1530,
+    "tags": 6,
+    "access": ""
+  },
+  {
+    "id": "pinheiro-2008",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "pinheiro-2011",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "putvinskis-2001",
+    "status": "ok",
+    "record": "FECAP-0_50bb4283732c9968c1319519ce2e1828",
+    "abstract_chars": 1959,
+    "tags": 4,
+    "access": "https://tede.fecap.br/handle/tede/296"
+  },
+  {
+    "id": "raymundo-2009",
+    "status": "ok",
+    "record": "UERJ_db0f951ba37977fae5093d63c7426d05",
+    "abstract_chars": 2810,
+    "tags": 4,
+    "access": "http://www.bdtd.uerj.br/handle/1/4184"
+  },
+  {
+    "id": "rebelo-2004",
+    "status": "ok",
+    "record": "UFSC_e7c637ae9d28962f8436ee0a866cbd54",
+    "abstract_chars": 0,
+    "tags": 0,
+    "access": "http://repositorio.ufsc.br/xmlui/handle/123456789/87810"
+  },
+  {
+    "id": "reis-2001",
+    "status": "ok",
+    "record": "UFSC_ae40dc8ec2bbe21e8cfeee7d2feb4197",
+    "abstract_chars": 0,
+    "tags": 0,
+    "access": "http://repositorio.ufsc.br/xmlui/handle/123456789/79748"
+  },
+  {
+    "id": "reis-2009",
+    "status": "ok",
+    "record": "PUC_SP-1_426694de2d90374d13cc18dc11b2cf93",
+    "abstract_chars": 2074,
+    "tags": 6,
+    "access": "https://tede2.pucsp.br/handle/handle/11431"
+  },
+  {
+    "id": "ribacionka-2010",
+    "status": "ok",
+    "record": "PUC_SP-1_2298e4a854f88d2d0b97ce99bafa56f3",
+    "abstract_chars": 1079,
+    "tags": 2,
+    "access": "https://tede2.pucsp.br/handle/handle/10828"
+  },
+  {
+    "id": "ribeiro-2004",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "ribeiro-2007",
+    "status": "ok",
+    "record": "PUC_SP-1_17feb692e26bea88a7e4618791d63cf1",
+    "abstract_chars": 1307,
+    "tags": 9,
+    "access": "https://tede2.pucsp.br/handle/handle/11259"
+  },
+  {
+    "id": "ribeiro-2010",
+    "status": "ok",
+    "record": "PUC_SP-1_c6ffa3835b8331726efebe0139b97bc4",
+    "abstract_chars": 2294,
+    "tags": 5,
+    "access": "https://tede2.pucsp.br/handle/handle/10837"
+  },
+  {
+    "id": "ribeiro-2012",
+    "status": "ok",
+    "record": "UFRGS-2_a5f98de0ab1c0471d743880b5807a850",
+    "abstract_chars": 1475,
+    "tags": 3,
+    "access": "http://hdl.handle.net/10183/55136"
+  },
+  {
+    "id": "ricardo-2004",
+    "status": "ok",
+    "record": "UFSC_73d6cde7d97e9ceb7ebbfe5099412aba",
+    "abstract_chars": 0,
+    "tags": 0,
+    "access": "http://repositorio.ufsc.br/xmlui/handle/123456789/87270"
+  },
+  {
+    "id": "rocha-2006",
+    "status": "ok",
+    "record": "URPE_02b4d3c8a122ad5b6a1f44471ae28bb4",
+    "abstract_chars": 1145,
+    "tags": 6,
+    "access": "http://www.tede2.ufrpe.br:8080/tede2/handle/tede2/5889"
+  },
+  {
+    "id": "rocha-2011",
+    "status": "ok",
+    "record": "UFPE_f5ee567be1af44038bede24037106624",
+    "abstract_chars": 3265,
+    "tags": 3,
+    "access": "https://repositorio.ufpe.br/handle/123456789/3774"
+  },
+  {
+    "id": "rodrigues-2005",
+    "status": "ok",
+    "record": "UFPR_7bf27d74671461e2d6daf9ff1ebf4a7f",
+    "abstract_chars": 0,
+    "tags": 4,
+    "access": "https://hdl.handle.net/1884/75529"
+  },
+  {
+    "id": "rodrigues-2007",
+    "status": "ok",
+    "record": "PUC_SP-1_c9453f50b2919e38d825c17f597b4e54",
+    "abstract_chars": 753,
+    "tags": 7,
+    "access": "https://tede2.pucsp.br/handle/handle/11197"
+  },
+  {
+    "id": "rodrigues-2008",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "rodrigues-2009-2",
+    "status": "ok",
+    "record": "PUC_SP-1_0bb54f4c9bf58dd70a8926d19d2c587d",
+    "abstract_chars": 2349,
+    "tags": 6,
+    "access": "https://tede2.pucsp.br/handle/handle/11426"
+  },
+  {
+    "id": "rodrigues-2009",
+    "status": "ok",
+    "record": "PUC_SP-1_371d534d5c904dffc15d52a91f40362d",
+    "abstract_chars": 1904,
+    "tags": 6,
+    "access": "https://tede2.pucsp.br/handle/handle/11417"
+  },
+  {
+    "id": "rodrigues-2011",
+    "status": "ok",
+    "record": "UFPR_fcd80ef889f8ba3842e0a5e6afce2d93",
+    "abstract_chars": 0,
+    "tags": 5,
+    "access": "https://hdl.handle.net/1884/26174"
+  },
+  {
+    "id": "rosa-2006",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "rotunno-2007",
+    "status": "ok",
+    "record": "UFPR_3cfcbb5da2fe54ecfc16ffdcbf011572",
+    "abstract_chars": 0,
+    "tags": 4,
+    "access": "https://hdl.handle.net/1884/12350"
+  },
+  {
+    "id": "sabo-2010",
+    "status": "ok",
+    "record": "PUC_SP-1_a14db91ddcf26bda7488e7fc7c18c083",
+    "abstract_chars": 2346,
+    "tags": 9,
+    "access": "https://tede2.pucsp.br/handle/handle/11440"
+  },
+  {
+    "id": "sampaio-2010",
+    "status": "ok",
+    "record": "UNSP_ce9464f352b52d33e01535e8231c7f12",
+    "abstract_chars": 1458,
+    "tags": 5,
+    "access": "http://hdl.handle.net/11449/91123"
+  },
+  {
+    "id": "santana-2011-2",
+    "status": "ok",
+    "record": "UFOP_77da46b1e8065586b5e32a4f4fbbd94b",
+    "abstract_chars": 2128,
+    "tags": 5,
+    "access": "http://www.repositorio.ufop.br/handle/123456789/2549"
+  },
+  {
+    "id": "santana-2011",
+    "status": "ok",
+    "record": "UFPE_964a1372bd9e7cf50d414be36fc60ea1",
+    "abstract_chars": 2948,
+    "tags": 4,
+    "access": "https://repositorio.ufpe.br/handle/123456789/3949"
+  },
+  {
+    "id": "santos-2003-2",
+    "status": "ok",
+    "record": "PUC_SP-1_f237d0787938b7e24fe1bccb3f2680c2",
+    "abstract_chars": 2248,
+    "tags": 7,
+    "access": "https://tede2.pucsp.br/handle/handle/11149"
+  },
+  {
+    "id": "santos-2003",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "santos-2005",
+    "status": "ok",
+    "record": "PUC_SP-1_d15703f05486d67e7ef2c781713f77db",
+    "abstract_chars": 1417,
+    "tags": 6,
+    "access": "https://tede2.pucsp.br/handle/handle/11482"
+  },
+  {
+    "id": "santos-2008",
+    "status": "ok",
+    "record": "UFLA_203dffbd154241f633ca0b17efdf7ec2",
+    "abstract_chars": 0,
+    "tags": 6,
+    "access": ""
+  },
+  {
+    "id": "santos-2010-2",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "santos-2010-3",
+    "status": "ok",
+    "record": "PUC_SP-1_ac6002eeea5b8868a0526b30d42719b2",
+    "abstract_chars": 2035,
+    "tags": 2,
+    "access": "https://tede2.pucsp.br/handle/handle/10846"
+  },
+  {
+    "id": "santos-2010",
+    "status": "ok",
+    "record": "UFRGS-2_9de04fc4a3a36e9c52c79a6700b2386d",
+    "abstract_chars": 1032,
+    "tags": 4,
+    "access": "http://hdl.handle.net/10183/32469"
+  },
+  {
+    "id": "santos-2011-2",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "santos-2011",
+    "status": "ok",
+    "record": "UEPB-2_c12188aa3e36bbade9ef70547983d0a6",
+    "abstract_chars": 834,
+    "tags": 3,
+    "access": "https://repositorio.uepb.edu.br/handle/123456789/73720"
+  },
+  {
+    "id": "santos-2012",
+    "status": "ok",
+    "record": "UFPE_5737e455d51041586a74701cadf25d28",
+    "abstract_chars": 3223,
+    "tags": 4,
+    "access": "https://repositorio.ufpe.br/handle/123456789/12645"
+  },
+  {
+    "id": "santos-filho-2010",
+    "status": "ok",
+    "record": "UFS-2_14a057899321e446040d649406cd3605",
+    "abstract_chars": 1971,
+    "tags": 3,
+    "access": "https://ri.ufs.br/handle/riufs/4708"
+  },
+  {
+    "id": "sartor-2000",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "sebastiani-2010",
+    "status": "ok",
+    "record": "P_RS_2a9b182351c47509ea5eef568f2867dd",
+    "abstract_chars": 1912,
+    "tags": 1,
+    "access": "http://tede2.pucrs.br/tede2/handle/tede/3398"
+  },
+  {
+    "id": "selva-2003",
+    "status": "ok",
+    "record": "UFPE_7ddf330935bf8e409a3ecba7e687e146",
+    "abstract_chars": 2587,
+    "tags": 2,
+    "access": "https://repositorio.ufpe.br/handle/123456789/8190"
+  },
+  {
+    "id": "sganzerla-1984",
+    "status": "ok",
+    "record": "UFPR_7e7ae8a2afbe7c0daf84ad3bfb3e0194",
+    "abstract_chars": 0,
+    "tags": 3,
+    "access": "https://hdl.handle.net/1884/74701"
+  },
+  {
+    "id": "sganzerla-2001",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "silva-2000",
+    "status": "ok",
+    "record": "UNICAMP-30_01ffdd3593897df0e84d17cbfd621f71",
+    "abstract_chars": 0,
+    "tags": 3,
+    "access": "https://hdl.handle.net/20.500.12733/1589186"
+  },
+  {
+    "id": "silva-2001",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "silva-2002",
+    "status": "ok",
+    "record": "PUC_SP-1_30a12678dfa0d0b68842c6fd756db0b1",
+    "abstract_chars": 1384,
+    "tags": 6,
+    "access": "https://tede2.pucsp.br/handle/handle/11188"
+  },
+  {
+    "id": "silva-2006",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "silva-2007-2",
+    "status": "ok",
+    "record": "PUC_SP-1_b639cdada212b431d33f0ed337680210",
+    "abstract_chars": 1617,
+    "tags": 7,
+    "access": "https://tede2.pucsp.br/handle/handle/11521"
+  },
+  {
+    "id": "silva-2007",
+    "status": "ok",
+    "record": "PUC_SP-1_ab271b81d0ece7db6315680916fee058",
+    "abstract_chars": 2774,
+    "tags": 8,
+    "access": "https://tede2.pucsp.br/handle/handle/11206"
+  },
+  {
+    "id": "silva-2008",
+    "status": "ok",
+    "record": "PUC_SP-1_f0fcb731a8e82431e950ceb5d50dffd6",
+    "abstract_chars": 1811,
+    "tags": 8,
+    "access": "https://tede2.pucsp.br/handle/handle/11300"
+  },
+  {
+    "id": "silva-2011",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "silva-2012",
+    "status": "ok",
+    "record": "UFPE_cdb8e64a358bef261236eeca78b244c7",
+    "abstract_chars": 2193,
+    "tags": 4,
+    "access": "https://repositorio.ufpe.br/handle/123456789/12605"
+  },
+  {
+    "id": "silveira-2010",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "simone-neto-2008",
+    "status": "ok",
+    "record": "PUC_SP-1_495380ce28333bcbcd492fd6ab13e123",
+    "abstract_chars": 1680,
+    "tags": 8,
+    "access": "https://tede2.pucsp.br/handle/handle/11526"
+  },
+  {
+    "id": "sobrinho-2010",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "souza-2002-2",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "souza-2002",
+    "status": "ok",
+    "record": "PUC_SP-1_fbda216d803391ee826acc22582c0c3d",
+    "abstract_chars": 1296,
+    "tags": 8,
+    "access": "https://tede2.pucsp.br/handle/handle/11230"
+  },
+  {
+    "id": "souza-2006",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "souza-2007",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "souza-2009",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "souza-2010",
+    "status": "ok",
+    "record": "UNSP_6922a9380988aff43dab48c52aca8851",
+    "abstract_chars": 1721,
+    "tags": 7,
+    "access": "http://hdl.handle.net/11449/91047"
+  },
+  {
+    "id": "stella-2003",
+    "status": "ok",
+    "record": "PUC_SP-1_11f6a0e8c8c4db7c293478e50d1d3771",
+    "abstract_chars": 1884,
+    "tags": 8,
+    "access": "https://tede2.pucsp.br/handle/handle/11151"
+  },
+  {
+    "id": "stelmastchuck-2009",
+    "status": "ok",
+    "record": "UFPR_990a5b51f41d5c07b8db5b7e74ed3e1e",
+    "abstract_chars": 0,
+    "tags": 4,
+    "access": "https://hdl.handle.net/1884/21186"
+  },
+  {
+    "id": "stieler-2007",
+    "status": "ok",
+    "record": "UFN-1_dce6506fa7d14207d807cb22c48a7f21",
+    "abstract_chars": 1508,
+    "tags": 2,
+    "access": "http://tede.universidadefranciscana.edu.br:8080/handle/UFN-BDTD/141 http://www.tede.universidadefranciscana.edu.br:8080/handle/UFN-BDTD/399"
+  },
+  {
+    "id": "sturm-1999",
+    "status": "ok",
+    "record": "UNICAMP-30_1d8cd7f211e213a7119c386ad0acf4f5",
+    "abstract_chars": 0,
+    "tags": 5,
+    "access": "https://hdl.handle.net/20.500.12733/1590495"
+  },
+  {
+    "id": "tatsch-2006",
+    "status": "ok",
+    "record": "UFN-1_a4e49beb82917ba6a892432f9d93e394",
+    "abstract_chars": 1395,
+    "tags": 1,
+    "access": "http://www.tede.universidadefranciscana.edu.br:8080/handle/UFN-BDTD/792"
+  },
+  {
+    "id": "teixeira-2012",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "tomio-2005",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "toni-2006",
+    "status": "ok",
+    "record": "P_RS_ff4dbd9c82a3a94dcf54f328075dac59",
+    "abstract_chars": 939,
+    "tags": 1,
+    "access": "http://tede2.pucrs.br/tede2/handle/tede/3351"
+  },
+  {
+    "id": "tonnetti-2010",
+    "status": "ok",
+    "record": "PUC_SP-1_1be9fcfcfd2bde7292427ae4768da210",
+    "abstract_chars": 1828,
+    "tags": 4,
+    "access": "https://tede2.pucsp.br/handle/handle/11453"
+  },
+  {
+    "id": "tonouti-2011",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "turik-2010",
+    "status": "ok",
+    "record": "P_RS_750af9e4d9fd9fbf3f7e9ee4c949937b",
+    "abstract_chars": 1675,
+    "tags": 2,
+    "access": "http://tede2.pucrs.br/tede2/handle/tede/3376"
+  },
+  {
+    "id": "vargas-2011",
+    "status": "ok",
+    "record": "FURB_ef1a9feab4e3716eccdae62907b87dd9",
+    "abstract_chars": 0,
+    "tags": 3,
+    "access": "http://bu.furb.br/docs/DS/2011/348186_1_1.pdf http://bu.furb.br/docs/DS/2011/348186_2_1.pdf"
+  },
+  {
+    "id": "vasconcelos-2003",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "vasconcelos-2007",
+    "status": "ok",
+    "record": "PUC_SP-1_bafb826adcaab70ca40f4761d46abec6",
+    "abstract_chars": 1903,
+    "tags": 10,
+    "access": "https://tede2.pucsp.br/handle/handle/11195"
+  },
+  {
+    "id": "vasconcelos-2011",
+    "status": "ok",
+    "record": "UVAT_adbb9df8cedf8b64fdc1b0850e4c4442",
+    "abstract_chars": 1973,
+    "tags": 3,
+    "access": "http://hdl.handle.net/10737/217"
+  },
+  {
+    "id": "vasques-2007",
+    "status": "ok",
+    "record": "PUC_SP-1_fb029a32f51f28e0c7b101e403ff394d",
+    "abstract_chars": 1311,
+    "tags": 8,
+    "access": "https://tede2.pucsp.br/handle/handle/11497"
+  },
+  {
+    "id": "vazquez-2011",
+    "status": "ok",
+    "record": "SCAR_4f381be6e69305f5b86ac03279fbdbe4",
+    "abstract_chars": 1485,
+    "tags": 3,
+    "access": "https://repositorio.ufscar.br/handle/20.500.14289/4427"
+  },
+  {
+    "id": "vendramini-2000",
+    "status": "ok",
+    "record": "UNICAMP-30_6d321c3f1efa4bd562a7ef4494a3c8fe",
+    "abstract_chars": 0,
+    "tags": 3,
+    "access": "https://hdl.handle.net/20.500.12733/1589468"
+  },
+  {
+    "id": "veras-2010",
+    "status": "ok",
+    "record": "PUC_SP-1_d6cfd12dae357ad6843205d321cccbcb",
+    "abstract_chars": 1226,
+    "tags": 2,
+    "access": "https://tede2.pucsp.br/handle/handle/11462"
+  },
+  {
+    "id": "viana-2012",
+    "status": "ok",
+    "record": "USP_5ca6bb844fb94df2abe8a265558f7fd8",
+    "abstract_chars": 2868,
+    "tags": 8,
+    "access": ""
+  },
+  {
+    "id": "vieira-2008",
+    "status": "ok",
+    "record": "PUC_SP-1_a4fe7722d2f35782a96acb1bff02bead",
+    "abstract_chars": 2084,
+    "tags": 10,
+    "access": "https://tede2.pucsp.br/handle/handle/11347"
+  },
+  {
+    "id": "vilas-boas-2004",
+    "status": "ok",
+    "record": "UFLA_12dcd571cbb2ce916a5f82701da51631",
+    "abstract_chars": 898,
+    "tags": 3,
+    "access": ""
+  },
+  {
+    "id": "vita-2012",
+    "status": "ok",
+    "record": "PUC_SP-1_d74c42ed515f92ae902d2670d096622b",
+    "abstract_chars": 3208,
+    "tags": 4,
+    "access": "https://tede2.pucsp.br/handle/handle/10906"
+  },
+  {
+    "id": "wada-1996",
+    "status": "ok",
+    "record": "UNICAMP-30_7c8ee98f7eb94b170f29482b939e80de",
+    "abstract_chars": 0,
+    "tags": 3,
+    "access": "https://hdl.handle.net/20.500.12733/1584200"
+  },
+  {
+    "id": "walichinski-2012",
+    "status": "ok",
+    "record": "UTFPR-12_a36142c39d20a6fa8b9bb1040638cd60",
+    "abstract_chars": 0,
+    "tags": 6,
+    "access": "http://repositorio.utfpr.edu.br/jspui/handle/1/1252"
+  },
+  {
+    "id": "yahata-2012",
+    "status": "sem_registro_bdtd"
+  },
+  {
+    "id": "zanella-2008",
+    "status": "ok",
+    "record": "UFSM_a5f0021078753433d344b718ea423bd8",
+    "abstract_chars": 2634,
+    "tags": 8,
+    "access": "http://repositorio.ufsm.br/handle/1/8063"
+  },
+  {
+    "id": "zeferino-2009",
+    "status": "ok",
+    "record": "P_RS_c034677418effd34fb057095b87de307",
+    "abstract_chars": 1950,
+    "tags": 1,
+    "access": "http://tede2.pucrs.br/tede2/handle/tede/3371"
+  },
+  {
+    "id": "zequim-2010",
+    "status": "sem_registro_bdtd"
+  }
+]

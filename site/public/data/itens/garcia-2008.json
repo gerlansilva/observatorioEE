@@ -1,0 +1,83 @@
+{
+  "id": "garcia-2008",
+  "autor": "Fernanda de Mello Garcia",
+  "ano": 2008,
+  "tipo": "Dissertação",
+  "titulo": "A ideia de variabilidade abordada na 8ª série do ensino fundamental",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Cileda Coutinho",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino de Matemática",
+  "nivel_codigo": "3",
+  "nivel": "Ensino Fundamental – anos finais",
+  "foco_codigo": "1",
+  "foco": "Processo de ensino e aprendizagem da Estocástica",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Estatística",
+  "problema": "aplicar uma sequência didática que aborde a ideia de variabilidade a partir das medidas separatrizes e investigar os significados atribuídos pelos alunos para a variabilidade quando trbalhada num contexto escolar em aulas de matemática",
+  "metodologia": "engenharia didática, com aplicação de uma sequência didática",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "aplicação de uma sequência didática proposta por Batanero",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+ideia+de+variabilidade+abordada+na+8%C2%AA+s%C3%A9rie+do+ensino+fundamental%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+ideia+de+variabilidade+abordada+na+8%C2%AA+s%C3%A9rie+do+ensino+fundamental&type=AllFields",
+    "registro_institucional": "https://tede2.pucsp.br/handle/handle/11339",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_5b7a9b18fbfdcabc48cb80d9bc1ed0b8"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 0.936,
+    "id": "20082433005010030P9",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "GARCIA, F. M.",
+  "orientador_planilha": "Cileda Coutinho",
+  "autor_capes": "Fernanda de Mello Garcia",
+  "programa_capes": "Educação Matemática",
+  "instituicao_capes": "Pontifícia Universidade Católica de São Paulo",
+  "cidade_capes": "São Paulo",
+  "palavras_chave_bdtd": "Análise exploratória de dados; Variabilidade; Medidas separatrizes; Estatistica; Estudo e ensino; Matematica (Elementar); Matematica",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 0.927,
+    "id": "PUC_SP-1_5b7a9b18fbfdcabc48cb80d9bc1ed0b8",
+    "url": "https://tede2.pucsp.br/handle/handle/11339",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Análise exploratória de dados",
+    "Variabilidade",
+    "Medidas separatrizes",
+    "Estatistica",
+    "Estudo e ensino",
+    "Matematica (Elementar)",
+    "Matematica"
+  ],
+  "resumo": "Os Parâmetros Curriculares Nacionais, publicados em 1997, inserem, pela primeira vez no currículo da Escola Básica, um Bloco de conteúdos denominado Tratamento da Informação , contendo assuntos relacionados a Estatística, a Probabilidade e a Análise Combinatória. Surge assim a necessidade dos professores de Matemática trabalhar com esses novos conteúdos. Pesquisas atuais indicam o pouco conhecimento dos professores sobre esse tema, uma vez que em sua formação inicial não o estudaram, ou fizeram-no em uma abordagem tecnicista. Neste trabalho, buscamos responder a seguinte questão: Quais os significados atribuídos por alunos de 8º ano do Ensino Fundamental, para a variabilidade quando trabalhada num contexto escolar em aulas de Matemática? Que contribuições há na compreensão de conteúdos Estatísticos quando os alunos os apreendem em um enfoque exploratório, com uso das medidas separatrizes e com foco na variabilidade? Para isso, elaboramos e aplicamos uma seqüência didática que abordou a idéia de variabilidade pelo uso das medidas separatrizes. Nossos sujeitos de pesquisa foram alunos do 8º ano do atual Ensino Fundamental de 9 anos. Pudemos observar que os alunos envolvidos atribuíram significados à variação dos dados, aos valores observados na determinação das medidas. Observou-se também a necessidade de mais atividades específicas que trabalhem a compreensão do gráfico Box-plot, associando-o a outras representações gráficas",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_5b7a9b18fbfdcabc48cb80d9bc1ed0b8",
+  "ano_bdtd": 2008,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "Pontifícia Universidade Católica de São Paulo",
+  "programa_bdtd": "Programa de Estudos Pós-Graduados em Educação Matemática",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "PUC_SP-1_5b7a9b18fbfdcabc48cb80d9bc1ed0b8",
+    "url": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_5b7a9b18fbfdcabc48cb80d9bc1ed0b8",
+    "fonte": "agente"
+  },
+  "thumbnail": "./assets/images/thumbs/garcia-2008.svg",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_5b7a9b18fbfdcabc48cb80d9bc1ed0b8",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_5b7a9b18fbfdcabc48cb80d9bc1ed0b8",
+    "confianca": "alta"
+  }
+}

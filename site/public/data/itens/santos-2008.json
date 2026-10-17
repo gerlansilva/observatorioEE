@@ -1,0 +1,82 @@
+{
+  "id": "santos-2008",
+  "autor": "Geraldino Moura dos Santos",
+  "ano": 2008,
+  "tipo": "Dissertação",
+  "titulo": "Conceitos estatísticos no desenvolvimento de metodologias interdisciplinares de ensino",
+  "instituicao": "Universidade Federal de Lavras",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Marcelo Silva de Oliveira",
+  "programa": "Estatística e experimentação agrária",
+  "area": "Estatística e Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "",
+  "foco": "Não informado",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Conceitos+estat%C3%ADsticos+no+desenvolvimento+de+metodologias+interdisciplinares+de+ensino%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Conceitos+estat%C3%ADsticos+no+desenvolvimento+de+metodologias+interdisciplinares+de+ensino&type=AllFields",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UFLA_203dffbd154241f633ca0b17efdf7ec2"
+  },
+  "autor_planilha": "SANTOS, G. M.",
+  "orientador_planilha": "",
+  "autor_capes": "Geraldino Moura dos Santos",
+  "programa_capes": "Estatística e Experimentação Agropecuária",
+  "instituicao_capes": "Universidade Federal de Lavras",
+  "cidade_capes": "Lavras",
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "20083832004010011P5",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "palavras_chave_bdtd": "Probabilidade geométrica; Probabilidade frequentista; Distribuição de Marwell; Quincux de Galton; Distribuição normal; Distribuição binomial",
+  "bdtd_api": {
+    "status": "ok",
+    "score": 1.0,
+    "id": "UFLA_203dffbd154241f633ca0b17efdf7ec2",
+    "url": "",
+    "consultado_em": "2026-10-17"
+  },
+  "tags": [
+    "Probabilidade geométrica",
+    "Probabilidade frequentista",
+    "Distribuição de Marwell Quincux de Galton",
+    "Distribuição normal",
+    "Distribuição binomial",
+    "Distribuição de Marwell",
+    "Quincux de Galton"
+  ],
+  "ano_bdtd": 2008,
+  "tipo_bdtd": "Dissertação",
+  "instituicao_bdtd": "UNIVERSIDADE FEDERAL DE LAVRAS",
+  "programa_bdtd": "DEX - Programa de Pós-graduação",
+  "bdtd_registro": {
+    "status": "ok",
+    "id": "UFLA_203dffbd154241f633ca0b17efdf7ec2",
+    "url": "https://bdtd.ibict.br/vufind/Record/UFLA_203dffbd154241f633ca0b17efdf7ec2",
+    "consultado_em": "2026-10-17"
+  },
+  "thumbnail": "./assets/images/thumbs/santos-2008.svg",
+  "resumo": "Nos últimos anos, observou-se crescente interesse em melhorar as práticas no ensino de Estatística, em decorrência, principalmente, da demanda gerada pelo progresso científico e tecnológico das diversas áreas da ciência. Por meio de um amplo espaço de trabalho interdisciplinar e da experimentação, o aluno pode conseguir ampliar seu horizonte e desenvolver sua criatividade. Este trabalho foi realizado com o objetivo geral de apresentar alguns recursos didáticos para o ensino interdisciplinar de Estatística, tanto voltado para a Educação Básica como para o Ensino Superior, a partir de sugestões encontradas na literatura de Estatística, Física e Matemática. No capítulo 2 buscou-se dar suporte teórico e didático aos professores de Matemática e Estatística na solução de problemas envolvendo o conceito de probabilidade geométrica. No capítulo 3, discutiram-se alguns aspectos teóricos, visando auxiliar a compreensão dos conceitos envolvidos na manipulação do Quincux de Galton e, por conseguinte, estimular sua utilização no ensino interdisciplinar de Estatística. Com o capítulo 4, o intuito foi deduzir a lei de distribuição de velocidades de Maxwell, por meio de uma abordagem puramente estatística. As simulações lúdicas e computacionais deram credibilidade aos resultados teóricos obtidos para todos os problemas relacionados à probabilidade geométrica e também aos do Quincux de Galton. No entanto, a simulação computacional forneceu melhores resultados que a lúdica. Os resultados obtidos por meio da distribuição de velocidades de Maxwell foram condizentes com os da teoria cinética dos gases. O Quincux de Galton pode ser utilizado para explicar vários fenômenos, não só na Estatística como também em outros ramos da ciência. As atividades experimentais são excelentes ferramentas para o desenvolvimento da capacidade crítica dos alunos e para torná-los membros participativos do processo de ensino.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/UFLA_203dffbd154241f633ca0b17efdf7ec2",
+  "pesquisa_agente": {
+    "status": "ok",
+    "fonte_resumo": "https://bdtd.ibict.br/vufind/Record/UFLA_203dffbd154241f633ca0b17efdf7ec2",
+    "fonte_palavras": "https://bdtd.ibict.br/vufind/Record/UFLA_203dffbd154241f633ca0b17efdf7ec2",
+    "confianca": "alta"
+  }
+}
