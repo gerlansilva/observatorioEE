@@ -1,61 +1,61 @@
 {
- "id": "capes-41261132",
- "autor": "Katia Barros Cabral dos Santos",
- "ano": 2024,
- "tipo": "Tese",
- "titulo": "ESTUDANTES AUTISTAS EM SALA DE AULA COMUM E REPRESENTAÇÕES VISUAIS OU ALÉM DAS APARÊNCIAS: os desafios da inclusão revelados pela DBR",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Gilda Lisboa Guimaraes",
- "programa": "Educação Matemática e Tecnológica",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "educação estatística; anos iniciais do ensino fundamental; autismo; TEA; inclusão.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22ESTUDANTES%20AUTISTAS%20EM%20SALA%20DE%20AULA%20COMUM%20E%20REPRESENTA%C3%87%C3%95ES%20VISUAIS%20OU%20AL%C3%89M%20DAS%20APAR%C3%8ANCIAS%3A%20os%20desafios%20da%20inclus%C3%A3o%20revelados%20pela%20DBR%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESTUDANTES%20AUTISTAS%20EM%20SALA%20DE%20AULA%20COMUM%20E%20REPRESENTA%C3%87%C3%95ES%20VISUAIS%20OU%20AL%C3%89M%20DAS%20APAR%C3%8ANCIAS%3A%20os%20desafios%20da%20inclus%C3%A3o%20revelados%20pela%20DBR&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41261132"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "41261132",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "educação estatística",
-  "anos iniciais do ensino fundamental",
-  "autismo",
-  "TEA",
-  "inclusão."
- ],
- "thumbnail": "./assets/images/thumbs/capes-41261132.svg",
- "resumo": "O Transtorno do Espectro Autista (TEA) tem sido pauta recorrente no contexto educacional provocada pelo aumento considerável de diagnósticos. Estudos que abordam a Educação Matemática Inclusiva com estudantes autistas trazem aspectos voltados para o uso de elementos não verbais e elementos visuais. Deste modo, essa pesquisa teve como objetivo analisar a potencialidade de representações visuais como estratégia de apropriação de informações por estudantes autistas incluídos em turmas do 5º ano dos anos iniciais do Ensino Fundamental. Especificamente, esta pesquisa objetivou: a) Analisar o contexto escolar em que está inserido o estudante autista; b) Analisar o que os sujeitos do contexto escolar (professor do Atendimento Educacional Especializado - AEE e professor da sala de aula comum) demonstram saber e avaliar sobre o ensino de Estatística e inclusão de crianças autistas nos anos iniciais do Ensino Fundamental; e c) Elaborar, desenvolver e analisar uma proposta didática para a interpretação e construção de gráficos de barras em sala de aula comum que tenha estudantes autistas. Para contemplar os objetivos do estudo, conforme os princípios da Design Based Research (DBR), buscou-se identificar e definir o problema de pesquisa, analisando a perspectiva dos coordenadores municipais de Educação Inclusiva e professores de sala de aula comum e de Atendimento Educacional Especializado. Realizamos três ciclos de iteração, nos quais conduzimos revisões de literatura, entrevistamos professores de Atendimento Educacional Especializado (AEE) e professores de sala de aula, realizamos observação de aula das turmas participantes da pesquisa, conduzimos intervenções para implementar uma proposta didática focada em interpretação e construção de gráficos, e promovemos reuniões com um grupo de especialistas para redesenho. A proposta didática envolvia quatro atividades, as duas primeiras contextualizando interpretação de gráficos, a terceira solicitando interpretação de dados dispostos em um texto e a quarta atividade solicitando interpretação e construção de um gráfico a partir de dados dispostos em uma tabela. As questões solicitavam a interpretação de dados de ponto máximo, confronto entre hipóteses e dados e análise de conclusão. Ficou evidente que os estudantes autistas nível 1 de suporte que participaram do estudo apresentaram desempenho semelhante aos demais estudantes da sala com relação às questões propostas. A realização de ciclos com estudantes nível 2 de suporte moderado nãofoi realizada, uma vez que a ausência de dados e a frequência irregular desses alunos não possibilitou a investigação. Ficou explícito que há muito a ser desenvolvido no campo educacional para que sejam propostas intervenções didáticas que incluam autistas na escola e na sala de aula comum. A pesquisa apontou desafios atitudinais na Educação Inclusiva e reforçou a importância de estratégias específicas para atender às nuances individuais dos estudantes autistas. Conclui-se que a efetiva inclusão de estudantes autistas requer adequações em diversos aspectos, com destaque nesse estudo à importância do letramento estatístico acessível. Isso implica em fornecer suporte educacional adequado aos estudantes e suporte profissional aos educadores para ensinar estatística de forma significativa e inclusiva. Além disso, é fundamental reconhecer a complexidade do autismo, promovendo uma abordagem holística que valorize o potencial de cada estudante.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-41261132",
+  "autor": "Katia Barros Cabral dos Santos",
+  "ano": 2024,
+  "tipo": "Tese",
+  "titulo": "ESTUDANTES AUTISTAS EM SALA DE AULA COMUM E REPRESENTAÇÕES VISUAIS OU ALÉM DAS APARÊNCIAS: os desafios da inclusão revelados pela DBR",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Gilda Lisboa Guimaraes",
+  "programa": "Educação Matemática e Tecnológica",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "educação estatística; anos iniciais do ensino fundamental; autismo; TEA; inclusão.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ESTUDANTES%20AUTISTAS%20EM%20SALA%20DE%20AULA%20COMUM%20E%20REPRESENTA%C3%87%C3%95ES%20VISUAIS%20OU%20AL%C3%89M%20DAS%20APAR%C3%8ANCIAS%3A%20os%20desafios%20da%20inclus%C3%A3o%20revelados%20pela%20DBR%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESTUDANTES%20AUTISTAS%20EM%20SALA%20DE%20AULA%20COMUM%20E%20REPRESENTA%C3%87%C3%95ES%20VISUAIS%20OU%20AL%C3%89M%20DAS%20APAR%C3%8ANCIAS%3A%20os%20desafios%20da%20inclus%C3%A3o%20revelados%20pela%20DBR&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41261132"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "41261132",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "educação estatística",
+    "anos iniciais do ensino fundamental",
+    "autismo",
+    "TEA",
+    "inclusão."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-41261132.svg",
+  "resumo": "O Transtorno do Espectro Autista (TEA) tem sido pauta recorrente no contexto educacional provocada pelo aumento considerável de diagnósticos. Estudos que abordam a Educação Matemática Inclusiva com estudantes autistas trazem aspectos voltados para o uso de elementos não verbais e elementos visuais. Deste modo, essa pesquisa teve como objetivo analisar a potencialidade de representações visuais como estratégia de apropriação de informações por estudantes autistas incluídos em turmas do 5º ano dos anos iniciais do Ensino Fundamental. Especificamente, esta pesquisa objetivou: a) Analisar o contexto escolar em que está inserido o estudante autista; b) Analisar o que os sujeitos do contexto escolar (professor do Atendimento Educacional Especializado - AEE e professor da sala de aula comum) demonstram saber e avaliar sobre o ensino de Estatística e inclusão de crianças autistas nos anos iniciais do Ensino Fundamental; e c) Elaborar, desenvolver e analisar uma proposta didática para a interpretação e construção de gráficos de barras em sala de aula comum que tenha estudantes autistas. Para contemplar os objetivos do estudo, conforme os princípios da Design Based Research (DBR), buscou-se identificar e definir o problema de pesquisa, analisando a perspectiva dos coordenadores municipais de Educação Inclusiva e professores de sala de aula comum e de Atendimento Educacional Especializado. Realizamos três ciclos de iteração, nos quais conduzimos revisões de literatura, entrevistamos professores de Atendimento Educacional Especializado (AEE) e professores de sala de aula, realizamos observação de aula das turmas participantes da pesquisa, conduzimos intervenções para implementar uma proposta didática focada em interpretação e construção de gráficos, e promovemos reuniões com um grupo de especialistas para redesenho. A proposta didática envolvia quatro atividades, as duas primeiras contextualizando interpretação de gráficos, a terceira solicitando interpretação de dados dispostos em um texto e a quarta atividade solicitando interpretação e construção de um gráfico a partir de dados dispostos em uma tabela. As questões solicitavam a interpretação de dados de ponto máximo, confronto entre hipóteses e dados e análise de conclusão. Ficou evidente que os estudantes autistas nível 1 de suporte que participaram do estudo apresentaram desempenho semelhante aos demais estudantes da sala com relação às questões propostas. A realização de ciclos com estudantes nível 2 de suporte moderado nãofoi realizada, uma vez que a ausência de dados e a frequência irregular desses alunos não possibilitou a investigação. Ficou explícito que há muito a ser desenvolvido no campo educacional para que sejam propostas intervenções didáticas que incluam autistas na escola e na sala de aula comum. A pesquisa apontou desafios atitudinais na Educação Inclusiva e reforçou a importância de estratégias específicas para atender às nuances individuais dos estudantes autistas. Conclui-se que a efetiva inclusão de estudantes autistas requer adequações em diversos aspectos, com destaque nesse estudo à importância do letramento estatístico acessível. Isso implica em fornecer suporte educacional adequado aos estudantes e suporte profissional aos educadores para ensinar estatística de forma significativa e inclusiva. Além disso, é fundamental reconhecer a complexidade do autismo, promovendo uma abordagem holística que valorize o potencial de cada estudante.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

@@ -1,57 +1,57 @@
 {
- "id": "capes-11960148",
- "autor": "Jose Ferreira de Souza",
- "ano": 2015,
- "tipo": "Tese",
- "titulo": "Estilos de Aprendizagem no ensino de estatística: um estudo em um Curso Superior de Gestão de Recursos Humanos",
- "instituicao": "Universidade Cruzeiro do Sul",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Luiz Henrique Amaral",
- "programa": "Ensino de Ciências",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Estatística, Aprendizagem significativa, Estilos de aprendizagem, Conhecimentos prévios.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Estilos%20de%20Aprendizagem%20no%20ensino%20de%20estat%C3%ADstica%3A%20um%20estudo%20em%20um%20Curso%20Superior%20de%20Gest%C3%A3o%20de%20Recursos%20Humanos%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estilos%20de%20Aprendizagem%20no%20ensino%20de%20estat%C3%ADstica%3A%20um%20estudo%20em%20um%20Curso%20Superior%20de%20Gest%C3%A3o%20de%20Recursos%20Humanos&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/11960148"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "11960148",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Estatística, Aprendizagem significativa, Estilos de aprendizagem, Conhecimentos prévios."
- ],
- "thumbnail": "./assets/images/thumbs/capes-11960148.svg",
- "resumo": "Esta pesquisa propôs-se a analisar conhecimentos básicos de estatística, utilizados em sala de aula no estudo sobre pesquisa salarial, com o objetivo de identificar as influências do conhecimento de conteúdo de estatística na aprendizagem de análise de Cargos e Salários em um Curso Superior de Tecnologia em Gestão de Recursos Humanos. O referencial teórico empregado abrangeu os principais aspectos do ensino da estatística, da aprendizagem significativa baseada nos estudos de Ausubel e dos estilos de aprendizagem fundamentados no modelo de Felder-Silverman. Esta tese se utilizou de uma pesquisa de caráter exploratório e qualitativo, e a análise das entrevistas, do questionário e das atividades realizadas com duas turmas de um curso superior de gestão de recursos humanos revelou a fragilidade dos alunos na utilização de conhecimentos básicos e fundamentais de estatística. O objetivo de entender os estilos de aprendizagem dos alunos, desenvolvido neste trabalho, indica que é possível criar diretrizes e orientar o ensino com o intuito de melhorar o nível e a qualidade da aprendizagem. Quanto mais informações sobre seus estudantes e quanto mais estratégias de ensino o docente desenvolver, maior será sua chance de lidar com as diferenças num ambiente de aprendizagem e menor será a chance de fracasso na aprendizagem dos alunos. As estratégias de ensino, as formas de lidar com as diferentes maneiras de apresentar as informações aos alunos e de organizar as situações de aprendizagem são fundamentais para uma aprendizagem significativa.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-11960148",
+  "autor": "Jose Ferreira de Souza",
+  "ano": 2015,
+  "tipo": "Tese",
+  "titulo": "Estilos de Aprendizagem no ensino de estatística: um estudo em um Curso Superior de Gestão de Recursos Humanos",
+  "instituicao": "Universidade Cruzeiro do Sul",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Luiz Henrique Amaral",
+  "programa": "Ensino de Ciências",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Estatística, Aprendizagem significativa, Estilos de aprendizagem, Conhecimentos prévios.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Estilos%20de%20Aprendizagem%20no%20ensino%20de%20estat%C3%ADstica%3A%20um%20estudo%20em%20um%20Curso%20Superior%20de%20Gest%C3%A3o%20de%20Recursos%20Humanos%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estilos%20de%20Aprendizagem%20no%20ensino%20de%20estat%C3%ADstica%3A%20um%20estudo%20em%20um%20Curso%20Superior%20de%20Gest%C3%A3o%20de%20Recursos%20Humanos&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/11960148"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "11960148",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Estatística, Aprendizagem significativa, Estilos de aprendizagem, Conhecimentos prévios."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-11960148.svg",
+  "resumo": "Esta pesquisa propôs-se a analisar conhecimentos básicos de estatística, utilizados em sala de aula no estudo sobre pesquisa salarial, com o objetivo de identificar as influências do conhecimento de conteúdo de estatística na aprendizagem de análise de Cargos e Salários em um Curso Superior de Tecnologia em Gestão de Recursos Humanos. O referencial teórico empregado abrangeu os principais aspectos do ensino da estatística, da aprendizagem significativa baseada nos estudos de Ausubel e dos estilos de aprendizagem fundamentados no modelo de Felder-Silverman. Esta tese se utilizou de uma pesquisa de caráter exploratório e qualitativo, e a análise das entrevistas, do questionário e das atividades realizadas com duas turmas de um curso superior de gestão de recursos humanos revelou a fragilidade dos alunos na utilização de conhecimentos básicos e fundamentais de estatística. O objetivo de entender os estilos de aprendizagem dos alunos, desenvolvido neste trabalho, indica que é possível criar diretrizes e orientar o ensino com o intuito de melhorar o nível e a qualidade da aprendizagem. Quanto mais informações sobre seus estudantes e quanto mais estratégias de ensino o docente desenvolver, maior será sua chance de lidar com as diferenças num ambiente de aprendizagem e menor será a chance de fracasso na aprendizagem dos alunos. As estratégias de ensino, as formas de lidar com as diferentes maneiras de apresentar as informações aos alunos e de organizar as situações de aprendizagem são fundamentais para uma aprendizagem significativa.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

@@ -1,62 +1,62 @@
 {
- "id": "capes-38514481",
- "autor": "Tabata Suelen da Silva Capelli",
- "ano": 2023,
- "tipo": "Dissertação",
- "titulo": "Uma sequência de ensino de estatística e probabilidades para o ensino fundamental e médio, com uso de um software específico",
- "instituicao": "Universidade Tecnológica Federal do Paraná",
- "cidade": "",
- "estado": "Paraná",
- "regiao": "Sul",
- "orientador": "Leonardo Sturion",
- "programa": "Ensino de Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Matemática; Estatística; Sequência de ensino; Probabilidades",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Uma%20sequ%C3%AAncia%20de%20ensino%20de%20estat%C3%ADstica%20e%20probabilidades%20para%20o%20ensino%20fundamental%20e%20m%C3%A9dio%2C%20com%20uso%20de%20um%20software%20espec%C3%ADfico%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma%20sequ%C3%AAncia%20de%20ensino%20de%20estat%C3%ADstica%20e%20probabilidades%20para%20o%20ensino%20fundamental%20e%20m%C3%A9dio%2C%20com%20uso%20de%20um%20software%20espec%C3%ADfico&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38514481"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "38514481",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Matemática",
-  "Estatística",
-  "Sequência de ensino",
-  "Probabilidades"
- ],
- "thumbnail": "./assets/images/thumbs/capes-38514481.svg",
- "resumo": "Com as atuais crises educacionais, informações sendo divulgadas a todo o momento pelas mídias sociais, a importância de se desenvolver um pensamento crítico, estatístico e matemático se torna cada vez maior. O presente estudo é uma pesquisa de cunho quali/quantitativa que teve como objetivo principal elaborar, implementar e analisar uma sequência didática envolvendo atividades de ensino de Estatística para a educação fundamental 8º e 9º anos e para o ensino médio do colégio estadual Professor Luiz Isidoro Cerávolo do município de Apucarana-PR Este questionário investigou a opinião dos alunos sobre o tema de acordo com os parâmetros curriculares estabelecidos pela BNCC. Além disso, visou desenvolver e acompanhar as habilidades dos alunos através da coleta dos dados, tratamento estatístico e sua interpretação. A Metodologia utilizada foi de cunho quali/quantitativa através das principais fontes de informação sobre o tema. Os dados foram obtidos através de uma aplicação de um questionário para levantar a realidade em que o aluno está inserido, buscou analisar os dados e atitudes relacionadas a área de Estatística dos alunos para tal utilizou-se um software específico o Bioestat 5.3. Por meio dos dados coletados, analisados e tabulados, foi elaborado uma sequência de atividades com o tema Educação Estatística e probabilidade, utilizando-se de conceitos ministrados nas aulas de estatística, dentro da disciplina de matemática com o intuito de obter um produto educacional, que possa auxiliar professores que ministram estatística na Educação fundamental e ensino médio.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística",
-  "ensino de probabilidades"
- ],
- "ids_duplicados": []
+  "id": "capes-38514481",
+  "autor": "Tabata Suelen da Silva Capelli",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "Uma sequência de ensino de estatística e probabilidades para o ensino fundamental e médio, com uso de um software específico",
+  "instituicao": "Universidade Tecnológica Federal do Paraná",
+  "cidade": "",
+  "estado": "Paraná",
+  "regiao": "Sul",
+  "orientador": "Leonardo Sturion",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Matemática; Estatística; Sequência de ensino; Probabilidades",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Uma%20sequ%C3%AAncia%20de%20ensino%20de%20estat%C3%ADstica%20e%20probabilidades%20para%20o%20ensino%20fundamental%20e%20m%C3%A9dio%2C%20com%20uso%20de%20um%20software%20espec%C3%ADfico%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma%20sequ%C3%AAncia%20de%20ensino%20de%20estat%C3%ADstica%20e%20probabilidades%20para%20o%20ensino%20fundamental%20e%20m%C3%A9dio%2C%20com%20uso%20de%20um%20software%20espec%C3%ADfico&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38514481"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "38514481",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Matemática",
+    "Estatística",
+    "Sequência de ensino",
+    "Probabilidades"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-38514481.svg",
+  "resumo": "Com as atuais crises educacionais, informações sendo divulgadas a todo o momento pelas mídias sociais, a importância de se desenvolver um pensamento crítico, estatístico e matemático se torna cada vez maior. O presente estudo é uma pesquisa de cunho quali/quantitativa que teve como objetivo principal elaborar, implementar e analisar uma sequência didática envolvendo atividades de ensino de Estatística para a educação fundamental 8º e 9º anos e para o ensino médio do colégio estadual Professor Luiz Isidoro Cerávolo do município de Apucarana-PR Este questionário investigou a opinião dos alunos sobre o tema de acordo com os parâmetros curriculares estabelecidos pela BNCC. Além disso, visou desenvolver e acompanhar as habilidades dos alunos através da coleta dos dados, tratamento estatístico e sua interpretação. A Metodologia utilizada foi de cunho quali/quantitativa através das principais fontes de informação sobre o tema. Os dados foram obtidos através de uma aplicação de um questionário para levantar a realidade em que o aluno está inserido, buscou analisar os dados e atitudes relacionadas a área de Estatística dos alunos para tal utilizou-se um software específico o Bioestat 5.3. Por meio dos dados coletados, analisados e tabulados, foi elaborado uma sequência de atividades com o tema Educação Estatística e probabilidade, utilizando-se de conceitos ministrados nas aulas de estatística, dentro da disciplina de matemática com o intuito de obter um produto educacional, que possa auxiliar professores que ministram estatística na Educação fundamental e ensino médio.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística",
+    "ensino de probabilidades"
+  ],
+  "ids_duplicados": []
 }

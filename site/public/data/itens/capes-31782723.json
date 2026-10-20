@@ -1,59 +1,59 @@
 {
- "id": "capes-31782723",
- "autor": "Ingridh Fernandes Beliato",
- "ano": 2020,
- "tipo": "Dissertação",
- "titulo": "O Desenvolvimento das Competências Estatísticas com o Uso do Software Geogebra",
- "instituicao": "Universidade Estadual do Norte do Paraná",
- "cidade": "",
- "estado": "Paraná",
- "regiao": "Sul",
- "orientador": "Rudolph dos Santos Gomes Pereira",
- "programa": "Ensino",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Competências Estatísticas; Ensino de Estatística; Ensino de Matemática",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20DESENVOLVIMENTO%20DAS%20COMPET%C3%8ANCIAS%20ESTAT%C3%8DSTICAS%20COM%20O%20USO%20DO%20SOFTWARE%20GEOGEBRA%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20DESENVOLVIMENTO%20DAS%20COMPET%C3%8ANCIAS%20ESTAT%C3%8DSTICAS%20COM%20O%20USO%20DO%20SOFTWARE%20GEOGEBRA&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31782723"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "31782723",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Competências Estatísticas",
-  "Ensino de Estatística",
-  "Ensino de Matemática"
- ],
- "thumbnail": "./assets/images/thumbs/capes-31782723.svg",
- "resumo": "O desenvolvimento das competências estatísticas é essencial para fornecer aos alunos uma formação para a atuação em sociedade, pois é necessário que cidadãos saibam assimilar e refletir acerca das inúmeras informações que nos cercam diariamente. Essa pesquisa teve por objetivo investigar o desenvolvimento das competências estatísticas por meio de um caderno de atividades com o aporte do software GeoGebra. Para se alcançar o objetivo proposto, foi desenvolvida no em novembro de 2019 uma pesquisa qualitativa de análise interpretativa com uma turma de 9º no Ensino Fundamental de um colégio particular da cidade de Cornélio Procópio, Paraná. O caderno de atividades foi composto por seis atividades que buscaram aproximar os conteúdos de estatística à realidade do aluno, se preocupando não somente com a execução de cálculos e fórmulas, mas com o entendimento dos conteúdos aplicações no cotidiano. Os resultados obtidos foram analisados qualitativamente por meio das interpretações dos registros dos alunos e observações registradas nos diários de bordo segundo os pressupostos de Flick (2013) e Bogdan e Biklen (1994). As análises demonstraram que o caderno de atividades com o uso do GeoGebra proporcionou o envolvimento dos alunos, expressando, por meio de registros, uma melhora considerável do entendimento dos conceitos abordados, bem como a compreensão dos seus significados e aplicações. Observou-se que os alunos conseguiram ler, interpretar e compreender os dados representados de diversas formas, além de terem inferido considerações acerca dos dados. As atividades com o auxílio do GeoGebra também proporcionaram uma visualização melhor e mais ágil dos dados, oportunizando espaço para o levantamento de arguições e reflexões acerca dos dados. Desse modo, considera-se que as atividades com uso do GeoGebra viabilizaram o desenvolvimento do letramento, pensamento e raciocínio estatístico.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-31782723",
+  "autor": "Ingridh Fernandes Beliato",
+  "ano": 2020,
+  "tipo": "Dissertação",
+  "titulo": "O Desenvolvimento das Competências Estatísticas com o Uso do Software Geogebra",
+  "instituicao": "Universidade Estadual do Norte do Paraná",
+  "cidade": "",
+  "estado": "Paraná",
+  "regiao": "Sul",
+  "orientador": "Rudolph dos Santos Gomes Pereira",
+  "programa": "Ensino",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Competências Estatísticas; Ensino de Estatística; Ensino de Matemática",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20DESENVOLVIMENTO%20DAS%20COMPET%C3%8ANCIAS%20ESTAT%C3%8DSTICAS%20COM%20O%20USO%20DO%20SOFTWARE%20GEOGEBRA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20DESENVOLVIMENTO%20DAS%20COMPET%C3%8ANCIAS%20ESTAT%C3%8DSTICAS%20COM%20O%20USO%20DO%20SOFTWARE%20GEOGEBRA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31782723"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "31782723",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Competências Estatísticas",
+    "Ensino de Estatística",
+    "Ensino de Matemática"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-31782723.svg",
+  "resumo": "O desenvolvimento das competências estatísticas é essencial para fornecer aos alunos uma formação para a atuação em sociedade, pois é necessário que cidadãos saibam assimilar e refletir acerca das inúmeras informações que nos cercam diariamente. Essa pesquisa teve por objetivo investigar o desenvolvimento das competências estatísticas por meio de um caderno de atividades com o aporte do software GeoGebra. Para se alcançar o objetivo proposto, foi desenvolvida no em novembro de 2019 uma pesquisa qualitativa de análise interpretativa com uma turma de 9º no Ensino Fundamental de um colégio particular da cidade de Cornélio Procópio, Paraná. O caderno de atividades foi composto por seis atividades que buscaram aproximar os conteúdos de estatística à realidade do aluno, se preocupando não somente com a execução de cálculos e fórmulas, mas com o entendimento dos conteúdos aplicações no cotidiano. Os resultados obtidos foram analisados qualitativamente por meio das interpretações dos registros dos alunos e observações registradas nos diários de bordo segundo os pressupostos de Flick (2013) e Bogdan e Biklen (1994). As análises demonstraram que o caderno de atividades com o uso do GeoGebra proporcionou o envolvimento dos alunos, expressando, por meio de registros, uma melhora considerável do entendimento dos conceitos abordados, bem como a compreensão dos seus significados e aplicações. Observou-se que os alunos conseguiram ler, interpretar e compreender os dados representados de diversas formas, além de terem inferido considerações acerca dos dados. As atividades com o auxílio do GeoGebra também proporcionaram uma visualização melhor e mais ágil dos dados, oportunizando espaço para o levantamento de arguições e reflexões acerca dos dados. Desse modo, considera-se que as atividades com uso do GeoGebra viabilizaram o desenvolvimento do letramento, pensamento e raciocínio estatístico.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

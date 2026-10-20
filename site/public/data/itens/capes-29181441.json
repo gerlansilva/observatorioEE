@@ -1,62 +1,62 @@
 {
- "id": "capes-29181441",
- "autor": "Douglas Willian Nogueira de Souza",
- "ano": 2018,
- "tipo": "Dissertação",
- "titulo": "Mobilização do Letramento Estatístico Articulado ao Contexto Socioambiental",
- "instituicao": "Universidade Federal do Amazonas",
- "cidade": "",
- "estado": "Amazonas",
- "regiao": "Norte",
- "orientador": "Marcos Andre Braz Vaz",
- "programa": "Ensino de Ciências e Humanidades",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Ambientação; Engenharia Didática; Educação Estatística; Teoria dos Campos Conceituais; Teoria das Situações Didáticas.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22MOBILIZA%C3%87%C3%83O%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20ARTICULADO%20AO%20CONTEXTO%20SOCIOAMBIENTAL%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=MOBILIZA%C3%87%C3%83O%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20ARTICULADO%20AO%20CONTEXTO%20SOCIOAMBIENTAL&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29181441"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "29181441",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Ambientação",
-  "Engenharia Didática",
-  "Educação Estatística",
-  "Teoria dos Campos Conceituais",
-  "Teoria das Situações Didáticas."
- ],
- "thumbnail": "./assets/images/thumbs/capes-29181441.svg",
- "resumo": "O objetivo desta pesquisa foi analisar se o letramento estatístico ocorre em alunos do 5° ano do Ensino Fundamental por meio da articulação com o contexto socioambiental. De forma a obter êxito em nosso objetivo, utilizamos a Teoria dos Campos Conceituais de Vergnaud, pois esta nos proporcionou um quadro teórico acerca do desenvolvimento cognitivo do sujeito em meio a situações de aprendizagem e a Teoria das Situações Didáticas desenvolvida por Brousseau, em que exploramos as situações adidáticas. Para a elaboração, desenvolvimento e análise de nossa sequência didática, utilizamos a Engenharia Didática como referencial metodológico. Os sujeitos de nossa pesquisa foram cinco alunos, sorteados aleatoriamente, do 5º ano do Ensino Fundamental de uma escola pública localizada no município de Humaitá - AM. A construção e análise dos dados foram realizadas por meio dos protocolos de produção e gravações audiovisuais das conversas dos alunos durante quatro encontros previstos. Em cada um deles, foi articulado o letramento estatístico com o contexto socioambiental, através das seguintes atividades propostas: “Coleta Seletiva na escola”, “Horta vertical com garrafas PET” e “Piquenique Sustentável” com os alunos. Deste modo, com base na elaboração de seis teoremas-em-ação relacionados com os três níveis de letramento estatístico, pudemos afirmar que a articulação com o contexto socioambiental promoveu a mobilização dos níveis, cultural, funcional e científico, evidenciando conceitos como relação de ordem e entre conjuntos, cálculo mental, operação matemática e conceito de arranjos simples. Assim, mediante as reflexões acerca das escolhas teórico-metodológicas, verificamos que as propostas socioambientais apresentam-se tanto como propostas de sensibilização quanto de integração curricular.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "letramento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-29181441",
+  "autor": "Douglas Willian Nogueira de Souza",
+  "ano": 2018,
+  "tipo": "Dissertação",
+  "titulo": "Mobilização do Letramento Estatístico Articulado ao Contexto Socioambiental",
+  "instituicao": "Universidade Federal do Amazonas",
+  "cidade": "",
+  "estado": "Amazonas",
+  "regiao": "Norte",
+  "orientador": "Marcos Andre Braz Vaz",
+  "programa": "Ensino de Ciências e Humanidades",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Ambientação; Engenharia Didática; Educação Estatística; Teoria dos Campos Conceituais; Teoria das Situações Didáticas.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22MOBILIZA%C3%87%C3%83O%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20ARTICULADO%20AO%20CONTEXTO%20SOCIOAMBIENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=MOBILIZA%C3%87%C3%83O%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20ARTICULADO%20AO%20CONTEXTO%20SOCIOAMBIENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29181441"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "29181441",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Ambientação",
+    "Engenharia Didática",
+    "Educação Estatística",
+    "Teoria dos Campos Conceituais",
+    "Teoria das Situações Didáticas."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-29181441.svg",
+  "resumo": "O objetivo desta pesquisa foi analisar se o letramento estatístico ocorre em alunos do 5° ano do Ensino Fundamental por meio da articulação com o contexto socioambiental. De forma a obter êxito em nosso objetivo, utilizamos a Teoria dos Campos Conceituais de Vergnaud, pois esta nos proporcionou um quadro teórico acerca do desenvolvimento cognitivo do sujeito em meio a situações de aprendizagem e a Teoria das Situações Didáticas desenvolvida por Brousseau, em que exploramos as situações adidáticas. Para a elaboração, desenvolvimento e análise de nossa sequência didática, utilizamos a Engenharia Didática como referencial metodológico. Os sujeitos de nossa pesquisa foram cinco alunos, sorteados aleatoriamente, do 5º ano do Ensino Fundamental de uma escola pública localizada no município de Humaitá - AM. A construção e análise dos dados foram realizadas por meio dos protocolos de produção e gravações audiovisuais das conversas dos alunos durante quatro encontros previstos. Em cada um deles, foi articulado o letramento estatístico com o contexto socioambiental, através das seguintes atividades propostas: “Coleta Seletiva na escola”, “Horta vertical com garrafas PET” e “Piquenique Sustentável” com os alunos. Deste modo, com base na elaboração de seis teoremas-em-ação relacionados com os três níveis de letramento estatístico, pudemos afirmar que a articulação com o contexto socioambiental promoveu a mobilização dos níveis, cultural, funcional e científico, evidenciando conceitos como relação de ordem e entre conjuntos, cálculo mental, operação matemática e conceito de arranjos simples. Assim, mediante as reflexões acerca das escolhas teórico-metodológicas, verificamos que as propostas socioambientais apresentam-se tanto como propostas de sensibilização quanto de integração curricular.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
 }

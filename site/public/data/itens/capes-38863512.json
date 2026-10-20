@@ -1,63 +1,63 @@
 {
- "id": "capes-38863512",
- "autor": "Joao Luis Dias Almeida",
- "ano": 2023,
- "tipo": "Dissertação",
- "titulo": "Diretrizes Curriculares: Ensino e Aprendizagem de Probabilidade e Estatística nos Anos Iniciais do Ensino Fundamental",
- "instituicao": "Universidade Cruzeiro do Sul",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Marcio Eugen Klingenschmid Lopes dos Santos",
- "programa": "Ensino de Ciências",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Probabilidade; Estatística; Educação; Diretrizes Curriculares; Anos Iniciais; Ensino Fundamental",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22DIRETRIZES%20CURRICULARES%3A%20ENSINO%20E%20APRENDIZAGEM%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=DIRETRIZES%20CURRICULARES%3A%20ENSINO%20E%20APRENDIZAGEM%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38863512"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "38863512",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Probabilidade",
-  "Estatística",
-  "Educação",
-  "Diretrizes Curriculares",
-  "Anos Iniciais",
-  "Ensino Fundamental"
- ],
- "thumbnail": "./assets/images/thumbs/capes-38863512.svg",
- "resumo": "Este trabalho buscou compreender como o ensino e aprendizagem de Probabilidade e a Estatística estão inseridas nos documentos curriculares internacionais de Matemática de Portugal, Espanha, Austrália e Nova Zelândia, nos anos que guardem alguma equivalência com os cinco primeiros anos do Ensino Fundamental Brasileiro. Para tanto, recorreu-se à abordagem qualitativa de pesquisa, do tipo Análise Documental, para a obtenção de dados, recorrendo também à Análise Textual Discursiva, como metodologia de análise dos dados obtidos. Por mais que o foco das análises esteja nos documentos curriculares internacionais estudados, neste trabalho tecemos algumas considerações acerca de documentos curriculares brasileiros, por se tratar do contexto no qual se deu a pesquisa. Neste trabalho busca-se responder a seguinte pergunta de pesquisa: quais indicadores curriculares se tornam imprescindíveis ao se construir uma proposta curricular de ensino e aprendizagem de probabilidade e estatística, após a análise de documentos curriculares internacionais de matemática? Os resultados têm mostrado que o conjunto das análises dos documentos curriculares internacionais de Matemática escolhidos, contribuem significativamente para a produção de conhecimento científico, enquanto se busca responder à pergunta de pesquisa.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-38863512",
+  "autor": "Joao Luis Dias Almeida",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "Diretrizes Curriculares: Ensino e Aprendizagem de Probabilidade e Estatística nos Anos Iniciais do Ensino Fundamental",
+  "instituicao": "Universidade Cruzeiro do Sul",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Marcio Eugen Klingenschmid Lopes dos Santos",
+  "programa": "Ensino de Ciências",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Probabilidade; Estatística; Educação; Diretrizes Curriculares; Anos Iniciais; Ensino Fundamental",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22DIRETRIZES%20CURRICULARES%3A%20ENSINO%20E%20APRENDIZAGEM%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=DIRETRIZES%20CURRICULARES%3A%20ENSINO%20E%20APRENDIZAGEM%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38863512"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "38863512",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Probabilidade",
+    "Estatística",
+    "Educação",
+    "Diretrizes Curriculares",
+    "Anos Iniciais",
+    "Ensino Fundamental"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-38863512.svg",
+  "resumo": "Este trabalho buscou compreender como o ensino e aprendizagem de Probabilidade e a Estatística estão inseridas nos documentos curriculares internacionais de Matemática de Portugal, Espanha, Austrália e Nova Zelândia, nos anos que guardem alguma equivalência com os cinco primeiros anos do Ensino Fundamental Brasileiro. Para tanto, recorreu-se à abordagem qualitativa de pesquisa, do tipo Análise Documental, para a obtenção de dados, recorrendo também à Análise Textual Discursiva, como metodologia de análise dos dados obtidos. Por mais que o foco das análises esteja nos documentos curriculares internacionais estudados, neste trabalho tecemos algumas considerações acerca de documentos curriculares brasileiros, por se tratar do contexto no qual se deu a pesquisa. Neste trabalho busca-se responder a seguinte pergunta de pesquisa: quais indicadores curriculares se tornam imprescindíveis ao se construir uma proposta curricular de ensino e aprendizagem de probabilidade e estatística, após a análise de documentos curriculares internacionais de matemática? Os resultados têm mostrado que o conjunto das análises dos documentos curriculares internacionais de Matemática escolhidos, contribuem significativamente para a produção de conhecimento científico, enquanto se busca responder à pergunta de pesquisa.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

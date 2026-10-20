@@ -1,60 +1,60 @@
 {
- "id": "capes-30761051",
- "autor": "Alan Gustavo Ferreira",
- "ano": 2019,
- "tipo": "Dissertação",
- "titulo": "Organizações Matemáticas e Didáticas no Ensino de Combinatória",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Fernando Emilio Leite de Almeida",
- "programa": "Educação em Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Combinatória; Teoria antropológica do didático.; Organizações matemáticas.; Organizações didáticas.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22ORGANIZA%C3%87%C3%95ES%20MATEM%C3%81TICAS%20E%20DID%C3%81TICAS%20NO%20ENSINO%20DE%20COMBINAT%C3%93RIA%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ORGANIZA%C3%87%C3%95ES%20MATEM%C3%81TICAS%20E%20DID%C3%81TICAS%20NO%20ENSINO%20DE%20COMBINAT%C3%93RIA&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30761051"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "30761051",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Combinatória",
-  "Teoria antropológica do didático.",
-  "Organizações matemáticas.",
-  "Organizações didáticas."
- ],
- "thumbnail": "./assets/images/thumbs/capes-30761051.svg",
- "resumo": "Esta investigação teve como objetivo analisar as características relativas ao ensino de Combinatória no Ensino Médio; de maneira especial, centra-se na análise sobre as atividades matemática e didática do professor em torno do estudo de Combinatória. Para estudar as condições e as características do ensino de Combinatória, ancoramos este estudo na Teoria Antropológica do Didático, desenvolvida por Chevallard e colaboradores. Mais especificamente, centramos nossas análises nas praxeologias matemáticas e didáticas. Trata-se de uma pesquisa de abordagem qualitativa, do tipo estudo de caso. Elegemos como sujeito da pesquisa um professor de matemática do ensino médio. A implementação da metodologia possibilitou identificar, de forma explícita, os tipos de tarefas e as técnicas que permitem cumpri-las e tecnologias que justificam essas técnicas, bem como os seis momentos de estudo. Os principais resultados encontrados apontam que, é possível encontrarmos nas aulas observadas do professor os tipos de tarefa T1, T2 e T3, que referem-se aos problemas de contagem do tipo permutação, arranjo e combinação. Dentre das técnicas utilizadas para realizar os tipos e subtipos de tarefas, destacamos a aplicação do princípio multiplicativo, que tem provado ser uma ferramenta útil na resolução de tarefas desses tipos. No entanto, foi possível perceber que, na constituição do entorno tecnológico-teórico, não se explorou adequadamente a demarcação dos agrupamentos a partir das distintas disposições que seus elementos podem adotar – ordem e natureza.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de combinatória"
- ],
- "ids_duplicados": []
+  "id": "capes-30761051",
+  "autor": "Alan Gustavo Ferreira",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "Organizações Matemáticas e Didáticas no Ensino de Combinatória",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Fernando Emilio Leite de Almeida",
+  "programa": "Educação em Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Combinatória; Teoria antropológica do didático.; Organizações matemáticas.; Organizações didáticas.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ORGANIZA%C3%87%C3%95ES%20MATEM%C3%81TICAS%20E%20DID%C3%81TICAS%20NO%20ENSINO%20DE%20COMBINAT%C3%93RIA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ORGANIZA%C3%87%C3%95ES%20MATEM%C3%81TICAS%20E%20DID%C3%81TICAS%20NO%20ENSINO%20DE%20COMBINAT%C3%93RIA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30761051"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30761051",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Combinatória",
+    "Teoria antropológica do didático.",
+    "Organizações matemáticas.",
+    "Organizações didáticas."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30761051.svg",
+  "resumo": "Esta investigação teve como objetivo analisar as características relativas ao ensino de Combinatória no Ensino Médio; de maneira especial, centra-se na análise sobre as atividades matemática e didática do professor em torno do estudo de Combinatória. Para estudar as condições e as características do ensino de Combinatória, ancoramos este estudo na Teoria Antropológica do Didático, desenvolvida por Chevallard e colaboradores. Mais especificamente, centramos nossas análises nas praxeologias matemáticas e didáticas. Trata-se de uma pesquisa de abordagem qualitativa, do tipo estudo de caso. Elegemos como sujeito da pesquisa um professor de matemática do ensino médio. A implementação da metodologia possibilitou identificar, de forma explícita, os tipos de tarefas e as técnicas que permitem cumpri-las e tecnologias que justificam essas técnicas, bem como os seis momentos de estudo. Os principais resultados encontrados apontam que, é possível encontrarmos nas aulas observadas do professor os tipos de tarefa T1, T2 e T3, que referem-se aos problemas de contagem do tipo permutação, arranjo e combinação. Dentre das técnicas utilizadas para realizar os tipos e subtipos de tarefas, destacamos a aplicação do princípio multiplicativo, que tem provado ser uma ferramenta útil na resolução de tarefas desses tipos. No entanto, foi possível perceber que, na constituição do entorno tecnológico-teórico, não se explorou adequadamente a demarcação dos agrupamentos a partir das distintas disposições que seus elementos podem adotar – ordem e natureza.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de combinatória"
+  ],
+  "ids_duplicados": []
 }

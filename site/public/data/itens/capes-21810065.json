@@ -1,58 +1,58 @@
 {
- "id": "capes-21810065",
- "autor": "Debora Regina Bassan",
- "ano": 2016,
- "tipo": "Dissertação",
- "titulo": "Elementos de Análise Combinatória no Ensino Fundamental: Uma Abordagem com Mágicas e Resolução de Problemas",
- "instituicao": "Universidade Federal de São Carlos",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Pedro Luiz Aparecido Malagutti",
- "programa": "Ensino de Ciências Exatas",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino de Combinatória; Mágica matemática. Problemas de contagem.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22ELEMENTOS%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20NO%20ENSINO%20FUNDAMENTAL%3A%20UMA%20ABORDAGEM%20COM%20M%C3%81GICAS%20E%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ELEMENTOS%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20NO%20ENSINO%20FUNDAMENTAL%3A%20UMA%20ABORDAGEM%20COM%20M%C3%81GICAS%20E%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21810065"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "21810065",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino de Combinatória",
-  "Mágica matemática. Problemas de contagem."
- ],
- "thumbnail": "./assets/images/thumbs/capes-21810065.svg",
- "resumo": "Esse trabalho tem por objetivo desenvolver o conteúdo de Análise Combinatória em uma turma do 6o e do 7o ano do Ensino Fundamental II, em uma escola do interior do Estado de São Paulo. Para isso, fez-se o uso de atividades contextualizadas utilizando folhas-atividades e recursos envolvendo mágicas, visando despertar a curiosidade e o interesse em aprender Combinatória por meio de resolução de problemas. O tema foi escolhido devido à dificuldade dos alunos em resolver problemas de contagem e por ser pouco explorado no Ensino Básico, apesar de constar nos documentos oficiais- Parâmetros Curriculares Nacionais e Currículo do Estado de São Paulo. Optou-se pelo recurso das mágicas matemáticas para tornar mais significativa e prazerosa a aprendizagem de Combinatória, buscando-se a motivação dos alunos a participar ativamente das aulas, unindo o prazer ao ato de aprender. Durante a realização das atividades, notou-se que os alunos se sentiram motivados, relacionando o conteúdo de Análise Combinatória com uma prática divertida através da mágica. Eles demonstraram bastante entusiasmo na realização das atividades, principalmente nos dias que tinha a mágica. A proposta didática com o uso das folhas-atividades alcançou a maioria dos alunos, que se empenharam e foram bastante ativos durante as aulas, resultando na aprendizagem de fato do conteúdo de Análise Combinatória. Todas as atividades atingiram os objetivos propostos, validando as propostas do professor. Após a realização das atividades, os alunos se sentiram mais confiantes para expor seu raciocínio, apresentar estratégias de resolução e explorar o problema em busca de uma solução adequada.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de combinatória"
- ],
- "ids_duplicados": []
+  "id": "capes-21810065",
+  "autor": "Debora Regina Bassan",
+  "ano": 2016,
+  "tipo": "Dissertação",
+  "titulo": "Elementos de Análise Combinatória no Ensino Fundamental: Uma Abordagem com Mágicas e Resolução de Problemas",
+  "instituicao": "Universidade Federal de São Carlos",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Pedro Luiz Aparecido Malagutti",
+  "programa": "Ensino de Ciências Exatas",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Combinatória; Mágica matemática. Problemas de contagem.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ELEMENTOS%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20NO%20ENSINO%20FUNDAMENTAL%3A%20UMA%20ABORDAGEM%20COM%20M%C3%81GICAS%20E%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ELEMENTOS%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20NO%20ENSINO%20FUNDAMENTAL%3A%20UMA%20ABORDAGEM%20COM%20M%C3%81GICAS%20E%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21810065"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "21810065",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Combinatória",
+    "Mágica matemática. Problemas de contagem."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-21810065.svg",
+  "resumo": "Esse trabalho tem por objetivo desenvolver o conteúdo de Análise Combinatória em uma turma do 6o e do 7o ano do Ensino Fundamental II, em uma escola do interior do Estado de São Paulo. Para isso, fez-se o uso de atividades contextualizadas utilizando folhas-atividades e recursos envolvendo mágicas, visando despertar a curiosidade e o interesse em aprender Combinatória por meio de resolução de problemas. O tema foi escolhido devido à dificuldade dos alunos em resolver problemas de contagem e por ser pouco explorado no Ensino Básico, apesar de constar nos documentos oficiais- Parâmetros Curriculares Nacionais e Currículo do Estado de São Paulo. Optou-se pelo recurso das mágicas matemáticas para tornar mais significativa e prazerosa a aprendizagem de Combinatória, buscando-se a motivação dos alunos a participar ativamente das aulas, unindo o prazer ao ato de aprender. Durante a realização das atividades, notou-se que os alunos se sentiram motivados, relacionando o conteúdo de Análise Combinatória com uma prática divertida através da mágica. Eles demonstraram bastante entusiasmo na realização das atividades, principalmente nos dias que tinha a mágica. A proposta didática com o uso das folhas-atividades alcançou a maioria dos alunos, que se empenharam e foram bastante ativos durante as aulas, resultando na aprendizagem de fato do conteúdo de Análise Combinatória. Todas as atividades atingiram os objetivos propostos, validando as propostas do professor. Após a realização das atividades, os alunos se sentiram mais confiantes para expor seu raciocínio, apresentar estratégias de resolução e explorar o problema em busca de uma solução adequada.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de combinatória"
+  ],
+  "ids_duplicados": []
 }

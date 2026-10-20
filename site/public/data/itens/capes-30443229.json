@@ -1,60 +1,60 @@
 {
- "id": "capes-30443229",
- "autor": "Albano Dias Pereira Filho",
- "ano": 2018,
- "tipo": "Tese",
- "titulo": "Formação continuada de professores do ensino médio para uma aula investigativa sobre probabilidade",
- "instituicao": "Universidade Anhanguera de São Paulo",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Nielce Meneguelo Lobo da Costa",
- "programa": "Educação Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino de Probabilidade; Aulas Investigativas; Conhecimento; Formação de Professores.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Forma%C3%A7%C3%A3o%20continuada%20de%20professores%20do%20ensino%20m%C3%A9dio%20para%20uma%20aula%20investigativa%20sobre%20probabilidade%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Forma%C3%A7%C3%A3o%20continuada%20de%20professores%20do%20ensino%20m%C3%A9dio%20para%20uma%20aula%20investigativa%20sobre%20probabilidade&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30443229"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "30443229",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino de Probabilidade",
-  "Aulas Investigativas",
-  "Conhecimento",
-  "Formação de Professores."
- ],
- "thumbnail": "./assets/images/thumbs/capes-30443229.svg",
- "resumo": "O presente estudo teve como objetivo identificar e analisar as contribuições de um curso de formação continuada voltado para o ensino da Probabilidade por meio de aulas investigativas, para a ampliação do conhecimento profissional docente de professores do Ensino Médio. Esta investigação se propôs a responder o seguinte questionamento: “Que contribuições podem trazer, para o conhecimento profissional docente, a participação de professores em uma formação continuada sobre o ensino de Probabilidade baseado em aulas investigativas?” A pesquisa foi desenvolvida no âmbito de um projeto de pesquisa do Programa Observatório da Educação da CAPES /Inep, intitulado “Educação Continuada do Professor de Matemática do Ensino Médio: Núcleo de Investigações sobre a Reconstrução da Prática Pedagógica”, aqui referenciado como Projeto “OBEDUC Práticas”. A metodologia da investigação foi qualitativa, segundo Bogdan e Biklen (1996), do tipo Design-Based Research na concepção de Brown (1992) e Collins (1992) e foi dividida em três fases: uma de pesquisa documental, uma de planejamento e uma de pesquisa de campo, a qual foi desenvolvida em um curso de formação continuada com 12 participantes. Como instrumentos de coleta de dados, foram utilizados: o diário de campo do pesquisador, gravações em áudio e vídeo dos encontros e ainda questionários aplicados aos professores participantes da formação continuada. A análise foi interpretativa e adotou as orientações de Powell, Francisco e Maher (2004) quanto aos vídeos, realizados a partir das produções dos professores participantes no curso de formação continuada. Tal formação teve uma dinâmica de encontros presenciais preparados com ênfase na ampliação dos conhecimentos profissionais dos participantes na concepção de Shulman (1986), Ponte (2003) e de Ball et al(2008), em particular sobre o tema probabilidade. A revisão de literatura nos auxiliou no design do processo formativo, bem como nos fundamentou para a análise dos dados coletados na pesquisa. A formação possibilitou a discussão de formas distintas de abordagem da Probabilidade em sala de aula e nela buscamos romper com o pensamento determinístico e linear. O curso auxiliou a ampliação do conhecimento do conteúdo específico de probabilidade, particularmente a conceituação de probabilidade condicional a experimentos frequentistas, a probabilidade geométrica e o teorema de Bayes, bem como a articulação da probabilidade com outros conteúdos. A conclusão foi de que o processo formativo impactou os professores participantes em relação a conhecer e a adotar a abordagem investigativa. Foi constatada ainda a ampliação do conhecimento especializado de probabilidade, do conhecimento pedagógico geral e do conhecimento instrucional.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de probabilidade"
- ],
- "ids_duplicados": []
+  "id": "capes-30443229",
+  "autor": "Albano Dias Pereira Filho",
+  "ano": 2018,
+  "tipo": "Tese",
+  "titulo": "Formação continuada de professores do ensino médio para uma aula investigativa sobre probabilidade",
+  "instituicao": "Universidade Anhanguera de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Nielce Meneguelo Lobo da Costa",
+  "programa": "Educação Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Probabilidade; Aulas Investigativas; Conhecimento; Formação de Professores.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Forma%C3%A7%C3%A3o%20continuada%20de%20professores%20do%20ensino%20m%C3%A9dio%20para%20uma%20aula%20investigativa%20sobre%20probabilidade%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Forma%C3%A7%C3%A3o%20continuada%20de%20professores%20do%20ensino%20m%C3%A9dio%20para%20uma%20aula%20investigativa%20sobre%20probabilidade&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30443229"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30443229",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Probabilidade",
+    "Aulas Investigativas",
+    "Conhecimento",
+    "Formação de Professores."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30443229.svg",
+  "resumo": "O presente estudo teve como objetivo identificar e analisar as contribuições de um curso de formação continuada voltado para o ensino da Probabilidade por meio de aulas investigativas, para a ampliação do conhecimento profissional docente de professores do Ensino Médio. Esta investigação se propôs a responder o seguinte questionamento: “Que contribuições podem trazer, para o conhecimento profissional docente, a participação de professores em uma formação continuada sobre o ensino de Probabilidade baseado em aulas investigativas?” A pesquisa foi desenvolvida no âmbito de um projeto de pesquisa do Programa Observatório da Educação da CAPES /Inep, intitulado “Educação Continuada do Professor de Matemática do Ensino Médio: Núcleo de Investigações sobre a Reconstrução da Prática Pedagógica”, aqui referenciado como Projeto “OBEDUC Práticas”. A metodologia da investigação foi qualitativa, segundo Bogdan e Biklen (1996), do tipo Design-Based Research na concepção de Brown (1992) e Collins (1992) e foi dividida em três fases: uma de pesquisa documental, uma de planejamento e uma de pesquisa de campo, a qual foi desenvolvida em um curso de formação continuada com 12 participantes. Como instrumentos de coleta de dados, foram utilizados: o diário de campo do pesquisador, gravações em áudio e vídeo dos encontros e ainda questionários aplicados aos professores participantes da formação continuada. A análise foi interpretativa e adotou as orientações de Powell, Francisco e Maher (2004) quanto aos vídeos, realizados a partir das produções dos professores participantes no curso de formação continuada. Tal formação teve uma dinâmica de encontros presenciais preparados com ênfase na ampliação dos conhecimentos profissionais dos participantes na concepção de Shulman (1986), Ponte (2003) e de Ball et al(2008), em particular sobre o tema probabilidade. A revisão de literatura nos auxiliou no design do processo formativo, bem como nos fundamentou para a análise dos dados coletados na pesquisa. A formação possibilitou a discussão de formas distintas de abordagem da Probabilidade em sala de aula e nela buscamos romper com o pensamento determinístico e linear. O curso auxiliou a ampliação do conhecimento do conteúdo específico de probabilidade, particularmente a conceituação de probabilidade condicional a experimentos frequentistas, a probabilidade geométrica e o teorema de Bayes, bem como a articulação da probabilidade com outros conteúdos. A conclusão foi de que o processo formativo impactou os professores participantes em relação a conhecer e a adotar a abordagem investigativa. Foi constatada ainda a ampliação do conhecimento especializado de probabilidade, do conhecimento pedagógico geral e do conhecimento instrucional.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de probabilidade"
+  ],
+  "ids_duplicados": []
 }

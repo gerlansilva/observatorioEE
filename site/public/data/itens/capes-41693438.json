@@ -1,63 +1,63 @@
 {
- "id": "capes-41693438",
- "autor": "Jaqueline Panneitz Pascoski",
- "ano": 2024,
- "tipo": "Dissertação",
- "titulo": "Desenhos animados no ensino de Estatística: o Cyberchase em aulas assentes no Ensino Exploratório",
- "instituicao": "Universidade Estadual do Paraná",
- "cidade": "",
- "estado": "Paraná",
- "regiao": "Sul",
- "orientador": "Everton Jose Goldoni Estevam",
- "programa": "Educação Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Estatística; Ensino de Estatística; Desenho Animado; Engajamento; Pensamento Estatístico.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Desenhos%20animados%20no%20ensino%20de%20Estat%C3%ADstica%3A%20o%20Cyberchase%20em%20aulas%20assentes%20no%20Ensino%20Explorat%C3%B3rio%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Desenhos%20animados%20no%20ensino%20de%20Estat%C3%ADstica%3A%20o%20Cyberchase%20em%20aulas%20assentes%20no%20Ensino%20Explorat%C3%B3rio&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41693438"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "41693438",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Estatística",
-  "Ensino de Estatística",
-  "Desenho Animado",
-  "Engajamento",
-  "Pensamento Estatístico."
- ],
- "thumbnail": "./assets/images/thumbs/capes-41693438.svg",
- "resumo": "Esta dissertação foi realizada junto à linha de pesquisa Conhecimento, linguagens e práticas formativas em educação matemática, do Programa de Pós-Graduação em Educação Matemática - PRPGEM, da Universidade Estadual do Paraná. Tendo em conta a complexidade que permeia o ensinar e aprender Estatística na Educação Básica, e a diversidade de perspectiva metodológicas e de recursos que podem orientar e auxiliar essas práticas, a pesquisa assumiu como objetivo geral investigar possibilidades didáticas para o Ensino Exploratório constituídas pelo desenho animado Cyberchase. Trata-se de um estudo qualitativo, de cunho interpretativo, realizado com uma turma de estudantes do nono ano do Ensino Fundamental da rede estadual de educação do estado de Santa Catarina, cuja autora foi também a professora responsável pela condução das aulas, desde o planejamento. Organizada no formato multipaper, o estudo admite dois objetivos específicos que estruturam os dois artigos que compõem a dissertação, além de uma introdução estendida e um capítulo de considerações finais. O primeiro objetivo específico consiste em compreender como engajamento e argumentação são promovidos em práticas de Ensino Exploratório de Estatística associadas ao desenho animado Cyberchase. Para tanto, são explorados episódios de aula orientados pela tarefa Gráfico de Barras, cujas análises são estruturadas a partir de componentes do quadro teórico estruturado. Já o segundo objetivo específico busca discutir como as práticas que visam o ensino de estatística, pautadas no Ensino Exploratório associadas ao desenho animado Cyberchase auxiliam na mobilização do pensamento estatístico. Por sua vez, são analisados episódios de aulas em que foi explorada a tarefa Castelvânia, com eixos determinados por componentes teóricos acerca do pensamento estatístico. Os resultados evidenciam que o desenho animado, ao constituir situações de dilema, facilita a percepção do professor sobre raciocínios dos estudantes, bem como estrutura e sustenta suas intervenções. O engajamento dos estudantes mostra-se favorecido pelo desenho e exerce influência substancial nos processos argumentativos, e ambos os aspectos são determinados pela dinâmica que sustenta práticas exploratórias de ensino. Esses aspectos mostram-se propulsores da mobilização de componentes do pensamento estatístico envolvendo dados e situações que significam estudos estatísticos, bem como pensamento sobre modelos, variação e contexto. Assim, na articulação desses resultados, é possível concluir que a inserção do desenho Cyberchase enriquece a natureza exploratória da prática investigada porque se alinha e promove os aspectos orientadores do Ensino Exploratório, quais sejam, reflexão, comunicação, inquiry, colaboração e engajamento. Isso se mostra particularmente importante para práticas de ensino de Estatística orientadas pelo ciclo investigativo. Contudo, é patente salientar o papel determinante que as ações do professor desempenham nesse processo, desde o planejamento e antecipação dessas ações até a tomada de decisão e interações em sala de aula, durante o desenvolvimento das tarefas em pequenos grupos, e no fomento à discussão e sistematização das aprendizagens dos estudantes.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística",
-  "pensamento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-41693438",
+  "autor": "Jaqueline Panneitz Pascoski",
+  "ano": 2024,
+  "tipo": "Dissertação",
+  "titulo": "Desenhos animados no ensino de Estatística: o Cyberchase em aulas assentes no Ensino Exploratório",
+  "instituicao": "Universidade Estadual do Paraná",
+  "cidade": "",
+  "estado": "Paraná",
+  "regiao": "Sul",
+  "orientador": "Everton Jose Goldoni Estevam",
+  "programa": "Educação Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Ensino de Estatística; Desenho Animado; Engajamento; Pensamento Estatístico.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Desenhos%20animados%20no%20ensino%20de%20Estat%C3%ADstica%3A%20o%20Cyberchase%20em%20aulas%20assentes%20no%20Ensino%20Explorat%C3%B3rio%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Desenhos%20animados%20no%20ensino%20de%20Estat%C3%ADstica%3A%20o%20Cyberchase%20em%20aulas%20assentes%20no%20Ensino%20Explorat%C3%B3rio&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41693438"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "41693438",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Ensino de Estatística",
+    "Desenho Animado",
+    "Engajamento",
+    "Pensamento Estatístico."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-41693438.svg",
+  "resumo": "Esta dissertação foi realizada junto à linha de pesquisa Conhecimento, linguagens e práticas formativas em educação matemática, do Programa de Pós-Graduação em Educação Matemática - PRPGEM, da Universidade Estadual do Paraná. Tendo em conta a complexidade que permeia o ensinar e aprender Estatística na Educação Básica, e a diversidade de perspectiva metodológicas e de recursos que podem orientar e auxiliar essas práticas, a pesquisa assumiu como objetivo geral investigar possibilidades didáticas para o Ensino Exploratório constituídas pelo desenho animado Cyberchase. Trata-se de um estudo qualitativo, de cunho interpretativo, realizado com uma turma de estudantes do nono ano do Ensino Fundamental da rede estadual de educação do estado de Santa Catarina, cuja autora foi também a professora responsável pela condução das aulas, desde o planejamento. Organizada no formato multipaper, o estudo admite dois objetivos específicos que estruturam os dois artigos que compõem a dissertação, além de uma introdução estendida e um capítulo de considerações finais. O primeiro objetivo específico consiste em compreender como engajamento e argumentação são promovidos em práticas de Ensino Exploratório de Estatística associadas ao desenho animado Cyberchase. Para tanto, são explorados episódios de aula orientados pela tarefa Gráfico de Barras, cujas análises são estruturadas a partir de componentes do quadro teórico estruturado. Já o segundo objetivo específico busca discutir como as práticas que visam o ensino de estatística, pautadas no Ensino Exploratório associadas ao desenho animado Cyberchase auxiliam na mobilização do pensamento estatístico. Por sua vez, são analisados episódios de aulas em que foi explorada a tarefa Castelvânia, com eixos determinados por componentes teóricos acerca do pensamento estatístico. Os resultados evidenciam que o desenho animado, ao constituir situações de dilema, facilita a percepção do professor sobre raciocínios dos estudantes, bem como estrutura e sustenta suas intervenções. O engajamento dos estudantes mostra-se favorecido pelo desenho e exerce influência substancial nos processos argumentativos, e ambos os aspectos são determinados pela dinâmica que sustenta práticas exploratórias de ensino. Esses aspectos mostram-se propulsores da mobilização de componentes do pensamento estatístico envolvendo dados e situações que significam estudos estatísticos, bem como pensamento sobre modelos, variação e contexto. Assim, na articulação desses resultados, é possível concluir que a inserção do desenho Cyberchase enriquece a natureza exploratória da prática investigada porque se alinha e promove os aspectos orientadores do Ensino Exploratório, quais sejam, reflexão, comunicação, inquiry, colaboração e engajamento. Isso se mostra particularmente importante para práticas de ensino de Estatística orientadas pelo ciclo investigativo. Contudo, é patente salientar o papel determinante que as ações do professor desempenham nesse processo, desde o planejamento e antecipação dessas ações até a tomada de decisão e interações em sala de aula, durante o desenvolvimento das tarefas em pequenos grupos, e no fomento à discussão e sistematização das aprendizagens dos estudantes.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística",
+    "pensamento estatístico"
+  ],
+  "ids_duplicados": []
 }

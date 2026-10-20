@@ -1,59 +1,59 @@
 {
- "id": "capes-36738693",
- "autor": "Ivani Valentim da Silva",
- "ano": 2022,
- "tipo": "Dissertação",
- "titulo": "Registros de Representações Semióticas em Análise de Regressão: Uma Proposta de Sequências Didáticas com Uso do Sotware Geogebra",
- "instituicao": "Universidade Federal do Amazonas",
- "cidade": "",
- "estado": "Amazonas",
- "regiao": "Norte",
- "orientador": "Marcos Andre Braz Vaz",
- "programa": "Ensino de Ciências e Humanidades",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino de Estatística. Tecnologias digitais. Ensino-aprendizagem. Contrato didático. Matemática.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22REGISTROS%20DE%20REPRESENTA%C3%87%C3%95ES%20SEMI%C3%93TICAS%20EM%20AN%C3%81LISE%20DE%20REGRESS%C3%83O%3A%20UMA%20PROPOSTA%20DE%20SEQU%C3%8ANCIAS%20DID%C3%81TICAS%20COM%20USO%20DO%20SOTWARE%20GEOGEBRA%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=REGISTROS%20DE%20REPRESENTA%C3%87%C3%95ES%20SEMI%C3%93TICAS%20EM%20AN%C3%81LISE%20DE%20REGRESS%C3%83O%3A%20UMA%20PROPOSTA%20DE%20SEQU%C3%8ANCIAS%20DID%C3%81TICAS%20COM%20USO%20DO%20SOTWARE%20GEOGEBRA&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36738693"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "36738693",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino de Estatística. Tecnologias digitais. Ensino-aprendizagem. Contrato didático. Matemática."
- ],
- "thumbnail": "./assets/images/thumbs/capes-36738693.svg",
- "resumo": "O objetivo dessa pesquisa foi avaliar a eficiência do software GeoGebra para abordar os conceitos matemáticos contidos na regressão linear simples. Partimos do pressuposto de que o software possui os recursos necessários para auxiliar o aluno na criação de representações dos objetos matemáticos envolvidos nessa análise. Para fundamentar nossas expectativas, quanto aos benefícios ao processo de ensino- aprendizagem que a ferramenta pode trazer, recorremos à Teoria dos Registros de Representações Semióticas, segundo a qual o objeto matemático só pode ser apreendido por meio de representações e que a qualidade e variedade dessas representações são fundamentais para a aprendizagem. A metodologia utilizada foi a Engenharia Didática, através do confronto das análises a priori, e as análises a posteriori, feito após a implementação de uma sequência didática, realizada por meio de um processo experimental, em uma turma da 3a série do Ensino Médio em uma Escola de Apuí-AM. O contrato didático, segundo orientação dos autores dessa teoria foi o instrumento usado para estabelecer, as responsabilidades e os limites de cada um dos agentes envolvidos no experimento. Os resultados revelaram que o uso do software GeoGebra, articulado com as propostas de ensino apresentadas, pode contribuir para o aprendizado de conteúdos de análise de regressão Estatística. Sua utilização vai além da realização de cálculos dispostos em tabelas, como as planilhas eletrônicas já fazem. Seu diferencial são os recursos que permitem a interação do aluno com o objeto matemático e a conversão da linguagem algébrica para as linguagens de gráficos e imagética, e vice-versa",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística"
- ],
- "ids_duplicados": [
-  "40799059"
- ]
+  "id": "capes-36738693",
+  "autor": "Ivani Valentim da Silva",
+  "ano": 2022,
+  "tipo": "Dissertação",
+  "titulo": "Registros de Representações Semióticas em Análise de Regressão: Uma Proposta de Sequências Didáticas com Uso do Sotware Geogebra",
+  "instituicao": "Universidade Federal do Amazonas",
+  "cidade": "",
+  "estado": "Amazonas",
+  "regiao": "Norte",
+  "orientador": "Marcos Andre Braz Vaz",
+  "programa": "Ensino de Ciências e Humanidades",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Estatística. Tecnologias digitais. Ensino-aprendizagem. Contrato didático. Matemática.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22REGISTROS%20DE%20REPRESENTA%C3%87%C3%95ES%20SEMI%C3%93TICAS%20EM%20AN%C3%81LISE%20DE%20REGRESS%C3%83O%3A%20UMA%20PROPOSTA%20DE%20SEQU%C3%8ANCIAS%20DID%C3%81TICAS%20COM%20USO%20DO%20SOTWARE%20GEOGEBRA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=REGISTROS%20DE%20REPRESENTA%C3%87%C3%95ES%20SEMI%C3%93TICAS%20EM%20AN%C3%81LISE%20DE%20REGRESS%C3%83O%3A%20UMA%20PROPOSTA%20DE%20SEQU%C3%8ANCIAS%20DID%C3%81TICAS%20COM%20USO%20DO%20SOTWARE%20GEOGEBRA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36738693"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "36738693",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Estatística. Tecnologias digitais. Ensino-aprendizagem. Contrato didático. Matemática."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-36738693.svg",
+  "resumo": "O objetivo dessa pesquisa foi avaliar a eficiência do software GeoGebra para abordar os conceitos matemáticos contidos na regressão linear simples. Partimos do pressuposto de que o software possui os recursos necessários para auxiliar o aluno na criação de representações dos objetos matemáticos envolvidos nessa análise. Para fundamentar nossas expectativas, quanto aos benefícios ao processo de ensino- aprendizagem que a ferramenta pode trazer, recorremos à Teoria dos Registros de Representações Semióticas, segundo a qual o objeto matemático só pode ser apreendido por meio de representações e que a qualidade e variedade dessas representações são fundamentais para a aprendizagem. A metodologia utilizada foi a Engenharia Didática, através do confronto das análises a priori, e as análises a posteriori, feito após a implementação de uma sequência didática, realizada por meio de um processo experimental, em uma turma da 3a série do Ensino Médio em uma Escola de Apuí-AM. O contrato didático, segundo orientação dos autores dessa teoria foi o instrumento usado para estabelecer, as responsabilidades e os limites de cada um dos agentes envolvidos no experimento. Os resultados revelaram que o uso do software GeoGebra, articulado com as propostas de ensino apresentadas, pode contribuir para o aprendizado de conteúdos de análise de regressão Estatística. Sua utilização vai além da realização de cálculos dispostos em tabelas, como as planilhas eletrônicas já fazem. Seu diferencial são os recursos que permitem a interação do aluno com o objeto matemático e a conversão da linguagem algébrica para as linguagens de gráficos e imagética, e vice-versa",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": [
+    "40799059"
+  ]
 }

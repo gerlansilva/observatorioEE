@@ -1,62 +1,62 @@
 {
- "id": "capes-33466663",
- "autor": "Cristiano Cardozo Doria",
- "ano": 2021,
- "tipo": "Dissertação",
- "titulo": "Primeiros Passos em Estatística com Alunos do 6º Ano dos Anos Finais do Ensino Fundamental Como Contribuição para Formação de Cidadãos Críticos",
- "instituicao": "Universidade Federal do Rio Grande do Sul",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Luciana Neves Nunes",
- "programa": "Ensino de Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Estatística; Letramento Estatístico; Raciocínio Estatístico Educação Estatística Crítica",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22PRIMEIROS%20PASSOS%20EM%20ESTAT%C3%8DSTICA%20COM%20ALUNOS%20DO%206%C2%BA%20ANO%20DOS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%20COMO%20CONTRIBUI%C3%87%C3%83O%20PARA%20FORMA%C3%87%C3%83O%20DE%20CIDAD%C3%83OS%20CR%C3%8DTICOS%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PRIMEIROS%20PASSOS%20EM%20ESTAT%C3%8DSTICA%20COM%20ALUNOS%20DO%206%C2%BA%20ANO%20DOS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%20COMO%20CONTRIBUI%C3%87%C3%83O%20PARA%20FORMA%C3%87%C3%83O%20DE%20CIDAD%C3%83OS%20CR%C3%8DTICOS&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/33466663"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "33466663",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Estatística",
-  "Letramento Estatístico",
-  "Raciocínio Estatístico Educação Estatística Crítica"
- ],
- "thumbnail": "./assets/images/thumbs/capes-33466663.svg",
- "resumo": "A abordagem da Educação Estatística e da Educação Matemática Crítica contribuíram para o avanço da capacidade crítica e da autonomia dos indivíduos para o pleno exercício da cidadania. Este trabalho tem como objetivo introduzir os conceitos básicos de Estatística, numa turma de 6º ano do Ensino Fundamental, a fim de desenvolver as competências estatísticas que são o Letramento Estatístico, o Raciocínio Estatístico e o Pensamento Estatístico dos estudantes. Neste projeto, os alunos fizeram a coleta de dados a partir da tabela nutricional, presente na maioria dos rótulos dos alimentos. Utilizando um software de planilha eletrônica, montaram tabelas e construíram gráficos estatísticos. Ao final desta pesquisa, observou-se que a planilha eletrônica contribuiu para a resolução das atividades. Os alunos conseguiram responder as questões propostas, a partir dos gráficos, realizando a interpretação das informações corretamente, demonstrando algum grau de desenvolvimento do Letramento Estatístico. O Raciocínio Estatístico da turma se mostrou estar entre os níveis verbal e transicional de Garfield. Quanto à apreensão dos conceitos das medidas resumo expostas, aparentemente seria necessário um maior tempo para trabalhar com os alunos para desenvolver as competências de forma mais consistente. Este projeto proporcionou aos estudantes o início do desenvolvimento das habilidades necessárias para uma Educação Estatística Crítica, que é muito importante para a construção de uma sociedade democrática e mais justa. O produto elaborado é uma sequência de atividades para que os professores possam realizar a introdução dos conceitos Estatísticos.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística",
-  "letramento estatístico",
-  "raciocínio estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-33466663",
+  "autor": "Cristiano Cardozo Doria",
+  "ano": 2021,
+  "tipo": "Dissertação",
+  "titulo": "Primeiros Passos em Estatística com Alunos do 6º Ano dos Anos Finais do Ensino Fundamental Como Contribuição para Formação de Cidadãos Críticos",
+  "instituicao": "Universidade Federal do Rio Grande do Sul",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Luciana Neves Nunes",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Letramento Estatístico; Raciocínio Estatístico Educação Estatística Crítica",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22PRIMEIROS%20PASSOS%20EM%20ESTAT%C3%8DSTICA%20COM%20ALUNOS%20DO%206%C2%BA%20ANO%20DOS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%20COMO%20CONTRIBUI%C3%87%C3%83O%20PARA%20FORMA%C3%87%C3%83O%20DE%20CIDAD%C3%83OS%20CR%C3%8DTICOS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PRIMEIROS%20PASSOS%20EM%20ESTAT%C3%8DSTICA%20COM%20ALUNOS%20DO%206%C2%BA%20ANO%20DOS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%20COMO%20CONTRIBUI%C3%87%C3%83O%20PARA%20FORMA%C3%87%C3%83O%20DE%20CIDAD%C3%83OS%20CR%C3%8DTICOS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/33466663"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "33466663",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Letramento Estatístico",
+    "Raciocínio Estatístico Educação Estatística Crítica"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-33466663.svg",
+  "resumo": "A abordagem da Educação Estatística e da Educação Matemática Crítica contribuíram para o avanço da capacidade crítica e da autonomia dos indivíduos para o pleno exercício da cidadania. Este trabalho tem como objetivo introduzir os conceitos básicos de Estatística, numa turma de 6º ano do Ensino Fundamental, a fim de desenvolver as competências estatísticas que são o Letramento Estatístico, o Raciocínio Estatístico e o Pensamento Estatístico dos estudantes. Neste projeto, os alunos fizeram a coleta de dados a partir da tabela nutricional, presente na maioria dos rótulos dos alimentos. Utilizando um software de planilha eletrônica, montaram tabelas e construíram gráficos estatísticos. Ao final desta pesquisa, observou-se que a planilha eletrônica contribuiu para a resolução das atividades. Os alunos conseguiram responder as questões propostas, a partir dos gráficos, realizando a interpretação das informações corretamente, demonstrando algum grau de desenvolvimento do Letramento Estatístico. O Raciocínio Estatístico da turma se mostrou estar entre os níveis verbal e transicional de Garfield. Quanto à apreensão dos conceitos das medidas resumo expostas, aparentemente seria necessário um maior tempo para trabalhar com os alunos para desenvolver as competências de forma mais consistente. Este projeto proporcionou aos estudantes o início do desenvolvimento das habilidades necessárias para uma Educação Estatística Crítica, que é muito importante para a construção de uma sociedade democrática e mais justa. O produto elaborado é uma sequência de atividades para que os professores possam realizar a introdução dos conceitos Estatísticos.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística",
+    "letramento estatístico",
+    "raciocínio estatístico"
+  ],
+  "ids_duplicados": []
 }

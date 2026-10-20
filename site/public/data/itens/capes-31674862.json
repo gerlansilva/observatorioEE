@@ -1,63 +1,63 @@
 {
- "id": "capes-31674862",
- "autor": "Maxwell Rodrigues da Silva",
- "ano": 2020,
- "tipo": "Dissertação",
- "titulo": "Uma sequência de atividades de letramento probabilístico em uma abordagem pelo Modelo Teórico dos Campos Semânticos",
- "instituicao": "Universidade Federal de Juiz de Fora",
- "cidade": "",
- "estado": "Minas Gerais",
- "regiao": "Sudeste",
- "orientador": "Ronaldo Rocha Bastos",
- "programa": "Educação Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Matemática; Educação Estatística; Produção de Significados; Letramento Probabilístico; Matemática; Probabilidade",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Uma%20sequ%C3%AAncia%20de%20atividades%20de%20letramento%20probabil%C3%ADstico%20em%20uma%20abordagem%20pelo%20Modelo%20Te%C3%B3rico%20dos%20Campos%20Sem%C3%A2nticos%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma%20sequ%C3%AAncia%20de%20atividades%20de%20letramento%20probabil%C3%ADstico%20em%20uma%20abordagem%20pelo%20Modelo%20Te%C3%B3rico%20dos%20Campos%20Sem%C3%A2nticos&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31674862"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "31674862",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Matemática",
-  "Educação Estatística",
-  "Produção de Significados",
-  "Letramento Probabilístico",
-  "Matemática",
-  "Probabilidade"
- ],
- "thumbnail": "./assets/images/thumbs/capes-31674862.svg",
- "resumo": "Neste trabalho avalia-se a produção de significados pelos estudantes envolvidos em uma sequência didática de letramento probabilístico a partir da perspectiva proposta do Modelo Teórico dos Campos Semânticos. Esta pesquisa caracteriza-se pelo desenvolvimento de uma abordagem qualitativa, sendo o trabalho de campo desenvolvido em uma sala de aula da disciplina de Matemática para alunos do 3º ano do Ensino Médio da esfera particular de ensino. A investigação se deu a partir da proposição, pelo professor, de uma sequência de atividades de letramento probabilístico que deveriam ser realizadas pela turma. Os alunos divididos em grupos investigaram e propuseram procedimentos sobre a resolução das atividades propostas. A análise se deu a partir do processo de produção de significados pelos estudantes em busca da solução dessas atividades, por meio da Leitura Positiva, formulado a partir do referencial teórico adotado. A investigação permitiu o reconhecimento de importantes elementos do referido processo e a elaboração de estratégias para uma sequência de atividades que resultaram em um produto educacional que visa proporcionar reflexões e pode auxiliar o professor em sua prática, principalmente, na educação básica.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "letramento probabilístico"
- ],
- "ids_duplicados": []
+  "id": "capes-31674862",
+  "autor": "Maxwell Rodrigues da Silva",
+  "ano": 2020,
+  "tipo": "Dissertação",
+  "titulo": "Uma sequência de atividades de letramento probabilístico em uma abordagem pelo Modelo Teórico dos Campos Semânticos",
+  "instituicao": "Universidade Federal de Juiz de Fora",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Ronaldo Rocha Bastos",
+  "programa": "Educação Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Matemática; Educação Estatística; Produção de Significados; Letramento Probabilístico; Matemática; Probabilidade",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Uma%20sequ%C3%AAncia%20de%20atividades%20de%20letramento%20probabil%C3%ADstico%20em%20uma%20abordagem%20pelo%20Modelo%20Te%C3%B3rico%20dos%20Campos%20Sem%C3%A2nticos%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma%20sequ%C3%AAncia%20de%20atividades%20de%20letramento%20probabil%C3%ADstico%20em%20uma%20abordagem%20pelo%20Modelo%20Te%C3%B3rico%20dos%20Campos%20Sem%C3%A2nticos&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31674862"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "31674862",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Matemática",
+    "Educação Estatística",
+    "Produção de Significados",
+    "Letramento Probabilístico",
+    "Matemática",
+    "Probabilidade"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-31674862.svg",
+  "resumo": "Neste trabalho avalia-se a produção de significados pelos estudantes envolvidos em uma sequência didática de letramento probabilístico a partir da perspectiva proposta do Modelo Teórico dos Campos Semânticos. Esta pesquisa caracteriza-se pelo desenvolvimento de uma abordagem qualitativa, sendo o trabalho de campo desenvolvido em uma sala de aula da disciplina de Matemática para alunos do 3º ano do Ensino Médio da esfera particular de ensino. A investigação se deu a partir da proposição, pelo professor, de uma sequência de atividades de letramento probabilístico que deveriam ser realizadas pela turma. Os alunos divididos em grupos investigaram e propuseram procedimentos sobre a resolução das atividades propostas. A análise se deu a partir do processo de produção de significados pelos estudantes em busca da solução dessas atividades, por meio da Leitura Positiva, formulado a partir do referencial teórico adotado. A investigação permitiu o reconhecimento de importantes elementos do referido processo e a elaboração de estratégias para uma sequência de atividades que resultaram em um produto educacional que visa proporcionar reflexões e pode auxiliar o professor em sua prática, principalmente, na educação básica.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "letramento probabilístico"
+  ],
+  "ids_duplicados": []
 }

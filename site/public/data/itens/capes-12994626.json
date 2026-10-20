@@ -1,54 +1,54 @@
 {
- "id": "capes-12994626",
- "autor": "Carlos Alberto de Miranda Pinheiro",
- "ano": 2015,
- "tipo": "Tese",
- "titulo": "Análise Combinatória: Organizações Matemáticas e Didáticas nos Livros Escolares Brasileiros no Período Entre 1895 e 2009",
- "instituicao": "Pontifícia Universidade Católica de São Paulo",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Cileda de Queiroz e Silva Coutinho",
- "programa": "Educação Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "MATEMÁTICA, Análise combinatória, Livros didáticos, Teoria antropológica do didático",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22AN%C3%81LISE%20COMBINAT%C3%93RIA%3A%20ORGANIZA%C3%87%C3%95ES%20MATEM%C3%81TICAS%20E%20DID%C3%81TICAS%20NOS%20LIVROS%20ESCOLARES%20BRASILEIROS%20NO%20PER%C3%8DODO%20ENTRE%201895%20E%202009%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AN%C3%81LISE%20COMBINAT%C3%93RIA%3A%20ORGANIZA%C3%87%C3%95ES%20MATEM%C3%81TICAS%20E%20DID%C3%81TICAS%20NOS%20LIVROS%20ESCOLARES%20BRASILEIROS%20NO%20PER%C3%8DODO%20ENTRE%201895%20E%202009&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/12994626"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "12994626",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "MATEMÁTICA, Análise combinatória, Livros didáticos, Teoria antropológica do didático"
- ],
- "thumbnail": "./assets/images/thumbs/capes-12994626.svg",
- "resumo": "Este trabalho apresenta o desenvolvimento de uma pesquisa que se propôs a investigar os saberes da Análise Combinatória estudada nas escolas brasileiras, no período entre 1895 e 2009. Esta pesquisa articula-se no interior do projeto “Educação Estatística e Educação Financeira na Escola Básica”, vinculado ao grupo de pesquisa PEA-MAT. Analisamos alguns aspectos didáticos e matemáticos presentes em sete livros didáticos que circularam nas escolas brasileiras, no período em questão, realizando um estudo bibliográfico e documental fundamentado em pressupostos da análise de conteúdo. Buscamos responder à seguinte questão de investigação: que características de inserção dos saberes da Análise Combinatória nos livros didáticos podem ser identificadas no período 1895-2009? A primeira fase da análise de conteúdo consistiu em reunir e estudar textos que nos informassem quais livros escolares apresentavam os saberes da Análise Combinatória e alguns aspectos do momento histórico desses livros, desde a fundação do Colégio Pedro II. Com isso, identificamos que o programa de 1895 foi o que teve a maior inserção de livros didáticos e de novos conteúdos escolares, antes das principais reformas educacionais ocorridas nas primeiras décadas do século XX. Também procuramos identificar no site do Programa Nacional do Livro Didático (PNLD-Ensino Médio) o livro de Matemática mais utilizado nas escolas de Belém do Pará, na primeira fase de implantação desse programa, 2004-2009. A segunda fase da análise de conteúdo foi a exploração do material. Nesta fase foi realizada uma análise à luz da Teoria Antropológica do Didático, especificamente sobre as organizações praxeológica tanto matemáticas como didáticas, juntamente com a noção de modelos didáticos, proposta por JosepGáscon. Entre os resultados observados, destacamos que, enquanto nos primeiros livros o enfoque era apenas a apresentação da dedução das fórmulas, ao longo do tempo foi inserida a tarefa de calcular os valores a partir dessas fórmulas, passando, assim, de uma abordagem puramente teoricista para uma abordagem tecnicista ou clássica. Observa-se, também, uma mudança nas técnicas para calcular o Arranjo e a Permutação no livro produzido à luz das ideias do Movimento de Matemática Moderna e no livro mais recente, aprovado no PNLD-Ensino Médio. As tarefas e as técnicas, relativas ao cálculo do número de combinações simples, não sofreram transformações, ao longo do tempo. Ou seja, a organização praxeológica identificada no bloco tarefa/técnica/tecnologia/teoria passou de uma abordagem teoricista para uma abordagem tecnicista ou clássica ao longo de todo o período estudado",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": null
+  "id": "capes-12994626",
+  "autor": "Carlos Alberto de Miranda Pinheiro",
+  "ano": 2015,
+  "tipo": "Tese",
+  "titulo": "Análise Combinatória: Organizações Matemáticas e Didáticas nos Livros Escolares Brasileiros no Período Entre 1895 e 2009",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Cileda de Queiroz e Silva Coutinho",
+  "programa": "Educação Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "MATEMÁTICA, Análise combinatória, Livros didáticos, Teoria antropológica do didático",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22AN%C3%81LISE%20COMBINAT%C3%93RIA%3A%20ORGANIZA%C3%87%C3%95ES%20MATEM%C3%81TICAS%20E%20DID%C3%81TICAS%20NOS%20LIVROS%20ESCOLARES%20BRASILEIROS%20NO%20PER%C3%8DODO%20ENTRE%201895%20E%202009%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AN%C3%81LISE%20COMBINAT%C3%93RIA%3A%20ORGANIZA%C3%87%C3%95ES%20MATEM%C3%81TICAS%20E%20DID%C3%81TICAS%20NOS%20LIVROS%20ESCOLARES%20BRASILEIROS%20NO%20PER%C3%8DODO%20ENTRE%201895%20E%202009&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/12994626"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "12994626",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "MATEMÁTICA, Análise combinatória, Livros didáticos, Teoria antropológica do didático"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-12994626.svg",
+  "resumo": "Este trabalho apresenta o desenvolvimento de uma pesquisa que se propôs a investigar os saberes da Análise Combinatória estudada nas escolas brasileiras, no período entre 1895 e 2009. Esta pesquisa articula-se no interior do projeto “Educação Estatística e Educação Financeira na Escola Básica”, vinculado ao grupo de pesquisa PEA-MAT. Analisamos alguns aspectos didáticos e matemáticos presentes em sete livros didáticos que circularam nas escolas brasileiras, no período em questão, realizando um estudo bibliográfico e documental fundamentado em pressupostos da análise de conteúdo. Buscamos responder à seguinte questão de investigação: que características de inserção dos saberes da Análise Combinatória nos livros didáticos podem ser identificadas no período 1895-2009? A primeira fase da análise de conteúdo consistiu em reunir e estudar textos que nos informassem quais livros escolares apresentavam os saberes da Análise Combinatória e alguns aspectos do momento histórico desses livros, desde a fundação do Colégio Pedro II. Com isso, identificamos que o programa de 1895 foi o que teve a maior inserção de livros didáticos e de novos conteúdos escolares, antes das principais reformas educacionais ocorridas nas primeiras décadas do século XX. Também procuramos identificar no site do Programa Nacional do Livro Didático (PNLD-Ensino Médio) o livro de Matemática mais utilizado nas escolas de Belém do Pará, na primeira fase de implantação desse programa, 2004-2009. A segunda fase da análise de conteúdo foi a exploração do material. Nesta fase foi realizada uma análise à luz da Teoria Antropológica do Didático, especificamente sobre as organizações praxeológica tanto matemáticas como didáticas, juntamente com a noção de modelos didáticos, proposta por JosepGáscon. Entre os resultados observados, destacamos que, enquanto nos primeiros livros o enfoque era apenas a apresentação da dedução das fórmulas, ao longo do tempo foi inserida a tarefa de calcular os valores a partir dessas fórmulas, passando, assim, de uma abordagem puramente teoricista para uma abordagem tecnicista ou clássica. Observa-se, também, uma mudança nas técnicas para calcular o Arranjo e a Permutação no livro produzido à luz das ideias do Movimento de Matemática Moderna e no livro mais recente, aprovado no PNLD-Ensino Médio. As tarefas e as técnicas, relativas ao cálculo do número de combinações simples, não sofreram transformações, ao longo do tempo. Ou seja, a organização praxeológica identificada no bloco tarefa/técnica/tecnologia/teoria passou de uma abordagem teoricista para uma abordagem tecnicista ou clássica ao longo de todo o período estudado",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
 }

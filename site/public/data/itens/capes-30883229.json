@@ -1,59 +1,59 @@
 {
- "id": "capes-30883229",
- "autor": "Jose Roberto de Souza",
- "ano": 2019,
- "tipo": "Dissertação",
- "titulo": "O Conhecimento Profissional sobre Educação Estatística Revelado em Narrativas de Professores de Matemática",
- "instituicao": "Universidade Cruzeiro do Sul",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Celi Aparecida Espasandin Lopes",
- "programa": "Ensino de Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Estatística; Conhecimento Profissional; Narrativas",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20CONHECIMENTO%20PROFISSIONAL%20SOBRE%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20REVELADO%20EM%20NARRATIVAS%20DE%20PROFESSORES%20DE%20MATEM%C3%81TICA%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20CONHECIMENTO%20PROFISSIONAL%20SOBRE%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20REVELADO%20EM%20NARRATIVAS%20DE%20PROFESSORES%20DE%20MATEM%C3%81TICA&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30883229"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "30883229",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Estatística",
-  "Conhecimento Profissional",
-  "Narrativas"
- ],
- "thumbnail": "./assets/images/thumbs/capes-30883229.svg",
- "resumo": "Este trabalho objetiva analisar os resultados de professores que se apropriam e aplicam o aprendizado de um curso de extensão em sua sala de aula, onde queremos identificar evidências do conhecimento profissional acerca da Educação Estatística. Os dados foram construídos e analisados a partir de narrativas orais e escritas de professores que lecionam matemática nos anos finais do Ensino Fundamental e no Ensino Médio, em escolas municipais e estaduais de São Paulo. Busca-se responder à seguinte questão: “Quais indícios de aprendizagem docente em Educação Estatística emergem nas narrativas dos professores quando inseridos em um curso de extensão?”. Para tanto, optou-se por uma pesquisa (auto) biográfica, que toma as narrativas de si como práticas de formação. O processo de tabulação e análise das narrativas apresentados nesta dissertação tem origem em uma metodologia já consolidada, porém, foram reformuladas e complementadas afim de atender as necessidades desse trabalho e, com isso, podendo constituir uma nova forma de analisar e tabular dados de narrativas. Essa ideia se traduz em uma modelagem em planilha eletrônica, a partir da transcrição na íntegra das narrativas, e é vista no processo de identificar palavras-chave1, categorizar os trechos narrados, analisá-los e, por último, escolher aqueles que irão compor o texto. Esta investigação apresenta indícios da relevância da formação continuada por curso de extensão para o professor lidar com o ensino e a aprendizagem da Educação Estatística. Outras considerações dizem respeito à ressignificação que o docente faz sobre sua prática ao utilizar a Educação Estatística para desenvolver projetos com seus alunos e potencializar sua prática por meio do estímulo dos conhecimentos teórico e metodológico proporcionado pelo referido curso.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-30883229",
+  "autor": "Jose Roberto de Souza",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "O Conhecimento Profissional sobre Educação Estatística Revelado em Narrativas de Professores de Matemática",
+  "instituicao": "Universidade Cruzeiro do Sul",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Celi Aparecida Espasandin Lopes",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Conhecimento Profissional; Narrativas",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20CONHECIMENTO%20PROFISSIONAL%20SOBRE%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20REVELADO%20EM%20NARRATIVAS%20DE%20PROFESSORES%20DE%20MATEM%C3%81TICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20CONHECIMENTO%20PROFISSIONAL%20SOBRE%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20REVELADO%20EM%20NARRATIVAS%20DE%20PROFESSORES%20DE%20MATEM%C3%81TICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30883229"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30883229",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Conhecimento Profissional",
+    "Narrativas"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30883229.svg",
+  "resumo": "Este trabalho objetiva analisar os resultados de professores que se apropriam e aplicam o aprendizado de um curso de extensão em sua sala de aula, onde queremos identificar evidências do conhecimento profissional acerca da Educação Estatística. Os dados foram construídos e analisados a partir de narrativas orais e escritas de professores que lecionam matemática nos anos finais do Ensino Fundamental e no Ensino Médio, em escolas municipais e estaduais de São Paulo. Busca-se responder à seguinte questão: “Quais indícios de aprendizagem docente em Educação Estatística emergem nas narrativas dos professores quando inseridos em um curso de extensão?”. Para tanto, optou-se por uma pesquisa (auto) biográfica, que toma as narrativas de si como práticas de formação. O processo de tabulação e análise das narrativas apresentados nesta dissertação tem origem em uma metodologia já consolidada, porém, foram reformuladas e complementadas afim de atender as necessidades desse trabalho e, com isso, podendo constituir uma nova forma de analisar e tabular dados de narrativas. Essa ideia se traduz em uma modelagem em planilha eletrônica, a partir da transcrição na íntegra das narrativas, e é vista no processo de identificar palavras-chave1, categorizar os trechos narrados, analisá-los e, por último, escolher aqueles que irão compor o texto. Esta investigação apresenta indícios da relevância da formação continuada por curso de extensão para o professor lidar com o ensino e a aprendizagem da Educação Estatística. Outras considerações dizem respeito à ressignificação que o docente faz sobre sua prática ao utilizar a Educação Estatística para desenvolver projetos com seus alunos e potencializar sua prática por meio do estímulo dos conhecimentos teórico e metodológico proporcionado pelo referido curso.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

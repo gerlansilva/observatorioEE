@@ -1,62 +1,62 @@
 {
- "id": "capes-42192282",
- "autor": "Marcos Vinicius Maia Fonseca",
- "ano": 2024,
- "tipo": "Dissertação",
- "titulo": "Níveis de interatividade em Recursos Educacionais Digitais na aprendizagem de Educação Estatística na Educação Básica",
- "instituicao": "Universidade Federal de Juiz de Fora",
- "cidade": "",
- "estado": "Minas Gerais",
- "regiao": "Sudeste",
- "orientador": "Liamara Scortegagna",
- "programa": "Educação Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Interatividade; Itens digitais; MOA; Educação Matemática; Educação Estatística; Tecnologia na Educação",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22N%C3%ADveis%20de%20interatividade%20em%20Recursos%20Educacionais%20Digitais%20na%20aprendizagem%20de%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20na%20Educa%C3%A7%C3%A3o%20B%C3%A1sica%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=N%C3%ADveis%20de%20interatividade%20em%20Recursos%20Educacionais%20Digitais%20na%20aprendizagem%20de%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20na%20Educa%C3%A7%C3%A3o%20B%C3%A1sica&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42192282"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "42192282",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Interatividade",
-  "Itens digitais",
-  "MOA",
-  "Educação Matemática",
-  "Educação Estatística",
-  "Tecnologia na Educação"
- ],
- "thumbnail": "./assets/images/thumbs/capes-42192282.svg",
- "resumo": "Ao mesmo tempo em que o avanço tecnológico possibilita o acesso a cada vez mais pessoas, também se percebe o seu alcance para os diversos setores na sociedade, incluindo a educação. É notório a acrescência dos meios digitais no ambiente escolar, com o aumento das pesquisas acadêmico-científicas e com instituições mais equiparadas com instrumentos para tal. Com base nesse contexto, este texto apresenta-se como uma pesquisa de dissertação de mestrado que tem como escopo analisar os diferentes níveis (baixo e médio) de interatividade em recursos educacionais digitais e examinar o impacto educacional que eles oferecem na aprendizagem de média, moda e mediana, em Estatística, no 7.º ano do Ensino Fundamental II da Educação Básica, em uma escola estadual pública localizada na cidade de Montes Claros/MG. A proposta é de uma pesquisa classificada como qualitativa e aplicada, de caráter descritivo-exploratório e como trajeto metodológico: o Design Science Research e a Metodologia para o desenvolvimento de um Objeto de Aprendizagem, para o desenvolvimento do Recurso Educacional Digital (RED). Assim, foi desenvolvido o RED “Introdução à Estatística: Medidas de tendência central”, uma aplicação web que consiste em uma aula com o conteúdo do próprio título. Nos resultados, verificou-se a aprendizagem discente construída em sua forma inicial (letramento estatístico), constatado diante da boa receptividade e das respostas positivas recebidas nos Formulários online próprios, que configuraram ao Recurso Educacional Digital interatividade de classificação média. Como produto educacional, desenvolvemos uma sequência didática implementadas em tecnologias no formato de itens digitais interativos de baixa e média interatividade, que abordam o conteúdo de média, moda e mediana, em Estatística, bem como também apresentamos uma seleção de itens digitais de alta interatividade produzidos por outra instituição.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-42192282",
+  "autor": "Marcos Vinicius Maia Fonseca",
+  "ano": 2024,
+  "tipo": "Dissertação",
+  "titulo": "Níveis de interatividade em Recursos Educacionais Digitais na aprendizagem de Educação Estatística na Educação Básica",
+  "instituicao": "Universidade Federal de Juiz de Fora",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Liamara Scortegagna",
+  "programa": "Educação Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Interatividade; Itens digitais; MOA; Educação Matemática; Educação Estatística; Tecnologia na Educação",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22N%C3%ADveis%20de%20interatividade%20em%20Recursos%20Educacionais%20Digitais%20na%20aprendizagem%20de%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20na%20Educa%C3%A7%C3%A3o%20B%C3%A1sica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=N%C3%ADveis%20de%20interatividade%20em%20Recursos%20Educacionais%20Digitais%20na%20aprendizagem%20de%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20na%20Educa%C3%A7%C3%A3o%20B%C3%A1sica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42192282"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "42192282",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Interatividade",
+    "Itens digitais",
+    "MOA",
+    "Educação Matemática",
+    "Educação Estatística",
+    "Tecnologia na Educação"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-42192282.svg",
+  "resumo": "Ao mesmo tempo em que o avanço tecnológico possibilita o acesso a cada vez mais pessoas, também se percebe o seu alcance para os diversos setores na sociedade, incluindo a educação. É notório a acrescência dos meios digitais no ambiente escolar, com o aumento das pesquisas acadêmico-científicas e com instituições mais equiparadas com instrumentos para tal. Com base nesse contexto, este texto apresenta-se como uma pesquisa de dissertação de mestrado que tem como escopo analisar os diferentes níveis (baixo e médio) de interatividade em recursos educacionais digitais e examinar o impacto educacional que eles oferecem na aprendizagem de média, moda e mediana, em Estatística, no 7.º ano do Ensino Fundamental II da Educação Básica, em uma escola estadual pública localizada na cidade de Montes Claros/MG. A proposta é de uma pesquisa classificada como qualitativa e aplicada, de caráter descritivo-exploratório e como trajeto metodológico: o Design Science Research e a Metodologia para o desenvolvimento de um Objeto de Aprendizagem, para o desenvolvimento do Recurso Educacional Digital (RED). Assim, foi desenvolvido o RED “Introdução à Estatística: Medidas de tendência central”, uma aplicação web que consiste em uma aula com o conteúdo do próprio título. Nos resultados, verificou-se a aprendizagem discente construída em sua forma inicial (letramento estatístico), constatado diante da boa receptividade e das respostas positivas recebidas nos Formulários online próprios, que configuraram ao Recurso Educacional Digital interatividade de classificação média. Como produto educacional, desenvolvemos uma sequência didática implementadas em tecnologias no formato de itens digitais interativos de baixa e média interatividade, que abordam o conteúdo de média, moda e mediana, em Estatística, bem como também apresentamos uma seleção de itens digitais de alta interatividade produzidos por outra instituição.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

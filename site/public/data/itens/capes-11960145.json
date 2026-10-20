@@ -1,57 +1,57 @@
 {
- "id": "capes-11960145",
- "autor": "Fernando Dalbao Carvalho",
- "ano": 2015,
- "tipo": "Tese",
- "titulo": "As contribuições do Raciocínio Estocástico para a Formação do Economista",
- "instituicao": "Universidade Cruzeiro do Sul",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Celi Aparecida Espasandin Lopes",
- "programa": "Ensino de Ciências",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino Superior, Ciências Econômicas, Ensino de Estatística, Raciocínio Estocástico, Modelagem Matemática.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22As%20contribui%C3%A7%C3%B5es%20do%20Racioc%C3%ADnio%20Estoc%C3%A1stico%20para%20a%20Forma%C3%A7%C3%A3o%20do%20Economista%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=As%20contribui%C3%A7%C3%B5es%20do%20Racioc%C3%ADnio%20Estoc%C3%A1stico%20para%20a%20Forma%C3%A7%C3%A3o%20do%20Economista&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/11960145"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "11960145",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino Superior, Ciências Econômicas, Ensino de Estatística, Raciocínio Estocástico, Modelagem Matemática."
- ],
- "thumbnail": "./assets/images/thumbs/capes-11960145.svg",
- "resumo": "Esta tese apresenta uma pesquisa qualitativa e interpretativa, cujo trabalho de campo foi desenvolvido em uma instituição de Ensino Superior privada da cidade de São Paulo. Teve-se por objetivo investigar as contribuições do Raciocínio Estocástico para a formação dos futuros economistas do Curso Superior em Ciências Econômicas. Considerou-se referenciais teóricos das áreas da Educação Matemática e Educação Estatística. A construção de dados deu-se a partir de entrevistas de oito alunos regularmente matriculados no quinto semestre do curso de Ciências Econômicas e dos registros das observações de aula e da participação desses alunos. Os alunos realizaram um projeto de pesquisa sob a supervisão de um professor da área de Ciências Econômicas e de uma professora da área de Educação Matemática. Investigou-se como um ambiente de aprendizagem de modelagem matemática contribui para a aquisição de conhecimento do pensamento estocástico de futuros economistas. Trata-se de uma pesquisa-ação porque, além de pesquisar e analisar o tema proposto, buscou-se apresentar uma proposta metodológica para o ensino da disciplina de estatística econômica. Analisou-se os projetos elaborados e desenvolvidos pelos futuros economistas, alunos do quinto semestre do curso de Ciências Econômicas, que por meio da modelagem matemática discutiram temas das áreas de microeconomia e macroeconomia que interferem no seu cotidiano. Os resultados evidenciaram que os alunos mobilizaram conhecimentos matemáticos e estatísticos para realizarem a análise das problemáticas e, nesse movimento, adquiriram novos conhecimentos estocásticos e econômicos que lhes permitiram conclusões fundamentadas sobre determinado os objetos de pesquisa.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-11960145",
+  "autor": "Fernando Dalbao Carvalho",
+  "ano": 2015,
+  "tipo": "Tese",
+  "titulo": "As contribuições do Raciocínio Estocástico para a Formação do Economista",
+  "instituicao": "Universidade Cruzeiro do Sul",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Celi Aparecida Espasandin Lopes",
+  "programa": "Ensino de Ciências",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino Superior, Ciências Econômicas, Ensino de Estatística, Raciocínio Estocástico, Modelagem Matemática.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22As%20contribui%C3%A7%C3%B5es%20do%20Racioc%C3%ADnio%20Estoc%C3%A1stico%20para%20a%20Forma%C3%A7%C3%A3o%20do%20Economista%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=As%20contribui%C3%A7%C3%B5es%20do%20Racioc%C3%ADnio%20Estoc%C3%A1stico%20para%20a%20Forma%C3%A7%C3%A3o%20do%20Economista&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/11960145"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "11960145",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino Superior, Ciências Econômicas, Ensino de Estatística, Raciocínio Estocástico, Modelagem Matemática."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-11960145.svg",
+  "resumo": "Esta tese apresenta uma pesquisa qualitativa e interpretativa, cujo trabalho de campo foi desenvolvido em uma instituição de Ensino Superior privada da cidade de São Paulo. Teve-se por objetivo investigar as contribuições do Raciocínio Estocástico para a formação dos futuros economistas do Curso Superior em Ciências Econômicas. Considerou-se referenciais teóricos das áreas da Educação Matemática e Educação Estatística. A construção de dados deu-se a partir de entrevistas de oito alunos regularmente matriculados no quinto semestre do curso de Ciências Econômicas e dos registros das observações de aula e da participação desses alunos. Os alunos realizaram um projeto de pesquisa sob a supervisão de um professor da área de Ciências Econômicas e de uma professora da área de Educação Matemática. Investigou-se como um ambiente de aprendizagem de modelagem matemática contribui para a aquisição de conhecimento do pensamento estocástico de futuros economistas. Trata-se de uma pesquisa-ação porque, além de pesquisar e analisar o tema proposto, buscou-se apresentar uma proposta metodológica para o ensino da disciplina de estatística econômica. Analisou-se os projetos elaborados e desenvolvidos pelos futuros economistas, alunos do quinto semestre do curso de Ciências Econômicas, que por meio da modelagem matemática discutiram temas das áreas de microeconomia e macroeconomia que interferem no seu cotidiano. Os resultados evidenciaram que os alunos mobilizaram conhecimentos matemáticos e estatísticos para realizarem a análise das problemáticas e, nesse movimento, adquiriram novos conhecimentos estocásticos e econômicos que lhes permitiram conclusões fundamentadas sobre determinado os objetos de pesquisa.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

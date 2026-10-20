@@ -1,61 +1,61 @@
 {
- "id": "capes-35922089",
- "autor": "Nathalia Tornisiello Scarlassari",
- "ano": 2021,
- "tipo": "Tese",
- "titulo": "Narrativas de práticas em Educação Estatística e a agência profissional de professores de Matemática",
- "instituicao": "Universidade Cruzeiro do Sul",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Celi Aparecida Espasandin Lopes",
- "programa": "Ensino de Ciências",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Estatística; Agência Profissional de Professor de Matemática; Narrativas",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Narrativas%20de%20pr%C3%A1ticas%20em%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20e%20a%20ag%C3%AAncia%20profissional%20de%20professores%20de%20Matem%C3%A1tica%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Narrativas%20de%20pr%C3%A1ticas%20em%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20e%20a%20ag%C3%AAncia%20profissional%20de%20professores%20de%20Matem%C3%A1tica&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35922089"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "35922089",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Estatística",
-  "Agência Profissional de Professor de Matemática",
-  "Narrativas"
- ],
- "thumbnail": "./assets/images/thumbs/capes-35922089.svg",
- "resumo": "Esta pesquisa1 tem como objetivo geral analisar ações pedagógicas que caracterizam a agência profissional de professores de Matemática, ao ensinarem Estatística e Probabilidade para alunos dos Anos Finais do Ensino Fundamental. Na busca por atingi-lo, a seguinte questão central foi delineada: “Como se caracteriza a agência profissional de professores de Matemática, a partir das narrativas de suas práticas, ao proporcionarem a Educação Estatística nos Anos Finais do Ensino Fundamental?” Para responder a esta questão, foi tomado como pressuposto que o professor é produtor de conhecimento, e a metodologia adotada se insere na vertente da pesquisa qualitativa com abordagem (auto)biográfica que toma as narrativas de si como meio de (auto)formação, segundo os estudos de Passeggi (2020) e Vicentini, Souza e Passeggi (2013). Os dados foram construídos por meio das entrevistas narrativas (BOLÍVAR; DOMINGO; FERNÁNDEZ, 2001) e das narrativas de práticas (BERTAUX, 2010) de três professores de Matemática, efetivos da rede municipal de Valinhos – SP, participantes do Grupo de Investigação e Formação em Educação Matemática (Gifem), que se tornou colaborativo ao longo do tempo. Dentre outros, os aportes teóricos que sustentam este estudo são Bolívar et al. (2001), Cyrino (2017), Cyrino e Paula (2020), Day (2001), Freire (1989, 1996), Fullan e Hargreaves (2001), Garfield e Gal (1999), Larrosa (2011, 2018), Lopes (2008b, 2010), Nacarato (2010, 2015, 2018), Passeggi (2010, 2011), Passos (2010), Tardif e Lessard (2014). Os dados permitiram identificar que as narrativas têm potencial reflexivo, uma vez que permitem ao professor ressignificar sua prática. As análises do que acontece na sala de aula, das angústias e das inseguranças do processo, das ações que caracterizam a agência profissional ocorreram a partir da escuta da voz do(a) professor(a). Os resultados mostram que professores participantes de um grupo colaborativo se sentem empoderados para ousar atividades diferenciadas, criativas, inovadoras para as práticas, envolvendo Estatística e Probabilidade, desenvolvidas nas escolas. Encontram no grupo colaborativo apoio dos pares e um espaço para discutir e ressignificar suas ações. Ouvir o estudante, colocá-lo no centro do processo de aprendizagem faz parte da aprendizagem docente e isso indica que ele está assumindo sua agência profissional. Além de dar visibilidade àquilo que acontece na sala de aula de escolas públicas, apresentam-se as trajetórias profissionais dos docentes por meio de biogramas que apontam a significância de se manter em constante formação, ao longo da vida profissional. A tese defendida é que a agência do professor vai se desenvolvendo e se efetivando, à medida que há um empoderamento, advindo da participação ativa no grupo colaborativo, do mesmo modo vai-se constituindo a identidade profissional individual, em paralelo à identidade coletiva, assumida pelo grupo. O processo de autoria (autorrealização pessoal) está intrinsecamente relacionado com a condição biográfica, assumida pelos membros do grupo.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": [
-  "39261015"
- ]
+  "id": "capes-35922089",
+  "autor": "Nathalia Tornisiello Scarlassari",
+  "ano": 2021,
+  "tipo": "Tese",
+  "titulo": "Narrativas de práticas em Educação Estatística e a agência profissional de professores de Matemática",
+  "instituicao": "Universidade Cruzeiro do Sul",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Celi Aparecida Espasandin Lopes",
+  "programa": "Ensino de Ciências",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Agência Profissional de Professor de Matemática; Narrativas",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Narrativas%20de%20pr%C3%A1ticas%20em%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20e%20a%20ag%C3%AAncia%20profissional%20de%20professores%20de%20Matem%C3%A1tica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Narrativas%20de%20pr%C3%A1ticas%20em%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20e%20a%20ag%C3%AAncia%20profissional%20de%20professores%20de%20Matem%C3%A1tica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35922089"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "35922089",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Agência Profissional de Professor de Matemática",
+    "Narrativas"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-35922089.svg",
+  "resumo": "Esta pesquisa1 tem como objetivo geral analisar ações pedagógicas que caracterizam a agência profissional de professores de Matemática, ao ensinarem Estatística e Probabilidade para alunos dos Anos Finais do Ensino Fundamental. Na busca por atingi-lo, a seguinte questão central foi delineada: “Como se caracteriza a agência profissional de professores de Matemática, a partir das narrativas de suas práticas, ao proporcionarem a Educação Estatística nos Anos Finais do Ensino Fundamental?” Para responder a esta questão, foi tomado como pressuposto que o professor é produtor de conhecimento, e a metodologia adotada se insere na vertente da pesquisa qualitativa com abordagem (auto)biográfica que toma as narrativas de si como meio de (auto)formação, segundo os estudos de Passeggi (2020) e Vicentini, Souza e Passeggi (2013). Os dados foram construídos por meio das entrevistas narrativas (BOLÍVAR; DOMINGO; FERNÁNDEZ, 2001) e das narrativas de práticas (BERTAUX, 2010) de três professores de Matemática, efetivos da rede municipal de Valinhos – SP, participantes do Grupo de Investigação e Formação em Educação Matemática (Gifem), que se tornou colaborativo ao longo do tempo. Dentre outros, os aportes teóricos que sustentam este estudo são Bolívar et al. (2001), Cyrino (2017), Cyrino e Paula (2020), Day (2001), Freire (1989, 1996), Fullan e Hargreaves (2001), Garfield e Gal (1999), Larrosa (2011, 2018), Lopes (2008b, 2010), Nacarato (2010, 2015, 2018), Passeggi (2010, 2011), Passos (2010), Tardif e Lessard (2014). Os dados permitiram identificar que as narrativas têm potencial reflexivo, uma vez que permitem ao professor ressignificar sua prática. As análises do que acontece na sala de aula, das angústias e das inseguranças do processo, das ações que caracterizam a agência profissional ocorreram a partir da escuta da voz do(a) professor(a). Os resultados mostram que professores participantes de um grupo colaborativo se sentem empoderados para ousar atividades diferenciadas, criativas, inovadoras para as práticas, envolvendo Estatística e Probabilidade, desenvolvidas nas escolas. Encontram no grupo colaborativo apoio dos pares e um espaço para discutir e ressignificar suas ações. Ouvir o estudante, colocá-lo no centro do processo de aprendizagem faz parte da aprendizagem docente e isso indica que ele está assumindo sua agência profissional. Além de dar visibilidade àquilo que acontece na sala de aula de escolas públicas, apresentam-se as trajetórias profissionais dos docentes por meio de biogramas que apontam a significância de se manter em constante formação, ao longo da vida profissional. A tese defendida é que a agência do professor vai se desenvolvendo e se efetivando, à medida que há um empoderamento, advindo da participação ativa no grupo colaborativo, do mesmo modo vai-se constituindo a identidade profissional individual, em paralelo à identidade coletiva, assumida pelo grupo. O processo de autoria (autorrealização pessoal) está intrinsecamente relacionado com a condição biográfica, assumida pelos membros do grupo.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": [
+    "39261015"
+  ]
 }

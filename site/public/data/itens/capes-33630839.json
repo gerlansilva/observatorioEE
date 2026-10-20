@@ -1,61 +1,61 @@
 {
- "id": "capes-33630839",
- "autor": "Fabiana do Nascimento Araujo",
- "ano": 2021,
- "tipo": "Dissertação",
- "titulo": "Contribuições do Letramento Estatístico em Situações do Cotidiano dos Alunos do 9º Ano do Ensino Fundamental",
- "instituicao": "Universidade Estadual da Paraiba",
- "cidade": "",
- "estado": "Paraíba",
- "regiao": "Nordeste",
- "orientador": "Maria Betania Sabino Fernandes",
- "programa": "Ensino de Ciências e Educação Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino; Estatística; Letramento; Educação matemática crítica",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22CONTRIBUI%C3%87%C3%95ES%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20EM%20SITUA%C3%87%C3%95ES%20DO%20COTIDIANO%20DOS%20ALUNOS%20DO%209%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CONTRIBUI%C3%87%C3%95ES%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20EM%20SITUA%C3%87%C3%95ES%20DO%20COTIDIANO%20DOS%20ALUNOS%20DO%209%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/33630839"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "33630839",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino",
-  "Estatística",
-  "Letramento",
-  "Educação matemática crítica"
- ],
- "thumbnail": "./assets/images/thumbs/capes-33630839.svg",
- "resumo": "O presente estudo teve como objetivo analisar as contribuições do ensino de matemática numa perspectiva do Letramento Estatístico para as percepções dos alunos em situações presentes no cotidiano. Adotamos como aporte central em nosso referencial teórico os estudos de Gal (2002), no que se refere ao Letramento Estatístico e Skovsmose (2000, 2001, 2007, 2008 e 2014), no aspecto da Educação Matemática Critica, além de autores como Fonseca (2004 e 2014), Lopes (2008 e 2010a), Milani (2020), Freire (1980, 2005 e 2018), dentre outros. A nossa investigação foi de natureza qualitativa, norteada por questões como: quais as percepções dos estudantes acerca de problemas presentes no seu contexto de vida? Como apresentar os conceitos da estatística considerando os problemas vivenciados pelos alunos? Como o ensino de Estatística na perspectiva do Letramento pode contribuir para mudanças nas percepções dos estudantes acerca dos problemas presentes no seu contexto de vida? Os participantes do nosso estudo foram alunos de uma turma de 9º ano do Ensino Fundamental II, de uma escola da rede municipal da cidade de Sumé, na Paraíba. Defendemos que a matemática deve ser trabalhada em sala de aula de uma forma significativa, levando os estudantes a refletirem sobre o que estão aprendendo. A análise dos Questionários 1 e 2 revelaram, a partir dos dados coletados, que os estudantes não relacionaram as temáticas estudadas à Covid-19, mas compreendem as consequências trazidas pela pandemia. Com relação à análise das aulas, percebemos que os estudantes fizeram algumas descobertas acerca dos dados representados em figuras, tabelas, gráficos e infográficos com o tema geral Covid19 e os subtemas: internet, saúde, ensino remoto, fake news, desigualdade social e vacinação. Observamos mudanças nas concepções desses estudantes, no que se refere aos temas trabalhados, indicando desenvolvimento de competências necessárias para que possam alcançar um pensamento crítico sobre os aspectos ligados ao Letramento Estatístico.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "letramento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-33630839",
+  "autor": "Fabiana do Nascimento Araujo",
+  "ano": 2021,
+  "tipo": "Dissertação",
+  "titulo": "Contribuições do Letramento Estatístico em Situações do Cotidiano dos Alunos do 9º Ano do Ensino Fundamental",
+  "instituicao": "Universidade Estadual da Paraiba",
+  "cidade": "",
+  "estado": "Paraíba",
+  "regiao": "Nordeste",
+  "orientador": "Maria Betania Sabino Fernandes",
+  "programa": "Ensino de Ciências e Educação Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino; Estatística; Letramento; Educação matemática crítica",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22CONTRIBUI%C3%87%C3%95ES%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20EM%20SITUA%C3%87%C3%95ES%20DO%20COTIDIANO%20DOS%20ALUNOS%20DO%209%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CONTRIBUI%C3%87%C3%95ES%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20EM%20SITUA%C3%87%C3%95ES%20DO%20COTIDIANO%20DOS%20ALUNOS%20DO%209%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/33630839"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "33630839",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino",
+    "Estatística",
+    "Letramento",
+    "Educação matemática crítica"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-33630839.svg",
+  "resumo": "O presente estudo teve como objetivo analisar as contribuições do ensino de matemática numa perspectiva do Letramento Estatístico para as percepções dos alunos em situações presentes no cotidiano. Adotamos como aporte central em nosso referencial teórico os estudos de Gal (2002), no que se refere ao Letramento Estatístico e Skovsmose (2000, 2001, 2007, 2008 e 2014), no aspecto da Educação Matemática Critica, além de autores como Fonseca (2004 e 2014), Lopes (2008 e 2010a), Milani (2020), Freire (1980, 2005 e 2018), dentre outros. A nossa investigação foi de natureza qualitativa, norteada por questões como: quais as percepções dos estudantes acerca de problemas presentes no seu contexto de vida? Como apresentar os conceitos da estatística considerando os problemas vivenciados pelos alunos? Como o ensino de Estatística na perspectiva do Letramento pode contribuir para mudanças nas percepções dos estudantes acerca dos problemas presentes no seu contexto de vida? Os participantes do nosso estudo foram alunos de uma turma de 9º ano do Ensino Fundamental II, de uma escola da rede municipal da cidade de Sumé, na Paraíba. Defendemos que a matemática deve ser trabalhada em sala de aula de uma forma significativa, levando os estudantes a refletirem sobre o que estão aprendendo. A análise dos Questionários 1 e 2 revelaram, a partir dos dados coletados, que os estudantes não relacionaram as temáticas estudadas à Covid-19, mas compreendem as consequências trazidas pela pandemia. Com relação à análise das aulas, percebemos que os estudantes fizeram algumas descobertas acerca dos dados representados em figuras, tabelas, gráficos e infográficos com o tema geral Covid19 e os subtemas: internet, saúde, ensino remoto, fake news, desigualdade social e vacinação. Observamos mudanças nas concepções desses estudantes, no que se refere aos temas trabalhados, indicando desenvolvimento de competências necessárias para que possam alcançar um pensamento crítico sobre os aspectos ligados ao Letramento Estatístico.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
 }

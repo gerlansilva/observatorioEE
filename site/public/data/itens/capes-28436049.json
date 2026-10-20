@@ -1,58 +1,58 @@
 {
- "id": "capes-28436049",
- "autor": "Sandra Aparecida de Oliveira Coelho Paim",
- "ano": 2019,
- "tipo": "Dissertação",
- "titulo": "O Estado da Arte das Pesquisas Brasileiras sobre o Letramento Estatístico e Probabilístico",
- "instituicao": "Universidade Federal de São Carlos",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Paulo Cesar Oliveira",
- "programa": "Ensino de Ciências Exatas",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Estado da Arte, Letramento Probabilístico, Letramento Estatístico.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ESTADO%20DA%20ARTE%20DAS%20PESQUISAS%20BRASILEIRAS%20SOBRE%20O%20LETRAMENTO%20ESTAT%C3%8DSTICO%20E%20PROBABIL%C3%8DSTICO%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ESTADO%20DA%20ARTE%20DAS%20PESQUISAS%20BRASILEIRAS%20SOBRE%20O%20LETRAMENTO%20ESTAT%C3%8DSTICO%20E%20PROBABIL%C3%8DSTICO&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28436049"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "28436049",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Estado da Arte, Letramento Probabilístico, Letramento Estatístico."
- ],
- "thumbnail": "./assets/images/thumbs/capes-28436049.svg",
- "resumo": "Entre as temáticas de estudos do GEPLAM (Grupo de Estudos e Planejamento de Aulas de Matemática) sediado no campus de Sorocaba da Universidade Federal de São Carlos (UFSCar), destaca-se o Letramento Estatístico e Probabilístico na perspectiva de Iddo Gal, aportes teóricos de alguns trabalhos concluídos. A partir da apropriação de uma parcela da produção acadêmica de Gal (2002, 2005, 2012) pelos membros do GEPLAM em seus estudos, buscou-se investigar o quão este aporte teórico tem contribuído no desenvolvimento de teses e dissertações no cenário nacional, mais especificamente, Qual a incidência dos elementos do letramento estatístico e probabilístico abordados em teses e dissertações brasileiras? O objetivo foi apresentar um Estado da Arte, adotando uma metodologia qualitativa bibliográfica, expondo uma análise descritiva e qualitativa dos dados relativo ao letramento estatístico e/ou probabilístico, presentes em teses e dissertações brasileiras, dando continuidade ao levantamento das produções acadêmicas feita por Santos (2015), no período de 2013 até 2018, desenvolvidas em contextos de Ensino Fundamental, Ensino Médio, formação inicial e/ou continuada de professores que ensinam Matemática. Foram criadas três categorias de análise: as produções acadêmicas que utilizaram o Letramento Probabilístico, buscando os componentes cognitivos e de disposição; as que usaram o Letramento Estatístico, porém buscando os elementos de conhecimento e de disposição, e as que usaram o Letramento Estatístico e Probabilístico articulando os dois anteriores. Pôde-se notar nos trabalhos analisados, embora fizessem uso de metodologias diferentes e de “sujeitos” variados se propuseram a pesquisar porque o letramento probabilístico e/ou estatístico ainda não está sendo alcançado.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "letramento estatístico",
-  "letramento probabilístico"
- ],
- "ids_duplicados": []
+  "id": "capes-28436049",
+  "autor": "Sandra Aparecida de Oliveira Coelho Paim",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "O Estado da Arte das Pesquisas Brasileiras sobre o Letramento Estatístico e Probabilístico",
+  "instituicao": "Universidade Federal de São Carlos",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Paulo Cesar Oliveira",
+  "programa": "Ensino de Ciências Exatas",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Estado da Arte, Letramento Probabilístico, Letramento Estatístico.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ESTADO%20DA%20ARTE%20DAS%20PESQUISAS%20BRASILEIRAS%20SOBRE%20O%20LETRAMENTO%20ESTAT%C3%8DSTICO%20E%20PROBABIL%C3%8DSTICO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ESTADO%20DA%20ARTE%20DAS%20PESQUISAS%20BRASILEIRAS%20SOBRE%20O%20LETRAMENTO%20ESTAT%C3%8DSTICO%20E%20PROBABIL%C3%8DSTICO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28436049"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "28436049",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Estado da Arte, Letramento Probabilístico, Letramento Estatístico."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-28436049.svg",
+  "resumo": "Entre as temáticas de estudos do GEPLAM (Grupo de Estudos e Planejamento de Aulas de Matemática) sediado no campus de Sorocaba da Universidade Federal de São Carlos (UFSCar), destaca-se o Letramento Estatístico e Probabilístico na perspectiva de Iddo Gal, aportes teóricos de alguns trabalhos concluídos. A partir da apropriação de uma parcela da produção acadêmica de Gal (2002, 2005, 2012) pelos membros do GEPLAM em seus estudos, buscou-se investigar o quão este aporte teórico tem contribuído no desenvolvimento de teses e dissertações no cenário nacional, mais especificamente, Qual a incidência dos elementos do letramento estatístico e probabilístico abordados em teses e dissertações brasileiras? O objetivo foi apresentar um Estado da Arte, adotando uma metodologia qualitativa bibliográfica, expondo uma análise descritiva e qualitativa dos dados relativo ao letramento estatístico e/ou probabilístico, presentes em teses e dissertações brasileiras, dando continuidade ao levantamento das produções acadêmicas feita por Santos (2015), no período de 2013 até 2018, desenvolvidas em contextos de Ensino Fundamental, Ensino Médio, formação inicial e/ou continuada de professores que ensinam Matemática. Foram criadas três categorias de análise: as produções acadêmicas que utilizaram o Letramento Probabilístico, buscando os componentes cognitivos e de disposição; as que usaram o Letramento Estatístico, porém buscando os elementos de conhecimento e de disposição, e as que usaram o Letramento Estatístico e Probabilístico articulando os dois anteriores. Pôde-se notar nos trabalhos analisados, embora fizessem uso de metodologias diferentes e de “sujeitos” variados se propuseram a pesquisar porque o letramento probabilístico e/ou estatístico ainda não está sendo alcançado.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "letramento estatístico",
+    "letramento probabilístico"
+  ],
+  "ids_duplicados": []
 }

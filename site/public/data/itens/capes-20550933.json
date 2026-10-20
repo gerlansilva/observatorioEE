@@ -1,58 +1,58 @@
 {
- "id": "capes-20550933",
- "autor": "Willian Damin",
- "ano": 2014,
- "tipo": "Dissertação",
- "titulo": "Ensino de Estatística para o Final do Ensino Fundamental",
- "instituicao": "Universidade Tecnológica Federal do Paraná",
- "cidade": "",
- "estado": "Paraná",
- "regiao": "Sul",
- "orientador": "Guatacara dos Santos Junior",
- "programa": "Ensino de Ciência e Tecnologia",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino de Estatística. Ensino Fundamental. Sequência Didática. Letramento Estatístico.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20DE%20ESTAT%C3%8DSTICA%20PARA%20O%20FINAL%20DO%20ENSINO%20FUNDAMENTAL%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20DE%20ESTAT%C3%8DSTICA%20PARA%20O%20FINAL%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20550933"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "20550933",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino de Estatística. Ensino Fundamental. Sequência Didática. Letramento Estatístico."
- ],
- "thumbnail": "./assets/images/thumbs/capes-20550933.svg",
- "resumo": "DAMIN, Willian. Ensino de Estatística para o final do Ensino Fundamental. 2014. Número total de folhas. Dissertação (Mestrado em Ensino de Ciência e Tecnologia) - Universidade Tecnológica Federal do Paraná. Ponta Grossa, 2014. O presente trabalho teve como objetivo investigar as contribuições de uma sequência didática, utilizando a realidade dos alunos, na aprendizagem de conceitos estatísticos pelos alunos do nono ano do Ensino Fundamental. A revisão de literatura referente ao ensino de Estatística apoia-se em Rumsey (2002), Lopes (1998, 2003, 2008, 2010), Campos (2007), Silva (2007), Estevam (2010), Walichinski (2012), dentre outros. Com a intenção de alcançar o objetivo proposto, foi desenvolvida no ano de 2014 uma pesquisa aplicada, qualitativa com análise interpretativa e descritiva em uma turma de alunos do 9°ano do Ensino Fundamental de um colégio da rede privada de um município do norte do Paraná. Quanto a característica da pesquisa apoiou-se em Bogdan e Biklen (1994), Roesch (1996), Rosa (2009) e Silva e Menezes (2005). Em um primeiro momento foi aplicado um teste diagnóstico denominado pré-teste, no intuito de analisar o desempenho prévio dos alunos com relação aos conteúdos básicos de Estatística. Após a aplicação foi desenvolvida uma sequência didática que contemplou conteúdos básicos de Estatística. Durante a aplicação da sequência, observou-se uma participação mais efetiva dos alunos, isto é, apresentaram maior envolvimento e interesse pelos conteúdos abordados, uma vez que puderam coletar, organizar e tabular dados. Com base nos resultados do desempenho dos alunos após a aplicação épossível inferir que a sequência didática mostrou-se eficaz quanto a aquisição ao conhecimento de conceitos estatísticos, contribuindo assim, para o desenvolvimento das competências de raciocínio, pensamento e letramento estatístico. Como produto final desta pesquisa, apresenta-se um caderno pedagógico de apoio ao professor contendo uma sequência didática com conteúdos básicos de Estatística voltada para os anos finais do Ensino Fundamental, que se encontra anexado a esta dissertação.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística",
-  "letramento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-20550933",
+  "autor": "Willian Damin",
+  "ano": 2014,
+  "tipo": "Dissertação",
+  "titulo": "Ensino de Estatística para o Final do Ensino Fundamental",
+  "instituicao": "Universidade Tecnológica Federal do Paraná",
+  "cidade": "",
+  "estado": "Paraná",
+  "regiao": "Sul",
+  "orientador": "Guatacara dos Santos Junior",
+  "programa": "Ensino de Ciência e Tecnologia",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Estatística. Ensino Fundamental. Sequência Didática. Letramento Estatístico.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20DE%20ESTAT%C3%8DSTICA%20PARA%20O%20FINAL%20DO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20DE%20ESTAT%C3%8DSTICA%20PARA%20O%20FINAL%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20550933"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "20550933",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Estatística. Ensino Fundamental. Sequência Didática. Letramento Estatístico."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-20550933.svg",
+  "resumo": "DAMIN, Willian. Ensino de Estatística para o final do Ensino Fundamental. 2014. Número total de folhas. Dissertação (Mestrado em Ensino de Ciência e Tecnologia) - Universidade Tecnológica Federal do Paraná. Ponta Grossa, 2014. O presente trabalho teve como objetivo investigar as contribuições de uma sequência didática, utilizando a realidade dos alunos, na aprendizagem de conceitos estatísticos pelos alunos do nono ano do Ensino Fundamental. A revisão de literatura referente ao ensino de Estatística apoia-se em Rumsey (2002), Lopes (1998, 2003, 2008, 2010), Campos (2007), Silva (2007), Estevam (2010), Walichinski (2012), dentre outros. Com a intenção de alcançar o objetivo proposto, foi desenvolvida no ano de 2014 uma pesquisa aplicada, qualitativa com análise interpretativa e descritiva em uma turma de alunos do 9°ano do Ensino Fundamental de um colégio da rede privada de um município do norte do Paraná. Quanto a característica da pesquisa apoiou-se em Bogdan e Biklen (1994), Roesch (1996), Rosa (2009) e Silva e Menezes (2005). Em um primeiro momento foi aplicado um teste diagnóstico denominado pré-teste, no intuito de analisar o desempenho prévio dos alunos com relação aos conteúdos básicos de Estatística. Após a aplicação foi desenvolvida uma sequência didática que contemplou conteúdos básicos de Estatística. Durante a aplicação da sequência, observou-se uma participação mais efetiva dos alunos, isto é, apresentaram maior envolvimento e interesse pelos conteúdos abordados, uma vez que puderam coletar, organizar e tabular dados. Com base nos resultados do desempenho dos alunos após a aplicação épossível inferir que a sequência didática mostrou-se eficaz quanto a aquisição ao conhecimento de conceitos estatísticos, contribuindo assim, para o desenvolvimento das competências de raciocínio, pensamento e letramento estatístico. Como produto final desta pesquisa, apresenta-se um caderno pedagógico de apoio ao professor contendo uma sequência didática com conteúdos básicos de Estatística voltada para os anos finais do Ensino Fundamental, que se encontra anexado a esta dissertação.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
 }

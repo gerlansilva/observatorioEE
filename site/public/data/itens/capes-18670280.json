@@ -1,54 +1,54 @@
 {
- "id": "capes-18670280",
- "autor": "Estefania Bissoni",
- "ano": 2015,
- "tipo": "Dissertação",
- "titulo": "Parceria Entre a Pesquisadora e uma Professora do 1º Ano no Desenvolvimento de um Projeto Estatístico com Recursos Tecnológicos",
- "instituicao": "Universidade São Francisco",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Adair Mendes Nacarato",
- "programa": "Educação",
- "area": "Educação",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Trabalho Colaborativo. Projeto Estatístico. Tecnologias Computacionais.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22PARCERIA%20ENTRE%20A%20PESQUISADORA%20E%20UMA%20PROFESSORA%20DO%201%C2%BA%20ANO%20NO%20DESENVOLVIMENTO%20DE%20UM%20PROJETO%20ESTAT%C3%8DSTICO%20COM%20RECURSOS%20TECNOL%C3%93GICOS%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PARCERIA%20ENTRE%20A%20PESQUISADORA%20E%20UMA%20PROFESSORA%20DO%201%C2%BA%20ANO%20NO%20DESENVOLVIMENTO%20DE%20UM%20PROJETO%20ESTAT%C3%8DSTICO%20COM%20RECURSOS%20TECNOL%C3%93GICOS&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/18670280"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "18670280",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Trabalho Colaborativo. Projeto Estatístico. Tecnologias Computacionais."
- ],
- "thumbnail": "./assets/images/thumbs/capes-18670280.svg",
- "resumo": "A presente pesquisa centra-se na parceria entre a pesquisadora e uma professora parceira na produção e análise de um projeto sobre alimentação saudável, integrando matemática, estatística e tecnologia. A pesquisa-ação colaborativa foi desenvolvida em uma escola municipal da cidade de Itatiba (SP), em uma turma de 1º ano do Ensino Fundamental I. Teve como objetivos: 1) buscar evidências de como uma parceria entre a professora e uma pesquisadora pode trazer produção de conhecimento sobre como ensinar estatística com tecnologia para as crianças e 2) identificar como os alunos produzem conhecimentos matemáticos e estatísticos através da utilização de tecnologias computacionais em situações pedagógicas planejadas. Os dados foram analisados sob uma perspectiva qualitativa de pesquisa. Para fundamentar essa pesquisa, nos baseamos em autores que discutem o conceito de colaboração, bem como o uso de tecnologias educacionais enquanto mediadoras de situações de ensino e de aprendizagem. Para tanto, o material de pesquisa produzido envolveu como forma de produção de dados: os registros das crianças; registros videográficos e audiográficos das situações de aprendizagem coletiva dos alunos em sala de aula; registros produzidos pela professora parceira tanto em sala de aula quanto nos encontros de planejamento e análise; e o diário de campo da pesquisadora. Para a análise, buscamos olhar para os dados sob a ótica interpretativa. Dentre as constatações às quais pudemos chegar, destacam-se a criação de uma parceria de trabalho entre pesquisadora e professora parceira que, em conjunto, tiveram as seguintes ações: planejar, desenvolver e analisar os processos de aprendizagem de conceitos matemáticos e estatísticos dos alunos do primeiro ano do ensino fundamental, através da utilização das tecnologias. Destaca-se que para a realização da parceria alguns aspectos foram essenciais, como 1) Envolvimento habitual por parte da professora parceira em atividades com uso de recursos tecnológicos; 2) A estrutura física da escola parceira e o fato de os alunos já estarem acostumados ao uso do Laboratório de Informática. Algumas constatações como: 1) necessidade de planejamento e constante diálogo para elaboração de situações de aula e 2) replanejamento constante no curso das atividades do projeto, permitiram que a parceria se realizasse e que o projeto fosse colocado em prática.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": null
+  "id": "capes-18670280",
+  "autor": "Estefania Bissoni",
+  "ano": 2015,
+  "tipo": "Dissertação",
+  "titulo": "Parceria Entre a Pesquisadora e uma Professora do 1º Ano no Desenvolvimento de um Projeto Estatístico com Recursos Tecnológicos",
+  "instituicao": "Universidade São Francisco",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Adair Mendes Nacarato",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Trabalho Colaborativo. Projeto Estatístico. Tecnologias Computacionais.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22PARCERIA%20ENTRE%20A%20PESQUISADORA%20E%20UMA%20PROFESSORA%20DO%201%C2%BA%20ANO%20NO%20DESENVOLVIMENTO%20DE%20UM%20PROJETO%20ESTAT%C3%8DSTICO%20COM%20RECURSOS%20TECNOL%C3%93GICOS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PARCERIA%20ENTRE%20A%20PESQUISADORA%20E%20UMA%20PROFESSORA%20DO%201%C2%BA%20ANO%20NO%20DESENVOLVIMENTO%20DE%20UM%20PROJETO%20ESTAT%C3%8DSTICO%20COM%20RECURSOS%20TECNOL%C3%93GICOS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/18670280"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "18670280",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Trabalho Colaborativo. Projeto Estatístico. Tecnologias Computacionais."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-18670280.svg",
+  "resumo": "A presente pesquisa centra-se na parceria entre a pesquisadora e uma professora parceira na produção e análise de um projeto sobre alimentação saudável, integrando matemática, estatística e tecnologia. A pesquisa-ação colaborativa foi desenvolvida em uma escola municipal da cidade de Itatiba (SP), em uma turma de 1º ano do Ensino Fundamental I. Teve como objetivos: 1) buscar evidências de como uma parceria entre a professora e uma pesquisadora pode trazer produção de conhecimento sobre como ensinar estatística com tecnologia para as crianças e 2) identificar como os alunos produzem conhecimentos matemáticos e estatísticos através da utilização de tecnologias computacionais em situações pedagógicas planejadas. Os dados foram analisados sob uma perspectiva qualitativa de pesquisa. Para fundamentar essa pesquisa, nos baseamos em autores que discutem o conceito de colaboração, bem como o uso de tecnologias educacionais enquanto mediadoras de situações de ensino e de aprendizagem. Para tanto, o material de pesquisa produzido envolveu como forma de produção de dados: os registros das crianças; registros videográficos e audiográficos das situações de aprendizagem coletiva dos alunos em sala de aula; registros produzidos pela professora parceira tanto em sala de aula quanto nos encontros de planejamento e análise; e o diário de campo da pesquisadora. Para a análise, buscamos olhar para os dados sob a ótica interpretativa. Dentre as constatações às quais pudemos chegar, destacam-se a criação de uma parceria de trabalho entre pesquisadora e professora parceira que, em conjunto, tiveram as seguintes ações: planejar, desenvolver e analisar os processos de aprendizagem de conceitos matemáticos e estatísticos dos alunos do primeiro ano do ensino fundamental, através da utilização das tecnologias. Destaca-se que para a realização da parceria alguns aspectos foram essenciais, como 1) Envolvimento habitual por parte da professora parceira em atividades com uso de recursos tecnológicos; 2) A estrutura física da escola parceira e o fato de os alunos já estarem acostumados ao uso do Laboratório de Informática. Algumas constatações como: 1) necessidade de planejamento e constante diálogo para elaboração de situações de aula e 2) replanejamento constante no curso das atividades do projeto, permitiram que a parceria se realizasse e que o projeto fosse colocado em prática.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
 }

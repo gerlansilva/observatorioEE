@@ -1,65 +1,65 @@
 {
- "id": "capes-37035269",
- "autor": "Gerlaine Henrique da Costa",
- "ano": 2022,
- "tipo": "Dissertação",
- "titulo": "CENÁRIOS PARA INVESTIGAÇÃO E ENSINO DE ESTATÍSTICA EM ESCOLAS DO CAMPO: um estudo com professores do município de Surubim-PE",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Liliane Maria Teixeira Lima de Carvalho",
- "programa": "Educação Matemática e Tecnológica",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação do Campo; Educação Matemática Crítica; Cenários para investigação; Ensino de Estatística; Letramento Estatístico.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22CEN%C3%81RIOS%20PARA%20INVESTIGA%C3%87%C3%83O%20E%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20EM%20ESCOLAS%20DO%20CAMPO%3A%20um%20estudo%20com%20professores%20do%20munic%C3%ADpio%20de%20Surubim-PE%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CEN%C3%81RIOS%20PARA%20INVESTIGA%C3%87%C3%83O%20E%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20EM%20ESCOLAS%20DO%20CAMPO%3A%20um%20estudo%20com%20professores%20do%20munic%C3%ADpio%20de%20Surubim-PE&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37035269"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "37035269",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação do Campo",
-  "Educação Matemática Crítica",
-  "Cenários para investigação",
-  "Ensino de Estatística",
-  "Letramento Estatístico."
- ],
- "thumbnail": "./assets/images/thumbs/capes-37035269.svg",
- "resumo": "A pesquisa objetiva analisar como professores de escolas do campo dos anos iniciais do ensino fundamental propõem atividades de ensino de Estatística envolvendo Cenários para Investigação na perspectiva do Letramento Estatístico e da Educação do Campo. Em termos específicos busca-se identificar a concepção de Educação do Campo e do ensino de Estatística dos(as) docentes participantes da pesquisa; promover estudos e reflexões com os(as) docentes para a elaboração de atividades sobre o ensino de estatística fundamentadas nos Cenários para Investigação, na Educação do Campo e na perspectiva do Letramento Estatístico; e analisar atividades elaboradas pelos(as) docentes à luz da Educação Matemática Crítica, especificamente, dos Cenários para Investigação, articulando a Educação do Campo e o Letramento Estatístico. A metodologia consolidou-se em cinco etapas inter-relacionadas e vinculadas ao alcance dos objetivos específicos propostos. Na primeira etapa realizou-se um levantamento das escolas do campo do município de Surubim-PE que ofertam os anos iniciais. Na segunda etapa, 11 professoras que lecionam no segundo ciclo do ensino fundamental foram convidadas a responder a um questionário elaborado no Google Formulário. Na terceira etapa apenas seis professoras aceitaram o convite e responderam ao questionário. Quatro professoras concordaram em continuar participando da pesquisa e, numa quarta etapa, elas participaram de cinco encontros de um grupo de discussão mediado pela pesquisadora. Na quinta etapa, realizamos as análises das propostas de atividades elaboradas pelas professoras durante os encontros do grupo de estudos. A partir dos questionários verificamos que a localização geográfica da escola é um referencial para as docentes considerarem tanto o conceito de Educação do Campo como de escola do campo. Observou-se ainda que apesar das professoras apresentarem alguns conhecimentos prévios sobre estatística, ressalta-se a ausência desse conhecimento tanto em cursos de formação inicial como continuada. Quanto aos encontros do grupo de discussão, identificamos que estes contribuíram para que as docentes construíssem novos conhecimentos em relação aos temas trabalhados durante a realização das atividades. Identificamos de maneira geral, que as propostas de atividades das professoras apresentaram tópicos envolvendo perspectivas de Cenários para Investigação como, por exemplo, contexto de uma situação real e engajamento em uma pesquisa. Essas propostas, por incluir aspectos do contexto social e de vida dos estudantes campesinos, possibilitariam reflexões críticas acerca das suas condições e das políticas públicas que podem afetar a sua qualidade de vida. Esses tópicos propostos nas atividades das professoras contribuíram para articulações de aspectos da Educação do Campo com possibilidades para o letramento estatístico tanto no sentido de envolver elementos do conhecimento, como elementos de disposição. Consideramos, portanto, que o desenvolvimento dos encontros do grupo de discussão consistiu em possibilidade de vivência de formação continuada para as professoras, com ênfase na valorização dos contextos socioculturais dos estudantes camponeses numa perspectiva crítica.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística",
-  "letramento estatístico"
- ],
- "ids_duplicados": [
-  "39997185"
- ]
+  "id": "capes-37035269",
+  "autor": "Gerlaine Henrique da Costa",
+  "ano": 2022,
+  "tipo": "Dissertação",
+  "titulo": "CENÁRIOS PARA INVESTIGAÇÃO E ENSINO DE ESTATÍSTICA EM ESCOLAS DO CAMPO: um estudo com professores do município de Surubim-PE",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Liliane Maria Teixeira Lima de Carvalho",
+  "programa": "Educação Matemática e Tecnológica",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação do Campo; Educação Matemática Crítica; Cenários para investigação; Ensino de Estatística; Letramento Estatístico.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22CEN%C3%81RIOS%20PARA%20INVESTIGA%C3%87%C3%83O%20E%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20EM%20ESCOLAS%20DO%20CAMPO%3A%20um%20estudo%20com%20professores%20do%20munic%C3%ADpio%20de%20Surubim-PE%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CEN%C3%81RIOS%20PARA%20INVESTIGA%C3%87%C3%83O%20E%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20EM%20ESCOLAS%20DO%20CAMPO%3A%20um%20estudo%20com%20professores%20do%20munic%C3%ADpio%20de%20Surubim-PE&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37035269"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37035269",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação do Campo",
+    "Educação Matemática Crítica",
+    "Cenários para investigação",
+    "Ensino de Estatística",
+    "Letramento Estatístico."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37035269.svg",
+  "resumo": "A pesquisa objetiva analisar como professores de escolas do campo dos anos iniciais do ensino fundamental propõem atividades de ensino de Estatística envolvendo Cenários para Investigação na perspectiva do Letramento Estatístico e da Educação do Campo. Em termos específicos busca-se identificar a concepção de Educação do Campo e do ensino de Estatística dos(as) docentes participantes da pesquisa; promover estudos e reflexões com os(as) docentes para a elaboração de atividades sobre o ensino de estatística fundamentadas nos Cenários para Investigação, na Educação do Campo e na perspectiva do Letramento Estatístico; e analisar atividades elaboradas pelos(as) docentes à luz da Educação Matemática Crítica, especificamente, dos Cenários para Investigação, articulando a Educação do Campo e o Letramento Estatístico. A metodologia consolidou-se em cinco etapas inter-relacionadas e vinculadas ao alcance dos objetivos específicos propostos. Na primeira etapa realizou-se um levantamento das escolas do campo do município de Surubim-PE que ofertam os anos iniciais. Na segunda etapa, 11 professoras que lecionam no segundo ciclo do ensino fundamental foram convidadas a responder a um questionário elaborado no Google Formulário. Na terceira etapa apenas seis professoras aceitaram o convite e responderam ao questionário. Quatro professoras concordaram em continuar participando da pesquisa e, numa quarta etapa, elas participaram de cinco encontros de um grupo de discussão mediado pela pesquisadora. Na quinta etapa, realizamos as análises das propostas de atividades elaboradas pelas professoras durante os encontros do grupo de estudos. A partir dos questionários verificamos que a localização geográfica da escola é um referencial para as docentes considerarem tanto o conceito de Educação do Campo como de escola do campo. Observou-se ainda que apesar das professoras apresentarem alguns conhecimentos prévios sobre estatística, ressalta-se a ausência desse conhecimento tanto em cursos de formação inicial como continuada. Quanto aos encontros do grupo de discussão, identificamos que estes contribuíram para que as docentes construíssem novos conhecimentos em relação aos temas trabalhados durante a realização das atividades. Identificamos de maneira geral, que as propostas de atividades das professoras apresentaram tópicos envolvendo perspectivas de Cenários para Investigação como, por exemplo, contexto de uma situação real e engajamento em uma pesquisa. Essas propostas, por incluir aspectos do contexto social e de vida dos estudantes campesinos, possibilitariam reflexões críticas acerca das suas condições e das políticas públicas que podem afetar a sua qualidade de vida. Esses tópicos propostos nas atividades das professoras contribuíram para articulações de aspectos da Educação do Campo com possibilidades para o letramento estatístico tanto no sentido de envolver elementos do conhecimento, como elementos de disposição. Consideramos, portanto, que o desenvolvimento dos encontros do grupo de discussão consistiu em possibilidade de vivência de formação continuada para as professoras, com ênfase na valorização dos contextos socioculturais dos estudantes camponeses numa perspectiva crítica.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": [
+    "39997185"
+  ]
 }

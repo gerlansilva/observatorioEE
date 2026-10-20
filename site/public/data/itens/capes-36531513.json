@@ -1,60 +1,60 @@
 {
- "id": "capes-36531513",
- "autor": "Caroline Subira Pereira",
- "ano": 2022,
- "tipo": "Tese",
- "titulo": "Caminhos para o ensino de probabilidade e estatística na formação de engenheiro pesquisador",
- "instituicao": "Universidade Tecnológica Federal do Paraná",
- "cidade": "",
- "estado": "Paraná",
- "regiao": "Sul",
- "orientador": "Guatacara dos Santos Junior",
- "programa": "Ensino de Ciência e Tecnologia",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "ensino de probabilidade e estatística; teórico-prática; metodologias ativas; pesquisa científica",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Caminhos%20para%20o%20ensino%20de%20probabilidade%20e%20estat%C3%ADstica%20na%20forma%C3%A7%C3%A3o%20de%20engenheiro%20pesquisador%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Caminhos%20para%20o%20ensino%20de%20probabilidade%20e%20estat%C3%ADstica%20na%20forma%C3%A7%C3%A3o%20de%20engenheiro%20pesquisador&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36531513"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "36531513",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "ensino de probabilidade e estatística",
-  "teórico-prática",
-  "metodologias ativas",
-  "pesquisa científica"
- ],
- "thumbnail": "./assets/images/thumbs/capes-36531513.svg",
- "resumo": "Esta pesquisa teve como objetivo geral propor possíveis caminhos para composição de uma estratégia para o ensino de Probabilidade e Estatística, visando a um ensino que considere uma abordagem teórico-prática e contribua para a formação do Engenheiro pesquisador. A pesquisa foi organizada em 5 etapas e, para atender o objetivo geral, aplicou-se uma pesquisa de campo no curso de Engenharia de Produção da Universidade Tecnológica Federal do Paraná, campus de Ponta Grossa. A pesquisa foi aplicada nas disciplinas de Probabilidade e Estatística e Engineering Design Process. Os dados foram analisados à luz da Análise Textual Discursiva (MORAES; GALIAZZI, 2016) e permitiram a construção de um caminho para a composição de uma estratégia para o ensino de Probabilidade e Estatística, visando a um ensino que considere uma abordagem teórico-prática e contribua para a formação do Engenheiro pesquisador. O caminho construído apontou para a necessidade de etapas que contemplam: softwares para simulações estatísticas, softwares para comunicação entre envolvidos no processo de ensino e aprendizagem, trabalho cooperativo e construção da pesquisa científica ou projeto de pesquisa como proposta para efetivar a abordagem teóricoprática dos conteúdos e contribuir com a formação do Engenheiro pesquisador.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-36531513",
+  "autor": "Caroline Subira Pereira",
+  "ano": 2022,
+  "tipo": "Tese",
+  "titulo": "Caminhos para o ensino de probabilidade e estatística na formação de engenheiro pesquisador",
+  "instituicao": "Universidade Tecnológica Federal do Paraná",
+  "cidade": "",
+  "estado": "Paraná",
+  "regiao": "Sul",
+  "orientador": "Guatacara dos Santos Junior",
+  "programa": "Ensino de Ciência e Tecnologia",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "ensino de probabilidade e estatística; teórico-prática; metodologias ativas; pesquisa científica",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Caminhos%20para%20o%20ensino%20de%20probabilidade%20e%20estat%C3%ADstica%20na%20forma%C3%A7%C3%A3o%20de%20engenheiro%20pesquisador%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Caminhos%20para%20o%20ensino%20de%20probabilidade%20e%20estat%C3%ADstica%20na%20forma%C3%A7%C3%A3o%20de%20engenheiro%20pesquisador&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36531513"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "36531513",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "ensino de probabilidade e estatística",
+    "teórico-prática",
+    "metodologias ativas",
+    "pesquisa científica"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-36531513.svg",
+  "resumo": "Esta pesquisa teve como objetivo geral propor possíveis caminhos para composição de uma estratégia para o ensino de Probabilidade e Estatística, visando a um ensino que considere uma abordagem teórico-prática e contribua para a formação do Engenheiro pesquisador. A pesquisa foi organizada em 5 etapas e, para atender o objetivo geral, aplicou-se uma pesquisa de campo no curso de Engenharia de Produção da Universidade Tecnológica Federal do Paraná, campus de Ponta Grossa. A pesquisa foi aplicada nas disciplinas de Probabilidade e Estatística e Engineering Design Process. Os dados foram analisados à luz da Análise Textual Discursiva (MORAES; GALIAZZI, 2016) e permitiram a construção de um caminho para a composição de uma estratégia para o ensino de Probabilidade e Estatística, visando a um ensino que considere uma abordagem teórico-prática e contribua para a formação do Engenheiro pesquisador. O caminho construído apontou para a necessidade de etapas que contemplam: softwares para simulações estatísticas, softwares para comunicação entre envolvidos no processo de ensino e aprendizagem, trabalho cooperativo e construção da pesquisa científica ou projeto de pesquisa como proposta para efetivar a abordagem teóricoprática dos conteúdos e contribuir com a formação do Engenheiro pesquisador.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

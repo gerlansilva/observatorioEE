@@ -1,56 +1,56 @@
 {
- "id": "capes-19689741",
- "autor": "Felipe Mascagna Bittencourt Lima",
- "ano": 2013,
- "tipo": "Dissertação",
- "titulo": "O ensino de probabilidade com o uso do problema do jogo dos discos",
- "instituicao": "Universidade Federal de São Carlos",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Roberto Ribeiro Paterlini",
- "programa": "Ensino de Ciências Exatas",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Jogo dos discos. Ensino de Probabilidade. Experimentação. Modelagem.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ensino%20de%20probabilidade%20com%20o%20uso%20do%20problema%20do%20jogo%20dos%20discos%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ensino%20de%20probabilidade%20com%20o%20uso%20do%20problema%20do%20jogo%20dos%20discos&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19689741"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "19689741",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Jogo dos discos. Ensino de Probabilidade. Experimentação. Modelagem."
- ],
- "thumbnail": "./assets/images/thumbs/capes-19689741.svg",
- "resumo": "Neste trabalho, apresentamos uma proposta didática destinada a introduzir a Probabilidade a alunos do Ensino Básico. Tal proposta consta de uma sequência de aulas que toma por base o Problema do Jogo dos Discos, no qual tem-se como objetivo determinar o diâmetro que um disco deve ter para que, quando lançado aleatoriamente sobre pisos quadrados, tenha determinada probabilidade de interceptar suas linhas de separação. Este problema foi colocado a alunos de três turmas de terceiro ano do ensino médio de uma escola estadual de maneira contextualizada e antes que o assunto Probabilidade tivesse sido abordado pelo docente. A ideia era que os estudantes tentassem resolver o problema em grupos e com o mínimo de ajuda do professor. Mesmo com os alunos apresentando dificuldades, isso se mostrou possível, tendo os mesmos resolvido o problema utilizando a experimentação concreta do jogo. Para isso, eles aproximaram a probabilidade de ganho com certo disco com o percentual de vitórias na experimentação e, através de modelagem gráfica, conseguiram a resposta desejada. Tal proposta de ensino teve como motivação a constatação do autor de que o ensino de Probabilidade feito da maneira tradicional tem se mostrado pouco eficaz. Além disso, pôde-se perceber que vários documentos oficiais, como os Parâmetros Curriculares Nacionais (PCN) e a Proposta Curricular do Estado de São Paulo, bem como outros pesquisadores da área, sugerem que a experimentação concreta seja realizada para um efetivo ensino da Probabilidade. Com os resultados obtidos e apresentados nesta dissertação, concluímos que nossa proposta didática se mostrou eficiente, tornando as aulas motivadoras e propiciando um ambiente no qual os alunos, além de aprender Probabilidade, pudessem exercitar sua capacidade criativa.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "coleta expandida (plural/vocabulário)"
- ]
+  "id": "capes-19689741",
+  "autor": "Felipe Mascagna Bittencourt Lima",
+  "ano": 2013,
+  "tipo": "Dissertação",
+  "titulo": "O ensino de probabilidade com o uso do problema do jogo dos discos",
+  "instituicao": "Universidade Federal de São Carlos",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Roberto Ribeiro Paterlini",
+  "programa": "Ensino de Ciências Exatas",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Jogo dos discos. Ensino de Probabilidade. Experimentação. Modelagem.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ensino%20de%20probabilidade%20com%20o%20uso%20do%20problema%20do%20jogo%20dos%20discos%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ensino%20de%20probabilidade%20com%20o%20uso%20do%20problema%20do%20jogo%20dos%20discos&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19689741"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "19689741",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Jogo dos discos. Ensino de Probabilidade. Experimentação. Modelagem."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-19689741.svg",
+  "resumo": "Neste trabalho, apresentamos uma proposta didática destinada a introduzir a Probabilidade a alunos do Ensino Básico. Tal proposta consta de uma sequência de aulas que toma por base o Problema do Jogo dos Discos, no qual tem-se como objetivo determinar o diâmetro que um disco deve ter para que, quando lançado aleatoriamente sobre pisos quadrados, tenha determinada probabilidade de interceptar suas linhas de separação. Este problema foi colocado a alunos de três turmas de terceiro ano do ensino médio de uma escola estadual de maneira contextualizada e antes que o assunto Probabilidade tivesse sido abordado pelo docente. A ideia era que os estudantes tentassem resolver o problema em grupos e com o mínimo de ajuda do professor. Mesmo com os alunos apresentando dificuldades, isso se mostrou possível, tendo os mesmos resolvido o problema utilizando a experimentação concreta do jogo. Para isso, eles aproximaram a probabilidade de ganho com certo disco com o percentual de vitórias na experimentação e, através de modelagem gráfica, conseguiram a resposta desejada. Tal proposta de ensino teve como motivação a constatação do autor de que o ensino de Probabilidade feito da maneira tradicional tem se mostrado pouco eficaz. Além disso, pôde-se perceber que vários documentos oficiais, como os Parâmetros Curriculares Nacionais (PCN) e a Proposta Curricular do Estado de São Paulo, bem como outros pesquisadores da área, sugerem que a experimentação concreta seja realizada para um efetivo ensino da Probabilidade. Com os resultados obtidos e apresentados nesta dissertação, concluímos que nossa proposta didática se mostrou eficiente, tornando as aulas motivadoras e propiciando um ambiente no qual os alunos, além de aprender Probabilidade, pudessem exercitar sua capacidade criativa.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
 }

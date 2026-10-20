@@ -1,60 +1,60 @@
 {
- "id": "capes-11422396",
- "autor": "Rogerio Delfino de Souza",
- "ano": 2015,
- "tipo": "Dissertação",
- "titulo": "Uma Sequência Didática para o Ensino da Matemática Probabilística na Terceira Série do Ensino Médio com Apoio de Dispositivos Móveis",
- "instituicao": "Universidade Severino Sombra",
- "cidade": "",
- "estado": "",
- "regiao": "",
- "orientador": "Marco Antonio Pereira Araujo",
- "programa": "Educação Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Resolução de problemas; Jogos; frequência relativa; probabilidade; Dispositivos móveis.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20O%20ENSINO%20DA%20MATEM%C3%81TICA%20PROBABIL%C3%8DSTICA%20NA%20TERCEIRA%20S%C3%89RIE%20DO%20ENSINO%20M%C3%89DIO%20COM%20APOIO%20DE%20DISPOSITIVOS%20M%C3%93VEIS%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20O%20ENSINO%20DA%20MATEM%C3%81TICA%20PROBABIL%C3%8DSTICA%20NA%20TERCEIRA%20S%C3%89RIE%20DO%20ENSINO%20M%C3%89DIO%20COM%20APOIO%20DE%20DISPOSITIVOS%20M%C3%93VEIS&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/11422396"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "11422396",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Resolução de problemas",
-  "Jogos",
-  "frequência relativa",
-  "probabilidade",
-  "Dispositivos móveis."
- ],
- "thumbnail": "./assets/images/thumbs/capes-11422396.svg",
- "resumo": "O presente trabalho está inserido na linha de pesquisa “Metodologias e Tecnologias de Informação Aplicadas ao Ensino da Matemática” do Programa de Pós-Graduação Stricto Sensu, Mestrado Profissional em Educação Matemática da Universidade Severino Sombra. Esta dissertação descreve os procedimentos utilizados de uma sequência didática que tem como objetivo verificar quais as contribuições que os dispositivos móveis associados a resolução de problemas e jogos podem contribuir para a aprendizagem da frequência relativa tendendo para probabilidade clássica em função do número crescente de simulações. O acesso a conteúdos multimídia deixou de estar limitado a um computador pessoal (PC) e estendeu-se também às tecnologias móveis (telemóvel, PDA, Pocket PC, Tablet PC, Laptops), proporcionando um novo paradigma educacional, o mobile learning ou aprendizagem móvel. Tendo esta tecnologia como ferramenta inseridas no processo do ensino da Matemática. Entretanto, os jogos de azar são uns dos principais contextos em que os alunos podem compreender as características das situações aleatórias. O uso de jogos e da resolução de problemas no ensino da Matemática indica que a resolução de problemas é um veículo poderoso e eficaz para a aprendizagem. Os conceitos e os procedimentos matemáticos, em sua maioria – senão todos –, podem ser mais bem ensinados por meio da resolução de problemas, os estudantes devem resolver problemas com enfoque vivenciado o mais próximo possível da realidade com o objetivo de alcançarmos uma Aprendizagem Significativa elaborada por Ausubel. A escolha por esse referencial teórico se deve ao fato de entender-se que ele estabelece premissas suficientes para sustentar os objetivos indicados: o que o estudante já sabe é o ponto de partida para a aprendizagem significativa e o material a ser aprendido, deve ser relacionável à estrutura cognitiva do aprendiz. Desenvolveu-se o tabalho com o uso do aplicativo Dice, jogo de dados e moedas, não específico para o ensino da matemática, e o Software Simulaprob totalmente elaborado para o ensio da matemática probabilística obtendo um aproveitamento satisfatório em relação ao aplicativo Dice.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "coleta expandida (plural/vocabulário)"
- ]
+  "id": "capes-11422396",
+  "autor": "Rogerio Delfino de Souza",
+  "ano": 2015,
+  "tipo": "Dissertação",
+  "titulo": "Uma Sequência Didática para o Ensino da Matemática Probabilística na Terceira Série do Ensino Médio com Apoio de Dispositivos Móveis",
+  "instituicao": "Universidade Severino Sombra",
+  "cidade": "",
+  "estado": "",
+  "regiao": "",
+  "orientador": "Marco Antonio Pereira Araujo",
+  "programa": "Educação Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Resolução de problemas; Jogos; frequência relativa; probabilidade; Dispositivos móveis.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20O%20ENSINO%20DA%20MATEM%C3%81TICA%20PROBABIL%C3%8DSTICA%20NA%20TERCEIRA%20S%C3%89RIE%20DO%20ENSINO%20M%C3%89DIO%20COM%20APOIO%20DE%20DISPOSITIVOS%20M%C3%93VEIS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20O%20ENSINO%20DA%20MATEM%C3%81TICA%20PROBABIL%C3%8DSTICA%20NA%20TERCEIRA%20S%C3%89RIE%20DO%20ENSINO%20M%C3%89DIO%20COM%20APOIO%20DE%20DISPOSITIVOS%20M%C3%93VEIS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/11422396"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "11422396",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Resolução de problemas",
+    "Jogos",
+    "frequência relativa",
+    "probabilidade",
+    "Dispositivos móveis."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-11422396.svg",
+  "resumo": "O presente trabalho está inserido na linha de pesquisa “Metodologias e Tecnologias de Informação Aplicadas ao Ensino da Matemática” do Programa de Pós-Graduação Stricto Sensu, Mestrado Profissional em Educação Matemática da Universidade Severino Sombra. Esta dissertação descreve os procedimentos utilizados de uma sequência didática que tem como objetivo verificar quais as contribuições que os dispositivos móveis associados a resolução de problemas e jogos podem contribuir para a aprendizagem da frequência relativa tendendo para probabilidade clássica em função do número crescente de simulações. O acesso a conteúdos multimídia deixou de estar limitado a um computador pessoal (PC) e estendeu-se também às tecnologias móveis (telemóvel, PDA, Pocket PC, Tablet PC, Laptops), proporcionando um novo paradigma educacional, o mobile learning ou aprendizagem móvel. Tendo esta tecnologia como ferramenta inseridas no processo do ensino da Matemática. Entretanto, os jogos de azar são uns dos principais contextos em que os alunos podem compreender as características das situações aleatórias. O uso de jogos e da resolução de problemas no ensino da Matemática indica que a resolução de problemas é um veículo poderoso e eficaz para a aprendizagem. Os conceitos e os procedimentos matemáticos, em sua maioria – senão todos –, podem ser mais bem ensinados por meio da resolução de problemas, os estudantes devem resolver problemas com enfoque vivenciado o mais próximo possível da realidade com o objetivo de alcançarmos uma Aprendizagem Significativa elaborada por Ausubel. A escolha por esse referencial teórico se deve ao fato de entender-se que ele estabelece premissas suficientes para sustentar os objetivos indicados: o que o estudante já sabe é o ponto de partida para a aprendizagem significativa e o material a ser aprendido, deve ser relacionável à estrutura cognitiva do aprendiz. Desenvolveu-se o tabalho com o uso do aplicativo Dice, jogo de dados e moedas, não específico para o ensino da matemática, e o Software Simulaprob totalmente elaborado para o ensio da matemática probabilística obtendo um aproveitamento satisfatório em relação ao aplicativo Dice.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
 }

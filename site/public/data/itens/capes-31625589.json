@@ -1,61 +1,61 @@
 {
- "id": "capes-31625589",
- "autor": "Leticia Correa Pereira",
- "ano": 2020,
- "tipo": "Dissertação",
- "titulo": "A Educação Matemática Tangenciando a Educação Ambiental: Uma Proposta a Partir do Ensino de Combinatória",
- "instituicao": "Universidade Federal do Rio Grande",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Rene Carlos Cardoso Baltazar Junior",
- "programa": "Ensino de Ciências Exatas",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Matemática; Análise Combinatória; Problemas de Contagem; Grafos; Educação Ambiental",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20EDUCA%C3%87%C3%83O%20MATEM%C3%81TICA%20TANGENCIANDO%20A%20EDUCA%C3%87%C3%83O%20AMBIENTAL%3A%20UMA%20PROPOSTA%20A%20PARTIR%20DO%20ENSINO%20DE%20COMBINAT%C3%93RIA%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20EDUCA%C3%87%C3%83O%20MATEM%C3%81TICA%20TANGENCIANDO%20A%20EDUCA%C3%87%C3%83O%20AMBIENTAL%3A%20UMA%20PROPOSTA%20A%20PARTIR%20DO%20ENSINO%20DE%20COMBINAT%C3%93RIA&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31625589"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "31625589",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Matemática",
-  "Análise Combinatória",
-  "Problemas de Contagem",
-  "Grafos",
-  "Educação Ambiental"
- ],
- "thumbnail": "./assets/images/thumbs/capes-31625589.svg",
- "resumo": "Este trabalho apresenta discussões acerca do ensino de Combinatória e novas formas de pensar a respeito dessa área da Matemática, relacionando-a com a Educação Ambiental. O objetivo principal é compreender de que forma é possível explorar uma nova possibilidade para abordar temas e conteúdos na escola, relacionando a Educação Ambiental com determinados conhecimentos matemáticos, mas especificamente com ensino de Combinatória. Para isso, foram elaboradas atividades que resultaram no desenvolvimento de um Guia de Atividades pensado para alunos dos Anos Finais do Ensino Fundamental em que é possível relacionar um Teorema da literatura de Grafos com a realidade dos alunos, para potencializar o Raciocínio Combinatório.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de combinatória"
- ],
- "ids_duplicados": []
+  "id": "capes-31625589",
+  "autor": "Leticia Correa Pereira",
+  "ano": 2020,
+  "tipo": "Dissertação",
+  "titulo": "A Educação Matemática Tangenciando a Educação Ambiental: Uma Proposta a Partir do Ensino de Combinatória",
+  "instituicao": "Universidade Federal do Rio Grande",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Rene Carlos Cardoso Baltazar Junior",
+  "programa": "Ensino de Ciências Exatas",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Matemática; Análise Combinatória; Problemas de Contagem; Grafos; Educação Ambiental",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20EDUCA%C3%87%C3%83O%20MATEM%C3%81TICA%20TANGENCIANDO%20A%20EDUCA%C3%87%C3%83O%20AMBIENTAL%3A%20UMA%20PROPOSTA%20A%20PARTIR%20DO%20ENSINO%20DE%20COMBINAT%C3%93RIA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20EDUCA%C3%87%C3%83O%20MATEM%C3%81TICA%20TANGENCIANDO%20A%20EDUCA%C3%87%C3%83O%20AMBIENTAL%3A%20UMA%20PROPOSTA%20A%20PARTIR%20DO%20ENSINO%20DE%20COMBINAT%C3%93RIA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31625589"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "31625589",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Matemática",
+    "Análise Combinatória",
+    "Problemas de Contagem",
+    "Grafos",
+    "Educação Ambiental"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-31625589.svg",
+  "resumo": "Este trabalho apresenta discussões acerca do ensino de Combinatória e novas formas de pensar a respeito dessa área da Matemática, relacionando-a com a Educação Ambiental. O objetivo principal é compreender de que forma é possível explorar uma nova possibilidade para abordar temas e conteúdos na escola, relacionando a Educação Ambiental com determinados conhecimentos matemáticos, mas especificamente com ensino de Combinatória. Para isso, foram elaboradas atividades que resultaram no desenvolvimento de um Guia de Atividades pensado para alunos dos Anos Finais do Ensino Fundamental em que é possível relacionar um Teorema da literatura de Grafos com a realidade dos alunos, para potencializar o Raciocínio Combinatório.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de combinatória"
+  ],
+  "ids_duplicados": []
 }

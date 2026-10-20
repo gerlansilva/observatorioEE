@@ -1,58 +1,58 @@
 {
- "id": "capes-30882990",
- "autor": "Josney Freitas Silva",
- "ano": 2019,
- "tipo": "Tese",
- "titulo": "Problem-Based Learning e Educação a Distância: Uma Proposta para a Educação Estatística no Ensino Superior",
- "instituicao": "Universidade Cruzeiro do Sul",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Juliano Schimiguel",
- "programa": "Ensino de Ciências",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Tecnologias de Informação e Comunicação – Metodologias Ativas – Ensino de Estatística",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Problem-Based%20Learning%20e%20Educa%C3%A7%C3%A3o%20a%20Dist%C3%A2ncia%3A%20Uma%20Proposta%20para%20a%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20no%20Ensino%20Superior%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Problem-Based%20Learning%20e%20Educa%C3%A7%C3%A3o%20a%20Dist%C3%A2ncia%3A%20Uma%20Proposta%20para%20a%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20no%20Ensino%20Superior&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30882990"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "30882990",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Tecnologias de Informação e Comunicação – Metodologias Ativas – Ensino de Estatística"
- ],
- "thumbnail": "./assets/images/thumbs/capes-30882990.svg",
- "resumo": "Esta tese apresenta uma pesquisa qualitativa, delineada como um estudo de caso, cujo objetivo foi apresentar uma proposta de Ensino de Estatística na modalidade de Educação a Distância, utilizando os princípios do método de Problem-Based Learning e dos conceitos de Educação Estatística no Ensino Superior. Para tanto, um curso de Extensão sobre Tópicos de Estatística foi ofertado aos alunos dos Cursos de Administração e Ciências Contábeis de duas Instituições de Ensino Superior, uma localizada no interior do Estado de São Paulo e a outra em Minas Gerais. Participaram do Curso de Extensão cinco alunos da instituição paulista e um professor da instituição mineira, o qual atuou como tutor do grupo. Os alunos escolheram um representante para ocupar o papel de líder e outro aluno para ser o secretário do grupo. Duas videoconferências via Google Hangouts foram realizadas para a implementação dos passos do método Problem-Based Learning. Os alunos ainda utilizaram um grupo no WhatsApp para comunicação entre eles e com o tutor do grupo, durante os intervalos entre as videoconferências. Como instrumento para construção dos dados foi utilizada a gravação de vídeos das videoconferências realizadas, a aplicação de questionários aos alunos e a entrevista com o professor tutor. Como resultados, identificou-se que o uso das Tecnologias de Informação e Comunicação, como o Google Hangouts, o Google Sala de Aula e o WhatsApp, contribuíram para que os alunos, mesmo distantes geograficamente, pudessem se conectarem, efetuarem discussões sobre a resolução de um problema proposto, promoverem o trabalho em grupo e aprenderem conceitos de Estatística.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-30882990",
+  "autor": "Josney Freitas Silva",
+  "ano": 2019,
+  "tipo": "Tese",
+  "titulo": "Problem-Based Learning e Educação a Distância: Uma Proposta para a Educação Estatística no Ensino Superior",
+  "instituicao": "Universidade Cruzeiro do Sul",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Juliano Schimiguel",
+  "programa": "Ensino de Ciências",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Tecnologias de Informação e Comunicação – Metodologias Ativas – Ensino de Estatística",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Problem-Based%20Learning%20e%20Educa%C3%A7%C3%A3o%20a%20Dist%C3%A2ncia%3A%20Uma%20Proposta%20para%20a%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20no%20Ensino%20Superior%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Problem-Based%20Learning%20e%20Educa%C3%A7%C3%A3o%20a%20Dist%C3%A2ncia%3A%20Uma%20Proposta%20para%20a%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20no%20Ensino%20Superior&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30882990"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30882990",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Tecnologias de Informação e Comunicação – Metodologias Ativas – Ensino de Estatística"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30882990.svg",
+  "resumo": "Esta tese apresenta uma pesquisa qualitativa, delineada como um estudo de caso, cujo objetivo foi apresentar uma proposta de Ensino de Estatística na modalidade de Educação a Distância, utilizando os princípios do método de Problem-Based Learning e dos conceitos de Educação Estatística no Ensino Superior. Para tanto, um curso de Extensão sobre Tópicos de Estatística foi ofertado aos alunos dos Cursos de Administração e Ciências Contábeis de duas Instituições de Ensino Superior, uma localizada no interior do Estado de São Paulo e a outra em Minas Gerais. Participaram do Curso de Extensão cinco alunos da instituição paulista e um professor da instituição mineira, o qual atuou como tutor do grupo. Os alunos escolheram um representante para ocupar o papel de líder e outro aluno para ser o secretário do grupo. Duas videoconferências via Google Hangouts foram realizadas para a implementação dos passos do método Problem-Based Learning. Os alunos ainda utilizaram um grupo no WhatsApp para comunicação entre eles e com o tutor do grupo, durante os intervalos entre as videoconferências. Como instrumento para construção dos dados foi utilizada a gravação de vídeos das videoconferências realizadas, a aplicação de questionários aos alunos e a entrevista com o professor tutor. Como resultados, identificou-se que o uso das Tecnologias de Informação e Comunicação, como o Google Hangouts, o Google Sala de Aula e o WhatsApp, contribuíram para que os alunos, mesmo distantes geograficamente, pudessem se conectarem, efetuarem discussões sobre a resolução de um problema proposto, promoverem o trabalho em grupo e aprenderem conceitos de Estatística.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

@@ -1,63 +1,63 @@
 {
- "id": "capes-32677919",
- "autor": "Maria do Rosario de Souza",
- "ano": 2020,
- "tipo": "Dissertação",
- "titulo": "Letramento Estatístico por Meio de Sequências Didáticas no Ensino Médio em uma Escola Pública no Sul do Amazonas",
- "instituicao": "Universidade Federal do Amazonas",
- "cidade": "",
- "estado": "Amazonas",
- "regiao": "Norte",
- "orientador": "Marcos Andre Braz Vaz",
- "programa": "Ensino de Ciências e Humanidades",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação estatística; Literacia estatística; Teoria das Situações Didáticas; Medidas de tendência central; Ensino",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20ESTAT%C3%8DSTICO%20POR%20MEIO%20DE%20SEQU%C3%8ANCIAS%20DID%C3%81TICAS%20NO%20ENSINO%20M%C3%89DIO%20EM%20UMA%20ESCOLA%20P%C3%9ABLICA%20NO%20SUL%20DO%20AMAZONAS%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20ESTAT%C3%8DSTICO%20POR%20MEIO%20DE%20SEQU%C3%8ANCIAS%20DID%C3%81TICAS%20NO%20ENSINO%20M%C3%89DIO%20EM%20UMA%20ESCOLA%20P%C3%9ABLICA%20NO%20SUL%20DO%20AMAZONAS&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/32677919"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "32677919",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação estatística",
-  "Literacia estatística",
-  "Teoria das Situações Didáticas",
-  "Medidas de tendência central",
-  "Ensino"
- ],
- "thumbnail": "./assets/images/thumbs/capes-32677919.svg",
- "resumo": "Este trabalho teve como objetivo compreender de que forma as sequências didáticas mobilizam o Letramento Estatístico de alunos do ensino médio das escolas estaduais do município de Humaitá-AM. Com o intuito de atingir o objetivo desta pesquisa, adotamos a Teoria das Situações Didáticas proposta por Brousseau (1996,2008) como referencial teórico e a Engenharia Didática descrita por Artigue (1996) como referencial metodológico, a investigação tem abordagem qualitativa e demanda pesquisa bibliográfica e de campo. Participaram desta pesquisa 29 alunos da 2ª série do Ensino Médio. As atividades com estes alunos foram desenvolvidas em encontros mediantes a situações problemas envolvendo os conceitos estatísticos de média, mediana e moda. Foram realizados entrevistas e questionários abertos para a validação da Teoria das Situações Didáticas por meio da Engenharia Didática. Observou-se que foi possível, para alguns grupos de alunos, mobilizar o letramento estatístico nos níveis científico cultural e científico funcional. Desta forma, podemos dizer que o uso das sequências didáticas foi positivo para a mobilização do letramento estatístico no cálculo e determinação das medidas descritivas de média, mediana e moda contextualizadas ao tema tecnologia.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística",
-  "letramento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-32677919",
+  "autor": "Maria do Rosario de Souza",
+  "ano": 2020,
+  "tipo": "Dissertação",
+  "titulo": "Letramento Estatístico por Meio de Sequências Didáticas no Ensino Médio em uma Escola Pública no Sul do Amazonas",
+  "instituicao": "Universidade Federal do Amazonas",
+  "cidade": "",
+  "estado": "Amazonas",
+  "regiao": "Norte",
+  "orientador": "Marcos Andre Braz Vaz",
+  "programa": "Ensino de Ciências e Humanidades",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação estatística; Literacia estatística; Teoria das Situações Didáticas; Medidas de tendência central; Ensino",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20ESTAT%C3%8DSTICO%20POR%20MEIO%20DE%20SEQU%C3%8ANCIAS%20DID%C3%81TICAS%20NO%20ENSINO%20M%C3%89DIO%20EM%20UMA%20ESCOLA%20P%C3%9ABLICA%20NO%20SUL%20DO%20AMAZONAS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20ESTAT%C3%8DSTICO%20POR%20MEIO%20DE%20SEQU%C3%8ANCIAS%20DID%C3%81TICAS%20NO%20ENSINO%20M%C3%89DIO%20EM%20UMA%20ESCOLA%20P%C3%9ABLICA%20NO%20SUL%20DO%20AMAZONAS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/32677919"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "32677919",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação estatística",
+    "Literacia estatística",
+    "Teoria das Situações Didáticas",
+    "Medidas de tendência central",
+    "Ensino"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-32677919.svg",
+  "resumo": "Este trabalho teve como objetivo compreender de que forma as sequências didáticas mobilizam o Letramento Estatístico de alunos do ensino médio das escolas estaduais do município de Humaitá-AM. Com o intuito de atingir o objetivo desta pesquisa, adotamos a Teoria das Situações Didáticas proposta por Brousseau (1996,2008) como referencial teórico e a Engenharia Didática descrita por Artigue (1996) como referencial metodológico, a investigação tem abordagem qualitativa e demanda pesquisa bibliográfica e de campo. Participaram desta pesquisa 29 alunos da 2ª série do Ensino Médio. As atividades com estes alunos foram desenvolvidas em encontros mediantes a situações problemas envolvendo os conceitos estatísticos de média, mediana e moda. Foram realizados entrevistas e questionários abertos para a validação da Teoria das Situações Didáticas por meio da Engenharia Didática. Observou-se que foi possível, para alguns grupos de alunos, mobilizar o letramento estatístico nos níveis científico cultural e científico funcional. Desta forma, podemos dizer que o uso das sequências didáticas foi positivo para a mobilização do letramento estatístico no cálculo e determinação das medidas descritivas de média, mediana e moda contextualizadas ao tema tecnologia.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
 }

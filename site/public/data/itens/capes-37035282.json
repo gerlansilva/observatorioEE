@@ -1,63 +1,63 @@
 {
- "id": "capes-37035282",
- "autor": "Amanda Regina dos Santos Andrade",
- "ano": 2022,
- "tipo": "Dissertação",
- "titulo": "O Ensino de Estatística por Professoras de Educação de Jovens e Adultos dos Anos Iniciais",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Gilda Lisboa Guimaraes",
- "programa": "Educação Matemática e Tecnológica",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação de Jovens e adultos; Ciclo Investigativo; Educação Estatística; Professores.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20POR%20PROFESSORAS%20DE%20EDUCA%C3%87%C3%83O%20DE%20JOVENS%20E%20ADULTOS%20DOS%20ANOS%20INICIAIS%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20POR%20PROFESSORAS%20DE%20EDUCA%C3%87%C3%83O%20DE%20JOVENS%20E%20ADULTOS%20DOS%20ANOS%20INICIAIS&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37035282"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "37035282",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação de Jovens e adultos",
-  "Ciclo Investigativo",
-  "Educação Estatística",
-  "Professores."
- ],
- "thumbnail": "./assets/images/thumbs/capes-37035282.svg",
- "resumo": "Pesquisas propostas nas escolas podem ser um modo de contribuir com o desenvolvimento da autonomia dos cidadãos e ampliar as possibilidades de aprendizagem dos alunos da Educação de Jovens e Adultos – EJA. Assim, temos como objetivo analisar o que dizem professores de Educação de Jovens e Adultos sobre suas práticas para o processo de ensino de pesquisa estatística. Mais especificamente buscamos analisar o conhecimento de conceitos estatístico de professoras de EJA dos anos iniciais; analisar o que as professoras dizem sobre suas práticas didáticas para o ensino do ciclo investigativo de pesquisa e comparar o conhecimento estatístico com o que dizem sobre suas práticas. Para cumprir esse objetivo realizamos entrevistas com 10 (dez) professoras da EJA de escolas municipais da Região Metropolitana de Recife do Módulo 3, turmas com equivalência ao 4o ou 5o ano do ensino regular. Foi elaborado um roteiro para traçar o perfil das professoras e seu conhecimento conceitual e didático para o ensino de estatística. Todas as entrevistas foram gravadas pela plataforma Google Meet. Foi observado que as professoras apresentam dificuldades com conceitos estatísticos, principalmente a construção de gráficos. Elas acreditam que os alunos de EJA têm muitas dificuldades para aprender estatística que é difícil e, por isso, precisa ser ensinada bem devagarinho com situações bem simples, o que se configura como umequívoco. Acreditamos ser imprescindível a realização de processos de formação inicial e continuada sobre o ensino aprendizagem de estatística para que os professores sejam capazes de superar os desafios apresentados.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": [
-  "39997198"
- ]
+  "id": "capes-37035282",
+  "autor": "Amanda Regina dos Santos Andrade",
+  "ano": 2022,
+  "tipo": "Dissertação",
+  "titulo": "O Ensino de Estatística por Professoras de Educação de Jovens e Adultos dos Anos Iniciais",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Gilda Lisboa Guimaraes",
+  "programa": "Educação Matemática e Tecnológica",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação de Jovens e adultos; Ciclo Investigativo; Educação Estatística; Professores.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20POR%20PROFESSORAS%20DE%20EDUCA%C3%87%C3%83O%20DE%20JOVENS%20E%20ADULTOS%20DOS%20ANOS%20INICIAIS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20POR%20PROFESSORAS%20DE%20EDUCA%C3%87%C3%83O%20DE%20JOVENS%20E%20ADULTOS%20DOS%20ANOS%20INICIAIS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37035282"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37035282",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação de Jovens e adultos",
+    "Ciclo Investigativo",
+    "Educação Estatística",
+    "Professores."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37035282.svg",
+  "resumo": "Pesquisas propostas nas escolas podem ser um modo de contribuir com o desenvolvimento da autonomia dos cidadãos e ampliar as possibilidades de aprendizagem dos alunos da Educação de Jovens e Adultos – EJA. Assim, temos como objetivo analisar o que dizem professores de Educação de Jovens e Adultos sobre suas práticas para o processo de ensino de pesquisa estatística. Mais especificamente buscamos analisar o conhecimento de conceitos estatístico de professoras de EJA dos anos iniciais; analisar o que as professoras dizem sobre suas práticas didáticas para o ensino do ciclo investigativo de pesquisa e comparar o conhecimento estatístico com o que dizem sobre suas práticas. Para cumprir esse objetivo realizamos entrevistas com 10 (dez) professoras da EJA de escolas municipais da Região Metropolitana de Recife do Módulo 3, turmas com equivalência ao 4o ou 5o ano do ensino regular. Foi elaborado um roteiro para traçar o perfil das professoras e seu conhecimento conceitual e didático para o ensino de estatística. Todas as entrevistas foram gravadas pela plataforma Google Meet. Foi observado que as professoras apresentam dificuldades com conceitos estatísticos, principalmente a construção de gráficos. Elas acreditam que os alunos de EJA têm muitas dificuldades para aprender estatística que é difícil e, por isso, precisa ser ensinada bem devagarinho com situações bem simples, o que se configura como umequívoco. Acreditamos ser imprescindível a realização de processos de formação inicial e continuada sobre o ensino aprendizagem de estatística para que os professores sejam capazes de superar os desafios apresentados.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": [
+    "39997198"
+  ]
 }

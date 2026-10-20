@@ -1,54 +1,54 @@
 {
- "id": "capes-30880310",
- "autor": "Janaina de Carvalho Silva Magalhaes",
- "ano": 2017,
- "tipo": "Dissertação",
- "titulo": "Conhecimento de Professores do 5º Ano do Ensino Fundamental sobre o Trabalho com Resolução de Problemas que Envolvem o Raciocínio Combinatório",
- "instituicao": "",
- "cidade": "",
- "estado": "",
- "regiao": "",
- "orientador": "",
- "programa": "Ensino de Ciências",
- "area": "",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22CONHECIMENTO%20DE%20PROFESSORES%20DO%205%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%20SOBRE%20O%20TRABALHO%20COM%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20QUE%20ENVOLVEM%20O%20RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CONHECIMENTO%20DE%20PROFESSORES%20DO%205%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%20SOBRE%20O%20TRABALHO%20COM%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20QUE%20ENVOLVEM%20O%20RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30880310"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "30880310",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [],
- "thumbnail": "./assets/images/thumbs/capes-30880310.svg",
- "resumo": "",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "coleta expandida (plural/vocabulário)"
- ]
+  "id": "capes-30880310",
+  "autor": "Janaina de Carvalho Silva Magalhaes",
+  "ano": 2017,
+  "tipo": "Dissertação",
+  "titulo": "Conhecimento de Professores do 5º Ano do Ensino Fundamental sobre o Trabalho com Resolução de Problemas que Envolvem o Raciocínio Combinatório",
+  "instituicao": "",
+  "cidade": "",
+  "estado": "",
+  "regiao": "",
+  "orientador": "",
+  "programa": "Ensino de Ciências",
+  "area": "",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22CONHECIMENTO%20DE%20PROFESSORES%20DO%205%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%20SOBRE%20O%20TRABALHO%20COM%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20QUE%20ENVOLVEM%20O%20RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CONHECIMENTO%20DE%20PROFESSORES%20DO%205%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%20SOBRE%20O%20TRABALHO%20COM%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20QUE%20ENVOLVEM%20O%20RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30880310"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30880310",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/capes-30880310.svg",
+  "resumo": "",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
 }

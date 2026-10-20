@@ -1,61 +1,61 @@
 {
- "id": "capes-35799267",
- "autor": "Diego Jonata de Medeiros",
- "ano": 2021,
- "tipo": "Dissertação",
- "titulo": "Sistemas de Recursos de Professores para ensinar conteúdos estatísticos nos anos finais do Ensino Fundamental em Escolas do Campo",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Iranete Maria da Silva Lima",
- "programa": "Educação Matemática e Tecnológica",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação do Campo; Letramento Estatístico; anos finais do Ensino Fundamental.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Sistemas%20de%20Recursos%20de%20Professores%20para%20ensinar%20conte%C3%BAdos%20estat%C3%ADsticos%20nos%20anos%20finais%20do%20Ensino%20Fundamental%20em%20Escolas%20do%20Campo%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Sistemas%20de%20Recursos%20de%20Professores%20para%20ensinar%20conte%C3%BAdos%20estat%C3%ADsticos%20nos%20anos%20finais%20do%20Ensino%20Fundamental%20em%20Escolas%20do%20Campo&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35799267"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "35799267",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação do Campo",
-  "Letramento Estatístico",
-  "anos finais do Ensino Fundamental."
- ],
- "thumbnail": "./assets/images/thumbs/capes-35799267.svg",
- "resumo": "A pesquisa se situa na articulação entre os domínios da Educação Estatística, da Educação do Campo e da Abordagem Documental do Didático para compreender o sistema de recursos de professores que ensinam matemática nos anos finais do Ensino Fundamental em escolas do campo. Buscamos, em particular, mapear em documentos oficiais as orientações para o ensino de conteúdos estatísticos em termos de recursos; caracterizar os recursos mãe selecionados pelos professores e classificá-los em recursos materiais e não-materiais; identificar os recursos filhos construídos a partir da modificação dos recursos mãe já identificados e as relações entre as realidades dos alunos e das comunidades camponesas com os recursos dos professores. Para tanto, realizamos, inicialmente, uma análise documental e, em seguida, coletamos os dados com três professores de três municípios do Agreste Pernambucano por meio de cinco instrumentos: entrevista semiestruturada; gravação de um vídeo apresentando os recursos e a construção do mapa de recursos para ensinar estatística, pelos próprios professores; observação da elaboração do planejamento de uma aula e observação da aula planejada. Em razão da pandemia causada pela Covid-19, os dados da pesquisa foram coletados de forma presencial e remota. As análises dos resultados revelam que os sistemas de recursos dos professores são compostos por recursos mãe de natureza material e não-material, sendo os recursos materiais os mais citados. Alguns recursos filhos foram construídos com base nos contextos escolares e nas realidades camponesas dos alunos, porém, não representam a maioria. Compreendemos que os recursos utilizados pelos professores têm potencial para possibilitar o desenvolvimento do letramento estatístico pelos alunos, mesmo que, algumas vezes, eles se restrinjam a atividades que demandam a aplicação de fórmulas, por exemplo, sem uma maior problematização. Os resultados mostram, também, pouca relação entre os recursos recomendados pelos documentos oficiais e o sistema de recursos dos professores para se trabalhar conteúdos estatísticos nos anos finais do Ensino Fundamental. Esta pesquisa é parte de um projeto maior registrado no CNPq, e foi desenvolvida nos domínios da Educação do Campo, da Educação Estatística e da Abordagem Documental do Didático. Buscamos compreender o sistema de recursos de professores de matemática dos anos finais do Ensino Fundamental para ensinar Estatística em escolas do campo. Para fundamentar a investigação apoiamo-nos nos referenciais teórico e metodológico da Educação do Campo, da Abordagem Documental do Didático e do Letramento Estatístico. Realizamos um estudo documental das orientações oficiais da educação básica brasileira, das orientações curriculares de Matemática do Estado de Pernambuco, assim como, efetuamos uma revisão de literatura acerca das produções sobre Abordagem Documental do Didático e a das que abordam a Educação do Campo e a Educação Estatística conjuntamente. Utilizaremos a Metodologia proposta pelos autores da Abordagem Documental do Didático, a Investigação Reflexiva, com dois professores. Os instrumentos de coleta adotados são os mesmos utilizados pelo projeto registrado no CNPq, contudo, adaptamos para a especificidade desta pesquisa.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "letramento estatístico"
- ],
- "ids_duplicados": [
-  "40849294"
- ]
+  "id": "capes-35799267",
+  "autor": "Diego Jonata de Medeiros",
+  "ano": 2021,
+  "tipo": "Dissertação",
+  "titulo": "Sistemas de Recursos de Professores para ensinar conteúdos estatísticos nos anos finais do Ensino Fundamental em Escolas do Campo",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Iranete Maria da Silva Lima",
+  "programa": "Educação Matemática e Tecnológica",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação do Campo; Letramento Estatístico; anos finais do Ensino Fundamental.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Sistemas%20de%20Recursos%20de%20Professores%20para%20ensinar%20conte%C3%BAdos%20estat%C3%ADsticos%20nos%20anos%20finais%20do%20Ensino%20Fundamental%20em%20Escolas%20do%20Campo%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Sistemas%20de%20Recursos%20de%20Professores%20para%20ensinar%20conte%C3%BAdos%20estat%C3%ADsticos%20nos%20anos%20finais%20do%20Ensino%20Fundamental%20em%20Escolas%20do%20Campo&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35799267"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "35799267",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação do Campo",
+    "Letramento Estatístico",
+    "anos finais do Ensino Fundamental."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-35799267.svg",
+  "resumo": "A pesquisa se situa na articulação entre os domínios da Educação Estatística, da Educação do Campo e da Abordagem Documental do Didático para compreender o sistema de recursos de professores que ensinam matemática nos anos finais do Ensino Fundamental em escolas do campo. Buscamos, em particular, mapear em documentos oficiais as orientações para o ensino de conteúdos estatísticos em termos de recursos; caracterizar os recursos mãe selecionados pelos professores e classificá-los em recursos materiais e não-materiais; identificar os recursos filhos construídos a partir da modificação dos recursos mãe já identificados e as relações entre as realidades dos alunos e das comunidades camponesas com os recursos dos professores. Para tanto, realizamos, inicialmente, uma análise documental e, em seguida, coletamos os dados com três professores de três municípios do Agreste Pernambucano por meio de cinco instrumentos: entrevista semiestruturada; gravação de um vídeo apresentando os recursos e a construção do mapa de recursos para ensinar estatística, pelos próprios professores; observação da elaboração do planejamento de uma aula e observação da aula planejada. Em razão da pandemia causada pela Covid-19, os dados da pesquisa foram coletados de forma presencial e remota. As análises dos resultados revelam que os sistemas de recursos dos professores são compostos por recursos mãe de natureza material e não-material, sendo os recursos materiais os mais citados. Alguns recursos filhos foram construídos com base nos contextos escolares e nas realidades camponesas dos alunos, porém, não representam a maioria. Compreendemos que os recursos utilizados pelos professores têm potencial para possibilitar o desenvolvimento do letramento estatístico pelos alunos, mesmo que, algumas vezes, eles se restrinjam a atividades que demandam a aplicação de fórmulas, por exemplo, sem uma maior problematização. Os resultados mostram, também, pouca relação entre os recursos recomendados pelos documentos oficiais e o sistema de recursos dos professores para se trabalhar conteúdos estatísticos nos anos finais do Ensino Fundamental. Esta pesquisa é parte de um projeto maior registrado no CNPq, e foi desenvolvida nos domínios da Educação do Campo, da Educação Estatística e da Abordagem Documental do Didático. Buscamos compreender o sistema de recursos de professores de matemática dos anos finais do Ensino Fundamental para ensinar Estatística em escolas do campo. Para fundamentar a investigação apoiamo-nos nos referenciais teórico e metodológico da Educação do Campo, da Abordagem Documental do Didático e do Letramento Estatístico. Realizamos um estudo documental das orientações oficiais da educação básica brasileira, das orientações curriculares de Matemática do Estado de Pernambuco, assim como, efetuamos uma revisão de literatura acerca das produções sobre Abordagem Documental do Didático e a das que abordam a Educação do Campo e a Educação Estatística conjuntamente. Utilizaremos a Metodologia proposta pelos autores da Abordagem Documental do Didático, a Investigação Reflexiva, com dois professores. Os instrumentos de coleta adotados são os mesmos utilizados pelo projeto registrado no CNPq, contudo, adaptamos para a especificidade desta pesquisa.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "letramento estatístico"
+  ],
+  "ids_duplicados": [
+    "40849294"
+  ]
 }

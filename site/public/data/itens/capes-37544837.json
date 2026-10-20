@@ -1,61 +1,61 @@
 {
- "id": "capes-37544837",
- "autor": "Adrieli Aparecida Rodrigues",
- "ano": 2023,
- "tipo": "Dissertação",
- "titulo": "A Resolução de Problemas Como Proposta de Ensino e Aprendizagem de Conceitos Matemáticos de Probabilidade",
- "instituicao": "Universidade Federal de Mato Grosso",
- "cidade": "",
- "estado": "Mato Grosso",
- "regiao": "Centro-Oeste",
- "orientador": "Elizabeth Quirino de Azevedo",
- "programa": "Ensino de Ciências da Natureza e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino-Aprendizagem-Avaliação; Ensino Médio; Probabilidade; Produto Educacional; Resolução de Problemas.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20COMO%20PROPOSTA%20DE%20ENSINO%20E%20APRENDIZAGEM%20DE%20CONCEITOS%20MATEM%C3%81TICOS%20DE%20PROBABILIDADE%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20COMO%20PROPOSTA%20DE%20ENSINO%20E%20APRENDIZAGEM%20DE%20CONCEITOS%20MATEM%C3%81TICOS%20DE%20PROBABILIDADE&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37544837"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "37544837",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino-Aprendizagem-Avaliação",
-  "Ensino Médio",
-  "Probabilidade",
-  "Produto Educacional",
-  "Resolução de Problemas."
- ],
- "thumbnail": "./assets/images/thumbs/capes-37544837.svg",
- "resumo": "O presente trabalho apresenta a trajetória teórico-metodológica do Projeto de Pesquisa e do Produto Educacional desenvolvido no Programa de Pós-Graduação em Ensino de Ciências da Natureza e Matemática (PPGECM), da UFMT – Campus Universitário de Sinop/MT. Apresentamos como objeto de estudo investigar como a Metodologia de EnsinoAprendizagem-Avaliação através da Resolução de Problemas contribui no processo de ensino e aprendizagem dos conceitos matemáticos, com a utilização de uma Sequência de Problemas direcionada a temática de Probabilidade, com o embasamento teórico pautado nas pesquisas elaboradas e defendidas pelo GTERP, que adota a Resolução de Problemas como uma metodologia de ensino-aprendizagem-avaliação, seguindo as dez etapas para a organização do trabalho em sala de aula, conforme apresentadas por Allevato e Onuchic (2021). Foram selecionados quatro problemas, que denominamos problemas geradores, pois atuaram como ponto de partida para a construção de novos conceitos e conteúdos matemáticos. Utilizamos como metodologia de pesquisa a abordagem qualitativa, pautada nas referências de Bodgan e Biklen (1994), Borba; Almeida e Gracias (2019) e Lüdke e André (2013). A coleta de dados para análise foi obtida por meio da observação dos alunos em sala de aula e resoluções escritas dos problemas propostos, ambos advindos de uma sequência de quatro problemas geradores de conteúdo e quatro listas de atividades complementares desenvolvidos em sala de aula, em uma turma de 2º ano do Ensino Médio de uma escola estadual da cidade de Sinop/MT. A sequência de situações problemas aplicados resultou no Produto Educacional denominado Guia de Apoio Pedagógico (GAP), destinado a professores que atuam no Ensino Fundamental II e Ensino Médio, com sugestões de atividades e expansível as demais áreas de conhecimentos. Os dados coletados e analisados mostraram que o trabalho com a sequência de problemas, através dos problemas geradores e problemas complementares oportunizou aos estudantes serem construtores de sua aprendizagem, atuando como protagonistas de seu próprio processo de conhecimento e tendo o professor agindo como mediador e incentivador do processo, em que os agentes envolvidos são autores e ativos participantes em todas as atividades.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de probabilidade"
- ],
- "ids_duplicados": []
+  "id": "capes-37544837",
+  "autor": "Adrieli Aparecida Rodrigues",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "A Resolução de Problemas Como Proposta de Ensino e Aprendizagem de Conceitos Matemáticos de Probabilidade",
+  "instituicao": "Universidade Federal de Mato Grosso",
+  "cidade": "",
+  "estado": "Mato Grosso",
+  "regiao": "Centro-Oeste",
+  "orientador": "Elizabeth Quirino de Azevedo",
+  "programa": "Ensino de Ciências da Natureza e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino-Aprendizagem-Avaliação; Ensino Médio; Probabilidade; Produto Educacional; Resolução de Problemas.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20COMO%20PROPOSTA%20DE%20ENSINO%20E%20APRENDIZAGEM%20DE%20CONCEITOS%20MATEM%C3%81TICOS%20DE%20PROBABILIDADE%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20COMO%20PROPOSTA%20DE%20ENSINO%20E%20APRENDIZAGEM%20DE%20CONCEITOS%20MATEM%C3%81TICOS%20DE%20PROBABILIDADE&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37544837"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37544837",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino-Aprendizagem-Avaliação",
+    "Ensino Médio",
+    "Probabilidade",
+    "Produto Educacional",
+    "Resolução de Problemas."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37544837.svg",
+  "resumo": "O presente trabalho apresenta a trajetória teórico-metodológica do Projeto de Pesquisa e do Produto Educacional desenvolvido no Programa de Pós-Graduação em Ensino de Ciências da Natureza e Matemática (PPGECM), da UFMT – Campus Universitário de Sinop/MT. Apresentamos como objeto de estudo investigar como a Metodologia de EnsinoAprendizagem-Avaliação através da Resolução de Problemas contribui no processo de ensino e aprendizagem dos conceitos matemáticos, com a utilização de uma Sequência de Problemas direcionada a temática de Probabilidade, com o embasamento teórico pautado nas pesquisas elaboradas e defendidas pelo GTERP, que adota a Resolução de Problemas como uma metodologia de ensino-aprendizagem-avaliação, seguindo as dez etapas para a organização do trabalho em sala de aula, conforme apresentadas por Allevato e Onuchic (2021). Foram selecionados quatro problemas, que denominamos problemas geradores, pois atuaram como ponto de partida para a construção de novos conceitos e conteúdos matemáticos. Utilizamos como metodologia de pesquisa a abordagem qualitativa, pautada nas referências de Bodgan e Biklen (1994), Borba; Almeida e Gracias (2019) e Lüdke e André (2013). A coleta de dados para análise foi obtida por meio da observação dos alunos em sala de aula e resoluções escritas dos problemas propostos, ambos advindos de uma sequência de quatro problemas geradores de conteúdo e quatro listas de atividades complementares desenvolvidos em sala de aula, em uma turma de 2º ano do Ensino Médio de uma escola estadual da cidade de Sinop/MT. A sequência de situações problemas aplicados resultou no Produto Educacional denominado Guia de Apoio Pedagógico (GAP), destinado a professores que atuam no Ensino Fundamental II e Ensino Médio, com sugestões de atividades e expansível as demais áreas de conhecimentos. Os dados coletados e analisados mostraram que o trabalho com a sequência de problemas, através dos problemas geradores e problemas complementares oportunizou aos estudantes serem construtores de sua aprendizagem, atuando como protagonistas de seu próprio processo de conhecimento e tendo o professor agindo como mediador e incentivador do processo, em que os agentes envolvidos são autores e ativos participantes em todas as atividades.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de probabilidade"
+  ],
+  "ids_duplicados": []
 }

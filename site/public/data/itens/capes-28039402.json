@@ -1,61 +1,61 @@
 {
- "id": "capes-28039402",
- "autor": "Diogo Israel Schwanck",
- "ano": 2019,
- "tipo": "Dissertação",
- "titulo": "PESQUISA ESTATÍSTICA NA COMUNIDADE COMO ELEMENTO POTENCIAL PARA O DESENVOLVIMENTO DAS COMPETÊNCIAS ESTATÍSTICAS Porto Alegre/RS 2019",
- "instituicao": "Universidade Federal do Rio Grande do Sul",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Luciana Neves Nunes",
- "programa": "Ensino de Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Estatística; Modelagem Matemática; Educação Matemática Crítica; Educação Estatística Crítica; Pesquisa Estatístic",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22PESQUISA%20ESTAT%C3%8DSTICA%20NA%20COMUNIDADE%20COMO%20ELEMENTO%20POTENCIAL%20PARA%20O%20DESENVOLVIMENTO%20DAS%20COMPET%C3%8ANCIAS%20ESTAT%C3%8DSTICAS%20Porto%20Alegre/RS%202019%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PESQUISA%20ESTAT%C3%8DSTICA%20NA%20COMUNIDADE%20COMO%20ELEMENTO%20POTENCIAL%20PARA%20O%20DESENVOLVIMENTO%20DAS%20COMPET%C3%8ANCIAS%20ESTAT%C3%8DSTICAS%20Porto%20Alegre/RS%202019&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28039402"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "28039402",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Estatística",
-  "Modelagem Matemática",
-  "Educação Matemática Crítica",
-  "Educação Estatística Crítica",
-  "Pesquisa Estatístic"
- ],
- "thumbnail": "./assets/images/thumbs/capes-28039402.svg",
- "resumo": "Com o objetivo de identificar elementos potenciais para o desenvolvimento de uma pesquisa estatística, em comunhão aos preceitos da Modelagem Matemática, no contexto no qual uma escola está inserida, este trabalho apresenta uma proposta para o ensino de Estatística no Ensino Fundamental por meio de uma pesquisa estatística envolvendo a comunidade na qual a escola escolhida localiza-se. Os estudantes participantes eram de uma turma de terceiro ano do terceiro ciclo (equivalente ao nono ano do Ensino Fundamental) de uma escola pública municipal de Porto Alegre/RS. Tendo como ponto de partida a escolha do tema gerador - as residências da região do Parque dos Maias -, desenvolveu-se um instrumento para que os estudantes realizassem a coleta dos dados a fim de utilizá-los. Ao longo desse período de coleta, foram desenvolvidos os conceitos básicos de pesquisa estatística, organização e apresentação de dados. Utilizou-se tecnologias, como o Google Forms, e também planilhas eletrônicas, que ajudaram na construção de gráficos para avaliar e comparar resultados. O conjunto de dados produzidos para análise nesta dissertação foi composto por gravações em vídeo das aulas, além de um diário de campo contendo relatos da percepção do professor/pesquisador acerca da prática - ocorrida num ambiente de Modelagem Matemática, compondo um ambiente investigativo, definido por Skovsmose (2000) como cenário para investigação. A análise dos dados foi realizada por meio da identificação de elementos-chave do diário de campo e sob a perspectiva da identificação dos eventos críticos, no que diz respeito aos dados audiovisuais. Com a notória mobilização do letramento e do pensamento estatístico, notou-se um considerável desenvolvimento do raciocínio estatístico, o que, caso o grupo pesquisado fosse categorizado, estaria entre os níveis dois e três de raciocínio estatístico. O desenvolvimento deste trabalho possibilitou aos estudantes uma reflexão crítica sobre seus questionamentos relacionados aos aspectos socioculturais, competência essa fundamental para o pleno desenvolvimento da cidadania.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-28039402",
+  "autor": "Diogo Israel Schwanck",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "PESQUISA ESTATÍSTICA NA COMUNIDADE COMO ELEMENTO POTENCIAL PARA O DESENVOLVIMENTO DAS COMPETÊNCIAS ESTATÍSTICAS Porto Alegre/RS 2019",
+  "instituicao": "Universidade Federal do Rio Grande do Sul",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Luciana Neves Nunes",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Modelagem Matemática; Educação Matemática Crítica; Educação Estatística Crítica; Pesquisa Estatístic",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22PESQUISA%20ESTAT%C3%8DSTICA%20NA%20COMUNIDADE%20COMO%20ELEMENTO%20POTENCIAL%20PARA%20O%20DESENVOLVIMENTO%20DAS%20COMPET%C3%8ANCIAS%20ESTAT%C3%8DSTICAS%20Porto%20Alegre/RS%202019%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PESQUISA%20ESTAT%C3%8DSTICA%20NA%20COMUNIDADE%20COMO%20ELEMENTO%20POTENCIAL%20PARA%20O%20DESENVOLVIMENTO%20DAS%20COMPET%C3%8ANCIAS%20ESTAT%C3%8DSTICAS%20Porto%20Alegre/RS%202019&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28039402"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "28039402",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Modelagem Matemática",
+    "Educação Matemática Crítica",
+    "Educação Estatística Crítica",
+    "Pesquisa Estatístic"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-28039402.svg",
+  "resumo": "Com o objetivo de identificar elementos potenciais para o desenvolvimento de uma pesquisa estatística, em comunhão aos preceitos da Modelagem Matemática, no contexto no qual uma escola está inserida, este trabalho apresenta uma proposta para o ensino de Estatística no Ensino Fundamental por meio de uma pesquisa estatística envolvendo a comunidade na qual a escola escolhida localiza-se. Os estudantes participantes eram de uma turma de terceiro ano do terceiro ciclo (equivalente ao nono ano do Ensino Fundamental) de uma escola pública municipal de Porto Alegre/RS. Tendo como ponto de partida a escolha do tema gerador - as residências da região do Parque dos Maias -, desenvolveu-se um instrumento para que os estudantes realizassem a coleta dos dados a fim de utilizá-los. Ao longo desse período de coleta, foram desenvolvidos os conceitos básicos de pesquisa estatística, organização e apresentação de dados. Utilizou-se tecnologias, como o Google Forms, e também planilhas eletrônicas, que ajudaram na construção de gráficos para avaliar e comparar resultados. O conjunto de dados produzidos para análise nesta dissertação foi composto por gravações em vídeo das aulas, além de um diário de campo contendo relatos da percepção do professor/pesquisador acerca da prática - ocorrida num ambiente de Modelagem Matemática, compondo um ambiente investigativo, definido por Skovsmose (2000) como cenário para investigação. A análise dos dados foi realizada por meio da identificação de elementos-chave do diário de campo e sob a perspectiva da identificação dos eventos críticos, no que diz respeito aos dados audiovisuais. Com a notória mobilização do letramento e do pensamento estatístico, notou-se um considerável desenvolvimento do raciocínio estatístico, o que, caso o grupo pesquisado fosse categorizado, estaria entre os níveis dois e três de raciocínio estatístico. O desenvolvimento deste trabalho possibilitou aos estudantes uma reflexão crítica sobre seus questionamentos relacionados aos aspectos socioculturais, competência essa fundamental para o pleno desenvolvimento da cidadania.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

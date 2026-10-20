@@ -1,59 +1,59 @@
 {
- "id": "capes-41261131",
- "autor": "Manuela Francisca de Souza",
- "ano": 2024,
- "tipo": "Dissertação",
- "titulo": "ESSE COMBINA COM ESSE QUE NÃO COMBINA COM AQUELE: ensino e aprendizagem de classificação na educação infantil",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Gilda Lisboa Guimaraes",
- "programa": "Educação Matemática e Tecnológica",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Estatística; Classificação; Educação Infantil",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22ESSE%20COMBINA%20COM%20ESSE%20QUE%20N%C3%83O%20COMBINA%20COM%20AQUELE%3A%20ensino%20e%20aprendizagem%20de%20classifica%C3%A7%C3%A3o%20na%20educa%C3%A7%C3%A3o%20infantil%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESSE%20COMBINA%20COM%20ESSE%20QUE%20N%C3%83O%20COMBINA%20COM%20AQUELE%3A%20ensino%20e%20aprendizagem%20de%20classifica%C3%A7%C3%A3o%20na%20educa%C3%A7%C3%A3o%20infantil&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41261131"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "41261131",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Estatística",
-  "Classificação",
-  "Educação Infantil"
- ],
- "thumbnail": "./assets/images/thumbs/capes-41261131.svg",
- "resumo": "A partir da inclusão do conteúdo de Estatística no currículo de Matemática dos anos iniciais do Ensino Fundamental, várias discussões sobre o ensino e aprendizagem de estatística têm sido destaque nos principais eventos que tratam de Educação Matemática. O desenvolvimento de pesquisas voltadas pra essa temática tem proporcionado reflexões sobre a importância de trabalhar conceitos estatísticos com crianças desde a Educação Infantil. Esse estudo discute a importância de as crianças saberem classificar dados como uma das fases do ciclo investigativo proposto por Guimarães e Gitirana (2013). Para organizar as informações em gráficos e tabelas, é necessário saber classificar, portanto, é relevante que os estudantes saibam criar e identificar critérios de uma classificação e não apenas conheçam classificações prontas. Nessa perspectiva, este trabalho tem como objetivo investigar as possibilidades de aprendizagem de crianças da Educação Infantil em atividades que envolvem classificar valorizando diferentes habilidades e recursos. Para isso, foi desenvolvido um processo de ensino aprendizagem sobre classificação envolvendo diferentes habilidades: identificar o critério de uma classificação; identificar a classe a partir de um critério/descritor; criar critério para classificar. Participaram desta pesquisa 4 turmas, com crianças de 5 e 6 anos de idade, que frequentam a Educação Infantil em escolas públicas do Recife e Jaboatão dos Guararapes. Os resultados evidenciam que é possível desenvolver um trabalho sistematizado e adequado para as crianças da Educação Infantil envolvendo classificar, o que é fundamental para poderem compreender o mundo físico e social.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-41261131",
+  "autor": "Manuela Francisca de Souza",
+  "ano": 2024,
+  "tipo": "Dissertação",
+  "titulo": "ESSE COMBINA COM ESSE QUE NÃO COMBINA COM AQUELE: ensino e aprendizagem de classificação na educação infantil",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Gilda Lisboa Guimaraes",
+  "programa": "Educação Matemática e Tecnológica",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Classificação; Educação Infantil",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ESSE%20COMBINA%20COM%20ESSE%20QUE%20N%C3%83O%20COMBINA%20COM%20AQUELE%3A%20ensino%20e%20aprendizagem%20de%20classifica%C3%A7%C3%A3o%20na%20educa%C3%A7%C3%A3o%20infantil%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESSE%20COMBINA%20COM%20ESSE%20QUE%20N%C3%83O%20COMBINA%20COM%20AQUELE%3A%20ensino%20e%20aprendizagem%20de%20classifica%C3%A7%C3%A3o%20na%20educa%C3%A7%C3%A3o%20infantil&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41261131"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "41261131",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Classificação",
+    "Educação Infantil"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-41261131.svg",
+  "resumo": "A partir da inclusão do conteúdo de Estatística no currículo de Matemática dos anos iniciais do Ensino Fundamental, várias discussões sobre o ensino e aprendizagem de estatística têm sido destaque nos principais eventos que tratam de Educação Matemática. O desenvolvimento de pesquisas voltadas pra essa temática tem proporcionado reflexões sobre a importância de trabalhar conceitos estatísticos com crianças desde a Educação Infantil. Esse estudo discute a importância de as crianças saberem classificar dados como uma das fases do ciclo investigativo proposto por Guimarães e Gitirana (2013). Para organizar as informações em gráficos e tabelas, é necessário saber classificar, portanto, é relevante que os estudantes saibam criar e identificar critérios de uma classificação e não apenas conheçam classificações prontas. Nessa perspectiva, este trabalho tem como objetivo investigar as possibilidades de aprendizagem de crianças da Educação Infantil em atividades que envolvem classificar valorizando diferentes habilidades e recursos. Para isso, foi desenvolvido um processo de ensino aprendizagem sobre classificação envolvendo diferentes habilidades: identificar o critério de uma classificação; identificar a classe a partir de um critério/descritor; criar critério para classificar. Participaram desta pesquisa 4 turmas, com crianças de 5 e 6 anos de idade, que frequentam a Educação Infantil em escolas públicas do Recife e Jaboatão dos Guararapes. Os resultados evidenciam que é possível desenvolver um trabalho sistematizado e adequado para as crianças da Educação Infantil envolvendo classificar, o que é fundamental para poderem compreender o mundo físico e social.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

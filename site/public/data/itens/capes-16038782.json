@@ -1,54 +1,54 @@
 {
- "id": "capes-16038782",
- "autor": "Maria Teresa Zampieri",
- "ano": 2013,
- "tipo": "Dissertação",
- "titulo": "A comunicação em uma disciplina de Introdução a Estatística: um olhar sob a formação inicial de professores de matemática a distância",
- "instituicao": "Universidade Est.paulista Júlio de Mesquita Filho/rio Claro",
- "cidade": "",
- "estado": "",
- "regiao": "",
- "orientador": "Sueli Liberatti Javaroni",
- "programa": "Educação Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação a distância. Comunicação escrita. Licenciatura em Matemática. Universidade Aberta do Brasil",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20comunica%C3%A7%C3%A3o%20em%20uma%20disciplina%20de%20Introdu%C3%A7%C3%A3o%20a%20Estat%C3%ADstica%3A%20um%20olhar%20sob%20a%20forma%C3%A7%C3%A3o%20inicial%20de%20professores%20de%20matem%C3%A1tica%20a%20dist%C3%A2ncia%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20comunica%C3%A7%C3%A3o%20em%20uma%20disciplina%20de%20Introdu%C3%A7%C3%A3o%20a%20Estat%C3%ADstica%3A%20um%20olhar%20sob%20a%20forma%C3%A7%C3%A3o%20inicial%20de%20professores%20de%20matem%C3%A1tica%20a%20dist%C3%A2ncia&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/16038782"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "16038782",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação a distância. Comunicação escrita. Licenciatura em Matemática. Universidade Aberta do Brasil"
- ],
- "thumbnail": "./assets/images/thumbs/capes-16038782.svg",
- "resumo": "Nessa pesquisa tive por objetivo investigar como se deu a comunicação entre os alunos, entre o professor e os alunos, e entre os tutores e os alunos na disciplina de Introdução a Estatística, a qual compõe a grade curricular do curso de Licenciatura em Matemática da Universidade Federal de Roraima (UFRR), ofertado a distância e vinculado a Universidade Aberta do Brasil (UAB). Para cumprir tal objetivo, optei pela metodologia de pesquisa qualitativa, uma vez que estou interessada em aspectos subjetivos referentes a um determinado grupo social, o qual foi constituído pelos participantes dessa disciplina. O referencial teórico adotado nessa pesquisa foi um entrelaçamento de ideias, que, a saber, são: visão de conhecimento pautada na noção do construto teórico Seres-humanos-com-mídias (BORBA; VILLARREAL, 2005); as características da comunicação interativa e do estilo interativo de aprendizagem abordados por Silva (2000); os avanços oriundos da inteligência coletiva humana com relação a cada forma de comunicação (LEMOS; LEVY, 2010). Dentre os resultados apresentados, destaco que os estudos em grupo e as videoconferências apresentam potencialidades para que diversas formas de comunicação (bidirecional) se estabeleçam não somente no desenvolvimento dessa disciplina, como no curso do qual ela faz parte.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": null
+  "id": "capes-16038782",
+  "autor": "Maria Teresa Zampieri",
+  "ano": 2013,
+  "tipo": "Dissertação",
+  "titulo": "A comunicação em uma disciplina de Introdução a Estatística: um olhar sob a formação inicial de professores de matemática a distância",
+  "instituicao": "Universidade Est.paulista Júlio de Mesquita Filho/rio Claro",
+  "cidade": "",
+  "estado": "",
+  "regiao": "",
+  "orientador": "Sueli Liberatti Javaroni",
+  "programa": "Educação Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação a distância. Comunicação escrita. Licenciatura em Matemática. Universidade Aberta do Brasil",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20comunica%C3%A7%C3%A3o%20em%20uma%20disciplina%20de%20Introdu%C3%A7%C3%A3o%20a%20Estat%C3%ADstica%3A%20um%20olhar%20sob%20a%20forma%C3%A7%C3%A3o%20inicial%20de%20professores%20de%20matem%C3%A1tica%20a%20dist%C3%A2ncia%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20comunica%C3%A7%C3%A3o%20em%20uma%20disciplina%20de%20Introdu%C3%A7%C3%A3o%20a%20Estat%C3%ADstica%3A%20um%20olhar%20sob%20a%20forma%C3%A7%C3%A3o%20inicial%20de%20professores%20de%20matem%C3%A1tica%20a%20dist%C3%A2ncia&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/16038782"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "16038782",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação a distância. Comunicação escrita. Licenciatura em Matemática. Universidade Aberta do Brasil"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-16038782.svg",
+  "resumo": "Nessa pesquisa tive por objetivo investigar como se deu a comunicação entre os alunos, entre o professor e os alunos, e entre os tutores e os alunos na disciplina de Introdução a Estatística, a qual compõe a grade curricular do curso de Licenciatura em Matemática da Universidade Federal de Roraima (UFRR), ofertado a distância e vinculado a Universidade Aberta do Brasil (UAB). Para cumprir tal objetivo, optei pela metodologia de pesquisa qualitativa, uma vez que estou interessada em aspectos subjetivos referentes a um determinado grupo social, o qual foi constituído pelos participantes dessa disciplina. O referencial teórico adotado nessa pesquisa foi um entrelaçamento de ideias, que, a saber, são: visão de conhecimento pautada na noção do construto teórico Seres-humanos-com-mídias (BORBA; VILLARREAL, 2005); as características da comunicação interativa e do estilo interativo de aprendizagem abordados por Silva (2000); os avanços oriundos da inteligência coletiva humana com relação a cada forma de comunicação (LEMOS; LEVY, 2010). Dentre os resultados apresentados, destaco que os estudos em grupo e as videoconferências apresentam potencialidades para que diversas formas de comunicação (bidirecional) se estabeleçam não somente no desenvolvimento dessa disciplina, como no curso do qual ela faz parte.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
 }

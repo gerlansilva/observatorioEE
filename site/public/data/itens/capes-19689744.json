@@ -1,58 +1,58 @@
 {
- "id": "capes-19689744",
- "autor": "Leila Canaveze",
- "ano": 2013,
- "tipo": "Dissertação",
- "titulo": "O ensino-aprendizagem de probabilidade em uma escola pública de Sorocaba/SP",
- "instituicao": "Universidade Federal de São Carlos",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Paulo Cesar Oliveira",
- "programa": "Ensino de Ciências Exatas",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Probabilidade; ensino-aprendizagem",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ensino-aprendizagem%20de%20probabilidade%20em%20uma%20escola%20p%C3%BAblica%20de%20Sorocaba/SP%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ensino-aprendizagem%20de%20probabilidade%20em%20uma%20escola%20p%C3%BAblica%20de%20Sorocaba/SP&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19689744"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "19689744",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Probabilidade",
-  "ensino-aprendizagem"
- ],
- "thumbnail": "./assets/images/thumbs/capes-19689744.svg",
- "resumo": "Este trabalho de natureza qualitativa tem por objetivo descrever e analisar um cenário de ensino-aprendizagem do conceito de Probabilidade em três classes de segunda série do Ensino Médio, em uma escola da rede pública estadual do município de Sorocaba, interior do Estado de São Paulo. O olhar sobre este cenário de investigação foi norteado pela seguinte questão de investigação: como ocorre o ensino-aprendizagem em um contexto de tarefas envolvendo diferentes concepções probabilísticas? Para responder este problema de pesquisa elaboramos um trabalho de campo onde a pesquisadora desempenhou também o papel de professora das referidas classes participantes da pesquisa. Com o auxílio da teoria dos registros de representação semiótica, a análise do trabalho de campo revelou que a necessidade de enfatizar com os alunos, por meio da aplicação de tarefas, a necessidade de uma apropriação adequada de termos pertinentes à linguagem probabilística. O termo que gerou conflito em termos de significado foi a palavra sorte. A opção por minimizar o uso de fórmulas fez com que os alunos recorressem ao uso da língua natural e do registro numérico como formas predominantes de expressar a escrita nos protocolos de suas atividades. O uso dos registros figurais tais como diagrama de árvores e tabela de dupla entrada teve um papel coadjuvante no processo de escrita dos alunos, ficando restrito aos enunciados das tarefas que explicitamente exigiam da atividade do aluno o uso de tais formas de expressão; ou pelo incentivo da professora-pesquisadora. A intervenção docente em prol da utilização de diferentes formas de registros semióticas, conforme o pressuposto teórico de Raymond Duval, contribuiu na aprendizagem do conceito de Probabilidade.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de probabilidade"
- ],
- "ids_duplicados": []
+  "id": "capes-19689744",
+  "autor": "Leila Canaveze",
+  "ano": 2013,
+  "tipo": "Dissertação",
+  "titulo": "O ensino-aprendizagem de probabilidade em uma escola pública de Sorocaba/SP",
+  "instituicao": "Universidade Federal de São Carlos",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Paulo Cesar Oliveira",
+  "programa": "Ensino de Ciências Exatas",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Probabilidade; ensino-aprendizagem",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ensino-aprendizagem%20de%20probabilidade%20em%20uma%20escola%20p%C3%BAblica%20de%20Sorocaba/SP%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ensino-aprendizagem%20de%20probabilidade%20em%20uma%20escola%20p%C3%BAblica%20de%20Sorocaba/SP&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19689744"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "19689744",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Probabilidade",
+    "ensino-aprendizagem"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-19689744.svg",
+  "resumo": "Este trabalho de natureza qualitativa tem por objetivo descrever e analisar um cenário de ensino-aprendizagem do conceito de Probabilidade em três classes de segunda série do Ensino Médio, em uma escola da rede pública estadual do município de Sorocaba, interior do Estado de São Paulo. O olhar sobre este cenário de investigação foi norteado pela seguinte questão de investigação: como ocorre o ensino-aprendizagem em um contexto de tarefas envolvendo diferentes concepções probabilísticas? Para responder este problema de pesquisa elaboramos um trabalho de campo onde a pesquisadora desempenhou também o papel de professora das referidas classes participantes da pesquisa. Com o auxílio da teoria dos registros de representação semiótica, a análise do trabalho de campo revelou que a necessidade de enfatizar com os alunos, por meio da aplicação de tarefas, a necessidade de uma apropriação adequada de termos pertinentes à linguagem probabilística. O termo que gerou conflito em termos de significado foi a palavra sorte. A opção por minimizar o uso de fórmulas fez com que os alunos recorressem ao uso da língua natural e do registro numérico como formas predominantes de expressar a escrita nos protocolos de suas atividades. O uso dos registros figurais tais como diagrama de árvores e tabela de dupla entrada teve um papel coadjuvante no processo de escrita dos alunos, ficando restrito aos enunciados das tarefas que explicitamente exigiam da atividade do aluno o uso de tais formas de expressão; ou pelo incentivo da professora-pesquisadora. A intervenção docente em prol da utilização de diferentes formas de registros semióticas, conforme o pressuposto teórico de Raymond Duval, contribuiu na aprendizagem do conceito de Probabilidade.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de probabilidade"
+  ],
+  "ids_duplicados": []
 }

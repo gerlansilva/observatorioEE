@@ -1,60 +1,60 @@
 {
- "id": "capes-30004875",
- "autor": "Robson da Silva Eugenio",
- "ano": 2019,
- "tipo": "Tese",
- "titulo": "LETRAMENTO PROBABILÍSTICO NOS ANOS FINAIS DO ENSINO FUNDAMENTAL: um processo de formação dialógica com professores de matemática",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Carlos Eduardo Ferreira Monteiro",
- "programa": "Educação Matemática e Tecnológica",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Estatística; Letramento Probabilístico; Formação de Professores",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20PROBABIL%C3%8DSTICO%20NOS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20um%20processo%20de%20forma%C3%A7%C3%A3o%20dial%C3%B3gica%20com%20professores%20de%20matem%C3%A1tica%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20PROBABIL%C3%8DSTICO%20NOS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20um%20processo%20de%20forma%C3%A7%C3%A3o%20dial%C3%B3gica%20com%20professores%20de%20matem%C3%A1tica&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30004875"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "30004875",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Estatística",
-  "Letramento Probabilístico",
-  "Formação de Professores"
- ],
- "thumbnail": "./assets/images/thumbs/capes-30004875.svg",
- "resumo": "Documentos oficiais brasileiros sugerem o ensino de Probabilidade desde os anos iniciais de escolarização. Pesquisas mais recentes têm possibilitado a construção do conceito de letramento probabilístico como a capacidade de leitura, interpretação e estabelecimento de sentido pelo trabalho com conceitos de aleatoriedade, acaso, espaço amostral e diferentes significados da probabilidade, que possibilitem a tomada de decisões. Em cursos de formação inicial de professores, o ensino de Probabilidade é muito pouco abordado. Assim, a formação continuada de professores que ensinam Estatística adquire relevância porque pode possibilitar a compreensão de conceitos e melhor efetivação do ensino de Probabilidade. Esta tese relaciona-se a aspectos de uma pesquisa que analisou o ensino desse conteúdo curricular sob a perspectiva do letramento probabilístico, no âmbito de uma situação de formação continuada de professores dos anos finais do Ensino Fundamental. Participaram do estudo cinco professores de Matemática que atuam do 6º ao 9º ano em uma escola particular de um município do estado de Pernambuco. Foram realizados 6 encontros com duração de duas horas e meia, nos quais foram trabalhados aspectos conceituais e pedagógicos sobre o ensino de Probabilidade na perspectiva do letramento probalístico. Os resultados sugerem que os professores tinham uma compreensão elementar sobre o conceito de Probabilidade e seu ensino, seguindo uma perspectiva voltada para a aplicação da forma laplaciana de Probabilidade, sem desenvolver em sua prática uma discussão crítica sobre os conceitos nem que fomentasse a ideia de letramento probabilístico. Os encontros proporcionaram reflexões sobre essas práticas e confronto com a compreensão de letramento probabilístico, o qual demanda posturas ativas e reflexivas dos estudantes e professores. Nos encontros de formação com os professores, foram analisadas as suas compreensões e como deveria agir em determinadas situações probabilísticas. Os professores tiveram a oportunidade de discutir tarefas problematizadoras sobre o ensino de Probabilidade, onde os próprios professores tiveram dificuldade na interpretação e resolução da situação. No decorrer do desenvolvimento das atividades, os professores reconheceram que se equivocaram em algumas decisões probabilísticas e que agiram usando as suas ideias intuitivas e conceituais, mas que não foi suficiente para a resolução dos problemas postos. Isso denotou lacunas em suas formações iniciais em Matemática e também na formação continuada, que de acordo com os professores, é inexistente no ensino de Probabilidade. Ficou perceptível que os sujeitos da pesquisa avançaram em suas compreensões e posturas em relação a Probabilidade e Letramento Probabilístico. Porque os professores conseguiram no decorrer da pesquisa aprender e discutir conceitos e posturas de como ser e como fazer para ensinar na perspectiva crítica do Letramento Probabilístico. Que fará com que os estudantes reflitam sobre o que estão fazendo e consigam perceber que a Probabilidade não está no currículo escolar por acaso e que esse conhecimento construído, fará com que os estudantes desenvolvam o seu raciocínio hipotético dedutivo e consigam tomar decisões acertadas em suas vidas.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "letramento probabilístico"
- ],
- "ids_duplicados": []
+  "id": "capes-30004875",
+  "autor": "Robson da Silva Eugenio",
+  "ano": 2019,
+  "tipo": "Tese",
+  "titulo": "LETRAMENTO PROBABILÍSTICO NOS ANOS FINAIS DO ENSINO FUNDAMENTAL: um processo de formação dialógica com professores de matemática",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Carlos Eduardo Ferreira Monteiro",
+  "programa": "Educação Matemática e Tecnológica",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Letramento Probabilístico; Formação de Professores",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20PROBABIL%C3%8DSTICO%20NOS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20um%20processo%20de%20forma%C3%A7%C3%A3o%20dial%C3%B3gica%20com%20professores%20de%20matem%C3%A1tica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20PROBABIL%C3%8DSTICO%20NOS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20um%20processo%20de%20forma%C3%A7%C3%A3o%20dial%C3%B3gica%20com%20professores%20de%20matem%C3%A1tica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30004875"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30004875",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Letramento Probabilístico",
+    "Formação de Professores"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30004875.svg",
+  "resumo": "Documentos oficiais brasileiros sugerem o ensino de Probabilidade desde os anos iniciais de escolarização. Pesquisas mais recentes têm possibilitado a construção do conceito de letramento probabilístico como a capacidade de leitura, interpretação e estabelecimento de sentido pelo trabalho com conceitos de aleatoriedade, acaso, espaço amostral e diferentes significados da probabilidade, que possibilitem a tomada de decisões. Em cursos de formação inicial de professores, o ensino de Probabilidade é muito pouco abordado. Assim, a formação continuada de professores que ensinam Estatística adquire relevância porque pode possibilitar a compreensão de conceitos e melhor efetivação do ensino de Probabilidade. Esta tese relaciona-se a aspectos de uma pesquisa que analisou o ensino desse conteúdo curricular sob a perspectiva do letramento probabilístico, no âmbito de uma situação de formação continuada de professores dos anos finais do Ensino Fundamental. Participaram do estudo cinco professores de Matemática que atuam do 6º ao 9º ano em uma escola particular de um município do estado de Pernambuco. Foram realizados 6 encontros com duração de duas horas e meia, nos quais foram trabalhados aspectos conceituais e pedagógicos sobre o ensino de Probabilidade na perspectiva do letramento probalístico. Os resultados sugerem que os professores tinham uma compreensão elementar sobre o conceito de Probabilidade e seu ensino, seguindo uma perspectiva voltada para a aplicação da forma laplaciana de Probabilidade, sem desenvolver em sua prática uma discussão crítica sobre os conceitos nem que fomentasse a ideia de letramento probabilístico. Os encontros proporcionaram reflexões sobre essas práticas e confronto com a compreensão de letramento probabilístico, o qual demanda posturas ativas e reflexivas dos estudantes e professores. Nos encontros de formação com os professores, foram analisadas as suas compreensões e como deveria agir em determinadas situações probabilísticas. Os professores tiveram a oportunidade de discutir tarefas problematizadoras sobre o ensino de Probabilidade, onde os próprios professores tiveram dificuldade na interpretação e resolução da situação. No decorrer do desenvolvimento das atividades, os professores reconheceram que se equivocaram em algumas decisões probabilísticas e que agiram usando as suas ideias intuitivas e conceituais, mas que não foi suficiente para a resolução dos problemas postos. Isso denotou lacunas em suas formações iniciais em Matemática e também na formação continuada, que de acordo com os professores, é inexistente no ensino de Probabilidade. Ficou perceptível que os sujeitos da pesquisa avançaram em suas compreensões e posturas em relação a Probabilidade e Letramento Probabilístico. Porque os professores conseguiram no decorrer da pesquisa aprender e discutir conceitos e posturas de como ser e como fazer para ensinar na perspectiva crítica do Letramento Probabilístico. Que fará com que os estudantes reflitam sobre o que estão fazendo e consigam perceber que a Probabilidade não está no currículo escolar por acaso e que esse conhecimento construído, fará com que os estudantes desenvolvam o seu raciocínio hipotético dedutivo e consigam tomar decisões acertadas em suas vidas.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "letramento probabilístico"
+  ],
+  "ids_duplicados": []
 }

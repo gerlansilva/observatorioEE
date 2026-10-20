@@ -1,57 +1,57 @@
 {
- "id": "capes-20305120",
- "autor": "Danielle Avanco Vega Pontes",
- "ano": 2014,
- "tipo": "Dissertação",
- "titulo": "Qual Mais Fácil Resolver com 2, 3 ou 4 Etapas de Escolha: Produto Cartesiano, Arranjo, Combinação ou Permutação?",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Rute Elizabete de Souza Rosa Borba",
- "programa": "Educação Matemática e Tecnológica",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Combinatória. Etapas de escolha. Tipos de problemas. Estratégias. Ensino Fundamental.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22QUAL%20MAIS%20F%C3%81CIL%20RESOLVER%20COM%202%2C%203%20OU%204%20ETAPAS%20DE%20ESCOLHA%3A%20PRODUTO%20CARTESIANO%2C%20ARRANJO%2C%20COMBINA%C3%87%C3%83O%20OU%20PERMUTA%C3%87%C3%83O%3F%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=QUAL%20MAIS%20F%C3%81CIL%20RESOLVER%20COM%202%2C%203%20OU%204%20ETAPAS%20DE%20ESCOLHA%3A%20PRODUTO%20CARTESIANO%2C%20ARRANJO%2C%20COMBINA%C3%87%C3%83O%20OU%20PERMUTA%C3%87%C3%83O%3F&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20305120"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "20305120",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Combinatória. Etapas de escolha. Tipos de problemas. Estratégias. Ensino Fundamental."
- ],
- "thumbnail": "./assets/images/thumbs/capes-20305120.svg",
- "resumo": "Com o objetivo de analisar a influência do número de etapas de escolha na resolução dos diversos tipos de problemas combinatórios, (produto cartesiano, arranjo, combinação e permutação), a presente pesquisa se fundamentou na Teoria dos Campos Conceituais de Vergnaud (1986), que defende a existência de três dimensões fundamentais de conceitos: situações que dão significado, invariantes e representações simbólicas. A pesquisa também se fundamentou em outros autores, entre eles, Pessoa e Borba (2009), que abordam os diversos significados presentes na Combinatória e Borba (2010), que trata do raciocínio combinatório. A presente dissertação entende por etapa de escolha, as variáveis presentes em uma situação combinatória e defende que o número de etapas de escolha pode influenciar na resolução de problemas combinatórios. Participaram da pesquisa 128 alunos do 6º ano do Ensino Fundamental os quais responderam a um teste de sondagem. Foram seis tipos de testes, os cinco primeiros compararam os desempenhos em dois tipos de problemas cada e o último teste comparou as etapas de escolha dentro do mesmo problema. Em todos os testes eram comparados problemas com duas, três e quatro etapas de escolha. No teste Tipo 6 se observaram as etapas de escolha dentro do mesmo problema. O resultado dos testes revelou que os Tipo 2 e 5 foram os que obtiveram uma média de acertos mais baixas, podendo esta dificuldade estar associada ao total de possibilidades presente nos problemas de arranjo com quatro etapas, visto que era o tipo de problema que apresentava maior grandeza numérica. Quando se comparou cada etapa de escolha, verificou-se haver diferença estatisticamente significativa entre os desempenhos nos problemas de produto cartesiano com quatro etapas de escolha em comparação aos mesmos problemas com duas e três etapas de escolha, evidenciando a influencia das etapas de escolha no desempenho dos alunos. Ao comparar o problema de produto cartesiano que, segundo pesquisas anteriores (PESSOA e BORBA, 2009, 2010; CORREIA e OLIVEIRA, 2011, e AZEVEDO e BORBA, 2012), era tido como o problema de mais fácil resolução para os alunos, com os problemas de permutação, percebeu-se uma inversão do que havia sido constatado anteriormente, na qual a permutação passou a ser mais fácil que o produto cartesiano quando se controlou o número de etapas de escolha. Quando se observou as estratégias de resolução, não se verificou relação entre a representação simbólica e estratégias utilizadas e os tipos de problemas, nem com as etapas de escolha, indicando que a utilização das estratégias pode estar relacionada a escolhas pessoais. Conclui-se que no trabalho com variados tipos de situações combinatórias é preciso considerar diferentes etapas de escolha em cada tipo de problema desde o Ensino Fundamental. Almeja-se, assim, com essa pesquisa, contribuir para a reflexão sobre aspectos a serem considerados de ensino da Combinatória.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de combinatória"
- ],
- "ids_duplicados": []
+  "id": "capes-20305120",
+  "autor": "Danielle Avanco Vega Pontes",
+  "ano": 2014,
+  "tipo": "Dissertação",
+  "titulo": "Qual Mais Fácil Resolver com 2, 3 ou 4 Etapas de Escolha: Produto Cartesiano, Arranjo, Combinação ou Permutação?",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Rute Elizabete de Souza Rosa Borba",
+  "programa": "Educação Matemática e Tecnológica",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Combinatória. Etapas de escolha. Tipos de problemas. Estratégias. Ensino Fundamental.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22QUAL%20MAIS%20F%C3%81CIL%20RESOLVER%20COM%202%2C%203%20OU%204%20ETAPAS%20DE%20ESCOLHA%3A%20PRODUTO%20CARTESIANO%2C%20ARRANJO%2C%20COMBINA%C3%87%C3%83O%20OU%20PERMUTA%C3%87%C3%83O%3F%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=QUAL%20MAIS%20F%C3%81CIL%20RESOLVER%20COM%202%2C%203%20OU%204%20ETAPAS%20DE%20ESCOLHA%3A%20PRODUTO%20CARTESIANO%2C%20ARRANJO%2C%20COMBINA%C3%87%C3%83O%20OU%20PERMUTA%C3%87%C3%83O%3F&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20305120"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "20305120",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Combinatória. Etapas de escolha. Tipos de problemas. Estratégias. Ensino Fundamental."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-20305120.svg",
+  "resumo": "Com o objetivo de analisar a influência do número de etapas de escolha na resolução dos diversos tipos de problemas combinatórios, (produto cartesiano, arranjo, combinação e permutação), a presente pesquisa se fundamentou na Teoria dos Campos Conceituais de Vergnaud (1986), que defende a existência de três dimensões fundamentais de conceitos: situações que dão significado, invariantes e representações simbólicas. A pesquisa também se fundamentou em outros autores, entre eles, Pessoa e Borba (2009), que abordam os diversos significados presentes na Combinatória e Borba (2010), que trata do raciocínio combinatório. A presente dissertação entende por etapa de escolha, as variáveis presentes em uma situação combinatória e defende que o número de etapas de escolha pode influenciar na resolução de problemas combinatórios. Participaram da pesquisa 128 alunos do 6º ano do Ensino Fundamental os quais responderam a um teste de sondagem. Foram seis tipos de testes, os cinco primeiros compararam os desempenhos em dois tipos de problemas cada e o último teste comparou as etapas de escolha dentro do mesmo problema. Em todos os testes eram comparados problemas com duas, três e quatro etapas de escolha. No teste Tipo 6 se observaram as etapas de escolha dentro do mesmo problema. O resultado dos testes revelou que os Tipo 2 e 5 foram os que obtiveram uma média de acertos mais baixas, podendo esta dificuldade estar associada ao total de possibilidades presente nos problemas de arranjo com quatro etapas, visto que era o tipo de problema que apresentava maior grandeza numérica. Quando se comparou cada etapa de escolha, verificou-se haver diferença estatisticamente significativa entre os desempenhos nos problemas de produto cartesiano com quatro etapas de escolha em comparação aos mesmos problemas com duas e três etapas de escolha, evidenciando a influencia das etapas de escolha no desempenho dos alunos. Ao comparar o problema de produto cartesiano que, segundo pesquisas anteriores (PESSOA e BORBA, 2009, 2010; CORREIA e OLIVEIRA, 2011, e AZEVEDO e BORBA, 2012), era tido como o problema de mais fácil resolução para os alunos, com os problemas de permutação, percebeu-se uma inversão do que havia sido constatado anteriormente, na qual a permutação passou a ser mais fácil que o produto cartesiano quando se controlou o número de etapas de escolha. Quando se observou as estratégias de resolução, não se verificou relação entre a representação simbólica e estratégias utilizadas e os tipos de problemas, nem com as etapas de escolha, indicando que a utilização das estratégias pode estar relacionada a escolhas pessoais. Conclui-se que no trabalho com variados tipos de situações combinatórias é preciso considerar diferentes etapas de escolha em cada tipo de problema desde o Ensino Fundamental. Almeja-se, assim, com essa pesquisa, contribuir para a reflexão sobre aspectos a serem considerados de ensino da Combinatória.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de combinatória"
+  ],
+  "ids_duplicados": []
 }

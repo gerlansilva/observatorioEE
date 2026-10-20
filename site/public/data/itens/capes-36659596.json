@@ -1,58 +1,58 @@
 {
- "id": "capes-36659596",
- "autor": "Elyene Elene Meireles da Rocha Silva",
- "ano": 2022,
- "tipo": "Dissertação",
- "titulo": "Aplicação da Tecnologia da Informação e Comunicação no Serviço de Preven Tivo do Colo Uterino em Unidade Básica de Saúde no Estado do Pará",
- "instituicao": "Centro Universitário do Estado do Pará",
- "cidade": "",
- "estado": "Pará",
- "regiao": "Norte",
- "orientador": "Haroldo Jose de Matos",
- "programa": "Ensino em Saúde",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Câncer do colo Uterino; Estatística; Tecnologia da informação",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22APLICA%C3%87%C3%83O%20DA%20TECNOLOGIA%20DA%20INFORMA%C3%87%C3%83O%20E%20COMUNICA%C3%87%C3%83O%20NO%20SERVI%C3%87O%20DE%20PREVEN%20TIVO%20DO%20COLO%20UTERINO%20EM%20UNIDADE%20B%C3%81SICA%20DE%20SA%C3%9ADE%20NO%20ESTADO%20DO%20PAR%C3%81%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=APLICA%C3%87%C3%83O%20DA%20TECNOLOGIA%20DA%20INFORMA%C3%87%C3%83O%20E%20COMUNICA%C3%87%C3%83O%20NO%20SERVI%C3%87O%20DE%20PREVEN%20TIVO%20DO%20COLO%20UTERINO%20EM%20UNIDADE%20B%C3%81SICA%20DE%20SA%C3%9ADE%20NO%20ESTADO%20DO%20PAR%C3%81&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36659596"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "36659596",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Câncer do colo Uterino",
-  "Estatística",
-  "Tecnologia da informação"
- ],
- "thumbnail": "./assets/images/thumbs/capes-36659596.svg",
- "resumo": "O câncer do colo Uterino é um problema de saúde pública que aflinge diferentemente cada região do Brasil, sendo a região norte e nordeste as mais atingidas quando comparado o número de óbitos por esta patologia comparado com as demais regiões. O objetivo desta pesquisa foi investigar dados estatísticos para determinar as possíveis causas das deficiências na prevenção da referida doença no estado do Pará, para que seja possível realizar a especificação de um software ou aplicativo que favoreça a qualificação do atendimento do serviço de preventivo do colo uterino. A metodologia constou com estudo ecológico, descritivo com abordagem quantitativa. A aquisição de dados estatísticos ocorreu entre o ano de 2019 a 2022. A análise de dados e criação do produto foi realizada com o suporte do programa Excel 2016, libreOffice 7.2, libreOffice Draw, o método Rational Unified Process , e com artigos que se relacionasse com o tema. Os indicadores analisados apontam déficit na meta a ser atingida de cobertura do programas de combate a esta patologia na região norte, Estado do Pará e Município de Belém; Existe a necessidade de fortalecer a gestão local dos programas de controle dos cânceres do colo do útero, bem como de se investir na qualidade dos serviços, pois a conjuntura atual permite um cenário ideal para este avanço tecnológico. Este trabalho também aponta a importância do uso do aplicativo que permita a usuária obter toda informação necessária, para planejar os dias em quer deve ir à unidade de saúde básica realizar seu rastreamento, dando a mesma comodidade, facilidade e praticidade. Que também permita contatar profissionais da saúde para obter esclarecimentos e confiança em relação ao serviço, além de oferecer à equipe de saúde o registro de todo o processo que a envolve, incluindo resultados de exames e agenda atualizada. Além da especificações do aplicativo, este trabalho também apresenta esboços para interface e de usuário do e estudo sobre a viabilidade técnico financeira.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "coleta expandida (plural/vocabulário)"
- ]
+  "id": "capes-36659596",
+  "autor": "Elyene Elene Meireles da Rocha Silva",
+  "ano": 2022,
+  "tipo": "Dissertação",
+  "titulo": "Aplicação da Tecnologia da Informação e Comunicação no Serviço de Preven Tivo do Colo Uterino em Unidade Básica de Saúde no Estado do Pará",
+  "instituicao": "Centro Universitário do Estado do Pará",
+  "cidade": "",
+  "estado": "Pará",
+  "regiao": "Norte",
+  "orientador": "Haroldo Jose de Matos",
+  "programa": "Ensino em Saúde",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Câncer do colo Uterino; Estatística; Tecnologia da informação",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22APLICA%C3%87%C3%83O%20DA%20TECNOLOGIA%20DA%20INFORMA%C3%87%C3%83O%20E%20COMUNICA%C3%87%C3%83O%20NO%20SERVI%C3%87O%20DE%20PREVEN%20TIVO%20DO%20COLO%20UTERINO%20EM%20UNIDADE%20B%C3%81SICA%20DE%20SA%C3%9ADE%20NO%20ESTADO%20DO%20PAR%C3%81%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=APLICA%C3%87%C3%83O%20DA%20TECNOLOGIA%20DA%20INFORMA%C3%87%C3%83O%20E%20COMUNICA%C3%87%C3%83O%20NO%20SERVI%C3%87O%20DE%20PREVEN%20TIVO%20DO%20COLO%20UTERINO%20EM%20UNIDADE%20B%C3%81SICA%20DE%20SA%C3%9ADE%20NO%20ESTADO%20DO%20PAR%C3%81&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36659596"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "36659596",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Câncer do colo Uterino",
+    "Estatística",
+    "Tecnologia da informação"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-36659596.svg",
+  "resumo": "O câncer do colo Uterino é um problema de saúde pública que aflinge diferentemente cada região do Brasil, sendo a região norte e nordeste as mais atingidas quando comparado o número de óbitos por esta patologia comparado com as demais regiões. O objetivo desta pesquisa foi investigar dados estatísticos para determinar as possíveis causas das deficiências na prevenção da referida doença no estado do Pará, para que seja possível realizar a especificação de um software ou aplicativo que favoreça a qualificação do atendimento do serviço de preventivo do colo uterino. A metodologia constou com estudo ecológico, descritivo com abordagem quantitativa. A aquisição de dados estatísticos ocorreu entre o ano de 2019 a 2022. A análise de dados e criação do produto foi realizada com o suporte do programa Excel 2016, libreOffice 7.2, libreOffice Draw, o método Rational Unified Process , e com artigos que se relacionasse com o tema. Os indicadores analisados apontam déficit na meta a ser atingida de cobertura do programas de combate a esta patologia na região norte, Estado do Pará e Município de Belém; Existe a necessidade de fortalecer a gestão local dos programas de controle dos cânceres do colo do útero, bem como de se investir na qualidade dos serviços, pois a conjuntura atual permite um cenário ideal para este avanço tecnológico. Este trabalho também aponta a importância do uso do aplicativo que permita a usuária obter toda informação necessária, para planejar os dias em quer deve ir à unidade de saúde básica realizar seu rastreamento, dando a mesma comodidade, facilidade e praticidade. Que também permita contatar profissionais da saúde para obter esclarecimentos e confiança em relação ao serviço, além de oferecer à equipe de saúde o registro de todo o processo que a envolve, incluindo resultados de exames e agenda atualizada. Além da especificações do aplicativo, este trabalho também apresenta esboços para interface e de usuário do e estudo sobre a viabilidade técnico financeira.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
 }

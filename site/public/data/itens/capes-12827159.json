@@ -1,57 +1,57 @@
 {
- "id": "capes-12827159",
- "autor": "Claudinei Aparecido da Costa",
- "ano": 2013,
- "tipo": "Tese",
- "titulo": "Educação matemática nos cursos superiores de tecnologia: revelações sobre a formação estatística",
- "instituicao": "Pontifícia Universidade Católica de São Paulo",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Celia Maria Carolino Pires",
- "programa": "Educação Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "MATEMATICA [pt] Educação matemática [pt] Estatística [pt] Educação estatística",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Educa%C3%A7%C3%A3o%20matem%C3%A1tica%20nos%20cursos%20superiores%20de%20tecnologia%3A%20revela%C3%A7%C3%B5es%20sobre%20a%20forma%C3%A7%C3%A3o%20estat%C3%ADstica%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educa%C3%A7%C3%A3o%20matem%C3%A1tica%20nos%20cursos%20superiores%20de%20tecnologia%3A%20revela%C3%A7%C3%B5es%20sobre%20a%20forma%C3%A7%C3%A3o%20estat%C3%ADstica&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/12827159"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "12827159",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "MATEMATICA [pt] Educação matemática [pt] Estatística [pt] Educação estatística"
- ],
- "thumbnail": "./assets/images/thumbs/capes-12827159.svg",
- "resumo": "Esta pesquisa tem como objetivo compreender a configuração e as potencialidades da Estatística na formação dos alunos da Educação Profissional de nível Tecnológico, considerando os aspectos formativos inerentes a esta modalidade de ensino. De modo mais específico, propõe-se a: (1) realizar uma análise documental dos cursos superiores de tecnologia, seu surgimento no Brasil, os aspectos legais, as diretrizes curriculares e as marcas da Educação Matemática, bem como da Educação Estatística no ensino tecnológico; (2) realizar um estudo sobre a importância da Estatística na formação dos tecnólogos, sua trajetória no decorrer das últimas décadas, o surgimento da Educação Estatística e as competências que compõem seu núcleo: literacia, raciocínio e pensamento estatísticos; (3) produzir uma análise do currículo em ação, identificando informações que nos proporcionem algumas pistas para a reconstrução de seus diferentes significados ao longo da história; (4) discutir a compreensão presente nos currículos de Educação Profissional de nível Tecnológico, avaliando significados atribuídos à Estatística na organização e desenvolvimento desses currículos. É uma pesquisa de natureza qualitativa, considerando a análise de documentos e a entrevista como instrumentos de coleta de dados. Os resultados revelam a predominância do enfoque tradicional no processo de ensino da Estatística. Na opinião dos egressos, destaca-se a inexistência da utilização de softwares estatísticos nesta disciplina. Indica-se a necessidade de mudança nessa prática e sugere-se partir de exemplos contextualizados nas áreas de interesse dos alunos e valorizar o trabalho em grupo. Isto permitirá a participação ativa deles na construção do conhecimento, tendo como premissas a literacia, o raciocínio e o pensamento estatístico",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-12827159",
+  "autor": "Claudinei Aparecido da Costa",
+  "ano": 2013,
+  "tipo": "Tese",
+  "titulo": "Educação matemática nos cursos superiores de tecnologia: revelações sobre a formação estatística",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Celia Maria Carolino Pires",
+  "programa": "Educação Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "MATEMATICA [pt] Educação matemática [pt] Estatística [pt] Educação estatística",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Educa%C3%A7%C3%A3o%20matem%C3%A1tica%20nos%20cursos%20superiores%20de%20tecnologia%3A%20revela%C3%A7%C3%B5es%20sobre%20a%20forma%C3%A7%C3%A3o%20estat%C3%ADstica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educa%C3%A7%C3%A3o%20matem%C3%A1tica%20nos%20cursos%20superiores%20de%20tecnologia%3A%20revela%C3%A7%C3%B5es%20sobre%20a%20forma%C3%A7%C3%A3o%20estat%C3%ADstica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/12827159"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "12827159",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "MATEMATICA [pt] Educação matemática [pt] Estatística [pt] Educação estatística"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-12827159.svg",
+  "resumo": "Esta pesquisa tem como objetivo compreender a configuração e as potencialidades da Estatística na formação dos alunos da Educação Profissional de nível Tecnológico, considerando os aspectos formativos inerentes a esta modalidade de ensino. De modo mais específico, propõe-se a: (1) realizar uma análise documental dos cursos superiores de tecnologia, seu surgimento no Brasil, os aspectos legais, as diretrizes curriculares e as marcas da Educação Matemática, bem como da Educação Estatística no ensino tecnológico; (2) realizar um estudo sobre a importância da Estatística na formação dos tecnólogos, sua trajetória no decorrer das últimas décadas, o surgimento da Educação Estatística e as competências que compõem seu núcleo: literacia, raciocínio e pensamento estatísticos; (3) produzir uma análise do currículo em ação, identificando informações que nos proporcionem algumas pistas para a reconstrução de seus diferentes significados ao longo da história; (4) discutir a compreensão presente nos currículos de Educação Profissional de nível Tecnológico, avaliando significados atribuídos à Estatística na organização e desenvolvimento desses currículos. É uma pesquisa de natureza qualitativa, considerando a análise de documentos e a entrevista como instrumentos de coleta de dados. Os resultados revelam a predominância do enfoque tradicional no processo de ensino da Estatística. Na opinião dos egressos, destaca-se a inexistência da utilização de softwares estatísticos nesta disciplina. Indica-se a necessidade de mudança nessa prática e sugere-se partir de exemplos contextualizados nas áreas de interesse dos alunos e valorizar o trabalho em grupo. Isto permitirá a participação ativa deles na construção do conhecimento, tendo como premissas a literacia, o raciocínio e o pensamento estatístico",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

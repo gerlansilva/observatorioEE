@@ -1,59 +1,59 @@
 {
- "id": "capes-35323198",
- "autor": "Clarissa Coragem Ballejo",
- "ano": 2021,
- "tipo": "Tese",
- "titulo": "O uso de números decimais na construção de competências estatísticas por estudantes do 6º ano do Ensino Fundamental",
- "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Lori Viali",
- "programa": "Educação em Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Estatística. Competências estatísticas. Números decimais. Avaliação por rubricas. Ensino Fundamental.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20uso%20de%20n%C3%BAmeros%20decimais%20na%20constru%C3%A7%C3%A3o%20de%20compet%C3%AAncias%20estat%C3%ADsticas%20por%20estudantes%20do%206%C2%BA%20ano%20do%20Ensino%20Fundamental%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20uso%20de%20n%C3%BAmeros%20decimais%20na%20constru%C3%A7%C3%A3o%20de%20compet%C3%AAncias%20estat%C3%ADsticas%20por%20estudantes%20do%206%C2%BA%20ano%20do%20Ensino%20Fundamental&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35323198"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "35323198",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Estatística. Competências estatísticas. Números decimais. Avaliação por rubricas. Ensino Fundamental."
- ],
- "thumbnail": "./assets/images/thumbs/capes-35323198.svg",
- "resumo": "Esta tese teve por objetivo investigar de que forma é possível desenvolver e avaliar as competências estatísticas no estudo dos números decimais no 6º ano do Ensino Fundamental. O interesse por este tema se justifica na necessidade de abordagens metodológicas que propiciem o letramento, o raciocínio e o pensamento estatísticos aliados à disciplina de matemática no Ensino Fundamental. A fundamentação teórica se baseou em estudos que tratam dessas três competências estatísticas, dos números decimais e do ensino e da aprendizagem por projetos. Tomando-se a Investigação Baseada em Design (IBD) como pressuposto metodológico, esta pesquisa é de cunho qualitativo, cujas análises se apoiaram, também, em dados quantitativos. Mediante o desenvolvimento do projeto denominado de Meu Amigo, 32 estudantes do 6º ano de uma escola da rede particular de Porto Alegre – RS tiveram de entrevistar seus amigos para construírem informações sobre esses colegas, utilizando os números estudados no 6º ano. Assim, vivenciaram as etapas de uma investigação estatística, desde a coleta de dados, passando pela organização, análise e comunicação dos resultados. Em razão da pandemia da Covid-19, os encontros se deram de forma remota, mediante o Google Meet e a coleta de dados se deu a partir das fotos das produções dos estudantes, enviadas via Google Sala de Aula. Para analisar as informações criadas pelos discentes, elaborou-se um quadro de rubricas, organizado em componentes e indicadores. Sobre os resultados, constatou-se que o grupo obteve alto desempenho nas situações que aportaram comparação e operações com decimais. Em relação às competências estatísticas, os indicadores relacionados às representações gráficas e textuais alcançaram as melhores pontuações, bem como o indicador que trata da elaboração de perguntas claras e do planejamento adequado da coleta de dados. Os indicadores relativos às tabelas estatísticas revelaram resultados aquém do desejado.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": [
-  "38887870"
- ]
+  "id": "capes-35323198",
+  "autor": "Clarissa Coragem Ballejo",
+  "ano": 2021,
+  "tipo": "Tese",
+  "titulo": "O uso de números decimais na construção de competências estatísticas por estudantes do 6º ano do Ensino Fundamental",
+  "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Lori Viali",
+  "programa": "Educação em Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística. Competências estatísticas. Números decimais. Avaliação por rubricas. Ensino Fundamental.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20uso%20de%20n%C3%BAmeros%20decimais%20na%20constru%C3%A7%C3%A3o%20de%20compet%C3%AAncias%20estat%C3%ADsticas%20por%20estudantes%20do%206%C2%BA%20ano%20do%20Ensino%20Fundamental%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20uso%20de%20n%C3%BAmeros%20decimais%20na%20constru%C3%A7%C3%A3o%20de%20compet%C3%AAncias%20estat%C3%ADsticas%20por%20estudantes%20do%206%C2%BA%20ano%20do%20Ensino%20Fundamental&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35323198"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "35323198",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística. Competências estatísticas. Números decimais. Avaliação por rubricas. Ensino Fundamental."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-35323198.svg",
+  "resumo": "Esta tese teve por objetivo investigar de que forma é possível desenvolver e avaliar as competências estatísticas no estudo dos números decimais no 6º ano do Ensino Fundamental. O interesse por este tema se justifica na necessidade de abordagens metodológicas que propiciem o letramento, o raciocínio e o pensamento estatísticos aliados à disciplina de matemática no Ensino Fundamental. A fundamentação teórica se baseou em estudos que tratam dessas três competências estatísticas, dos números decimais e do ensino e da aprendizagem por projetos. Tomando-se a Investigação Baseada em Design (IBD) como pressuposto metodológico, esta pesquisa é de cunho qualitativo, cujas análises se apoiaram, também, em dados quantitativos. Mediante o desenvolvimento do projeto denominado de Meu Amigo, 32 estudantes do 6º ano de uma escola da rede particular de Porto Alegre – RS tiveram de entrevistar seus amigos para construírem informações sobre esses colegas, utilizando os números estudados no 6º ano. Assim, vivenciaram as etapas de uma investigação estatística, desde a coleta de dados, passando pela organização, análise e comunicação dos resultados. Em razão da pandemia da Covid-19, os encontros se deram de forma remota, mediante o Google Meet e a coleta de dados se deu a partir das fotos das produções dos estudantes, enviadas via Google Sala de Aula. Para analisar as informações criadas pelos discentes, elaborou-se um quadro de rubricas, organizado em componentes e indicadores. Sobre os resultados, constatou-se que o grupo obteve alto desempenho nas situações que aportaram comparação e operações com decimais. Em relação às competências estatísticas, os indicadores relacionados às representações gráficas e textuais alcançaram as melhores pontuações, bem como o indicador que trata da elaboração de perguntas claras e do planejamento adequado da coleta de dados. Os indicadores relativos às tabelas estatísticas revelaram resultados aquém do desejado.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": [
+    "38887870"
+  ]
 }

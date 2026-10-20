@@ -1,61 +1,61 @@
 {
- "id": "capes-36127316",
- "autor": "Camila Lorrane Reis Locatelli de Freitas",
- "ano": 2022,
- "tipo": "Dissertação",
- "titulo": "A Perspectiva Sociocrítica da Modelagem Matemática no Desenvolvimento da Estatística na Formação Continuada de Professores de Matemática",
- "instituicao": "Universidade Federal de Ouro Preto",
- "cidade": "",
- "estado": "Minas Gerais",
- "regiao": "Sudeste",
- "orientador": "Milton Rosa",
- "programa": "Educação Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino de Estatística; Formação Continuada; Modelagem Matemática; Perspectiva Sociocrítica; Teoria Fundamentada nos Dados",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20PERSPECTIVA%20SOCIOCR%C3%8DTICA%20DA%20MODELAGEM%20MATEM%C3%81TICA%20NO%20DESENVOLVIMENTO%20DA%20ESTAT%C3%8DSTICA%20NA%20FORMA%C3%87%C3%83O%20CONTINUADA%20DE%20PROFESSORES%20DE%20MATEM%C3%81TICA%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20PERSPECTIVA%20SOCIOCR%C3%8DTICA%20DA%20MODELAGEM%20MATEM%C3%81TICA%20NO%20DESENVOLVIMENTO%20DA%20ESTAT%C3%8DSTICA%20NA%20FORMA%C3%87%C3%83O%20CONTINUADA%20DE%20PROFESSORES%20DE%20MATEM%C3%81TICA&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36127316"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "36127316",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino de Estatística",
-  "Formação Continuada",
-  "Modelagem Matemática",
-  "Perspectiva Sociocrítica",
-  "Teoria Fundamentada nos Dados"
- ],
- "thumbnail": "./assets/images/thumbs/capes-36127316.svg",
- "resumo": "Essa pesquisa foi conduzida em uma escola municipal, localizada na cidade de Para de Minas, em Minas Gerais, com 4 professores licenciados em Matemática efetivos dessa escola onde ocorreu a pesquisa. O principal objetivo, desse estudo foi direcionado a compreender como a perspectiva Sociocrítica da Modelagem Matemática por meio da contextualização de uma conta de luz residencial contribuiu para o desenvolvimento de conteúdos estatísticos por meio da formação continuada de professores de Matemática. No entanto, outros objetivos nortearam esse estudo, como por exemplo, a análise de atividades curriculares estatísticas que poderia auxiliar os professores no desenvolvimento da criticidade e reflexão dos alunos para perceberem como as suas atitudes podem influenciar no consumo de energia elétrica por meio da Modelagem Matemática. A partir desses objetivos, foi possível definir a seguinte questão de investigação: Como a Modelagem Matemática em sua perspectiva Sociocrítica pode contribuir para o desenvolvimento de conteúdos da Estatística por meio do oferecimento de seminários de formação continuada de professores de Matemática? Nesse direcionamento, a fundamentação teórica foi pautada na Modelagem Matemática como um ambiente de aprendizagem em sua perspectiva Sociocrítica, e na sua relação dialógica com o ensino de Estatística. Para a coleta de dados foram utilizados dois questionários, um inicial e um final; anotações do diário de campo do professora-pesquisadora, e três seminários via GoogleMeet para a formação continuada relacionados com os conceitos da Modelagem Matemática no ensino de Estatística por meio de uma contextualização de uma conta de luz residencial. Os dados coletados foram analisados seguindo os pressupostos da Teoria Fundamentada nos Dados, e os resultados foram interpretados de acordo com o referencial teórico adotado nesse estudo. Os dados foram codificados por meio das codificações aberta e axial para a elaboração das categorias de análise que possibilitaram a interpretação dos resultados obtidos nesse estudo. Os resultados dessa investigação mostraram que a perspectiva Sociocrítica da Modelagem Matemática contribuiu para que os professores participantes desse estudo discutissem, entendessem e conhecessem uma parte de sua realidade relacionada com o estudo de uma conta de luz residencial, pois o potencial dessa ação pedagógica possibilitou o desenvolvimento de uma ação transformadora dos alunos como cidadãos transformadores na sociedade, bem como também, proporcionou um ambiente democrático que abriu espaço para a discussão sobre a utilização de conteúdos estatísticos definidos pela BNCC (BRASIL, 2018), além do desenvolvimento de reflexões, interpretações e inferências elaboradas com base nos referenciais teóricos estudados nos seminários de formação continuada de professores. O produto educacional, que é um caderno de sugestões originado dessa dissertação, foi elaborado por meio das discussões que surgiram durante os encontros de formação continuada, assim, objetivo deste é de orientar os professores, educadores e interessados nessa temática, que desejam inovar as suas práticas docentes relacionadas aos conceitos de ensino de Estatística, por meio da contextualização de uma conta de luz residencial. Também, como fruto dessa dissertação foi elaborado um caderno de sugestões com o objetivo de aproximar os leitores das práticas matemáticas que foram desenvolvidas nesse estudo por meio da utilização de caixas de diálogos denominadas Observações, Sugestões, Dicas e Lembretes, que visam orientar os leitores no desenvolvimento das atividades propostas nesse produto educacional.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-36127316",
+  "autor": "Camila Lorrane Reis Locatelli de Freitas",
+  "ano": 2022,
+  "tipo": "Dissertação",
+  "titulo": "A Perspectiva Sociocrítica da Modelagem Matemática no Desenvolvimento da Estatística na Formação Continuada de Professores de Matemática",
+  "instituicao": "Universidade Federal de Ouro Preto",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Milton Rosa",
+  "programa": "Educação Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Estatística; Formação Continuada; Modelagem Matemática; Perspectiva Sociocrítica; Teoria Fundamentada nos Dados",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20PERSPECTIVA%20SOCIOCR%C3%8DTICA%20DA%20MODELAGEM%20MATEM%C3%81TICA%20NO%20DESENVOLVIMENTO%20DA%20ESTAT%C3%8DSTICA%20NA%20FORMA%C3%87%C3%83O%20CONTINUADA%20DE%20PROFESSORES%20DE%20MATEM%C3%81TICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20PERSPECTIVA%20SOCIOCR%C3%8DTICA%20DA%20MODELAGEM%20MATEM%C3%81TICA%20NO%20DESENVOLVIMENTO%20DA%20ESTAT%C3%8DSTICA%20NA%20FORMA%C3%87%C3%83O%20CONTINUADA%20DE%20PROFESSORES%20DE%20MATEM%C3%81TICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36127316"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "36127316",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Estatística",
+    "Formação Continuada",
+    "Modelagem Matemática",
+    "Perspectiva Sociocrítica",
+    "Teoria Fundamentada nos Dados"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-36127316.svg",
+  "resumo": "Essa pesquisa foi conduzida em uma escola municipal, localizada na cidade de Para de Minas, em Minas Gerais, com 4 professores licenciados em Matemática efetivos dessa escola onde ocorreu a pesquisa. O principal objetivo, desse estudo foi direcionado a compreender como a perspectiva Sociocrítica da Modelagem Matemática por meio da contextualização de uma conta de luz residencial contribuiu para o desenvolvimento de conteúdos estatísticos por meio da formação continuada de professores de Matemática. No entanto, outros objetivos nortearam esse estudo, como por exemplo, a análise de atividades curriculares estatísticas que poderia auxiliar os professores no desenvolvimento da criticidade e reflexão dos alunos para perceberem como as suas atitudes podem influenciar no consumo de energia elétrica por meio da Modelagem Matemática. A partir desses objetivos, foi possível definir a seguinte questão de investigação: Como a Modelagem Matemática em sua perspectiva Sociocrítica pode contribuir para o desenvolvimento de conteúdos da Estatística por meio do oferecimento de seminários de formação continuada de professores de Matemática? Nesse direcionamento, a fundamentação teórica foi pautada na Modelagem Matemática como um ambiente de aprendizagem em sua perspectiva Sociocrítica, e na sua relação dialógica com o ensino de Estatística. Para a coleta de dados foram utilizados dois questionários, um inicial e um final; anotações do diário de campo do professora-pesquisadora, e três seminários via GoogleMeet para a formação continuada relacionados com os conceitos da Modelagem Matemática no ensino de Estatística por meio de uma contextualização de uma conta de luz residencial. Os dados coletados foram analisados seguindo os pressupostos da Teoria Fundamentada nos Dados, e os resultados foram interpretados de acordo com o referencial teórico adotado nesse estudo. Os dados foram codificados por meio das codificações aberta e axial para a elaboração das categorias de análise que possibilitaram a interpretação dos resultados obtidos nesse estudo. Os resultados dessa investigação mostraram que a perspectiva Sociocrítica da Modelagem Matemática contribuiu para que os professores participantes desse estudo discutissem, entendessem e conhecessem uma parte de sua realidade relacionada com o estudo de uma conta de luz residencial, pois o potencial dessa ação pedagógica possibilitou o desenvolvimento de uma ação transformadora dos alunos como cidadãos transformadores na sociedade, bem como também, proporcionou um ambiente democrático que abriu espaço para a discussão sobre a utilização de conteúdos estatísticos definidos pela BNCC (BRASIL, 2018), além do desenvolvimento de reflexões, interpretações e inferências elaboradas com base nos referenciais teóricos estudados nos seminários de formação continuada de professores. O produto educacional, que é um caderno de sugestões originado dessa dissertação, foi elaborado por meio das discussões que surgiram durante os encontros de formação continuada, assim, objetivo deste é de orientar os professores, educadores e interessados nessa temática, que desejam inovar as suas práticas docentes relacionadas aos conceitos de ensino de Estatística, por meio da contextualização de uma conta de luz residencial. Também, como fruto dessa dissertação foi elaborado um caderno de sugestões com o objetivo de aproximar os leitores das práticas matemáticas que foram desenvolvidas nesse estudo por meio da utilização de caixas de diálogos denominadas Observações, Sugestões, Dicas e Lembretes, que visam orientar os leitores no desenvolvimento das atividades propostas nesse produto educacional.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

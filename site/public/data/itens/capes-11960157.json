@@ -1,58 +1,58 @@
 {
- "id": "capes-11960157",
- "autor": "Luzinete de Oliveira Mendonca",
- "ano": 2015,
- "tipo": "Tese",
- "titulo": "Reflexões e ações de professores sobre modelagem Matemática na Educação Estatística em um grupo colaborativo",
- "instituicao": "Universidade Cruzeiro do Sul",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Celi Aparecida Espasandin Lopes",
- "programa": "Ensino de Ciências",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Formação do professor, Ensino e aprendizagem de matemática, Intervenção estratégica, Modelagem matemática, Grupo colaborativo, Educação estatística.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Reflex%C3%B5es%20e%20a%C3%A7%C3%B5es%20de%20professores%20sobre%20modelagem%20Matem%C3%A1tica%20na%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20em%20um%20grupo%20colaborativo%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Reflex%C3%B5es%20e%20a%C3%A7%C3%B5es%20de%20professores%20sobre%20modelagem%20Matem%C3%A1tica%20na%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20em%20um%20grupo%20colaborativo&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/11960157"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "11960157",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Formação do professor, Ensino e aprendizagem de matemática, Intervenção estratégica, Modelagem matemática, Grupo colaborativo, Educação estatística."
- ],
- "thumbnail": "./assets/images/thumbs/capes-11960157.svg",
- "resumo": "Este trabalho busca contribuir para o debate sobre a modelagem matemática na formação de professor. Seu principal objetivo foi ampliar compreensões sobre as ações favoráveis ao entendimento de alguns professores acerca do processo de fazer modelagem matemática na sala de aula para a abordagem da Educação Estatística. Para isso, foi desenvolvida uma pesquisa de natureza qualitativa em que os dados foram gerados a partir das interações de um grupo colaborativo de professores da Educação Básica, que tem como foco de reflexão a Educação Estatística. Considerou-se que a vivência em algumas ações teóricas (reflexão sobre casos de ensino, análise de modelos matemáticos prontos) e práticas (desenvolvimento de atividade de modelagem como aluno, elaboração e implementação de atividades de modelagem), com o apoio dos pares no espaço de discussão do grupo, poderia favorecer processos de reflexão e ação sobre a modelagem na Educação Básica. A dinâmica empreendida mostra um cenário de insatisfação dos professores com a forma como a gestão das escolas em que atuam controla e limita suas práticas, o que gerou condições para a reflexão sobre a necessidade de um posicionamento político para exercer uma prática inovadora e produtiva. Indica também que, apesar de todas as ações vivenciadas terem sido relevantes para a reflexão dos educadores, esses mostram preferência por aquelas que estão relacionadas com o ensino e a aprendizagem de seus alunos, como o planejamento e implementação de atividades. Além disso, observa-se que atividades que contemplem os diversos interesses que envolvem o contexto do ensino favoreceu a inserção das atividades de modelagem na rotina das salas de aula dos docentes. Entretanto, observa-se dependência da intervenção pedagógica para que os procedimentos inerentes a modelagem matemática ocorram.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-11960157",
+  "autor": "Luzinete de Oliveira Mendonca",
+  "ano": 2015,
+  "tipo": "Tese",
+  "titulo": "Reflexões e ações de professores sobre modelagem Matemática na Educação Estatística em um grupo colaborativo",
+  "instituicao": "Universidade Cruzeiro do Sul",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Celi Aparecida Espasandin Lopes",
+  "programa": "Ensino de Ciências",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Formação do professor, Ensino e aprendizagem de matemática, Intervenção estratégica, Modelagem matemática, Grupo colaborativo, Educação estatística.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Reflex%C3%B5es%20e%20a%C3%A7%C3%B5es%20de%20professores%20sobre%20modelagem%20Matem%C3%A1tica%20na%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20em%20um%20grupo%20colaborativo%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Reflex%C3%B5es%20e%20a%C3%A7%C3%B5es%20de%20professores%20sobre%20modelagem%20Matem%C3%A1tica%20na%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20em%20um%20grupo%20colaborativo&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/11960157"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "11960157",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Formação do professor, Ensino e aprendizagem de matemática, Intervenção estratégica, Modelagem matemática, Grupo colaborativo, Educação estatística."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-11960157.svg",
+  "resumo": "Este trabalho busca contribuir para o debate sobre a modelagem matemática na formação de professor. Seu principal objetivo foi ampliar compreensões sobre as ações favoráveis ao entendimento de alguns professores acerca do processo de fazer modelagem matemática na sala de aula para a abordagem da Educação Estatística. Para isso, foi desenvolvida uma pesquisa de natureza qualitativa em que os dados foram gerados a partir das interações de um grupo colaborativo de professores da Educação Básica, que tem como foco de reflexão a Educação Estatística. Considerou-se que a vivência em algumas ações teóricas (reflexão sobre casos de ensino, análise de modelos matemáticos prontos) e práticas (desenvolvimento de atividade de modelagem como aluno, elaboração e implementação de atividades de modelagem), com o apoio dos pares no espaço de discussão do grupo, poderia favorecer processos de reflexão e ação sobre a modelagem na Educação Básica. A dinâmica empreendida mostra um cenário de insatisfação dos professores com a forma como a gestão das escolas em que atuam controla e limita suas práticas, o que gerou condições para a reflexão sobre a necessidade de um posicionamento político para exercer uma prática inovadora e produtiva. Indica também que, apesar de todas as ações vivenciadas terem sido relevantes para a reflexão dos educadores, esses mostram preferência por aquelas que estão relacionadas com o ensino e a aprendizagem de seus alunos, como o planejamento e implementação de atividades. Além disso, observa-se que atividades que contemplem os diversos interesses que envolvem o contexto do ensino favoreceu a inserção das atividades de modelagem na rotina das salas de aula dos docentes. Entretanto, observa-se dependência da intervenção pedagógica para que os procedimentos inerentes a modelagem matemática ocorram.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

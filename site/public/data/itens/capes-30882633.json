@@ -1,59 +1,59 @@
 {
- "id": "capes-30882633",
- "autor": "Karen Moreira Dias",
- "ano": 2018,
- "tipo": "Dissertação",
- "titulo": "Os Processos de Aprendizagem dos Licenciados em Matemática ao Estudar Intervalos de Confiança",
- "instituicao": "Universidade Cruzeiro do Sul",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Wagner Barbosa de Lima Palanch",
- "programa": "Ensino de Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Estatística Inferencial; Intervalos de confiança; Ensino e Aprendizagem de Estatística.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22OS%20PROCESSOS%20DE%20APRENDIZAGEM%20DOS%20LICENCIADOS%20EM%20MATEM%C3%81TICA%20AO%20ESTUDAR%20INTERVALOS%20DE%20CONFIAN%C3%87A%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=OS%20PROCESSOS%20DE%20APRENDIZAGEM%20DOS%20LICENCIADOS%20EM%20MATEM%C3%81TICA%20AO%20ESTUDAR%20INTERVALOS%20DE%20CONFIAN%C3%87A&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30882633"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "30882633",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Estatística Inferencial",
-  "Intervalos de confiança",
-  "Ensino e Aprendizagem de Estatística."
- ],
- "thumbnail": "./assets/images/thumbs/capes-30882633.svg",
- "resumo": "A Estatística é uma das disciplinas que compõem o currículo de quase todos os cursos universitários. Divide-se em Estatística Descritiva e Estatística Inferencial. Um dos assuntos estudados na Estatística Inferencial é o intervalo de confiança, que consiste em uma estimativa intervalar de um parâmetro da população. Não é raro os alunos aplicarem corretamente as fórmulas do intervalo de confiança, sem, no entanto, compreender seu significado. A presente dissertação, de natureza qualitativa, teve por objetivo identificar as dificuldades dos alunos relativas aos intervalos de confiança, bem como analisar os processos de aprendizagem, por meio de uma sequência de ensino aplicada. Como referenciais teóricos, considerouse os estudos sobre os processos de aprendizagem e o ensino e aprendizagem de Estatística. Nossos participantes foram onze estudantes do 3º ano de um curso de Licenciatura em Matemática que cursam a disciplina de Estatística. A produção dos dados se deu pelos registros dos estudantes, pelas anotações da pesquisadora no diário de observações e pelas áudio-gravações feitas durante os encontros. Os resultados evidenciaram que os estudantes assimilaram a ideia do intervalo de confiança e as variáveis envolvidas em seu cálculo, compreenderam que uma estimativa dificilmente coincidirá com o verdadeiro valor de um parâmetro populacional, e que amostras diferentes produzem estimativas diferentes, perceberam a existência da margem de erro e o impacto do nível de confiança sobre a amplitude do intervalo. Percebemos também as dificuldades em relacionar os símbolos da Estatística aos seus significados, a confusão entre estatística e parâmetro e o manuseio da Tabela Normal Padronizada. Como produto final deste trabalho, foi elaborada uma sequência de ensino do intervalo de confiança, o qual se encontra anexada a esta dissertação.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-30882633",
+  "autor": "Karen Moreira Dias",
+  "ano": 2018,
+  "tipo": "Dissertação",
+  "titulo": "Os Processos de Aprendizagem dos Licenciados em Matemática ao Estudar Intervalos de Confiança",
+  "instituicao": "Universidade Cruzeiro do Sul",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Wagner Barbosa de Lima Palanch",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Estatística Inferencial; Intervalos de confiança; Ensino e Aprendizagem de Estatística.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22OS%20PROCESSOS%20DE%20APRENDIZAGEM%20DOS%20LICENCIADOS%20EM%20MATEM%C3%81TICA%20AO%20ESTUDAR%20INTERVALOS%20DE%20CONFIAN%C3%87A%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=OS%20PROCESSOS%20DE%20APRENDIZAGEM%20DOS%20LICENCIADOS%20EM%20MATEM%C3%81TICA%20AO%20ESTUDAR%20INTERVALOS%20DE%20CONFIAN%C3%87A&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30882633"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30882633",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Estatística Inferencial",
+    "Intervalos de confiança",
+    "Ensino e Aprendizagem de Estatística."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30882633.svg",
+  "resumo": "A Estatística é uma das disciplinas que compõem o currículo de quase todos os cursos universitários. Divide-se em Estatística Descritiva e Estatística Inferencial. Um dos assuntos estudados na Estatística Inferencial é o intervalo de confiança, que consiste em uma estimativa intervalar de um parâmetro da população. Não é raro os alunos aplicarem corretamente as fórmulas do intervalo de confiança, sem, no entanto, compreender seu significado. A presente dissertação, de natureza qualitativa, teve por objetivo identificar as dificuldades dos alunos relativas aos intervalos de confiança, bem como analisar os processos de aprendizagem, por meio de uma sequência de ensino aplicada. Como referenciais teóricos, considerouse os estudos sobre os processos de aprendizagem e o ensino e aprendizagem de Estatística. Nossos participantes foram onze estudantes do 3º ano de um curso de Licenciatura em Matemática que cursam a disciplina de Estatística. A produção dos dados se deu pelos registros dos estudantes, pelas anotações da pesquisadora no diário de observações e pelas áudio-gravações feitas durante os encontros. Os resultados evidenciaram que os estudantes assimilaram a ideia do intervalo de confiança e as variáveis envolvidas em seu cálculo, compreenderam que uma estimativa dificilmente coincidirá com o verdadeiro valor de um parâmetro populacional, e que amostras diferentes produzem estimativas diferentes, perceberam a existência da margem de erro e o impacto do nível de confiança sobre a amplitude do intervalo. Percebemos também as dificuldades em relacionar os símbolos da Estatística aos seus significados, a confusão entre estatística e parâmetro e o manuseio da Tabela Normal Padronizada. Como produto final deste trabalho, foi elaborada uma sequência de ensino do intervalo de confiança, o qual se encontra anexada a esta dissertação.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

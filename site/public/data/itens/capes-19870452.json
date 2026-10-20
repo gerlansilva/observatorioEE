@@ -1,54 +1,54 @@
 {
- "id": "capes-19870452",
- "autor": "Daiani Finatto Bianchini",
- "ano": 2013,
- "tipo": "Dissertação",
- "titulo": "Práticas Pedagógicas em Estatística dos Anos Iniciais: Realidades e Possibilidades",
- "instituicao": "Univ. Regional do Noroeste do Estado do Rio Grande do Sul",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Catia Maria Nehring",
- "programa": "Educação nas Ciências",
- "area": "Educação",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Anos iniciais. Educação Estatística. Formação de professores. Práticas Pedagógicas.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22PR%C3%81TICAS%20PEDAG%C3%93GICAS%20EM%20ESTAT%C3%8DSTICA%20DOS%20ANOS%20INICIAIS%3A%20REALIDADES%20E%20POSSIBILIDADES%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PR%C3%81TICAS%20PEDAG%C3%93GICAS%20EM%20ESTAT%C3%8DSTICA%20DOS%20ANOS%20INICIAIS%3A%20REALIDADES%20E%20POSSIBILIDADES&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19870452"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "19870452",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Anos iniciais. Educação Estatística. Formação de professores. Práticas Pedagógicas."
- ],
- "thumbnail": "./assets/images/thumbs/capes-19870452.svg",
- "resumo": "Este estudo discute a Educação Estatística a partir do trabalho desenvolvido por professoras dos anos iniciais. Teve como objetivo conhecer quais são as práticas propostas em relação ao ensino da estatística no município de Santa Rosa/RS e como essas práticas podem ser compreendidas mediante as teorizações da Educação Estatística. Para tanto, foi desenvolvida uma pesquisa qualitativa, sendo a História Oral em Educação Matemática a metodologia adotada para a produção do campo empírico. A partir da aplicação de um questionário inicial, selecionaram-se professoras voluntárias a participar das etapas de entrevistas, denominadas depoimentos dialogados. Estes diálogos originaram um conjunto de textos analisados a partir da metodologia da análise textual discursiva, dos quais emergiram dois focos de análise: Educação Estatística como eixo articulador do currículo dos anos iniciais e vivências, entendimentos e possibilidades de ressignificação no processo de formação profissional. As análises e as reflexões resultantes desta investigação evidenciam o reconhecimento, por parte das professoras, de que práticas estatísticas podem contribuir para a leitura e a compreensão da realidade, provocando um exercício da nossa cidadania com mais responsabilidade social; além disso, as entrevistadas percebem o potencial interdisciplinar da temática. Entretanto, os limites provocados pelo pouco conhecimento específico, e alguns entendimentos relacionados ao currículo e à sua organização, tais como a supervalorização dos números e das operações e as ideias relacionadas à linearidade dos conceitos e aprendizagem por maturação, acabam intimidando o desenvolvimento desses conhecimentos, produzindo práticas estatísticas reduzidas e reducionistas. Nesse sentido, a consolidação de práticas estatísticas relaciona-se estreitamente ao processo contínuo de formação profissional, entendido como um espaço de reflexão a partir das práticas, a fim de ressignificá-las constantemente.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": null
+  "id": "capes-19870452",
+  "autor": "Daiani Finatto Bianchini",
+  "ano": 2013,
+  "tipo": "Dissertação",
+  "titulo": "Práticas Pedagógicas em Estatística dos Anos Iniciais: Realidades e Possibilidades",
+  "instituicao": "Univ. Regional do Noroeste do Estado do Rio Grande do Sul",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Catia Maria Nehring",
+  "programa": "Educação nas Ciências",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Anos iniciais. Educação Estatística. Formação de professores. Práticas Pedagógicas.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22PR%C3%81TICAS%20PEDAG%C3%93GICAS%20EM%20ESTAT%C3%8DSTICA%20DOS%20ANOS%20INICIAIS%3A%20REALIDADES%20E%20POSSIBILIDADES%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PR%C3%81TICAS%20PEDAG%C3%93GICAS%20EM%20ESTAT%C3%8DSTICA%20DOS%20ANOS%20INICIAIS%3A%20REALIDADES%20E%20POSSIBILIDADES&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19870452"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "19870452",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Anos iniciais. Educação Estatística. Formação de professores. Práticas Pedagógicas."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-19870452.svg",
+  "resumo": "Este estudo discute a Educação Estatística a partir do trabalho desenvolvido por professoras dos anos iniciais. Teve como objetivo conhecer quais são as práticas propostas em relação ao ensino da estatística no município de Santa Rosa/RS e como essas práticas podem ser compreendidas mediante as teorizações da Educação Estatística. Para tanto, foi desenvolvida uma pesquisa qualitativa, sendo a História Oral em Educação Matemática a metodologia adotada para a produção do campo empírico. A partir da aplicação de um questionário inicial, selecionaram-se professoras voluntárias a participar das etapas de entrevistas, denominadas depoimentos dialogados. Estes diálogos originaram um conjunto de textos analisados a partir da metodologia da análise textual discursiva, dos quais emergiram dois focos de análise: Educação Estatística como eixo articulador do currículo dos anos iniciais e vivências, entendimentos e possibilidades de ressignificação no processo de formação profissional. As análises e as reflexões resultantes desta investigação evidenciam o reconhecimento, por parte das professoras, de que práticas estatísticas podem contribuir para a leitura e a compreensão da realidade, provocando um exercício da nossa cidadania com mais responsabilidade social; além disso, as entrevistadas percebem o potencial interdisciplinar da temática. Entretanto, os limites provocados pelo pouco conhecimento específico, e alguns entendimentos relacionados ao currículo e à sua organização, tais como a supervalorização dos números e das operações e as ideias relacionadas à linearidade dos conceitos e aprendizagem por maturação, acabam intimidando o desenvolvimento desses conhecimentos, produzindo práticas estatísticas reduzidas e reducionistas. Nesse sentido, a consolidação de práticas estatísticas relaciona-se estreitamente ao processo contínuo de formação profissional, entendido como um espaço de reflexão a partir das práticas, a fim de ressignificá-las constantemente.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
 }

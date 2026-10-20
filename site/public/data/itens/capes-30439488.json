@@ -1,61 +1,61 @@
 {
- "id": "capes-30439488",
- "autor": "Jose Ivanildo Felisberto de Carvalho",
- "ano": 2017,
- "tipo": "Tese",
- "titulo": "Um estudo sobre os conhecimentos Didáticos-Matemáticos de Probabilidade de professores de matemática do Ensino Fundamental",
- "instituicao": "Universidade Anhanguera de São Paulo",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Ruy Cesar Pietropaolo",
- "programa": "Educação Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "EDUCAÇÃO MATEMÁTICA; Ensino de Probabilidade; Conhecimento Didático-Matemático; Formação de professores; Enfoque Ontossemiótico",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Um%20estudo%20sobre%20os%20conhecimentos%20Did%C3%A1ticos-Matem%C3%A1ticos%20de%20Probabilidade%20de%20professores%20de%20matem%C3%A1tica%20do%20Ensino%20Fundamental%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Um%20estudo%20sobre%20os%20conhecimentos%20Did%C3%A1ticos-Matem%C3%A1ticos%20de%20Probabilidade%20de%20professores%20de%20matem%C3%A1tica%20do%20Ensino%20Fundamental&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30439488"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "30439488",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "EDUCAÇÃO MATEMÁTICA",
-  "Ensino de Probabilidade",
-  "Conhecimento Didático-Matemático",
-  "Formação de professores",
-  "Enfoque Ontossemiótico"
- ],
- "thumbnail": "./assets/images/thumbs/capes-30439488.svg",
- "resumo": "O presente estudo tem como objetivo investigar como um programa formativo favorece a construção dos conhecimentos didáticos-matemáticos sobre probabilidade com professores de matemática dos anos finais do Ensino Fundamental. Esta investigação foi desenvolvida no âmbito do projeto de pesquisa “Investigações sobre o processo de ensino e de aprendizagem de conceitos concernentes à probabilidade e estatística”, pertencente ao Programa Observatório da Educação do Ministério da Educação (OBEDUC - UNIAN). Descreve-se uma experiência formativa para o desenvolvimento do conhecimento didático-matemático sobre probabilidade e noções associadas com professores de matemática em exercício nos anos finais do Ensino Fundamental no Brasil (estudantes de 11 a 14 anos). Para esta investigação foi utilizado como marco teórico, a teoria do Enfoque Ontossemiótico do Conhecimento e da Instrução Matemática – (EOS), o modelo do Conhecimento Didático-Matemático do professor de matemática, a teoria da Idoneidade Didática e a Engenharia Didática baseado no EOS. Metodologicamente, são discutidas as fases dessa engenharia didática (estudo preliminar, desenho, implementação e avaliação) que se constituiu como o fio condutor para o desenvolvimento desta experiência. Da mesma forma se aplicaram as categorias do modelo do conhecimento didático-matemático do professor de matemática (conhecimento comum, avançado e especializado do conteúdo). O processo formativo foi vivenciado com 40 professores durante sete encontros, envolvendo uma adaptação das sequências de atividades propostas no programa de ensino de Bryant e Nunes (2012) sobre Probabilidade e Risco e atividades da literatura que complementem as reflexões sobre Probabilidade e seu ensino. Identificou-se que os conhecimentos iniciais que demonstraram ter o grupo de professores participantes, sobre probabilidade e seu ensino, são insuficientes para um processo de ensino e aprendizagem idôneo com os alunos do Ensino Fundamental. Constatou-se também, que os professores desenvolveram e ampliaram conhecimentos concernentes à probabilidade e ao seu ensino. Nessa ampliação, constatou-se ainda, um processo de ressignificação dos professores sobre o significado da probabilidade e das noções que sustentam este conceito como as noções de aleatoriedade, espaço amostral e quantificação de probabilidades. Foi destacada a noção de risco por meio do estudo da associação entre variáveis em tabelas de dupla entrada como um conhecimento emergente para o ensino nos anos finais do Ensino Fundamental. Avaliou-se que o programa de formação favorece a construção dos conhecimentos didáticos-matemáticos uma vez que a idoneidade didática geral foi considerada alta. Observou-se que o modelo formativo experimentado, é um aporte que permite apoiar e formar adequadamente os professores de matemática dos anos finais do Ensino Fundamental no tema específico da probabilidade e sua didática.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de probabilidade"
- ],
- "ids_duplicados": []
+  "id": "capes-30439488",
+  "autor": "Jose Ivanildo Felisberto de Carvalho",
+  "ano": 2017,
+  "tipo": "Tese",
+  "titulo": "Um estudo sobre os conhecimentos Didáticos-Matemáticos de Probabilidade de professores de matemática do Ensino Fundamental",
+  "instituicao": "Universidade Anhanguera de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Ruy Cesar Pietropaolo",
+  "programa": "Educação Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "EDUCAÇÃO MATEMÁTICA; Ensino de Probabilidade; Conhecimento Didático-Matemático; Formação de professores; Enfoque Ontossemiótico",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Um%20estudo%20sobre%20os%20conhecimentos%20Did%C3%A1ticos-Matem%C3%A1ticos%20de%20Probabilidade%20de%20professores%20de%20matem%C3%A1tica%20do%20Ensino%20Fundamental%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Um%20estudo%20sobre%20os%20conhecimentos%20Did%C3%A1ticos-Matem%C3%A1ticos%20de%20Probabilidade%20de%20professores%20de%20matem%C3%A1tica%20do%20Ensino%20Fundamental&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30439488"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30439488",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "EDUCAÇÃO MATEMÁTICA",
+    "Ensino de Probabilidade",
+    "Conhecimento Didático-Matemático",
+    "Formação de professores",
+    "Enfoque Ontossemiótico"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30439488.svg",
+  "resumo": "O presente estudo tem como objetivo investigar como um programa formativo favorece a construção dos conhecimentos didáticos-matemáticos sobre probabilidade com professores de matemática dos anos finais do Ensino Fundamental. Esta investigação foi desenvolvida no âmbito do projeto de pesquisa “Investigações sobre o processo de ensino e de aprendizagem de conceitos concernentes à probabilidade e estatística”, pertencente ao Programa Observatório da Educação do Ministério da Educação (OBEDUC - UNIAN). Descreve-se uma experiência formativa para o desenvolvimento do conhecimento didático-matemático sobre probabilidade e noções associadas com professores de matemática em exercício nos anos finais do Ensino Fundamental no Brasil (estudantes de 11 a 14 anos). Para esta investigação foi utilizado como marco teórico, a teoria do Enfoque Ontossemiótico do Conhecimento e da Instrução Matemática – (EOS), o modelo do Conhecimento Didático-Matemático do professor de matemática, a teoria da Idoneidade Didática e a Engenharia Didática baseado no EOS. Metodologicamente, são discutidas as fases dessa engenharia didática (estudo preliminar, desenho, implementação e avaliação) que se constituiu como o fio condutor para o desenvolvimento desta experiência. Da mesma forma se aplicaram as categorias do modelo do conhecimento didático-matemático do professor de matemática (conhecimento comum, avançado e especializado do conteúdo). O processo formativo foi vivenciado com 40 professores durante sete encontros, envolvendo uma adaptação das sequências de atividades propostas no programa de ensino de Bryant e Nunes (2012) sobre Probabilidade e Risco e atividades da literatura que complementem as reflexões sobre Probabilidade e seu ensino. Identificou-se que os conhecimentos iniciais que demonstraram ter o grupo de professores participantes, sobre probabilidade e seu ensino, são insuficientes para um processo de ensino e aprendizagem idôneo com os alunos do Ensino Fundamental. Constatou-se também, que os professores desenvolveram e ampliaram conhecimentos concernentes à probabilidade e ao seu ensino. Nessa ampliação, constatou-se ainda, um processo de ressignificação dos professores sobre o significado da probabilidade e das noções que sustentam este conceito como as noções de aleatoriedade, espaço amostral e quantificação de probabilidades. Foi destacada a noção de risco por meio do estudo da associação entre variáveis em tabelas de dupla entrada como um conhecimento emergente para o ensino nos anos finais do Ensino Fundamental. Avaliou-se que o programa de formação favorece a construção dos conhecimentos didáticos-matemáticos uma vez que a idoneidade didática geral foi considerada alta. Observou-se que o modelo formativo experimentado, é um aporte que permite apoiar e formar adequadamente os professores de matemática dos anos finais do Ensino Fundamental no tema específico da probabilidade e sua didática.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de probabilidade"
+  ],
+  "ids_duplicados": []
 }

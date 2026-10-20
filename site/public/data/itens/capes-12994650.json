@@ -1,58 +1,58 @@
 {
- "id": "capes-12994650",
- "autor": "Amari Goulart",
- "ano": 2015,
- "tipo": "Tese",
- "titulo": "Um Estudo sobre a Abordagem dos Conteúdos Estatísticos em Cursos de Licenciatura em Matemática: Uma Proposta Sob a Ótica da Ecologia do Didático",
- "instituicao": "Pontifícia Universidade Católica de São Paulo",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Cileda de Queiroz e Silva Coutinho",
- "programa": "Educação Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "MATEMATICA, Formação de professores, Educação estatística, Letramento Estatístico, Livro didático",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22UM%20ESTUDO%20SOBRE%20A%20ABORDAGEM%20DOS%20CONTE%C3%9ADOS%20ESTAT%C3%8DSTICOS%20EM%20CURSOS%20DE%20LICENCIATURA%20EM%20MATEM%C3%81TICA%3A%20UMA%20PROPOSTA%20SOB%20A%20%C3%93TICA%20DA%20ECOLOGIA%20DO%20DID%C3%81TICO%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UM%20ESTUDO%20SOBRE%20A%20ABORDAGEM%20DOS%20CONTE%C3%9ADOS%20ESTAT%C3%8DSTICOS%20EM%20CURSOS%20DE%20LICENCIATURA%20EM%20MATEM%C3%81TICA%3A%20UMA%20PROPOSTA%20SOB%20A%20%C3%93TICA%20DA%20ECOLOGIA%20DO%20DID%C3%81TICO&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/12994650"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "12994650",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "MATEMATICA, Formação de professores, Educação estatística, Letramento Estatístico, Livro didático"
- ],
- "thumbnail": "./assets/images/thumbs/capes-12994650.svg",
- "resumo": "Esta pesquisa teve por objetivo determinar as relações que podemos estabelecer entre o ensino de Estatística na Educação Básica e o Ensino de Estatística nos cursos de Licenciatura em Matemática, visando potencializar a formação de professores para o Letramento Estatístico. Utilizando como base teórica a Teoria Antropológica do Didático (TAD) e sua perspectiva Ecológica, formulamos, por hipótese, dois ecossistemas: o ecossistema do Ensino de Matemática na Educação Básica e o ecossistema do curso de Licenciatura em Matemática. Para verificar se esses ecossistemas potencializam o desenvolvimento do Letramento Estatístico, foram analisados os seguintes documentos: os PCN de terceiro e quarto ciclos do Ensino Fundamental (Matemática), os PCN do Ensino Médio (Ciências da Natureza, Matemática e suas Tecnologias), os PCN+ (Ciências da Natureza, Matemática e suas Tecnologias), as Orientações Curriculares para o Ensino Médio (Ciências da Natureza, Matemática e suas Tecnologias), as Diretrizes Curriculares Nacionais para os Cursos de Matemática, Bacharelado e Licenciatura (DCN-BL) e as Diretrizes Curriculares Nacionais para a Formação de Professores da Educação Básica, em Nível Superior, Curso de Licenciatura, de graduação plena (DCN-FP), bem como os seguintes exames de larga escala: SAEB, Prova Brasil, ENEM e ENADE e também duas coleções de livros didáticos aprovadas pelo PNLD e destinadas à Educação Básica. A partir das análises dos documentos, concluímos que nenhum desses ecossistemas potencializa o desenvolvimento do Letramento Estatístico. Não foram encontradas relações que possam ser estabelecidas entre o ensino de Estatística na Educação Básica e o Ensino de Estatística nos cursos de Licenciatura em Matemática visando aprimorar a formação de professores para o Letramento Estatístico",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "letramento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-12994650",
+  "autor": "Amari Goulart",
+  "ano": 2015,
+  "tipo": "Tese",
+  "titulo": "Um Estudo sobre a Abordagem dos Conteúdos Estatísticos em Cursos de Licenciatura em Matemática: Uma Proposta Sob a Ótica da Ecologia do Didático",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Cileda de Queiroz e Silva Coutinho",
+  "programa": "Educação Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "MATEMATICA, Formação de professores, Educação estatística, Letramento Estatístico, Livro didático",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22UM%20ESTUDO%20SOBRE%20A%20ABORDAGEM%20DOS%20CONTE%C3%9ADOS%20ESTAT%C3%8DSTICOS%20EM%20CURSOS%20DE%20LICENCIATURA%20EM%20MATEM%C3%81TICA%3A%20UMA%20PROPOSTA%20SOB%20A%20%C3%93TICA%20DA%20ECOLOGIA%20DO%20DID%C3%81TICO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UM%20ESTUDO%20SOBRE%20A%20ABORDAGEM%20DOS%20CONTE%C3%9ADOS%20ESTAT%C3%8DSTICOS%20EM%20CURSOS%20DE%20LICENCIATURA%20EM%20MATEM%C3%81TICA%3A%20UMA%20PROPOSTA%20SOB%20A%20%C3%93TICA%20DA%20ECOLOGIA%20DO%20DID%C3%81TICO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/12994650"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "12994650",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "MATEMATICA, Formação de professores, Educação estatística, Letramento Estatístico, Livro didático"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-12994650.svg",
+  "resumo": "Esta pesquisa teve por objetivo determinar as relações que podemos estabelecer entre o ensino de Estatística na Educação Básica e o Ensino de Estatística nos cursos de Licenciatura em Matemática, visando potencializar a formação de professores para o Letramento Estatístico. Utilizando como base teórica a Teoria Antropológica do Didático (TAD) e sua perspectiva Ecológica, formulamos, por hipótese, dois ecossistemas: o ecossistema do Ensino de Matemática na Educação Básica e o ecossistema do curso de Licenciatura em Matemática. Para verificar se esses ecossistemas potencializam o desenvolvimento do Letramento Estatístico, foram analisados os seguintes documentos: os PCN de terceiro e quarto ciclos do Ensino Fundamental (Matemática), os PCN do Ensino Médio (Ciências da Natureza, Matemática e suas Tecnologias), os PCN+ (Ciências da Natureza, Matemática e suas Tecnologias), as Orientações Curriculares para o Ensino Médio (Ciências da Natureza, Matemática e suas Tecnologias), as Diretrizes Curriculares Nacionais para os Cursos de Matemática, Bacharelado e Licenciatura (DCN-BL) e as Diretrizes Curriculares Nacionais para a Formação de Professores da Educação Básica, em Nível Superior, Curso de Licenciatura, de graduação plena (DCN-FP), bem como os seguintes exames de larga escala: SAEB, Prova Brasil, ENEM e ENADE e também duas coleções de livros didáticos aprovadas pelo PNLD e destinadas à Educação Básica. A partir das análises dos documentos, concluímos que nenhum desses ecossistemas potencializa o desenvolvimento do Letramento Estatístico. Não foram encontradas relações que possam ser estabelecidas entre o ensino de Estatística na Educação Básica e o Ensino de Estatística nos cursos de Licenciatura em Matemática visando aprimorar a formação de professores para o Letramento Estatístico",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
 }

@@ -1,63 +1,63 @@
 {
- "id": "capes-36239008",
- "autor": "Janete Fuechter",
- "ano": 2022,
- "tipo": "Dissertação",
- "titulo": "Uma Proposta de Sequência Didática para o Ensino de Estatística Articulada às Questões do Exame Nacional do Ensino Médio",
- "instituicao": "Universidade do Estado de Santa Catarina",
- "cidade": "",
- "estado": "Santa Catarina",
- "regiao": "Sul",
- "orientador": "Elisa Henning",
- "programa": "Ensino de Ciências, Matemática e Tecnologias",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Estatística; Educação Estatística; Ensino Médio; Exame Nacional do Ensino Médio",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22UMA%20PROPOSTA%20DE%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20ARTICULADA%20%C3%80S%20QUEST%C3%95ES%20DO%20EXAME%20NACIONAL%20DO%20ENSINO%20M%C3%89DIO%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UMA%20PROPOSTA%20DE%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20ARTICULADA%20%C3%80S%20QUEST%C3%95ES%20DO%20EXAME%20NACIONAL%20DO%20ENSINO%20M%C3%89DIO&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36239008"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "36239008",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Estatística",
-  "Educação Estatística",
-  "Ensino Médio",
-  "Exame Nacional do Ensino Médio"
- ],
- "thumbnail": "./assets/images/thumbs/capes-36239008.svg",
- "resumo": "As mudanças sociais e o acelerado desenvolvimento tecnológico e de inovação submetem a educação a reflexões acerca dos processos e resultados até então verificados. Nesse novo cenário, onde o número de informações cresce diariamente, percebe-se que entre as ciências, a Estatística vem se destacando e se tornando mais importante e fundamental. Verifica-se assim a importância de buscar alternativas que contribuam para o aprofundamento e para o desenvolvimento de habilidades necessárias para a formação básica dos estudantes e também requeridas em avaliações de larga escala - a nível de Brasil - realizadas por estudantes anualmente. A presente dissertação apresenta uma pesquisa realizada ao longo do curso de mestrado profissional do Programa de Pós-Graduação em Ensino de Ciências Matemática e Tecnologias, da Universidade do estado de Santa Catarina. Articulada com a linha de pesquisa Práticas Educativas e Processos de Aprendizagens no Ensino de Ciências, Matemática e Tecnologias, teve como principal objetivo investigar as contribuições pedagógicas da utilização de uma Sequência Didática articulada às questões do Exame Nacional do Ensino Médio para o desenvolvimento de competências e habilidades na etapa do Ensino Médio. Metodologicamente, a parte empírica da pesquisa incluiu uma abordagem quali-quantitativa, de natureza interventiva no modelo de Pesquisa Aplicação. Buscou-se, a partir da literatura, conhecer o atual cenário do ensino de Estatística, pautado nos documentos curriculares nacionais e, a partir de fontes teóricas, aprofundar os conhecimentos referentes à Educação Estatística. A pesquisa foi materializada como Produto Educacional e teve uma Sequência Didática como suporte das ações desenvolvidas, organizada em três fases. A Fase 1 orienta para a aplicação do pré-teste. A Fase 2 é constituída por etapas interventivas que contribuem para a compreensão, representação, análise e interpretação de tabelas, gráficos, das medidas de Tendência Central e das Medidas de dispersão, com e sem o auxílio de tecnologias educacionais. Por fim, a Fase 3 recomenda a aplicação do pós-teste. A aplicação e validação desse material ocorreu conforme os pressupostos da Engenharia Didática em uma turma de 3ª série do Ensino Médio da rede estadual de Santa Catarina composta por nove estudantes. Os resultados foram inerentes das observações das atividades realizadas pelos estudantes ao longo do processo e para a comparação dos resultados das fases a priori e a posteriori, além das observações, utilizou-se do teste de McNemar e do teste t pareado. Foram consideradas ainda as avaliações qualitativas realizadas pelos estudantes que compuseram a amostra da pesquisa e pelos professores de Matemática. Ambos os resultados, qualitativos e quantitativos, evidenciam que o Produto Educacional contribuiu positivamente para o ensino de Estatística no Ensino Médio. O Produto Educacional contribuiu para o desenvolvimento de competências e habilidades essenciais para a formação básica, também requeridas para a realização do ENEM e para o desenvolvimento das competências específicas da Educação Estatística. Somente a aplicação desse material não é suficiente para tornar os estudantes letrados estatisticamente, pois esse é um resultado que demanda de um processo gradativo, desenvolvido ao longo de toda a Educação Básica.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": [
-  "39079821"
- ]
+  "id": "capes-36239008",
+  "autor": "Janete Fuechter",
+  "ano": 2022,
+  "tipo": "Dissertação",
+  "titulo": "Uma Proposta de Sequência Didática para o Ensino de Estatística Articulada às Questões do Exame Nacional do Ensino Médio",
+  "instituicao": "Universidade do Estado de Santa Catarina",
+  "cidade": "",
+  "estado": "Santa Catarina",
+  "regiao": "Sul",
+  "orientador": "Elisa Henning",
+  "programa": "Ensino de Ciências, Matemática e Tecnologias",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Estatística; Educação Estatística; Ensino Médio; Exame Nacional do Ensino Médio",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22UMA%20PROPOSTA%20DE%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20ARTICULADA%20%C3%80S%20QUEST%C3%95ES%20DO%20EXAME%20NACIONAL%20DO%20ENSINO%20M%C3%89DIO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UMA%20PROPOSTA%20DE%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20ARTICULADA%20%C3%80S%20QUEST%C3%95ES%20DO%20EXAME%20NACIONAL%20DO%20ENSINO%20M%C3%89DIO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36239008"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "36239008",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Estatística",
+    "Educação Estatística",
+    "Ensino Médio",
+    "Exame Nacional do Ensino Médio"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-36239008.svg",
+  "resumo": "As mudanças sociais e o acelerado desenvolvimento tecnológico e de inovação submetem a educação a reflexões acerca dos processos e resultados até então verificados. Nesse novo cenário, onde o número de informações cresce diariamente, percebe-se que entre as ciências, a Estatística vem se destacando e se tornando mais importante e fundamental. Verifica-se assim a importância de buscar alternativas que contribuam para o aprofundamento e para o desenvolvimento de habilidades necessárias para a formação básica dos estudantes e também requeridas em avaliações de larga escala - a nível de Brasil - realizadas por estudantes anualmente. A presente dissertação apresenta uma pesquisa realizada ao longo do curso de mestrado profissional do Programa de Pós-Graduação em Ensino de Ciências Matemática e Tecnologias, da Universidade do estado de Santa Catarina. Articulada com a linha de pesquisa Práticas Educativas e Processos de Aprendizagens no Ensino de Ciências, Matemática e Tecnologias, teve como principal objetivo investigar as contribuições pedagógicas da utilização de uma Sequência Didática articulada às questões do Exame Nacional do Ensino Médio para o desenvolvimento de competências e habilidades na etapa do Ensino Médio. Metodologicamente, a parte empírica da pesquisa incluiu uma abordagem quali-quantitativa, de natureza interventiva no modelo de Pesquisa Aplicação. Buscou-se, a partir da literatura, conhecer o atual cenário do ensino de Estatística, pautado nos documentos curriculares nacionais e, a partir de fontes teóricas, aprofundar os conhecimentos referentes à Educação Estatística. A pesquisa foi materializada como Produto Educacional e teve uma Sequência Didática como suporte das ações desenvolvidas, organizada em três fases. A Fase 1 orienta para a aplicação do pré-teste. A Fase 2 é constituída por etapas interventivas que contribuem para a compreensão, representação, análise e interpretação de tabelas, gráficos, das medidas de Tendência Central e das Medidas de dispersão, com e sem o auxílio de tecnologias educacionais. Por fim, a Fase 3 recomenda a aplicação do pós-teste. A aplicação e validação desse material ocorreu conforme os pressupostos da Engenharia Didática em uma turma de 3ª série do Ensino Médio da rede estadual de Santa Catarina composta por nove estudantes. Os resultados foram inerentes das observações das atividades realizadas pelos estudantes ao longo do processo e para a comparação dos resultados das fases a priori e a posteriori, além das observações, utilizou-se do teste de McNemar e do teste t pareado. Foram consideradas ainda as avaliações qualitativas realizadas pelos estudantes que compuseram a amostra da pesquisa e pelos professores de Matemática. Ambos os resultados, qualitativos e quantitativos, evidenciam que o Produto Educacional contribuiu positivamente para o ensino de Estatística no Ensino Médio. O Produto Educacional contribuiu para o desenvolvimento de competências e habilidades essenciais para a formação básica, também requeridas para a realização do ENEM e para o desenvolvimento das competências específicas da Educação Estatística. Somente a aplicação desse material não é suficiente para tornar os estudantes letrados estatisticamente, pois esse é um resultado que demanda de um processo gradativo, desenvolvido ao longo de toda a Educação Básica.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": [
+    "39079821"
+  ]
 }

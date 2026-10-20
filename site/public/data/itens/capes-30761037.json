@@ -1,59 +1,59 @@
 {
- "id": "capes-30761037",
- "autor": "Indaclecio Paulo dos Santos",
- "ano": 2019,
- "tipo": "Dissertação",
- "titulo": "Ecologia de Aprendizagem sobre Probabilidade com Estudantes dos Anos Finais do Ensino Fundamental",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Jose Ivanildo Felisberto de Carvalho",
- "programa": "Educação em Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Probabilidade; Ensino e aprendizagem de probabilidade; Design experiments; Ecologia de eprendizagem.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22ECOLOGIA%20DE%20APRENDIZAGEM%20SOBRE%20PROBABILIDADE%20COM%20ESTUDANTES%20DOS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ECOLOGIA%20DE%20APRENDIZAGEM%20SOBRE%20PROBABILIDADE%20COM%20ESTUDANTES%20DOS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30761037"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "30761037",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Probabilidade",
-  "Ensino e aprendizagem de probabilidade",
-  "Design experiments",
-  "Ecologia de eprendizagem."
- ],
- "thumbnail": "./assets/images/thumbs/capes-30761037.svg",
- "resumo": "Este estudo tem como objetivo desenvolver e analisar uma sequência de atividades caracterizadas como ecologia de aprendizagem orientada para o ensino e aprendizagem de Probabilidade com estudantes dos 7º e 8º anos finais do Ensino Fundamental. Tal ecologia de aprendizagem faz parte do arcabouço teórico da teoria Design Experiments, sendo composta de uma sequência de atividades para o ensino e aprendizagem de Probabilidade. Foram selecionados 10 estudantes de uma escola pública do estado de Pernambuco matriculados nos referidos anos de escolarização. Metodologicamente, a pesquisa foi dividida em duas etapas (Piloto e Estudo Principal), realizadas por meio de três ciclos envolvendo os conceitos: aleatoriedade, espaço amostral e quantificação e comparação de probabilidades. A partir da análise e discussão dos resultados da implementação dos ciclos foi percebido que, concernente ao conhecimento, os estudantes apresentaram dificuldades em justificar as respostas e criar estratégias para mapear as combinações. Possibilitados pela vivência durante os ciclos, os estudantes apresentam ideias intuitivas, baseadas nas próprias experiências, utilizando estratégias que viabilizaram mapear as possibilidades, apresentando fortalecimento quanto aos argumentos coerentes em suas respostas, utilizando corretamente palavras de um vocabulário probabilístico. Diante desses resultados, acreditamos que esta ecologia de aprendizagem se mostrou uma importante ferramenta para o ensino de Probabilidade, visto que possibilitou o desenvolvimento do conhecimento probabilístico com relação aos conceitos mobilizados pelos ciclos, compreensão da natureza aleatória, raciocínio combinatório e das concepções frequentista e clássica.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "coleta expandida (plural/vocabulário)"
- ]
+  "id": "capes-30761037",
+  "autor": "Indaclecio Paulo dos Santos",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "Ecologia de Aprendizagem sobre Probabilidade com Estudantes dos Anos Finais do Ensino Fundamental",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Jose Ivanildo Felisberto de Carvalho",
+  "programa": "Educação em Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Probabilidade; Ensino e aprendizagem de probabilidade; Design experiments; Ecologia de eprendizagem.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ECOLOGIA%20DE%20APRENDIZAGEM%20SOBRE%20PROBABILIDADE%20COM%20ESTUDANTES%20DOS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ECOLOGIA%20DE%20APRENDIZAGEM%20SOBRE%20PROBABILIDADE%20COM%20ESTUDANTES%20DOS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30761037"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30761037",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Probabilidade",
+    "Ensino e aprendizagem de probabilidade",
+    "Design experiments",
+    "Ecologia de eprendizagem."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30761037.svg",
+  "resumo": "Este estudo tem como objetivo desenvolver e analisar uma sequência de atividades caracterizadas como ecologia de aprendizagem orientada para o ensino e aprendizagem de Probabilidade com estudantes dos 7º e 8º anos finais do Ensino Fundamental. Tal ecologia de aprendizagem faz parte do arcabouço teórico da teoria Design Experiments, sendo composta de uma sequência de atividades para o ensino e aprendizagem de Probabilidade. Foram selecionados 10 estudantes de uma escola pública do estado de Pernambuco matriculados nos referidos anos de escolarização. Metodologicamente, a pesquisa foi dividida em duas etapas (Piloto e Estudo Principal), realizadas por meio de três ciclos envolvendo os conceitos: aleatoriedade, espaço amostral e quantificação e comparação de probabilidades. A partir da análise e discussão dos resultados da implementação dos ciclos foi percebido que, concernente ao conhecimento, os estudantes apresentaram dificuldades em justificar as respostas e criar estratégias para mapear as combinações. Possibilitados pela vivência durante os ciclos, os estudantes apresentam ideias intuitivas, baseadas nas próprias experiências, utilizando estratégias que viabilizaram mapear as possibilidades, apresentando fortalecimento quanto aos argumentos coerentes em suas respostas, utilizando corretamente palavras de um vocabulário probabilístico. Diante desses resultados, acreditamos que esta ecologia de aprendizagem se mostrou uma importante ferramenta para o ensino de Probabilidade, visto que possibilitou o desenvolvimento do conhecimento probabilístico com relação aos conceitos mobilizados pelos ciclos, compreensão da natureza aleatória, raciocínio combinatório e das concepções frequentista e clássica.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
 }

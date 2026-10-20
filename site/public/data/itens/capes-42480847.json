@@ -1,61 +1,61 @@
 {
- "id": "capes-42480847",
- "autor": "Luciano Ferreira da Silva",
- "ano": 2024,
- "tipo": "Dissertação",
- "titulo": "Letramento Estatístico: uma análise sobre a variedade dos produtos da cesta básica",
- "instituicao": "Universidade Federal de São Carlos",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Paulo Cesar Oliveira",
- "programa": "Ensino de Ciências Exatas",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Letramento Estatístico; Projeto; Ciclo Investigativo; Estatística; Ensino Médio",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Letramento%20Estat%C3%ADstico%3A%20uma%20an%C3%A1lise%20sobre%20a%20variedade%20dos%20produtos%20da%20cesta%20b%C3%A1sica%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Letramento%20Estat%C3%ADstico%3A%20uma%20an%C3%A1lise%20sobre%20a%20variedade%20dos%20produtos%20da%20cesta%20b%C3%A1sica&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42480847"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "42480847",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Letramento Estatístico",
-  "Projeto",
-  "Ciclo Investigativo",
-  "Estatística",
-  "Ensino Médio"
- ],
- "thumbnail": "./assets/images/thumbs/capes-42480847.svg",
- "resumo": "O ensino de Estatística através de projetos tem se mostrado necessário mediante o grande número de informações disponíveis nos mais diversos meios de comunicação em nossa sociedade, exigindo de cada indivíduo constituinte desse meio conhecimentos que contribuam para uma interpretação correta acerca dessas. O suprimento dessa necessidade é caracterizado pelo desenvolvimento do Letramento Estatístico dos estudantes enquanto atuantes na Educação Básica. O papel do professor nesse processo torna-se preponderante. Neste trabalho, propomos a implementação de um projeto de pesquisa com o uso do ciclo investigativo na 3ª série do Ensino Médio analisando a variação dos preços de produtos da cesta básica em Sorocaba. Frente a este fato, o desenvolvimento do Letramento Estatístico, durante toda a Educação Básica, faz-se mais que necessário, pois, poderá contribuir na interpretação correta de informações. Este trabalho procurou usar os resultados obtidos pelos alunos da 3ª série do Ensino Médio sobre as variações ocorridas em produtos da cesta básica ao longo dos anos de 2020, 2021 e 2022, de que forma os conhecimentos em Estatística do grupo construídos ao longo de sua vida escolar e durante o desenvolvimento deste projeto contribuirão para pensar a Estatística enquanto conhecimento interdisciplinar.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "letramento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-42480847",
+  "autor": "Luciano Ferreira da Silva",
+  "ano": 2024,
+  "tipo": "Dissertação",
+  "titulo": "Letramento Estatístico: uma análise sobre a variedade dos produtos da cesta básica",
+  "instituicao": "Universidade Federal de São Carlos",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Paulo Cesar Oliveira",
+  "programa": "Ensino de Ciências Exatas",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Letramento Estatístico; Projeto; Ciclo Investigativo; Estatística; Ensino Médio",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Letramento%20Estat%C3%ADstico%3A%20uma%20an%C3%A1lise%20sobre%20a%20variedade%20dos%20produtos%20da%20cesta%20b%C3%A1sica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Letramento%20Estat%C3%ADstico%3A%20uma%20an%C3%A1lise%20sobre%20a%20variedade%20dos%20produtos%20da%20cesta%20b%C3%A1sica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42480847"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "42480847",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Letramento Estatístico",
+    "Projeto",
+    "Ciclo Investigativo",
+    "Estatística",
+    "Ensino Médio"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-42480847.svg",
+  "resumo": "O ensino de Estatística através de projetos tem se mostrado necessário mediante o grande número de informações disponíveis nos mais diversos meios de comunicação em nossa sociedade, exigindo de cada indivíduo constituinte desse meio conhecimentos que contribuam para uma interpretação correta acerca dessas. O suprimento dessa necessidade é caracterizado pelo desenvolvimento do Letramento Estatístico dos estudantes enquanto atuantes na Educação Básica. O papel do professor nesse processo torna-se preponderante. Neste trabalho, propomos a implementação de um projeto de pesquisa com o uso do ciclo investigativo na 3ª série do Ensino Médio analisando a variação dos preços de produtos da cesta básica em Sorocaba. Frente a este fato, o desenvolvimento do Letramento Estatístico, durante toda a Educação Básica, faz-se mais que necessário, pois, poderá contribuir na interpretação correta de informações. Este trabalho procurou usar os resultados obtidos pelos alunos da 3ª série do Ensino Médio sobre as variações ocorridas em produtos da cesta básica ao longo dos anos de 2020, 2021 e 2022, de que forma os conhecimentos em Estatística do grupo construídos ao longo de sua vida escolar e durante o desenvolvimento deste projeto contribuirão para pensar a Estatística enquanto conhecimento interdisciplinar.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
 }

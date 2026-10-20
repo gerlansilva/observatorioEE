@@ -1,60 +1,60 @@
 {
- "id": "capes-37629891",
- "autor": "Diego Bezerra de Melo Maciel",
- "ano": 2023,
- "tipo": "Tese",
- "titulo": "Tipologia das Condições de Letramento Estatístico dos Estudantes Brasileiros de Economia: O que Revela o Enade?",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Gilda Lisboa Guimaraes",
- "programa": "Educação Matemática e Tecnológica",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "educação estatística; ensino superior; grade of membership.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22TIPOLOGIA%20DAS%20CONDI%C3%87%C3%95ES%20DE%20LETRAMENTO%20ESTAT%C3%8DSTICO%20DOS%20ESTUDANTES%20BRASILEIROS%20DE%20ECONOMIA%3A%20O%20QUE%20REVELA%20O%20ENADE%3F%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=TIPOLOGIA%20DAS%20CONDI%C3%87%C3%95ES%20DE%20LETRAMENTO%20ESTAT%C3%8DSTICO%20DOS%20ESTUDANTES%20BRASILEIROS%20DE%20ECONOMIA%3A%20O%20QUE%20REVELA%20O%20ENADE%3F&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37629891"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "37629891",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "educação estatística",
-  "ensino superior",
-  "grade of membership."
- ],
- "thumbnail": "./assets/images/thumbs/capes-37629891.svg",
- "resumo": "Essa pesquisa teve como objetivo propor uma Tipologia para as Condições de Letramento Estatístico dos estudantes brasileiros de Economia. Para tanto, buscou- se: i) identificar se a perspectiva do Letramento Estatístico (LE) esteve presente nas questões que envolveram Estatística no Enade/2018 (Exame Nacional de Desempenho dos Estudantes); ii) analisar o desempenho discente nessas questões; e iii) apresentar explicações desse desempenho por meio de um conjunto de fatores associados às características sociodemográficas do estudante, sua situação acadêmica e o nível de percepção acerca da existência das práticas de LE no ambiente de ensino e sobre o próprio Enade. A análise evidenciou que as questões de Estatística demandaram habilidades de LE, valorizando uma postura crítica diante de informações, superando crenças pessoais para interpretar dados e dispensando o uso de fórmulas e cálculos matemáticos complexos. Além disso, o contexto das questões trouxe, na maior parte das vezes, situações de pesquisas socioeconômicas verídicas. Entretanto, o percentual médio de acerto dos estudantes foi baixo (49,13% em Análise Descritiva; 39,94% em Probabilidade e 33,03% em Inferência Estatística). A Tipologia das Condições de LE - obtida, via uso do método Grade of Membership – possibilitou a identificação de padrões caracterizadores dessas Condições de LE (Perfis Extremos), bem como estimativas dos graus de pertinência de cada estudante a tais padrões. A Tipologia revelou um complexo sistema de imbricamento entre os níveis de LE estabelecidos e as diversas características investigadas, com aspectos claramente hierárquicos em relação, principalmente, ao domínio Estatístico dos graduandos. Foram identificados três perfis extremos de Condições de LE: Condições Desfavoráveis ao LE; Condições Intermediárias para o LE; e Condições Propícias ao Letramento. O grupo de Condições Desfavoráveis (6%) esteve mais associado aos menores níveis de desempenho, faixas etárias mais avançadas, maior nível de fragilidade familiar e maiores percentuais dos matriculados em cursos EaD particulares. Grande parte desses estudantes sentiram-se desmotivados no momento do Enade e revelaram os maiores níveis de discordância sobre práticas de LE durante sua formação. Em situação oposta, os estudantes nas Condições Propícias (35,10%) exibiram maiores percentuais de acerto, aglutinando, com maior ênfase, indivíduos mais novos, com as melhores situações familiares e oriundos de faculdades privadas. Esses perceberam, plenamente, práticas de LE durante seu processo de aprendizagem. Nas Condições Intermediárias figurou a maior parte dos estudantes (55,70%). Esse grupo esteve mais propenso a exibir um desempenho intermediário no Enade, ser proveniente de universidades públicas, apresentar maiores níveis de desenvolvimento extracurricular e perceberem, razoavelmente, a presença de práticas de LE em sala de aula. A forma de abordagem do conteúdo chamou atenção como uma das principais causas de dificuldades apontadas pelos estudantes diante das questões do Enade. Por conta disso, inferiu-se que a maior parte dos graduandos parece ter experimentado uma aprendizagem que destoou das habilidades colocadas pelo LE e pautadas pelas DNC dos cursos. A forte associação entre maiores níveis de LE com graus mais elevados de percepção plena acerca das práticas de LE tornou a percepção discente como um fator relevante e inovador para explicar o desempenho estatístico dos graduandos de Economia, no Enade/2018. Isso torna, possivelmente, a Tipologia das Condições de LE como um importante instrumental teórico- metodológico para análise do desenvolvimento do LE no ensino superior.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "letramento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-37629891",
+  "autor": "Diego Bezerra de Melo Maciel",
+  "ano": 2023,
+  "tipo": "Tese",
+  "titulo": "Tipologia das Condições de Letramento Estatístico dos Estudantes Brasileiros de Economia: O que Revela o Enade?",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Gilda Lisboa Guimaraes",
+  "programa": "Educação Matemática e Tecnológica",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "educação estatística; ensino superior; grade of membership.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22TIPOLOGIA%20DAS%20CONDI%C3%87%C3%95ES%20DE%20LETRAMENTO%20ESTAT%C3%8DSTICO%20DOS%20ESTUDANTES%20BRASILEIROS%20DE%20ECONOMIA%3A%20O%20QUE%20REVELA%20O%20ENADE%3F%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=TIPOLOGIA%20DAS%20CONDI%C3%87%C3%95ES%20DE%20LETRAMENTO%20ESTAT%C3%8DSTICO%20DOS%20ESTUDANTES%20BRASILEIROS%20DE%20ECONOMIA%3A%20O%20QUE%20REVELA%20O%20ENADE%3F&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37629891"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37629891",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "educação estatística",
+    "ensino superior",
+    "grade of membership."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37629891.svg",
+  "resumo": "Essa pesquisa teve como objetivo propor uma Tipologia para as Condições de Letramento Estatístico dos estudantes brasileiros de Economia. Para tanto, buscou- se: i) identificar se a perspectiva do Letramento Estatístico (LE) esteve presente nas questões que envolveram Estatística no Enade/2018 (Exame Nacional de Desempenho dos Estudantes); ii) analisar o desempenho discente nessas questões; e iii) apresentar explicações desse desempenho por meio de um conjunto de fatores associados às características sociodemográficas do estudante, sua situação acadêmica e o nível de percepção acerca da existência das práticas de LE no ambiente de ensino e sobre o próprio Enade. A análise evidenciou que as questões de Estatística demandaram habilidades de LE, valorizando uma postura crítica diante de informações, superando crenças pessoais para interpretar dados e dispensando o uso de fórmulas e cálculos matemáticos complexos. Além disso, o contexto das questões trouxe, na maior parte das vezes, situações de pesquisas socioeconômicas verídicas. Entretanto, o percentual médio de acerto dos estudantes foi baixo (49,13% em Análise Descritiva; 39,94% em Probabilidade e 33,03% em Inferência Estatística). A Tipologia das Condições de LE - obtida, via uso do método Grade of Membership – possibilitou a identificação de padrões caracterizadores dessas Condições de LE (Perfis Extremos), bem como estimativas dos graus de pertinência de cada estudante a tais padrões. A Tipologia revelou um complexo sistema de imbricamento entre os níveis de LE estabelecidos e as diversas características investigadas, com aspectos claramente hierárquicos em relação, principalmente, ao domínio Estatístico dos graduandos. Foram identificados três perfis extremos de Condições de LE: Condições Desfavoráveis ao LE; Condições Intermediárias para o LE; e Condições Propícias ao Letramento. O grupo de Condições Desfavoráveis (6%) esteve mais associado aos menores níveis de desempenho, faixas etárias mais avançadas, maior nível de fragilidade familiar e maiores percentuais dos matriculados em cursos EaD particulares. Grande parte desses estudantes sentiram-se desmotivados no momento do Enade e revelaram os maiores níveis de discordância sobre práticas de LE durante sua formação. Em situação oposta, os estudantes nas Condições Propícias (35,10%) exibiram maiores percentuais de acerto, aglutinando, com maior ênfase, indivíduos mais novos, com as melhores situações familiares e oriundos de faculdades privadas. Esses perceberam, plenamente, práticas de LE durante seu processo de aprendizagem. Nas Condições Intermediárias figurou a maior parte dos estudantes (55,70%). Esse grupo esteve mais propenso a exibir um desempenho intermediário no Enade, ser proveniente de universidades públicas, apresentar maiores níveis de desenvolvimento extracurricular e perceberem, razoavelmente, a presença de práticas de LE em sala de aula. A forma de abordagem do conteúdo chamou atenção como uma das principais causas de dificuldades apontadas pelos estudantes diante das questões do Enade. Por conta disso, inferiu-se que a maior parte dos graduandos parece ter experimentado uma aprendizagem que destoou das habilidades colocadas pelo LE e pautadas pelas DNC dos cursos. A forte associação entre maiores níveis de LE com graus mais elevados de percepção plena acerca das práticas de LE tornou a percepção discente como um fator relevante e inovador para explicar o desempenho estatístico dos graduandos de Economia, no Enade/2018. Isso torna, possivelmente, a Tipologia das Condições de LE como um importante instrumental teórico- metodológico para análise do desenvolvimento do LE no ensino superior.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
 }

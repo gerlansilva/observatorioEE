@@ -1,62 +1,62 @@
 {
- "id": "capes-33096922",
- "autor": "Fernando Gabriel Souza da Silva",
- "ano": 2020,
- "tipo": "Dissertação",
- "titulo": "Ensino de Estatística na Educação Básica em Países da América Latina: Uma Revisão Sistemática",
- "instituicao": "Universidade Federal do Rio de Janeiro",
- "cidade": "",
- "estado": "Rio de Janeiro",
- "regiao": "Sudeste",
- "orientador": "Luciane de Souza Velasque",
- "programa": "Ensino de Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino de Estatística; Educação Estatística; Revisão de Literatura; Revisão Sistemática; Pesquisas sobre Ensino",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20DE%20ESTAT%C3%8DSTICA%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%20EM%20PA%C3%8DSES%20DA%20AM%C3%89RICA%20LATINA%3A%20UMA%20REVIS%C3%83O%20SISTEM%C3%81TICA%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20DE%20ESTAT%C3%8DSTICA%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%20EM%20PA%C3%8DSES%20DA%20AM%C3%89RICA%20LATINA%3A%20UMA%20REVIS%C3%83O%20SISTEM%C3%81TICA&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/33096922"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "33096922",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino de Estatística",
-  "Educação Estatística",
-  "Revisão de Literatura",
-  "Revisão Sistemática",
-  "Pesquisas sobre Ensino"
- ],
- "thumbnail": "./assets/images/thumbs/capes-33096922.svg",
- "resumo": "A presente investigação teve como objetivo identificar a produção artigos científicos na América Latina no campo de pesquisa em ensino de Estatística. Com o resultado desta revisão sistemática será possível planejar futuras pesquisas que contribuam para preencher as lacunas ainda existentes na área de ensino de Estatística. Para atingir esse objetivo foi escolhida uma metodologia para a realização da revisão de literatura: a revisão sistemática. Uma revisão sistemática é um método sistematizado para a realização da revisão, muito utilizada nas pesquisas da área da saúde. A escolha dessa metodologia seguiu devido aos seus fundamentos: (i) um conjunto claro de objetivos com uma metodologia reprodutível; (ii) uma pesquisa sistemática que tenta identificar todos os estudos que atingem o critério de elegibilidade; (iii) uma avaliação da qualidade das informações dos estudos incluídos; (iv) uma apresentação sistemática e síntese das características e descobertas dos estudos incluídos. Para a execução da metodologia foi necessário adaptá-la ao contexto da pesquisa na área da ensino/educação A partir da leitura dos textos encontrados na busca, foi feita uma síntese dos textos, explicitando suas características gerais e comparando diversos aspectos com síntese e técnicas de âmbito quantitativo, como contagem dos termos em comum e análises de distância e presença para categorizar e agrupá-los. Com os resultados, percebemos que os artigos têm pouca presença nas bases convencionais. No Google Scholar, foi possível observar um maior número de artigos disponíveis na área. Um total de 659 artigos retornaram das bases convencionais e 43 foram incluídos na revisão, após aplicação dos critérios de inclusão. De 970 artigos que retornaram do Google Scholar, 220 foram incluídos na revisão, após aplicação dos critérios de inclusão. Uma revisão sistemática de leituras dos artigos foi realizada por dois revisores independentes. Com os resultados, identificamos o Brasil como maior produtor de artigos na América Latina, englobando artigos sobre modelagem matemática usada no ensino básico, a formação de futuros professores, o uso de tecnologias digitais, a resolução de problemas pelos jogos e interpretação das medidas estatísticas, presença de conceitos como pensamento, letramento e raciocínio estatístico na maior parte desses. Foram pouco abordados temas, como educação especial e educação infantil e história da Estatística.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-33096922",
+  "autor": "Fernando Gabriel Souza da Silva",
+  "ano": 2020,
+  "tipo": "Dissertação",
+  "titulo": "Ensino de Estatística na Educação Básica em Países da América Latina: Uma Revisão Sistemática",
+  "instituicao": "Universidade Federal do Rio de Janeiro",
+  "cidade": "",
+  "estado": "Rio de Janeiro",
+  "regiao": "Sudeste",
+  "orientador": "Luciane de Souza Velasque",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Estatística; Educação Estatística; Revisão de Literatura; Revisão Sistemática; Pesquisas sobre Ensino",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20DE%20ESTAT%C3%8DSTICA%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%20EM%20PA%C3%8DSES%20DA%20AM%C3%89RICA%20LATINA%3A%20UMA%20REVIS%C3%83O%20SISTEM%C3%81TICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20DE%20ESTAT%C3%8DSTICA%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%20EM%20PA%C3%8DSES%20DA%20AM%C3%89RICA%20LATINA%3A%20UMA%20REVIS%C3%83O%20SISTEM%C3%81TICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/33096922"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "33096922",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Estatística",
+    "Educação Estatística",
+    "Revisão de Literatura",
+    "Revisão Sistemática",
+    "Pesquisas sobre Ensino"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-33096922.svg",
+  "resumo": "A presente investigação teve como objetivo identificar a produção artigos científicos na América Latina no campo de pesquisa em ensino de Estatística. Com o resultado desta revisão sistemática será possível planejar futuras pesquisas que contribuam para preencher as lacunas ainda existentes na área de ensino de Estatística. Para atingir esse objetivo foi escolhida uma metodologia para a realização da revisão de literatura: a revisão sistemática. Uma revisão sistemática é um método sistematizado para a realização da revisão, muito utilizada nas pesquisas da área da saúde. A escolha dessa metodologia seguiu devido aos seus fundamentos: (i) um conjunto claro de objetivos com uma metodologia reprodutível; (ii) uma pesquisa sistemática que tenta identificar todos os estudos que atingem o critério de elegibilidade; (iii) uma avaliação da qualidade das informações dos estudos incluídos; (iv) uma apresentação sistemática e síntese das características e descobertas dos estudos incluídos. Para a execução da metodologia foi necessário adaptá-la ao contexto da pesquisa na área da ensino/educação A partir da leitura dos textos encontrados na busca, foi feita uma síntese dos textos, explicitando suas características gerais e comparando diversos aspectos com síntese e técnicas de âmbito quantitativo, como contagem dos termos em comum e análises de distância e presença para categorizar e agrupá-los. Com os resultados, percebemos que os artigos têm pouca presença nas bases convencionais. No Google Scholar, foi possível observar um maior número de artigos disponíveis na área. Um total de 659 artigos retornaram das bases convencionais e 43 foram incluídos na revisão, após aplicação dos critérios de inclusão. De 970 artigos que retornaram do Google Scholar, 220 foram incluídos na revisão, após aplicação dos critérios de inclusão. Uma revisão sistemática de leituras dos artigos foi realizada por dois revisores independentes. Com os resultados, identificamos o Brasil como maior produtor de artigos na América Latina, englobando artigos sobre modelagem matemática usada no ensino básico, a formação de futuros professores, o uso de tecnologias digitais, a resolução de problemas pelos jogos e interpretação das medidas estatísticas, presença de conceitos como pensamento, letramento e raciocínio estatístico na maior parte desses. Foram pouco abordados temas, como educação especial e educação infantil e história da Estatística.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

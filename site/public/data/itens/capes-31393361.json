@@ -1,61 +1,61 @@
 {
- "id": "capes-31393361",
- "autor": "Andre Fellipe Queiroz Araujo",
- "ano": 2020,
- "tipo": "Dissertação",
- "titulo": "A inter-relação entre a estatística e a probabilidade: um estudo com professores de matemática do ensino médio sobre a curva normal",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Jose Ivanildo Felisberto de Carvalho",
- "programa": "Educação Matemática e Tecnológica",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Probabilidade-Curva Normal; Ensino Médio.; Estatística; Matemática-Docentes.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20inter-rela%C3%A7%C3%A3o%20entre%20a%20estat%C3%ADstica%20e%20a%20probabilidade%3A%20um%20estudo%20com%20professores%20de%20matem%C3%A1tica%20do%20ensino%20m%C3%A9dio%20sobre%20a%20curva%20normal%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20inter-rela%C3%A7%C3%A3o%20entre%20a%20estat%C3%ADstica%20e%20a%20probabilidade%3A%20um%20estudo%20com%20professores%20de%20matem%C3%A1tica%20do%20ensino%20m%C3%A9dio%20sobre%20a%20curva%20normal&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31393361"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "31393361",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Probabilidade-Curva Normal",
-  "Ensino Médio.",
-  "Estatística",
-  "Matemática-Docentes."
- ],
- "thumbnail": "./assets/images/thumbs/capes-31393361.svg",
- "resumo": "A presente pesquisa teve como objetivo investigar os conhecimentos didáticomatemáticos de professores de Matemática do Ensino Médio para abordagem da inter-relação entre a Estatística e a Probabilidade por meio da Curva Normal. Para isso, este estudo está fundamentado no modelo teórico de Conhecimentos e Competências Didático-Matemáticos do professor - CCDM, desenvolvido no âmbito da teoria do Enfoque Ontossemiótico do Conhecimento e da Instrução Matemática - EOS. Tal modelo contempla os conhecimentos e as competências relativos ao campo matemático e ao ensino da Matemática que devem fazer parte do domínio do professor de Matemática para que o mesmo possa exercer sua função docente de modo eficiente. Em termos metodológicos, a pesquisa possui um cunho qualitativo e teve o seu desenvolvimento pautado em duas etapas. Na primeira, realizamos uma análise, por meio de um estudo diagnóstico, dos conhecimentos didáticomatemáticos iniciais de professores de Matemática do Ensino Médio sobre a interrelação entre a Estatística e a Probabilidade por meio da Curva Normal. Os resultados dessa etapa indicaram que os professores apresentavam lacunas nos conhecimentos didático-matemáticos sobre o tema pautado. Com base nesse diagnóstico, realizamos a segunda etapa, na qual desenvolvemos uma proposta de ensino voltada para a abordagem articulada entre a Estatística e a Probabilidade por meio da Curva Normal, através de um encontro formativo. Esse encontro foi pautado na realização de uma sistematização teórica e de três atividades sobre o referido tema. A partir das análises de dados das discussões e das respostas das atividades realiza das nessa segunda etapa, concluímos que os professores conseguiram avançar na construção, ressignificação e ampliação de seus conhecimentos sobre a articulação entre a Estatística e a Probabilidade por meio da Curva Normal, tanto na perspectiva Matemática, envolvendo o conceito da Curva Normal, sua representação gráfica, os conceitos estatísticos e probabilísticos presentes nesse modelo, como também, na perspectiva didática, com a compreensão e domínio de aspectos e possibilidades didáticas para o ensino deste tema no Ensino Médio da escolarização básica.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística",
-  "ensino de probabilidade"
- ],
- "ids_duplicados": []
+  "id": "capes-31393361",
+  "autor": "Andre Fellipe Queiroz Araujo",
+  "ano": 2020,
+  "tipo": "Dissertação",
+  "titulo": "A inter-relação entre a estatística e a probabilidade: um estudo com professores de matemática do ensino médio sobre a curva normal",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Jose Ivanildo Felisberto de Carvalho",
+  "programa": "Educação Matemática e Tecnológica",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Probabilidade-Curva Normal; Ensino Médio.; Estatística; Matemática-Docentes.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20inter-rela%C3%A7%C3%A3o%20entre%20a%20estat%C3%ADstica%20e%20a%20probabilidade%3A%20um%20estudo%20com%20professores%20de%20matem%C3%A1tica%20do%20ensino%20m%C3%A9dio%20sobre%20a%20curva%20normal%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20inter-rela%C3%A7%C3%A3o%20entre%20a%20estat%C3%ADstica%20e%20a%20probabilidade%3A%20um%20estudo%20com%20professores%20de%20matem%C3%A1tica%20do%20ensino%20m%C3%A9dio%20sobre%20a%20curva%20normal&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31393361"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "31393361",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Probabilidade-Curva Normal",
+    "Ensino Médio.",
+    "Estatística",
+    "Matemática-Docentes."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-31393361.svg",
+  "resumo": "A presente pesquisa teve como objetivo investigar os conhecimentos didáticomatemáticos de professores de Matemática do Ensino Médio para abordagem da inter-relação entre a Estatística e a Probabilidade por meio da Curva Normal. Para isso, este estudo está fundamentado no modelo teórico de Conhecimentos e Competências Didático-Matemáticos do professor - CCDM, desenvolvido no âmbito da teoria do Enfoque Ontossemiótico do Conhecimento e da Instrução Matemática - EOS. Tal modelo contempla os conhecimentos e as competências relativos ao campo matemático e ao ensino da Matemática que devem fazer parte do domínio do professor de Matemática para que o mesmo possa exercer sua função docente de modo eficiente. Em termos metodológicos, a pesquisa possui um cunho qualitativo e teve o seu desenvolvimento pautado em duas etapas. Na primeira, realizamos uma análise, por meio de um estudo diagnóstico, dos conhecimentos didáticomatemáticos iniciais de professores de Matemática do Ensino Médio sobre a interrelação entre a Estatística e a Probabilidade por meio da Curva Normal. Os resultados dessa etapa indicaram que os professores apresentavam lacunas nos conhecimentos didático-matemáticos sobre o tema pautado. Com base nesse diagnóstico, realizamos a segunda etapa, na qual desenvolvemos uma proposta de ensino voltada para a abordagem articulada entre a Estatística e a Probabilidade por meio da Curva Normal, através de um encontro formativo. Esse encontro foi pautado na realização de uma sistematização teórica e de três atividades sobre o referido tema. A partir das análises de dados das discussões e das respostas das atividades realiza das nessa segunda etapa, concluímos que os professores conseguiram avançar na construção, ressignificação e ampliação de seus conhecimentos sobre a articulação entre a Estatística e a Probabilidade por meio da Curva Normal, tanto na perspectiva Matemática, envolvendo o conceito da Curva Normal, sua representação gráfica, os conceitos estatísticos e probabilísticos presentes nesse modelo, como também, na perspectiva didática, com a compreensão e domínio de aspectos e possibilidades didáticas para o ensino deste tema no Ensino Médio da escolarização básica.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística",
+    "ensino de probabilidade"
+  ],
+  "ids_duplicados": []
 }

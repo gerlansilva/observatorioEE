@@ -1,60 +1,60 @@
 {
- "id": "capes-35799255",
- "autor": "Rita de Cassia Batista da Silva",
- "ano": 2021,
- "tipo": "Tese",
- "titulo": "Justiça em Jogos: Compreensões de Estudantes (Crianças e Adultos) e Professores à Luz de Demandas Cognitivas da Probabilidade",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Rute Elizabete de Souza Rosa Borba",
- "programa": "Educação Matemática e Tecnológica",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Justiça em jogos; Aleatoriedade; Espaço amostral; Comparação de probabilidades; Adultos e Crianças.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22JUSTI%C3%87A%20EM%20JOGOS%3A%20COMPREENS%C3%95ES%20DE%20ESTUDANTES%20%28CRIAN%C3%87AS%20E%20ADULTOS%29%20E%20PROFESSORES%20%C3%80%20LUZ%20DE%20DEMANDAS%20COGNITIVAS%20DA%20PROBABILIDADE%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=JUSTI%C3%87A%20EM%20JOGOS%3A%20COMPREENS%C3%95ES%20DE%20ESTUDANTES%20%28CRIAN%C3%87AS%20E%20ADULTOS%29%20E%20PROFESSORES%20%C3%80%20LUZ%20DE%20DEMANDAS%20COGNITIVAS%20DA%20PROBABILIDADE&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35799255"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "35799255",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Justiça em jogos",
-  "Aleatoriedade",
-  "Espaço amostral",
-  "Comparação de probabilidades",
-  "Adultos e Crianças."
- ],
- "thumbnail": "./assets/images/thumbs/capes-35799255.svg",
- "resumo": "A presente pesquisa consubstanciou-se a partir de três estudos que se interconectaram entre si, objetivando analisar compreensões acerca de justiça em jogos à luz de demandas cognitivas da probabilidade concernentes à aleatoriedade, ao espaço amostral e à comparação de probabilidades. O Estudo 1 contou com a participação de 15 crianças do 5o ano e 15 estudantes da Educação de Jovens e Adultos (EJA); o Estudo 2 estabeleceu um paralelo entre 15 crianças portuguesas (5o ano) e as crianças brasileiras do Estudo 1; no Estudo 3 foram investigados 15 professores dos anos iniciais, sendo: cinco brasileiros e cinco portugueses do ensino regular e cinco brasileiros da EJA. Utilizou-se seis diferentes jogos, associados a elementos da probabilidade, por meio de entrevista clínica e questionário, analisados a partir de demandas cognitivas da probabilidade, de construtos do pensamento probabilístico e de níveis de crenças em jogos. Os participantes dos distintos estudos apresentaram similitudes em suas compreensões no que tange à justiça em jogos considerando as conexões estabelecidas com elementos da probabilidade, tanto em relação a concepções coerentes do ponto de vista formal, como também a equívocos conceituais. De modo geral, os participantes associaram jogo justo à equiprobabilidade com conexões com sorte, incerteza, regras, uso de artefatos iguais e equilíbrio. As crianças e adultos (Estudo 1) apresentaram aproximação de desempenho, o que indica que a maturidade e a experiência dos estudantes adultos parecem não influenciar as compreensões acerca de jogos justos imbricados nos conceitos probabilísticos explorados. As crianças do Estudo 2, apresentaram compreensões similares em relação à justiça em jogos, evocando conceitos intuitivos análogos, que possibilita inferir que as diferentes culturas dessas crianças parecem também não influir em suas concepções. Os estudantes, sejam adultos ou crianças, em sua maioria, apresentaram compreensões típicas dos níveis mais elementares dos construtos do pensamento probabilístico, que denota fragilidades conceituais em relação a conceitos probabilísticos. Como esses estudantes não tiveram acesso formal a conceitos referentes à probabilidade, reforça-se a convicção de que há elementos probabilísticos que são somente consolidados por meio do ensino. Os professores, apresentaram compreensões pariformes com equívocos e potencialidades observados nos distintos grupos do Estudo 3. Na pesquisa, de forma geral, constatou-se fragilidade de compreensão dos participantes dos três estudos em relação a sequências aleatórias pelo tênue entendimento de independência de eventos, bem como, incompreensões acerca do raciocínio proporcional para comparar eventos de espaços amostrais distintos e equívocos sobre o espaço amostral, que, por conseguinte, implicaram em análises equivocadas de jogos (in)justos. Sinteticamente, pode-se concluir que compreensões e incompreensões acerca de elementos probabilísticos que envolvem demandas cognitivas da probabilidade influenciaram a avaliação dos participantes ao considerar um jogo justo, ou não. Assim sendo, os equívocos e acertos apresentados para avaliar a justiça em jogos possuem relação com conhecimentos de natureza probabilísticas que necessitam ser ensinados nas escolas.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "coleta expandida (plural/vocabulário)"
- ]
+  "id": "capes-35799255",
+  "autor": "Rita de Cassia Batista da Silva",
+  "ano": 2021,
+  "tipo": "Tese",
+  "titulo": "Justiça em Jogos: Compreensões de Estudantes (Crianças e Adultos) e Professores à Luz de Demandas Cognitivas da Probabilidade",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Rute Elizabete de Souza Rosa Borba",
+  "programa": "Educação Matemática e Tecnológica",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Justiça em jogos; Aleatoriedade; Espaço amostral; Comparação de probabilidades; Adultos e Crianças.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22JUSTI%C3%87A%20EM%20JOGOS%3A%20COMPREENS%C3%95ES%20DE%20ESTUDANTES%20%28CRIAN%C3%87AS%20E%20ADULTOS%29%20E%20PROFESSORES%20%C3%80%20LUZ%20DE%20DEMANDAS%20COGNITIVAS%20DA%20PROBABILIDADE%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=JUSTI%C3%87A%20EM%20JOGOS%3A%20COMPREENS%C3%95ES%20DE%20ESTUDANTES%20%28CRIAN%C3%87AS%20E%20ADULTOS%29%20E%20PROFESSORES%20%C3%80%20LUZ%20DE%20DEMANDAS%20COGNITIVAS%20DA%20PROBABILIDADE&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35799255"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "35799255",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Justiça em jogos",
+    "Aleatoriedade",
+    "Espaço amostral",
+    "Comparação de probabilidades",
+    "Adultos e Crianças."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-35799255.svg",
+  "resumo": "A presente pesquisa consubstanciou-se a partir de três estudos que se interconectaram entre si, objetivando analisar compreensões acerca de justiça em jogos à luz de demandas cognitivas da probabilidade concernentes à aleatoriedade, ao espaço amostral e à comparação de probabilidades. O Estudo 1 contou com a participação de 15 crianças do 5o ano e 15 estudantes da Educação de Jovens e Adultos (EJA); o Estudo 2 estabeleceu um paralelo entre 15 crianças portuguesas (5o ano) e as crianças brasileiras do Estudo 1; no Estudo 3 foram investigados 15 professores dos anos iniciais, sendo: cinco brasileiros e cinco portugueses do ensino regular e cinco brasileiros da EJA. Utilizou-se seis diferentes jogos, associados a elementos da probabilidade, por meio de entrevista clínica e questionário, analisados a partir de demandas cognitivas da probabilidade, de construtos do pensamento probabilístico e de níveis de crenças em jogos. Os participantes dos distintos estudos apresentaram similitudes em suas compreensões no que tange à justiça em jogos considerando as conexões estabelecidas com elementos da probabilidade, tanto em relação a concepções coerentes do ponto de vista formal, como também a equívocos conceituais. De modo geral, os participantes associaram jogo justo à equiprobabilidade com conexões com sorte, incerteza, regras, uso de artefatos iguais e equilíbrio. As crianças e adultos (Estudo 1) apresentaram aproximação de desempenho, o que indica que a maturidade e a experiência dos estudantes adultos parecem não influenciar as compreensões acerca de jogos justos imbricados nos conceitos probabilísticos explorados. As crianças do Estudo 2, apresentaram compreensões similares em relação à justiça em jogos, evocando conceitos intuitivos análogos, que possibilita inferir que as diferentes culturas dessas crianças parecem também não influir em suas concepções. Os estudantes, sejam adultos ou crianças, em sua maioria, apresentaram compreensões típicas dos níveis mais elementares dos construtos do pensamento probabilístico, que denota fragilidades conceituais em relação a conceitos probabilísticos. Como esses estudantes não tiveram acesso formal a conceitos referentes à probabilidade, reforça-se a convicção de que há elementos probabilísticos que são somente consolidados por meio do ensino. Os professores, apresentaram compreensões pariformes com equívocos e potencialidades observados nos distintos grupos do Estudo 3. Na pesquisa, de forma geral, constatou-se fragilidade de compreensão dos participantes dos três estudos em relação a sequências aleatórias pelo tênue entendimento de independência de eventos, bem como, incompreensões acerca do raciocínio proporcional para comparar eventos de espaços amostrais distintos e equívocos sobre o espaço amostral, que, por conseguinte, implicaram em análises equivocadas de jogos (in)justos. Sinteticamente, pode-se concluir que compreensões e incompreensões acerca de elementos probabilísticos que envolvem demandas cognitivas da probabilidade influenciaram a avaliação dos participantes ao considerar um jogo justo, ou não. Assim sendo, os equívocos e acertos apresentados para avaliar a justiça em jogos possuem relação com conhecimentos de natureza probabilísticas que necessitam ser ensinados nas escolas.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
 }

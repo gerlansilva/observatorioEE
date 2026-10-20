@@ -1,57 +1,57 @@
 {
- "id": "capes-30883228",
- "autor": "Rogerio Campos",
- "ano": 2019,
- "tipo": "Dissertação",
- "titulo": "Modelo de tutoria baseado na identificação de estilos de aprendizagem dos estudantes: uma proposta para disciplina de Probabilidade e Estatística na Educação a Distância",
- "instituicao": "Universidade Cruzeiro do Sul",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Carlos Fernando de Araujo Junior",
- "programa": "Ensino de Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação a Distância - Estilos de aprendizagem - Modelo de Tutoria - Educação Estatística",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Modelo%20de%20tutoria%20baseado%20na%20identifica%C3%A7%C3%A3o%20de%20estilos%20de%20aprendizagem%20dos%20estudantes%3A%20uma%20proposta%20para%20disciplina%20de%20Probabilidade%20e%20Estat%C3%ADstica%20na%20Educa%C3%A7%C3%A3o%20a%20Dist%C3%A2ncia%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Modelo%20de%20tutoria%20baseado%20na%20identifica%C3%A7%C3%A3o%20de%20estilos%20de%20aprendizagem%20dos%20estudantes%3A%20uma%20proposta%20para%20disciplina%20de%20Probabilidade%20e%20Estat%C3%ADstica%20na%20Educa%C3%A7%C3%A3o%20a%20Dist%C3%A2ncia&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30883228"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "30883228",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação a Distância - Estilos de aprendizagem - Modelo de Tutoria - Educação Estatística"
- ],
- "thumbnail": "./assets/images/thumbs/capes-30883228.svg",
- "resumo": "A Educação a Distância é uma realidade para muitos alunos; seja graduação, pós-graduação lato sensu e até mesmo programas de mestrado e doutorado, e os mecanismos tecnológicos também podem contribuir para o processo de ensino e aprendizagem a distância. Para tanto, conhecer o aluno e como ele aprende torna-se essencial para definir qual o estilo de aprendizagem mais adequado para a modalidade a distância e, assim, desenvolver metodologias de ensino que favoreçam experiências de conhecimento. A pesquisa que ora se apresenta tem base na teoria nos estilos de aprendizagem de Honey e Mumford (2000) e o questionário de Honey e Alonso (1999), que conceitualmente falando, as pessoas têm preferências quanto à forma de se apropriarem das informações, processá-las e depois, construírem novos conhecimentos. O objetivo central desta pesquisa é propor um modelo de tutoria que poderá contribuir para a personalização de materiais complementares e técnicas de tutoria de acordo com o estilo de aprendizagem dos alunos da Educação a Distância. Para tal, utilizou-se a metodologia de Design Research, com 86 alunos da disciplina de Probabilidade e Estatística de uma Universidade da rede privada da Cidade de São Paulo, do curso de Administração na EaD. A pesquisa revelou que a personalização de materiais complementares e atividades/avaliação relacionadas ao estilo de aprendizagem dos alunos, os motivou e melhorou o aprendizado, promovendo uma experiência educacional mais interessante e personalizada e consequentemente uma tutoria mais envolvente. Compreender os estilos de aprendizagem, no contexto educacional da educação a distância, permite aos professores e tutores, identificar características predominantes que podem facilitar a elaboração de materiais complementares, técnicas de ensino e também, avaliação final de uma disciplina.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-30883228",
+  "autor": "Rogerio Campos",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "Modelo de tutoria baseado na identificação de estilos de aprendizagem dos estudantes: uma proposta para disciplina de Probabilidade e Estatística na Educação a Distância",
+  "instituicao": "Universidade Cruzeiro do Sul",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Carlos Fernando de Araujo Junior",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação a Distância - Estilos de aprendizagem - Modelo de Tutoria - Educação Estatística",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Modelo%20de%20tutoria%20baseado%20na%20identifica%C3%A7%C3%A3o%20de%20estilos%20de%20aprendizagem%20dos%20estudantes%3A%20uma%20proposta%20para%20disciplina%20de%20Probabilidade%20e%20Estat%C3%ADstica%20na%20Educa%C3%A7%C3%A3o%20a%20Dist%C3%A2ncia%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Modelo%20de%20tutoria%20baseado%20na%20identifica%C3%A7%C3%A3o%20de%20estilos%20de%20aprendizagem%20dos%20estudantes%3A%20uma%20proposta%20para%20disciplina%20de%20Probabilidade%20e%20Estat%C3%ADstica%20na%20Educa%C3%A7%C3%A3o%20a%20Dist%C3%A2ncia&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30883228"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30883228",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação a Distância - Estilos de aprendizagem - Modelo de Tutoria - Educação Estatística"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30883228.svg",
+  "resumo": "A Educação a Distância é uma realidade para muitos alunos; seja graduação, pós-graduação lato sensu e até mesmo programas de mestrado e doutorado, e os mecanismos tecnológicos também podem contribuir para o processo de ensino e aprendizagem a distância. Para tanto, conhecer o aluno e como ele aprende torna-se essencial para definir qual o estilo de aprendizagem mais adequado para a modalidade a distância e, assim, desenvolver metodologias de ensino que favoreçam experiências de conhecimento. A pesquisa que ora se apresenta tem base na teoria nos estilos de aprendizagem de Honey e Mumford (2000) e o questionário de Honey e Alonso (1999), que conceitualmente falando, as pessoas têm preferências quanto à forma de se apropriarem das informações, processá-las e depois, construírem novos conhecimentos. O objetivo central desta pesquisa é propor um modelo de tutoria que poderá contribuir para a personalização de materiais complementares e técnicas de tutoria de acordo com o estilo de aprendizagem dos alunos da Educação a Distância. Para tal, utilizou-se a metodologia de Design Research, com 86 alunos da disciplina de Probabilidade e Estatística de uma Universidade da rede privada da Cidade de São Paulo, do curso de Administração na EaD. A pesquisa revelou que a personalização de materiais complementares e atividades/avaliação relacionadas ao estilo de aprendizagem dos alunos, os motivou e melhorou o aprendizado, promovendo uma experiência educacional mais interessante e personalizada e consequentemente uma tutoria mais envolvente. Compreender os estilos de aprendizagem, no contexto educacional da educação a distância, permite aos professores e tutores, identificar características predominantes que podem facilitar a elaboração de materiais complementares, técnicas de ensino e também, avaliação final de uma disciplina.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

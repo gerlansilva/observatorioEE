@@ -1,60 +1,60 @@
 {
- "id": "capes-30147643",
- "autor": "Jorge de Lima Assis",
- "ano": 2018,
- "tipo": "Dissertação",
- "titulo": "Ensino de Probabilidade: Análise de uma Proposta para os Anos Finais do Ensino Fundamental",
- "instituicao": "Universidade Estadual da Paraiba",
- "cidade": "",
- "estado": "Paraíba",
- "regiao": "Nordeste",
- "orientador": "Rogeria Gaudencio do Rego",
- "programa": "Ensino de Ciências e Educação Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino de Probabilidade; Pensamento probabilístico; Matemática no Ensino Fundamental.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20DE%20PROBABILIDADE%3A%20AN%C3%81LISE%20DE%20UMA%20PROPOSTA%20PARA%20OS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20DE%20PROBABILIDADE%3A%20AN%C3%81LISE%20DE%20UMA%20PROPOSTA%20PARA%20OS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30147643"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "30147643",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino de Probabilidade",
-  "Pensamento probabilístico",
-  "Matemática no Ensino Fundamental."
- ],
- "thumbnail": "./assets/images/thumbs/capes-30147643.svg",
- "resumo": "A presente pesquisa insere-se em uma perspectiva qualitativa, de natureza bibliográfica, tendo como recorte o ensino de Probabilidade nos quatro anos finais do Ensino Fundamental. Foi desenvolvido em uma visão analítica e crítica, tendo como objetivo geral analisar uma proposta de ensino de elementos da Teoria das Probabilidades, considerando os diferentes modelos teóricos a ela vinculados, em trabalhos de pesquisadores que tratam do tema, bem como as recomendações presentes em documentos oficiais, relativas ao conteúdo destacado, como os Parâmetros Curriculares Nacionais e a Base Nacional Comum Curricular. Com base na análise dos quatro livros da coleção, ressaltamos, como aspectos negativos da proposta sob análise a pouca proposição de atividades experimentais; ausência de explicações de elementos básicos da teoria; pouca variedade de contextos exploratórios do conteúdo, com prevalência do uso de dados, moedas, baralho e urnas com bolas; e predominância do significado Clássico de Probabilidade, na maioria das atividades propostas. Destacamos como sendo um aspecto positivo o fato de a coleção de livros didáticos de Matemática por nós analisada abordar o conteúdo de Probabilidade em todos os volumes direcionados aos quatros anos finais do Ensino Fundamental (6º ao 9º Anos). Com base nos resultados de nossa análise elaboramos recomendações gerais que entendemos auxiliarem o ensino de elementos da Teoria das Probabilidades nos quatro anos finais do Ensino Fundamental, independentemente da coleção de Matemática que seja adotada na escola.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "pensamento probabilístico",
-  "ensino de probabilidade"
- ],
- "ids_duplicados": []
+  "id": "capes-30147643",
+  "autor": "Jorge de Lima Assis",
+  "ano": 2018,
+  "tipo": "Dissertação",
+  "titulo": "Ensino de Probabilidade: Análise de uma Proposta para os Anos Finais do Ensino Fundamental",
+  "instituicao": "Universidade Estadual da Paraiba",
+  "cidade": "",
+  "estado": "Paraíba",
+  "regiao": "Nordeste",
+  "orientador": "Rogeria Gaudencio do Rego",
+  "programa": "Ensino de Ciências e Educação Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Probabilidade; Pensamento probabilístico; Matemática no Ensino Fundamental.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20DE%20PROBABILIDADE%3A%20AN%C3%81LISE%20DE%20UMA%20PROPOSTA%20PARA%20OS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20DE%20PROBABILIDADE%3A%20AN%C3%81LISE%20DE%20UMA%20PROPOSTA%20PARA%20OS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30147643"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30147643",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Probabilidade",
+    "Pensamento probabilístico",
+    "Matemática no Ensino Fundamental."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30147643.svg",
+  "resumo": "A presente pesquisa insere-se em uma perspectiva qualitativa, de natureza bibliográfica, tendo como recorte o ensino de Probabilidade nos quatro anos finais do Ensino Fundamental. Foi desenvolvido em uma visão analítica e crítica, tendo como objetivo geral analisar uma proposta de ensino de elementos da Teoria das Probabilidades, considerando os diferentes modelos teóricos a ela vinculados, em trabalhos de pesquisadores que tratam do tema, bem como as recomendações presentes em documentos oficiais, relativas ao conteúdo destacado, como os Parâmetros Curriculares Nacionais e a Base Nacional Comum Curricular. Com base na análise dos quatro livros da coleção, ressaltamos, como aspectos negativos da proposta sob análise a pouca proposição de atividades experimentais; ausência de explicações de elementos básicos da teoria; pouca variedade de contextos exploratórios do conteúdo, com prevalência do uso de dados, moedas, baralho e urnas com bolas; e predominância do significado Clássico de Probabilidade, na maioria das atividades propostas. Destacamos como sendo um aspecto positivo o fato de a coleção de livros didáticos de Matemática por nós analisada abordar o conteúdo de Probabilidade em todos os volumes direcionados aos quatros anos finais do Ensino Fundamental (6º ao 9º Anos). Com base nos resultados de nossa análise elaboramos recomendações gerais que entendemos auxiliarem o ensino de elementos da Teoria das Probabilidades nos quatro anos finais do Ensino Fundamental, independentemente da coleção de Matemática que seja adotada na escola.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "pensamento probabilístico",
+    "ensino de probabilidade"
+  ],
+  "ids_duplicados": []
 }

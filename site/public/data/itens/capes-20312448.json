@@ -1,59 +1,59 @@
 {
- "id": "capes-20312448",
- "autor": "Gleidson de Oliveira Souza",
- "ano": 2015,
- "tipo": "Dissertação",
- "titulo": "Explorações de Estudantes do 9º Ano sobre o Conceito de Probabilidade com o Software Tinkerplots 2.0 Recife",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Liliane Maria Teixeira Lima de Carvalho",
- "programa": "Educação Matemática e Tecnológica",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Probabilidade; Experimento Aleatório; Software TinkerPlots; Ferramenta Sampler.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22EXPLORA%C3%87%C3%95ES%20DE%20ESTUDANTES%20DO%209%C2%BA%20ANO%20SOBRE%20O%20CONCEITO%20DE%20PROBABILIDADE%20COM%20O%20SOFTWARE%20TINKERPLOTS%202.0%20RECIFE%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=EXPLORA%C3%87%C3%95ES%20DE%20ESTUDANTES%20DO%209%C2%BA%20ANO%20SOBRE%20O%20CONCEITO%20DE%20PROBABILIDADE%20COM%20O%20SOFTWARE%20TINKERPLOTS%202.0%20RECIFE&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20312448"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "20312448",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Probabilidade",
-  "Experimento Aleatório",
-  "Software TinkerPlots",
-  "Ferramenta Sampler."
- ],
- "thumbnail": "./assets/images/thumbs/capes-20312448.svg",
- "resumo": "A probabilidade é um importante conteúdo e possui aplicações em outras áreas do conhecimento. Pesquisadores destacam a importância de conteúdos de probabilidade por possibilitar o desenvolvimento da criticidade e leitura de mundo pelos educandos, contudo realçam a escassez de estudos na área. Nesta pesquisa investigamos conhecimentos de estudantes do 9º ano do Ensino Fundamental sobre probabilidade com o uso da ferramenta Sampler do TinkerPlots 2.0. Buscou-se em específico, identificar conhecimentos prévios dos estudantes sobre probabilidade; descrever conhecimentos dos estudantes sobre probabilidade a partir de experimento aleatório não realizado e realizado no ambiente físico; e explorar a ferramenta Sampler do TinkerPlots para mobilizar conhecimentos dos estudantes sobre probabilidade. Quatro estudantes do 9º ano oriundos de uma escola pública do Recife participaram de quatro etapas de coleta de dados: 1) entrevista semi-estruturada com ênfase na investigação do perfil dos estudantes; 2) teste diagnóstico com questões sobre concepções e sobre experimento aleatório não realizado e realizado no ambiente físico. Nessas etapas iniciais os estudantes trabalharam individualmente. Em seguida, eles realizaram em duplas uma fase final do experimento realizado no ambiente físico; 3) na terceira etapa, subdividida em dois momentos, os estudantes em duplas, participaram de uma sessão de familiarização com o TinkerPlots para conhecer sua interface e ferramentas. Após esse contato inicial com o software eles participaram de uma sessão com o uso mais autônomo da ferramenta Sampler. Todo o processo ocorreu em dias alternados; 4) ao final da atividade de simulação com o Sampler, os estudantes realizaram novamente o teste diagnóstico administrado inicialmente, na segunda etapa, seguindo os mesmos procedimentos. Existem evidências de que as concepções iniciais dos estudantes estiveram mais voltadas para conhecimentos intuitivos sobre probabilidade. Ao longo das situações de pesquisa, mais particularmente no teste final, essas concepções foram ampliadas para incluir ideias de aleatoriedade, incerteza e chance. Seus conhecimentos sobre espaço amostral também foram se tornando mais explícitos a partir de suas reflexões sobre os experimentos aleatórios. O trabalho com a ferramenta Sampler do TinkerPlots permitiu que os estudantes realizassem simulações com tamanhos crescentes de amostras e verificassem as alterações nas representações gráficas produzidas. Esse processo foi realizado de forma dinâmica e mediado por diálogos e intervenções específicas do pesquisador. O TinkerPlots, por possibilitar a simulação de experimentos com tamanhos de amostras variadas pode ter contribuído para os estudantes refletirem melhor sobre a relação entre probabilidade teórica e probabilidade advinda da experimentação. Conclui-se que embora os estudantes não possuam conhecimentos formalizados sobre probabilidade, eles foram capazes de aprofundar suas ideias iniciais sobre aspectos cruciais desse conceito como é o caso de espaço amostral e da relação sobre probabilidade teórica e frequencial. Novas pesquisas devem ser feitas para investigar outras possibilidades do uso do software TinkerPlots para mobilizarem conhecimentos sobre probabilidades.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "coleta expandida (plural/vocabulário)"
- ]
+  "id": "capes-20312448",
+  "autor": "Gleidson de Oliveira Souza",
+  "ano": 2015,
+  "tipo": "Dissertação",
+  "titulo": "Explorações de Estudantes do 9º Ano sobre o Conceito de Probabilidade com o Software Tinkerplots 2.0 Recife",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Liliane Maria Teixeira Lima de Carvalho",
+  "programa": "Educação Matemática e Tecnológica",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Probabilidade; Experimento Aleatório; Software TinkerPlots; Ferramenta Sampler.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22EXPLORA%C3%87%C3%95ES%20DE%20ESTUDANTES%20DO%209%C2%BA%20ANO%20SOBRE%20O%20CONCEITO%20DE%20PROBABILIDADE%20COM%20O%20SOFTWARE%20TINKERPLOTS%202.0%20RECIFE%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=EXPLORA%C3%87%C3%95ES%20DE%20ESTUDANTES%20DO%209%C2%BA%20ANO%20SOBRE%20O%20CONCEITO%20DE%20PROBABILIDADE%20COM%20O%20SOFTWARE%20TINKERPLOTS%202.0%20RECIFE&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20312448"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "20312448",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Probabilidade",
+    "Experimento Aleatório",
+    "Software TinkerPlots",
+    "Ferramenta Sampler."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-20312448.svg",
+  "resumo": "A probabilidade é um importante conteúdo e possui aplicações em outras áreas do conhecimento. Pesquisadores destacam a importância de conteúdos de probabilidade por possibilitar o desenvolvimento da criticidade e leitura de mundo pelos educandos, contudo realçam a escassez de estudos na área. Nesta pesquisa investigamos conhecimentos de estudantes do 9º ano do Ensino Fundamental sobre probabilidade com o uso da ferramenta Sampler do TinkerPlots 2.0. Buscou-se em específico, identificar conhecimentos prévios dos estudantes sobre probabilidade; descrever conhecimentos dos estudantes sobre probabilidade a partir de experimento aleatório não realizado e realizado no ambiente físico; e explorar a ferramenta Sampler do TinkerPlots para mobilizar conhecimentos dos estudantes sobre probabilidade. Quatro estudantes do 9º ano oriundos de uma escola pública do Recife participaram de quatro etapas de coleta de dados: 1) entrevista semi-estruturada com ênfase na investigação do perfil dos estudantes; 2) teste diagnóstico com questões sobre concepções e sobre experimento aleatório não realizado e realizado no ambiente físico. Nessas etapas iniciais os estudantes trabalharam individualmente. Em seguida, eles realizaram em duplas uma fase final do experimento realizado no ambiente físico; 3) na terceira etapa, subdividida em dois momentos, os estudantes em duplas, participaram de uma sessão de familiarização com o TinkerPlots para conhecer sua interface e ferramentas. Após esse contato inicial com o software eles participaram de uma sessão com o uso mais autônomo da ferramenta Sampler. Todo o processo ocorreu em dias alternados; 4) ao final da atividade de simulação com o Sampler, os estudantes realizaram novamente o teste diagnóstico administrado inicialmente, na segunda etapa, seguindo os mesmos procedimentos. Existem evidências de que as concepções iniciais dos estudantes estiveram mais voltadas para conhecimentos intuitivos sobre probabilidade. Ao longo das situações de pesquisa, mais particularmente no teste final, essas concepções foram ampliadas para incluir ideias de aleatoriedade, incerteza e chance. Seus conhecimentos sobre espaço amostral também foram se tornando mais explícitos a partir de suas reflexões sobre os experimentos aleatórios. O trabalho com a ferramenta Sampler do TinkerPlots permitiu que os estudantes realizassem simulações com tamanhos crescentes de amostras e verificassem as alterações nas representações gráficas produzidas. Esse processo foi realizado de forma dinâmica e mediado por diálogos e intervenções específicas do pesquisador. O TinkerPlots, por possibilitar a simulação de experimentos com tamanhos de amostras variadas pode ter contribuído para os estudantes refletirem melhor sobre a relação entre probabilidade teórica e probabilidade advinda da experimentação. Conclui-se que embora os estudantes não possuam conhecimentos formalizados sobre probabilidade, eles foram capazes de aprofundar suas ideias iniciais sobre aspectos cruciais desse conceito como é o caso de espaço amostral e da relação sobre probabilidade teórica e frequencial. Novas pesquisas devem ser feitas para investigar outras possibilidades do uso do software TinkerPlots para mobilizarem conhecimentos sobre probabilidades.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
 }

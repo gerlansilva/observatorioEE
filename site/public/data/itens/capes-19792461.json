@@ -1,58 +1,58 @@
 {
- "id": "capes-19792461",
- "autor": "Elizabeth Soares",
- "ano": 2014,
- "tipo": "Tese",
- "titulo": "Uma análise sobre as atividades de probabilidade propostas nos livros didáticos de Matemática dos anos finais do Ensino Fundamental",
- "instituicao": "Universidade Cruzeiro do Sul",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Celi Aparecida Espasandin Lopes",
- "programa": "Ensino de Ciências",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Probabilidade clássica, Probabilidade frequentista, Aleatoriedade, Educação estatística, Livro didático, PNLD, PCN.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Uma%20an%C3%A1lise%20sobre%20as%20atividades%20de%20probabilidade%20propostas%20nos%20livros%20did%C3%A1ticos%20de%20Matem%C3%A1tica%20dos%20anos%20finais%20do%20Ensino%20Fundamental%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma%20an%C3%A1lise%20sobre%20as%20atividades%20de%20probabilidade%20propostas%20nos%20livros%20did%C3%A1ticos%20de%20Matem%C3%A1tica%20dos%20anos%20finais%20do%20Ensino%20Fundamental&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19792461"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "19792461",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Probabilidade clássica, Probabilidade frequentista, Aleatoriedade, Educação estatística, Livro didático, PNLD, PCN."
- ],
- "thumbnail": "./assets/images/thumbs/capes-19792461.svg",
- "resumo": "Esta pesquisa teve por objetivo analisar como o tema ‘probabilidade’ tem sido abordado em coleções didáticas brasileiras aprovadas no Programa Nacional do Livro Didático de 2014 (PNLD 2014) e que haviam sido mais adotadas dentre as aprovadas no PNLD 2011. Buscou-se responder à questão: Que indícios teóricos e metodológicos emergem de um processo analítico sobre o ensino de probabilidade, expressos em alguns livros didáticos? Para tanto, procedeu-se a uma pesquisa bibliográfica e documental, adotando a análise de conteúdo como técnica para o processo analítico. Na pré-análise, selecionamos as coleções do PNLD 2014 e na exploração dos materiais selecionamos as seguintes categorias: presença de concepção de probabilidade clássica, presença de concepção de probabilidade frequentista e presença de discussão sobre aleatoriedade. A fim de proporcionar um contraste necessário para ampliar nosso olhar sobre o ensino de probabilidade expresso em livros didáticos nacionais, elegemos uma coleção didática voltada a outro contexto educacional, a qual resultou de um projeto de pesquisa que envolveu professores e pesquisadores de diferentes regiões dos Estados Unidos. No referencial teórico de análise, destacam-se estudos de Azcárate, Batanero, Cardeñoso, Coutinho e Lopes. Concluiu-se que as coleções nacionais analisadas não exploram satisfatoriamente a concepção frequentista de probabilidade e não priorizam a discussão sobre a questão da aleatoriedade. Utilizam a concepção clássica para apresentar a probabilidade como uma razão e exploram o fato de que se trata de uma probabilidade teórica. Pouco apresentam atividades de investigação ou de resolução de problemas multidisciplinares que subsidiem o estudante a melhor compreender sua realidade e familiarizar-se com modos de lidar com a aleatoriedade.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de probabilidade"
- ],
- "ids_duplicados": []
+  "id": "capes-19792461",
+  "autor": "Elizabeth Soares",
+  "ano": 2014,
+  "tipo": "Tese",
+  "titulo": "Uma análise sobre as atividades de probabilidade propostas nos livros didáticos de Matemática dos anos finais do Ensino Fundamental",
+  "instituicao": "Universidade Cruzeiro do Sul",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Celi Aparecida Espasandin Lopes",
+  "programa": "Ensino de Ciências",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Probabilidade clássica, Probabilidade frequentista, Aleatoriedade, Educação estatística, Livro didático, PNLD, PCN.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Uma%20an%C3%A1lise%20sobre%20as%20atividades%20de%20probabilidade%20propostas%20nos%20livros%20did%C3%A1ticos%20de%20Matem%C3%A1tica%20dos%20anos%20finais%20do%20Ensino%20Fundamental%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma%20an%C3%A1lise%20sobre%20as%20atividades%20de%20probabilidade%20propostas%20nos%20livros%20did%C3%A1ticos%20de%20Matem%C3%A1tica%20dos%20anos%20finais%20do%20Ensino%20Fundamental&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19792461"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "19792461",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Probabilidade clássica, Probabilidade frequentista, Aleatoriedade, Educação estatística, Livro didático, PNLD, PCN."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-19792461.svg",
+  "resumo": "Esta pesquisa teve por objetivo analisar como o tema ‘probabilidade’ tem sido abordado em coleções didáticas brasileiras aprovadas no Programa Nacional do Livro Didático de 2014 (PNLD 2014) e que haviam sido mais adotadas dentre as aprovadas no PNLD 2011. Buscou-se responder à questão: Que indícios teóricos e metodológicos emergem de um processo analítico sobre o ensino de probabilidade, expressos em alguns livros didáticos? Para tanto, procedeu-se a uma pesquisa bibliográfica e documental, adotando a análise de conteúdo como técnica para o processo analítico. Na pré-análise, selecionamos as coleções do PNLD 2014 e na exploração dos materiais selecionamos as seguintes categorias: presença de concepção de probabilidade clássica, presença de concepção de probabilidade frequentista e presença de discussão sobre aleatoriedade. A fim de proporcionar um contraste necessário para ampliar nosso olhar sobre o ensino de probabilidade expresso em livros didáticos nacionais, elegemos uma coleção didática voltada a outro contexto educacional, a qual resultou de um projeto de pesquisa que envolveu professores e pesquisadores de diferentes regiões dos Estados Unidos. No referencial teórico de análise, destacam-se estudos de Azcárate, Batanero, Cardeñoso, Coutinho e Lopes. Concluiu-se que as coleções nacionais analisadas não exploram satisfatoriamente a concepção frequentista de probabilidade e não priorizam a discussão sobre a questão da aleatoriedade. Utilizam a concepção clássica para apresentar a probabilidade como uma razão e exploram o fato de que se trata de uma probabilidade teórica. Pouco apresentam atividades de investigação ou de resolução de problemas multidisciplinares que subsidiem o estudante a melhor compreender sua realidade e familiarizar-se com modos de lidar com a aleatoriedade.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de probabilidade"
+  ],
+  "ids_duplicados": []
 }

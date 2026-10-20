@@ -1,60 +1,60 @@
 {
- "id": "capes-21840681",
- "autor": "Naysa Taboada Silva",
- "ano": 2016,
- "tipo": "Dissertação",
- "titulo": "OBJETOS DE APRENDIZAGEM NA EDUCAÇÃO ESTATÍSTICA: RECURSOS DIDÁTICOS NO 1o ANO DO ENSINO FUNDAMENTAL",
- "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
- "cidade": "",
- "estado": "Espírito Santo",
- "regiao": "Sudeste",
- "orientador": "Isaura Alcina Martins Nobre",
- "programa": "Educação em Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Objetos de Aprendizagem; Educação Estatística; Anos Inicias",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22OBJETOS%20DE%20APRENDIZAGEM%20NA%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20RECURSOS%20DID%C3%81TICOS%20NO%201o%20ANO%20DO%20ENSINO%20FUNDAMENTAL%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=OBJETOS%20DE%20APRENDIZAGEM%20NA%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20RECURSOS%20DID%C3%81TICOS%20NO%201o%20ANO%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21840681"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "21840681",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Objetos de Aprendizagem",
-  "Educação Estatística",
-  "Anos Inicias"
- ],
- "thumbnail": "./assets/images/thumbs/capes-21840681.svg",
- "resumo": "Com o avanço do uso das tecnologias computacionais no ambiente escolar e com alunos cada vez mais conectados ao mundo virtual, surge a preocupação com o processo de ensino na busca por resultados satisfatórios e significativos à aprendizagem com o uso das tecnologias. Afinal, como os docentes podem utilizar os objetos de aprendizagem virtuais em seus planejamentos e como podem realizar intervenções de forma a favorecer a aprendizagem de seus alunos? Em busca de responder essa questão investigativa foi realizada uma pesquisa de caráter qualitativa, com abordagem exploratória, utilizando como instrumentos de investigação, a observação, entrevistas e questionários, em uma escola no Município de Guarapari - ES. Seu principal objetivo se constituiu em analisar as propostas de práticas pedagógicas de objetos de aprendizagem relacionados à Educação Estatística no 1º ano do Ensino Fundamental. Durante o percurso investigativo examinou-se as práticas pedagógicas de professores do 1º ano voltadas à Educação Estatística, foram apresentadas as práticas voltadas ao uso de recursos computacionais e foi produzida uma revisão sistemática de objetos de aprendizagem de Educação Estatística nos anos iniciais. A partir dessas ações foi elaborado um plano de aula em conjunto com uma das professoras. Assim, no laboratório de informática, a Educação Estatística foi contemplada utilizando um tema abordado anteriormente com os alunos em sala de aula. A partir dessa experiência foi possível observar a participação ativa dos alunos, assim como as mediações pedagógicas realizadas no decorrer da aula. Durante o processo de pesquisa dialogamos com teóricos como D’Ambrósio, Moran, Freire e Vygotsky e, por conseguinte produzimos dados que subsidiam as conclusões sobre como o uso dos recursos computacionais nos anos iniciais ainda é uma prática irrisória, sobretudo nas aulas de Matemática. A partir das observações e registros realizados, disponibilizamos como resultados, possíveis estratégias pedagógicas e objetos de aprendizagem facilitadores neste processo que favoreçam a aprendizagem dos alunos, acerca da Educação Estatística nos anos iniciais. Esse trabalho investigativo subsidiou a construção de um site intitulado “Educa Estatística” voltado para professores, onde expomos sugestões de atividades, narrativas de professores, objetos de aprendizagem, reflexões, além de artigos e pesquisas relacionados a temática.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-21840681",
+  "autor": "Naysa Taboada Silva",
+  "ano": 2016,
+  "tipo": "Dissertação",
+  "titulo": "OBJETOS DE APRENDIZAGEM NA EDUCAÇÃO ESTATÍSTICA: RECURSOS DIDÁTICOS NO 1o ANO DO ENSINO FUNDAMENTAL",
+  "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+  "cidade": "",
+  "estado": "Espírito Santo",
+  "regiao": "Sudeste",
+  "orientador": "Isaura Alcina Martins Nobre",
+  "programa": "Educação em Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Objetos de Aprendizagem; Educação Estatística; Anos Inicias",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22OBJETOS%20DE%20APRENDIZAGEM%20NA%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20RECURSOS%20DID%C3%81TICOS%20NO%201o%20ANO%20DO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=OBJETOS%20DE%20APRENDIZAGEM%20NA%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20RECURSOS%20DID%C3%81TICOS%20NO%201o%20ANO%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21840681"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "21840681",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Objetos de Aprendizagem",
+    "Educação Estatística",
+    "Anos Inicias"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-21840681.svg",
+  "resumo": "Com o avanço do uso das tecnologias computacionais no ambiente escolar e com alunos cada vez mais conectados ao mundo virtual, surge a preocupação com o processo de ensino na busca por resultados satisfatórios e significativos à aprendizagem com o uso das tecnologias. Afinal, como os docentes podem utilizar os objetos de aprendizagem virtuais em seus planejamentos e como podem realizar intervenções de forma a favorecer a aprendizagem de seus alunos? Em busca de responder essa questão investigativa foi realizada uma pesquisa de caráter qualitativa, com abordagem exploratória, utilizando como instrumentos de investigação, a observação, entrevistas e questionários, em uma escola no Município de Guarapari - ES. Seu principal objetivo se constituiu em analisar as propostas de práticas pedagógicas de objetos de aprendizagem relacionados à Educação Estatística no 1º ano do Ensino Fundamental. Durante o percurso investigativo examinou-se as práticas pedagógicas de professores do 1º ano voltadas à Educação Estatística, foram apresentadas as práticas voltadas ao uso de recursos computacionais e foi produzida uma revisão sistemática de objetos de aprendizagem de Educação Estatística nos anos iniciais. A partir dessas ações foi elaborado um plano de aula em conjunto com uma das professoras. Assim, no laboratório de informática, a Educação Estatística foi contemplada utilizando um tema abordado anteriormente com os alunos em sala de aula. A partir dessa experiência foi possível observar a participação ativa dos alunos, assim como as mediações pedagógicas realizadas no decorrer da aula. Durante o processo de pesquisa dialogamos com teóricos como D’Ambrósio, Moran, Freire e Vygotsky e, por conseguinte produzimos dados que subsidiam as conclusões sobre como o uso dos recursos computacionais nos anos iniciais ainda é uma prática irrisória, sobretudo nas aulas de Matemática. A partir das observações e registros realizados, disponibilizamos como resultados, possíveis estratégias pedagógicas e objetos de aprendizagem facilitadores neste processo que favoreçam a aprendizagem dos alunos, acerca da Educação Estatística nos anos iniciais. Esse trabalho investigativo subsidiou a construção de um site intitulado “Educa Estatística” voltado para professores, onde expomos sugestões de atividades, narrativas de professores, objetos de aprendizagem, reflexões, além de artigos e pesquisas relacionados a temática.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

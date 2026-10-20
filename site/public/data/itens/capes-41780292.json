@@ -1,59 +1,59 @@
 {
- "id": "capes-41780292",
- "autor": "Daniele Aparecida de Andrade",
- "ano": 2024,
- "tipo": "Dissertação",
- "titulo": "Estatística nas Produções do Curso ON-LINE de Geogebra: Possibilidades para a Educação Básica",
- "instituicao": "Universidade do Estado de Mato Grosso Carlos Alberto Reyes Maldonado",
- "cidade": "",
- "estado": "Mato Grosso",
- "regiao": "Centro-Oeste",
- "orientador": "William Vieira Goncalves",
- "programa": "Ensino de Ciencias e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "BNCC; Curso on-line de GeoGebra; Estatística na Educação Básica.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22ESTAT%C3%8DSTICA%20NAS%20PRODU%C3%87%C3%95ES%20DO%20CURSO%20ON-LINE%20DE%20GEOGEBRA%3A%20POSSIBILIDADES%20PARA%20A%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESTAT%C3%8DSTICA%20NAS%20PRODU%C3%87%C3%95ES%20DO%20CURSO%20ON-LINE%20DE%20GEOGEBRA%3A%20POSSIBILIDADES%20PARA%20A%20EDUCA%C3%87%C3%83O%20B%C3%81SICA&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41780292"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "41780292",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "BNCC",
-  "Curso on-line de GeoGebra",
-  "Estatística na Educação Básica."
- ],
- "thumbnail": "./assets/images/thumbs/capes-41780292.svg",
- "resumo": "Esta pesquisa tem por objetivo analisar as produções dos participantes do curso de GeoGebra, das 19ª e 20ª edições, em relação à temática Estatística a fim de gerar um artefato digital que poderá ser usado por professores de matemática. Estes irão relacionar as produções às habilidades da BNCC do Ensino Fundamental - anos finais e do Ensino Médio, com o intuito de contribuir para o letramento estatístico de estudantes da Educação Básica. O curso de GeoGebra foi criado por Dantas e Lins e tem o propósito de auxiliar na capacitação de professores de matemática para o uso do software GeoGebra no processo de ensino e aprendizagem de Matemática. A questão principal da pesquisa é: “O que se tem produzido sobre Estatística nas construções dos participantes das 19ª e 20ª edições do curso de GeoGebra, a quais habilidades da BNCC do Ensino Fundamental - anos finais do Ensino Médio elas estão relacionadas e de que forma essas produções podem colaborar com o professor de matemática para o letramento estatístico?”. No corpus da pesquisa, estão 463 produções dos cursistas na Tarefa do Módulo 7, que trata de Estatística e Tratamento de Dados no GeoGebra, coletadas a partir da base de dados do curso nas edições acima citadas e analisadas com o uso do software MaxQda. Utilizamos a Análise Textual Discursiva (ATD) na visão de Moraes e Galiazzi (2016), conduzida no software MaxQda. De acordo com os objetivos da pesquisa, constituímos três categorias de análise: (i) Conteúdos de Estatística; (ii) Habilidades correlatas a BNCC nas produções; (iii) Produções com potencial de letramento estatístico.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-41780292",
+  "autor": "Daniele Aparecida de Andrade",
+  "ano": 2024,
+  "tipo": "Dissertação",
+  "titulo": "Estatística nas Produções do Curso ON-LINE de Geogebra: Possibilidades para a Educação Básica",
+  "instituicao": "Universidade do Estado de Mato Grosso Carlos Alberto Reyes Maldonado",
+  "cidade": "",
+  "estado": "Mato Grosso",
+  "regiao": "Centro-Oeste",
+  "orientador": "William Vieira Goncalves",
+  "programa": "Ensino de Ciencias e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "BNCC; Curso on-line de GeoGebra; Estatística na Educação Básica.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ESTAT%C3%8DSTICA%20NAS%20PRODU%C3%87%C3%95ES%20DO%20CURSO%20ON-LINE%20DE%20GEOGEBRA%3A%20POSSIBILIDADES%20PARA%20A%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESTAT%C3%8DSTICA%20NAS%20PRODU%C3%87%C3%95ES%20DO%20CURSO%20ON-LINE%20DE%20GEOGEBRA%3A%20POSSIBILIDADES%20PARA%20A%20EDUCA%C3%87%C3%83O%20B%C3%81SICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41780292"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "41780292",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "BNCC",
+    "Curso on-line de GeoGebra",
+    "Estatística na Educação Básica."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-41780292.svg",
+  "resumo": "Esta pesquisa tem por objetivo analisar as produções dos participantes do curso de GeoGebra, das 19ª e 20ª edições, em relação à temática Estatística a fim de gerar um artefato digital que poderá ser usado por professores de matemática. Estes irão relacionar as produções às habilidades da BNCC do Ensino Fundamental - anos finais e do Ensino Médio, com o intuito de contribuir para o letramento estatístico de estudantes da Educação Básica. O curso de GeoGebra foi criado por Dantas e Lins e tem o propósito de auxiliar na capacitação de professores de matemática para o uso do software GeoGebra no processo de ensino e aprendizagem de Matemática. A questão principal da pesquisa é: “O que se tem produzido sobre Estatística nas construções dos participantes das 19ª e 20ª edições do curso de GeoGebra, a quais habilidades da BNCC do Ensino Fundamental - anos finais do Ensino Médio elas estão relacionadas e de que forma essas produções podem colaborar com o professor de matemática para o letramento estatístico?”. No corpus da pesquisa, estão 463 produções dos cursistas na Tarefa do Módulo 7, que trata de Estatística e Tratamento de Dados no GeoGebra, coletadas a partir da base de dados do curso nas edições acima citadas e analisadas com o uso do software MaxQda. Utilizamos a Análise Textual Discursiva (ATD) na visão de Moraes e Galiazzi (2016), conduzida no software MaxQda. De acordo com os objetivos da pesquisa, constituímos três categorias de análise: (i) Conteúdos de Estatística; (ii) Habilidades correlatas a BNCC nas produções; (iii) Produções com potencial de letramento estatístico.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

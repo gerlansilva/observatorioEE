@@ -1,59 +1,59 @@
 {
- "id": "capes-19730137",
- "autor": "Daiane Lemos de Sa",
- "ano": 2015,
- "tipo": "Dissertação",
- "titulo": "Elaboração e análise de um instrumento para verificar informações acerca do letramento estatístico de estudantes concluintes do Ensino Médio",
- "instituicao": "Universidade Federal do Rio Grande",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Mauren Porciuncula Moreira da Silva",
- "programa": "Educação em Ciências Química da Vida e Saúde (UFSM – FURG)",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Habilidades; Letramento estatístico; Ensino médio",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Elabora%C3%A7%C3%A3o%20e%20an%C3%A1lise%20de%20um%20instrumento%20para%20verificar%20informa%C3%A7%C3%B5es%20acerca%20do%20letramento%20estat%C3%ADstico%20de%20estudantes%20concluintes%20do%20Ensino%20M%C3%A9dio%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Elabora%C3%A7%C3%A3o%20e%20an%C3%A1lise%20de%20um%20instrumento%20para%20verificar%20informa%C3%A7%C3%B5es%20acerca%20do%20letramento%20estat%C3%ADstico%20de%20estudantes%20concluintes%20do%20Ensino%20M%C3%A9dio&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19730137"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "19730137",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Habilidades",
-  "Letramento estatístico",
-  "Ensino médio"
- ],
- "thumbnail": "./assets/images/thumbs/capes-19730137.svg",
- "resumo": "Esta pesquisa visa investigar quais informações o instrumento desenvolvido neste estudo pode fornecer a respeito do Letramento Estatístico de um determinado grupo de estudantes concluintes do Ensino Médio. Para elaborar o instrumento, selecionamos questões da prova do ENEM dos anos de 2009 a 2013, relativas à Estatística e Probabilidade. Estas foram classificadas quanto às Habilidades, estabelecidas pela Matriz de Referência para o ENEM 2009, e às Capacidades, formuladas por Iddo Gal (2002). Neste processo, percebemos que existia uma aproximação entre as referidas Habilidades e Capacidades, a qual consiste na identificação de conceitos afins em ambas. Tal percepção resultou em três Aproximações, cada uma composta por uma Habilidade e uma Capacidade. Foram selecionadas duas questões de cada Aproximação para compor o instrumento, bem como foi adaptada uma questão do ENEM para verificar duas das cinco Capacidades que não apresentavam correspondências conceituais. Isto originou um instrumento com sete questões, aplicado para dezoito estudantes concluintes do Ensino Médio, o que gerou dados a respeito do Letramento Estatístico do corpus, os quais foram analisados em quatro etapas. Na primeira, foi analisado o perfil dos estudantes, enquanto que, na sequência, os dados foram sistematizados coletivamente e individualmente. Por fim, foi estabelecida uma relação entre o perfil e o número de acertos nas questões. A presente pesquisa se justifica na medida em que são necessários estudos para investigar se os concluintes do Ensino Médio estão se apropriando dos conceitos atinentes à área da Educação Estatística, previstos na Legislação Brasileira. As informações coletadas a respeito do Letramento Estatístico do corpus (Habilidades, Capacidades e Nível de Letramento Estatístico) nos permitiram concluir que a maioria dos participantes da pesquisa, de modo geral, não apresenta domínio dos referidos conceitos. Cabe salientar que o Letramento Estatístico é fundamental no cotidiano dos cidadãos, tendo em vista que contribuem para a tomada de decisões pessoais com base em informações estatísticas.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "letramento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-19730137",
+  "autor": "Daiane Lemos de Sa",
+  "ano": 2015,
+  "tipo": "Dissertação",
+  "titulo": "Elaboração e análise de um instrumento para verificar informações acerca do letramento estatístico de estudantes concluintes do Ensino Médio",
+  "instituicao": "Universidade Federal do Rio Grande",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Mauren Porciuncula Moreira da Silva",
+  "programa": "Educação em Ciências Química da Vida e Saúde (UFSM – FURG)",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Habilidades; Letramento estatístico; Ensino médio",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Elabora%C3%A7%C3%A3o%20e%20an%C3%A1lise%20de%20um%20instrumento%20para%20verificar%20informa%C3%A7%C3%B5es%20acerca%20do%20letramento%20estat%C3%ADstico%20de%20estudantes%20concluintes%20do%20Ensino%20M%C3%A9dio%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Elabora%C3%A7%C3%A3o%20e%20an%C3%A1lise%20de%20um%20instrumento%20para%20verificar%20informa%C3%A7%C3%B5es%20acerca%20do%20letramento%20estat%C3%ADstico%20de%20estudantes%20concluintes%20do%20Ensino%20M%C3%A9dio&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19730137"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "19730137",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Habilidades",
+    "Letramento estatístico",
+    "Ensino médio"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-19730137.svg",
+  "resumo": "Esta pesquisa visa investigar quais informações o instrumento desenvolvido neste estudo pode fornecer a respeito do Letramento Estatístico de um determinado grupo de estudantes concluintes do Ensino Médio. Para elaborar o instrumento, selecionamos questões da prova do ENEM dos anos de 2009 a 2013, relativas à Estatística e Probabilidade. Estas foram classificadas quanto às Habilidades, estabelecidas pela Matriz de Referência para o ENEM 2009, e às Capacidades, formuladas por Iddo Gal (2002). Neste processo, percebemos que existia uma aproximação entre as referidas Habilidades e Capacidades, a qual consiste na identificação de conceitos afins em ambas. Tal percepção resultou em três Aproximações, cada uma composta por uma Habilidade e uma Capacidade. Foram selecionadas duas questões de cada Aproximação para compor o instrumento, bem como foi adaptada uma questão do ENEM para verificar duas das cinco Capacidades que não apresentavam correspondências conceituais. Isto originou um instrumento com sete questões, aplicado para dezoito estudantes concluintes do Ensino Médio, o que gerou dados a respeito do Letramento Estatístico do corpus, os quais foram analisados em quatro etapas. Na primeira, foi analisado o perfil dos estudantes, enquanto que, na sequência, os dados foram sistematizados coletivamente e individualmente. Por fim, foi estabelecida uma relação entre o perfil e o número de acertos nas questões. A presente pesquisa se justifica na medida em que são necessários estudos para investigar se os concluintes do Ensino Médio estão se apropriando dos conceitos atinentes à área da Educação Estatística, previstos na Legislação Brasileira. As informações coletadas a respeito do Letramento Estatístico do corpus (Habilidades, Capacidades e Nível de Letramento Estatístico) nos permitiram concluir que a maioria dos participantes da pesquisa, de modo geral, não apresenta domínio dos referidos conceitos. Cabe salientar que o Letramento Estatístico é fundamental no cotidiano dos cidadãos, tendo em vista que contribuem para a tomada de decisões pessoais com base em informações estatísticas.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
 }

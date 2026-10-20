@@ -1,61 +1,61 @@
 {
- "id": "capes-42192293",
- "autor": "Danilo Magalhaes Farias",
- "ano": 2024,
- "tipo": "Dissertação",
- "titulo": "Produção de tarefas estatísticas com História em Quadrinhos: uma investigação no Ensino Fundamental",
- "instituicao": "Universidade Federal de Juiz de Fora",
- "cidade": "",
- "estado": "Minas Gerais",
- "regiao": "Sudeste",
- "orientador": "Ronaldo Rocha Bastos",
- "programa": "Educação Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Matemática; Educação Estatística; História em quadrinhos; Produção de significados; Tarefas Educacionais",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Produ%C3%A7%C3%A3o%20de%20tarefas%20estat%C3%ADsticas%20com%20Hist%C3%B3ria%20em%20Quadrinhos%3A%20uma%20investiga%C3%A7%C3%A3o%20no%20Ensino%20Fundamental%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Produ%C3%A7%C3%A3o%20de%20tarefas%20estat%C3%ADsticas%20com%20Hist%C3%B3ria%20em%20Quadrinhos%3A%20uma%20investiga%C3%A7%C3%A3o%20no%20Ensino%20Fundamental&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42192293"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "42192293",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Matemática",
-  "Educação Estatística",
-  "História em quadrinhos",
-  "Produção de significados",
-  "Tarefas Educacionais"
- ],
- "thumbnail": "./assets/images/thumbs/capes-42192293.svg",
- "resumo": "O objetivo geral da pesquisa, de cunho qualitativo, é investigar a produção e a utilização de tarefas de natureza estatística teoricamente fundamentadas pelo Modelo dos Campos Semânticos (MCS), voltadas para o Ensino Fundamental, nas quais os Data Comics (histórias em quadrinhos cuja narrativa é orientada por dados) cumprem a função de se constituir em um texto em um processo de produção de significados. Baseado em diretrizes estabelecidas a partir dos campos da Educação Estatística, Estudos de Quadrinhos e do MCS, duas tarefas foram produzidas e aplicadas a um grupo de quatro estudantes do 9º ano do Ensino Fundamental. Realizamos uma análise epistemológica baseada no material coletado durante a aplicação, produzindo uma leitura plausível a partir da produção de significados das participantes. A análise revelou que as tarefas: estimularam a produção de uma diversidade de significados estatísticos e não-estatísticos, bem como a produção de sínteses; cumpriram o objetivo de serem familiares e não-usuais; e possibilitaram ao pesquisador interagir e intervir no processo de produção de significados dos sujeitos. A noção de fabulação em termos do MCS foi proposta a partir de um processo observado de modo reincidente na aplicação das tarefas. Observamos que as estudantes mobilizaram pensamento aritmético e comparativo durante a experiência. A leitura e reflexão sobre elementos das Histórias em Quadrinhos se mostraram relevantes durante a produção das tarefas e a análise posterior. Como Produto Educacional associado a essa pesquisa, foi produzido um manual para professores que ensinam Matemática e Estatística na Educação Básica, como uma contribuição para sua formação inicial e continuada. Este manual contém nossa concepção sobre ensino e aprendizagem de Estatística, respostas sobre o papel dos quadrinhos na sala de aula de Matemática e Estatística e uma atualização das tarefas utilizadas na pesquisa, acompanhadas por um conjunto de orientações para professores.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-42192293",
+  "autor": "Danilo Magalhaes Farias",
+  "ano": 2024,
+  "tipo": "Dissertação",
+  "titulo": "Produção de tarefas estatísticas com História em Quadrinhos: uma investigação no Ensino Fundamental",
+  "instituicao": "Universidade Federal de Juiz de Fora",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Ronaldo Rocha Bastos",
+  "programa": "Educação Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Matemática; Educação Estatística; História em quadrinhos; Produção de significados; Tarefas Educacionais",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Produ%C3%A7%C3%A3o%20de%20tarefas%20estat%C3%ADsticas%20com%20Hist%C3%B3ria%20em%20Quadrinhos%3A%20uma%20investiga%C3%A7%C3%A3o%20no%20Ensino%20Fundamental%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Produ%C3%A7%C3%A3o%20de%20tarefas%20estat%C3%ADsticas%20com%20Hist%C3%B3ria%20em%20Quadrinhos%3A%20uma%20investiga%C3%A7%C3%A3o%20no%20Ensino%20Fundamental&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42192293"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "42192293",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Matemática",
+    "Educação Estatística",
+    "História em quadrinhos",
+    "Produção de significados",
+    "Tarefas Educacionais"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-42192293.svg",
+  "resumo": "O objetivo geral da pesquisa, de cunho qualitativo, é investigar a produção e a utilização de tarefas de natureza estatística teoricamente fundamentadas pelo Modelo dos Campos Semânticos (MCS), voltadas para o Ensino Fundamental, nas quais os Data Comics (histórias em quadrinhos cuja narrativa é orientada por dados) cumprem a função de se constituir em um texto em um processo de produção de significados. Baseado em diretrizes estabelecidas a partir dos campos da Educação Estatística, Estudos de Quadrinhos e do MCS, duas tarefas foram produzidas e aplicadas a um grupo de quatro estudantes do 9º ano do Ensino Fundamental. Realizamos uma análise epistemológica baseada no material coletado durante a aplicação, produzindo uma leitura plausível a partir da produção de significados das participantes. A análise revelou que as tarefas: estimularam a produção de uma diversidade de significados estatísticos e não-estatísticos, bem como a produção de sínteses; cumpriram o objetivo de serem familiares e não-usuais; e possibilitaram ao pesquisador interagir e intervir no processo de produção de significados dos sujeitos. A noção de fabulação em termos do MCS foi proposta a partir de um processo observado de modo reincidente na aplicação das tarefas. Observamos que as estudantes mobilizaram pensamento aritmético e comparativo durante a experiência. A leitura e reflexão sobre elementos das Histórias em Quadrinhos se mostraram relevantes durante a produção das tarefas e a análise posterior. Como Produto Educacional associado a essa pesquisa, foi produzido um manual para professores que ensinam Matemática e Estatística na Educação Básica, como uma contribuição para sua formação inicial e continuada. Este manual contém nossa concepção sobre ensino e aprendizagem de Estatística, respostas sobre o papel dos quadrinhos na sala de aula de Matemática e Estatística e uma atualização das tarefas utilizadas na pesquisa, acompanhadas por um conjunto de orientações para professores.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

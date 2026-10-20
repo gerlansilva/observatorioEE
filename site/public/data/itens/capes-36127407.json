@@ -1,61 +1,61 @@
 {
- "id": "capes-36127407",
- "autor": "Amanda Vieira Mendes",
- "ano": 2022,
- "tipo": "Dissertação",
- "titulo": "UMA EXPERIÊNCIA ENVOLVENDO PROFESSORAS, PROFESSORES E O PROGRAMA ‘NOSSA ESCOLA PESQUISA SUA OPINIÃO’ (NEPSO): apropriações do uso pedagógico da pesquisa de opinião",
- "instituicao": "Universidade Federal de Ouro Preto",
- "cidade": "",
- "estado": "Minas Gerais",
- "regiao": "Sudeste",
- "orientador": "Andre Augusto Deodato",
- "programa": "Educação Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Opinião pública - Pesquisa; NEPSO; Educação Estatística; Apropriação; Educação Matemática Crítica",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22UMA%20EXPERI%C3%8ANCIA%20ENVOLVENDO%20PROFESSORAS%2C%20PROFESSORES%20E%20O%20PROGRAMA%20%E2%80%98NOSSA%20ESCOLA%20PESQUISA%20SUA%20OPINI%C3%83O%E2%80%99%20%28NEPSO%29%3A%20apropria%C3%A7%C3%B5es%20do%20uso%20pedag%C3%B3gico%20da%20pesquisa%20de%20opini%C3%A3o%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UMA%20EXPERI%C3%8ANCIA%20ENVOLVENDO%20PROFESSORAS%2C%20PROFESSORES%20E%20O%20PROGRAMA%20%E2%80%98NOSSA%20ESCOLA%20PESQUISA%20SUA%20OPINI%C3%83O%E2%80%99%20%28NEPSO%29%3A%20apropria%C3%A7%C3%B5es%20do%20uso%20pedag%C3%B3gico%20da%20pesquisa%20de%20opini%C3%A3o&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36127407"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "36127407",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Opinião pública - Pesquisa",
-  "NEPSO",
-  "Educação Estatística",
-  "Apropriação",
-  "Educação Matemática Crítica"
- ],
- "thumbnail": "./assets/images/thumbs/capes-36127407.svg",
- "resumo": "Esta pesquisa de mestrado, inserida no cenário brasileiro, parte das experiências de uma professora de Matemática preocupada com as recorrentes demandas pela qualificação do ensino de Matemática na Educação Básica. A investigação realizada dialoga com autoras e autores que sinalizam na direção de que tal qualificação é possível, quando se mira no horizonte de uma educação comprometida em colaborar com a transformação da realidade social, por meio do compartilhamento do conhecimento historicamente acumulado e socialmente valorizado. Assim, nesta investigação, adotou como objetivo descrever e analisar como uma experiência formativa envolvendo a pesquisa de opinião reverbera em um grupo de professoras e professores dos anos finais do ensino fundamental. Para tanto, valendo-se do referencial teórico adotado, considerou-se que o uso pedagógico da pesquisa de opinião poderia não somente ser interpretado como uma metodologia ativa, fazendo-se um espaço no qual não só as e os discentes, mediados pelas e pelos docentes, ocupassem a centralidade do processo de ensino e aprendizagem, como também corroborasse para o rompimento da disciplinaridade, como indicado por autoras e autores da Educação Estatística. Para tanto, desenvolveu-se uma pesquisa de natureza qualitativa, na qual foi construído um percurso metodológico em que seis professores de uma mesma escola, que lecionam diferentes componentes curriculares, sendo dois deles e Matemática, participaram de uma experiência formativa em que, em 23 encontros síncronos, mediados pelos pesquisadores, construíram uma pesquisa de opinião na perspectiva do Programa “Nossa Escola Pesquisa Sua Opinião (NEPSO)”. O material empírico da investigação foi produzido durante o primeiro semestre de 2021, por meio da aplicação de um questionário inicial, de observações e gravações em áudio e vídeo dos encontros e entrevistas individuais e coletivas. Acrescenta-se, ainda, que as professoras e os professores foram entrevistados no final da experiência. Após a organização do material empírico, foram construídos dois eixos de análise, por meio do quais, foi empreendida uma análise, de um lado, norteada pela definição de apropriação e, por outro por conceitos caros a autores da Educação Matemática Crítica. Como desdobramentos dessa análise, identificou-se que as apropriações do uso pedagógico da pesquisa de opinião pelos participantes aconteceram no decorrer de negociações produzidas ora a partir de tensionamentos, ora de a partir de consensos. Identificou-se também que as reverberações da proposta nas e nos participantes, revelaram que, entre tensionamentos e oscilações, notados nas falas das professoras e dos professores, a experiência formativa possibilitou que as e os envolvidos construíssem uma experiência nova com o conhecimento matemático que, em alguns casos, colaborou para o início de mudanças nas concepções de Matemática de algumas professoras e alguns professores. Além disso, as e os docentes, participantes da pesquisa passaram a vislumbrar a possibilidade de implementar o uso do Programa NEPSO na escola em que lecionam e, também, mostraram que o processo vivenciado as e os levaram a refletir sobre suas práticas e sobre possibilidades de aperfeiçoá-las. Compete destacar, por fim, que, por meio desta investigação, foi elaborado um Produto Educacional com a intenção de motivar docentes e coordenação pedagógica a explorar o uso pedagógico da pesquisa de opinião, de forma que a Matemática seja uma possível lente para se ler o mundo.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-36127407",
+  "autor": "Amanda Vieira Mendes",
+  "ano": 2022,
+  "tipo": "Dissertação",
+  "titulo": "UMA EXPERIÊNCIA ENVOLVENDO PROFESSORAS, PROFESSORES E O PROGRAMA ‘NOSSA ESCOLA PESQUISA SUA OPINIÃO’ (NEPSO): apropriações do uso pedagógico da pesquisa de opinião",
+  "instituicao": "Universidade Federal de Ouro Preto",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Andre Augusto Deodato",
+  "programa": "Educação Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Opinião pública - Pesquisa; NEPSO; Educação Estatística; Apropriação; Educação Matemática Crítica",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22UMA%20EXPERI%C3%8ANCIA%20ENVOLVENDO%20PROFESSORAS%2C%20PROFESSORES%20E%20O%20PROGRAMA%20%E2%80%98NOSSA%20ESCOLA%20PESQUISA%20SUA%20OPINI%C3%83O%E2%80%99%20%28NEPSO%29%3A%20apropria%C3%A7%C3%B5es%20do%20uso%20pedag%C3%B3gico%20da%20pesquisa%20de%20opini%C3%A3o%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UMA%20EXPERI%C3%8ANCIA%20ENVOLVENDO%20PROFESSORAS%2C%20PROFESSORES%20E%20O%20PROGRAMA%20%E2%80%98NOSSA%20ESCOLA%20PESQUISA%20SUA%20OPINI%C3%83O%E2%80%99%20%28NEPSO%29%3A%20apropria%C3%A7%C3%B5es%20do%20uso%20pedag%C3%B3gico%20da%20pesquisa%20de%20opini%C3%A3o&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36127407"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "36127407",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Opinião pública - Pesquisa",
+    "NEPSO",
+    "Educação Estatística",
+    "Apropriação",
+    "Educação Matemática Crítica"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-36127407.svg",
+  "resumo": "Esta pesquisa de mestrado, inserida no cenário brasileiro, parte das experiências de uma professora de Matemática preocupada com as recorrentes demandas pela qualificação do ensino de Matemática na Educação Básica. A investigação realizada dialoga com autoras e autores que sinalizam na direção de que tal qualificação é possível, quando se mira no horizonte de uma educação comprometida em colaborar com a transformação da realidade social, por meio do compartilhamento do conhecimento historicamente acumulado e socialmente valorizado. Assim, nesta investigação, adotou como objetivo descrever e analisar como uma experiência formativa envolvendo a pesquisa de opinião reverbera em um grupo de professoras e professores dos anos finais do ensino fundamental. Para tanto, valendo-se do referencial teórico adotado, considerou-se que o uso pedagógico da pesquisa de opinião poderia não somente ser interpretado como uma metodologia ativa, fazendo-se um espaço no qual não só as e os discentes, mediados pelas e pelos docentes, ocupassem a centralidade do processo de ensino e aprendizagem, como também corroborasse para o rompimento da disciplinaridade, como indicado por autoras e autores da Educação Estatística. Para tanto, desenvolveu-se uma pesquisa de natureza qualitativa, na qual foi construído um percurso metodológico em que seis professores de uma mesma escola, que lecionam diferentes componentes curriculares, sendo dois deles e Matemática, participaram de uma experiência formativa em que, em 23 encontros síncronos, mediados pelos pesquisadores, construíram uma pesquisa de opinião na perspectiva do Programa “Nossa Escola Pesquisa Sua Opinião (NEPSO)”. O material empírico da investigação foi produzido durante o primeiro semestre de 2021, por meio da aplicação de um questionário inicial, de observações e gravações em áudio e vídeo dos encontros e entrevistas individuais e coletivas. Acrescenta-se, ainda, que as professoras e os professores foram entrevistados no final da experiência. Após a organização do material empírico, foram construídos dois eixos de análise, por meio do quais, foi empreendida uma análise, de um lado, norteada pela definição de apropriação e, por outro por conceitos caros a autores da Educação Matemática Crítica. Como desdobramentos dessa análise, identificou-se que as apropriações do uso pedagógico da pesquisa de opinião pelos participantes aconteceram no decorrer de negociações produzidas ora a partir de tensionamentos, ora de a partir de consensos. Identificou-se também que as reverberações da proposta nas e nos participantes, revelaram que, entre tensionamentos e oscilações, notados nas falas das professoras e dos professores, a experiência formativa possibilitou que as e os envolvidos construíssem uma experiência nova com o conhecimento matemático que, em alguns casos, colaborou para o início de mudanças nas concepções de Matemática de algumas professoras e alguns professores. Além disso, as e os docentes, participantes da pesquisa passaram a vislumbrar a possibilidade de implementar o uso do Programa NEPSO na escola em que lecionam e, também, mostraram que o processo vivenciado as e os levaram a refletir sobre suas práticas e sobre possibilidades de aperfeiçoá-las. Compete destacar, por fim, que, por meio desta investigação, foi elaborado um Produto Educacional com a intenção de motivar docentes e coordenação pedagógica a explorar o uso pedagógico da pesquisa de opinião, de forma que a Matemática seja uma possível lente para se ler o mundo.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

@@ -1,59 +1,59 @@
 {
- "id": "capes-29268056",
- "autor": "Silvia Marques Golfeti",
- "ano": 2017,
- "tipo": "Dissertação",
- "titulo": "Análise de Livro Didático nos Anos Iniciais do Ensino Fundamental: Conteúdos de Estatística Descritiva e o Sistema de Avaliação do Rendimento Escolar do Estado de São Paulo (Saresp)",
- "instituicao": "Pontifícia Universidade Católica de São Paulo",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Maria Jose Ferreira da Silva",
- "programa": "Educação Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo - SARESP; Livros didáticos - Avaliação; Matemática (Ensino fundamental) - Livros didáticos",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22AN%C3%81LISE%20DE%20LIVRO%20DID%C3%81TICO%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20CONTE%C3%9ADOS%20DE%20ESTAT%C3%8DSTICA%20DESCRITIVA%20E%20O%20SISTEMA%20DE%20AVALIA%C3%87%C3%83O%20DO%20RENDIMENTO%20ESCOLAR%20DO%20ESTADO%20DE%20S%C3%83O%20PAULO%20%28SARESP%29%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AN%C3%81LISE%20DE%20LIVRO%20DID%C3%81TICO%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20CONTE%C3%9ADOS%20DE%20ESTAT%C3%8DSTICA%20DESCRITIVA%20E%20O%20SISTEMA%20DE%20AVALIA%C3%87%C3%83O%20DO%20RENDIMENTO%20ESCOLAR%20DO%20ESTADO%20DE%20S%C3%83O%20PAULO%20%28SARESP%29&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29268056"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "29268056",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo - SARESP",
-  "Livros didáticos - Avaliação",
-  "Matemática (Ensino fundamental) - Livros didáticos"
- ],
- "thumbnail": "./assets/images/thumbs/capes-29268056.svg",
- "resumo": "A presente pesquisa relata um estudo bibliográfico envolvendo livros didáticos e a avaliação de larga escala, o Sistema de Avalição do Rendimento Escolar do Estado de São Paulo (SARESP). O objetivo foi investigar as praxeologias matemáticas contidas nas atividades dos livros didáticos, no sentido de verificar se estas têm potencial para preparar o aluno para desenvolver o conhecimento estatístico solicitado no SARESP. A pesquisa envolveu a análise de livros didáticos adotados na rede estadual do estado de São Paulo, a partir do Programa Nacional do Livro Didático do governo federal para as séries iniciais do ensino fundamental. Os procedimentos metodológicos adotados foram a exploração dos documentos escolhidos, tendo o processo de análises fundamentado na Teoria Antropológica do Didático (TAD) e apoiado nos níveis de compreensão de tabelas, segundo Wainer e de gráficos, segundo Curcio. O principal resultado obtido com a pesquisa foi a constatação de que os livros didáticos preparam os sujeitos, submetidos à prática desses manuais, para os níveis de compreensão de gráficos e tabelas, com superioridade daqueles exigidos no SARESP, sendo que os níveis de compreensão identificados nas praxeologias das atividades desta avaliação se expressam abaixo do que é prescrito nas referências curriculares nacionais",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-29268056",
+  "autor": "Silvia Marques Golfeti",
+  "ano": 2017,
+  "tipo": "Dissertação",
+  "titulo": "Análise de Livro Didático nos Anos Iniciais do Ensino Fundamental: Conteúdos de Estatística Descritiva e o Sistema de Avaliação do Rendimento Escolar do Estado de São Paulo (Saresp)",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Maria Jose Ferreira da Silva",
+  "programa": "Educação Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo - SARESP; Livros didáticos - Avaliação; Matemática (Ensino fundamental) - Livros didáticos",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22AN%C3%81LISE%20DE%20LIVRO%20DID%C3%81TICO%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20CONTE%C3%9ADOS%20DE%20ESTAT%C3%8DSTICA%20DESCRITIVA%20E%20O%20SISTEMA%20DE%20AVALIA%C3%87%C3%83O%20DO%20RENDIMENTO%20ESCOLAR%20DO%20ESTADO%20DE%20S%C3%83O%20PAULO%20%28SARESP%29%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AN%C3%81LISE%20DE%20LIVRO%20DID%C3%81TICO%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20CONTE%C3%9ADOS%20DE%20ESTAT%C3%8DSTICA%20DESCRITIVA%20E%20O%20SISTEMA%20DE%20AVALIA%C3%87%C3%83O%20DO%20RENDIMENTO%20ESCOLAR%20DO%20ESTADO%20DE%20S%C3%83O%20PAULO%20%28SARESP%29&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29268056"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "29268056",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo - SARESP",
+    "Livros didáticos - Avaliação",
+    "Matemática (Ensino fundamental) - Livros didáticos"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-29268056.svg",
+  "resumo": "A presente pesquisa relata um estudo bibliográfico envolvendo livros didáticos e a avaliação de larga escala, o Sistema de Avalição do Rendimento Escolar do Estado de São Paulo (SARESP). O objetivo foi investigar as praxeologias matemáticas contidas nas atividades dos livros didáticos, no sentido de verificar se estas têm potencial para preparar o aluno para desenvolver o conhecimento estatístico solicitado no SARESP. A pesquisa envolveu a análise de livros didáticos adotados na rede estadual do estado de São Paulo, a partir do Programa Nacional do Livro Didático do governo federal para as séries iniciais do ensino fundamental. Os procedimentos metodológicos adotados foram a exploração dos documentos escolhidos, tendo o processo de análises fundamentado na Teoria Antropológica do Didático (TAD) e apoiado nos níveis de compreensão de tabelas, segundo Wainer e de gráficos, segundo Curcio. O principal resultado obtido com a pesquisa foi a constatação de que os livros didáticos preparam os sujeitos, submetidos à prática desses manuais, para os níveis de compreensão de gráficos e tabelas, com superioridade daqueles exigidos no SARESP, sendo que os níveis de compreensão identificados nas praxeologias das atividades desta avaliação se expressam abaixo do que é prescrito nas referências curriculares nacionais",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

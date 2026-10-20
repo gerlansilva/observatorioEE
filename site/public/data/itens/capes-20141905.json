@@ -1,64 +1,64 @@
 {
- "id": "capes-20141905",
- "autor": "Evania de Oliveira Pereira",
- "ano": 2015,
- "tipo": "Dissertação",
- "titulo": "Educação Estatística Sob a Perspectiva Sociocrítica da Modelagem Matemática: Uma Proposta para o Ensino Médio",
- "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
- "cidade": "",
- "estado": "Espírito Santo",
- "regiao": "Sudeste",
- "orientador": "Oscar Luiz Teixeira de Rezende",
- "programa": "Educação em Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Competências Estatísticas; Modelagem Matemática; Educação Estatística; Educação Matemática Crítica; ensino médio; educação matemática; educação pública; práticas pedagógicas",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20SOB%20A%20PERSPECTIVA%20SOCIOCR%C3%8DTICA%20DA%20MODELAGEM%20MATEM%C3%81TICA%3A%20UMA%20PROPOSTA%20PARA%20O%20ENSINO%20M%C3%89DIO%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20SOB%20A%20PERSPECTIVA%20SOCIOCR%C3%8DTICA%20DA%20MODELAGEM%20MATEM%C3%81TICA%3A%20UMA%20PROPOSTA%20PARA%20O%20ENSINO%20M%C3%89DIO&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20141905"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "20141905",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Competências Estatísticas",
-  "Modelagem Matemática",
-  "Educação Estatística",
-  "Educação Matemática Crítica",
-  "ensino médio",
-  "educação matemática",
-  "educação pública",
-  "práticas pedagógicas"
- ],
- "thumbnail": "./assets/images/thumbs/capes-20141905.svg",
- "resumo": "O objetivo desta pesquisa foi o de investigar as inferências de um ambiente de modelagem matemática no desenvolvimento de competências estatísticas em alunos de ensino médio de uma escola pública do Estado do Espírito Santo. Tratou-se de uma pesquisa qualitativa baseada na coleta, organização e interpretação de dados produzidas no ambiente de modelagem matemática, mediado pela aplicação de um questionário construído colaborativamente. Os dados foram coletados com base em observações participantes, aplicação de questionário, entrevista em grupo, com posterior triangulação das informações coletadas a fim de avaliar em que medida houve o desenvolvimento das competências estatísticas. Os aspectos pedagógicos foram analisados com base nos pressupostos da educação matemática crítica. A análise dos dados mostrou que a modelagem matemática produziu competências estatísticas num ambiente de aprendizagem. O desenvolvimento desta pesquisa promoveu a construção de um guia didático as etapas da estratégiaa pedagógica do projeto de modelagem matemática, juntamente com alguns relatos sobre o uso da modelagem matemática na educação estatística no contexto de uma disciplina de matemática do ensino médio público do estado do Espírito Santo, Brasil.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-20141905",
+  "autor": "Evania de Oliveira Pereira",
+  "ano": 2015,
+  "tipo": "Dissertação",
+  "titulo": "Educação Estatística Sob a Perspectiva Sociocrítica da Modelagem Matemática: Uma Proposta para o Ensino Médio",
+  "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+  "cidade": "",
+  "estado": "Espírito Santo",
+  "regiao": "Sudeste",
+  "orientador": "Oscar Luiz Teixeira de Rezende",
+  "programa": "Educação em Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Competências Estatísticas; Modelagem Matemática; Educação Estatística; Educação Matemática Crítica; ensino médio; educação matemática; educação pública; práticas pedagógicas",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20SOB%20A%20PERSPECTIVA%20SOCIOCR%C3%8DTICA%20DA%20MODELAGEM%20MATEM%C3%81TICA%3A%20UMA%20PROPOSTA%20PARA%20O%20ENSINO%20M%C3%89DIO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20SOB%20A%20PERSPECTIVA%20SOCIOCR%C3%8DTICA%20DA%20MODELAGEM%20MATEM%C3%81TICA%3A%20UMA%20PROPOSTA%20PARA%20O%20ENSINO%20M%C3%89DIO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20141905"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "20141905",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Competências Estatísticas",
+    "Modelagem Matemática",
+    "Educação Estatística",
+    "Educação Matemática Crítica",
+    "ensino médio",
+    "educação matemática",
+    "educação pública",
+    "práticas pedagógicas"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-20141905.svg",
+  "resumo": "O objetivo desta pesquisa foi o de investigar as inferências de um ambiente de modelagem matemática no desenvolvimento de competências estatísticas em alunos de ensino médio de uma escola pública do Estado do Espírito Santo. Tratou-se de uma pesquisa qualitativa baseada na coleta, organização e interpretação de dados produzidas no ambiente de modelagem matemática, mediado pela aplicação de um questionário construído colaborativamente. Os dados foram coletados com base em observações participantes, aplicação de questionário, entrevista em grupo, com posterior triangulação das informações coletadas a fim de avaliar em que medida houve o desenvolvimento das competências estatísticas. Os aspectos pedagógicos foram analisados com base nos pressupostos da educação matemática crítica. A análise dos dados mostrou que a modelagem matemática produziu competências estatísticas num ambiente de aprendizagem. O desenvolvimento desta pesquisa promoveu a construção de um guia didático as etapas da estratégiaa pedagógica do projeto de modelagem matemática, juntamente com alguns relatos sobre o uso da modelagem matemática na educação estatística no contexto de uma disciplina de matemática do ensino médio público do estado do Espírito Santo, Brasil.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

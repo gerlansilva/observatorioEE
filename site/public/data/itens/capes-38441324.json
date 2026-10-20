@@ -1,62 +1,62 @@
 {
- "id": "capes-38441324",
- "autor": "Manoel Arthur Barbosa Correia",
- "ano": 2023,
- "tipo": "Dissertação",
- "titulo": "Letramento estatístico no currículo das licenciaturas em matemática de Pernambuco",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Jose Ivanildo Felisberto de Carvalho",
- "programa": "Educação em Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "educação estatística; letramento estatístico; formação de professores; currículo; licenciatura em matemática.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Letramento%20estat%C3%ADstico%20no%20curr%C3%ADculo%20das%20licenciaturas%20em%20matem%C3%A1tica%20de%20Pernambuco%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Letramento%20estat%C3%ADstico%20no%20curr%C3%ADculo%20das%20licenciaturas%20em%20matem%C3%A1tica%20de%20Pernambuco&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38441324"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "38441324",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "educação estatística",
-  "letramento estatístico",
-  "formação de professores",
-  "currículo",
-  "licenciatura em matemática."
- ],
- "thumbnail": "./assets/images/thumbs/capes-38441324.svg",
- "resumo": "Esta pesquisa, de abordagem qualitativa, buscou compreender através de análise documental, como o currículo dessas Licenciaturas em Matemática está configurado numa perspectiva do Letramento Estatístico. Para tanto selecionamos 22 (vinte e dois) cursos de Licenciatura em Matemática do estado de Pernambuco e realizamos uma análise dos documentos pedagógicos destes cursos. A trajetória metodológica contou com três etapas sendo a primeira uma análise descritiva das disciplinas de Estatística, a segunda uma análise de conteúdo dos PPCs dos cursos selecionados e a terceira com uma discussão acerca das convergências e divergências destes documentos pedagógicos com o currículo das Licenciaturas em Matemática, a Educação Estatística e sobretudo o Letramento Estatístico. Os resultados mostraram que estes cursos apesar de apresentarem as disciplinas concentradas no ensino conceitual da Estatística, possuem em seus PPCs a percepção de que é necessário o desenvolvimento crítico do licenciando enquanto cidadão para formar um profissional preparado para o ensino contextualizado e dirigido ao desenvolvimento do Letramento Estatístico de seus alunos. Entretanto, isto não está refletido nas disciplinas de Estatística, onde o Letramento Estatístico é preterido apesar das conexões que os documentos pedagógicos possuem com os seus elementos. Apesar disto, o currículo das Licenciaturas em matemática ainda está passível de mudanças que prezem pelo desenvolvimento do Letramento Estatístico dos seus futuros professores de Matemática",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "letramento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-38441324",
+  "autor": "Manoel Arthur Barbosa Correia",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "Letramento estatístico no currículo das licenciaturas em matemática de Pernambuco",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Jose Ivanildo Felisberto de Carvalho",
+  "programa": "Educação em Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "educação estatística; letramento estatístico; formação de professores; currículo; licenciatura em matemática.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Letramento%20estat%C3%ADstico%20no%20curr%C3%ADculo%20das%20licenciaturas%20em%20matem%C3%A1tica%20de%20Pernambuco%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Letramento%20estat%C3%ADstico%20no%20curr%C3%ADculo%20das%20licenciaturas%20em%20matem%C3%A1tica%20de%20Pernambuco&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38441324"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "38441324",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "educação estatística",
+    "letramento estatístico",
+    "formação de professores",
+    "currículo",
+    "licenciatura em matemática."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-38441324.svg",
+  "resumo": "Esta pesquisa, de abordagem qualitativa, buscou compreender através de análise documental, como o currículo dessas Licenciaturas em Matemática está configurado numa perspectiva do Letramento Estatístico. Para tanto selecionamos 22 (vinte e dois) cursos de Licenciatura em Matemática do estado de Pernambuco e realizamos uma análise dos documentos pedagógicos destes cursos. A trajetória metodológica contou com três etapas sendo a primeira uma análise descritiva das disciplinas de Estatística, a segunda uma análise de conteúdo dos PPCs dos cursos selecionados e a terceira com uma discussão acerca das convergências e divergências destes documentos pedagógicos com o currículo das Licenciaturas em Matemática, a Educação Estatística e sobretudo o Letramento Estatístico. Os resultados mostraram que estes cursos apesar de apresentarem as disciplinas concentradas no ensino conceitual da Estatística, possuem em seus PPCs a percepção de que é necessário o desenvolvimento crítico do licenciando enquanto cidadão para formar um profissional preparado para o ensino contextualizado e dirigido ao desenvolvimento do Letramento Estatístico de seus alunos. Entretanto, isto não está refletido nas disciplinas de Estatística, onde o Letramento Estatístico é preterido apesar das conexões que os documentos pedagógicos possuem com os seus elementos. Apesar disto, o currículo das Licenciaturas em matemática ainda está passível de mudanças que prezem pelo desenvolvimento do Letramento Estatístico dos seus futuros professores de Matemática",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
 }

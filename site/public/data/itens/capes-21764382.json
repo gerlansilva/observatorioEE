@@ -1,62 +1,62 @@
 {
- "id": "capes-21764382",
- "autor": "Cristiane de Fatima Budek Dias",
- "ano": 2016,
- "tipo": "Dissertação",
- "titulo": "Ambiente Virtual de Aprendizagem para o Ensino de Probabilidade e Estatística nos Anos Iniciais do Ensino Fundamental",
- "instituicao": "Universidade Tecnológica Federal do Paraná",
- "cidade": "",
- "estado": "Paraná",
- "regiao": "Sul",
- "orientador": "Guatacara dos Santos Junior",
- "programa": "Ensino de Ciência e Tecnologia",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Probabilidade; Estatística; Anos Iniciais; TIC; Professores",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22AMBIENTE%20VIRTUAL%20DE%20APRENDIZAGEM%20PARA%20O%20ENSINO%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AMBIENTE%20VIRTUAL%20DE%20APRENDIZAGEM%20PARA%20O%20ENSINO%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21764382"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "21764382",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Probabilidade",
-  "Estatística",
-  "Anos Iniciais",
-  "TIC",
-  "Professores"
- ],
- "thumbnail": "./assets/images/thumbs/capes-21764382.svg",
- "resumo": "O presente trabalho teve como objetivo desenvolver um Ambiente Virtual de Aprendizagem para o ensino de Probabilidade e Estatística nos anos iniciais do Ensino Fundamental à luz dos documentos curriculares oficiais e das práticas docentes. Com a intenção de alcançar tal objetivo, desenvolveu-se uma pesquisa aplicada, com enfoque qualitativo de cunho interpretativo com professores dos anos iniciais do Ensino Fundamental da Rede Municipal de Ensino de Ponta Grossa/PR. O ensino de Probabilidade e Estatística nos anos iniciais é entendido, nesta pesquisa, a partir das concepções de Lopes (1998, 2003, 2008, 2010); Guimarães (2014); Grando, Nacarato e Lopes (2014); Lopes e Oliveira (2013); Silva (2011); Borba, Monteiro, Guimarães, Coutinho e Kataoka (2011). As reflexões sobre o processo de ensino da temática, por meio do uso da tecnologia, estão pautadas em Ben-Zvi (2011); Batanero (2001); Estevan (2010); Estevan e Kalinke (2013); Ponte e Fonseca (2001); Lira e Monteiro (2011); entre outros. A formação do professor e seus saberes é compreendida a partir da perspectiva de Nóvoa (2009); Shulman (1986, 2005) e Mishra e Koehler (2006, 2008). Para concretização do presente estudo, inicialmente, realizou-se uma análise dos documentos curriculares vigentes, PCN (BRASIL, 1997) e Diretrizes Curriculares Municipais (PONTA GROSSA, 2015); posteriormente aplicou-se um questionário com o intuito de averiguar as práticas docentes para o ensino de Probabilidade e Estatística, buscando-se uma possível relação dessas práticas com os documentos curriculares. Após essa etapa de análise, iniciou-se o desenvolvimento do AVA, tendo como base as propostas curriculares, o referencial teórico estudado e as práticas docentes, reveladas no questionário. Em uma etapa posterior, os professores foram convidados a interagir e participar do desenvolvimento, por meio de um encontro em que os mesmos foram apresentados à proposta e instigados a intervir na mesma, opinando e revelando seus anseios para a ferramenta. Após esse encontro de coparticipação no desenvolvimento, o AVA foi finalizado, levando-se em conta as propostas apresentadas pelos docentes. Com os resultados, é possível verificar que os professores declaram trabalhar boa parte dos conteúdos propostos nos documentos curriculares, entretanto, os documentos apresentam lacunas que precisam ser preenchidas. Quanto à interação no processo de construção do AVA, a pesquisa demonstrou que há muitas dificuldades de aceitação quando se busca por outras formas para o desenvolvimento de ferramentas tecnológicas para o ensino e também de novas propostas formativas. Com base nos dados, observou-se que há necessidade de propostas mais efetivas de formação de professores dos anos iniciais para o trabalho com a Probabilidade e Estatística, propostas que considerem as questões específicas de conteúdo. Apesar disso, é possível inferir que a participação dos professores no processo de desenvolvimento de recursos tecnológicos é fundamental para esses recursos sejam, realmente, desenvolvidos com atenção aos anseios dos professores e à realidade da sala de aula. Palavras-chave: Probabilidade. Estatística. Anos Iniciais. TIC. Professores.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística",
-  "ensino de probabilidade"
- ],
- "ids_duplicados": []
+  "id": "capes-21764382",
+  "autor": "Cristiane de Fatima Budek Dias",
+  "ano": 2016,
+  "tipo": "Dissertação",
+  "titulo": "Ambiente Virtual de Aprendizagem para o Ensino de Probabilidade e Estatística nos Anos Iniciais do Ensino Fundamental",
+  "instituicao": "Universidade Tecnológica Federal do Paraná",
+  "cidade": "",
+  "estado": "Paraná",
+  "regiao": "Sul",
+  "orientador": "Guatacara dos Santos Junior",
+  "programa": "Ensino de Ciência e Tecnologia",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Probabilidade; Estatística; Anos Iniciais; TIC; Professores",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22AMBIENTE%20VIRTUAL%20DE%20APRENDIZAGEM%20PARA%20O%20ENSINO%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AMBIENTE%20VIRTUAL%20DE%20APRENDIZAGEM%20PARA%20O%20ENSINO%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21764382"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "21764382",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Probabilidade",
+    "Estatística",
+    "Anos Iniciais",
+    "TIC",
+    "Professores"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-21764382.svg",
+  "resumo": "O presente trabalho teve como objetivo desenvolver um Ambiente Virtual de Aprendizagem para o ensino de Probabilidade e Estatística nos anos iniciais do Ensino Fundamental à luz dos documentos curriculares oficiais e das práticas docentes. Com a intenção de alcançar tal objetivo, desenvolveu-se uma pesquisa aplicada, com enfoque qualitativo de cunho interpretativo com professores dos anos iniciais do Ensino Fundamental da Rede Municipal de Ensino de Ponta Grossa/PR. O ensino de Probabilidade e Estatística nos anos iniciais é entendido, nesta pesquisa, a partir das concepções de Lopes (1998, 2003, 2008, 2010); Guimarães (2014); Grando, Nacarato e Lopes (2014); Lopes e Oliveira (2013); Silva (2011); Borba, Monteiro, Guimarães, Coutinho e Kataoka (2011). As reflexões sobre o processo de ensino da temática, por meio do uso da tecnologia, estão pautadas em Ben-Zvi (2011); Batanero (2001); Estevan (2010); Estevan e Kalinke (2013); Ponte e Fonseca (2001); Lira e Monteiro (2011); entre outros. A formação do professor e seus saberes é compreendida a partir da perspectiva de Nóvoa (2009); Shulman (1986, 2005) e Mishra e Koehler (2006, 2008). Para concretização do presente estudo, inicialmente, realizou-se uma análise dos documentos curriculares vigentes, PCN (BRASIL, 1997) e Diretrizes Curriculares Municipais (PONTA GROSSA, 2015); posteriormente aplicou-se um questionário com o intuito de averiguar as práticas docentes para o ensino de Probabilidade e Estatística, buscando-se uma possível relação dessas práticas com os documentos curriculares. Após essa etapa de análise, iniciou-se o desenvolvimento do AVA, tendo como base as propostas curriculares, o referencial teórico estudado e as práticas docentes, reveladas no questionário. Em uma etapa posterior, os professores foram convidados a interagir e participar do desenvolvimento, por meio de um encontro em que os mesmos foram apresentados à proposta e instigados a intervir na mesma, opinando e revelando seus anseios para a ferramenta. Após esse encontro de coparticipação no desenvolvimento, o AVA foi finalizado, levando-se em conta as propostas apresentadas pelos docentes. Com os resultados, é possível verificar que os professores declaram trabalhar boa parte dos conteúdos propostos nos documentos curriculares, entretanto, os documentos apresentam lacunas que precisam ser preenchidas. Quanto à interação no processo de construção do AVA, a pesquisa demonstrou que há muitas dificuldades de aceitação quando se busca por outras formas para o desenvolvimento de ferramentas tecnológicas para o ensino e também de novas propostas formativas. Com base nos dados, observou-se que há necessidade de propostas mais efetivas de formação de professores dos anos iniciais para o trabalho com a Probabilidade e Estatística, propostas que considerem as questões específicas de conteúdo. Apesar disso, é possível inferir que a participação dos professores no processo de desenvolvimento de recursos tecnológicos é fundamental para esses recursos sejam, realmente, desenvolvidos com atenção aos anseios dos professores e à realidade da sala de aula. Palavras-chave: Probabilidade. Estatística. Anos Iniciais. TIC. Professores.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística",
+    "ensino de probabilidade"
+  ],
+  "ids_duplicados": []
 }

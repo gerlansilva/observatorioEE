@@ -1,54 +1,54 @@
 {
- "id": "capes-20312457",
- "autor": "Ana Paula Barbosa de Lima",
- "ano": 2015,
- "tipo": "Dissertação",
- "titulo": "Princípio Fundamental da Contagem: Conhecimentos de Professores de Matemática sobre Seu Uso na Resolução de Situações Combinatórias",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Rute Elizabete de Souza Rosa Borba",
- "programa": "Educação Matemática e Tecnológica",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Princípio Fundamental da Contagem. Conhecimentos Docentes. Combinatória.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22PRINC%C3%8DPIO%20FUNDAMENTAL%20DA%20CONTAGEM%3A%20CONHECIMENTOS%20DE%20PROFESSORES%20DE%20MATEM%C3%81TICA%20SOBRE%20SEU%20USO%20NA%20RESOLU%C3%87%C3%83O%20DE%20SITUA%C3%87%C3%95ES%20COMBINAT%C3%93RIAS%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PRINC%C3%8DPIO%20FUNDAMENTAL%20DA%20CONTAGEM%3A%20CONHECIMENTOS%20DE%20PROFESSORES%20DE%20MATEM%C3%81TICA%20SOBRE%20SEU%20USO%20NA%20RESOLU%C3%87%C3%83O%20DE%20SITUA%C3%87%C3%95ES%20COMBINAT%C3%93RIAS&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20312457"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "20312457",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Princípio Fundamental da Contagem. Conhecimentos Docentes. Combinatória."
- ],
- "thumbnail": "./assets/images/thumbs/capes-20312457.svg",
- "resumo": "No estudo propôs-se investigar os conhecimentos de professores da Educação Básica sobre como o Princípio Fundamental da Contagem (PFC), também conhecido como princípio multiplicativo, pode ser usado na resolução de variados problemas combinatórios e na construção das fórmulas da Análise Combinatória. Pesquisas anteriores evidenciam a importância deste princípio no ensino de Combinatória e como o mesmo facilita a resolução dos diferentes tipos de situações combinatórias. Foram realizados dois estudos, um com a finalidade de saber se professores e estudantes reconhecem o PFC em situações combinatórias; e o outro estudo tinha como objetivo investigar conhecimentos de professores de Matemática sobre a resolução e o ensino de problemas combinatórios com o uso do PFC. O primeiro estudo envolveu um teste de múltipla escolha e justificativas, de dados coletados junto a pro fessores dos anos finais do Ensino Fundamental, professores do Ensino Médio e alunos deste último nível da Educação Básica. Para o segundo estudo, foi realizada uma entrevista semiestruturada com professores, baseada nos tipos de conhecimento sugeridos por Ball, Thames e Phelps (2008) (conhecimento comum do conteúdo, conhecimento especializado do conteúdo, conhecimento horizontal do conteúdo, conhecimento do conteúdo e alunos, conhecimento do conteúdo e ensino e conhecimento do conteúdo e currículo). Neste segundo estudo a coleta de dados foi realizada por meio de protocolos com situações combinatórias resolvidas por alunos. Estas situações envolveram os quatro tipos de problemas combinatórios (produto cartesiano, arranjo, permutação e combinação). A partir dos conhecimentos propostos por Ball, Thames e Phelps (2008), foram criadas seis categorias com foco no PFC para a análise dos conhecimentos dos professores sobre o uso do PFC na resolução de situações combinatórias: conhecimento comum do PFC, conhecimento especializado do PFC, conhecimento horizontal do PFC, conhecimento do PFC e alunos, conhecimento do PFC e ensino e conhecimento do PFC e currículo. Como principais resultados tem-se que, os professores do Ensino Médio melhor reconhecem o uso do PFC, quando comparados com os professores do Ensino Fundamental. O reconhecimento do PFC dos professores do Ensino Médio é muito superior ao dos alunos deste nível de ensino, o que pode indicar que os professores parecem não estar ressaltando este princípio no ensino junto a seus alunos. Os professores evidenciam conhecimentos comum e especializado do PFC, bem como horizontal, mas não indicam como relacionar o princípio multiplicativo com as fórmulas da Análise Combinatória. Evidenciam conhecimento do aluno, mas referente ao conhecimento do ensino não deixam claro como o uso de outras estratégias, tais como árvores de possibilidades e fórmulas, se relacionam com o PFC. Melhores conhecimentos do que é prescrito e apresentado em currículos também são necessários. Conclu i -se que os conhecimentos docentes do PFC podem servir de base para um melhor desenvolvimento do ensino e da aprendizagem da Combinatória, mas há aspectos do conhecimento que os professores necessitam desenvolver melhor. Espera-se, assim, ter contribuído com o levantamento de conhecimentos docentes sobre a Combinatória e também ter trazido contribuições referentes ao papel do Princípio Fundamental da Contagem como eficiente estratégia de ensino, por possibilitar a resolução de diferentes tipos de problemas combinatórios.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": null
+  "id": "capes-20312457",
+  "autor": "Ana Paula Barbosa de Lima",
+  "ano": 2015,
+  "tipo": "Dissertação",
+  "titulo": "Princípio Fundamental da Contagem: Conhecimentos de Professores de Matemática sobre Seu Uso na Resolução de Situações Combinatórias",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Rute Elizabete de Souza Rosa Borba",
+  "programa": "Educação Matemática e Tecnológica",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Princípio Fundamental da Contagem. Conhecimentos Docentes. Combinatória.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22PRINC%C3%8DPIO%20FUNDAMENTAL%20DA%20CONTAGEM%3A%20CONHECIMENTOS%20DE%20PROFESSORES%20DE%20MATEM%C3%81TICA%20SOBRE%20SEU%20USO%20NA%20RESOLU%C3%87%C3%83O%20DE%20SITUA%C3%87%C3%95ES%20COMBINAT%C3%93RIAS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PRINC%C3%8DPIO%20FUNDAMENTAL%20DA%20CONTAGEM%3A%20CONHECIMENTOS%20DE%20PROFESSORES%20DE%20MATEM%C3%81TICA%20SOBRE%20SEU%20USO%20NA%20RESOLU%C3%87%C3%83O%20DE%20SITUA%C3%87%C3%95ES%20COMBINAT%C3%93RIAS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20312457"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "20312457",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Princípio Fundamental da Contagem. Conhecimentos Docentes. Combinatória."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-20312457.svg",
+  "resumo": "No estudo propôs-se investigar os conhecimentos de professores da Educação Básica sobre como o Princípio Fundamental da Contagem (PFC), também conhecido como princípio multiplicativo, pode ser usado na resolução de variados problemas combinatórios e na construção das fórmulas da Análise Combinatória. Pesquisas anteriores evidenciam a importância deste princípio no ensino de Combinatória e como o mesmo facilita a resolução dos diferentes tipos de situações combinatórias. Foram realizados dois estudos, um com a finalidade de saber se professores e estudantes reconhecem o PFC em situações combinatórias; e o outro estudo tinha como objetivo investigar conhecimentos de professores de Matemática sobre a resolução e o ensino de problemas combinatórios com o uso do PFC. O primeiro estudo envolveu um teste de múltipla escolha e justificativas, de dados coletados junto a pro fessores dos anos finais do Ensino Fundamental, professores do Ensino Médio e alunos deste último nível da Educação Básica. Para o segundo estudo, foi realizada uma entrevista semiestruturada com professores, baseada nos tipos de conhecimento sugeridos por Ball, Thames e Phelps (2008) (conhecimento comum do conteúdo, conhecimento especializado do conteúdo, conhecimento horizontal do conteúdo, conhecimento do conteúdo e alunos, conhecimento do conteúdo e ensino e conhecimento do conteúdo e currículo). Neste segundo estudo a coleta de dados foi realizada por meio de protocolos com situações combinatórias resolvidas por alunos. Estas situações envolveram os quatro tipos de problemas combinatórios (produto cartesiano, arranjo, permutação e combinação). A partir dos conhecimentos propostos por Ball, Thames e Phelps (2008), foram criadas seis categorias com foco no PFC para a análise dos conhecimentos dos professores sobre o uso do PFC na resolução de situações combinatórias: conhecimento comum do PFC, conhecimento especializado do PFC, conhecimento horizontal do PFC, conhecimento do PFC e alunos, conhecimento do PFC e ensino e conhecimento do PFC e currículo. Como principais resultados tem-se que, os professores do Ensino Médio melhor reconhecem o uso do PFC, quando comparados com os professores do Ensino Fundamental. O reconhecimento do PFC dos professores do Ensino Médio é muito superior ao dos alunos deste nível de ensino, o que pode indicar que os professores parecem não estar ressaltando este princípio no ensino junto a seus alunos. Os professores evidenciam conhecimentos comum e especializado do PFC, bem como horizontal, mas não indicam como relacionar o princípio multiplicativo com as fórmulas da Análise Combinatória. Evidenciam conhecimento do aluno, mas referente ao conhecimento do ensino não deixam claro como o uso de outras estratégias, tais como árvores de possibilidades e fórmulas, se relacionam com o PFC. Melhores conhecimentos do que é prescrito e apresentado em currículos também são necessários. Conclu i -se que os conhecimentos docentes do PFC podem servir de base para um melhor desenvolvimento do ensino e da aprendizagem da Combinatória, mas há aspectos do conhecimento que os professores necessitam desenvolver melhor. Espera-se, assim, ter contribuído com o levantamento de conhecimentos docentes sobre a Combinatória e também ter trazido contribuições referentes ao papel do Princípio Fundamental da Contagem como eficiente estratégia de ensino, por possibilitar a resolução de diferentes tipos de problemas combinatórios.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
 }

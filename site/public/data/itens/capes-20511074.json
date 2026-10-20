@@ -1,58 +1,58 @@
 {
- "id": "capes-20511074",
- "autor": "Luciana Boemer Cesar Pereira",
- "ano": 2013,
- "tipo": "Dissertação",
- "titulo": "Ensino de Estatística na Escola do Campo: Uma Proposta para um 6º Ano do Ensino Fundamental",
- "instituicao": "Universidade Tecnológica Federal do Paraná",
- "cidade": "",
- "estado": "Paraná",
- "regiao": "Sul",
- "orientador": "Guatacara dos Santos Junior",
- "programa": "Ensino de Ciência e Tecnologia",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino de Estatística. Educação do Campo Livro Didático. Escola do campo.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20DE%20ESTAT%C3%8DSTICA%20NA%20ESCOLA%20DO%20CAMPO%3A%20UMA%20PROPOSTA%20PARA%20UM%206%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20DE%20ESTAT%C3%8DSTICA%20NA%20ESCOLA%20DO%20CAMPO%3A%20UMA%20PROPOSTA%20PARA%20UM%206%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20511074"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "20511074",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino de Estatística. Educação do Campo Livro Didático. Escola do campo."
- ],
- "thumbnail": "./assets/images/thumbs/capes-20511074.svg",
- "resumo": "PEREIRA, Luciana, B. C. Ensino de Estatística na escola do campo: uma proposta para um 6º ano do Ensino Fundamental. 139 f. Dissertação (Mestrado em Ensino de Ciência e Tecnologia) - Universidade Tecnológica Federal do Paraná. Ponta Grossa, 2013. O presente trabalho teve como objetivo analisar as contribuições que a aplicação de uma sequência de ensino na escola do campo poderá trazer para o ensino de Estatística em um 6º ano do Ensino Fundamental. A revisão de literatura referente a Educação do Campo apoia-se em Molina (2012), Caldart (2004, 2012), Vendramini (2007), Cavalcanti (2010) dentre outros. Além disso, buscou-se base nas Diretrizes Curriculares da Educação do Campo do Paraná (2007) e das Diretrizes Operacionais da Educação do Campo (BRASIL, 2002). Quanto a Educação Estatística se apresenta baseada nas três competências de aprendizagem: o letramento estatístico defendido por Soares (1998), Gal (2002), Lopes (2003, 2088 e 2009) e Campos, Wodwotzki e Jacobini (2011), o pensamento estatístico apontado por Wild e Pannkuch (1999) e o raciocínio estatístico definido por Sdlmeier (1999) e Garfild (2002). Além disso, é apresentada propostas de articulação das três competências defendidas por Campos (2007) e Silva (2007). A revisão de literatura referente às características da pesquisa fundamenta-se em, Bogdan (1994), Roesch (1996), Barbosa (2003), Rosa (2009) e Moreira e Caleffe (2008). Com a intenção de alcançar o objetivo proposto, foi desenvolvida no ano de 2012 uma pesquisa aplicada, qualitativa com análise interpretativa e descritiva em uma turma de alunos do 6° ano do Ensino Fundamental de um colégio público estadual do campo do município de Imbituva, Paraná. Primeiramente foi realizada a aplicação de um questionário que foi respondido pelos educandos e seus familiares, configurando o ponto de partida para coletar algumas características desses alunos. Depois foi realizada a análise do livro didático de Matemática disponível nesta escola do campo justificando a importância de elaborar propostas de ensino adaptadas a essa turma de escola do campo. Em seguida foi aplicada uma sequência de ensino que contemplou a organização dos dados coletados no questionário nas mais variadas representações e também o trabalho com conceitos básicos de estatísticas. Verificou-se durante a aplicação da sequência de ensino que os alunos se mostraram motivados ao coletarem, organizarem e resumirem dados representando de várias formas. O envolvimento dos alunos foi positivo, realizaram as atividades com capricho, na busca de transmitir de forma objetiva a informação estatística. Por fim, foi realizado um projeto de sensibilização por meio de dados estatísticos que contribuiu para que os alunos aprendessem a socializar as práticas vivenciadas em sala de aula e assim apresentassem opiniões sobre as leituras realizadas, debatendo temas sociais de sua realidade com a finalidade de apresentar os problemas decorrentes de sua cultura e ao mesmo tempo elencar soluções na busca de um desenvolvimento sustentável. Como produto final deste trabalho foi elaborado um material didático de apoio ao professor contendo uma proposta de ensino de Estatística para o 6º ano do Ensino Fundamental, o qual se encontra anexado a esta dissertação.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-20511074",
+  "autor": "Luciana Boemer Cesar Pereira",
+  "ano": 2013,
+  "tipo": "Dissertação",
+  "titulo": "Ensino de Estatística na Escola do Campo: Uma Proposta para um 6º Ano do Ensino Fundamental",
+  "instituicao": "Universidade Tecnológica Federal do Paraná",
+  "cidade": "",
+  "estado": "Paraná",
+  "regiao": "Sul",
+  "orientador": "Guatacara dos Santos Junior",
+  "programa": "Ensino de Ciência e Tecnologia",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Estatística. Educação do Campo Livro Didático. Escola do campo.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20DE%20ESTAT%C3%8DSTICA%20NA%20ESCOLA%20DO%20CAMPO%3A%20UMA%20PROPOSTA%20PARA%20UM%206%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20DE%20ESTAT%C3%8DSTICA%20NA%20ESCOLA%20DO%20CAMPO%3A%20UMA%20PROPOSTA%20PARA%20UM%206%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20511074"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "20511074",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Estatística. Educação do Campo Livro Didático. Escola do campo."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-20511074.svg",
+  "resumo": "PEREIRA, Luciana, B. C. Ensino de Estatística na escola do campo: uma proposta para um 6º ano do Ensino Fundamental. 139 f. Dissertação (Mestrado em Ensino de Ciência e Tecnologia) - Universidade Tecnológica Federal do Paraná. Ponta Grossa, 2013. O presente trabalho teve como objetivo analisar as contribuições que a aplicação de uma sequência de ensino na escola do campo poderá trazer para o ensino de Estatística em um 6º ano do Ensino Fundamental. A revisão de literatura referente a Educação do Campo apoia-se em Molina (2012), Caldart (2004, 2012), Vendramini (2007), Cavalcanti (2010) dentre outros. Além disso, buscou-se base nas Diretrizes Curriculares da Educação do Campo do Paraná (2007) e das Diretrizes Operacionais da Educação do Campo (BRASIL, 2002). Quanto a Educação Estatística se apresenta baseada nas três competências de aprendizagem: o letramento estatístico defendido por Soares (1998), Gal (2002), Lopes (2003, 2088 e 2009) e Campos, Wodwotzki e Jacobini (2011), o pensamento estatístico apontado por Wild e Pannkuch (1999) e o raciocínio estatístico definido por Sdlmeier (1999) e Garfild (2002). Além disso, é apresentada propostas de articulação das três competências defendidas por Campos (2007) e Silva (2007). A revisão de literatura referente às características da pesquisa fundamenta-se em, Bogdan (1994), Roesch (1996), Barbosa (2003), Rosa (2009) e Moreira e Caleffe (2008). Com a intenção de alcançar o objetivo proposto, foi desenvolvida no ano de 2012 uma pesquisa aplicada, qualitativa com análise interpretativa e descritiva em uma turma de alunos do 6° ano do Ensino Fundamental de um colégio público estadual do campo do município de Imbituva, Paraná. Primeiramente foi realizada a aplicação de um questionário que foi respondido pelos educandos e seus familiares, configurando o ponto de partida para coletar algumas características desses alunos. Depois foi realizada a análise do livro didático de Matemática disponível nesta escola do campo justificando a importância de elaborar propostas de ensino adaptadas a essa turma de escola do campo. Em seguida foi aplicada uma sequência de ensino que contemplou a organização dos dados coletados no questionário nas mais variadas representações e também o trabalho com conceitos básicos de estatísticas. Verificou-se durante a aplicação da sequência de ensino que os alunos se mostraram motivados ao coletarem, organizarem e resumirem dados representando de várias formas. O envolvimento dos alunos foi positivo, realizaram as atividades com capricho, na busca de transmitir de forma objetiva a informação estatística. Por fim, foi realizado um projeto de sensibilização por meio de dados estatísticos que contribuiu para que os alunos aprendessem a socializar as práticas vivenciadas em sala de aula e assim apresentassem opiniões sobre as leituras realizadas, debatendo temas sociais de sua realidade com a finalidade de apresentar os problemas decorrentes de sua cultura e ao mesmo tempo elencar soluções na busca de um desenvolvimento sustentável. Como produto final deste trabalho foi elaborado um material didático de apoio ao professor contendo uma proposta de ensino de Estatística para o 6º ano do Ensino Fundamental, o qual se encontra anexado a esta dissertação.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }
