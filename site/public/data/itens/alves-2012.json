@@ -1,64 +1,64 @@
 {
- "id": "alves-2012",
- "autor": "Renato de Carvalho Alves",
- "ano": 2012,
- "tipo": "Dissertação",
- "titulo": "O ensino da análise combinatória na educação básica e a formação de professores",
- "instituicao": "Universidade Federal do Rio de Janeiro",
- "cidade": "",
- "estado": "Rio de Janeiro",
- "regiao": "Sudeste",
- "orientador": "Claudia Vianna",
- "programa": "Ensino de Matemática",
- "area": "Ensino de Matemática",
- "nivel_codigo": "8",
- "nivel": "Indefinido",
- "foco_codigo": "2",
- "foco": "Formação inicial/continuada e desenvolvimento profissional de professores",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "Combinatória",
- "problema": "mostrar a importância de considerarmos vários fatores que influenciam o ensino e a aprendizagem da Análise Combinatória.",
- "metodologia": "Foram analisamos e classificados problemas combinatórios em três coleções de livros do Ensino Fundamental, em dois livros do Ensino Médio, e em provas de vestibular, do ENEM e da OBMEP, constatando que os problemas não possuem variabilidade do ponto de vista do MCI. Após esta etapa, foram aplicados dois questionários a alunos de Licenciatura em Matemática.",
- "contribuicoes": "A análise das respostas e tipos de erros encontrados mostrou que mesmo futuros professores de matemática trazem diversas lacunas e idéias equivocadas sobre Análise Combinatória. Foi constatado que tanto professores da Educação Básica quanto do Ensino Superior devem considerar esses fatores, para que seus alunos consigam desenvolver plenamente o raciocínio combinatório.",
- "palavras_chave": "Análise combinatória, ensino, formação de professores, contagem, raciocínio combinatório, livros didáticos",
- "referencial": "Dubois, teoria do modelo combinatório implícito (MCI); A análise dos questionário foi inspirada em Batanero, Navarro-Pelayo e Godino",
- "revisado": true,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22O+ensino+da+an%C3%A1lise+combinat%C3%B3ria+na+educa%C3%A7%C3%A3o+b%C3%A1sica+e+a+forma%C3%A7%C3%A3o+de+professores%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+ensino+da+an%C3%A1lise+combinat%C3%B3ria+na+educa%C3%A7%C3%A3o+b%C3%A1sica+e+a+forma%C3%A7%C3%A3o+de+professores&type=AllFields",
-  "bdtd_registro": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+ensino+da+an%C3%A1lise+combinat%C3%B3ria+na+educa%C3%A7%C3%A3o+b%C3%A1sica+e+a+forma%C3%A7%C3%A3o+de+professores&type=AllFields"
- },
- "bdtd": {
-  "status": "baixa_confianca",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-17"
- },
- "autor_planilha": "ALVES, R. C.",
- "orientador_planilha": "Claudia Vianna",
- "autor_capes": "RENATO DE CARVALHO ALVES",
- "programa_capes": "Ensino de Matemática",
- "instituicao_capes": "Universidade Federal do Rio de Janeiro",
- "cidade_capes": "Rio de Janeiro",
- "capes": {
-  "status": "ok",
-  "score": 0.991,
-  "id": "2012131001017122P6",
-  "url": "undefined",
-  "consultado_em": "2026-10-17"
- },
- "bdtd_api": {
-  "status": "nao_encontrado",
-  "score": 0.51
- },
- "tags": [
-  "Análise combinatória",
-  "ensino",
-  "formação de professores",
-  "contagem",
-  "raciocínio combinatório",
-  "livros didáticos"
- ],
- "thumbnail": "./assets/images/thumbs/alves-2012.svg"
+  "id": "alves-2012",
+  "autor": "Renato de Carvalho Alves",
+  "ano": 2012,
+  "tipo": "Dissertação",
+  "titulo": "O ensino da análise combinatória na educação básica e a formação de professores",
+  "instituicao": "Universidade Federal do Rio de Janeiro",
+  "cidade": "",
+  "estado": "Rio de Janeiro",
+  "regiao": "Sudeste",
+  "orientador": "Claudia Vianna",
+  "programa": "Ensino de Matemática",
+  "area": "Ensino de Matemática",
+  "nivel_codigo": "8",
+  "nivel": "Indefinido",
+  "foco_codigo": "2",
+  "foco": "Formação inicial/continuada e desenvolvimento profissional de professores",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Combinatória",
+  "problema": "mostrar a importância de considerarmos vários fatores que influenciam o ensino e a aprendizagem da Análise Combinatória.",
+  "metodologia": "Foram analisamos e classificados problemas combinatórios em três coleções de livros do Ensino Fundamental, em dois livros do Ensino Médio, e em provas de vestibular, do ENEM e da OBMEP, constatando que os problemas não possuem variabilidade do ponto de vista do MCI. Após esta etapa, foram aplicados dois questionários a alunos de Licenciatura em Matemática.",
+  "contribuicoes": "A análise das respostas e tipos de erros encontrados mostrou que mesmo futuros professores de matemática trazem diversas lacunas e idéias equivocadas sobre Análise Combinatória. Foi constatado que tanto professores da Educação Básica quanto do Ensino Superior devem considerar esses fatores, para que seus alunos consigam desenvolver plenamente o raciocínio combinatório.",
+  "palavras_chave": "Análise combinatória, ensino, formação de professores, contagem, raciocínio combinatório, livros didáticos",
+  "referencial": "Dubois, teoria do modelo combinatório implícito (MCI); A análise dos questionário foi inspirada em Batanero, Navarro-Pelayo e Godino",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O+ensino+da+an%C3%A1lise+combinat%C3%B3ria+na+educa%C3%A7%C3%A3o+b%C3%A1sica+e+a+forma%C3%A7%C3%A3o+de+professores%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+ensino+da+an%C3%A1lise+combinat%C3%B3ria+na+educa%C3%A7%C3%A3o+b%C3%A1sica+e+a+forma%C3%A7%C3%A3o+de+professores&type=AllFields",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+ensino+da+an%C3%A1lise+combinat%C3%B3ria+na+educa%C3%A7%C3%A3o+b%C3%A1sica+e+a+forma%C3%A7%C3%A3o+de+professores&type=AllFields"
+  },
+  "bdtd": {
+    "status": "baixa_confianca",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "ALVES, R. C.",
+  "orientador_planilha": "Claudia Vianna",
+  "autor_capes": "RENATO DE CARVALHO ALVES",
+  "programa_capes": "Ensino de Matemática",
+  "instituicao_capes": "Universidade Federal do Rio de Janeiro",
+  "cidade_capes": "Rio de Janeiro",
+  "capes": {
+    "status": "ok",
+    "score": 0.991,
+    "id": "2012131001017122P6",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.51
+  },
+  "tags": [
+    "Análise combinatória",
+    "ensino",
+    "formação de professores",
+    "contagem",
+    "raciocínio combinatório",
+    "livros didáticos"
+  ],
+  "thumbnail": "./assets/images/thumbs/alves-2012.svg"
 }

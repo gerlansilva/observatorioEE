@@ -1,55 +1,55 @@
 {
- "id": "contini-neto-2012",
- "autor": "Florindo Contini Neto",
- "ano": 2012,
- "tipo": "Dissertação",
- "titulo": "Autorregulação de estratégias de memória na aprendizagem de estatística e os níveis de letramento estatístico de estudantes de ensino médio de escolas estaduais de são paulo",
- "instituicao": "Universidade Bandeirantes de São Paulo",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Maria Helena Palma de Oliveira",
- "programa": "Educação Matemática",
- "area": "Educação Matemática",
- "nivel_codigo": "",
- "nivel": "Não informado",
- "foco_codigo": "",
- "foco": "Não informado",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "Estatística",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Autorregula%C3%A7%C3%A3o+de+estrat%C3%A9gias+de+mem%C3%B3ria+na+aprendizagem+de+estat%C3%ADstica+e+os+n%C3%ADveis+de+letramento+estat%C3%ADstico+de+estudantes+de+ensino+m%C3%A9dio+de+escolas+estaduais+de+s%C3%A3o+paulo%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Autorregula%C3%A7%C3%A3o+de+estrat%C3%A9gias+de+mem%C3%B3ria+na+aprendizagem+de+estat%C3%ADstica+e+os+n%C3%ADveis+de+letramento+estat%C3%ADstico+de+estudantes+de+ensino+m%C3%A9dio+de+escolas+estaduais+de+s%C3%A3o+paulo&type=AllFields",
-  "bdtd_registro": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Autorregula%C3%A7%C3%A3o+de+estrat%C3%A9gias+de+mem%C3%B3ria+na+aprendizagem+de+estat%C3%ADstica+e+os+n%C3%ADveis+de+letramento+estat%C3%ADstico+de+estudantes+de+ensino+m%C3%A9dio+de+escolas+estaduais+de+s%C3%A3o+paulo&type=AllFields"
- },
- "capes": {
-  "status": "baixa_confianca",
-  "score": 0.684,
-  "candidato": "undefined",
-  "consultado_em": "2026-10-17"
- },
- "autor_planilha": "CONTINI NETO, F.",
- "orientador_planilha": "Maria de Oliveira",
- "instituicao_agente": "Universidade Anhanguera de São Paulo (UNIAN; antiga Universidade Bandeirante de São Paulo — UNIBAN)",
- "instituicao_planilha": "Universidade Bandeirantes de São Paulo",
- "programa_agente": "Educação Matemática",
- "programa_planilha": "Educação Matemática",
- "enriquecimento_manual": {
-  "fonte": "Catálogo de Teses e Dissertações da CAPES (registro id 2012933107017003P8)",
-  "confianca": "media",
-  "observacao": "Registro CAPES confirmado: 'Estratégias de memória na autorregulação da aprendizagem de estatística de alunos do Ensino Médio', Florindo Contini Neto, 156 p., defesa em 2012, orientadora Maria Helena Palma de Oliveira. O título do lote é mais longo e difere do título registrado na CAPES, mas autor, ano, instituição e tema são compatíveis. O repositório da Kroton/Cogna estava fora do ar durante a verificação."
- },
- "bdtd_api": {
-  "status": "nao_encontrado",
-  "score": 0.442
- },
- "tags": [],
- "thumbnail": "./assets/images/thumbs/contini-neto-2012.svg"
+  "id": "contini-neto-2012",
+  "autor": "Florindo Contini Neto",
+  "ano": 2012,
+  "tipo": "Dissertação",
+  "titulo": "Autorregulação de estratégias de memória na aprendizagem de estatística e os níveis de letramento estatístico de estudantes de ensino médio de escolas estaduais de são paulo",
+  "instituicao": "Universidade Bandeirantes de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Maria Helena Palma de Oliveira",
+  "programa": "Educação Matemática",
+  "area": "Educação Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "",
+  "foco": "Não informado",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Autorregula%C3%A7%C3%A3o+de+estrat%C3%A9gias+de+mem%C3%B3ria+na+aprendizagem+de+estat%C3%ADstica+e+os+n%C3%ADveis+de+letramento+estat%C3%ADstico+de+estudantes+de+ensino+m%C3%A9dio+de+escolas+estaduais+de+s%C3%A3o+paulo%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Autorregula%C3%A7%C3%A3o+de+estrat%C3%A9gias+de+mem%C3%B3ria+na+aprendizagem+de+estat%C3%ADstica+e+os+n%C3%ADveis+de+letramento+estat%C3%ADstico+de+estudantes+de+ensino+m%C3%A9dio+de+escolas+estaduais+de+s%C3%A3o+paulo&type=AllFields",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Autorregula%C3%A7%C3%A3o+de+estrat%C3%A9gias+de+mem%C3%B3ria+na+aprendizagem+de+estat%C3%ADstica+e+os+n%C3%ADveis+de+letramento+estat%C3%ADstico+de+estudantes+de+ensino+m%C3%A9dio+de+escolas+estaduais+de+s%C3%A3o+paulo&type=AllFields"
+  },
+  "capes": {
+    "status": "baixa_confianca",
+    "score": 0.684,
+    "candidato": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "CONTINI NETO, F.",
+  "orientador_planilha": "Maria de Oliveira",
+  "instituicao_agente": "Universidade Anhanguera de São Paulo (UNIAN; antiga Universidade Bandeirante de São Paulo — UNIBAN)",
+  "instituicao_planilha": "Universidade Bandeirantes de São Paulo",
+  "programa_agente": "Educação Matemática",
+  "programa_planilha": "Educação Matemática",
+  "enriquecimento_manual": {
+    "fonte": "Catálogo de Teses e Dissertações da CAPES (registro id 2012933107017003P8)",
+    "confianca": "media",
+    "observacao": "Registro CAPES confirmado: 'Estratégias de memória na autorregulação da aprendizagem de estatística de alunos do Ensino Médio', Florindo Contini Neto, 156 p., defesa em 2012, orientadora Maria Helena Palma de Oliveira. O título do lote é mais longo e difere do título registrado na CAPES, mas autor, ano, instituição e tema são compatíveis. O repositório da Kroton/Cogna estava fora do ar durante a verificação."
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.442
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/contini-neto-2012.svg"
 }

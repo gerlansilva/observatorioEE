@@ -1,55 +1,55 @@
 {
- "id": "nunes-2009",
- "autor": "Elvira Maria Alves Nunes",
- "ano": 2002,
- "tipo": "Dissertação",
- "titulo": "Avaliação da aprendizagem no ensino superior: uma prática no ensino de estatística",
- "instituicao": "Faculdade de Filosofia, Ciências e Letras de Jandaia do Sul",
- "cidade": "",
- "estado": "Paraná",
- "regiao": "Sul",
- "orientador": "Sebastião Marcos Ribeiro de Carvalho",
- "programa": "Educação",
- "area": "Educação",
- "nivel_codigo": "",
- "nivel": "Não informado",
- "foco_codigo": "",
- "foco": "Não informado",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "Estatística",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Avalia%C3%A7%C3%A3o+da+aprendizagem+no+ensino+superior%3A+uma+pr%C3%A1tica+no+ensino+de+estat%C3%ADstica%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Avalia%C3%A7%C3%A3o+da+aprendizagem+no+ensino+superior%3A+uma+pr%C3%A1tica+no+ensino+de+estat%C3%ADstica&type=AllFields",
-  "bdtd_registro": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Avalia%C3%A7%C3%A3o+da+aprendizagem+no+ensino+superior%3A+uma+pr%C3%A1tica+no+ensino+de+estat%C3%ADstica&type=AllFields"
- },
- "capes": {
-  "status": "baixa_confianca",
-  "score": 0.461,
-  "candidato": "https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=13513562",
-  "consultado_em": "2026-10-17"
- },
- "autor_planilha": "NUNES, E. M. A.",
- "orientador_planilha": "Sebastião de Carvalho",
- "instituicao_agente": "Faculdade de Filosofia, Ciências e Letras de Jandaia do Sul (FAFIJAN)",
- "programa_agente": "Mestrado em Educação: Formação de Professores",
- "enriquecimento_manual": {
-  "fonte": "Currículo Lattes da autora e do orientador (via Escavador)",
-  "confianca": "media",
-  "observacao": "Título, autoria e instituição coincidem exatamente, mas o ano correto é 2002, e não 2009: o Lattes do orientador registra 'Elvira Maria Alves Nunes — Avaliação da Aprendizagem no Ensino Superior: uma prática no ensino de estatística; 2002; Dissertação (Mestrado em Educação: Formação de Professores) — FAFIJAN; Orientador: Sebastião Marcos Ribeiro de Carvalho', e o Lattes da autora indica mestrado concluído em 2002. O ano 2009 do registro original parece incorreto. Não há registro em repositório digital, BDTD ou Catálogo CAPES."
- },
- "instituicao_planilha": "Faculdade de Filosofia, Ciências e Letras de Jandaia do Sul",
- "programa_planilha": "Educação",
- "bdtd_api": {
-  "status": "nao_encontrado",
-  "score": 0.608
- },
- "tags": [],
- "thumbnail": "./assets/images/thumbs/nunes-2009.svg"
+  "id": "nunes-2009",
+  "autor": "Elvira Maria Alves Nunes",
+  "ano": 2002,
+  "tipo": "Dissertação",
+  "titulo": "Avaliação da aprendizagem no ensino superior: uma prática no ensino de estatística",
+  "instituicao": "Faculdade de Filosofia, Ciências e Letras de Jandaia do Sul",
+  "cidade": "",
+  "estado": "Paraná",
+  "regiao": "Sul",
+  "orientador": "Sebastião Marcos Ribeiro de Carvalho",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "",
+  "foco": "Não informado",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Avalia%C3%A7%C3%A3o+da+aprendizagem+no+ensino+superior%3A+uma+pr%C3%A1tica+no+ensino+de+estat%C3%ADstica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Avalia%C3%A7%C3%A3o+da+aprendizagem+no+ensino+superior%3A+uma+pr%C3%A1tica+no+ensino+de+estat%C3%ADstica&type=AllFields",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Avalia%C3%A7%C3%A3o+da+aprendizagem+no+ensino+superior%3A+uma+pr%C3%A1tica+no+ensino+de+estat%C3%ADstica&type=AllFields"
+  },
+  "capes": {
+    "status": "baixa_confianca",
+    "score": 0.461,
+    "candidato": "https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=13513562",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "NUNES, E. M. A.",
+  "orientador_planilha": "Sebastião de Carvalho",
+  "instituicao_agente": "Faculdade de Filosofia, Ciências e Letras de Jandaia do Sul (FAFIJAN)",
+  "programa_agente": "Mestrado em Educação: Formação de Professores",
+  "enriquecimento_manual": {
+    "fonte": "Currículo Lattes da autora e do orientador (via Escavador)",
+    "confianca": "media",
+    "observacao": "Título, autoria e instituição coincidem exatamente, mas o ano correto é 2002, e não 2009: o Lattes do orientador registra 'Elvira Maria Alves Nunes — Avaliação da Aprendizagem no Ensino Superior: uma prática no ensino de estatística; 2002; Dissertação (Mestrado em Educação: Formação de Professores) — FAFIJAN; Orientador: Sebastião Marcos Ribeiro de Carvalho', e o Lattes da autora indica mestrado concluído em 2002. O ano 2009 do registro original parece incorreto. Não há registro em repositório digital, BDTD ou Catálogo CAPES."
+  },
+  "instituicao_planilha": "Faculdade de Filosofia, Ciências e Letras de Jandaia do Sul",
+  "programa_planilha": "Educação",
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.608
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/nunes-2009.svg"
 }

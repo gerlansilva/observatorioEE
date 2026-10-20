@@ -1,53 +1,53 @@
 {
- "id": "fujii-2006",
- "autor": "Noemi Pinheiro do Nascimento Fujii",
- "ano": 2006,
- "tipo": "Dissertação",
- "titulo": "Modelagem e sequenciamento de objetos de aprendizagem de estatística",
- "instituicao": "Universidade Cruzeiro do Sul",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Ismar Frango Silveira",
- "programa": "Ensino de Ciências e Matemática",
- "area": "Ensino de Ciências e Matemática",
- "nivel_codigo": "",
- "nivel": "Não informado",
- "foco_codigo": "",
- "foco": "Não informado",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "Estatística",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Modelagem+e+sequenciamento+de+objetos+de+aprendizagem+de+estat%C3%ADstica%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Modelagem+e+sequenciamento+de+objetos+de+aprendizagem+de+estat%C3%ADstica&type=AllFields",
-  "bdtd_registro": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Modelagem+e+sequenciamento+de+objetos+de+aprendizagem+de+estat%C3%ADstica&type=AllFields"
- },
- "capes": {
-  "status": "baixa_confianca",
-  "score": 0.454,
-  "candidato": "undefined",
-  "consultado_em": "2026-10-17"
- },
- "autor_planilha": "FUJII, N. P. N.",
- "bdtd_api": {
-  "status": "nao_encontrado",
-  "score": 0.526
- },
- "tags": [],
- "orientador_planilha": "Ismar Silveira",
- "instituicao_agente": "Universidade Cruzeiro do Sul (UNICSUL)",
- "programa_agente": "Programa de Pós-Graduação em Ensino de Ciências e Matemática (Mestrado Profissionalizante)",
- "enriquecimento_manual": {
-  "fonte": "Relação de teses e dissertações da Zetetiké (2007); Catálogo CAPES",
-  "confianca": "alta",
-  "observacao": "Título real no CAPES/Zetetiké: 'Uma proposta de objetos de aprendizagem reutilizáveis adaptativos para o ensino de estatística'. Autor, instituição, ano e orientador coincidem. O link localizado é de um artigo, não da dissertação; por isso não foi usado como link do registro."
- },
- "thumbnail": "./assets/images/thumbs/fujii-2006.svg"
+  "id": "fujii-2006",
+  "autor": "Noemi Pinheiro do Nascimento Fujii",
+  "ano": 2006,
+  "tipo": "Dissertação",
+  "titulo": "Modelagem e sequenciamento de objetos de aprendizagem de estatística",
+  "instituicao": "Universidade Cruzeiro do Sul",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Ismar Frango Silveira",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "",
+  "foco": "Não informado",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "Estatística",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Modelagem+e+sequenciamento+de+objetos+de+aprendizagem+de+estat%C3%ADstica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Modelagem+e+sequenciamento+de+objetos+de+aprendizagem+de+estat%C3%ADstica&type=AllFields",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Modelagem+e+sequenciamento+de+objetos+de+aprendizagem+de+estat%C3%ADstica&type=AllFields"
+  },
+  "capes": {
+    "status": "baixa_confianca",
+    "score": 0.454,
+    "candidato": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "FUJII, N. P. N.",
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.526
+  },
+  "tags": [],
+  "orientador_planilha": "Ismar Silveira",
+  "instituicao_agente": "Universidade Cruzeiro do Sul (UNICSUL)",
+  "programa_agente": "Programa de Pós-Graduação em Ensino de Ciências e Matemática (Mestrado Profissionalizante)",
+  "enriquecimento_manual": {
+    "fonte": "Relação de teses e dissertações da Zetetiké (2007); Catálogo CAPES",
+    "confianca": "alta",
+    "observacao": "Título real no CAPES/Zetetiké: 'Uma proposta de objetos de aprendizagem reutilizáveis adaptativos para o ensino de estatística'. Autor, instituição, ano e orientador coincidem. O link localizado é de um artigo, não da dissertação; por isso não foi usado como link do registro."
+  },
+  "thumbnail": "./assets/images/thumbs/fujii-2006.svg"
 }

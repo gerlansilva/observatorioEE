@@ -1,45 +1,45 @@
 {
- "id": "vasconcelos-2003",
- "autor": "D. M. Vasconcelos",
- "ano": 2003,
- "tipo": "Dissertação",
- "titulo": "O ensino de linguagem de programação baseado em pedagogia por projetos e EAD colaborativa:estudo de casos em estatística.",
- "instituicao": "Universidade Estadual do Ceará",
- "cidade": "Fortaleza",
- "estado": "Ceará",
- "regiao": "Nordeste",
- "orientador": "Airton Xavier",
- "programa": "Computação",
- "area": "Computação",
- "nivel_codigo": "7",
- "nivel": "Ensino Superior",
- "foco_codigo": "3",
- "foco": "TICs, materiais e recursos didáticos",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "Estatística",
- "problema": "Este trabalho aplica as tecnologias de Educação a Distância (EAD) ao processo de ensino-aprendizagem de Linguagem de Programação apoiado pela Pedagogia por Projetos. Utiliza-se de EAD colaborativa, rompendo com o modelo de EAD tradicional (1 professor – N alunos) e implementando a aprendizagem participativa (N professores/formadores – N alunos, organizados em grupos), na qual a informação que anteriormente era apenas compartilhada, passa a ser construída e/ou modificada pelos próprios alunos na sua própria base de dados.",
- "metodologia": "Foram utilizados conceitos de Sistemas de Raciocínio Baseado em Casos, adaptados da proposta do ambiente RaBeCa, desenvolvido na USP, e foram feitas implementações no ambiente TelEduc, desenvolvido pela Unicamp. O modelo proposto é denominado WEP4 (acrônimo de “W” (Web); “E” (Educação) e “PPPP” (Pedagogia por Projetos, Programação & Probabilidade ) com arquitetura definida por blocos interconectados: Linguagem de Programação, Pedagogia por Projetos, Módulos Educativos, recursos de EAD e contribuições ao Ciberespaço, através da construção de “home-pages” (didáticas e sistemáticas) e criação de um ambiente “free-code” em Estatística. Os programas desenvolvidos pelos alunos são considerados entidades dinâmicas, nas quais mais do que regras de sintaxe e aplicações semânticas, aplicam-se estratégias cognitivas ao processamento da informação. A implementação do modelo foi realizada no Centro Federal de Educação Tecnológica do Ceará, onde a pesquisa em EAD é relevante.",
- "contribuicoes": "Concluiu-se que o modelo estimula o aluno a “aprender a aprender”, a construir seu próprio conhecimento através de aprendizagem ativa, sendo os problemas retirados da realidade do dia-a-dia e o direcionamento da aprendizagem feito pelos próprios alunos organizados em grupos (de forma espontânea), permitindo que as habilidades e competências adquiridas em linguagem de programação sejam transferidas para outras áreas do saber, colaborando com a construção da inteligência coletiva.",
- "palavras_chave": "",
- "referencial": "",
- "revisado": true,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22O+ensino+de+linguagem+de+programa%C3%A7%C3%A3o+baseado+em+pedagogia+por+projetos+e+EAD+colaborativa%3Aestudo+de+casos+em+estat%C3%ADstica.%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+ensino+de+linguagem+de+programa%C3%A7%C3%A3o+baseado+em+pedagogia+por+projetos+e+EAD+colaborativa%3Aestudo+de+casos+em+estat%C3%ADstica.&type=AllFields",
-  "bdtd_registro": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+ensino+de+linguagem+de+programa%C3%A7%C3%A3o+baseado+em+pedagogia+por+projetos+e+EAD+colaborativa%3Aestudo+de+casos+em+estat%C3%ADstica.&type=AllFields"
- },
- "capes": {
-  "status": "baixa_confianca",
-  "score": 0.445,
-  "candidato": "https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=8220922",
-  "consultado_em": "2026-10-17"
- },
- "autor_planilha": "VASCONCELOS, D. M.",
- "bdtd_api": {
-  "status": "nao_encontrado",
-  "score": 0.343
- },
- "tags": [],
- "thumbnail": "./assets/images/thumbs/vasconcelos-2003.svg"
+  "id": "vasconcelos-2003",
+  "autor": "D. M. Vasconcelos",
+  "ano": 2003,
+  "tipo": "Dissertação",
+  "titulo": "O ensino de linguagem de programação baseado em pedagogia por projetos e EAD colaborativa:estudo de casos em estatística.",
+  "instituicao": "Universidade Estadual do Ceará",
+  "cidade": "Fortaleza",
+  "estado": "Ceará",
+  "regiao": "Nordeste",
+  "orientador": "Airton Xavier",
+  "programa": "Computação",
+  "area": "Computação",
+  "nivel_codigo": "7",
+  "nivel": "Ensino Superior",
+  "foco_codigo": "3",
+  "foco": "TICs, materiais e recursos didáticos",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "Este trabalho aplica as tecnologias de Educação a Distância (EAD) ao processo de ensino-aprendizagem de Linguagem de Programação apoiado pela Pedagogia por Projetos. Utiliza-se de EAD colaborativa, rompendo com o modelo de EAD tradicional (1 professor – N alunos) e implementando a aprendizagem participativa (N professores/formadores – N alunos, organizados em grupos), na qual a informação que anteriormente era apenas compartilhada, passa a ser construída e/ou modificada pelos próprios alunos na sua própria base de dados.",
+  "metodologia": "Foram utilizados conceitos de Sistemas de Raciocínio Baseado em Casos, adaptados da proposta do ambiente RaBeCa, desenvolvido na USP, e foram feitas implementações no ambiente TelEduc, desenvolvido pela Unicamp. O modelo proposto é denominado WEP4 (acrônimo de “W” (Web); “E” (Educação) e “PPPP” (Pedagogia por Projetos, Programação & Probabilidade ) com arquitetura definida por blocos interconectados: Linguagem de Programação, Pedagogia por Projetos, Módulos Educativos, recursos de EAD e contribuições ao Ciberespaço, através da construção de “home-pages” (didáticas e sistemáticas) e criação de um ambiente “free-code” em Estatística. Os programas desenvolvidos pelos alunos são considerados entidades dinâmicas, nas quais mais do que regras de sintaxe e aplicações semânticas, aplicam-se estratégias cognitivas ao processamento da informação. A implementação do modelo foi realizada no Centro Federal de Educação Tecnológica do Ceará, onde a pesquisa em EAD é relevante.",
+  "contribuicoes": "Concluiu-se que o modelo estimula o aluno a “aprender a aprender”, a construir seu próprio conhecimento através de aprendizagem ativa, sendo os problemas retirados da realidade do dia-a-dia e o direcionamento da aprendizagem feito pelos próprios alunos organizados em grupos (de forma espontânea), permitindo que as habilidades e competências adquiridas em linguagem de programação sejam transferidas para outras áreas do saber, colaborando com a construção da inteligência coletiva.",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O+ensino+de+linguagem+de+programa%C3%A7%C3%A3o+baseado+em+pedagogia+por+projetos+e+EAD+colaborativa%3Aestudo+de+casos+em+estat%C3%ADstica.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+ensino+de+linguagem+de+programa%C3%A7%C3%A3o+baseado+em+pedagogia+por+projetos+e+EAD+colaborativa%3Aestudo+de+casos+em+estat%C3%ADstica.&type=AllFields",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+ensino+de+linguagem+de+programa%C3%A7%C3%A3o+baseado+em+pedagogia+por+projetos+e+EAD+colaborativa%3Aestudo+de+casos+em+estat%C3%ADstica.&type=AllFields"
+  },
+  "capes": {
+    "status": "baixa_confianca",
+    "score": 0.445,
+    "candidato": "https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=8220922",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "VASCONCELOS, D. M.",
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.343
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/vasconcelos-2003.svg"
 }

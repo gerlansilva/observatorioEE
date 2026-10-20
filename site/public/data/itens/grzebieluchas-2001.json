@@ -1,45 +1,45 @@
 {
- "id": "grzebieluchas-2001",
- "autor": "J. Grzebieluchas",
- "ano": 2001,
- "tipo": "Dissertação",
- "titulo": "A estatística na matemática do ensino fundamental: uma proposta pedagógica que estabelece vínculos com o cotidiano",
- "instituicao": "Faculdade de Filosofia, Ciências e Letras de Palmas",
- "cidade": "Palmas",
- "estado": "Paraná",
- "regiao": "Sul",
- "orientador": "Ireno Berticelli",
- "programa": "Matemática",
- "area": "Estatística e Matemática",
- "nivel_codigo": "",
- "nivel": "Não informado",
- "foco_codigo": "",
- "foco": "Não informado",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "Estatística",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22A+estat%C3%ADstica+na+matem%C3%A1tica+do+ensino+fundamental%3A+uma+proposta+pedag%C3%B3gica+que+estabelece+v%C3%ADnculos+com+o+cotidiano%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+estat%C3%ADstica+na+matem%C3%A1tica+do+ensino+fundamental%3A+uma+proposta+pedag%C3%B3gica+que+estabelece+v%C3%ADnculos+com+o+cotidiano&type=AllFields",
-  "bdtd_registro": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+estat%C3%ADstica+na+matem%C3%A1tica+do+ensino+fundamental%3A+uma+proposta+pedag%C3%B3gica+que+estabelece+v%C3%ADnculos+com+o+cotidiano&type=AllFields"
- },
- "capes": {
-  "status": "baixa_confianca",
-  "score": 0.421,
-  "candidato": "undefined",
-  "consultado_em": "2026-10-17"
- },
- "autor_planilha": "GRZEBIELUCHAS, J.",
- "bdtd_api": {
-  "status": "nao_encontrado",
-  "score": 0.454
- },
- "tags": [],
- "thumbnail": "./assets/images/thumbs/grzebieluchas-2001.svg"
+  "id": "grzebieluchas-2001",
+  "autor": "J. Grzebieluchas",
+  "ano": 2001,
+  "tipo": "Dissertação",
+  "titulo": "A estatística na matemática do ensino fundamental: uma proposta pedagógica que estabelece vínculos com o cotidiano",
+  "instituicao": "Faculdade de Filosofia, Ciências e Letras de Palmas",
+  "cidade": "Palmas",
+  "estado": "Paraná",
+  "regiao": "Sul",
+  "orientador": "Ireno Berticelli",
+  "programa": "Matemática",
+  "area": "Estatística e Matemática",
+  "nivel_codigo": "",
+  "nivel": "Não informado",
+  "foco_codigo": "",
+  "foco": "Não informado",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A+estat%C3%ADstica+na+matem%C3%A1tica+do+ensino+fundamental%3A+uma+proposta+pedag%C3%B3gica+que+estabelece+v%C3%ADnculos+com+o+cotidiano%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+estat%C3%ADstica+na+matem%C3%A1tica+do+ensino+fundamental%3A+uma+proposta+pedag%C3%B3gica+que+estabelece+v%C3%ADnculos+com+o+cotidiano&type=AllFields",
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+estat%C3%ADstica+na+matem%C3%A1tica+do+ensino+fundamental%3A+uma+proposta+pedag%C3%B3gica+que+estabelece+v%C3%ADnculos+com+o+cotidiano&type=AllFields"
+  },
+  "capes": {
+    "status": "baixa_confianca",
+    "score": 0.421,
+    "candidato": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "autor_planilha": "GRZEBIELUCHAS, J.",
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.454
+  },
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/grzebieluchas-2001.svg"
 }
