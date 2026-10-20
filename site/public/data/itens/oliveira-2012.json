@@ -28,7 +28,8 @@
     "google_scholar": "https://scholar.google.com/scholar?q=%22A+provinha+Brasil+de+matem%C3%A1tica+e+o+conhecimento+estat%C3%ADstico%3A+instrumento+avaliativo+a+ser+usado+pelo+professor%3F%22",
     "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+provinha+Brasil+de+matem%C3%A1tica+e+o+conhecimento+estat%C3%ADstico%3A+instrumento+avaliativo+a+ser+usado+pelo+professor%3F&type=AllFields",
     "registro_institucional": "https://repositorio.ufpe.br/handle/123456789/13031",
-    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UFPE_79749ebd0c11f3e42ea4152ae1ebd503"
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/UFPE_79749ebd0c11f3e42ea4152ae1ebd503",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/599167"
   },
   "capes": {
     "status": "ok",

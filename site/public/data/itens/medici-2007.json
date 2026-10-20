@@ -29,7 +29,8 @@
     "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+constru%C3%A7%C3%A3o+do+pensamento+estat%C3%ADstico%3Aorganiza%C3%A7%C3%A3o%2C+representa%C3%A7%C3%A3o+e+interpreta%C3%A7%C3%A3o+de+dados+por+alunos+da+5%C2%AA+s%C3%A9riedo+ensino+fundamental&type=AllFields",
     "texto_completo": "https://tede2.pucsp.br/bitstream/handle/11125/1/dissertacao_michele_medici.pdf",
     "registro_institucional": "https://tede2.pucsp.br/handle/handle/11125",
-    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_137f313abd621e47c117bf6aa151acee"
+    "bdtd_registro": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_137f313abd621e47c117bf6aa151acee",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/385823"
   },
   "autor_planilha": "MEDICI, M.",
   "orientador_planilha": "Cileda Coutinho",

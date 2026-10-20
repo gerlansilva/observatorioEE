@@ -1,5 +1,5 @@
 {
-  "total": 945,
+  "total": 880,
   "periodo": {
     "inicio": 1984,
     "fim": 2024
@@ -7,7 +7,7 @@
   "instituicoes": 172,
   "estados": 26,
   "regioes": 5,
-  "atualizado_em": "2026-10-20T20:25:16+00:00",
+  "atualizado_em": "2026-10-20T20:31:57+00:00",
   "por_ano": [
     {
       "ano": 1984,
@@ -59,7 +59,7 @@
     },
     {
       "ano": 1996,
-      "total": 4
+      "total": 3
     },
     {
       "ano": 1997,
@@ -67,63 +67,63 @@
     },
     {
       "ano": 1998,
-      "total": 7
+      "total": 5
     },
     {
       "ano": 1999,
-      "total": 8
+      "total": 5
     },
     {
       "ano": 2000,
-      "total": 8
+      "total": 6
     },
     {
       "ano": 2001,
-      "total": 17
-    },
-    {
-      "ano": 2002,
-      "total": 18
-    },
-    {
-      "ano": 2003,
-      "total": 16
-    },
-    {
-      "ano": 2004,
       "total": 14
     },
     {
+      "ano": 2002,
+      "total": 15
+    },
+    {
+      "ano": 2003,
+      "total": 12
+    },
+    {
+      "ano": 2004,
+      "total": 11
+    },
+    {
       "ano": 2005,
-      "total": 19
+      "total": 17
     },
     {
       "ano": 2006,
-      "total": 27
+      "total": 19
     },
     {
       "ano": 2007,
-      "total": 30
+      "total": 26
     },
     {
       "ano": 2008,
-      "total": 23
+      "total": 21
     },
     {
       "ano": 2009,
-      "total": 25
+      "total": 20
     },
     {
       "ano": 2010,
-      "total": 52
+      "total": 42
     },
     {
       "ano": 2011,
-      "total": 48
+      "total": 40
     },
     {
       "ano": 2012,
-      "total": 42
+      "total": 37
     },
     {
       "ano": 2013,
@@ -181,7 +181,7 @@
     },
     {
       "rotulo": "Mestrado Profissional",
-      "total": 273
+      "total": 272
     },
     {
       "rotulo": "Doutorado",
@@ -195,7 +195,7 @@
   "por_tipo": [
     {
       "rotulo": "Dissertação",
-      "total": 673
+      "total": 672
     },
     {
       "rotulo": "Tese",
@@ -205,7 +205,7 @@
   "por_regiao": [
     {
       "rotulo": "Sudeste",
-      "total": 377
+      "total": 376
     },
     {
       "rotulo": "Sul",
@@ -227,11 +227,7 @@
   "por_estado": [
     {
       "rotulo": "São Paulo",
-      "total": 269
-    },
-    {
-      "rotulo": "",
-      "total": 123
+      "total": 268
     },
     {
       "rotulo": "Rio Grande do Sul",
@@ -244,6 +240,10 @@
     {
       "rotulo": "Minas Gerais",
       "total": 63
+    },
+    {
+      "rotulo": "",
+      "total": 59
     },
     {
       "rotulo": "Paraná",
@@ -345,11 +345,11 @@
     },
     {
       "rotulo": "Ensino de Ciências e Matemática",
-      "total": 51
+      "total": 50
     },
     {
       "rotulo": "Educação",
-      "total": 208
+      "total": 150
     },
     {
       "rotulo": "Estatística e Matemática",
@@ -373,7 +373,7 @@
     },
     {
       "rotulo": "Ensino",
-      "total": 525
+      "total": 519
     },
     {
       "rotulo": "Outros",
@@ -383,7 +383,7 @@
   "por_foco": [
     {
       "rotulo": "",
-      "total": 686
+      "total": 622
     },
     {
       "rotulo": "Processo de ensino e aprendizagem da Estocástica",
@@ -391,7 +391,7 @@
     },
     {
       "rotulo": "Não informado",
-      "total": 40
+      "total": 39
     },
     {
       "rotulo": "TICs, materiais e recursos didáticos",
@@ -441,7 +441,7 @@
     },
     {
       "rotulo": "Combinatória",
-      "total": 31
+      "total": 30
     },
     {
       "rotulo": "Probabilidade e Estatística",
@@ -459,18 +459,18 @@
   "por_nivel": [
     {
       "rotulo": "",
-      "total": 686
+      "total": 622
     },
     {
       "rotulo": "Ensino Superior",
       "total": 60
     },
     {
-      "rotulo": "Não informado",
-      "total": 59
+      "rotulo": "Ensino Médio",
+      "total": 58
     },
     {
-      "rotulo": "Ensino Médio",
+      "rotulo": "Não informado",
       "total": 58
     },
     {
@@ -520,16 +520,16 @@
   ],
   "top_instituicoes": [
     {
-      "nome": "",
-      "total": 113
-    },
-    {
       "nome": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
       "total": 81
     },
     {
       "nome": "Pontifícia Universidade Católica de São Paulo",
       "total": 68
+    },
+    {
+      "nome": "",
+      "total": 49
     },
     {
       "nome": "UNIVERSIDADE CRUZEIRO DO SUL",
