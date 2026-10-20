@@ -1,0 +1,57 @@
+{
+  "id": "capes-35096671",
+  "autor": "Nicolly Ramalho Silva",
+  "ano": 2021,
+  "tipo": "Dissertação",
+  "titulo": "DESVENDANDO O SARAMPO: uma sequência didática que integra matemática e biologia",
+  "instituicao": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Andrea Carla Leite Chaves",
+  "programa": "ENSINO",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Integração de saberes. Estatística. Sarampo. Sequência didática. Educação para a saúde.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22DESVENDANDO%20O%20SARAMPO%3A%20uma%20sequ%C3%AAncia%20did%C3%A1tica%20que%20integra%20matem%C3%A1tica%20e%20biologia%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=DESVENDANDO%20O%20SARAMPO%3A%20uma%20sequ%C3%AAncia%20did%C3%A1tica%20que%20integra%20matem%C3%A1tica%20e%20biologia&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35096671"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "35096671",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Integração de saberes. Estatística. Sarampo. Sequência didática. Educação para a saúde."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-35096671.svg",
+  "resumo": "Nesta pesquisa buscou-se elaborar e validar uma sequência didática (SD) capaz de integrar matemática e biologia por meio da temática sarampo, buscando promover educação para a saúde. A elaboração da SD, voltada para o ensino médio, foi ancorada principalmente nas teorias e métodos de Edgar Morin (2007), Ponte, Brocardo, Oliveira (2009) e Zabala (1998). Em consonância com a Base Nacional Comum Curricular (BNCC) (BRASIL, 2018) e com Ponte e Brocardo (2009), utilizou-se a investigação estatística como meio de promover a integração de saberes. A SD “Sarampo: tema que integra Matemática e Biologia” traz seis unidades didáticas que se propõem a, por meio do estudo da virose, integrar o conhecimento estatístico com o conhecimento biológico e contribuir para que a educação possa gerar saúde. Buscou-se também contribuir para que o estudante desenvolvesse uma visão ampla e aprimorada sobre o tema e que pudesse utilizar isso em sua vida pessoal e familiar. A SD foi avaliada por um grupo de professores de áreas do conhecimento variadas. O resultado da avaliação validou a SD, pois mostrou que foram alcançados os objetivos pretendidos, que em suma são: “integração de saberes” e “educação para saúde”. A avaliação mostrou também que, como todo material didático, a SD é passível de aperfeiçoamentos para se alcançar os objetivos de forma ainda mais eficaz.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
+}

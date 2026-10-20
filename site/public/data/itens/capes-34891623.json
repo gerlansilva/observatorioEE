@@ -1,0 +1,64 @@
+{
+  "id": "capes-34891623",
+  "autor": "Diego Barboza Prestes",
+  "ano": 2021,
+  "tipo": "Tese",
+  "titulo": "Um olhar realístico para tarefas de probabilidade e estatística de uma coleção de livros didáticos de matemática do Ensino Fundamental.",
+  "instituicao": "UNIVERSIDADE ESTADUAL DE LONDRINA",
+  "cidade": "",
+  "estado": "Paraná",
+  "regiao": "Sul",
+  "orientador": "Regina Luzia Cario de Buriasco",
+  "programa": "ENSINO DE CIÊNCIAS E EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Matemática Realística; Probabilidade e Estatística; Tarefas de Livros Didáticos de Matemática; Oportunidade de Aprendizagem.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Um%20olhar%20real%C3%ADstico%20para%20tarefas%20de%20probabilidade%20e%20estat%C3%ADstica%20de%20uma%20cole%C3%A7%C3%A3o%20de%20livros%20did%C3%A1ticos%20de%20matem%C3%A1tica%20do%20Ensino%20Fundamental.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Um%20olhar%20real%C3%ADstico%20para%20tarefas%20de%20probabilidade%20e%20estat%C3%ADstica%20de%20uma%20cole%C3%A7%C3%A3o%20de%20livros%20did%C3%A1ticos%20de%20matem%C3%A1tica%20do%20Ensino%20Fundamental.&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34891623"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "34891623",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Matemática Realística",
+    "Probabilidade e Estatística",
+    "Tarefas de Livros Didáticos de Matemática",
+    "Oportunidade de Aprendizagem."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-34891623.svg",
+  "resumo": "Esta pesquisa teve como objetivo descrever, discutir e analisar tarefas de matemática das unidades específicas que abordam a temática Probabilidade e Estatística da coleção de livros didáticos de Matemática dos anos finais do Ensino Fundamental mais distribuída pelo governo federal no PNLD 2017, à luz da Educação Matemática Realística, abordagem ao ensino de matemática de origem holandesa, que tem a atividade do aluno em matematizar situações realísticas diretamente associada ao processo de aprendizagem matemática. Para isso, as tarefas das unidades escolhidas foram agrupadas em descritores de acordo com o que era solicitado que o aluno fizesse em cada uma delas e, a partir disso, realizadas considerações a respeito das tarefas dos agrupamentos que apresentaram as maiores frequências. O foco das considerações foi apresentar possibilidades de intervenções baseadas em questionamentos que os professores podem fazer ao trabalhar com as tarefas, visando a um trabalho que esteja de acordo com os princípios da Educação Matemática Realística. As análises revelaram que a maioria das tarefas estudadas pode ser classificada como sendo de reprodução, de acordo com De Lange (1999), e de baixo nível de demanda cognitiva, de acordo com Smith e Stein (1998), isto é, a maioria das tarefas envolve apenas ações relacionadas com a memorização e a reprodução de “conhecimentos” praticados com frequência (rotineiramente). No entanto, esta pesquisa deixou evidente que não é necessário ter em mãos tarefas que apresentem boas características na perspectiva da Educação Matemática Realística para realizar um trabalho que favoreça os processos de ensino e de aprendizagem, é possível realizar um bom trabalho utilizando tarefas usuais de livros didáticos, acompanhadas de intervenções do professor.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística",
+    "ensino de probabilidade"
+  ],
+  "ids_duplicados": [
+    "39528914"
+  ]
+}

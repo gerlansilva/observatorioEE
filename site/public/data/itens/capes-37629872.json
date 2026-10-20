@@ -1,0 +1,60 @@
+{
+  "id": "capes-37629872",
+  "autor": "Luan Costa de Luna",
+  "ano": 2023,
+  "tipo": "Tese",
+  "titulo": "ENSINO E APRENDIZAGEM DE AMOSTRAGEM NOS ANOS FINAIS DO ENSINO FUNDAMENTAL",
+  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Gilda Lisboa Guimaraes",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Amostragem; Anos finais do Ensino Fundamental; Ensino. Aprendizagem",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20E%20APRENDIZAGEM%20DE%20AMOSTRAGEM%20NOS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20E%20APRENDIZAGEM%20DE%20AMOSTRAGEM%20NOS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37629872"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37629872",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Amostragem",
+    "Anos finais do Ensino Fundamental",
+    "Ensino. Aprendizagem"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37629872.svg",
+  "resumo": "Em uma sociedade que circula diariamente grande quantidade de informações, se faz necessário que os estudantes desenvolvam habilidades concernentes à pesquisa, como a definição da população a ser investigada (censo ou amostra), de maneira a fazer julgamentos bem fundamentados e tomar decisões apropriadas. Nesse contexto, no Ensino Fundamental, a BNCC apresenta habilidades explícitas de conceitos relacionados à amostragem do 7º ao 9º ano. Porém, não há uma efetiva gradação entre elas. Assim, essa pesquisa teve como objetivo propor uma gradação da aprendizagem de conceitos relacionados à amostragem nos anos finais do Ensino Fundamental (6º ao 9º ano). Para tanto, foram desenvolvidos três estudos interrelacionados. O primeiro analisou todos os 88 livros didáticos aprovados nas edições de 2017 e 2020 do PNLD, buscando verificar o que tem sido proposto para os estudantes. No segundo estudo foi realizada uma sondagem com 307 estudantes dos anos finais do Ensino Fundamental buscando compreender o que sabiam sobre amostragem. E por fim, o terceiro estudo experimental, no qual foi desenvolvido um processo interventivo com turmas do 6º e 9º ano, totalizando 350 estudantes. Os resultados do Estudo 1 revelaram que as propostas de atividades atendem as demandas postas nas orientações curriculares de tal modo que o PNLD 2020 possui maior ênfase em conceitos interligados a amostragem. Nessa análise, observamos aspectos que necessitam atenção devido ao excesso de (i) dados fictícios, (ii) população/amostra em contexto de pessoas e (iii) situações de apenas identificar a técnica de amostragem utilizada na pesquisa. Além disso, notamos ausência de atividades que contemplassem a variabilidade da variável e amostral, o conceito de margem de erro e relação com tamanho da amostra. Por outro lado, percebemos aspectos positivos como orientações das atividades ao professor no formato U e as propostas de pesquisa estatística. No Estudo 2 notamos uma progressão do desempenho dos estudantes em relação a escolaridade. Verificamos que houve diferença estatística significativa no desempenho dos estudantes, particularmente, entre o 6º e o 9º ano. Esses resultados nos propiciaram elaborar e desenvolver a intervenção. Realizamos um estudo experimental com pré-teste, intervenção de ensino e pós-teste. As análises estatísticas indicam, conforme esperado que, as turmas que passaram pela intervenção tiveram melhor desempenho do que as que não participaram. Entretanto, ressaltamos que o desempenho das turmas de intervenção do 6º ano no pós-teste foi estatisticamente significativo superior as turmas de 9º ano no pré-teste, sugerindo assim, a possibilidade de aprendizagem desde aquele ano escolar. Percebemos que o processo de intervenção foi eficaz, uma vez que, os estudantes puderam repensar algumas crenças e atitudes quanto as pesquisas amostrais, em especial, a margem de erro e a amostragem aleatória simples. Além disso, perceberam e justificaram adequadamente vieses na seleção de amostra, assim como, estabelecerem adequadamente a relação entre população e amostra. Isso devido a um leque de elementos de conhecimentos do Letramento Estatístico que as atividades permitiram mobilizar em ações queincentivavam o diálogo, a troca e a sistematização por parte dos estudantes. Em seguida, tivemos condições de elaborar a gradação para a aprendizagem de conceitos relacionados a amostragem, a qual se baseou nos resultados dos três estudos da tese. Distribuída nos anos finais do Ensino fundamental, a gradação apresenta habilidades das mais simples as mais sofisticadas em termos de compreensão para os estudantes. Acreditamos que ela poderá permitir um ensino sistemático e progressivo dos conceitos, possibilitando a construção de estratégias de ensino que irão favorecer professores da educação básica, como também, os estudantes, elaboradores de propostas curriculares, autores de livros didáticos, processos formativos, dentre outros.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "capes-34681461",
+  "autor": "Gleidson Santos Correia",
+  "ano": 2021,
+  "tipo": "Dissertação",
+  "titulo": "SUBSÍDIOS TEÓRICOS PARA A CONSTRUÇÃO DE UMA SEQUÊNCIA DIDÁTICA PARA O ENSINO DA FUNÇÃO EXPONENCIAL NA EDUCAÇÃO BÁSICA, VISANDO O LETRAMENTO ESTATÍSTICO",
+  "instituicao": "UNIVERSIDADE ESTADUAL DE SANTA CRUZ",
+  "cidade": "",
+  "estado": "Bahia",
+  "regiao": "Nordeste",
+  "orientador": "Irene Mauricio Cazorla",
+  "programa": "Educação em Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Função exponencial; Covariação estatística; Registros de Representação Semiótica; Letramento estatístico; Ciclo Investigativo",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22SUBS%C3%8DDIOS%20TE%C3%93RICOS%20PARA%20A%20CONSTRU%C3%87%C3%83O%20DE%20UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20O%20ENSINO%20DA%20FUN%C3%87%C3%83O%20EXPONENCIAL%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%2C%20VISANDO%20O%20LETRAMENTO%20ESTAT%C3%8DSTICO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=SUBS%C3%8DDIOS%20TE%C3%93RICOS%20PARA%20A%20CONSTRU%C3%87%C3%83O%20DE%20UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20O%20ENSINO%20DA%20FUN%C3%87%C3%83O%20EXPONENCIAL%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%2C%20VISANDO%20O%20LETRAMENTO%20ESTAT%C3%8DSTICO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34681461"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "34681461",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Função exponencial",
+    "Covariação estatística",
+    "Registros de Representação Semiótica",
+    "Letramento estatístico",
+    "Ciclo Investigativo"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-34681461.svg",
+  "resumo": "A função exponencial é um objeto de estudo que faz parte do currículo de Matemática do Ensino Médio, útil na modelagem de diversos fenômenos como os juros compostos, divisão celular, eutrofização das águas, dentre outros, em contextos determinísticos. Entretanto muitas situações envolvem variáveis estatísticas, como a quantidade de casos acumulados no início da pandemia da COVID-19, que apesar da trajetória exponencial, não se conhece a priori a quantidade de casos em um momento específico. Nesse contexto, o objetivo desta pesquisa é construir e avaliar uma Sequência Didática para o ensino da função exponencial, envolvendo tanto o contexto determinístico quanto o estatístico (covariação estatística), visando o Letramento Estatístico. Para tanto, foi constituído um quadro teórico que se ampara no Ciclo Investigativo, na Teoria dos Registros de Representação Semiótica (TRRS), na Teoria Antropológica do Didático (TAD) e no Letramento Estatístico, tendo como marco orientador a Base Nacional Comum Curricular (BNCC). As competências específicas para o aprendizado de Matemática no Ensino Médio e as habilidades específicas para a função exponencial foram submetidas a uma Análise de Conteúdo, gerando nove categorias que representam os pontos centrais para o ensino desta função e, com essas categorias, foi realizada uma revisão-sistemática, do tipo meta-análise, das Teses e Dissertações, selecionando-se 50 trabalhos que foram submetidos às técnicas de análise de conteúdo que permitiram identificar como os aspectos centrais da BNCC para o ensino da função exponencial têm sido considerados nestas pesquisas. A Sequência Didática foi construída com base no quadro teórico, nos resultados das análises da BNCC e revisão sistemática. Percorre-se as fases do Ciclo Investigativo, no qual os estudantes têm um papel ativo, simulando-se o fenômeno da eutrofização pelas baronesas, utilizando-se material concreto manipulável, a mão livre, bem como coletando-se dados e modelando-se a trajetória da COVID-19, envolvendo diversos registros de representação (língua materna, numérico, gráfico e algébrico), tratamentos e conversões das representações, até o registro algébrico da função exponencial, que modela ambas as situações. Além disso, a sequência foi analisada considerando-se os sete elementos do Letramento Estatístico, as cinco fases do Ciclo Investigativo, os registros de representação semiótica, tratamentos e conversões das representações dos dados, além das nove categorias centrais da BNCC. Também foi analisado o potencial dos objetos ostensivos utilizados na Sequência Didática. Esta pesquisa apresenta como inovação o tratamento da função exponencial no contexto da covariação estatística e da utilização de dados gerados/coletados pelos próprios estudantes, bem como o potencial desta função para ser trabalhada em uma perspectiva interdisciplinar, tendo o estudante um papel ativo no processo, utilizando diversos registros de representação semiótica, possibilitando maior coordenação entre os registros e aprendizagem do objeto matemático estudado.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "letramento estatístico"
+  ],
+  "ids_duplicados": [
+    "39223565"
+  ]
+}

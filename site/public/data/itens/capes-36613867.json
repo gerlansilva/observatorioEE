@@ -1,0 +1,57 @@
+{
+  "id": "capes-36613867",
+  "autor": "Karla Priscila Schreiber",
+  "ano": 2022,
+  "tipo": "Tese",
+  "titulo": "Conhecimento pedagógico do conteúdo estatístico : uma base profissional docente construída a partir de experiências partilhadas em um contexto de formação colaborativa",
+  "instituicao": "UNIVERSIDADE FEDERAL DO RIO GRANDE",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Mauren Porciuncula Moreira da Silva",
+  "programa": "EDUCAÇÃO EM CIÊNCIAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Formação colaborativa Educação estatística Conhecimento pedagógico Docente",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Conhecimento%20pedag%C3%B3gico%20do%20conte%C3%BAdo%20estat%C3%ADstico%20%3A%20uma%20base%20profissional%20docente%20constru%C3%ADda%20a%20partir%20de%20experi%C3%AAncias%20partilhadas%20em%20um%20contexto%20de%20forma%C3%A7%C3%A3o%20colaborativa%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Conhecimento%20pedag%C3%B3gico%20do%20conte%C3%BAdo%20estat%C3%ADstico%20%3A%20uma%20base%20profissional%20docente%20constru%C3%ADda%20a%20partir%20de%20experi%C3%AAncias%20partilhadas%20em%20um%20contexto%20de%20forma%C3%A7%C3%A3o%20colaborativa&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36613867"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "36613867",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Formação colaborativa Educação estatística Conhecimento pedagógico Docente"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-36613867.svg",
+  "resumo": "A presente tese de doutorado em Educação em Ciências se propõe a investigar os conhecimentos mobilizados e produzidos por um grupo de professores, com distintas formações e experiências pedagógicas, integrantes do Grupo Colaborativo de Formação de Professores em Educação Estatística (MoSaiCo Edu). O intuito foi o de propor uma Base de conhecimentos profissionais docentes para o ensino de Estatística. Como fundamentação teórica, os estudos de desenvolvidos por Lee Shulman foram considerados. Esse é um pesquisador referência na área e apresenta um conjunto de conhecimentos subjacentes às compreensões dos professores, necessário à aprendizagem dos discentes. Diante desse contexto teórico, para o desenvolvimento desse estudo de cunho qualitativo, cujos procedimentos se fundamentaram em um Estudo de Caso, foram considerados os sete primeiros encontros do Grupo MoSaiCo Edu. Esses ocorreram entre agosto de 2018 e junho de 2019, sendo gravados e transcritos. Ao serem analisadas essas transcrições, por meio da técnica do Discurso do Sujeito Coletivo, sete discursos-sínteses foram construídos, a saber: i) incompreensões dos discentes e estratégias pedagógicas para o ensino de conteúdos estatísticos; ii) relações afetivas dos discentes e docentes com a Matemática e a Estatística; iii) processos avaliativos no ensino e na aprendizagem de Estatística; iv) competências estatísticas frente aos documentos e instrumentos curriculares de ensino; v) reflexão sobre o fazer e as responsabilidades do professor em sala de aula e na sua formação profissional; vii) formação docente por meio da colaboração entre os pares. Por meio da análise desse material discursivo, quatro categorias foram eleitas como representantes da Base profissional docente para o ensino de Estatística, com seus respectivos domínios: a) Conhecimento do conteúdo estatístico (CCE) - conceitos e processos estatísticos, estruturas substantiva e sintática da Estatística, aproximações entre Estatística e Matemática, centralidade do contexto na área da Estatística, competências estatísticas e processos investigativos na área da Estatística; b) Conhecimento pedagógico geral (CPG) - propósitos educacionais gerais, modelos e estratégias de ensino, currículo educacional geral e avaliação educacional geral; c) Conhecimento do contexto educacional geral (CCEG) - estudantes e sala de aula, instituição de ensino e comunidade educacional; d) Conhecimento Pedagógico do Conteúdo Estatístico (CPCE) - propósitos educacionais que orientam o ensino de Estatística, compreensão dos estudantes sobre Estatística, estratégias e representações em Estatística; currículo específico de Estatística e Avaliação da aprendizagem em Estatística. As análises possibilitaram concluir que contextos de formação colaborativa oportunizam investigar, produzir e mobilizar conhecimentos docentes, os quais se diferenciam pelas características próprias do grupo e de seus integrantes. Pode-se acreditar, então, que há conhecimentos profissionais particulares ao ensino de Estatística. Esses, por sua vez, envolvem o domínio de conceitos e de processos; aspectos curriculares, pedagógicos e sobre os estudantes. Ainda, exigem um domínio das competências estatísticas, as quais se integram e são sistematizadas por meio do CPCE, haja vista a promoção da aprendizagem dos estudantes.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
+}

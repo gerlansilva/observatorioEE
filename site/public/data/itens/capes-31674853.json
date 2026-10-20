@@ -1,0 +1,62 @@
+{
+  "id": "capes-31674853",
+  "autor": "Heloisa Almeida de Figueiredo",
+  "ano": 2020,
+  "tipo": "Dissertação",
+  "titulo": "Construção do Conhecimento de Medidas de Tendência Central com Alunos do Ensino Fundamental: Reflexões sobre uma Sequência Didática Juiz de Fora 2020",
+  "instituicao": "UNIVERSIDADE FEDERAL DE JUIZ DE FORA",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Chang Kuo Rodrigues",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Medidas de Centralidade; Ensino Fundamental; Teoria das Situações Didáticas; Engenharia Didática",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Constru%C3%A7%C3%A3o%20do%20Conhecimento%20de%20Medidas%20de%20Tend%C3%AAncia%20Central%20com%20Alunos%20do%20Ensino%20Fundamental%3A%20Reflex%C3%B5es%20sobre%20uma%20Sequ%C3%AAncia%20Did%C3%A1tica%20Juiz%20de%20Fora%202020%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Constru%C3%A7%C3%A3o%20do%20Conhecimento%20de%20Medidas%20de%20Tend%C3%AAncia%20Central%20com%20Alunos%20do%20Ensino%20Fundamental%3A%20Reflex%C3%B5es%20sobre%20uma%20Sequ%C3%AAncia%20Did%C3%A1tica%20Juiz%20de%20Fora%202020&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31674853"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "31674853",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Medidas de Centralidade",
+    "Ensino Fundamental",
+    "Teoria das Situações Didáticas",
+    "Engenharia Didática"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-31674853.svg",
+  "resumo": "Este trabalho é o resultado de uma pesquisa que foi desenvolvida no Mestrado Profissional em Educação Matemática da Universidade de Juiz de Fora, cujo tema está pautado na construção do conhecimento de Medidas de Tendência Central por meio de uma sequência didática. O objetivo principal é analisar e compreender as possíveis contribuições de uma sequência didática sobre Medidas de Centralidade com alunos do oitavo ano do Ensino Fundamental. Nessa direção, a pergunta que norteia a pesquisa é: de que forma uma sequência didática pode contribuir para a construção do conceito de Medidas de Tendência Central por parte dos alunos da 8° ano do Ensino Fundamental de uma escola da Rede Particular do Rio de Janeiro? A partir dos pressupostos da Engenharia Didática como metodologia de pesquisa e utilizando a Teoria das Situações Didáticas como embasamento teórico, foi possível analisar o material obtido, discutir e responder à questão citada, despontando assim, o Produto Educacional deste estudo. Como resultado, identificamos três características de uma sequência didática que favorece a construção do conceito de centralidade, sendo elas: exemplos e realidades inseridas no contexto dos alunos, o trabalho em grupo e a valorização das resoluções pela ideia não-formal dos conceitos e não somente com a utilização de cálculos. Além disso, a pesquisa enfatiza as competências da Literacia Estatística, o Pensamento e o raciocínio estatístico para o estudo dessas medidas, que puderam ser validadas na pesquisa.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

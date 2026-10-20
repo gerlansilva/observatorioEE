@@ -1,0 +1,62 @@
+{
+  "id": "capes-28096418",
+  "autor": "Felipe Antonio Machado Fagundes Goncalves",
+  "ano": 2018,
+  "tipo": "Dissertação",
+  "titulo": "Estatística no ensino médio: uma proposta interdisciplinar envolvendo matemática e educação física",
+  "instituicao": "UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ",
+  "cidade": "",
+  "estado": "Paraná",
+  "regiao": "Sul",
+  "orientador": "Guatacara dos Santos Junior",
+  "programa": "ENSINO DE CIÊNCIA E TECNOLOGIA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Interdisciplinaridade,; Ensino de Estatística,; Ensino Médio.; Matemática; Educação Física",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Estat%C3%ADstica%20no%20ensino%20m%C3%A9dio%3A%20uma%20proposta%20interdisciplinar%20envolvendo%20matem%C3%A1tica%20e%20educa%C3%A7%C3%A3o%20f%C3%ADsica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estat%C3%ADstica%20no%20ensino%20m%C3%A9dio%3A%20uma%20proposta%20interdisciplinar%20envolvendo%20matem%C3%A1tica%20e%20educa%C3%A7%C3%A3o%20f%C3%ADsica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28096418"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "28096418",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Interdisciplinaridade,",
+    "Ensino de Estatística,",
+    "Ensino Médio.",
+    "Matemática",
+    "Educação Física"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-28096418.svg",
+  "resumo": "A pesquisa apresentada nesta dissertação teve como principal objetivo analisar as contribuições de um ensino pautado em uma proposta interdisciplinar entre Matemática e Educação Física, para o ensino de Estatística no Ensino Médio. O referencial teórico utilizado para a abordagem do Ensino de Estatística compôs-se pelos seguintes autores: Castro e Carzola (2007, 2008), Pereira (2013), Lopes (2008), Walichinski e Santos Júnior (2013), Campos et al (2011), Andrade (2008), dentre outros. Quanto à interdisciplinaridade, a revisão de literatura apoia-se em: Fazenda (1995, 2008, 2014), Japiassú (1976), Philippi Jr e Silva Neto (2011), Piaget (1972), Jantsch (1972), Petraglia (1993), Greco (1994), Reynalt (2011), Tavares (2008), Trindade (2008), além de outros. Realizou-se, também, o estudo sobre os documentos oficiais que norteiam o ensino básico no Brasil: PCN (1997, 1998, 2000), PCN+ (2002) e as DCE do Estado do Paraná. A pesquisa foi organizada em quatro etapas: 1) Levantamento do referencial teórico, por meio de uma busca textual em relação ao Ensino de Estatística e a interdisciplinaridade; 2) Elaboração de uma sequência de ensino com base nos conteúdos estatísticos previstos para o bloco “Tratamento da informação” e para o “Ensino de Estatística no Ensino Médio”, buscando fazê-la de maneira interdisciplinar, através das disciplinas de Matemática e Educação Física; 3) Aplicação da Sequência de Ensino em uma turma de terceiro ano do Ensino Médio, na qual se realizou a coleta dos dados; 4) Análise dos dados no qual foi utilizado a Análise Textual Discursiva, com aporte teórico de Moraes e Galiazzi (2016). Após a análise dos dados, pode-se observar que os alunos possuem dificuldades com relação aos conteúdos básicos de Estatística. Considera-se que a Sequência de Ensino pautada em uma proposta interdisciplinar pode trazer ganhos para a aprendizagem de ambas as disciplinas envolvidas. Além disso, foi possível constatar que a prática interdisciplinar causa mais interesse e motivação aos alunos. Considerou-se, também, pelos professores envolvidos na pesquisa, que a interdisciplinaridade é uma prática possível no contexto escolar atual, porém, necessita de uma mudança de postura do professor perante o ensino.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": "capes-27405947",
+  "autor": "Meiri das Gracas Cardoso",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "Ensino de estatística: o estado de conceitos potencializado pelo software Rstudio",
+  "instituicao": "UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ",
+  "cidade": "",
+  "estado": "Paraná",
+  "regiao": "Sul",
+  "orientador": "Leonardo Sturion",
+  "programa": "ENSINO DE MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação; Estatística; Tecnologia de Ensino; RStudio; Swirl",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Ensino%20de%20estat%C3%ADstica%3A%20o%20estado%20de%20conceitos%20potencializado%20pelo%20software%20Rstudio%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Ensino%20de%20estat%C3%ADstica%3A%20o%20estado%20de%20conceitos%20potencializado%20pelo%20software%20Rstudio&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27405947"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "27405947",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação",
+    "Estatística",
+    "Tecnologia de Ensino",
+    "RStudio",
+    "Swirl"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-27405947.svg",
+  "resumo": "A utilização das mídias digitais é uma realidade em todos os meios sociais, e não deveria ser diferente na Educação. Este trabalho apresenta um estudo referente ao uso da tecnologia para auxiliar nos conteúdos de estatística, uma vez, que tais conteúdos são abordados de forma superficial no currículo escolar. Para modificar e favorecer o aprendizado foi utilizado o software RStudio. O objetivo deste trabalho é compreender o efeito do software RStudio aplicado aos conteúdos de estatística e analisar a aceitação do programa por parte dos alunos. A pesquisa envolveu 14 alunos do Ensino Fundamental II de uma escola da rede particular do município de Londrina. A metodologia adotada foi de caráter qualitativo e contou com uma pesquisa bibliográfica e uma pesquisa de campo realizada no âmbito da escola, objeto do estudo. Os resultados indicam que as tecnologias podem auxiliar o processo de ensino e aprendizagem dos alunos referente aos conceitos de Estatística, permitindo que a manipulação dos dados e os cálculos sejam facilitados. Concluindo, os resultados obtidos mostraram que a utilização do software proporcionou melhorias significativas na aprendizagem dos alunos. Entretanto, apontam também para a necessidade de um maior número de pesquisas que abordem a temática principalmente no que concerne à formação de professores.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

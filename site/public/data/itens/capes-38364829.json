@@ -1,0 +1,61 @@
+{
+  "id": "capes-38364829",
+  "autor": "Jacqueline Oliveira de Almeida",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "SALA DE AULA INVERTIDA: UMA PROPOSTA DE MODELO HÍBRIDO PARA APRENDIZAGEM EM ESTATÍSTICA NO ENSINO MÉDIO INTEGRADO",
+  "instituicao": "UNIVERSIDADE FEDERAL DE SERGIPE",
+  "cidade": "",
+  "estado": "Sergipe",
+  "regiao": "Nordeste",
+  "orientador": "Veleida Anahi da Silva",
+  "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Estatística; Ensino Híbrido; Sala de aula invertida; Tecnologias; Ensino Médio Integrado.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22SALA%20DE%20AULA%20INVERTIDA%3A%20UMA%20PROPOSTA%20DE%20MODELO%20H%C3%8DBRIDO%20PARA%20APRENDIZAGEM%20EM%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO%20INTEGRADO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=SALA%20DE%20AULA%20INVERTIDA%3A%20UMA%20PROPOSTA%20DE%20MODELO%20H%C3%8DBRIDO%20PARA%20APRENDIZAGEM%20EM%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO%20INTEGRADO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38364829"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "38364829",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Estatística",
+    "Ensino Híbrido",
+    "Sala de aula invertida",
+    "Tecnologias",
+    "Ensino Médio Integrado."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-38364829.svg",
+  "resumo": "A presente pesquisa tem como objetivo analisar a metodologia da Sala de Aula Invertida (Flipped Classroom) mediadas pelas TDIC no Ensino de Estatística Aplicada em uma turma de 2a série do Ensino Médio Integrado do Instituto Federal de Educação, Ciências e Tecnologia de Sergipe — IFS. A necessidade deste estudo emerge do crescente interesse da sociedade pela utilização do Ensino Híbrido, o qual foi intensificado com o período pandêmico e devido às dinâmicas e necessidades da geração Z, a qual requer fácil acesso às informações que podem ser fornecidas pelas TDIC. Nesse sentido, partiu-se de algumas questões de pesquisa: Como se processa a metodologia da Sala de Aula Invertida mediadas pelas TDIC? Como se dá a satisfação e o desempenho dos estudantes frente a esta metodologia? E, qual a relação professor- estudante e estudante-estudante na perspectiva desta metodologia? Para responder a estas perguntas, este estudo seguiu os princípios de uma abordagem quali-quantitativa, cujos procedimentos adotados foram baseados no método da “Pesquisa-ação” a partir de Thiollent (1986). Seguindo algumas etapas fundamentais como: o planejamento, implementação, e produção de dados para investigar o desempenho e a satisfação de todos os envolvidos nesta experiência. Tendo como pressupostos teóricos para análise desse estudo: Bergmann e Sams (2018), Valente (2018), Correia, E. et al. (2020), Lombard (2003) e Faerber (2003). Com base na teoria, pode-se observar o desenvolvimento e o aprendizado dos estudantes com a utilização da metodologia em estudo através das atividades ocorridas nos momentos on-line e presencial, destacados pela importância da relação professor-estudante e estudante-estudante potencializadas pelo que as TDIC oferecem para aprendizagem, os quais se estabelecem através da mediação e cooperação entre os sujeitos durante a aplicação da SAI, estes dotados de desejos e sentidos próprios, ligados por diversas questões identitárias, epistêmicas e sociais, na busca pelo saber através do ensino e aprendizagem. Além disso, foi identificado a satisfação dos estudantes com a aplicação da metodologia SAI na disciplina de Estatística Aplicada, encaminhados para uma aprendizagem muito mais atrativa e significativa.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

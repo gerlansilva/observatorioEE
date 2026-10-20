@@ -1,0 +1,60 @@
+{
+  "id": "capes-42406142",
+  "autor": "Monica Bidin",
+  "ano": 2024,
+  "tipo": "Dissertação",
+  "titulo": "O CICLO INVESTIGATIVO NA PROMOÇÃO DO LETRAMENTO ESTATÍSTICO: UM ESTUDO COM ESTUDANTES DO 9º ANO DO ENSINO FUNDAMENTAL",
+  "instituicao": "UNIVERSIDADE FEDERAL DE SANTA MARIA",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Vaneza de Carli Tibulo",
+  "programa": "Educação Matemática e Ensino de Física",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ciclo Investigativo; Educação Estatística; Proposta Didática",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20CICLO%20INVESTIGATIVO%20NA%20PROMO%C3%87%C3%83O%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%3A%20UM%20ESTUDO%20COM%20ESTUDANTES%20DO%209%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20CICLO%20INVESTIGATIVO%20NA%20PROMO%C3%87%C3%83O%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%3A%20UM%20ESTUDO%20COM%20ESTUDANTES%20DO%209%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42406142"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "42406142",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ciclo Investigativo",
+    "Educação Estatística",
+    "Proposta Didática"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-42406142.svg",
+  "resumo": "O presente trabalho tem como objetivo investigar e analisar indícios de Letramento Estatístico em estudantes a partir de propostas didáticas fundamentadas no Ciclo Investigativo. Visando alcançar o objetivo proposto, foi realizado um levantamento bibliográfico apresentando um mapeamento por meio de investigações a partir de teses e dissertações relacionadas ao ensino de Estatística nos Anos Finais do Ensino Fundamental da Educação Básica, no período de 2012- 2022, no Catálogo de Teses e Dissertações da Capes e Biblioteca Digital Brasileira de Teses e Dissertações. Com o intuito de detectar e conhecer as investigações realizadas envolvendo esta temática, foram estabelecidas aproximações e distanciamentos nas pesquisas mapeadas. O referencial teórico referente ao ensino de Estatística apoia-se seguindo as concepções definidas por Gal (2002), bem como pelo Ciclo Investigativo proposto por Wild e Pfannkuch (1999), com o modelo PPDAC (Problema, Planejamento, Dados, Análise e Conclusão). Foram consideradas as informações relevantes para o ensino de Estatística na Educação Básica, proposto na Base Nacional Comum Curricular (BNCC), Brasil, (2018) e no Guidelines for Assessment and Instruction in Statistics Education (GAISE), Franklin et al. (2005) e Bargagliotti et al. (2020) e sobre a Educação Matemática Crítica proposta por Skovsmose (2017) e Alro e Skovsmose (2007). Com a intenção de desenvolver, implementar e avaliar propostas didáticas fundamentadas no Ciclo Investigativo que visam promover o Letramento Estatístico de estudantes foi desenvolvida, no ano de 2023, uma pesquisa de estudo de caso, em uma turma de alunos do 9º ano do Ensino Fundamental da Escola Estadual de Educação Básica Professora Cléia Salete Dalberto, situada no município de Tenente Portela, Rio Grande do Sul. Desse modo, caracteriza-se como uma pesquisa qualitativa e de estudo de caso, a partir de propostas didáticas fundamentadas no Ciclo Investigativo. Assim, o estudo dispõe-se a responder a seguinte problemática: Quais contribuições as propostas didáticas, fundamentadas no Ciclo Investigativo, proporcionam a estudantes no desenvolvimento do Letramento Estatístico? Para responder a esse questionamento, foram analisadas as produções de vinte e três estudantes, norteadas pelos níveis de Letramento Estatístico proposto pelas pesquisadoras Watson e Callighman (2003). Os resultados do Pré-Teste apontaram baixos índices de Letramento Estatístico em todas as questões analisadas, sendo que o maior percentual de estudantes foi categorizado no nível Idiossincrático. O maior percentual encontrado no Pós-Teste foi de 87 %, na categoria Inconsistente. Nesse contexto, acreditamos que através de um cenário investigativo, os estudantes ampliaram seus conhecimentos relativos ao ensino de Estatística nos Anos Finais do Ensino Fundamental.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
+}

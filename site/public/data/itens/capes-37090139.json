@@ -1,0 +1,63 @@
+{
+  "id": "capes-37090139",
+  "autor": "Regina Matias da Silva",
+  "ano": 2022,
+  "tipo": "Dissertação",
+  "titulo": "LETRAMENTO ESTATÍSTICO: CONSTRUÇÃO E LEITURA DE TABELAS E GRÁFICOS A PARTIR DE ATIVIDADES COM ALUNOS DO ENSINO MÉDIO",
+  "instituicao": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE SÃO PAULO",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Cileda de Queiroz e Silva Coutinho",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação estatística; Letramento estatístico; Ensino Médio; Teoria das situações didática",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20ESTAT%C3%8DSTICO%3A%20CONSTRU%C3%87%C3%83O%20E%20LEITURA%20DE%20TABELAS%20E%20GR%C3%81FICOS%20A%20PARTIR%20DE%20ATIVIDADES%20COM%20ALUNOS%20DO%20ENSINO%20M%C3%89DIO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20ESTAT%C3%8DSTICO%3A%20CONSTRU%C3%87%C3%83O%20E%20LEITURA%20DE%20TABELAS%20E%20GR%C3%81FICOS%20A%20PARTIR%20DE%20ATIVIDADES%20COM%20ALUNOS%20DO%20ENSINO%20M%C3%89DIO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37090139"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37090139",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação estatística",
+    "Letramento estatístico",
+    "Ensino Médio",
+    "Teoria das situações didática"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37090139.svg",
+  "resumo": "A realização deste trabalho tem como objetivo identificar os elementos de letramento estatístico a partir de uma sequência didática com alunos do Ensino Médio, por meio de atividades que tratam de construção e leitura de tabelas e gráficos. Apresentamos como referencial teórico as Teorias das Situações Didáticas (TSD), Letramento Estatístico e Análise Exploratória de Dados. As atividades foram aplicadas em seis encontros, que consistiram em um questionário que os alunos responderam, utilizando a plataforma Google Forms. Desta forma, a partir da plataforma referida, criamos um banco de dados, o qual foi utilizado para todas as atividades envolvendo a classificação das variáveis estatísticas, construção e interpretação de tabelas e gráficos. As atividades demonstraram que a mobilização dos conhecimentos estatísticos e a exploração de análise de dados foram parcialmente satisfatórios, evidenciando que é preciso a continuidade dos conteúdos, envolvendo uma ampla preparação dos alunos, com um posicionamento crítico de fato que possa favorecer o letramento estatístico",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": [
+    "39604637"
+  ]
+}

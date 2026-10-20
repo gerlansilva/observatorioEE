@@ -1,0 +1,62 @@
+{
+  "id": "capes-36070954",
+  "autor": "Rodrigo Cardoso dos Santos",
+  "ano": 2022,
+  "tipo": "Tese",
+  "titulo": "Representações de tabelas e gráficos estatísticos para alunos com deficiência visual",
+  "instituicao": "UNIVERSIDADE FEDERAL DO RIO DE JANEIRO",
+  "cidade": "",
+  "estado": "Rio de Janeiro",
+  "regiao": "Sudeste",
+  "orientador": "Claudia Coelho de Segadas Vianna",
+  "programa": "ENSINO DE MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Deficiência Visual; Gráficos; Livro Didático; Ensino de Estatística",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Representa%C3%A7%C3%B5es%20de%20tabelas%20e%20gr%C3%A1ficos%20estat%C3%ADsticos%20para%20alunos%20com%20defici%C3%AAncia%20visual%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Representa%C3%A7%C3%B5es%20de%20tabelas%20e%20gr%C3%A1ficos%20estat%C3%ADsticos%20para%20alunos%20com%20defici%C3%AAncia%20visual&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36070954"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "36070954",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Deficiência Visual",
+    "Gráficos",
+    "Livro Didático",
+    "Ensino de Estatística"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-36070954.svg",
+  "resumo": "Esta pesquisa objetiva observar como pode ser realizada a leitura tátil de tabelas e gráficos estatísticos e o quão eficazes são estas representações para o processo de aprendizagem de alunos com deficiência visual, do ponto de vista dos professores que lecionam para este público de estudantes e de um aluno do quinto ano do Ensino Fundamental. As tabelas e gráficos apresentados neste trabalho foram retirados de um livro didático de matemática em tinta e representados por meio de grafo-táteis produzidos pelo programa Braille Fácil, pelo software MONET e artesanalmente com diferentes artefatos materiais, como EVA, material dourado e diversos tipos de texturas. Nosso estudo se baseou em trabalhos e pesquisas relacionadas ao ensino de estatística, às representações gráficas estatísticas e à confecção de materiais acessíveis para alunos cegos e com baixa visão, em especial, grafo-táteis. A metodologia utilizada nesta tese tem caráter qualitativo e fizemos uso das técnicas de observações assistemáticas, de entrevistas baseadas em tarefas e de entrevistas em profundidade para a coleta de dados. Por meio dos instrumentos metodológicos escolhidos, descrevemos o perfil do aluno e dos professores participantes da pesquisa e como o estudante cego congênito entrevistado realizou a leitura tátil de tabelas e gráficos. Especificamente, fizemos um estudo inicial no qual observamos duas aulas de matemática do 5° ano do Ensino Fundamental do Instituto Benjamin Constant, realizamos entrevistas baseadas em tarefas com um aluno cego congênito dessa turma e entrevistamos uma professora dos anos iniciais do Ensino Fundamental e seis professores de matemática que lecionam para aprendizes com deficiência visual. Nas entrevistas, entregamos as representações de tabelas e gráficos produzidas por nós e aquelas inseridas em obras didáticas em braille, produzidas pelo programa Braille Fácil. Os resultados emergentes dos dados coletados nos informam como o aprendiz cego entrevistado realizou a leitura de tabelas, gráficos de barras e de setores feitos por nós e aqueles inseridos em livros didáticos em braille, e que representações podem ser mais eficazes para o ensino de estatística de alunos com deficiência visual, segundo o estudante e os sete professores entrevistados. Nos resultados finais de nossa tese, percebemos que o aluno cego atinge um nível de leitura gráfica satisfatório e que dá preferência ao uso de gráficos artesanais para realização de sua leitura gráfica. Além disso, os professores nos informaram que torna-se inviável o uso do livro didático em braille adaptado para o Programa Nacional do Livro Didático em suas aulas por não atender às especificidades particulares de seus alunos com deficiência visual. Eles também fizeram a avaliação dos materiais entregues ao aprendiz cego entrevistado, informando-nos que os materiais produzidos de forma artesanal são essenciais para um primeiro contato do aluno na leitura tátil de uma tabela ou gráfico estatístico, mas podem tornar-se inviáveis em termos de produção, pois o professor que possui um maior número de alunos, terá que reproduzir um número de materiais igual ao número de estudantes que possui. Assim, a maioria dos entrevistados julgaram que os grafo-táteis mais viáveis, em termos didáticos, são os artesanais. Já as representações mais efetivas, em termos de produção, são aquelas produzidas pelo programa MONET, cuja efetividade também pode ser observada nas entrevistas com o aluno cego participante desta pesquisa.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": [
+    "39389379"
+  ]
+}

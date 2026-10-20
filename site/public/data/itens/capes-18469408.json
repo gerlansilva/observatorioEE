@@ -1,0 +1,62 @@
+{
+  "id": "capes-18469408",
+  "autor": "Diego da Silva Serra",
+  "ano": 2015,
+  "tipo": "Dissertação",
+  "titulo": "A contribuição da prova de matemática do ENEM para o ensino de Probabilidade e Estatística",
+  "instituicao": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Joao Feliz Duarte de Moraes",
+  "programa": "ENSINO DE MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "ENEM; probabilidade; estatística; competências; habilidades",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20contribui%C3%A7%C3%A3o%20da%20prova%20de%20matem%C3%A1tica%20do%20ENEM%20para%20o%20ensino%20de%20Probabilidade%20e%20Estat%C3%ADstica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20contribui%C3%A7%C3%A3o%20da%20prova%20de%20matem%C3%A1tica%20do%20ENEM%20para%20o%20ensino%20de%20Probabilidade%20e%20Estat%C3%ADstica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/18469408"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "18469408",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "ENEM",
+    "probabilidade",
+    "estatística",
+    "competências",
+    "habilidades"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-18469408.svg",
+  "resumo": "O ensino de conteúdos de Probabilidade e Estatística na Educação Básica é atualmente um dos desafios do professor de Matemática e há carência de material de apoio didático, principalmente para a preparação dos alunos às questões da prova do Exame Nacional do Ensino Médio (ENEM). O presente estudo teve como objetivo resolver e comentar as questões das provas de Matemática do ENEM realizadas nos anos de 2009 a 2014. Foram analisadas as questões que envolviam conteúdos específicos de Probabilidade e Estatística ou representação gráfica em geral. Nesta análise levamos em consideração a classificação do nível de dificuldade na interpretação da leitura, de gráficos segundo Curcio e tabelas conforme Wainer e também os registros de representação semiótica citados por Duval. Observamos que ao longo do tempo a distribuição dos conteúdos nas provas permanece u, praticamente, estável e ultrapassam 20% a participação das questões da área de interesse deste estudo. As principais competências exploradas nas provas envolviam a leitura direta de dados em gráficos, tabelas ou quadros. As habilidades de resolução de problemas, inferência e aleatoriedade se fizerem presentes. Como produto deste estudo foi desenvolvida uma sequência didática com 15 alunos do Instituto Federal de Educação, Ciências e Tecnologia Sul-Rio-Grandense (IFSul) na cidade de Charqueadas. A abordagem metodológica adotada foi a Engenharia Didática. Os alunos mostraram no pós-teste elevação no índice de acertos e no grau de importância atribuído e reduziram o nível médio de dificuldade percebido nas questões da prova do ENEM-2014.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística",
+    "ensino de probabilidade"
+  ],
+  "ids_duplicados": []
+}

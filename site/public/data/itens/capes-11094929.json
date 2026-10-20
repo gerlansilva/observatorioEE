@@ -1,0 +1,57 @@
+{
+  "id": "capes-11094929",
+  "autor": "Everton Jose Goldoni Estevam",
+  "ano": 2015,
+  "tipo": "Tese",
+  "titulo": "Práticas de uma comunidade de professores que ensinam matemática e o desenvolvimento profissional em educação matemática",
+  "instituicao": "UNIVERSIDADE ESTADUAL DE LONDRINA",
+  "cidade": "",
+  "estado": "Paraná",
+  "regiao": "Sul",
+  "orientador": "Marcia Cristina Costa Trindade Cyrino",
+  "programa": "ENSINO DE CIÊNCIAS E EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística. Formação Continuada de Professores. Comunidades de Prática. Tarefas Matemáticas. Vídeos",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Pr%C3%A1ticas%20de%20uma%20comunidade%20de%20professores%20que%20ensinam%20matem%C3%A1tica%20e%20o%20desenvolvimento%20profissional%20em%20educa%C3%A7%C3%A3o%20matem%C3%A1tica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Pr%C3%A1ticas%20de%20uma%20comunidade%20de%20professores%20que%20ensinam%20matem%C3%A1tica%20e%20o%20desenvolvimento%20profissional%20em%20educa%C3%A7%C3%A3o%20matem%C3%A1tica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/11094929"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "11094929",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística. Formação Continuada de Professores. Comunidades de Prática. Tarefas Matemáticas. Vídeos"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-11094929.svg",
+  "resumo": "Instituir espaços de formação voltados a professores que ensinam Matemática e, mais ainda, garantir que eles se ajustem às necessidades decorrentes da complexa profissão docente têm conduzido ações de formação e pesquisas à perspectiva social de Aprendizagem Situada em Comunidades de Prática (CoPs). Por outro lado, estudos realizados no campo da Educação Estatística denunciam dificuldades diversas dos professores relacionadas a conhecimentos especializados e aspectos didático-pedagógicos da Estatística e ressaltam a dimensão formativa como um ponto-chave a ser abordado e melhorado. O presente estudo articula esses dois apontamentos ao assumir a seguinte questão geral de pesquisa: “Como empreendimentos de um grupo de professores que ensinam Matemática, reconhecido como uma Comunidade de Prática, oferecem oportunidades de desenvolvimento profissional na Educação Estatística?”. Para tanto, a investigação é sustentada em três aspectos-chave: i) a aprendizagem profissional de professores em CoPs; ii) o desenvolvimento profissional de professores na Educação Estatística; e iii) empreendimentos realizados em uma CoP de professores que ensinam Matemática, intencionalmente constituída e coordenada pelo pesquisador/formador, a qual foi autonominada Comunidade de Prática Refletir, Discutir e Agir sobre Matemática (CoP-ReDAMat). Assumimos a perspectiva qualitativa de pesquisa, situada no paradigma interpretativo, e realizamos um estudo do tipo pesquisa-intevenção, cuja recolha de dados envolveu duas dimensões: análises de literatura para a estruturação de quadros teóricos que fundamentam a pesquisa e transcrições de audiogravações de encontros realizados pela CoP-ReDAMat, em que foram negociados e realizados os empreendimentos Análise de Tarefas Estatísticas (ATE) e Análise de Vídeos de uma Aula de Estatística (AVAE). Essas transcrições foram complementadas pela produção escrita dos professores da CoP e registros do caderno de campo do pesquisador/formador. A partir da articulação dos apontamentos dessas duas dimesões analíticas, nossos resultados evidenciam um conjunto de elementos emergentes na prática de Comunidades de professores que ensinam Matemática que oferecem condições para sua aprendizagem profissional. O foco particular dos empreendimentos realizados pela CoP-ReDAMat sobre a Educação Estatística proporcionou a emergência de elementos que revelam desenvolvimento coletivo de compreensões relacionadas a conceitos, ideias, propriedades e procedimentos estatísticos, a aspectos pedagógicos da Educação Estatística e modos como os alunos aprendem Estatística, a importância e papel da equidade no ensino de Estatística, de forma a não negligenciar ou desprover o processo pedagógico em contextos de diversidade, e o desenvolvimento do autossenso do professor, com reconhecimento da Educação Estatística como dimensão de seu domínio de conhecimento. Concluímos, portanto, que as oportunidades de desenvolvimento profissional oferecidas em contextos de CoP não são ancoradas no empreendimento em si, mas emergem da articulação daquilo que se desenvolve no empreendimento às práticas desempenhadas pelos professores em sua ação cotidiana, a qual se constitui, a partir dos elementos que identificamos, como condicionantes da aprendizagem dos professores.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
+}

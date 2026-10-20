@@ -1,0 +1,61 @@
+{
+  "id": "capes-19439253",
+  "autor": "Fernanda Monteiro de Castro",
+  "ano": 2013,
+  "tipo": "Dissertação",
+  "titulo": "Desenvolvimento Profissional e Pensamento Probabilístico: estudo do processo vivido por um grupo de professores de Matemática de Conselheiro Lafaiete (MG).",
+  "instituicao": "UNIVERSIDADE FEDERAL DE OURO PRETO",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Ana Cristina Ferreira",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Probabilidade; Desenvolvimento Profissional; Pensamento Probabilístico; Professores de Matemática; Grupo de estudos.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Desenvolvimento%20Profissional%20e%20Pensamento%20Probabil%C3%ADstico%3A%20estudo%20do%20processo%20vivido%20por%20um%20grupo%20de%20professores%20de%20Matem%C3%A1tica%20de%20Conselheiro%20Lafaiete%20%28MG%29.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Desenvolvimento%20Profissional%20e%20Pensamento%20Probabil%C3%ADstico%3A%20estudo%20do%20processo%20vivido%20por%20um%20grupo%20de%20professores%20de%20Matem%C3%A1tica%20de%20Conselheiro%20Lafaiete%20%28MG%29.&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19439253"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "19439253",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Probabilidade",
+    "Desenvolvimento Profissional",
+    "Pensamento Probabilístico",
+    "Professores de Matemática",
+    "Grupo de estudos."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-19439253.svg",
+  "resumo": "Tanto a literatura quanto os documentos oficiais atuais recomendam que os conceitos de Probabilidade sejam trabalhados desde os anos iniciais do Ensino Fundamental. Contudo, estudos realizados com professores indicam que uma grande parte deles ainda não se sente preparada para realizar essa tarefa. Apresenta-se aqui um estudo realizado com professoras de Matemática da Educação Básica de Conselheiro Lafaiete  MG, abordando duas dimensões: uma dimensão educativa e uma dimensão de pesquisa. Enquanto oportunidade de educação continuada, seu propósito principal é contribuir para o desenvolvimento profissional e, mais especificamente, para o desenvolvimento do pensamento probabilístico de professores de Matemática. Enquanto pesquisa, buscamos analisar o processo de mobilização de saberes relacionados à probabilidade de um grupo professoras inseridas em um grupo de estudos de Probabilidade. Tal proposta se fundamenta na literatura acerca do desenvolvimento do pensamento probabilístico (BATANERO, LOPES e AZCÁRATE) e no desenvolvimento profissional (FERREIRA e LOPES). Participaram do estudo três professoras de Matemática de Conselheiro Lafaiete (MG). O grupo se reuniu ao longo de oito meses, realizando catorze encontros de duas horas e meia de duração cada. Os dados foram coletados por meio da gravação em áudio dos encontros, do diário de campo da pesquisadora e dos cadernos de campo das professoras participantes, além de fotos e registros produzidos pelas participantes do grupo ao longo dos encontros. A análise evidenciou uma intensa mobilização de saberes relacionados à Probabilidade, por parte das participantes. Destaca-se a compreensão de conceitos como probabilidade, aleatoriedade e acaso. Encontraram-se ainda indícios de mobilização de saberes profissionais relacionados à análise de erros dos alunos ao estudarem o tema, bem como a possibilidades de desenvolvimento do mesmo em sala de aula. A participação no grupo de estudos proporcionou às professoras participantes a oportunidade de rever suas práticas, aprender mais sobre Probabilidade e seu ensino em um ambiente que privilegiou o respeito mútuo, a aprendizagem coletiva e a troca de experiências. O estudo gerou um livreto, um Produto Educacional, voltado para professores, futuros professores e formadores de professores.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "pensamento probabilístico"
+  ],
+  "ids_duplicados": []
+}

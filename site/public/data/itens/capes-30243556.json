@@ -1,0 +1,57 @@
+{
+  "id": "capes-30243556",
+  "autor": "Marcia Elisa Berlikowski",
+  "ano": 2018,
+  "tipo": "Tese",
+  "titulo": "AS ABORDAGENS METODOLÓGICAS E O PERFIL DOS PROFESSORES QUE LECIONAM ESTATÍSTICA NO ENSINO SUPERIOR",
+  "instituicao": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Lori Viali",
+  "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Estatística. Ensino Superior. Formação docente",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22AS%20ABORDAGENS%20METODOL%C3%93GICAS%20E%20O%20PERFIL%20DOS%20PROFESSORES%20QUE%20LECIONAM%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20SUPERIOR%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AS%20ABORDAGENS%20METODOL%C3%93GICAS%20E%20O%20PERFIL%20DOS%20PROFESSORES%20QUE%20LECIONAM%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20SUPERIOR&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30243556"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30243556",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Estatística. Ensino Superior. Formação docente"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30243556.svg",
+  "resumo": "O ensino da Estatística é obrigatório em quase todos os cursos de graduação nas Instituições de Ensino do Brasil, neles encontram-se trabalhando docentes com formação inicial bem diversificada. Este estudo teve como objetivo geral analisar as concepções da Educação e caracterizar os professores de Estatística que atuam no Ensino Superior. Para isso, seguindo os caminhos de uma pesquisa qualitativa, utilizou-se a entrevista com 14 docentes, divididos em grupo de licenciados e bacharéis, com o intuito de verificar de que forma esses profissionais ressignificam e moldam as suas práticas pedagógicas. Os professores selecionados, pertencentes à IES de categorias pública e privada do Rio Grande do Sul responderam questões sobre formação inicial e continuada, aspectos pedagógicos e metodológicos de suas trajetórias enquanto docentes de Estatística. Para a análise dos dados das entrevistas foi utilizada a técnica de Análise Textual Discursiva (ATD). Com as textualizações e categorização das entrevistas percebeu-se que o ensino de Estatística na Educação Superior, independe da sua formação inicial dos seus docentes, pois as deficiências deixadas tanto na licenciatura quanto no bacharelado foram sanadas por meio de formação continuada e outras estratégias para facilitam o entendimento e a aprendizagem dos seus alunos.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

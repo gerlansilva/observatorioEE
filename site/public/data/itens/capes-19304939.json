@@ -1,0 +1,57 @@
+{
+  "id": "capes-19304939",
+  "autor": "Fabio Francisco de Oliveira",
+  "ano": 2014,
+  "tipo": "Dissertação",
+  "titulo": "Probabilidade Condicional: Proposta de um experimento de ensino envolvendo registros de representações semióticas",
+  "instituicao": "Universidade Anhanguera de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Monica Karrer",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Probabilidade Condicional. Registros de representações semióticas. Letramento Probabilístico. Design Experiment. Software R.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Probabilidade%20Condicional%3A%20Proposta%20de%20um%20experimento%20de%20ensino%20envolvendo%20registros%20de%20representa%C3%A7%C3%B5es%20semi%C3%B3ticas%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Probabilidade%20Condicional%3A%20Proposta%20de%20um%20experimento%20de%20ensino%20envolvendo%20registros%20de%20representa%C3%A7%C3%B5es%20semi%C3%B3ticas&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19304939"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "19304939",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Probabilidade Condicional. Registros de representações semióticas. Letramento Probabilístico. Design Experiment. Software R."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-19304939.svg",
+  "resumo": "Esta pesquisa teve por objetivo investigar a aprendizagem de estudantes diante de um experimento de ensino sobre probabilidade condicional, por meio de uma abordagem com material concreto, aliada à exploração de diferentes registros de representações semióticas. O estudo fundamentou-se na Teoria dos Registros de Representações Semióticas de Duval e no Letramento Probabilístico de Gal. Para a construção e condução do experimento, foi utilizada a metodologia de Design Experiment de Cobb et al. O design foi desenvolvido nos ambientes papel e lápis e software R e teve por foco a exploração das conversões e tratamentos envolvendo representações da língua natural, da tabela de dupla entrada e da árvore de probabilidades. O experimento elaborado foi aplicado em nove encontros a oito alunos voluntários do segundo ano do Ensino Médio de uma escola estadual da cidade de Guarulhos. Inicialmente, os alunos realizaram um levantamento de dados e exploraram situações de probabilidade com material concreto. Para a construção das probabilidades da intersecção e condicional, além do material concreto, foram utilizadas as representações da tabela de dupla entrada e da árvore de probabilidades, sendo proposta uma nova versão, denominada árvore de probabilidades na versão completa. Identificou-se que essa última representação favoreceu a extração das probabilidades simples, condicional e da intersecção. Apesar da importância de cada estratégia isolada, os resultados demonstraram que o trabalho integrando material concreto, recurso computacional e exploração de representações foi vital para o avanço dos estudantes em questões probabilísticas. Espera-se que a proposta deste estudo possa contribuir para o avanço do Letramento Probabilístico dos alunos da educação básica, representando um recurso adicional para a área de Educação Matemática.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "letramento probabilístico"
+  ],
+  "ids_duplicados": []
+}

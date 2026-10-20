@@ -1,0 +1,59 @@
+{
+  "id": "capes-38514448",
+  "autor": "Geferson Luiz Montanholi Pimenta",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "A Metodologia de ensino-aprendizagem-avaliação de matemática através da resolução de problemas no desenvolvimento da literacia estatística",
+  "instituicao": "UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ",
+  "cidade": "",
+  "estado": "Paraná",
+  "regiao": "Sul",
+  "orientador": "Andresa Maria Justulin",
+  "programa": "ENSINO DE MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Aprendizagem baseada em problemas; Matemática (Ensino fundamental); Estatística - Estudo e ensino",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20Metodologia%20de%20ensino-aprendizagem-avalia%C3%A7%C3%A3o%20de%20matem%C3%A1tica%20atrav%C3%A9s%20da%20resolu%C3%A7%C3%A3o%20de%20problemas%20no%20desenvolvimento%20da%20literacia%20estat%C3%ADstica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20Metodologia%20de%20ensino-aprendizagem-avalia%C3%A7%C3%A3o%20de%20matem%C3%A1tica%20atrav%C3%A9s%20da%20resolu%C3%A7%C3%A3o%20de%20problemas%20no%20desenvolvimento%20da%20literacia%20estat%C3%ADstica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38514448"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "38514448",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Aprendizagem baseada em problemas",
+    "Matemática (Ensino fundamental)",
+    "Estatística - Estudo e ensino"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-38514448.svg",
+  "resumo": "O objetivo deste trabalho foi analisar que elementos da literacia estatística foram desenvolvidos com alunos do 9º Ano do Ensino Fundamental ao fazer uso da Metodologia de Ensino-Aprendizagem-Avaliação de Matemática através da Resolução de Problemas. A pesquisa, de abordagem qualitativa, teve como participantes 24 alunos do 9º ano do Ensino Fundamental, de uma escola pública do norte do Paraná. O instrumento de pesquisa constituiu-se de seis problemas geradores desenvolvidos a partir do contexto de situações vivenciadas e de preferência dos alunos, além de serem temáticas que se mostraram relevantes devido a serem de interesse coletivo. Os dados produzidos foram registrados por meio das resoluções dos problemas, gravações de áudio das discussões em grupo dos alunos, além do diário de campo do professor-pesquisador. Os elementos da literacia estatística foram mobilizados ao longo da implementação dos problemas geradores, o que possibilitou seu desenvolvimento com os participantes da pesquisa. Além disso, mesmo diante das dificuldades, os alunos utilizaram conhecimentos prévios ao resolver os problemas, e fizeram uso de diferentes estratégias. Desta forma, a resolução de problemas nesta pesquisa proporcionou-lhes opinarem, debaterem e chegarem a um consenso, tendo o professor como mediador do processo de ensino-aprendizagem. A pesquisa gerou como produto educacional um material, destinado a professores, intitulado “Desenvolvimento da Literacia Estatística Através da Resolução de Problemas”. Nele, são disponibilizados os problemas geradores, referenciais sobre a Resolução de Problemas e a Estatística que foram utilizados na pesquisa e orientações gerais para os professores que queiram levar os problemas para suas salas de aula.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

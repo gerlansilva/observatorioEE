@@ -1,0 +1,65 @@
+{
+  "id": "capes-34766964",
+  "autor": "Paola Aquino dos Santos",
+  "ano": 2021,
+  "tipo": "Dissertação",
+  "titulo": "ANÁLISE DOS LIVROS DIDÁTICOS DA EDUCAÇÃO BÁSICA ACERCA DA CONSTRUÇÃO DE SUBSUNÇORES PARA APRENDIZAGEM DE ESTATÍSTICA",
+  "instituicao": "UNIVERSIDADE FRANCISCANA",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Ana Marli Bulegon",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Estatística; Educação Básica; Aprendizagem Significativa; Livro didático; Letramento estatístico",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22AN%C3%81LISE%20DOS%20LIVROS%20DID%C3%81TICOS%20DA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%20ACERCA%20DA%20CONSTRU%C3%87%C3%83O%20DE%20SUBSUN%C3%87ORES%20PARA%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AN%C3%81LISE%20DOS%20LIVROS%20DID%C3%81TICOS%20DA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%20ACERCA%20DA%20CONSTRU%C3%87%C3%83O%20DE%20SUBSUN%C3%87ORES%20PARA%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34766964"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "34766964",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Estatística",
+    "Educação Básica",
+    "Aprendizagem Significativa",
+    "Livro didático",
+    "Letramento estatístico"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-34766964.svg",
+  "resumo": "Os conceitos de Estatística estão presentes em nossas vidas. Perceber sua presença no nosso cotidiano torna-se importante tanto no âmbito científico como para a formação do cidadão. Por isso, é essencial seu estudo durante toda a Educação Básica. Entende-se que os conceitos de Estatística devem ser ensinados desde os anos iniciais do Ensino Fundamental, e no decorrer desta etapa até o Ensino Médio. Contudo, para uma aprendizagem significativa da Estatística são necessários conhecimentos prévios específicos para ancorar os novos conhecimentos. Deste modo, a presente pesquisa, de caráter qualitativo, tem como objetivo investigar as contribuições dos livros didáticos da Educação Básica no desenvolvimento dos subsunçores para a aprendizagem de Estatística nesse nível de ensino. Para atingir este objetivo, foram analisadas seis coleções de livros didáticos da Educação Básica, aprovados pelo Plano Nacional do Livro Didático de 2019 e 2020, tendo em vista somente a análise dos conceitos de Estatística. Para a análise dos dados, a técnica escolhida é a análise de conteúdo, na perspectiva de Bardin. O embasamento desse trabalho apoia-se nas orientações da Base Nacional Comum Curricular (BNCC) e nas publicações científicas encontradas na literatura acerca do ensino de Estatística. Os resultados apontam que os conceitos estabelecidos na BNCC estão dispostos nos livros didáticos do 1º ao 9º ano do Ensino Fundamental. Para os anos iniciais, foram identificados os conceitos de Dados, Gráficos e Tabelas, e para os anos finais são Dados, Gráficos, Tabelas, População, Amostra, Média, Moda, Mediana, Amplitude, Frequências e Inferência. Em cada ano são exibidos atividades, exemplos e situações que destacam as abordagens conceituais e metodológicas dos anos iniciais referentes ao conceito de Estatística, que são a pesquisa, a contextualização, as Tecnologias Digitais de Informação e Comunicação e os recursos didáticos, e nos anos finais são a pesquisa, a contextualização, as Tecnologias digitais, os recursos didáticos, os fluxogramas e os infográficos. Esta análise permite dizer que os Livros Didáticos são importantes recursos didáticos que os professores podem utilizar para o Ensino de Estatística, pois contemplam os conceitos subsunçores de Estatística.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": [
+    "39928151"
+  ]
+}

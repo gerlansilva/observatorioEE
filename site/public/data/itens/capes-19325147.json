@@ -1,0 +1,58 @@
+{
+  "id": "capes-19325147",
+  "autor": "Luis Henrique Pio de Almeida",
+  "ano": 2014,
+  "tipo": "Dissertação",
+  "titulo": "PROPOSTA DE ENSINO DE ESTATÍSTICA EM UMA TURMA DE NONO ANO DO ENSINO FUNDAMENTAL COM USO DO PROGRAMA R-COMMANDER",
+  "instituicao": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Luciana Neves Nunes",
+  "programa": "ENSINO DE MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ambientes de Aprendizagem, Educação Estatística, Modelagem Matemática.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22PROPOSTA%20DE%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20EM%20UMA%20TURMA%20DE%20NONO%20ANO%20DO%20ENSINO%20FUNDAMENTAL%20COM%20USO%20DO%20PROGRAMA%20R-COMMANDER%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PROPOSTA%20DE%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20EM%20UMA%20TURMA%20DE%20NONO%20ANO%20DO%20ENSINO%20FUNDAMENTAL%20COM%20USO%20DO%20PROGRAMA%20R-COMMANDER&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19325147"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "19325147",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ambientes de Aprendizagem, Educação Estatística, Modelagem Matemática."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-19325147.svg",
+  "resumo": "Muitas pesquisas estão sendo realizadas na área de ensino de Matemática que apontam a necessidade e os benefícios educacionais no estudo e no ensino de conceitos estatísticos. Neste contexto, este trabalho traz a proposta e a análise de uma atividade para estudantes do Ensino Fundamental. O principal objetivo deste trabalho foi planejar e aplicar uma sequência didática, envolvendo o uso do programa R-Commander, que, supostamente, estimule os alunos no interesse e compreensão dos conceitos estatísticos. Em termos metodológicos, a pesquisa empregada se classifica como estudo de caso, realizada em uma escola estadual de Porto Alegre (RS) com uma turma do nono ano do Ensino Fundamental. Esta proposta se enquadra no cenário de investigação descrito por Skovsmose (2001) e nos moldes da Modelagem Matemática. Nos aspectos teóricos, a análise dos dados coletados foi baseada nas três competências consideradas necessárias no ensino de Estatística: Literácia, Pensamento e Raciocínio Estatístico. A partir dos resultados obtidos, foi possível observar que a Modelagem Matemática aliada ao uso do R-Commander foi uma combinação favorável para uma boa abordagem do ensino de Estatística.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

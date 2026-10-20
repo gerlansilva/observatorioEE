@@ -1,0 +1,61 @@
+{
+  "id": "capes-36127324",
+  "autor": "Ana Luiza Ferreira Camargo",
+  "ano": 2022,
+  "tipo": "Dissertação",
+  "titulo": "Jogos didáticos no ensino de Análise Combinatória: uma proposta com futuros professores de Matemática",
+  "instituicao": "UNIVERSIDADE FEDERAL DE OURO PRETO",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Marli Regina dos Santos",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Jogos; Análise Combinatória; Situações-Problemas; Futuro Professor de Matemática; Prática Docente",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Jogos%20did%C3%A1ticos%20no%20ensino%20de%20An%C3%A1lise%20Combinat%C3%B3ria%3A%20uma%20proposta%20com%20futuros%20professores%20de%20Matem%C3%A1tica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Jogos%20did%C3%A1ticos%20no%20ensino%20de%20An%C3%A1lise%20Combinat%C3%B3ria%3A%20uma%20proposta%20com%20futuros%20professores%20de%20Matem%C3%A1tica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36127324"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "36127324",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Jogos",
+    "Análise Combinatória",
+    "Situações-Problemas",
+    "Futuro Professor de Matemática",
+    "Prática Docente"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-36127324.svg",
+  "resumo": "Esta pesquisa analisa a realização de uma proposta voltada para o ensino de Análise Combinatória por meio de jogos didáticos para futuros professores de Matemática. A proposta, denominada Combinálise, é composta por quatro jogos pautados na exploração de situações-problemas, que favoreçam a compreensão dos conceitos de Análise Combinatória, buscando encaminhar as discussões posteriores para a generalização de situações e procedimentos, direcionado para as fórmulas relacionadas. A discussão teórica apresentada tem como principais temáticas o pensamento combinatório, os jogos didáticos e a docência em Matemática. O estudo de campo foi realizado em quatro encontros que ocorreram remotamente, devido ao cenário de pandemia e à necessidade de isolamento, foram realizados junto a licenciandos, residentes participantes do Programa Residência Pedagógica de uma Universidade Federal e que estão em atuação em escolas de Educação Básica. Foi realizada uma sondagem prévia junto aos licenciandos, visando obter informações quanto a aspectos relacionados aos temas centrais da pesquisa. Os encontros foram gravados e transcritos, gerando os dados da pesquisa que, em uma abordagem fenomenológica, foram organizados e analisados, visando a questão de investigação. O movimento da análise envolveu a identificação de Unidades Significativas (US) e, posteriormente, um trabalho de efetuar convergências, buscando destacar categorias principais de análise. As categorias destacadas direcionam para o ensino e a aprendizagem da Análise Combinatória e possibilidades por meio de situações investigativas; aspectos da docência que permearam as discussões, no coletivo dos encontros, e que dizem das possibilidades didáticas dos jogos e abordagens junto aos alunos; e os jogos no ensino de Matemática, suas possibilidades, limites e perspectivas para o ensino da disciplina. O produto educacional elaborado é composto por um guia e um site onde são disponibilizados os quatro jogos, e visa alcançar professores, futuros professores, formadores e demais interessados pelos temas que perpassam esta pesquisa.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de combinatória"
+  ],
+  "ids_duplicados": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": "capes-37712574",
+  "autor": "Claudjane Melo Galindo",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "AS PESQUISAS CENSITÁRIA E AMOSTRAL E O LIVRO DIDÁTICO: um olhar através da Perspectiva Construtivista Integrada e os princípios do Letramento Estatístico.",
+  "instituicao": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Vladimir Lira Veras Xavier de Andrade",
+  "programa": "ENSINO DAS CIÊNCIAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Perspectiva Construtivista Integrada; Educação Estatística; Pesquisa; Livro Didático; Ensino Fundamental",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22AS%20PESQUISAS%20CENSIT%C3%81RIA%20E%20AMOSTRAL%20E%20O%20LIVRO%20DID%C3%81TICO%3A%20um%20olhar%20atrav%C3%A9s%20da%20Perspectiva%20Construtivista%20Integrada%20e%20os%20princ%C3%ADpios%20do%20Letramento%20Estat%C3%ADstico.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AS%20PESQUISAS%20CENSIT%C3%81RIA%20E%20AMOSTRAL%20E%20O%20LIVRO%20DID%C3%81TICO%3A%20um%20olhar%20atrav%C3%A9s%20da%20Perspectiva%20Construtivista%20Integrada%20e%20os%20princ%C3%ADpios%20do%20Letramento%20Estat%C3%ADstico.&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37712574"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37712574",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Perspectiva Construtivista Integrada",
+    "Educação Estatística",
+    "Pesquisa",
+    "Livro Didático",
+    "Ensino Fundamental"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37712574.svg",
+  "resumo": "Em vista da forte presença da Estatística no mundo em que vivemos e as contribuições das pesquisas para a compreensão de diferentes fenômenos cotidianos o ensino dessa ciência têm se tornado cada vez mais imperioso e demostrado sua importância sobretudo para a formação cidadã. Nessa direção, cumpre se destacar o papel da Educação Estatística como uma área pedagógica que têm avançado na superação de problemas existentes no ensino e para o fortalecimento de práticas alinhadas à aprendizagem significativa visando a construção do Letramento estatístico. Assim, partindo da hipótese de que o losango didático proposto por Méheut (2005) pode auxiliar nesse processo de construção do letramento estatístico, visto que trata-se de um modelo teórico-metodológico que busca a construção do conhecimento científico a partir de suas funcionalidades com o mundo real valorizando ao mesmo tempo as relações entre professor-aluno-aluno para momentos mais interativos e dialógicos, adotamos essa abordagem como principal referência para análise do livro didático. O livro didático representa um recurso utilizado no âmbito educacional por professores e estudantes. Essa pesquisa tem como objetivo analisar propostas de ensino para o conteúdo de Pesquisa Censitária e amostral nas coleções de livros de Matemática do 7º ano aprovados pelo PNLD 2020 tendo como aporte teórico a Perspectiva Construtivista Integrada proposta por Méheut e os princípios do Letramento Estatístico. O estudo dos objetos constituiu uma pesquisa de natureza qualitativa subsidiada por instrumentos característicos da análise documental. Dessa maneira, fizemos um primeiro estudo do Guia do Livro Didático e da BNCC (2017) na apreensão da unidade probabilidade e Estatística para assim averiguar nos livros a presença do conteúdo investigado e suas consonâncias ao que é estabelecido pela base. Após esse trabalho, analisamos as propostas de ensino-aprendizagem referentes ao mesmo conteúdo considerando o losango Didático proposto por Méheut (2005) e as categorias definidas com base nessa abordagem. Como o LD1 foi o livro mais distribuído as escolas fizemos um estudo mais detalhado que nos permitiu evidenciar que essa obra ainda apresenta muitas limitações tanto no que é considerado pela BNCC como das relações observadas no losango didático. Mediante a essas fragilidades, apresentamos sugestões de atividades que foram pensadas a partir do referido modelo tendo em vista o trabalho conjunto com as dimensões epistêmica e pedagógica. Os resultados observados na primeira parte do estudo sinalizaram para a necessidade da construção de ambientes investigativos que permitam aos alunos a reflexão e interação com informações e resultados de pesquisas reais, uma vez que, ainda se identifica nas obras a predominância de situações envolvendo dados fictícios revelando assim um distanciamento do que é estabelecido pela BNCC. Já a segunda parte do estudo nos levou a compreensão de que é possível encontrar correspondências entre algumas propostas analisadas e o Losango Didático, no entanto, essas relações ainda são incipientes comprometendo assim o desenvolvimento do Letramento Estatístico. Diante desses resultados, essa pesquisa nos convida a refletir sobre a importância de explorar as possibilidades presentes no losango didático junto ao que é considerado pela Educação Estatística para o alcance do Letramento Estatístico e de levar esses resultados aos professores para que essas teorias e discussões possam ser consideradas no processo de ensino-aprendizagem dos conceitos envolvidos contribuindo assim para essa mediação e a construção desse trabalho.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
+}

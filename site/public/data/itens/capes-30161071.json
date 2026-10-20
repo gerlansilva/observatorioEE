@@ -1,0 +1,62 @@
+{
+  "id": "capes-30161071",
+  "autor": "Emily de Vasconcelos Santos",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "CONTRIBUIÇÕES DA RESOLUÇÃO, EXPLORAÇÃO E PROPOSIÇÃO DE PROBLEMAS AO PROCESSO DE ENSINO E APRENDIZAGEM DA COMBINATÓRIA NOS ANOS INICIAIS DO ENSINO FUNDAMENTAL",
+  "instituicao": "UNIVERSIDADE ESTADUAL DA PARAIBA",
+  "cidade": "",
+  "estado": "Paraíba",
+  "regiao": "Nordeste",
+  "orientador": "Silvanio de Andrade",
+  "programa": "ENSINO DE CIÊNCIAS E EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Resolução de Problemas; Combinatória; Anos Iniciais do Ensino Fundamental; Educação Estatística.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22CONTRIBUI%C3%87%C3%95ES%20DA%20RESOLU%C3%87%C3%83O%2C%20EXPLORA%C3%87%C3%83O%20E%20PROPOSI%C3%87%C3%83O%20DE%20PROBLEMAS%20AO%20PROCESSO%20DE%20ENSINO%20E%20APRENDIZAGEM%20DA%20COMBINAT%C3%93RIA%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CONTRIBUI%C3%87%C3%95ES%20DA%20RESOLU%C3%87%C3%83O%2C%20EXPLORA%C3%87%C3%83O%20E%20PROPOSI%C3%87%C3%83O%20DE%20PROBLEMAS%20AO%20PROCESSO%20DE%20ENSINO%20E%20APRENDIZAGEM%20DA%20COMBINAT%C3%93RIA%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30161071"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30161071",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Resolução de Problemas",
+    "Combinatória",
+    "Anos Iniciais do Ensino Fundamental",
+    "Educação Estatística."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30161071.svg",
+  "resumo": "Esta pesquisa investiga as contribuições da Resolução, Exploração e Proposição de Problemas (REP) ao processo de ensino e aprendizagem da Combinatória nos anos iniciais do Ensino Fundamental, tomando como base estudos relacionados à metodologia da Resolução de Problemas e à Educação Combinatória. Mediante o levantamento bibliográfico e os estudos discutidos no referencial teórico, observa-se que, embora o número de pesquisas no âmbito da Educação Combinatória tenha aumentado progressivamente nos últimos anos, ainda são poucos os estudos direcionados especificamente ao trabalho pedagógico nos anos iniciais do Ensino Fundamental. O estudo da pesquisa de campo possui cunho qualitativo, em razão de que se empenhou em descrever e analisar detalhadamente os dados coletados por meio de observações, notas de campo, registro escrito feito pelos alunos e gravações de áudio (BOGDAN; BIKLEN, 1994; OLSEN, 2015). Como sujeitos da pesquisa, adotaram-se 16 alunos de uma turma de 5º ano do Ensino Fundamental de uma escola da rede pública municipal do Estado da Paraíba. As ações pedagógicas realizadas em contexto de sala de aula apoiaram-se na perspectiva metodológica da Resolução, Exploração e Proposição de Problemas defendida por Andrade (1998; 2017), bem como em estudos que discutem o processo de ensino e aprendizagem da Combinatória. Na oportunidade, trabalharam-se os quatro tipos de problemas combinatórios (combinação, arranjo, permutação e produto cartesiano [BORBA, 2010]) que precisam ser abordados nos anos iniciais do Ensino Fundamental, a partir de problemas combinatórios retirados da pesquisa de Pessoa (2009) e propostos pelos alunos. Conclui-se que a proposta metodológica da Resolução, Exploração e Proposição de Problemas contribui para a promoção da aprendizagem combinatória dos alunos, possibilitando o desenvolvimento de um processo educativo reflexivo. Constatou-se que as problematizações provocadas durante o processo de Resolução, Exploração e Proposição de Problemas potencializaram o trabalho de reflexão sobre os invariantes dos problemas combinatórios, o que favoreceu o desenvolvimento do raciocínio combinatório, generalizante e lógico dos alunos, além de também ter possibilitado aos pesquisadores explorar diferentes dimensões dos problemas propostos.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística",
+    "ensino de combinatória"
+  ],
+  "ids_duplicados": []
+}

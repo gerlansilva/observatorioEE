@@ -341,7 +341,7 @@ function renderHome() {
   const a = state.agregados;
   setMeta(
     'Início',
-    'Repositório digital de teses e dissertações brasileiras em Educação Estatística (1984–2013).'
+    'Repositório digital de teses e dissertações brasileiras em Educação Estatística (1984–2024).'
   );
 
   app.innerHTML = `
@@ -1297,7 +1297,7 @@ function renderPanorama() {
   setMeta('Panorama', 'Séries e distribuições do acervo por ano, grau, região, conteúdo e instituição.');
 
   const maxYear = Math.max(...a.por_ano.map((entry) => entry.total), 1);
-  const labelYears = new Set([1984, 1990, 1995, 2000, 2005, 2010, 2013]);
+  const labelYears = new Set([1984, 1990, 1995, 2000, 2005, 2010, 2015, 2020, 2024]);
   const bars = a.por_ano
     .map((entry) => {
       const height = Math.max(1, Math.round((entry.total / maxYear) * 100));
@@ -1460,7 +1460,8 @@ function renderAbout() {
 
         <h2>Como os dados foram organizados</h2>
         <ul>
-          <li>Leitura da aba <strong>Plan1</strong> da planilha original, com 259 registros válidos.</li>
+          <li>Planilha original “Estado da arte”, com 259 registros válidos (1984–2013).</li>
+          <li>Atualização de outubro de 2026: 404 registros novos (2013–2024) coletados na API do Catálogo de Teses e Dissertações da CAPES por termos do campo (educação estatística, letramento estatístico, ensino de probabilidade etc.), deduplicados e revisados no painel de curadoria.</li>
           <li>Normalização de espaços, pontuação, nomes de instituições e estados.</li>
           <li>Conversão dos códigos de grau, nível de ensino e foco temático em rótulos legíveis.</li>
           <li>Derivação da região a partir do estado e classificação da área a partir do nome do programa.</li>
@@ -1527,7 +1528,8 @@ function renderAbout() {
 
         <h2>Limitações</h2>
         <ul>
-          <li>O acervo reflete o recorte temporal da planilha original (1984–2013) e não é uma atualização contínua.</li>
+          <li>O recorte 2013–2024 depende da busca por termos na API da CAPES; trabalhos que não citam esses termos no título ou no resumo podem estar ausentes.</li>
+          <li>As fichas novas ainda não têm os campos de análise (nível, foco, conteúdo, problema, metodologia e contribuições) preenchidos: parte aguarda curadoria, disponível no painel.</li>
           <li>Alguns campos estão incompletos: ${comFoco} registros têm foco temático informado; parte dos resumos, metodologias e palavras-chave está vazia.</li>
           <li>Os links para texto completo foram localizados na CAPES/BDTD quando disponíveis; nem todos os registros têm texto completo em acesso aberto.</li>
           <li>A classificação de área e a padronização de instituições são interpretações editoriais e podem ser revisadas.</li>
@@ -1536,7 +1538,7 @@ function renderAbout() {
 
         <h2>Downloads</h2>
         <div class="tainacan-downloads">
-          <a href="./dados/teses.csv" download><strong>CSV normalizado</strong><span>259 registros, uma linha por trabalho</span></a>
+          <a href="./dados/teses.csv" download><strong>CSV normalizado</strong><span>${state.agregados.total} registros, uma linha por trabalho</span></a>
           <a href="./data/indice.json" download><strong>JSON de índice</strong><span>Campos de busca e filtros</span></a>
           <a href="./data/agregados.json" download><strong>JSON de agregados</strong><span>Séries e contagens usadas nos gráficos</span></a>
         </div>
@@ -1545,7 +1547,7 @@ function renderAbout() {
         <p>Ao reutilizar os dados, cite a planilha de origem e este repositório. Uma sugestão:</p>
         <div class="callout">
           REPOSITÓRIO DE TESES E DISSERTAÇÕES EM EDUCAÇÃO ESTATÍSTICA. <em>Acervo digital
-          (1984–2013)</em>. Dados organizados a partir da planilha “Estado da arte”. Disponível em:
+          (1984–2024)</em>. Dados organizados a partir da planilha “Estado da arte” e atualizados com o Catálogo de Teses e Dissertações da CAPES. Disponível em:
           [endereço do site]. Acesso em: [data].
         </div>
 

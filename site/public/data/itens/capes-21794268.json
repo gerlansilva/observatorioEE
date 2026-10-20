@@ -1,0 +1,60 @@
+{
+  "id": "capes-21794268",
+  "autor": "Antonio Carlos Bastos",
+  "ano": 2016,
+  "tipo": "Dissertação",
+  "titulo": "Resolução de Problemas : Uma Discussão sobre o Ensino de Análise Combinatória",
+  "instituicao": "UNIVERSIDADE DO GRANDE RIO - PROF JOSE DE SOUZA HERDY",
+  "cidade": "",
+  "estado": "Rio de Janeiro",
+  "regiao": "Sudeste",
+  "orientador": "Eline das Flores Victer",
+  "programa": "ENSINO DAS CIÊNCIAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Análise Combinatória; Escola de Ensino Médio; Resolução de Problemas; Histórica da Matemática",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Resolu%C3%A7%C3%A3o%20de%20Problemas%20%3A%20Uma%20Discuss%C3%A3o%20sobre%20o%20Ensino%20de%20An%C3%A1lise%20Combinat%C3%B3ria%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Resolu%C3%A7%C3%A3o%20de%20Problemas%20%3A%20Uma%20Discuss%C3%A3o%20sobre%20o%20Ensino%20de%20An%C3%A1lise%20Combinat%C3%B3ria&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21794268"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "21794268",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Análise Combinatória",
+    "Escola de Ensino Médio",
+    "Resolução de Problemas",
+    "Histórica da Matemática"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-21794268.svg",
+  "resumo": "Este trabalho buscou investigar uma proposta de ensino que utiliza como ferramenta didática a História da Matemática e a Resolução de Problemas, para o ensino e a aprendizagem da Análise Combinatória, assunto normalmente tratado no 2º ano do Ensino Médio. Por sua vez a Análise Combinatória tem por finalidade estabelecer métodos de contagem, ou mais simplesmente, problemas de contagem, e é tida como um dos assuntos de maior dificuldade no Ensino Médio. Para a realização desse feito, buscamos na literatura autores que são favoráveis à utilização da História no ensino e aprendizagem da Matemática e seus principais argumentos, autores que acreditam na eficácia do ensino e aprendizagem a partir da Resolução de Problemas e por fim salientamos as contribuições vindas de obras e textos sobre a História da Matemática. O presente trabalho visou contribuir com o ensino e a aprendizagem da Análise Combinatória; a fim de trazer uma Matemática mais humanizada, relacionada com fatos históricos e com aplicações no mundo real. Em seguida este trabalho foi aplicado a uma turma do Ensino Médio, em uma escola pública do Estado do Rio de Janeiro e analisado. Verificamos que o conteúdo foi assimilado com facilidade e houve um melhor aproveitamento dos alunos. Desejamos que, a partir desse trabalho haja um melhor entendimento acerca desse que é um tema relevante no estudo de Matemática. Ainda com base na dissertação, elaboramos um livro, com o seguinte título: “A Análise Combinatória Desenvolvida com Aspectos Históricos”, que é o produto educacional, onde estabelecemos conceitos combinatórios através de fatos históricos e problemas. A maior dificuldade que tivemos foi a falta de trabalhos que se referem especificamente à História da Análise Combinatória.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de combinatória"
+  ],
+  "ids_duplicados": []
+}

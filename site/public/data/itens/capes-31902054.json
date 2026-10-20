@@ -1,0 +1,60 @@
+{
+  "id": "capes-31902054",
+  "autor": "Natalia Galvao Simao de Souza",
+  "ano": 2020,
+  "tipo": "Dissertação",
+  "titulo": "ENSINO DE CONCEITOS ESTATÍSTICOS NO PRIMEIRO ANO DO ENSINO FUNDAMENTAL: INSTRUÇÃO BASEADA EM EQUIVALÊNCIA",
+  "instituicao": "UNIVERSIDADE FEDERAL DO ABC",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Ailton Paulo de Oliveira Junior",
+  "programa": "Ensino e História das Ciências e da Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Estatística; Anos iniciais do Ensino Fundamental; Resolução de Problemas; Equivalência de Estímulos.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20DE%20CONCEITOS%20ESTAT%C3%8DSTICOS%20NO%20PRIMEIRO%20ANO%20DO%20ENSINO%20FUNDAMENTAL%3A%20INSTRU%C3%87%C3%83O%20BASEADA%20EM%20EQUIVAL%C3%8ANCIA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20DE%20CONCEITOS%20ESTAT%C3%8DSTICOS%20NO%20PRIMEIRO%20ANO%20DO%20ENSINO%20FUNDAMENTAL%3A%20INSTRU%C3%87%C3%83O%20BASEADA%20EM%20EQUIVAL%C3%8ANCIA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31902054"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "31902054",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Estatística",
+    "Anos iniciais do Ensino Fundamental",
+    "Resolução de Problemas",
+    "Equivalência de Estímulos."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-31902054.svg",
+  "resumo": "Consideramos que o ensino de Estatística deve estar fundamentado na metodologia de resolução de problemas, não se tratando somente de informações, cálculos e modelos técnicos. Essa metodologia está voltada para o desenvolvimento do raciocínio do aluno, estimulando-o a encontrar a melhor solução possível e que por meio disso o aluno seja capaz de resolver problemas do seu cotidiano e preparar-se para as situações futuras. Com o objetivo de construir uma discussão teórica/conceitual que fornecesse avanços na área da Educação Estatística e da Análise do Comportamento, estabelecemos uma relação entre o modelo da Equivalência de Estímulos e a metodologia de resolução de problemas no ensino de Estatística proposta no documento americano intitulado Relatório de Diretrizes para a Avaliação e Instrução em Educação Estatística (GAISE): uma Estrutura Curricular para a Educação Básica, priorizando os objetos de conhecimento e as habilidades presentes na Base Nacional Comum Curricular – BNCC (BRASIL, 2017) para o primeiro ano do Ensino Fundamental. Ao estabelecer essa relação, foi possível elaborar uma proposta de estudo sobre a formação de classes de estímulos equivalentes a partir de uma sequência de ensino composta por pré-teste, ensino, pós-teste e generalização. Tal proposta considera os quatro componentes da metodologia de resolução de problemas do documento GAISE como quatro classes distintas de estímulos (Formular perguntas; Coletar dados; Analisar dados ou organizar os dados e; Interpretar os resultados) para a elaboração de um programa de ensino baseado na Equivalência de Estímulos. Consideramos que o ensino através da instrução baseada em equivalência (EBI) pode fornecer aos alunos a oportunidade de desenvolver habilidades e aprender relações conceituais que não foram diretamente ensinadas, aumentando a eficiência do ensino. A partir disso, esse trabalho fornece um programa de ensino que seja aplicável em experimentos futuros para a verificação da efetividade da Equivalência de Estímulos para o ensino de conteúdos estatísticos relacionados a essa etapa de ensino e, além disso, traz importantes discussões sobre limitações para o ensino de Estatística observadas na formação do professor da educação básica e nos documentos orientadores do currículo.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

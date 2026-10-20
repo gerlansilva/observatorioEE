@@ -1,0 +1,60 @@
+{
+  "id": "capes-20305108",
+  "autor": "Adryanne Maria Rodrigues Barreto de Assis",
+  "ano": 2014,
+  "tipo": "Dissertação",
+  "titulo": "CONHECIMENTOS DE COMBINATÓRIA E SEU ENSINO EM UM PROCESSO DE FORMAÇÃO CONTINUADA: REFLEXÕES E PRÁTICA DE UMA PROFESSORA",
+  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Cristiane Azevedo dos Santos",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Combinatória; Raciocínio Combinatório, Formação de professores, Conhecimentos Docentes; Anos iniciais de escolarização.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22CONHECIMENTOS%20DE%20COMBINAT%C3%93RIA%20E%20SEU%20ENSINO%20EM%20UM%20PROCESSO%20DE%20FORMA%C3%87%C3%83O%20CONTINUADA%3A%20REFLEX%C3%95ES%20E%20PR%C3%81TICA%20DE%20UMA%20PROFESSORA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CONHECIMENTOS%20DE%20COMBINAT%C3%93RIA%20E%20SEU%20ENSINO%20EM%20UM%20PROCESSO%20DE%20FORMA%C3%87%C3%83O%20CONTINUADA%3A%20REFLEX%C3%95ES%20E%20PR%C3%81TICA%20DE%20UMA%20PROFESSORA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20305108"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "20305108",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Combinatória",
+    "Raciocínio Combinatório, Formação de professores, Conhecimentos Docentes",
+    "Anos iniciais de escolarização."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-20305108.svg",
+  "resumo": "Este estudo se propôs a analisar o efeito de um processo de formação continuada sobre Combinatória, baseado na Teoria dos Campos Conceituais de Vergnaud (1986), a qual constitui o tripé que forma o conceito: situações1, invariantes e representações simbólicas dos problemas combinatórios. O processo foi realizado com um grupo de professoras de uma escola, contudo, a pesquisa traz as inferências realizadas a partir das reflexões e práticas de uma professora. A pesquisa se constituiu em entrevista inicial individual com a professora, seis encontros para formação, nos quais também se incluem duas observações de aula ministrada pela professora, e uma entrevista final, também individual, com a professora participante. Foi solicitado também ao longo da pesquisa que a docente elaborasse alguns planejamentos de aulas, sendo um na entrevista inicial, dois durante o processo de formação (quarto e sexto encontro), que seriam aplicados em sala de aula, e outro na entrevista final. As entrevistas inicial e final realizadas na pesquisa são baseadas nas entrevistas realizadas por Rocha (2011). Buscamos verificar o efeito dessa formação nos conhecimentos da docente pesquisada, a partir das contribuições de Shulman (2005) e Ball e seus colaboradores (2008), especificamente, no conhecimento especializado do conteúdo e no conhecimento didático deste conteúdo, no caso, da Combinatória. Os resultados apontam para uma dificuldade no reconhecimento e trabalho da Combinatória, na entrevista inicial. No entanto, durante e após as intervenções, há o reconhecimento, pela professora, mais detalhado das diferentes situações e seus respectivos invariantes, assim como, das representações simbólicas e do desenvolvimento do raciocínio combinatório de alunos. Verificou-se também que a docente reconhece o material manipulável como uma forma válida de representação para auxiliar no processo de ensino e aprendizagem e, ao longo do processo de formação, faz uso desses ao ministrar aulas sobre Combinatória, sendo estas bastante dinâmicas e de acordo com o que estava sendo solicitado. Sendo assim, constatamos que há uma ressignificação da docente participante quanto a seus conhecimentos, especificamente, o conhecimento especializado da Combinatória e o conhecimento didático da Combinatória. Percebe-se, então, que a formação continuada em Combinatória pode se constituir em uma ação importante, levando os docentes a ressignificarem seus conhecimentos e refletirem sobre esse conteúdo que pode ser trabalhado desde os anos iniciais do Ensino Fundamental.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de combinatória",
+    "raciocínio combinatório"
+  ],
+  "ids_duplicados": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": "capes-32886558",
+  "autor": "Fernando Gonzales Tavares",
+  "ano": 2020,
+  "tipo": "Tese",
+  "titulo": "A utilização do GeoGebrana Educação Estatística no Ensino Superior",
+  "instituicao": "UNIVERSIDADE CRUZEIRO DO SUL",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Celi Aparecida Espasandin Lopes",
+  "programa": "ENSINO DE CIÊNCIAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino superior; GeoGebra; Educação Estatística",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20utiliza%C3%A7%C3%A3o%20do%20GeoGebrana%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20no%20Ensino%20Superior%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20utiliza%C3%A7%C3%A3o%20do%20GeoGebrana%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20no%20Ensino%20Superior&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/32886558"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "32886558",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino superior",
+    "GeoGebra",
+    "Educação Estatística"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-32886558.svg",
+  "resumo": "Esta tese está organizada no formato multipaper como uma coletânea de três artigos que correspondem as etapas do desenvolvimento da pesquisa, tendo como objeto de estudo o processo de ensino de Estatística no Ensino Superior e as contribuições do software GeoGebra neste contexto. Considera-se como pressuposto que o conhecimento estatístico deve propiciar aos estudantes condições para a compreensão da variabilidade dos dados, essência da estatística, e a sua influência na tomada de decisões. Para isso, as propostas de ensino têm que possibilitar aos estudantes vivenciar situações que envolvem: problematização, coleta de dados, representação de dados e interpretação de resultados. A tecnologia é uma importante ferramenta nesse processo, por permitir a exploração de diversas estratégias, métodos e modelos de representação dos dados, os quais possibilitam estabelecer diversas relações. O objetivo dessa pesquisa é discutir o processo de ensino de Estatística no Ensino Superior e as contribuições do software GeoGebra neste contexto. Foi adotado como método de investigação o uso do estudo de caso, com a análise qualitativa. Diante disso, neste estudo, investigamos a seguinte questão: Quais são as potencialidades do software GeoGebra na Educação Estatística no Ensino Superior? Para respondê-la analisou-se o trabalho pedagógico desenvolvido em uma turma do curso de engenharia civil de uma universidade privada da Baixada Santista. O estudo permitiu observar que o GeoGebra, como software dinâmico, oportunizou ambientes de aprendizagem interativos e instigantes para os estudantes resolveram problemas práticos, envolvendo situações autênticas, de forma crítica e reflexiva. Os resultados evidenciaram que o software GeoGebra é uma ferramenta eficiente para apoiar a construção de conceitos e procedimentos estatísticos, embora apresente algumas limitações quanto a sua usabilidade",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
+}

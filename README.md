@@ -1,12 +1,12 @@
 # Observatório EE
 
-Repositório digital de teses e dissertações brasileiras em **Educação Estatística** (1984–2013), com interface inspirada no tema **Tainacan Interface**.
+Repositório digital de teses e dissertações brasileiras em **Educação Estatística** (1984–2024), atualizado em outubro de 2026 com o Catálogo de Teses e Dissertações da CAPES, com interface inspirada no tema **Tainacan Interface**.
 
 O site é uma publicação estática: os dados são extraídos da planilha de estado da arte, enriquecidos com informações da CAPES, da BDTD e dos repositórios institucionais, e publicados como arquivos JSON e SVG. Não há banco de dados nem servidor de aplicação em produção.
 
 - **Repositório:** <https://github.com/gerlansilva/observatorioEE>
 - **Publicação:** Cloudflare Pages, a partir da pasta `site/public`
-- **Recorte:** 259 trabalhos, 1984–2013
+- **Recorte:** 662 trabalhos, 1984–2024
 
 ## Sumário
 
@@ -46,7 +46,7 @@ O site **não hospeda os arquivos das teses e dissertações**. Os links levam a
 
 | Indicador | Total |
 |---|---:|
-| Trabalhos catalogados | 259 |
+| Trabalhos catalogados | 662 |
 | Dissertações | 221 |
 | Teses | 38 |
 | Instituições | 57 |
@@ -56,7 +56,7 @@ O site **não hospeda os arquivos das teses e dissertações**. Os links levam a
 | Registros com link de repositório | 182 |
 | Resumos em português | 189 |
 | Registros com palavras-chave em português | 190 |
-| Miniaturas editoriais | 259 |
+| Miniaturas editoriais | 662 |
 
 Os números do site são gerados a partir de `site/public/data/agregados.json`; não são valores fixos no HTML.
 
@@ -156,14 +156,14 @@ observatorioEE/
 │   │   ├── brand/                       # marca, logo, favicon, OG e tokens
 │   │   ├── fonts/                       # Roboto e TainacanIcons
 │   │   ├── images/
-│   │   │   ├── thumbs/                  # 259 miniaturas SVG
+│   │   │   ├── thumbs/                  # 662 miniaturas SVG
 │   │   │   └── capa-colecao-card.svg
 │   │   └── vendor/                      # Bootstrap e Tainacan Interface
 │   ├── data/
 │   │   ├── indice.json
 │   │   ├── agregados.json
 │   │   ├── mapa-brasil.json
-│   │   └── itens/                       # 259 fichas completas
+│   │   └── itens/                       # 662 fichas completas
 │   └── dados/teses.csv
 ├── functions/api/admin/                 # API do painel no Cloudflare Pages
 │   ├── _utils.js
@@ -377,7 +377,7 @@ Os gráficos do panorama, o mapa e os totais da home são recalculados a partir 
 
 ## Critérios e limitações
 
-- O recorte temporal é o da planilha original: **1984–2013**.
+- O recorte temporal é o da planilha original: **1984–2024** (planilha original até 2013; 2013–2024 via CAPES).
 - Nem todos os trabalhos estão depositados na BDTD. Quando não há registro BDTD, o link do repositório institucional é usado como alternativa.
 - Alguns repositórios bloqueiam acesso automatizado, estão fora do ar ou não oferecem resumo público. Nesses casos, a ficha usa o campo “Problema e Objetivos” da planilha como texto de apoio, com nota explícita.
 - Resumos e palavras-chave foram mantidos em português. Não há tradução automática de abstracts.
@@ -417,4 +417,4 @@ O código e a documentação deste repositório estão disponíveis para consult
 
 Sugestão de citação:
 
-> OBSERVATÓRIO EE. *Teses e dissertações em Educação Estatística (1984–2013)*. Repositório digital. Disponível em: <https://github.com/gerlansilva/observatorioEE>. Acesso em: [data].
+> OBSERVATÓRIO EE. *Teses e dissertações em Educação Estatística (1984–2024)*. Repositório digital. Disponível em: <https://github.com/gerlansilva/observatorioEE>. Acesso em: [data].

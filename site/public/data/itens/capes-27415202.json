@@ -1,0 +1,60 @@
+{
+  "id": "capes-27415202",
+  "autor": "Thais Kieckhoefel",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "CAÇA AO TESOURO DA PROBABILIDADE: UMA PROPOSTA DE JOGO COOPERATIVO PARA OS ANOS INICIAIS DO ENSINO FUNDAMENTAL",
+  "instituicao": "UNIVERSIDADE DO ESTADO DE SANTA CATARINA",
+  "cidade": "",
+  "estado": "Santa Catarina",
+  "regiao": "Sul",
+  "orientador": "Elisa Henning",
+  "programa": "ENSINO DE CIÊNCIAS, MATEMÁTICA E TECNOLOGIAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Probabilidade; Jogos Cooperativos; Anos Iniciais",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22CA%C3%87A%20AO%20TESOURO%20DA%20PROBABILIDADE%3A%20UMA%20PROPOSTA%20DE%20JOGO%20COOPERATIVO%20PARA%20OS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CA%C3%87A%20AO%20TESOURO%20DA%20PROBABILIDADE%3A%20UMA%20PROPOSTA%20DE%20JOGO%20COOPERATIVO%20PARA%20OS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27415202"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "27415202",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Probabilidade",
+    "Jogos Cooperativos",
+    "Anos Iniciais"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-27415202.svg",
+  "resumo": "A presente pesquisa teve como objetivo o desenvolvimento de um jogo cooperativo no âmbito do ensino-aprendizagem-avaliação, abordando conteúdos de Probabilidade para os anos iniciais do Ensino Fundamental. Para isso, inicialmente realizou-se uma revisão de literatura em busca de referenciais sobre Estatística e Probabilidade nos anos iniciais, bem como um estudo sobre o potencial dos jogos cooperativos no âmbito de ensino-aprendizagem-avaliação. A partir de tais estudos, foi desenvolvido o jogo cooperativo intitulado Caça ao Tesouro da Probabilidade, que é composto por seis etapas que abordam situações de acaso, incerteza e aleatoriedade, explorando atividades práticas e o trabalho em equipe, apoiado na metodologia de resolução de problemas. Como experimentação do jogo criado, foi realizada uma aplicação com estudantes de terceiro ano do Ensino Fundamental, integrantes de uma turma composta por 22 alunos de uma escola municipal de Jaraguá do Sul – SC. A análise dos resultados, de cunho qualitativo, se deu a partir das observações e anotações da pesquisadora, juntamente com a análise de fichas preenchidas pelos estudantes durante a experimentação das etapas do jogo. A partir de tais análises, verificou-se que utilizar um jogo cooperativo no processo de ensino-aprendizagem-avaliação do conteúdo de Probabilidade nos anos iniciais é um caminho que possibilita experimentação e o trabalho em equipe, aspectos importantes para desenvolver noções de acaso e incerteza. Os jogos também envolvem a ludicidade e desafios, que fazem parte do universo infantil. Dessa forma, é possível afirmar que os jogos cooperativos apresentam potencial para o ensino-aprendizagem-avaliação, desde que planejados para tal fim, com objetivos e regras direcionadas para o propósito que se pretende alcançar.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
+}

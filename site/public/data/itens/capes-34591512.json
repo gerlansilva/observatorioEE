@@ -1,0 +1,61 @@
+{
+  "id": "capes-34591512",
+  "autor": "Sandra Salerno",
+  "ano": 2021,
+  "tipo": "Dissertação",
+  "titulo": "POTENCIALIDADES PEDAGÓGICAS DA HISTÓRIA DA ESTATÍSTICA: comparando o conhecimento sobre conceitos estatísticos de alunos do Ensino fundamental e Médio",
+  "instituicao": "UNIVERSIDADE FEDERAL DO ABC",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Ailton Paulo de Oliveira Junior",
+  "programa": "Ensino e História das Ciências e da Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Estatística; História da Estatística; Anos finas do Ensino fundamental; Ensino Médio; Análise textual multivariada",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22POTENCIALIDADES%20PEDAG%C3%93GICAS%20DA%20HIST%C3%93RIA%20DA%20ESTAT%C3%8DSTICA%3A%20comparando%20o%20conhecimento%20sobre%20conceitos%20estat%C3%ADsticos%20de%20alunos%20do%20Ensino%20fundamental%20e%20M%C3%A9dio%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=POTENCIALIDADES%20PEDAG%C3%93GICAS%20DA%20HIST%C3%93RIA%20DA%20ESTAT%C3%8DSTICA%3A%20comparando%20o%20conhecimento%20sobre%20conceitos%20estat%C3%ADsticos%20de%20alunos%20do%20Ensino%20fundamental%20e%20M%C3%A9dio&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34591512"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "34591512",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Estatística",
+    "História da Estatística",
+    "Anos finas do Ensino fundamental",
+    "Ensino Médio",
+    "Análise textual multivariada"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-34591512.svg",
+  "resumo": "O seguinte trabalho tem como objetivo considerar os argumentos reforçadores das potencialidades pedagógicas e questionadores da História da Matemática, segundo Miguel (1997), apoiados por pesquisa bibliográfica sobre a História da Estatística e desenvolvimento de atividades para a utilização em salas de aula da Educação Básica dos conceitos básicos estatísticos como referente ao significado da palavra “Estatística” e ainda relacionadas aos conceitos de população, amostra, censo, gráficos e tabelas estatísticas. Desenvolvemos atividades que foram descritas e categorizadas e relatadas em forma de texto, para que sejam desenvolvidas componentes de uma sequência de propostas que busca reproduzir fatos constituintes do desenvolvimento histórico de conteúdos estatísticos que fundamentam esta área do conhecimento, para que, a partir destas atividades, seja possível por parte dos alunos a apreensão dos conteúdos estatísticos estudados. Nesta investigação, foi realizada análise textual multivariada das respostas dadas às atividades propostas no instrumento disponibilizado via Google Forms por 65 alunos de ensino médio (1° ao 3° ano) e 44 alunos do Ensino fundamental (6° ao 8° ano) de duas escolas estaduais nos municípios de Santo André e São Paulo. Esta pesquisa é do tipo exploratório, de abordagem qualitativa e quantitativa por meio de questionário e analisado pelo software IRaMuTeQ (Interface R para Texto Multidimensional e Análise de Questionário), ferramenta auxiliar do processo de codificação dos elementostrazidos por meio da coleta de dados. Essa avaliação serviu de suporte para avaliar as atividadespropostas apoiadas em proposta pedagógica utilizando a história da Estatística para alunos do 6° ao 8° ano do Ensino fundamental e 1° ao 3° ano do ensino médio, buscando identificar as competências e habilidades relativas às noções estatísticas básicas que foram foco das atividades propostas. Destacamos que foram realizadas análises separadamente para os alunos do Ensino fundamental e os do ensino médio e na sequência estudo comparativo entre os dois níveis de ensino. Observamos que os alunos perceberam a partir da história da estatística que os conhecimentos surgem de manifestações culturais dos povos e que esses conhecimentos sofreram transformações ao longo da história até constituírem o conhecimento que temos hoje. Sendo assim, concebeu-se que o conhecimento estatístico não é algo pronto e acabado como muitos acreditavam ser, tornando indispensável em consequência do desenvolvimento científico, tecnológico, social e econômico. Ainda considera-se que tanto os alunos do ensino fundamental como os do ensino médio compreenderam as questões propostas, sendo que os do ensino médio apresentaram melhores resultados, o que era esperado para essa etapa mais avançada de conhecimento.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

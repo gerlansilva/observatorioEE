@@ -1,0 +1,60 @@
+{
+  "id": "capes-37726878",
+  "autor": "Tatiane Aline Rodrigues",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "PROBABILIDADE GEOMÉTRICA: CONTRIBUIÇÕES PARA O ENSINO DE MATEMÁTICA NA EDUCAÇÃO BÁSICA",
+  "instituicao": "UNIVERSIDADE FEDERAL DO RIO GRANDE",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Rene Carlos Cardoso Baltazar Junior",
+  "programa": "ENSINO DE CIÊNCIAS EXATAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Probabilidade; Geometria; Problemas probabilísticos; Problema do Macarrão.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22PROBABILIDADE%20GEOM%C3%89TRICA%3A%20CONTRIBUI%C3%87%C3%95ES%20PARA%20O%20ENSINO%20DE%20MATEM%C3%81TICA%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PROBABILIDADE%20GEOM%C3%89TRICA%3A%20CONTRIBUI%C3%87%C3%95ES%20PARA%20O%20ENSINO%20DE%20MATEM%C3%81TICA%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37726878"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37726878",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Probabilidade",
+    "Geometria",
+    "Problemas probabilísticos",
+    "Problema do Macarrão."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37726878.svg",
+  "resumo": "A Probabilidade é um campo da matemática que se ocupa do estudo das incertezas e tomadas de decisão, desenvolvendo modelos para estudar fenômenos aleatórios. O Problema do Macarrão se insere nessa área e instigou a realização desta pesquisa, com o tema Probabilidade Geométrica, que propõe a resolução de questões probabilísticas com espaços amostrais contínuos, através de meios geométricos. Assim, o objetivo deste trabalho foi desenvolver uma proposta pedagógica de Probabilidade Geométrica que contribua para o Ensino de Matemática na Educação Básica. O resultando obtido foi o Produto Educacional: Probabilidade Geométrica na Sala de Aula, sendo composto por atividades que são replicáveis em distintos contextos. Os problemas discutidos, como do Macarrão e o Celular Perdido, se desdobraram em ilustrações no GeoGebra e atividades experimentais, explorando noções de aleatoriedade, experimento aleatório, espaço amostrais e eventos, incentivando a aplicação de conceitos geométricos e novas discussões sobre o Ensino de Matemática.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de probabilidade"
+  ],
+  "ids_duplicados": []
+}

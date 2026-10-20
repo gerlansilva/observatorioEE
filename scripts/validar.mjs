@@ -44,10 +44,10 @@ async function main() {
   check(Array.isArray(index), 'indice.json deve ser uma lista.');
   check(index.length === agregados.total, `Índice (${index.length}) difere do total (${agregados.total}).`);
   check(agregados.periodo.inicio === 1984, 'Ano inicial deveria ser 1984.');
-  check(agregados.periodo.fim === 2013, 'Ano final deveria ser 2013.');
+  check(agregados.periodo.fim === 2024, 'Ano final deveria ser 2024.');
 
   const ids = new Set();
-  const required = ['id', 'titulo', 'autor', 'ano', 'tipo', 'grau', 'instituicao', 'area', 'foco', 'conteudo', 'busca_norm'];
+  const required = ['id', 'titulo', 'autor', 'ano', 'tipo', 'grau', 'instituicao', 'area', 'busca_norm'];
 
   for (const entry of index) {
     for (const field of required) {
@@ -74,11 +74,13 @@ async function main() {
   for (const id of fileSet) check(ids.has(id), `Ficha órfã: ${id}.json`);
 
   const sum = (series) => series.reduce((total, entry) => total + Number(entry.total || 0), 0);
+  warn(sum(agregados.por_foco) < agregados.total, 'nem todo registro tem foco/conteúdo classificados (fichas novas aguardam curadoria).');
+
   check(sum(agregados.por_ano) === agregados.total, 'Soma de por_ano difere do total.');
   check(sum(agregados.por_grau) === agregados.total, 'Soma de por_grau difere do total.');
   check(sum(agregados.por_tipo) === agregados.total, 'Soma de por_tipo difere do total.');
   check(sum(agregados.por_regiao) === agregados.total, 'Soma de por_regiao difere do total.');
-  check(agregados.por_ano.length === 30, 'por_ano deveria ter 30 anos (1984–2013).');
+  check(agregados.por_ano.length === 41, 'por_ano deveria ter 41 anos (1984–2024).');
 
   try {
     const csv = await readFile(CSV, 'utf8');

@@ -1,0 +1,61 @@
+{
+  "id": "capes-27412236",
+  "autor": "Sandra Cristina Martini Rostirola",
+  "ano": 2018,
+  "tipo": "Dissertação",
+  "titulo": "JOGOS COOPERATIVOS COMO INSTRUMENTO DE ENSINO-APRENDIZAGEM-AVALIAÇÃO DE ANÁLISE COMBINATÓRIA NO CICLO DE ALFABETIZAÇÃO",
+  "instituicao": "UNIVERSIDADE DO ESTADO DE SANTA CATARINA",
+  "cidade": "",
+  "estado": "Santa Catarina",
+  "regiao": "Sul",
+  "orientador": "Ivanete Zuchi Siple",
+  "programa": "ENSINO DE CIÊNCIAS, MATEMÁTICA E TECNOLOGIAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ciclo de Alfabetização; Alfabetização Estatística; Jogos Cooperativos; Raciocínio Combinatório",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22JOGOS%20COOPERATIVOS%20COMO%20INSTRUMENTO%20DE%20ENSINO-APRENDIZAGEM-AVALIA%C3%87%C3%83O%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20NO%20CICLO%20DE%20ALFABETIZA%C3%87%C3%83O%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=JOGOS%20COOPERATIVOS%20COMO%20INSTRUMENTO%20DE%20ENSINO-APRENDIZAGEM-AVALIA%C3%87%C3%83O%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20NO%20CICLO%20DE%20ALFABETIZA%C3%87%C3%83O&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27412236"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "27412236",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ciclo de Alfabetização",
+    "Alfabetização Estatística",
+    "Jogos Cooperativos",
+    "Raciocínio Combinatório"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-27412236.svg",
+  "resumo": "A pesquisa apresentada tem o objetivo de propor jogos cooperativos como instrumento de Ensino-Aprendizagem-Avaliação de Análise Combinatória para o Ciclo de Alfabetização. Metodologicamente consistiu em algumas etapas que culminaram no Produto Educacional “Caderno de atividades lúdicas: combinando, arranjando e permutando no Ciclo de Alfabetização”. Inicialmente foi realizada a Revisão Sistemática de Literatura sobre jogos educativos para abordagens no ensino da Estatística no viés da Alfabetização Estatística. Na sequência foi realizada um Estudo de Caso, em uma escola de Ensino Fundamental do Meio Oeste Catarinense, para averiguar qual a abordagem relacionada a jogos no desenvolvimento da Alfabetização Estatística era utilizada no Ciclo de Alfabetização e que características eram essenciais em um material didático para aprendizagem de noções de Análise Combinatória nessa etapa da escolarização. Para isso foi observado o livro didático adotado em uma turma do terceiro ano do Ensino Fundamental, e realizadas entrevistas com as professoras alfabetizadoras, da mesma escola. Essas etapas foram fundamentais para a proposição dos protótipos dos jogos, os quais foram experimentados por acadêmicos da área da Pedagogia de uma Instituição de Ensino superior da mesma região, como também pelos alunos do terceiro ano do Ciclo de Alfabetização. Os dados oriundos das experimentações foram analisados utilizando metodologia quanti-qualitativa. Nos aspectos qualitativos há indícios, observados nas atividades escritas recolhidas e questionamentos feitos aos estudantes, que os materiais lúdicos associados à Resolução de Problemas, auxiliam o educando no desenvolvimento do Raciocínio Combinatório. Situação essa evidenciada também por análises quantitativas. Nas experimentações também foi perceptível o potencial dos jogos como instrumento para desenvolver habilidades cognitivas relacionadas às estratégias para resolução de problemas, além de permitir o desenvolvimento de valores e atitudes cooperativas. A análise possibilitou melhorias nos jogos, nas situações problemas e no Caderno de atividades lúdicas proposto. Acreditamos que este trabalho possa colaborar com o Ensino- Aprendizagem-Avaliação de Análise Combinatória para o Ciclo de Alfabetização.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de combinatória",
+    "raciocínio combinatório"
+  ],
+  "ids_duplicados": []
+}

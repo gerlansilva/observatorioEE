@@ -1,0 +1,60 @@
+{
+  "id": "capes-38795302",
+  "autor": "Neuza da Rocha Carrion",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "O Ensino de Estatística nos anos iniciais do Ensino Fundamental: A Construção de uma Sequência Didática Contextualizada",
+  "instituicao": "UNIVERSIDADE ESTADUAL DE MATO GROSSO DO SUL",
+  "cidade": "",
+  "estado": "Mato Grosso do Sul",
+  "regiao": "Centro-Oeste",
+  "orientador": "Lucelio Ferreira Simiao",
+  "programa": "EDUCAÇÃO CIENTÍFICA E MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Estatística.; Anos Iniciais; Sequência Didática; Aprendizagem Significativa.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20Ensino%20de%20Estat%C3%ADstica%20nos%20anos%20iniciais%20do%20Ensino%20Fundamental%3A%20A%20Constru%C3%A7%C3%A3o%20de%20uma%20Sequ%C3%AAncia%20Did%C3%A1tica%20Contextualizada%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20Ensino%20de%20Estat%C3%ADstica%20nos%20anos%20iniciais%20do%20Ensino%20Fundamental%3A%20A%20Constru%C3%A7%C3%A3o%20de%20uma%20Sequ%C3%AAncia%20Did%C3%A1tica%20Contextualizada&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38795302"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "38795302",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Estatística.",
+    "Anos Iniciais",
+    "Sequência Didática",
+    "Aprendizagem Significativa."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-38795302.svg",
+  "resumo": "O tema central deste trabalho é a prática pedagógica em Estatística nos Anos Iniciais do Ensino Fundamental. O objetivo foi analisar e compreender como os conteúdos de Estatística são trabalhados em sala de aula nesse nível de ensino e como são estabelecidas as relações desses conteúdos com as informações presentes no cotidiano dos estudantes. Refletiu-se sobre o ensino de Estatística nos Anos Iniciais do Ensino Fundamental na perspectiva da Teoria da Aprendizagem Significativa, de David Ausubel. A pesquisa adotou uma abordagem qualitativa e foi dividida em três etapas: na primeira, foi realizada a pesquisa bibliográfica, ou seja, leituras de documentos oficiais, bem como de artigos e dissertações que tratam sobre o tema; na segunda etapa, foi realizada entrevista, para coleta de dados, com dez professores, de diferentes áreas de conhecimento, que lecionam nos Anos Iniciais de uma escola pública no município de Dourados; na terceira etapa, foi construído o produto educacional resultante desta pesquisa. Essa sequência tem o propósito de auxiliar os professores a ensinarem interpretação de dados do cotidiano por meio de análise de tabelas e gráficos, embasada na Teoria da Aprendizagem Significativa. Os resultados indicam que, embora os professores trabalhem o conteúdo de Estatística quando possível, há uma certa insegurança, por isso limitam-se, muitas vezes, apenas ao que é apresentado pelo livro didático. A pesquisa ressaltou a importância de capacitar os professores para lecionarem Estatística de forma mais confiante e preparada. O ensino contextualizado e a resolução de problemas se mostraram metodologias essenciais para o aprendizado significativo. A investigação enfatizou também a necessidade de ouvir os professores para compreender suas percepções e experiências, contribuindo para estratégias pedagógicas mais eficazes. O trabalho buscou demonstrar a relevância do ensino significativo de Estatística, relacionado à realidade dos alunos. A formação de cidadãos críticos e conscientes pode ser alcançada por meio de práticas pedagógicas contextualizadas e embasadas em teorias de aprendizagem significativa, desde que se capacite os docentes para um ensino mais efetivo. Promover o aprendizado significativo da Estatística é fundamental para desenvolver indivíduos preparados para resolver problemas problemas da vida real e atuar como cidadãos conscientes em diferentes contextos sociais.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

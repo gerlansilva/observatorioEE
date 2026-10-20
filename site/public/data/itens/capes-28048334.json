@@ -1,0 +1,60 @@
+{
+  "id": "capes-28048334",
+  "autor": "Dafne Atz",
+  "ano": 2017,
+  "tipo": "Dissertação",
+  "titulo": "A ANÁLISE COMBINATÓRIA NO 6º ANO DO ENSINO FUNDAMENTAL POR MEIO DA RESOLUÇÃO DE PROBLEMAS",
+  "instituicao": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Marilaine de Fraga Sant Ana",
+  "programa": "ENSINO DE MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Pensamento Matemático; Resolução de Problemas; Análise Combinatória; Ensino Fundamental",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20NO%206%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%20POR%20MEIO%20DA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20NO%206%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%20POR%20MEIO%20DA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28048334"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "28048334",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Pensamento Matemático",
+    "Resolução de Problemas",
+    "Análise Combinatória",
+    "Ensino Fundamental"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-28048334.svg",
+  "resumo": "Esta dissertação apresenta o desenvolvimento de uma pesquisa referente ao ensino da Análise Combinatória, por meio da Resolução de Problemas, em uma turma de 6º ano do Ensino Fundamental. Para isso, elaborou-se uma sequência didática que buscava proporcionar aos educandos um contato com esse conteúdo antes do Ensino Médio. A partir dessa sequência analisou-se como a Resolução de Problemas, segundo Onuchic e Allevato, auxiliou os alunos a compreender os conceitos iniciais de Análise Combinatória, buscando também como referencial teórico o estudo referente ao Pensamento Matemático, de David Tall. Concluímos que a Resolução de Problemas auxiliou a expandir e modificar as Imagens dos Conceitos que os alunos possuíam com relação à Análise Combinatória.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de combinatória"
+  ],
+  "ids_duplicados": []
+}

@@ -1,0 +1,61 @@
+{
+  "id": "capes-38774950",
+  "autor": "Natasha Cardoso Dias",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "Dimensões sociais e culturais da Educação Financeira Escolar na perspectiva da Educação Estatística",
+  "instituicao": "UNIVERSIDADE FEDERAL DE JUIZ DE FORA",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Ronaldo Rocha Bastos",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Matemática; Educação Financeira Escolar; Educação Estatística; Capital Cultural; Análise Multivariada de Dados",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Dimens%C3%B5es%20sociais%20e%20culturais%20da%20Educa%C3%A7%C3%A3o%20Financeira%20Escolar%20na%20perspectiva%20da%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Dimens%C3%B5es%20sociais%20e%20culturais%20da%20Educa%C3%A7%C3%A3o%20Financeira%20Escolar%20na%20perspectiva%20da%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38774950"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "38774950",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Matemática",
+    "Educação Financeira Escolar",
+    "Educação Estatística",
+    "Capital Cultural",
+    "Análise Multivariada de Dados"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-38774950.svg",
+  "resumo": "Tem se tornado cada vez mais urgente formar cidadãos críticos, que saibam interpretar informações e dados estatísticos, especialmente quando o assunto envolve dinheiro. A sala de aula de matemática é um espaço propício a reflexões desta natureza, tanto no desenvolvimento das competências de letramento, raciocínio e pensamento estatísticos, quanto na problematização da realidade social na qual estamos imersos. Este trabalho busca apresentar a Educação Financeira Escolar e a Educação Estatística enquanto tendências da Educação Matemática e delinear uma proposta de investigação que envolve contribuições do pensamento do sociólogo Pierre Bourdieu. Esta proposta se enquadra no quarto eixo norteador do currículo de Educação Financeira Escolar proposto por Silva e Powell (2013), que envolve dimensões sociais, econômicas, políticas, culturais e psicológicas da Educação Financeira. O objetivo desta pesquisa foi investigar a elaboração de tarefas teoricamente referenciadas e de natureza estatística que estimulem a produção de significados de estudantes do Ensino Médio sobre as dimensões sociais e culturais da Educação Financeira Escolar. Pretendíamos, ainda, fazer uma leitura dos significados dos sujeitos de pesquisa sobre os princípios básicos do conceito de Capital Cultural e Capital Econômico de Bourdieu. Foi aplicado um questionário de gostos e preferências sobre música, jogos, alimentação, hábitos de consumo e lazer, dentre outros tópicos, cuja análise exploratória dos dados foi feita a partir do método estatístico multivariado da Análise de Correspondências Múltiplas, que se baseia em uma análise geométrica dos dados. Esta análise forneceu mapas geométricos em nuvens de pontos – gráficos que representam um microcosmo do espaço social ao qual os sujeitos de pesquisa estão imersos – que foram apresentadas aos estudantes como uma das tarefas da pesquisa. Realizamos uma leitura da produção de significados dos sujeitos de pesquisa com o aporte teórico metodológico do Modelo dos Campos Semânticos, desenvolvido por Romulo Campos Lins. O conjunto de tarefas apresentou potencial para discussão das dimensões sociais e culturais da Educação Financeira Escolar, além de estimular o desenvolvimento do raciocínio estatístico na sala de aula de matemática da Educação Básica. Confirmou-se também a relevância da Educação Financeira para a formação crítica dos estudantes.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
+}

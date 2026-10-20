@@ -1,0 +1,58 @@
+{
+  "id": "capes-28167251",
+  "autor": "Isnaya Jackson Carapia Ladeia Ledo",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "ESTUDOS ELEMENTARES DE ESTATÍSTICA NO ENSINO MÉDIO INTEGRADO DE AGRICULTURA DO INSTITUTO FEDERAL BAIANO BOM JESUS DA LAPA- BAHIA",
+  "instituicao": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Tania Fernandes Bogutchi",
+  "programa": "ENSINO",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Matemática. Ensino de Estatística. Ensino Médio. Ensino Médio Integrado.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ESTUDOS%20ELEMENTARES%20DE%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO%20INTEGRADO%20DE%20AGRICULTURA%20DO%20INSTITUTO%20FEDERAL%20BAIANO%20BOM%20JESUS%20DA%20LAPA-%20BAHIA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESTUDOS%20ELEMENTARES%20DE%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO%20INTEGRADO%20DE%20AGRICULTURA%20DO%20INSTITUTO%20FEDERAL%20BAIANO%20BOM%20JESUS%20DA%20LAPA-%20BAHIA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28167251"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "28167251",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Matemática. Ensino de Estatística. Ensino Médio. Ensino Médio Integrado."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-28167251.svg",
+  "resumo": "O presente estudo teve, como principal objetivo, analisar a assimilação de conceitos, termos e procedimentos da Estatística Elementar, por uma turma de estudantes do 2º ano do Ensino Médio Integrado de Agricultura do Instituto Federal Baiano, Campus Bom Jesus da Lapa. Para tanto, foi elaborada uma sequência didática, composta de atividades guiadas, para possibilitar aos estudantes uma introdução ao objeto delimitado do estudo: Gráficos e Tabelas Estatísticas. As atividades visavam, também, levar os estudantes a trabalhar habilidades de manipulação, leitura e interpretação de textos com dados reais, bem como aquisição de linguagem, direcionadas ao objeto de estudo. Como resultado, observou-se, numa análise qualitativa, que as atividades facilitaram a socialização de conhecimentos, dentro e fora da sala de aula, contribuindo para uma assimilação gradativa do tema proposto. Também tornou possível a disponibilização de um Caderno de Atividades, produto da presente pesquisa.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

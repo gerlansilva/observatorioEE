@@ -1,0 +1,57 @@
+{
+  "id": "capes-8405325",
+  "autor": "Glaucia Garcia Bandeira de Vargas",
+  "ano": 2013,
+  "tipo": "Dissertação",
+  "titulo": "A METODOLOGIA DA RESOLUÇÃO DE PROBLEMAS E O ENSINO DE ESTATÍSTICA NO NONO ANO DO ENSINO FUNDAMENTAL",
+  "instituicao": "CENTRO UNIVERSITÁRIO FRANCISCANO",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Eleni Bisognin",
+  "programa": "Programa de Pós-Graduação em Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Estatística. Resolução de Problemas. Medidas de Tendência Central.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20METODOLOGIA%20DA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20E%20O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20NO%20NONO%20ANO%20DO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20METODOLOGIA%20DA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20E%20O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20NO%20NONO%20ANO%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/8405325"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "8405325",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Estatística. Resolução de Problemas. Medidas de Tendência Central."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-8405325.svg",
+  "resumo": "Este estudo, desenvolvido no Mestrado Profissionalizante em Ensino de Física e de Matemática do Centro Universitário Franciscano  UNIFRA, tem por objetivo investigar a contribuição da Metodologia de Resolução de Problemas no ensino de Estatística para alunos do nono ano do Ensino Fundamental. O ponto de partida é a constatação de que a Estatística costuma ser colocada em segundo plano em sala de aula, embora seja recomendada pelos Parâmetros Curriculares Nacionais (PCNs), além de ser comprovadamente eficaz como ferramenta de compreensão da realidade, desenvolvimento do espírito crítico e cidadão e, ainda, tenha um papel interdisciplinar. A pesquisa, desenvolvida com alunos do nono ano de uma escola pública de Santa Maria (RS), utilizou a metodologia de pesquisa de abordagem qualitativa e a Metodologia de Ensino de Resolução de Problemas proposta por Onuchic e Allevato (2009). Em seis encontros de duas horas cada foram trabalhados os conceitos de tabelas, gráficos e medidas de tendência central (média, moda e mediana), a partir de problemas aplicados com base em nove passos definidos pelas autoras. A matéria-prima dos problemas foram dados socioeconômicos das famílias dos próprios alunos, obtidos a partir de um questionário inspirado no Censo 2010 do Instituto Brasileiro de Geografia e Estatística (IBGE). Dessa forma, objetivou-se aplicar conhecimentos estatísticos à realidade dos alunos. O desenvolvimento do trabalho confirmou a premissa de que a Estatística é pouco valorizada ao longo do Ensino Fundamental, já que no ano final desta fase os alunos demonstraram dificuldades elementares em tarefas como ler dados estatísticos, construir gráficos a partir de tabelas e elaborar conclusões e comparações de dados expostos estatisticamente. Este desconhecimento, causado pela ausência do tema dos programas de aula, em parte é compensada pelo fato de a estatística estar muito presente no dia a dia dos alunos, pela imprensa e outros segmentos sociais. Graças a isso, foi possível consolidar junto com os alunos conhecimentos sobre conceitos básicos, capacidade de leitura de dados, de construção de gráficos e de entendimento de conceitos estatísticos. Este ponto de partida se revelou, ao longo do trabalho, uma base sobre a qual é possível construir um conhecimento mais elaborado. Contribuíram neste sentido dois fatores: 1) a utilização da metodologia de resolução de problemas aplicada à estatística, gerando um ambiente de curiosidade de parte dos alunos que se sentiram desafiados a superar os obstáculos propostos nos problemas; 2) a adoção de matéria-prima extraída da realidade dos alunos (respostas de questionário com dados socioeconômicos de suas famílias e dados oficiais do Censo 2010) para construir as situações-problema que deram base ao desenvolvimento do trabalho. Ao final dos encontros, foi possível identificar que os alunos evoluíram no conhecimento sobre Estatística, apropriaram-se de conceitos e perceberam o inestimável valor deles como ferramenta de leitura e compreensão da realidade, o que é um ponto de partida decisivo para a adoção de uma postura que busque transformações sociais e econômicas positivas na vida dos alunos e de seus familiares.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

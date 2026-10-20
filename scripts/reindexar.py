@@ -30,10 +30,11 @@ AREAS = [
     "Psicologia",
     "Computação",
     "Administração",
+    "Ensino",
     "Outros",
 ]
 REGIOES = ["Sudeste", "Sul", "Nordeste", "Centro-Oeste", "Norte"]
-GRAUS = ["Mestrado Acadêmico", "Mestrado Profissional", "Doutorado"]
+GRAUS = ["Mestrado Acadêmico", "Mestrado Profissional", "Doutorado", "Doutorado Profissional"]
 TIPOS = ["Dissertação", "Tese"]
 CONTEUDOS = [
     "Estatística",
@@ -148,12 +149,12 @@ def main() -> None:
 
     agregados = {
         "total": len(index),
-        "periodo": {"inicio": 1984, "fim": 2013},
+        "periodo": {"inicio": 1984, "fim": 2024},
         "instituicoes": len([value for value in by_instituicao if value]),
         "estados": len([value for value in by_estado if value]),
         "regioes": len([value for value in by_regiao if value]),
         "atualizado_em": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-        "por_ano": [{"ano": year, "total": by_year.get(year, 0)} for year in range(1984, 2014)],
+        "por_ano": [{"ano": year, "total": by_year.get(year, 0)} for year in range(1984, 2025)],
         "por_grau": series(by_grau, GRAUS),
         "por_tipo": series(by_tipo, TIPOS),
         "por_regiao": series(by_regiao, REGIOES),

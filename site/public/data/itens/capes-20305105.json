@@ -1,0 +1,60 @@
+{
+  "id": "capes-20305105",
+  "autor": "Maria Niedja Pereira Martins",
+  "ano": 2014,
+  "tipo": "Dissertação",
+  "titulo": "ANÁLISE DAS CONCEPÇÕES DE PROFESSORES SOBRE AMOSTRAGEM COM O USO DO SOFTWARE TINKERPLOTS 2.0",
+  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Carlos Eduardo Ferreira Monteiro",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Amostragem; Software TinkerPlots; Professores dos anos iniciais.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22AN%C3%81LISE%20DAS%20CONCEP%C3%87%C3%95ES%20DE%20PROFESSORES%20SOBRE%20AMOSTRAGEM%20COM%20O%20USO%20DO%20SOFTWARE%20TINKERPLOTS%202.0%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AN%C3%81LISE%20DAS%20CONCEP%C3%87%C3%95ES%20DE%20PROFESSORES%20SOBRE%20AMOSTRAGEM%20COM%20O%20USO%20DO%20SOFTWARE%20TINKERPLOTS%202.0&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20305105"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "20305105",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Amostragem",
+    "Software TinkerPlots",
+    "Professores dos anos iniciais."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-20305105.svg",
+  "resumo": "A amostragem é um elemento central da Estatística Inferencial por permitir a generalização de dados baseados em amostras, mas tem sido pouco discutida em pesquisas de Educação Estatística. Noções mais consistentes sobre amostragem são importantes para a tomada de decisões cotidianas, todavia é um desafio para professores dos anos iniciais abordarem esse conceito nas suas aulas. Esta pesquisa teve por objetivo investigar os entendimentos de professores dos anos iniciais sobre amostragem ao utilizar o software TinkerPlots 2.0. O TinkerPlots é um software de análise de dados criado para auxiliar na construção de conceitos e habilidades estatísticas. Especificamente buscou-se identificar como professores entendem três aspectos relacionados ao conceito de amostragem: a representatividade, o tamanho e o tipo de amostra. Ainda como objetivo, procuramos analisar o efeito das ferramentas do TinkerPlots 2.0 para o entendimento desses três aspectos pelos professores. Participaram do estudo 4 professoras de uma escola municipal da Região Metropolitana do Recife. Realizamos, individualmente, duas etapas de coleta de dados com as participantes. Na primeira etapa, uma entrevista semi-estruturada buscou identificar informações profissionais das participantes, bem como noções relativas aos conceitos de amostra e amostragem. Em seguida, foi realizado um momento de familiarização com o software TinkerPlots que permitiu às professoras conhecer e manipular suas ferramentas. Na segunda etapa foram aplicadas três atividades exploratórias sobre amostragem no TinkerPlots. As duas primeiras situações apresentadas nas atividades exploratórias envolveram o contexto de amostras crescentes. A última situação consistiu na escolha de um processo de amostragem para a seleção de uma amostra representativa. Foram gerados arquivos audiovisuais das entrevistas, familiarizações e atividades exploratórias a partir do uso do software Studio Camtasia 7.1. A transcrição de todas as sessões geraram protocolos. As leituras iniciais desses protocolos possibilitaram a seleção de passagens que retratassem nosso objetivo de investigação. Os resultados das entrevistas semi-estruturadas apontaram para a presença de dois níveis de raciocínio sobre amostragem pelas professoras, confirmando que três delas compreendiam o conceito de amostra em contextos de uso sociais e uma professora já realizava alegações críticas a partir de notícias que expunham pesquisas por amostragem. Nas atividades exploratórias desenvolvidas no TinkerPlots, as professoras passaram a considerar aspectos da variação dos dados para determinar amostras representativas em duas das três atividades. As participantes também demonstraram entender que o procedimento de amostragem interfere na representatividade. Três professoras conseguiram indicar a seleção de uma amostragem estratificada proporcional numa população heterogênea a partir da observação das características dessa população ou pelo teste com amostras aleatórias simples. A possibilidade de selecionar amostras crescentes, analisá-las a partir de gráficos e observar estatísticas utilizando as ferramentasdo TinkerPlots pareceram contribuir para que as professoras avançassem em suas compreensões. Os dados sugerem que o trabalho com esse software pode favorecer boas compreensões sobre tal conceito, mas que são necessárias situações mais prolongadas de intervenção visando melhores resultados.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": "capes-41261149",
+  "autor": "Alan Gustavo Ferreira",
+  "ano": 2024,
+  "tipo": "Tese",
+  "titulo": "PERCURSO DE ESTUDO E PESQUISA PARA A FORMAÇÃO DE PROFESSORES DE MATEMÁTICA SOBRE O ENSINO DE COMBINATÓRIA",
+  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Paula Moreira Baltar Bellemain",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Combinatória. Formação de professores de matemática; Teoria Antropológica do Didático; Percurso de Estudo e Pesquisa para Formação de Professores.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22PERCURSO%20DE%20ESTUDO%20E%20PESQUISA%20PARA%20A%20FORMA%C3%87%C3%83O%20DE%20PROFESSORES%20DE%20MATEM%C3%81TICA%20SOBRE%20O%20ENSINO%20DE%20COMBINAT%C3%93RIA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PERCURSO%20DE%20ESTUDO%20E%20PESQUISA%20PARA%20A%20FORMA%C3%87%C3%83O%20DE%20PROFESSORES%20DE%20MATEM%C3%81TICA%20SOBRE%20O%20ENSINO%20DE%20COMBINAT%C3%93RIA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41261149"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "41261149",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Combinatória. Formação de professores de matemática",
+    "Teoria Antropológica do Didático",
+    "Percurso de Estudo e Pesquisa para Formação de Professores."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-41261149.svg",
+  "resumo": "Este estudo tem por objetivo central desenvolver, implementar e analisar um processo de formação de professores sobre o ensino de Combinatória, baseado na metodologia do Percurso de Estudos e Pesquisa para Formação de Professores (PEP-FP), com um grupo de professores de Matemática do Ensino Médio. Possui como marco teórico-metodológico a Teoria Antropológica do Didático elaborada por Chevallard e colaboradores. Esse referencial tem tido estreita relação com a formação docente, pois fornece elementos que podem subsidiar a análise de práticas, inclusive as formativas. Além disso, fez emergir um dispositivo de formação, o PEP-FP, que coloca no centro desse processo questões intrínsecas à profissão docente, vinculando uma investigação com a docência e criando novas infraestruturas matemático-didáticas. O percurso metodológico esteve alicerçado nos pressupostos da Engenharia Didática, considerando as quatro fases: análise preliminar, análise a priori, análise in vivo e análise a posteriori. Na primeira fase, construímos um Modelo Praxeológico de Referência (MPR) para o campo da Combinatória e explicitamos um Modelo Praxeológico Dominante (MPD) para o Ensino Médio brasileiro concernente a esse campo. Já na segunda fase, na análise a priori, elaboramos dois mapas preliminares de questões de dois PEPs: o primeiro, referente ao Módulo 0 de um PEP-FP, baseado na questão geradora “Como ensinar Combinatória?”; e o segundo, um PEP experimentado pelos professores como se fossem estudantes a partir da pergunta “Q 0 : Como criar um código universal eficiente e seguro que identifique todos os cidadãos mundo”. Na análise in vivo, foram vivenciados quatro módulos (M 0 , M 1 , M 2 e M 3 ) de um PEP-FP com um grupo de professores Matemática, durante 11 encontros no formato predominantemente remoto síncrono. Durante a vivência dos quatro módulos, os professores em formação tiveram a oportunidade de ter contato com elementos do MPR, incorporando-os ao seu repertório praxeológico, bem como confrontar o MPD. Também puderam experimentar novas infraestruturas didático-matemática, como o PEP, nas quais os estudantes assumem um papel de protagonismo a partir de uma atividade investigativa genuína, com vistas a suscitar uma possível razão de ser para o ensino de Combinatória. Nessa perspectiva, foi possível constatar que um PEP-FP sobre o ensino de Combinatória agrega saberes matemáticos e didáticos ao equipamento praxeológico dos professores em formação, de maneira articulada, a fim de que possam atuar de forma pertinente no ensino desta área da Matemática, desde que sejam consideradas as condições e restrições para realização desse processo.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de combinatória"
+  ],
+  "ids_duplicados": []
+}

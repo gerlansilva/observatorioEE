@@ -1,0 +1,59 @@
+{
+  "id": "capes-30004856",
+  "autor": "Erica Michelle Silva Cavalcanti",
+  "ano": 2019,
+  "tipo": "Tese",
+  "titulo": "APRENDIZAGEM DE ESTUDANTES DO ENSINO FUNDAMENTAL SOBRE LEVANTAMENTO DE HIPÓTESES, ANÁLISE DE DADOS E CONCLUSÕES A PARTIR DE DADOS ESTATÍSTICOS",
+  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Gilda Lisboa Guimaraes",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação estatística; Ensino Fundamental; Pesquisa",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22APRENDIZAGEM%20DE%20ESTUDANTES%20DO%20ENSINO%20FUNDAMENTAL%20SOBRE%20LEVANTAMENTO%20DE%20HIP%C3%93TESES%2C%20AN%C3%81LISE%20DE%20DADOS%20E%20CONCLUS%C3%95ES%20A%20PARTIR%20DE%20DADOS%20ESTAT%C3%8DSTICOS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=APRENDIZAGEM%20DE%20ESTUDANTES%20DO%20ENSINO%20FUNDAMENTAL%20SOBRE%20LEVANTAMENTO%20DE%20HIP%C3%93TESES%2C%20AN%C3%81LISE%20DE%20DADOS%20E%20CONCLUS%C3%95ES%20A%20PARTIR%20DE%20DADOS%20ESTAT%C3%8DSTICOS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30004856"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30004856",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação estatística",
+    "Ensino Fundamental",
+    "Pesquisa"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30004856.svg",
+  "resumo": "A tese contou com o objetivo de analisar aprendizagens apresentadas por estudantes do Ensino Fundamental relacionadas ao levantamento de hipóteses, à análise de dados e às conclusões a partir dos dados, enquanto fases do ciclo investigativo. Objetivo que surgiu da problemática: De que modo o levantamento de hipóteses, análise de dados e habilidades relacionadas a conclusões por estudantes do Ensino Fundamental corroboram para a aprendizagem de justificativas baseadas em evidências? Para tanto, dois estudos foram elaborados. O primeiro investigou os conhecimentos apresentados por estudantes do 5º e do 7º ano de escolas públicas da Região Metropolitana de Recife, diante de habilidades relacionadas ao levantamento de hipóteses, à interpretação de dados reais univariados e bivariados, ao confronto entre hipótese e dados, à avaliação de conclusões e ao uso de linguagem probabilística em predições. Percebeu-se que os estudantes desde o 5º ano já são capazes de levantar hipóteses para questões de pesquisa propostas. Ao interpretarem constatou-se que o tipo de distribuição dos dados (uni e bivariada) interferiu bastante nas compreensões dos estudantes, tornando a análise bivariada mais complexa, o que também foi verificado no confronto entre hipótese e dados reais. Quanto à avaliação de conclusões e uso de linguagem probabilística ao predizer geraram bastante dificuldades para os estudantes de ambos os anos em todas as atividades. O segundo estudo teve um carácter intervencionista experimental, o qual contou com pré-teste, seguido de três encontros de intervenção e pós-teste, abordando-se as mesmas habilidades do estudo anterior e os mesmos anos de escolaridade. Constatou-se melhoras significativas no desempenho dos estudantes de ambos anos de escolaridade. Isso considerando-se a média de acerto nos testes (inicial e final) dos sujeitos que passaram pelo processo de intervenção de ensino. Analisando-se a justificativa baseada em evidências dos dados, observou-se que os estudantes do 5º ano partiram de percentuais aquém dos estudantes do 7º ano na maioria das questões. Entretanto, conseguiram avanços significativos tanto em habilidades exploradas a partir de dados univariados quanto a partir de dados bivariados. Já os estudantes do 7º ano melhoraram de modo significativo em suas justificativas apenas na habilidade de interpretação, quando os dados foram bivariados. Salienta-se que a produção escrita pelos estudantes do 7º ano contou com maior resistência, o que interfere na análise da expressão de ideias. As aulas ministradas apresentaram momentos de intervenção coletiva e outros momentos de interação entre pares com formação de pequenos grupos, buscou-se nesses momentos a exploração da Zona de Desenvolvimento Proximal (ZDP) dos estudantes. Conclui-se a partir dos resultados alcançados que o trabalho com as habilidades investigadas na tese deve ser iniciado logo nos primeiros anos de escolaridade, a fim de se promover o Letramento Estatístico da população, enquanto atitude crítica e investigativa.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "capes-19796684",
+  "autor": "Caroline Lameza Ramos",
+  "ano": 2015,
+  "tipo": "Dissertação",
+  "titulo": "O ensino da probabilidade com o uso de mágicas fundamentadas na Matemática",
+  "instituicao": "UNIVERSIDADE FEDERAL DE SÃO CARLOS",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Pedro Luiz Aparecido Malagutti",
+  "programa": "ENSINO DE CIÊNCIAS EXATAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Probabilidade, Mágicas Matemáticas, Aprendizagem, Ensino Básico.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ensino%20da%20probabilidade%20com%20o%20uso%20de%20m%C3%A1gicas%20fundamentadas%20na%20Matem%C3%A1tica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ensino%20da%20probabilidade%20com%20o%20uso%20de%20m%C3%A1gicas%20fundamentadas%20na%20Matem%C3%A1tica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19796684"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "19796684",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Probabilidade, Mágicas Matemáticas, Aprendizagem, Ensino Básico."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-19796684.svg",
+  "resumo": "Esse trabalho teve por objetivo desenvolver conceitos básicos de Probabilidade em turmas do 9o ano do Ensino Fundamental II, em uma escola pública do interior do Estado de São Paulo. Para isso, fez-se o uso de mágicas matemáticas a fim de tornar o ensino mais prazeroso e significativo, e, em paralelo, também manteve-se o uso do instrumento pedagógico resolução de problemas para o desenvolvimento das atividades. O tema foi escolhido devido ao fato de ser pouco explorado e trabalhado no Ensino Básico, mesmo apresentando aplicações em diversas áreas e no cotidiano. As mágicas propostas envolveram situações simples e práticas de probabilidade, e buscaram questionar os conceitos do tema abordado e instigar a criatividade, crítica e raciocínio dos alunos. Com isso, as atividades propostas aprimoraram o conhecimento matemático dos estudantes e desenvolveram uma dinâmica diferenciada, proporcionando um maior envolvimento dos mesmos durante as aulas e, consequentemente, melhorias no desempenho estudantil.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de probabilidade"
+  ],
+  "ids_duplicados": []
+}

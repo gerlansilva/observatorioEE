@@ -1,0 +1,60 @@
+{
+  "id": "capes-21807103",
+  "autor": "Josiane Silva dos Reis",
+  "ano": 2016,
+  "tipo": "Dissertação",
+  "titulo": "PRODUÇÃO AUTORAL DE VÍDEO: Uma proposta de ensino com o uso de tecnologias em aulas de estatística",
+  "instituicao": "UNIVERSIDADE FEDERAL DO PARÁ",
+  "cidade": "",
+  "estado": "Pará",
+  "regiao": "Norte",
+  "orientador": "Osvaldo dos Santos Barros",
+  "programa": "Docência em Educação em Ciências e Matemáticas",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Estatística; Aprendizagem Colaborativa; Produção de Vídeo; Tecnologias Digitais",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22PRODU%C3%87%C3%83O%20AUTORAL%20DE%20V%C3%8DDEO%3A%20Uma%20proposta%20de%20ensino%20com%20o%20uso%20de%20tecnologias%20em%20aulas%20de%20estat%C3%ADstica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PRODU%C3%87%C3%83O%20AUTORAL%20DE%20V%C3%8DDEO%3A%20Uma%20proposta%20de%20ensino%20com%20o%20uso%20de%20tecnologias%20em%20aulas%20de%20estat%C3%ADstica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21807103"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "21807103",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Estatística",
+    "Aprendizagem Colaborativa",
+    "Produção de Vídeo",
+    "Tecnologias Digitais"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-21807103.svg",
+  "resumo": "O presente trabalho investiga a contribuição da produção de vídeo como proposta metodológica para o ensino de estatística, com um grupo de alunos do 9º ano do Ensino Fundamental de uma escola pública. Trata-se de uma pesquisa qualitativa, do tipo pesquisa participante que tem por objetivo o desenvolvimento de um processo de ensino com a produção de um material audiovisual, sendo que os dados foram analisados à luz da análise interpretativa de Creswell (2007). A pesquisa foi desenvolvida em duas fases: na primeira, o grupo de alunos participantes teve a oportunidade de organizar os conhecimentos e discutir os conceitos bases da estatística em um fórum online criado em uma rede social; na segunda, o grupo criou estratégias, organizou e elaborou materiais para a produção e edição do vídeo. O trabalho se deu na perspectiva da Aprendizagem Colaborativa, que tem como um de seus pressupostos teóricos a Teoria Interacionista de Vygotsky (1989), na qual o conhecimento pode ser construído coletivamente na troca entre pares e por meio da interação. Dessa forma, a tecnologia digital se configura como um recurso didático-pedagógico em todo o processo de ensino proposto e possibilita o desenvolvimento de uma proposta de ensino que pode superar propostas tradicionais de reprodução do conhecimento, desenvolvendo nos alunos uma postura autoral na busca e na construção do conhecimento. Os resultados mostraram que o ensino colaborativo, fomentado pelo uso das tecnologias digitais, favoreceu a interação e instigou a atitude autônoma dos alunos na busca e compreensão dos conhecimentos na área da estatística, além disso, as estratégias e aplicabilidade dos conhecimentos construídos permitiram que o grupo de alunos reconhecesse um problema de sua realidade e buscassem soluções para dirimi-lo. Quanto ao produto desse trabalho, consideramos que o vídeo, como resultado do processo de ensino proposto, possibilitou consolidar as ideias e conhecimentos que foram construídos pelo grupo de alunos durante a pesquisa e constitui-se como recurso de orientação para o professor que busca práticas de ensino diferenciadas com o uso das tecnologias digitais.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

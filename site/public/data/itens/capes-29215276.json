@@ -1,0 +1,60 @@
+{
+  "id": "capes-29215276",
+  "autor": "Janielly Taila dos Santos Verbisck",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "Uma análise praxeológica da proposta de ensino de probabilidade em livros didáticos da educação básica",
+  "instituicao": "FUNDAÇÃO UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL",
+  "cidade": "",
+  "estado": "Mato Grosso do Sul",
+  "regiao": "Centro-Oeste",
+  "orientador": "Marilena Bittar",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Probabilidade; Livro Didático; Educação Básica; Teoria Antropológica do Didático.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Uma%20an%C3%A1lise%20praxeol%C3%B3gica%20da%20proposta%20de%20ensino%20de%20probabilidade%20em%20livros%20did%C3%A1ticos%20da%20educa%C3%A7%C3%A3o%20b%C3%A1sica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma%20an%C3%A1lise%20praxeol%C3%B3gica%20da%20proposta%20de%20ensino%20de%20probabilidade%20em%20livros%20did%C3%A1ticos%20da%20educa%C3%A7%C3%A3o%20b%C3%A1sica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29215276"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "29215276",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Probabilidade",
+    "Livro Didático",
+    "Educação Básica",
+    "Teoria Antropológica do Didático."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-29215276.svg",
+  "resumo": "Esta pesquisa tem como objetivo caracterizar a proposta de ensino da probabilidade ao longo da educação básica a partir de coleções de livros didáticos de mesma autoria. Para tanto, analisamos quatro coleções de livros didáticos, de mesma autoria, uma de cada nível de escolaridade, aprovadas pelo Programa Nacional do Livro Didático dos anos de 2016, 2017 e 2018. Nosso referencial teórico-metodológico é a Teoria Antropológica do Didático, desenvolvida por Yves Chevallard e colaboradores, que nos possibilita mapear, modelar e analisar as escolhas matemáticas e as escolhas didáticas dos elaboradores das coleções. Observou-se que o estudo de probabilidade na coleção dos anos iniciais deu-se, primeiramente, por meio de atividades envolvendo noções de possibilidade e situações de aleatoriedade. A partir do livro referente ao quinto ano é introduzida a noção de probabilidade, nos estudos de fração e porcentagem. A continuidade do estudo no livro referente ao sexto ano foi reduzida, sendo proposta brevemente no estudo de fração. Já nos volumes referentes aos sétimo, oitavo e nono anos, observamos uma ampliação de conceitos relativos ao estudo de probabilidade, além de diversas atividades envolvendo espaço amostral, possibilidades de eventos específicos, o cálculo de probabilidades. Na coleção do ensino médio, no segundo ano as justificativas teóricas são consolidadas. De maneira geral, predominou uma proposta de ensino de probabilidade que visa o trabalho de técnicas para determinação da probabilidade de experimentos, do espaço amostral e as possibilidades de eventos específicos e, em algumas situações, a experimentação através da manipulação de alguns objetos, bem como a constituição teórica de conceitos e justificativas para tais técnicas. Ao longo das quatro coleções, não predomina a articulação entre as visões frequentista, geométrica, axiomática, subjetiva e intuitiva de probabilidade. Ainda que em algumas ocasiões propõe-se uma ou outra dessas concepções, a visão clássica é a dominante nesta proposta de ensino.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de probabilidade"
+  ],
+  "ids_duplicados": []
+}

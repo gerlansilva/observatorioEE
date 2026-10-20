@@ -1,0 +1,62 @@
+{
+  "id": "capes-35799240",
+  "autor": "Vitor Emanuel de Lyra Santos Navarrete",
+  "ano": 2021,
+  "tipo": "Tese",
+  "titulo": "CRENÇAS E PRÁTICAS DOCENTES DE PROFESSORES DE ESTATÍSTICA INTRODUTÓRIA",
+  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Sergio Paulino Abranches",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Crenças Docentes; Prática Docente; Especialistas da área.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22CREN%C3%87AS%20E%20PR%C3%81TICAS%20DOCENTES%20DE%20PROFESSORES%20DE%20ESTAT%C3%8DSTICA%20INTRODUT%C3%93RIA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CREN%C3%87AS%20E%20PR%C3%81TICAS%20DOCENTES%20DE%20PROFESSORES%20DE%20ESTAT%C3%8DSTICA%20INTRODUT%C3%93RIA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35799240"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "35799240",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Crenças Docentes",
+    "Prática Docente",
+    "Especialistas da área."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-35799240.svg",
+  "resumo": "Os conhecimentos estatísticos, como a inferência estatística, são relevantes na atuação profissional e na pesquisa científica de diversas áreas do conhecimento. Em variados cursos, tais conhecimentos são majoritariamente ensinados em uma disciplina de Estatística Introdutória ministrada por professores com perfis variados, como bacharéis em estatística ou formados na área do curso. Nesta pesquisa, investigamos as práticas e crenças de seis docentes de Estatística Introdutória da Universidade Federal de Pernambuco, bem como as características dos docentes e de suas disciplinas. Utilizamos um conjunto de recomendações de especialistas como referencial para uma boa prática da disciplina. Nossos dados foram coletados através de entrevistas semiestruturadas. Encontramos evidências de que parte dos docentes apresenta crenças aderentes às recomendações dos especialistas, contudo a prática dos professores nem sempre se alinha a suas crenças. A variável sexo foi a mais importante para determinar as crenças docentes, enquanto a crença mais distante das recomendações são as relacionadas ao uso da tecnologia para o ensino.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": [
+    "40849267"
+  ]
+}

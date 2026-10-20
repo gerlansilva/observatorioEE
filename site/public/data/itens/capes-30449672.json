@@ -1,0 +1,62 @@
+{
+  "id": "capes-30449672",
+  "autor": "Alexandre Moura Roberto",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "Transformações do ensino da estatística em uma escola particular do estado do Ceará induzidas pela prova de matemática do ENEM",
+  "instituicao": "UNIVERSIDADE ANHANGUERA DE SÃO PAULO",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Angelica da Fontoura Garcia Silva",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Matemática; Currículo Prescrito; Currículo Moldado; ENEM; Ensino de Estatística",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Transforma%C3%A7%C3%B5es%20do%20ensino%20da%20estat%C3%ADstica%20em%20uma%20escola%20particular%20do%20estado%20do%20Cear%C3%A1%20induzidas%20pela%20prova%20de%20matem%C3%A1tica%20do%20ENEM%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Transforma%C3%A7%C3%B5es%20do%20ensino%20da%20estat%C3%ADstica%20em%20uma%20escola%20particular%20do%20estado%20do%20Cear%C3%A1%20induzidas%20pela%20prova%20de%20matem%C3%A1tica%20do%20ENEM&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30449672"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30449672",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Matemática",
+    "Currículo Prescrito",
+    "Currículo Moldado",
+    "ENEM",
+    "Ensino de Estatística"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30449672.svg",
+  "resumo": "A presente pesquisa, de natureza qualitativa, busca analisar a influência das avaliações de Matemática e suas tecnologias do ENEM no ensino de Estatística e elaboração do currículo moldado pelos professores para o Ensino Médio do Colégio 7 de Setembro no período de 2008 a 2018. Fundamentou-se este estudo na visão de Sacristan que propõe olhar numa perspectiva processual para o currículo. Trata-se de uma pesquisa documental realizada a partir da análise das relações estabelecidas entre currículo moldado pelos professores do colégio para o Ensino de Estatística e os pressupostos e habilidades e competências avaliadas pelo Exame Nacional do Ensino Médio (ENEM) e indicações curriculares para o ensino da temática presentes nos documentos curriculares oficiais como PCNEM, PCN+ e Orientações Curriculares. De modo geral, a análise das informações obtidas permitiu identificar que os planos de curso do Colégio 7 de Setembro propostos para o segundo ano do ensino médio no período de 2008 a 2018, vem sendo estruturado a partir da matriz de referência do Enem, preocupando-se em favorecer o ensino de estatística que permita ao estudantes compreender fatos e fenômenos no intuito de refletir e agir sobre esta nova realidade.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

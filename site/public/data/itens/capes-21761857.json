@@ -1,0 +1,62 @@
+{
+  "id": "capes-21761857",
+  "autor": "Tiago Augusto dos Santos Alves",
+  "ano": 2016,
+  "tipo": "Dissertação",
+  "titulo": "Conhecimentos de professores de matemática da educação básica sobre o ensino de medidas de tendência central",
+  "instituicao": "Universidade Anhanguera de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Angelica da Fontoura Garcia Silva",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Matemática; Medidas de Tendência Central; Formação Continuada de Professores de Matemática; Letramento Estatístico; Conhecimentos Profissionais Docentes; Observatório da Educação",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Conhecimentos%20de%20professores%20de%20matem%C3%A1tica%20da%20educa%C3%A7%C3%A3o%20b%C3%A1sica%20sobre%20o%20ensino%20de%20medidas%20de%20tend%C3%AAncia%20central%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Conhecimentos%20de%20professores%20de%20matem%C3%A1tica%20da%20educa%C3%A7%C3%A3o%20b%C3%A1sica%20sobre%20o%20ensino%20de%20medidas%20de%20tend%C3%AAncia%20central&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21761857"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "21761857",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Matemática",
+    "Medidas de Tendência Central",
+    "Formação Continuada de Professores de Matemática",
+    "Letramento Estatístico",
+    "Conhecimentos Profissionais Docentes",
+    "Observatório da Educação"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-21761857.svg",
+  "resumo": "A finalidade deste estudo foi investigar a ampliação da base de conhecimentos para o ensino de Medidas de Tendência Central (MTC) de um grupo de professores participantes de uma formação continuada. Para tanto, quatorze professores que ensinam Matemática para os Ensinos Fundamental e Médio da rede pública de ensino paulista participaram do curso de formação continuada vinculado a esta pesquisa, o qual foi realizado no âmbito do Projeto Observatório da Educação da Universidade Anhanguera de São Paulo, com fomento da CAPES. Utilizaram-se como pressupostos reflexões acerca de práticas dos docentes e sobre os significados, as propriedades de cada uma das medidas e sua relação com dificuldades encontradas pelos estudantes. A primeira fase da coleta de dados constituiu-se na aplicação de dois questionários de caráter diagnóstico que possibilitou compreender a trajetória profissional de cada um dos professores e ter uma perspectiva da experiência que eles vivenciaram frente ao ensino da temática aqui investigada. O segundo momento, denominado de Processo Formativo, foi realizado com base em características de pesquisa qualitativa e em princípios do Design Experiments, nas perspectivas de Cobb, Confrey, diSessa, Lehrer e Schauble. Assim sendo, o planejamento de como seria desenvolvido o curso de formação continuada, diante de reflexões obtidas no decorrer de todo o processo investigativo, sofreu alterações a fim de se adequar às necessidades dos docentes e, consequentemente, favorecer a discussão de novos conhecimentos. Quanto à revisão de literatura, foi realizada uma análise de orientações contidas em documentos curriculares oficiais e de estudos que indicavam possíveis limitações tanto entre alunos quanto entre professores frente às medidas média, mediana e moda. Em relação às fundamentações teóricas que consubstanciaram a análise dos dados obtidos, envolvendo os conhecimentos profissionais docentes, foram utilizadas as categorias propostas por Ball, Thames e Phelps. No tocante à formação de professores reflexivos, recorreu-se a estudos de Dewey, Schön e Zeichner. Já os trabalhos de Gal foram tomados de base para a análise do desenvolvimento do Letramento Estatístico dos participantes desta investigação. Como resultados alcançados, concluiu-se que a compreensão das propriedades e significados das MTC possibilitou a ampliação da base de conhecimentos dos professores, de modo a inter-relacionar tais medidas para a tomada de decisão e reconhecer que, em certos momentos, teriam de lançar mão de outras ferramentas, como análise da dispersão dos dados.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
+}

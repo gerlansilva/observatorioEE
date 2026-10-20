@@ -1,0 +1,64 @@
+{
+  "id": "capes-21761856",
+  "autor": "Robson Candeias Macedo",
+  "ano": 2016,
+  "tipo": "Dissertação",
+  "titulo": "Conhecimentos de professores de Matemática sobre o processo de ensino e de aprendizagem de noções estatísticas - curva normal",
+  "instituicao": "Universidade Anhanguera de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Ruy Cesar Pietropaolo",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Letramento Estatístico; Curva Normal; Formação Continuada de Professores; Conhecimento Matemático para o Ensino; Observatório da Educação",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Conhecimentos%20de%20professores%20de%20Matem%C3%A1tica%20sobre%20o%20processo%20de%20ensino%20e%20de%20aprendizagem%20de%20no%C3%A7%C3%B5es%20estat%C3%ADsticas%20-%20curva%20normal%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Conhecimentos%20de%20professores%20de%20Matem%C3%A1tica%20sobre%20o%20processo%20de%20ensino%20e%20de%20aprendizagem%20de%20no%C3%A7%C3%B5es%20estat%C3%ADsticas%20-%20curva%20normal&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21761856"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "21761856",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Letramento Estatístico",
+    "Curva Normal",
+    "Formação Continuada de Professores",
+    "Conhecimento Matemático para o Ensino",
+    "Observatório da Educação"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-21761856.svg",
+  "resumo": "A finalidade deste estudo foi investigar a ampliação da base de conhecimentos de um grupo de professores de Matemática da Educação Básica para ensinar noções envolvidas na leitura da curva normal para alunos do Ensino Médio, mediante uma formação continuada, cujos pressupostos foram reflexões compartilhadas e vivências sobre inovações apresentadas nos mais recentes currículos acerca da Estatística e Probabilidade. Trata-se de uma pesquisa que envolveu um grupo de 15 professores da rede pública estadual da região metropolitana de São Paulo e realizada no âmbito do Observatório da Educação da Universidade Anhanguera de São Paulo com fomento da Capes. Em relação à fundamentação teórica, no que diz respeito aos conhecimentos que devem ser de domínio do professor, foram consideradas as categorias estabelecidas por Shulman. No tocante à formação de professores reflexivos, em um ambiente de estudo de inovações curriculares, foram utilizadas as ideias defendidas por Zeichner. Para as discussões referentes ao Letramento Estatístico optou-se pelas ideias de Gal e também de Batanero e Godino que discutem investigações sobre a Educação Estatística e justificam a inserção desse tema na escola básica desde os anos iniciais. A primeira fase da coleta de dados constituiu-se da aplicação de questionários com o objetivo de identificar conhecimentos e práticas dos professores a respeito do processo de ensino e de aprendizagem de noções necessárias para a análise de uma curva normal. As respostas dos professores a esse diagnóstico revelaram concepções inconsistentes sobre significados de noções estatísticas, nomeadamente do desvio padrão. Observou-se que o grupo de professores, no geral, não priorizava esse tema em suas aulas. A segunda fase, denominada de processo formativo, foi realizada segundo princípios da metodologia Design Experiments, cujo desenvolvimento foi baseado em demandas e necessidades dos docentes identificadas na fase inicial, além de resultados de pesquisas sobre os processos de ensino e aprendizagem de conceitos estatísticos e da probabilidade. Nessa etapa, os participantes discutiram situações de aprendizagem com o objetivo de favorecer a compreensão de alunos do Ensino Médio sobre os significados de média, mediana e desvio padrão e realizar a leitura de uma curva normal, ainda que de forma incipiente, favorecendo o desenvolvimento do Letramento Estatístico. As discussões sobre os significados de noções concernentes ao tema favoreceram uma tomada de posição favorável dos docentes para introduzi-las em suas aulas e, em especial, a análise da curva normal em contextos significativos para estudantes. Conclui-se que as reflexões realizadas durante o processo formativo ampliaram a base de conhecimentos dos professores para o ensino da Estatística e da Probabilidade. Os resultados deste estudo também indicam a necessidade de haver nesses processos formativos uma articulação entre diferentes abordagens, estratégias, contextos e materiais para os processos de ensino e aprendizagem de noções relativas ao tema estudado.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": "capes-20293636",
+  "autor": "Robson da Silva Eugenio",
+  "ano": 2013,
+  "tipo": "Dissertação",
+  "titulo": "EXPLORAÇÕES SOBRE A MÉDIA NO SOFTWARE TINKERPLOTS 2.0 POR ESTUDANTES DO ENSINO FUNDAMENTAL",
+  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Liliane Maria Teixeira Lima de Carvalho",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Média; Tecnologia e Educação Estatística; Software TinkerPlots; Interpretação de gráficos.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22EXPLORA%C3%87%C3%95ES%20SOBRE%20A%20M%C3%89DIA%20NO%20SOFTWARE%20TINKERPLOTS%202.0%20POR%20ESTUDANTES%20DO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=EXPLORA%C3%87%C3%95ES%20SOBRE%20A%20M%C3%89DIA%20NO%20SOFTWARE%20TINKERPLOTS%202.0%20POR%20ESTUDANTES%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20293636"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "20293636",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Média",
+    "Tecnologia e Educação Estatística",
+    "Software TinkerPlots",
+    "Interpretação de gráficos."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-20293636.svg",
+  "resumo": "O estudo analisa explorações sobre a média realizadas por estudantes do 5º e 9º anos do Ensino Fundamental na interpretação de gráficos no software TinkerPlots. Participaram da pesquisa 16 estudantes, sendo oito do 5º ano e oito do 9º ano, oriundos de uma mesma escola pública localizada em Recife, Pernambuco. Eles resolveram individualmente um teste contendo dez questões sobre média e participaram de uma entrevista semi-estruturada visando identificar os seus usos do computador e conhecimentos prévios sobre gráficos. Na sequência, em duplas, participaram de uma sessão de familiarização com o software TinkerPlots e em um dia subsequente, interpretaram três situações de pesquisa envolvendo relações entre duas variáveis, uma qualitativa e a outra quantitativa. As situações incluíram problemas sobre os bancos de dados tempo dos estudantes e peixes as quais apresentam variações nos tamanhos das amostras e nos valores das médias. As entrevistas foram videografadas, transcritas e organizadas sob a forma de protocolos para análise. A maioria dos estudantes do 5º ano não apresentaram noções conceituais prévias sobre média, demonstrando um nível de resposta preestrutural, seguido de resposta uniestrutural o qual reflete ideias coloquiais e também singulares sobre a média. Quanto aos estudantes do 9º ano, eles apresentaram uma maior frequência de resposta uniestrutural, seguido de multiestruturais, que são mais elaborados e que envolvem considerações sobre medidas de tendência central. Nas suas explorações sobre média com o software TinkerPlots, os estudantes do 5º ano avançaram em relação as suas respostas identificadas no teste diagnóstico. De uma tendência voltada para respostas preestruturais no teste diagnóstico, os estudantes do 5° ano passaram a desenvolver respostas uniestruturais e multiestruturais no trabalho com o TinkerPlots. Os estudantes do 9º ano, também avançaram em se tratando das suas respostas ao trabalhar com o TinkerPlots, evoluindo para níveis multiestruturais e em algumas situações para o nível relacional. As explorações sobre média a partir da construção do dot plot revelaram o uso de abordagens intuitivas e que envolveram interpretações a partir de leituras dos dados, entre dados e também abordagens relacionais que envolveram leituras além dos dados. Um aspecto relevante observado nas interpretações com o dot plot foi a evolução das respostas dos estudantes para analisar a forma das distribuições, destacando algumas regularidades ou mesmo outliers. Conclui-se que o TinkerPlots contribuiu para que os estudantes expressassem respostas mais elaboradas sobre média e para que percebêssemos que explorações sobre a média associada com a construção e interpretação e gráficos poderiam ser inseridas no ensino formal a partir do 5º ano.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
+}

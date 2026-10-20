@@ -1,0 +1,61 @@
+{
+  "id": "capes-21814960",
+  "autor": "Monalisa Cardoso Silva",
+  "ano": 2016,
+  "tipo": "Dissertação",
+  "titulo": "A COMBINATÓRIA: abordagem em documentos oficiais, em resultados de pesquisas e em livros didáticos do Ensino Fundamental",
+  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Cristiane Azevedo dos Santos",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Combinatória; Documentos oficiais; . Pesquisa científica; . Livro didático; . Ensino Fundamental.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20COMBINAT%C3%93RIA%3A%20abordagem%20em%20documentos%20oficiais%2C%20em%20resultados%20de%20pesquisas%20e%20em%20livros%20did%C3%A1ticos%20do%20Ensino%20Fundamental%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20COMBINAT%C3%93RIA%3A%20abordagem%20em%20documentos%20oficiais%2C%20em%20resultados%20de%20pesquisas%20e%20em%20livros%20did%C3%A1ticos%20do%20Ensino%20Fundamental&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21814960"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "21814960",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Combinatória",
+    "Documentos oficiais",
+    ". Pesquisa científica",
+    ". Livro didático",
+    ". Ensino Fundamental."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-21814960.svg",
+  "resumo": "A presente pesquisa teve como objetivo analisar a abordagem da Combinatória em orientações curriculares de documentos oficiais, em resultados de pesquisas e em livros didáticos do Ensino Fundamental e se há consonância entre as abordagens. A nossa fundamentação teórica discute sobre a importância de cada um destes elementos e sua relação com a Combinatória, além de nos apoiarmos na Teoria dos Campos Conceituais de Vergnaud (1986) para análise dos livros. Para tal foram analisados os Parâmetros Curriculares Nacionais de Matemática dos anos inicias e finais do Ensino Fundamental (BRASIL, 1997 e 1998) e Parâmetros Curriculares de Matemática para Educação Básica de Pernambuco (PERNAMBUCO, 2012). Analisamos também pesquisas recentes publicadas em eventos nacionais e internacionais ocorridos no Brasil no período de 2009 a 2013, as quais estudaram sobre sondagem de alunos e intervenções de ensino em Combinatória. O último elemento de análise foi o livro didático, na qual constaram coleções aprovados pelo PNLD 2013, dos anos iniciais e PNLD 2014, dos anos finais do Ensino Fundamental. Neste sentido, apresentamos a análise da abordagem da Combinatória em cada um destes elementos, confrontando-os de forma gradativa à medida que cada elemento é apresentado. A partir dos resultados foi possível perceber que os documentos oficiais tratam claramente do ensino deste conteúdo desde o período de alfabetização matemática, envolvendo os quatro significados do conceito (produto cartesiano, arranjo, combinação e permutação), nos quais devem estar relacionados com os campos de Números e Operações e Tratamento da Informação. Além disso, orientam que ao longo de todo o Ensino Fundamental sejam utilizadas diferentes estratégias de resolução, que irão levar ao uso do principio fundamental da contagem nos anos finais, sem que haja a utilização de fórmulas. De forma semelhante, identificamos nos estudos recentes que desde cedo os alunos são capazes de resolver tais problemas, utilizando desenhos, listagem e árvores de possibilidades, por exemplo. Contudo, que precisam superar alguns obstáculos de resolução, relacionados à compreensão dos invariantes, elemento este que, segundo os estudos, precisam ser explicitados para os estudantes, por meio de um ensino sistemático, que vise também à organização das estratégias de resolução e o esgotamento de possibilidades. Desta forma, ao analisar os livros percebemos importantes relações da abordagem da Combinatória com os documentos e pesquisas, havendo, assim, consonância dos mesmos em vários dos aspectos analisados, tais como abordagem ao longo de todo o segmento do Ensino Fundamental, trabalho com os diferentes significados envolvidos no conceito, apoio nas variadas estratégias de resolução apresentadas por alunos e orientadas para o ensino, a sistematização da estratégia e o esgotamento de possibilidades para o desenvolvimento do raciocínio combinatório, superando o pensamento do provável para o possível. Contudo, a análise nos livros didáticos aponta a necessidade de maior atenção na abordagem da Combinatória nos anos iniciais, envolvendo todos os significados do conceito e relação com o Campo do Tratamento da Informação com a Probabilidade e a Estatística. Além de apresentar orientações mais concisas no manual do professor para o trabalho com este conteúdo.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de combinatória"
+  ],
+  "ids_duplicados": []
+}

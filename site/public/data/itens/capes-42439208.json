@@ -1,0 +1,61 @@
+{
+  "id": "capes-42439208",
+  "autor": "Ruan Vitorio Fernandes da Silva",
+  "ano": 2024,
+  "tipo": "Dissertação",
+  "titulo": "A MusiCALcolorida: possibilidades da tecnologia para o Ensino de Razão e Probabilidade",
+  "instituicao": "UNIVERSIDADE FEDERAL DO RIO DE JANEIRO",
+  "cidade": "",
+  "estado": "Rio de Janeiro",
+  "regiao": "Sudeste",
+  "orientador": "Janete Bolite Frant",
+  "programa": "ENSINO DE MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Números Reais; Dízimas; Interação e Argumentação; MusiCALcolorida; Educação Básica",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20MusiCALcolorida%3A%20possibilidades%20da%20tecnologia%20para%20o%20Ensino%20de%20Raz%C3%A3o%20e%20Probabilidade%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20MusiCALcolorida%3A%20possibilidades%20da%20tecnologia%20para%20o%20Ensino%20de%20Raz%C3%A3o%20e%20Probabilidade&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42439208"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "42439208",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Números Reais",
+    "Dízimas",
+    "Interação e Argumentação",
+    "MusiCALcolorida",
+    "Educação Básica"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-42439208.svg",
+  "resumo": "Nesta pesquisa, o objetivo foi investigar e analisar as potencialidades do uso da MusiCALcolorida para o ensino dos números reais, a partir das interações entre professores de matemática do Ensino Básico. Foram convidadas quatro colaboradoras, todas professoras de matemática que atuam na rede básica de ensino, para compor um grupo que interagiu de modo remoto. Das quatro, três tinham disponibilidade para participar da pesquisa. Este aplicativo, a MusiCALcolorida, representa os números de forma simbólica, sonora e imagética, trazendo a possibilidade de um novo olhar para a representação dos números reais. Foi elaborado por Lulu Healy e Guilherme Magalhães para que seu uso fosse inclusivo, permitindo que os alunos que necessitassem de algum tipo de abordagem sensória especial fossem contemplados com as diferentes representações, e pudessem assim interagir com os demais estudantes. Além disso, essa calculadora pode apresentar um número com 21.580 casas decimais enquanto as calculadoras tradicionais vão apenas até 8 casas decimais. A metodologia de pesquisa adotada de cunho qualitativo, focou na modalidade de Estudo de Caso. A pesquisa foi realizada com um grupo de três professoras, e o resultado das análises mostrou que, segundo elas, a MusiCALcolorida permite que os alunos, com ou sem alguma necessidade especial, possam interagir e observar características dos números, como, por exemplo o período mais longo de dízimas, que muitas vezes não são contemplados por calculadoras tradicionais. Deste modo, esse aplicativo pôde contribuir para a aprendizagem dos números racionais e irracionais.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de probabilidade"
+  ],
+  "ids_duplicados": []
+}

@@ -1,0 +1,58 @@
+{
+  "id": "capes-21576506",
+  "autor": "Francisca Brum Tolio",
+  "ano": 2016,
+  "tipo": "Dissertação",
+  "titulo": "PRINCÍPIO ADITIVO E MULTIPLICATIVO: EXPLORANDO O PENSAMENTO COMBINATÓRIO POR MEIO DA RESOLUÇÃO DE PROBLEMAS E COM USO DE MATERIAIS MANIPULÁVEIS E JOGOS",
+  "instituicao": "CENTRO UNIVERSITÁRIO FRANCISCANO",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Eleni Bisognin",
+  "programa": "Programa de Pós-Graduação em Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Resolução de Problemas; Princípios Aditivo e Multiplicativo, Jogos e Materiais Manipuláveis",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22PRINC%C3%8DPIO%20ADITIVO%20E%20MULTIPLICATIVO%3A%20EXPLORANDO%20O%20PENSAMENTO%20COMBINAT%C3%93RIO%20POR%20MEIO%20DA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20E%20COM%20USO%20DE%20MATERIAIS%20MANIPUL%C3%81VEIS%20E%20JOGOS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PRINC%C3%8DPIO%20ADITIVO%20E%20MULTIPLICATIVO%3A%20EXPLORANDO%20O%20PENSAMENTO%20COMBINAT%C3%93RIO%20POR%20MEIO%20DA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20E%20COM%20USO%20DE%20MATERIAIS%20MANIPUL%C3%81VEIS%20E%20JOGOS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21576506"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "21576506",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Resolução de Problemas",
+    "Princípios Aditivo e Multiplicativo, Jogos e Materiais Manipuláveis"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-21576506.svg",
+  "resumo": "Este trabalho teve, como objetivo principal, investigar as contribuições que a Metodologia da Resolução de Problemas e a utilização de jogos e materiais manipuláveis podem propiciar no ensino e na aprendizagem do Princípio Aditivo e Princípio Multiplicativo em alunos do Ensino Médio. Para o desenvolvimento dessa pesquisa, foi utilizada a metodologia de ensino-aprendizagem através da Resolução de Problemas, sugerida pelas autoras Allevato e Onuchic (2009). Os materiais manipuláveis e os jogos auxiliaram no desenvolvimento do conteúdo, tornando-o mais compreensível para os alunos e motivando-os a resolver os problemas. O estudo se desenvolveu em uma turma de 28 alunos do terceiro ano do Ensino Médio Técnico em Agropecuária do Instituto Federal de Educação, Ciência e Tecnologia Farroupilha – Câmpus Alegrete, RS, Brasil. O levantamento de dados foi feito por meio da observação participante, dos registros da professora em seu diário de campo, e dos registros dos alunos no desenvolvimento das atividades. Ao concluir essa pesquisa, foi observado que os alunos foram capazes de construir seus próprios conceitos, relacionados aos conteúdos abordados, de tal forma a diferenciar os princípios estudados e a aplicá-los corretamente quando necessário. Foi observado, também, uma melhora quanto à leitura e à interpretação dos dados. Pode-se inferir que o desenvolvimento desse trabalho contribuiu significativamente para a construção dos conceitos referentes aos princípios aditivo e multiplicativo.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "pensamento combinatório"
+  ],
+  "ids_duplicados": []
+}

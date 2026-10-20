@@ -1,0 +1,61 @@
+{
+  "id": "capes-38053906",
+  "autor": "Lucimelc Alves Costa",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "Vivência sobre investigação para a construção do raciocínio estatístico no Ensino Fundamental",
+  "instituicao": "FUNDAÇÃO UNIVERSIDADE DE PASSO FUNDO",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Adriano Pasqualotti",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino investigativo; Raciocínio estatístico; Jogos; Anos iniciais; Vygotsky",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Viv%C3%AAncia%20sobre%20investiga%C3%A7%C3%A3o%20para%20a%20constru%C3%A7%C3%A3o%20do%20racioc%C3%ADnio%20estat%C3%ADstico%20no%20Ensino%20Fundamental%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Viv%C3%AAncia%20sobre%20investiga%C3%A7%C3%A3o%20para%20a%20constru%C3%A7%C3%A3o%20do%20racioc%C3%ADnio%20estat%C3%ADstico%20no%20Ensino%20Fundamental&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38053906"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "38053906",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino investigativo",
+    "Raciocínio estatístico",
+    "Jogos",
+    "Anos iniciais",
+    "Vygotsky"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-38053906.svg",
+  "resumo": "O presente estudo refere-se à dissertação de mestrado alocado na linha de pesquisa de Tecnologia da informação, comunicação e interação aplicadas ao ensino de Ciências e Matemática, do Programa de Pós-graduação em Ensino de Ciências e Matemática, da Universidade de Passo Fundo. A pesquisa trata de uma dissertação aplicada de cunho quali-quantitativa, que se justifica pelo uso do ensino investigação como ferramenta para estimular os alunos a pensarem e a construírem situações-problemas para ajudar no processo educacional, desde os anos iniciais do Ensino Fundamental, com a inserção de atividades interativas propostas em um livro paradidático, com jogos nos quais as crianças serão construtoras de seus próprios conhecimentos, o que oportuniza uma aprendizagem com significado, sendo efetiva e duradoura. Isso poderá levar o aluno a perceber que o conhecimento estatístico é importante para sua vida em sociedade e será útil para ajudá-lo a entender o mundo em que vive. A proposta do uso do ensino por investigação encoraja o aluno a explorar, desenvolver estratégias, levantar hipóteses e conjecturas, testar, debater e aplicar ideias matemáticas. Busca-se refletir sobre as práticas pedagógicas dos professores polivalentes ao ensino de Estatística, tendo como base as orientações dos Parâmetros Curriculares Nacionais e da Base Nacional Comum Curricular, bem como refletir sobre a proposta dos livros didáticos quanto às vivências investigativas. Em relação aos caminhos metodológicos, foi realizada uma pesquisa bibliográfica tendo como fonte trabalhos científicos com foco no ensino estatístico na Educação Básica. Além disso, houve a criação de um material lúdico, que serviu como referencial para o apoio de todo o trabalho junto ao docente. Como referencial teórico, a pesquisa buscou subsídios no sociointeracionismo, na perspectiva de Lev Semenovich Vygotsky, em que o uso diversificado de recursos didáticos, com a mediação do docente e do outro contribui para a construção do conhecimento, para a socialização e para a interação do aluno. O produto educacional elaborado, disponível em https://educapes.capes.gov.br/handle/capes/742160, trata-se de um livro paradidático para o aluno e para o professor, voltado para o ensino estatístico, o qual procura envolver o aluno em atividades investigativas e direcionar o professor com estratégias que mediaram a construção do raciocínio estatístico. A aplicação do produto educacional, por sua vez, ocorreu por meio de uma sequência didática, com alunos do 3º ano do Ensino Fundamental, de uma escola pública da cidade do Gama, Distrito Federal. O resultado da pesquisa será organizado e analisado, durante e após o processo, com atividades desenvolvidas em sala e por meio de diário de bordo, buscando-se relatar as contribuições que o ensino por investigação e por experimentações promoverá no desenvolvimento do raciocínio estatístico.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "raciocínio estatístico"
+  ],
+  "ids_duplicados": []
+}

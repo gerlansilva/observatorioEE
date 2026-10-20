@@ -1,0 +1,60 @@
+{
+  "id": "capes-20052850",
+  "autor": "Antonio Jailson dos Santos Fonseca",
+  "ano": 2015,
+  "tipo": "Dissertação",
+  "titulo": "O ENSINO DA ANÁLISE COMBINATÓRIA: UM ESTUDO DOS REGISTROS DE REPRESENTAÇÕES SEMIÓTICAS POR MEIO DE SEQUÊNCIA DIDÁTICA",
+  "instituicao": "FUNDAÇÃO UNIVERSIDADE FEDERAL DE SERGIPE",
+  "cidade": "",
+  "estado": "Sergipe",
+  "regiao": "Nordeste",
+  "orientador": "Divanizia do Nascimento Souza",
+  "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Análise Combinatória; Educação Matemática; Registro de Representação Semiótica; Engenharia Didática.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ENSINO%20DA%20AN%C3%81LISE%20COMBINAT%C3%93RIA%3A%20UM%20ESTUDO%20DOS%20REGISTROS%20DE%20REPRESENTA%C3%87%C3%95ES%20SEMI%C3%93TICAS%20POR%20MEIO%20DE%20SEQU%C3%8ANCIA%20DID%C3%81TICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ENSINO%20DA%20AN%C3%81LISE%20COMBINAT%C3%93RIA%3A%20UM%20ESTUDO%20DOS%20REGISTROS%20DE%20REPRESENTA%C3%87%C3%95ES%20SEMI%C3%93TICAS%20POR%20MEIO%20DE%20SEQU%C3%8ANCIA%20DID%C3%81TICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20052850"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "20052850",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Análise Combinatória",
+    "Educação Matemática",
+    "Registro de Representação Semiótica",
+    "Engenharia Didática."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-20052850.svg",
+  "resumo": "A presente pesquisa teve como objetivo geral investigar o potencial das transformações dos registros de representação semiótica em uma proposta de ensino de Análise Combinatória construída com base na resolução de problemas para alunos da 2º série do ensino médio. O referencial teórico desta investigação esteve relacionado com o processo de ensino e aprendizagem da disciplina matemática, utilizando os Registros de Representação Semiótica, Níveis de conhecimento esperados dos estudantes e Resolução de Problemas. Para o desenvolvimento desse estudo foram utilizados aspectos metodológicos da Engenharia Didática. A análise se desenvolveu numa perspectiva qualitativa. Participaram dessa pesquisa os alunos da segunda série do ensino médio do Colégio Estadual Vitória de Santa Maria em Aracaju/SE. Ficou comprovado na aplicação da sequência didática que o ensino baseado em experiências de aulas que estimule a mobilização dos registros semióticos e com atividades relacionadas ao cotidiano do discente contribuiu de forma efetiva para o ensino e a aprendizagem de Análise Combinatória.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de combinatória"
+  ],
+  "ids_duplicados": []
+}

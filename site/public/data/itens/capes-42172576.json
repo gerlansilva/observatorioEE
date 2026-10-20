@@ -1,0 +1,63 @@
+{
+  "id": "capes-42172576",
+  "autor": "Fernanda Angelo Pereira",
+  "ano": 2024,
+  "tipo": "Tese",
+  "titulo": "A Educação Estatística Crítica no contexto da Tecnologia Social LeME na formação pré-profissional de jovens em situação de vulnerabilidade social, econômica e ambiental",
+  "instituicao": "UNIVERSIDADE FEDERAL DO RIO GRANDE",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Mauren Porciuncula Moreira da Silva",
+  "programa": "EDUCAÇÃO EM CIÊNCIAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação; Estatística; Ensino; Educação estatística; Educação estatística crítica; Projetos de aprendizagem",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20Cr%C3%ADtica%20no%20contexto%20da%20Tecnologia%20Social%20LeME%20na%20forma%C3%A7%C3%A3o%20pr%C3%A9-profissional%20de%20jovens%20em%20situa%C3%A7%C3%A3o%20de%20vulnerabilidade%20social%2C%20econ%C3%B4mica%20e%20ambiental%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20Cr%C3%ADtica%20no%20contexto%20da%20Tecnologia%20Social%20LeME%20na%20forma%C3%A7%C3%A3o%20pr%C3%A9-profissional%20de%20jovens%20em%20situa%C3%A7%C3%A3o%20de%20vulnerabilidade%20social%2C%20econ%C3%B4mica%20e%20ambiental&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42172576"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "42172576",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação",
+    "Estatística",
+    "Ensino",
+    "Educação estatística",
+    "Educação estatística crítica",
+    "Projetos de aprendizagem"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-42172576.svg",
+  "resumo": "O texto apresenta uma pesquisa de doutorado que teve como foco o projeto Letramento Multimídia Estatístico (LeME) e a promoção da Educação Estatística Crítica (EEC) na formação pré-profissional de jovens em situação de vulnerabilidade sócio-econômica-ambiental. O estudo de caso em questão teve por objetivo analisar os indícios na implementação do LeME na formação dos estudantes do Centro de Convívio dos Meninos do Mar (CCMar) para o desenvolvimento de uma formação de acordo com a perspectiva da Educação Estatística e da Educação Crítica. Os dados foram obtidos a partir da implementação do LeME no CCMar, ambos da Universidade Federal do Rio Grande (FURG). O LeME tem por objetivo, por meio do desenvolvimento de Projetos de Aprendizagem Estatísticos (PAE), promover o letramento estatístico de crianças e jovens para que possam ler, autônoma e criticamente, as informações estatísticas que são veiculadas na sociedade. O CCMar é uma instituição pública de ensino pré-profissionalizante que atende jovens estudantes entre 14 e 17 anos em situação de vulnerabilidade sócio-econômico-ambiental da cidade do Rio Grande, RS, no sentido de motivar uma transformação que os encaminhe a uma participação solidária e fraterna. O corpus da pesquisa, que é qualitativa, é constituído por meio de entrevistas, Grupo Focal, que foram gravados e transcritos, e Diários Reflexivos. Os participantes da pesquisa são os estudantes do CCMar do segundo semestre de 2022, além dos professores do LeME nesse período. A análise dos dados foi auxiliada pela metodologia do Discurso do Sujeito Coletivo que nos possibilitou construir oito discursos, quatro com os dados coletados junto aos estudantes e quatro, com os dos professores. Nos discursos produzidos com os dados dos estudantes foram identificadas várias características da EEC como a contextualização dos conceitos estatísticos, o trabalho colaborativo, incentivo à análise e interpretação dos resultados, ambiente democrático de aprendizagem, bem como a reflexão crítica sobre o papel da estatística na sociedade. Considerando os dados dos professores, foram observadas ações poderiam contribuir para uma formação estatística que buscavam explicar como a estatística pode ser usada em contextos relevantes para os estudantes, a partir de diálogos e conversas, ações focadas em iniciativas lúdicas para o ensino da estatística, discussão com os estudantes sobre as nuances de uma pesquisa estatística, promover discussões a respeito das temáticas levantadas, incentivar a interpretação dos dados e produções textuais, bem como encorajar os estudantes ao longo das fases da pesquisa, oportunizando o protagonismo estudantil e cultivando um vínculo afetivo com os estudantes. Os discursos analisados demonstraram que o LeME, por meio da sua metodologia de PAE e das ações desenvolvidas em paralelo pelos professores que priorizam o diálogo, ludicidade, desenvolvimento de habilidades sociais e afetividade, tem o potencial de contribuir para a formação estatisticamente crítica dos estudantes, pois proporciona-lhes o desenvolvimento de habilidades e conhecimentos estatísticos alinhados à EEC, promovendo o letramento estatístico e permitindo uma compreensão do papel da Estatística no contexto social e político em que estão inseridos.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

@@ -1,0 +1,61 @@
+{
+  "id": "capes-36709299",
+  "autor": "Gabriel Jose Cavassin Fabri",
+  "ano": 2022,
+  "tipo": "Dissertação",
+  "titulo": "Nexos conceituais da estatística manifestados por professores em formação na Oficina Pedagógica de Matemática",
+  "instituicao": "UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ",
+  "cidade": "",
+  "estado": "Paraná",
+  "regiao": "Sul",
+  "orientador": "Maria Lucia Panossian",
+  "programa": "Formação Científica, Educacional e Tecnológica",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Estatística - Estudo e ensino; Professores de matemática; Dialética; Psicologia educacional; Pedagogia crítica",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Nexos%20conceituais%20da%20estat%C3%ADstica%20manifestados%20por%20professores%20em%20forma%C3%A7%C3%A3o%20na%20Oficina%20Pedag%C3%B3gica%20de%20Matem%C3%A1tica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Nexos%20conceituais%20da%20estat%C3%ADstica%20manifestados%20por%20professores%20em%20forma%C3%A7%C3%A3o%20na%20Oficina%20Pedag%C3%B3gica%20de%20Matem%C3%A1tica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36709299"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "36709299",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Estatística - Estudo e ensino",
+    "Professores de matemática",
+    "Dialética",
+    "Psicologia educacional",
+    "Pedagogia crítica"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-36709299.svg",
+  "resumo": "Esta dissertação apresenta uma discussão sobre a organização do ensino de Estatística através dos elementos epistemológicos do materialismo histórico-dialético, dos pressupostos psicológicos de desenvolvimento humano pautados pelas teorias histórico-cultural e da atividade, compreendidos como fundamentos da Atividade Orientadora de Ensino enquanto base teórico-metodológica. Esses pressupostos sustentam o objetivo da pesquisa de reconhecer nexos conceituais da Estatística manifestados pelos integrantes da Oficina Pedagógica de Matemática (OPM). A constituição dos dados para materializar esse objetivo ocorreu através do projeto de extensão A organização do ensino de Estatística na Oficina Pedagógica de Matemática, cujos integrantes são professores em serviço na Educação Básica e Superior, assim como estudantes da licenciatura em Matemática e do mestrado e doutorado em Ensino de Ciências e Matemática na Universidade Tecnológica Federal do Paraná. Nesse sentido, a partir da concepção dialética do conhecimento, debruçou-se sobre o estudo lógico-histórico da Estatística a fim de reconhecer e elaborar os seguintes nexos conceituais: nexo 1 – captação de dados; nexo 2 – síntese informacional; nexo 3 – reconhecimento e demonstração de regularidades; nexo 4 – estimativa e predição. Esse estudo foi fundamental para dois processos nesta pesquisa, sendo um deles o desenvolvimento das análises de dois isolados captados no movimento da OPM: (Iso-1) Manifestação dos nexos conceituais da Estatística e (Iso-2) Desdobramento dos nexos conceituais da Estatística para a organização do Ensino. E o outro para a organização do Produto Educacional, no qual apresentou-se como esses nexos podem ser compreendidos na organização do ensino, no formato de um Guia Didático relacionado a seis vídeos de autoria própria, disponibilizados em uma plataforma de livre acesso. Por fim, entre os resultados destacou-se: a relevância da compreensão sobre os nexos conceituais a partir do movimento lógico-histórico da Estatística para a (re)organização do ensino na perspectiva da Atividade Orientadora de Ensino; a manifestação pelos professores em formação dos nexos 1 e 2 de forma recorrente e dificuldades em estabelecer outras relações entre conceitos e diferenciar o que são as ações e os conceitos para a Estatística. Este último ampliou a análise sobre o potencial de projetos coletivos, como o da OPM, que desencadeiam necessidades de estudo sobre o próprio objeto do conhecimento que se ensina, permitindo novas possibilidades e perspectivas.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

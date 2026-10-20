@@ -1,0 +1,61 @@
+{
+  "id": "capes-27414574",
+  "autor": "Ulises Jacinto Aguayo Garrido",
+  "ano": 2017,
+  "tipo": "Dissertação",
+  "titulo": "CONTRIBUIÇÕES PARA O ENSINO DE ESTATÍSTICA PARA CURSOS DE GRADUAÇÃO: UM CADERNO DIDÁTICO PARA O ENSINO DE INTERVALOS DE CONFIANÇA APLICANDO SALA DE AULA INVERTIDA",
+  "instituicao": "UNIVERSIDADE DO ESTADO DE SANTA CATARINA",
+  "cidade": "",
+  "estado": "Santa Catarina",
+  "regiao": "Sul",
+  "orientador": "Elisa Henning",
+  "programa": "ENSINO DE CIÊNCIAS, MATEMÁTICA E TECNOLOGIAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Sala de aula Invertida; Didática; Construção do Conhecimento.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22CONTRIBUI%C3%87%C3%95ES%20PARA%20O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20PARA%20CURSOS%20DE%20GRADUA%C3%87%C3%83O%3A%20UM%20CADERNO%20DID%C3%81TICO%20PARA%20O%20ENSINO%20DE%20INTERVALOS%20DE%20CONFIAN%C3%87A%20APLICANDO%20SALA%20DE%20AULA%20INVERTIDA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CONTRIBUI%C3%87%C3%95ES%20PARA%20O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20PARA%20CURSOS%20DE%20GRADUA%C3%87%C3%83O%3A%20UM%20CADERNO%20DID%C3%81TICO%20PARA%20O%20ENSINO%20DE%20INTERVALOS%20DE%20CONFIAN%C3%87A%20APLICANDO%20SALA%20DE%20AULA%20INVERTIDA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27414574"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "27414574",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Sala de aula Invertida",
+    "Didática",
+    "Construção do Conhecimento."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-27414574.svg",
+  "resumo": "O presente trabalho é o resultado da nossa proposta de pesquisa de mestrado desenvolvida no âmbito do “Programa de Mestrado Profissional em Ensino de Ciências, Matemática e Tecnologias” do Centro de Ciências Tecnológicas – Universidade do Estado de Santa Catarina (UDESC – CCT). O estudo nesta dissertação foi realizado para elaborar um produto educacional, “Caderno Didático” com o objetivo de disponibilizar uma sequência didática aos professores de nível superior ou interessados no tema Educação Estatística, para a aplicação prática de estimação de intervalos de confiança utilizando o método de Sala de Aula Invertida, como estratégia de ensino-aprendizagem, os resultados obtidos compõem o nosso Caderno Didático anexo. A sequência didática elaborada no Caderno Didático dá suporte nas práticas pedagógicas dos professores de forma a que possam alcançar os reais objetivos da Educação Estatística Crítica. O estimulo para este desafio foi de contribuir na melhoria das aulas e da prática do Ensino de Estatística nos cursos de nível superior de engenharia.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

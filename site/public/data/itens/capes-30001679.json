@@ -1,0 +1,62 @@
+{
+  "id": "capes-30001679",
+  "autor": "Marciel Jose do Monte",
+  "ano": 2018,
+  "tipo": "Dissertação",
+  "titulo": "O TRABALHO COM TABELAS E GRÁFICOS COM O AUXÍLIO DO COMPUTADOR NAS ESCOLAS DE REFERÊNCIA EM ENSINO MÉDIO",
+  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Liliane Maria Teixeira Lima de Carvalho",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Tabelas e gráficos; Uso do computador; Ensino Médio; Escolas de Referência em Pernambuco.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20TRABALHO%20COM%20TABELAS%20E%20GR%C3%81FICOS%20COM%20O%20AUX%C3%8DLIO%20DO%20COMPUTADOR%20NAS%20ESCOLAS%20DE%20REFER%C3%8ANCIA%20EM%20ENSINO%20M%C3%89DIO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20TRABALHO%20COM%20TABELAS%20E%20GR%C3%81FICOS%20COM%20O%20AUX%C3%8DLIO%20DO%20COMPUTADOR%20NAS%20ESCOLAS%20DE%20REFER%C3%8ANCIA%20EM%20ENSINO%20M%C3%89DIO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30001679"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30001679",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Tabelas e gráficos",
+    "Uso do computador",
+    "Ensino Médio",
+    "Escolas de Referência em Pernambuco."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30001679.svg",
+  "resumo": "A pesquisa de mestrado objetiva, em termos gerais, analisar como acontece o trabalho com tabelas e gráficos com o auxílio do computador, no âmbito da Educação Estatística, em Escolas de Referência do Ensino Médio – EREM da Gerência Regional – GRE Recife Sul-PE. Tangencialmente, pretendíamos verificar esse trabalho com o uso dos tablets/PC’s do Programa Aluno Conectado – PAC do Governo do Estado de Pernambuco. A pesquisa caracteriza-se como uma abordagem mista de métodos por incluir dados qualitativos e quantitativos. Os dados foram provenientes, num primeiro momento, de questionários realizados com 20 gestores, 3 coordenadores pedagógicos e 23 professores que ensinam Matemática em todas as 23 EREM da Regional; e num segundo momento, de entrevistas com 4 dos professores que haviam respondido no questionário que realizavam, efetivamente, o trabalho com tabelas e gráficos com o uso do computador. Os resultados apontaram que o PAC não existe mais nas escolas pesquisadas, visto que os equipamentos não são mais distribuídos. Inclusive, a maioria dos participantes da pesquisa destacaram problemas de conectividade nas escolas como a principal dificuldade para a implementação desse programa. Os gestores e coordenadores consideram que há um panorama positivo para o trabalho com tabelas e gráficos nessas escolas; todavia, não tinham conhecimento de projetos que fizessem uso de computadores para esse trabalho. O uso do computador na prática desses participantes está mais voltado para o trabalho administrativo; na apresentação de resultados de indicadores da escola em reuniões com a comunidade, por exemplo. Menos de um terço dos 23 professores pesquisados, afirmou realizar, efetivamente, o trabalho com tabelas e gráficos com o auxílio do computador nas suas aulas. A maioria dos professores entende o trabalho com tabelas e gráficos como um importante tópico curricular, devido a sua importância no cotidiano dos alunos, bem como para a coleta, organização e interpretação de dados e informações. Embora considerem relevante o trabalho com esses tópicos no Ensino Médio apoiados pelo uso do computador, eles revelaram que nunca participaram de uma formação continuada nesse sentido. Os quatro professores entrevistados costumam integrar o computador em suas aulas apenas como suporte básico para o uso do Datashow e apresentações em Power Point. Os professores conseguem entender o potencial do trabalho com tabelas e gráficos, como possível instrumento para inclusão social, contudo não implementam essa perspectiva em suas aulas. Concluímos destacando a importância de processos de formação continuada que alie o uso do computador para o trabalho de compreensão conceitual de tópicos de Estatística no Ensino Médio.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

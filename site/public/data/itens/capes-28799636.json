@@ -1,0 +1,62 @@
+{
+  "id": "capes-28799636",
+  "autor": "Homailson Lopes Passos",
+  "ano": 2018,
+  "tipo": "Dissertação",
+  "titulo": "Planejamento de experimentos no ensino da estatística e probabilidade nas séries finais do ensino fundamental II",
+  "instituicao": "ESCOLA DE ENGENHARIA DE LORENA",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Paulo Atsushi Suzuki",
+  "programa": "PROJETOS EDUCACIONAIS DE CIÊNCIAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de estatística e probabilidade; Aprendizagem ativa; Planejamento de experimentos; Teoria clássica dos testes; Teoria de resposta ao item",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Planejamento%20de%20experimentos%20no%20ensino%20da%20estat%C3%ADstica%20e%20probabilidade%20nas%20s%C3%A9ries%20finais%20do%20ensino%20fundamental%20II%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Planejamento%20de%20experimentos%20no%20ensino%20da%20estat%C3%ADstica%20e%20probabilidade%20nas%20s%C3%A9ries%20finais%20do%20ensino%20fundamental%20II&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28799636"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "28799636",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de estatística e probabilidade",
+    "Aprendizagem ativa",
+    "Planejamento de experimentos",
+    "Teoria clássica dos testes",
+    "Teoria de resposta ao item"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-28799636.svg",
+  "resumo": "Este trabalho apresenta uma proposta para o ensino da Estatística e Probabilidade nas séries finais do Ensino Fundamental II. Seu objetivo é mostrar que a metodologia aqui adotada possibilita a aquisição de conceitos estatísticos e probabilísticos, assim como o desenvolvimento de habilidades pessoais e interpessoais. Trata de um projeto fundamentado em Planejamento de Experimentos com respaldo na aprendizagem ativa. Na sequência didática do projeto os alunos realizaram um experimento com aviões de papel no qual tiveram que responder, na prática, a seguinte questão “Quais alterações podem ser feitas em um modelo de avião de papel para que ele permaneça mais tempo no ar?”. Para atestar a efetividade da sequência didática, foi construído e validado um Teste de Proficiência em Estatística e Probabilidade (TEPEP) com base nos fundamentos da Psicometria. A análise das características do teste foi feita através da Teoria Clássica dos Testes e da Teoria de Resposta ao Item. Foram sujeitos da pesquisa 391 alunos de escolas públicas e particulares da região do Vale do Paraíba, Estado de São Paulo. Desse total, 374 auxiliaram na validação do instrumento e os 17 alunos restantes participaram do projeto. Os resultados deste trabalho mostraram que o uso de Planejamento de Experimentos favoreceu a aprendizagem da Estatística e Probabilidade, desenvolvendo também outras competências. Em relação à validação do TEPEP, concluiu-se que os métodos psicométricos empregados têm grande potencial e devem ser mais explorados. Esta pesquisa apresenta, como produtos finais, a metodologia desenvolvida e o teste de proficiência construído, oferecendo ambos a professores e pesquisadores.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística",
+    "ensino de probabilidade"
+  ],
+  "ids_duplicados": []
+}

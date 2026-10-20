@@ -1,0 +1,60 @@
+{
+  "id": "capes-38528972",
+  "autor": "Marcia Herrera Garcia Antonio",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "A investigação como ferramenta para o letramento estatístico: Desafios dos Professores do Ensino Fundamental na Educação Integral",
+  "instituicao": "CENTRO UNIVERSITÁRIO ANHANGUERA DE SÃO PAULO",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Helenara Regina Sampaio Figueiredo",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Práticas experimentais; Programa de ensino integral; Ambiente Investigativo; Letramento Estatístico",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20investiga%C3%A7%C3%A3o%20como%20ferramenta%20para%20o%20letramento%20estat%C3%ADstico%3A%20Desafios%20dos%20Professores%20do%20Ensino%20Fundamental%20na%20Educa%C3%A7%C3%A3o%20Integral%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20investiga%C3%A7%C3%A3o%20como%20ferramenta%20para%20o%20letramento%20estat%C3%ADstico%3A%20Desafios%20dos%20Professores%20do%20Ensino%20Fundamental%20na%20Educa%C3%A7%C3%A3o%20Integral&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38528972"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "38528972",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Práticas experimentais",
+    "Programa de ensino integral",
+    "Ambiente Investigativo",
+    "Letramento Estatístico"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-38528972.svg",
+  "resumo": "O letramento estatístico nos Parâmetros Curriculares Nacionais (PCN) ao tratamento da informação na Base Nacional Comum Curricular (BNCC), esta compõe uma das cinco unidades de conhecimento da Matemática, previstas a partir dos Anos Iniciais do Ensino Fundamental (Brasil, 2018). Nosso objetivo é apresentar uma reflexão sobre o que pensa um grupo de professores dos quintos e sextos anos ministrando aulas de práticas experimentais no Ensino Fundamental em relação aos conhecimentos profissionais e às metodologias necessárias para potencializar a aprendizagem no ambiente investigativo no Ensino Integral para o letramento estatístico. Buscou-se compreender se o material ou método escolhido pelo grupo de professores atende a necessidade do Letramento Estatístico e se o professor tem sistematizado o protocolo de pesquisa para aplicá-lo com os estudantes. Com o intuito de construir uma resposta à questão de investigação, desenvolveu-se uma pesquisa na abordagem qualitativa de natureza descritiva. Participaram do estudo nove professores do Ensino Fundamental que ministram aulas de práticas experimentais em oito escolas no Programa de Ensino Integral. Realizou-se um levantamento bibliográfico, com o objetivo de conhecer o cenário atual do Letramento Estatístico na proposta do Ciclo Investigativo de Wild e Pfannkuch (1999), análise e reflexão dos conteúdos presentes nos documentos curriculares vigentes em nível nacional. Para o estudo, foram utilizados 3 instrumentos no formato questionário, o primeiro caracteriza o público alvo com 4 questões, o segundo questionário com 19 questões, sendo 8 questões sobre o percurso de sua formação e 11 questões de sua relação com o ambiente de pesquisa e o terceiro com 13 questões sobre seus conhecimentos profissionais para o ensino de Letramento Estatístico no ensino investigativo. Os resultados apontaram que o grupo de professores não explorou a investigação no ambiente de práticas experimentais do Programa de Ensino Integral, bem como revelaram a fragilidade na mediação do conhecimento no ambiente pesquisador, não sendo observada a prática de protocolo de pesquisa ou ciclo investigativo. A análise dos dados à luz de Gal (2002), Ball et al. (2008) e Shulman (1986, 2014) indicou que os conhecimentos mobilizados pelos professores para o Letramento Estatístico ainda não são suficientes para apoiar os estudantes no desenvolvimento deste conhecimento. A lacuna encontrada na formação inicial e continuada dos professores nos remete à necessidade de intensificação da formação, proporcionando a vivência reflexiva e dialógica de um ciclo investigativo.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
+}

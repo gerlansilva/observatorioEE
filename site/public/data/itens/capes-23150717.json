@@ -1,0 +1,64 @@
+{
+  "id": "capes-23150717",
+  "autor": "Diogo Pinheiro da Silva",
+  "ano": 2017,
+  "tipo": "Dissertação",
+  "titulo": "A APRENDIZAGEM DE ANÁLISE COMBINATÓRIA NO ENSINO MÉDIO",
+  "instituicao": "UNIVERSIDADE FEDERAL DE ALAGOAS",
+  "cidade": "",
+  "estado": "Alagoas",
+  "regiao": "Nordeste",
+  "orientador": "Ediel Azevedo Guerra",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Aprendizagem; Análise Combinatória; Resolução de Problemas; Sequência Didática; Agrupamentos; Problemas Geradores; Conceitos Básicos; Peculiaridades",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20APRENDIZAGEM%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20NO%20ENSINO%20M%C3%89DIO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20APRENDIZAGEM%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20NO%20ENSINO%20M%C3%89DIO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/23150717"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "23150717",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Aprendizagem",
+    "Análise Combinatória",
+    "Resolução de Problemas",
+    "Sequência Didática",
+    "Agrupamentos",
+    "Problemas Geradores",
+    "Conceitos Básicos",
+    "Peculiaridades"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-23150717.svg",
+  "resumo": "Este trabalho consiste na apresentação dos resultados de uma investigação sobre o processo de ensino e aprendizagem de Análise Combinatória em uma turma do segundo ano do ensino médio de uma escola da rede pública estadual de Alagoas. Para tornar esse estudo possível, foi desenvolvida, aplicada e validada uma sequência didática tendo como base o Princípio Fundamental da Contagem para introduzir os conceitos básicos de Análise Combinatória e como metodologia o ensino-aprendizagem-avaliação de matemática atravésda resolução de problemas. Nesta metodologia, conforme Onuchic (2008), o problema torna-se o ponto de partida no processo, onde a discussão em grupo e as interações são peças relevantes para atingir a formalização do(s) conceito(s). Para a construção das questões usadas na sequência, foi realizado um estudo breve acerca de quatro eixos importantes e um teste-diagnóstico com o propósito de identificar os conhecimentos prévios dos alunos com base na Zona de Desenvolvimento Proximal de Vygotsky. Esses eixos foram os seguintes: Conceitos Básicos de Análise Combinatória, Resolução de Problemas, Análise Didática e Levantamento Bibliográfico. A validação pôde ser realizada com a verificação dos protocolos de resolução dos problemas propostos associados com as etapas descritas na sequência. Os resultados mostraram que a sequência didática contribuiu para a internalização dos conceitos básicos do objeto matemático em destaque e para a reflexão acerca das dificuldades ou particularidades surgidas durante sua execução.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de combinatória"
+  ],
+  "ids_duplicados": []
+}

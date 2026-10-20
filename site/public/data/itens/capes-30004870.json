@@ -1,0 +1,60 @@
+{
+  "id": "capes-30004870",
+  "autor": "Cristiane de Arimatea Rocha",
+  "ano": 2019,
+  "tipo": "Tese",
+  "titulo": "ESTUDO DE COMBINATÓRIA NO ENSINO MÉDIO À LUZ DO ENFOQUE ONTOSSEMIÓTICO: o que e por que priorizar no livro didático e nas aulas?",
+  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Rute Elizabete de Souza Rosa Borba",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Combinatória; Ensino Médio; Adequação didática; Trajetória didática",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ESTUDO%20DE%20COMBINAT%C3%93RIA%20NO%20ENSINO%20M%C3%89DIO%20%C3%80%20LUZ%20DO%20ENFOQUE%20ONTOSSEMI%C3%93TICO%3A%20o%20que%20e%20por%20que%20priorizar%20no%20livro%20did%C3%A1tico%20e%20nas%20aulas%3F%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESTUDO%20DE%20COMBINAT%C3%93RIA%20NO%20ENSINO%20M%C3%89DIO%20%C3%80%20LUZ%20DO%20ENFOQUE%20ONTOSSEMI%C3%93TICO%3A%20o%20que%20e%20por%20que%20priorizar%20no%20livro%20did%C3%A1tico%20e%20nas%20aulas%3F&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30004870"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30004870",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Combinatória",
+    "Ensino Médio",
+    "Adequação didática",
+    "Trajetória didática"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30004870.svg",
+  "resumo": "Essa pesquisa teve por objetivo analisar diferentes movimentos intencionais que podem ser priorizados pelo professor no processo de ensino e aprendizagem de Combinatória no Ensino Médio. Salienta-se que o professor participante foi escolhido porque em estudo anterior apresentou conhecimento especializado de Combinatória. Nessa perspectiva, analisaram-se os capítulos de Combinatória em dois livros e seis aulas de Combinatória no Ensino Médio utilizando ferramentas teórico-metodológicas do Enfoque Ontossemiótico da Instrução e Conhecimento Matemáticos (EOS). Da análise dos capítulos, derivou-se que os mesmos priorizaram, em sessões separadas, os conceitos de arranjo, combinação, permutação, permutação com elementos idênticos e fatorial, enquanto que os problemas denominados de produtos de medidas, arranjo com repetição e permutação circular são implicitamente abordados. Esse fato, não permite a identificação do tipo de problema combinatório por parte dos alunos, já que existem sessões específicas por tipo de problema. A ênfase dos invariantes do conceito envolveram as propriedades de ordenação e de simplificação de fatorial, tratando de modo tácito as demais propriedades, o que deixa para o professor a função de explicá-las. Foi constatada a preferência nas conversões entre linguagem natural e fórmulas, o que diminuiu a presença de procedimentos enumerativos e numéricos (PFC), suprimindo a elaboração de estratégias pessoais de resolução. Foi verificado a utilização de argumentação do tipo indutiva, com grau nulo, o que sugere a necessidade de textos mais questionadores nos capítulos do que apenas informativos. Na análise das aulas, a presente pesquisa apresentou a descrição do processo de ensino e aprendizagem implementado, discutindo e classificando as configurações didáticas apresentadas, as ênfases realizadas pelos movimentos intencionais do professor nas trajetórias didáticas, bem como a valoração de indicadores da adequação didática das aulas de Combinatória. Constatou-se que os movimentos intencionais desse professor priorizaram na trajetória epistêmica acertadamente os estados procedimentais e argumentativos. Já na trajetória docente, privilegiaram a regulação, motivação e atribuição de tarefas – o que denotou sua preocupação com acompanhamento do processo realizado pelos estudantes, de modo que implementou na trajetória discente comportamentos como a argumentação, procura pela informação e exploração. Na trajetória cognitiva foram identificados conflitos semióticos nas falas dos estudantes na utilização dos invariantes de ordenação e repetição e na compreensão de contextos dos problemas. Na interação professor-alunos observaram-se padrões que incitaram a participação e a responsabilidade dos estudantes na resolução de problemas. A valoração dos indicadores da adequação didática sugeriu que os movimentos intencionais do professor garantiram o enriquecimento do processo de ensino e aprendizagem de Combinatória no Ensino Médio implementado, priorizando a explicitação de procedimentos numéricos (PFC) em detrimento aos algorítmicos (fórmulas); a autonomia dos alunos na construção de resoluções próprias para os problemas combinatórios; bem como a presença de argumentos de alunos sobre essa resolução, possibilitando a seleção de variados tipos de situações; o acompanhamento da resolução desses problemas pelos estudantes na íntegra, sem a necessidade inicial de nomenclaturas, ou apresentação de fórmulas; proporcionando a exploração do processo de construção do raciocínio combinatório; aprendendo com as dúvidas e as incertezas existentes e promovendo a responsabilidade dos estudantes no próprio processo aprendizagem de Combinatória no Ensino Médio.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de combinatória"
+  ],
+  "ids_duplicados": []
+}

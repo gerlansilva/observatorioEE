@@ -1,0 +1,63 @@
+{
+  "id": "capes-36870793",
+  "autor": "Gaudencio Almeida Costa Junior",
+  "ano": 2022,
+  "tipo": "Dissertação",
+  "titulo": "INVESTIGAÇÃO MATEMÁTICA: contribuições ao letramento estatístico de alunos do 5º Ano do Ensino Fundamental",
+  "instituicao": "UNIVERSIDADE FEDERAL DO PARÁ",
+  "cidade": "",
+  "estado": "Pará",
+  "regiao": "Norte",
+  "orientador": "Josete Leal Dias",
+  "programa": "Docência em Educação em Ciências e Matemáticas",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação estatística; investigação matemática; letramento estatístico; anos iniciais do Ensino Fundamental.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22INVESTIGA%C3%87%C3%83O%20MATEM%C3%81TICA%3A%20contribui%C3%A7%C3%B5es%20ao%20letramento%20estat%C3%ADstico%20de%20alunos%20do%205%C2%BA%20Ano%20do%20Ensino%20Fundamental%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=INVESTIGA%C3%87%C3%83O%20MATEM%C3%81TICA%3A%20contribui%C3%A7%C3%B5es%20ao%20letramento%20estat%C3%ADstico%20de%20alunos%20do%205%C2%BA%20Ano%20do%20Ensino%20Fundamental&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36870793"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "36870793",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação estatística",
+    "investigação matemática",
+    "letramento estatístico",
+    "anos iniciais do Ensino Fundamental."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-36870793.svg",
+  "resumo": "Nesta pesquisa, busca-se contribuir com o debate a respeito da Investigação Matemática para a aprendizagem da Educação Estatística nos Anos Iniciais do Ensino Fundamental. Para tanto, desenvolveu-se uma investigação com o objetivo de identificar que aspectos do letramento estatístico se manifestam em uma aula com investigação matemática para alunos do 5º Ano do Ensino Fundamental. A pesquisa, com abordagem qualitativa, do tipo exploratória, ocorreu em uma escola pública da rede municipal de ensino do município de Ananindeua, Pará. Para a vivência da investigação matemática como metodologia de ensino, utilizou-se uma tarefa de investigação matemática com 19 alunos de uma turma do 5º Ano do Ensino Fundamental, que são os sujeitos desta pesquisa. Como instrumento para a produção de dados, foram feitas gravações de áudios das aulas, registros fotográficos, diário de campo e registros feitos pelos alunos durante as aulas. Para analisar as informações, utilizou-se referenciais da Investigação matemática e letramento estatístico juntamente com o que sugere a Base Nacional Comum Curricular (BNCC), no que se refere às habilidades para a unidade temática Probabilidade e Estatística indicadas para este nível de ensino, buscando-se averiguar a categorização de literacia estatística, por meio da qual observou-se as contribuições da investigação matemática para favorecer o desenvolvimento dessas características (elementos de conhecimento e elementos de disposição). Como resultado, foi possível identificar o desenvolvimento das habilidades citadas e percepção de indícios a respeito da eficiência da investigação matemática como metodologia de ensino para a Educação Estatística nos Anos Iniciais, entre as quais destaca-se: a de ser um contexto que favorece o desenvolvimento de habilidades e proporciona o acionamento de conhecimentos característicos do letramento estatístico.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": [
+    "40546043"
+  ]
+}

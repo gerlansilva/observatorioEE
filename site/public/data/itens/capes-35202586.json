@@ -1,0 +1,58 @@
+{
+  "id": "capes-35202586",
+  "autor": "Jemima Rodrigues de Siqueira",
+  "ano": 2021,
+  "tipo": "Dissertação",
+  "titulo": "MEDIDAS DE TENDÊNCIA CENTRAL E DISPERSÃO: uma abordagem com alunos da 3ª série do Ensino Médio",
+  "instituicao": "UNIVERSIDADE FEDERAL DE SÃO CARLOS",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Rogerio Fernando Pires",
+  "programa": "ENSINO DE CIÊNCIAS EXATAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação estatística. Estatística. Letramento estatístico. Medidas de tendência central. Medidas de dispersão.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22MEDIDAS%20DE%20TEND%C3%8ANCIA%20CENTRAL%20E%20DISPERS%C3%83O%3A%20uma%20abordagem%20com%20alunos%20da%203%C2%AA%20s%C3%A9rie%20do%20Ensino%20M%C3%A9dio%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=MEDIDAS%20DE%20TEND%C3%8ANCIA%20CENTRAL%20E%20DISPERS%C3%83O%3A%20uma%20abordagem%20com%20alunos%20da%203%C2%AA%20s%C3%A9rie%20do%20Ensino%20M%C3%A9dio&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35202586"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "35202586",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação estatística. Estatística. Letramento estatístico. Medidas de tendência central. Medidas de dispersão."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-35202586.svg",
+  "resumo": "Esta pesquisa visa investigar as implicações de uma sequência de ensino que coloca o estudante como protagonista do processo de ensino e aprendizagem envolvendo o estudo de Medidas de Tendência Central e Medidas de Dispersão. Esta experimentação foi fundamentada principalmente nas ideias de Paulo Freire, Vygotski e Iddo Gal, respectivamente. A pesquisa de cunho qualitativo, contou com a participação de 35 alunos da 3a série do Ensino Médio do período noturno de uma escola da rede pública estadual, localizada no município de Araçariguama/SP. Os alunos foram responsáveis em coletar as informações, realizar um levantamento de dados entre os próprios estudantes da turma, a partir de temas voltados ao seu cotidiano, que eram suscetíveis a tabulação. A partir da análise foi possível constatar que a realização de uma sequência de atividades diferenciada, participativa e contextualizada com a realidade dos estudantes valoriza o envolvimento e a autonomia dos alunos. Também foi possível evitar o uso de fórmulas prontas, no processo de ensino e aprendizagem envolvendo o estudo de Medidas de Tendência Central e Medidas de Dispersão, fator que contribuiu na construção do conhecimento.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
+}

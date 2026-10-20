@@ -1,0 +1,59 @@
+{
+  "id": "capes-28167225",
+  "autor": "Adriana Oliveira Almeida",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "CHARTHAND: aplicativo móvel para Android como ferramenta de apoio ao processo de aprendizagem de probabilidade no ensino superior",
+  "instituicao": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Tania Fernandes Bogutchi",
+  "programa": "ENSINO",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Estatística. Educação Matemática. Tecnologias no Ensino. Aplicativo móvel. ChartHand.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22CHARTHAND%3A%20aplicativo%20m%C3%B3vel%20para%20Android%20como%20ferramenta%20de%20apoio%20ao%20processo%20de%20aprendizagem%20de%20probabilidade%20no%20ensino%20superior%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CHARTHAND%3A%20aplicativo%20m%C3%B3vel%20para%20Android%20como%20ferramenta%20de%20apoio%20ao%20processo%20de%20aprendizagem%20de%20probabilidade%20no%20ensino%20superior&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28167225"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "28167225",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Estatística. Educação Matemática. Tecnologias no Ensino. Aplicativo móvel. ChartHand."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-28167225.svg",
+  "resumo": "A busca por melhorias nos processos de ensino e aprendizagem tornou-se uma necessidade nos últimos anos. Mudanças na sociedade e avanços tecnológicos, exigem das instituições de ensino e dos professores a inserção de novas técnicas e ferramentas capazes de auxiliar na construção do conhecimento. A estatística e a probabilidade estão presentes em diversos currículos de cursos de graduação, e na engenharia essa necessidade é bastante evidente. Com vistas a isso, foi desenvolvida uma pesquisa-ação em conformidade com a revisão bibliográfica efetivada. Este trabalho apresenta a criação de um aplicativo para dispositivos móveis, cuja finalidade é tornar o processo de ensino e aprendizagem na área da estatística mais atraente. O projeto foi desenvolvido para dispositivos móveis da plataforma Android, através da estrutura Ionic Framework, além da ferramenta Visual Studio Code. O uso desse aplicativo tem como apoio uma sequência didática conforme estudos de Zabala (2010) e que foi elaborada com problemas sobre distribuição de probabilidades discretas e contínuas. O aplicativo criado, denominado ChartHand, foi avaliado nos cursos de engenharia da Faculdade de Ciência e Tecnologia de Montes Claros, por estudantes de engenharia que o utilizaram em seus smartphones e tablets durante as aulas da disciplina Estatística, com acompanhamento da professora-participante. Após o período de avaliação do aplicativo, os acadêmicos relataram algumas melhorias, principalmente no layout e tutoriais de ajuda, que serão implementadas e tratadas na revisão das suas funcionalidades. Mediante a este estudo, foi possível apurar que novas ferramentas digitais podem contribuir para o ensino de probabilidade, e o aplicativo ChartHand atendeu aos objetivos propostos de auxiliar no processo de ensino e aprendizagem, pois os participantes da pesquisa aprovaram praticamente todos os quesitos da pesquisa de satisfação com conceitos bom e ótimo.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística",
+    "ensino de probabilidade"
+  ],
+  "ids_duplicados": []
+}

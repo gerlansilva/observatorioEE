@@ -1,0 +1,57 @@
+{
+  "id": "capes-11959359",
+  "autor": "Antonio Carlos de Souza",
+  "ano": 2013,
+  "tipo": "Tese",
+  "titulo": "O desenvolvimento profissional de Educadoras da Infância: uma aproximação à Educação Estatística",
+  "instituicao": "UNIVERSIDADE CRUZEIRO DO SUL",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Celi Aparecida Espasandin Lopes",
+  "programa": "ENSINO DE CIÊNCIAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação estatística, Educação matemática, Educação infantil, Formação de professores, Desenvolvimento profissional.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20desenvolvimento%20profissional%20de%20Educadoras%20da%20Inf%C3%A2ncia%3A%20uma%20aproxima%C3%A7%C3%A3o%20%C3%A0%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20desenvolvimento%20profissional%20de%20Educadoras%20da%20Inf%C3%A2ncia%3A%20uma%20aproxima%C3%A7%C3%A3o%20%C3%A0%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/11959359"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "11959359",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação estatística, Educação matemática, Educação infantil, Formação de professores, Desenvolvimento profissional."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-11959359.svg",
+  "resumo": "Esta pesquisa, de cunho qualitativo, foi realizada com a participação de um grupo formado por seis professoras que lecionam para a Educação Infantil e para o primeiro ano do Ensino Fundamental, em algumas escolas das redes municipais de Educação das cidades de Suzano e de Mogi das Cruzes, ambas no estado de São Paulo. Seu objetivo foi investigar como o grupo de estudos pode possibilitar a ampliação do conhecimento profissional das professoras aproximando-as da Educação Estatística; verificar quais indícios de aprendizagem profissional elas revelam durante a participação no grupo de estudos; e identificar quais práticas existentes foram mais potencializadoras de aprendizagem. Tais objetivos foram delineados para responder a questão: quais contribuições um processo de aprendizagem docente centrado na reflexão sobre a prática, pode trazer a inclusão da Educação Estatística na Infância? A partir de resolução de problemas, experimentos e simulações sobre Probabilidade, Combinatória e Estatística, os encontros do grupo, os textos e suas discussões, e as atividades experenciadas evidenciaram uma importante prática potencializadora de aprendizagem. Foram oportunidades criadas para que elas tivessem voz; partilhassem dúvidas, medos, alegrias e sucessos; e pudessem dispor de um espaço de criação. Os dados foram construídos a partir de entrevistas, de registros em áudio e vídeo, de registros fotográficos e de registros escritos (diário de campo). Além disso, também foram consideradas as atividades realizadas pelas professoras e seus alunos, ao longo de dez encontros e em suas salas de aula. O processo de análise dos dados fez emergir duas categorias: construção de saberes e aprendizagem com a prática. A primeira se pautou nos indícios de saberes construídos no movimento entre os pares no grupo e com os alunos em sala de aula. Na segunda categoria, a ênfase foi sobre os indícios de aprendizagens apresentados pelas professoras ao utilizarem atividades oriundas de materiais de apoio e/ou consulta e indícios de aprendizagens decorrentes de atividades elaboradas e realizadas com os alunos. Ao longo deste estudo, verificou-se que a participação no grupo contribuiu para a ampliação de seus conhecimentos profissionais e proporcionou uma aproximação à Educação Estatística, uma vez puderam compartilhar experiências; tiveram seu trabalho valorizado e valorizaram o de seus pares; expuseram seus pensamentos e emoções sobre o que ainda não conheciam e/ou se sentiam incapazes de fazer; e refletiram sobre sua prática, acarretando em transformações.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
+}

@@ -1,0 +1,61 @@
+{
+  "id": "capes-20391740",
+  "autor": "Ulisses Vieira Guimaraes",
+  "ano": 2015,
+  "tipo": "Tese",
+  "titulo": "Estudo das interações entre estudantes do 4º ano do Ensino Fundamental e noções de probabilidade mediada pela maquete tátil",
+  "instituicao": "Universidade Anhanguera de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Tania Maria Mendonca Campos",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Conceitos básicos de Probabilidade; Maquete tátil, Análise Instrumental; Letramento Probabilístico; Ensino Fundamental.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Estudo%20das%20intera%C3%A7%C3%B5es%20entre%20estudantes%20do%204%C2%BA%20ano%20do%20Ensino%20Fundamental%20e%20no%C3%A7%C3%B5es%20de%20probabilidade%20mediada%20pela%20maquete%20t%C3%A1til%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estudo%20das%20intera%C3%A7%C3%B5es%20entre%20estudantes%20do%204%C2%BA%20ano%20do%20Ensino%20Fundamental%20e%20no%C3%A7%C3%B5es%20de%20probabilidade%20mediada%20pela%20maquete%20t%C3%A1til&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20391740"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "20391740",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Conceitos básicos de Probabilidade",
+    "Maquete tátil, Análise Instrumental",
+    "Letramento Probabilístico",
+    "Ensino Fundamental."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-20391740.svg",
+  "resumo": "Tem-se como objetivo nesta pesquisa analisar as interações que emergem quando estudantes do 4º ano do ensino fundamental, mediados pela Maquete Tátil, solucionam tarefas envolvendo conceitos básicos de Probabilidade. Foram utilizados como alicerces teóricos para a construção desta pesquisa, o modelo de letramento probabilístico proposto por Gal e a Teoria da Instrumentação proposta por Rabardel. A maquete tátil (I) utilizada é composta por tarefas da sequência de ensino Os Passeios Aleatórios do Jefferson e por peças. Os sujeitos da pesquisa (S) foram 17 estudantes, distribuídos em sete duplas e um trio, regularmente matriculados no 4º ano do ensino fundamental em uma escola pública do distrito de Tapirama, localizado no município de Gongogi-BA. A coleta de dados aconteceu no segundo semestre letivo de 2014 em um único encontro de 4 horas/aula, no turno vespertino, na própria sala de aula, e foi dividida em dois blocos. O primeiro, denominado Os Passeios Aleatórios do Coelhinho, objetivou abordar, informalmente e de maneira contextualizada, os conceitos de chance, aleatoriedade e equiprobabilidade e, o segundo bloco, a realização das tarefas da sequência de ensino Os Passeios Aleatórios do Jefferson. Com essa última sequência de ensino é possível abordar os seguintes conceitos básicos de Probabilidade (O): espaço amostral, eventos simples e compostos, probabilidade de eventos simples e compostos, situação determinística, experimento aleatório, frequências esperadas e observadas, padrões observados e esperados, mas salienta-se que nessa pesquisa esses conceitos foram apenas tratados de maneira informal com os estudantes. Os dados foram coletados por meio de filmagens, áudio-gravação, fotografias, sendo que, durante a aplicação das tarefas da sequência de ensino Os Passeios Aleatórios do Jefferson, foram coletados também registros escritos. Para cada atividade dos dois blocos, foram organizadas as categorias de análise a partir das relações entre os polos do modelo das Situações de Atividades Instrumentadas adaptado para essa tese, isto é, as relações: [S-O], [S-I], [S-(I)-O] e [I-O]. Os resultados da análise instrumental apontam que foi importante a utilização da maquete para motivar os estudantes, auxiliar o registro dos resultados, facilitar processos de descobertas, auxiliar na memorização de procedimentos, percepção de propriedades. Ressalta-se também que a análise instrumental permitiu a partir do olhar sobre as interações, conhecer de forma mais ampla todos os polos da pesquisa, concluindo que as escolhas iniciais da maquete tátil enquanto instrumento mediador, os conceitos básicos de Probabilidade como objeto matemático a ser investigado e os estudantes do quarto ano do ensino fundamental como sujeitos da aprendizagem foram realmente adequadas, bem como, atestar a viabilidade do uso desta maquete em escolas da rede pública de ensino em sala de aula regular, incorporando, à mesma, as modificações sugeridas ou indicadas por essa pesquisa. Espera-se que os resultados desse estudo possam contribuir com pesquisas que envolvam o trabalho com crianças e Probabilidade no âmbito da área Educação Matemática.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "letramento probabilístico",
+    "ensino de probabilidade"
+  ],
+  "ids_duplicados": []
+}

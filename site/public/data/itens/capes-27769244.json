@@ -1,0 +1,59 @@
+{
+  "id": "capes-27769244",
+  "autor": "Daniela da Rosa Teza",
+  "ano": 2018,
+  "tipo": "Dissertação",
+  "titulo": "O ENSINO DO RACIOCÍNIO COMBINATÓRIO: CONSIDERAÇÕES A PARTIR DO MOVIMENTO HISTÓRICO E LÓGICO",
+  "instituicao": "UNIVERSIDADE FEDERAL DO PARANÁ",
+  "cidade": "",
+  "estado": "Paraná",
+  "regiao": "Sul",
+  "orientador": "Maria Lucia Panossian",
+  "programa": "Educação em Ciências e em Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Raciocínio Combinatório; Teoria Histórico-Cultural; Movimento histórico e lógico",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ENSINO%20DO%20RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO%3A%20CONSIDERA%C3%87%C3%95ES%20A%20PARTIR%20DO%20MOVIMENTO%20HIST%C3%93RICO%20E%20L%C3%93GICO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ENSINO%20DO%20RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO%3A%20CONSIDERA%C3%87%C3%95ES%20A%20PARTIR%20DO%20MOVIMENTO%20HIST%C3%93RICO%20E%20L%C3%93GICO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27769244"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "27769244",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Raciocínio Combinatório",
+    "Teoria Histórico-Cultural",
+    "Movimento histórico e lógico"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-27769244.svg",
+  "resumo": "Esta pesquisa teve como objetivo observar e investigar as relações que podem ser estabelecidas entre o movimento histórico e lógico do raciocínio combinatório e a organização do seu ensino, considerando as situações propostas em livros didáticos. Portanto, trata-se de uma pesquisa documental. Para atingir esse objetivo, a metodologia traçada orienta-se pelos pressupostos da Teoria da Atividade, da Teoria Histórico-Cultural e da Atividade Orientadora de Ensino. Considerando como ponto de partida a revisão de literatura realizada acerca do ensino do raciocínio combinatório sobre o que pesquisadores vêm descobrindo e concluindo e, os documentos curriculares oficiais como Base Nacional Comum Curricular (BNCC), Parâmetros Curriculares Nacionais (PCN) e Diretrizes Curriculares Estaduais do Paraná (DCE) indicam sobre o ensino do raciocínio combinatório, em linhas gerais, as ações metodológicas traçadas foram: reconhecer características de situações de ensino que envolvem análise combinatória e raciocínio combinatório propostas em livros didáticos aprovados pelo Plano Nacional do Livro Didático (PNLD) de 2017 de matemática dos anos finais do ensino fundamental considerando o guia do PNLD 2017; estudar o movimento histórico e lógico do raciocínio combinatório à luz da Teoria Histórico-Cultural e da Teoria da Atividade e por fim, aprimorar situações de ensino presentes nos livros didáticos visando a promoção do desenvolvimento do raciocínio combinatório. Estas situações, foram selecionadas a partir de sinais previamente estabelecidos e, foram aprimoradas para contemplar a presença dos indícios do movimento histórico e lógico tornando-as uma situação desencadeadora de aprendizagem. Assim, compreende-se que as situações que tinham características técnicas e mecanicistas tornam-se significativas para os estudantes pois motiva-os e ainda, desenvolve seu pensamento teórico a partir da necessidade do raciocínio combinatório reconhecida em seu movimento histórico e lógico.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "raciocínio combinatório"
+  ],
+  "ids_duplicados": []
+}

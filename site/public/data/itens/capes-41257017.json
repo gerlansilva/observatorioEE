@@ -1,0 +1,60 @@
+{
+  "id": "capes-41257017",
+  "autor": "Francisco Guimaraes de Assis",
+  "ano": 2024,
+  "tipo": "Tese",
+  "titulo": "CONTRIBUIÇÕES DIDÁTICO-PEDAGÓGICAS DE UMA FORMAÇÃO CONTINUADA DE PROFESSORES PARA O DESENVOLVIMENTO DOS PENSAMENTOS PROBABILÍSTICO E ESTATÍSTICO DOS ALUNOS DOS ANOS INICIAIS DO ENSINO FUNDAMENTAL",
+  "instituicao": "UNIVERSIDADE LUTERANA DO BRASIL",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Claudia Lisete Oliveira Groenwald",
+  "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Formação Continuada de Professores; Probabilidade e Estatística; Educação Matemática; Anos Iniciais.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22CONTRIBUI%C3%87%C3%95ES%20DID%C3%81TICO-PEDAG%C3%93GICAS%20DE%20UMA%20FORMA%C3%87%C3%83O%20CONTINUADA%20DE%20PROFESSORES%20PARA%20O%20DESENVOLVIMENTO%20DOS%20PENSAMENTOS%20PROBABIL%C3%8DSTICO%20E%20ESTAT%C3%8DSTICO%20DOS%20ALUNOS%20DOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CONTRIBUI%C3%87%C3%95ES%20DID%C3%81TICO-PEDAG%C3%93GICAS%20DE%20UMA%20FORMA%C3%87%C3%83O%20CONTINUADA%20DE%20PROFESSORES%20PARA%20O%20DESENVOLVIMENTO%20DOS%20PENSAMENTOS%20PROBABIL%C3%8DSTICO%20E%20ESTAT%C3%8DSTICO%20DOS%20ALUNOS%20DOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41257017"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "41257017",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Formação Continuada de Professores",
+    "Probabilidade e Estatística",
+    "Educação Matemática",
+    "Anos Iniciais."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-41257017.svg",
+  "resumo": "A formação continuada dos professores que ensinam Matemática nos anos iniciais do Ensino Fundamental é um dos temas que tem sido amplamente debatido no meio educacional, que destaca a necessidade desses profissionais aprofundarem seus conhecimentos didáticos, como sendo um dos aspectos que contribui para que eles adotem práticas pedagógicas inovadoras e diferenciadas que podem mobilizar a aprendizagem dos estudantes. Nesse sentido, defende-se nesta tese a necessidade de oportunizar aos professores a ampliação dos seus conhecimentos, aprofundando os que já possuem, principalmente sobre os conteúdos e sobre as questões metodológicas que envolvem os conceitos de Probabilidade e Estatística. Sob esse enfoque, apresenta-se nesta tese os resultados de uma pesquisa implementada no ano de 2023, em uma rede de ensino pública municipal, localizada no estado da Paraíba, cujo objetivo geral foi investigar as contribuições de uma formação continuada de professores, para que estes adotem estratégias de ensino que possibilitam o desenvolvimento dos Pensamentos Probabilístico e Estatístico dos estudantes dos anos iniciais do Ensino Fundamental. Assim, implementou-se uma formação continuada, desenvolvida de forma colaborativa, para os professores que atuam nessa etapa escolar nas escolas da rede ensino investigada. Os dados obtidos foram analisados sob a perspectiva da abordagem qualitativa, haja vista que se tratou de um estudo de caso, considerando, principalmente, as ideias de Lüdke e André (1986), Curi (2005), Costa (2008), Andrade (2010), Bicudo (2013), Silva e Cabral (2016) e Miola (2021). Vale ressaltar que essa metodologia foi adotada pelo fato dela possibilitar o entendimento sobre a natureza dos dados que foram coletados, bem como sobre o sentido e os significados que os professores participantes dão ao processo formativo. Considerando as falas dos sujeitos, que afirmaram ter dificuldades de desenvolver aulas que abordam os objetos de conhecimento relativos a unidade temática Probabilidade e Estatística, as quais são confirmadas por outras pesquisas que dão base teórica a essa investigação, destaca-se, como um dos resultados, a importância de uma formação continuada discutir temas relativos a esses assuntos, como forma de potencializar, qualificar e mobilizar a prática docente desses profissionais, com vistas ao desenvolvimento dos Pensamentos Probabilístico e Estatístico dos estudantes. Além disso, enfatiza-se a necessidade dessa formação ocorrer de maneira articulada entre os conhecimentos didáticos, curriculares, teóricos e práticos, a partir das características pessoais, cognitivas, contextuais e relacionais de cada um dos envolvidos.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
+}

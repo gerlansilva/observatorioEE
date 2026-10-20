@@ -1,0 +1,61 @@
+{
+  "id": "capes-41423516",
+  "autor": "Jaqueline de Oliveira Costa",
+  "ano": 2024,
+  "tipo": "Dissertação",
+  "titulo": "O ENSINO DE ESTATÍSTICA EM LIVROS DIDÁTICOS DE PROJETOS INTEGRADORES: UMA ANÁLISE NA PERSPECTIVA DE LETRAMENTO ESTATÍSTICO",
+  "instituicao": "UNIVERSIDADE FEDERAL DO ABC",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Danusa Munford",
+  "programa": "Ensino e História das Ciências e da Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Letramento Estatístico; Livros Didáticos",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20EM%20LIVROS%20DID%C3%81TICOS%20DE%20PROJETOS%20INTEGRADORES%3A%20UMA%20AN%C3%81LISE%20NA%20PERSPECTIVA%20DE%20LETRAMENTO%20ESTAT%C3%8DSTICO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20EM%20LIVROS%20DID%C3%81TICOS%20DE%20PROJETOS%20INTEGRADORES%3A%20UMA%20AN%C3%81LISE%20NA%20PERSPECTIVA%20DE%20LETRAMENTO%20ESTAT%C3%8DSTICO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41423516"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "41423516",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Letramento Estatístico",
+    "Livros Didáticos"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-41423516.svg",
+  "resumo": "Este estudo tem o propósito de investigar as formas como as obras de Projetos Integradores promovem o enfrentamento das armadilhas descritas por Cazorla & Castro (2008), de modo colaborar para o Letramento Estatístico. O estudo foi orientado por abordagem qualitativa de pesquisa. Foi realizado um levantamento das obras de Projetos Integradores aprovados no Programa Nacional do Livro Didático de 2024 e uma seleção dos seus projetos com a finalidade de buscar uma diversidade em relação a temáticas e outros aspectos para a delimitação no corpus. A análise textual envolveu quatro projetos integradores, com foco em como diversas armadilhas de dados foram abordadas nos projetos, que envolveram estratégias diversas. Notou-se que alguns projetos apresentaram uma abordagem com foco na ampliação de um repertório para a leitura de dados, sendo que outros trouxeram também uma abordagem dando visibilidade à indagação e à criticidade. Os resultados têm implicações para seleção e avaliação de materiais didáticos.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
+}

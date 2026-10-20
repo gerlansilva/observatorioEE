@@ -1,0 +1,60 @@
+{
+  "id": "capes-29989354",
+  "autor": "Pablo Ricardo Cardoso",
+  "ano": 2018,
+  "tipo": "Dissertação",
+  "titulo": "PROGRAMA ETNOMATEMÁTICA E ESTUDOS SURDOS: INTERLOCUÇÕES NA EDUCAÇÃO ESTATÍSTICA DE ALUNOS SURDOS EM UMA ESCOLA PÚBLICA INCLUSIVA",
+  "instituicao": "UNIVERSIDADE FEDERAL DE OURO PRETO",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Edmilson Minoru Torisu",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Matemática; Educação Estatística; Estudos Surdos; Programa Etnomatemática.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22PROGRAMA%20ETNOMATEM%C3%81TICA%20E%20ESTUDOS%20SURDOS%3A%20INTERLOCU%C3%87%C3%95ES%20NA%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20DE%20ALUNOS%20SURDOS%20EM%20UMA%20ESCOLA%20P%C3%9ABLICA%20INCLUSIVA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PROGRAMA%20ETNOMATEM%C3%81TICA%20E%20ESTUDOS%20SURDOS%3A%20INTERLOCU%C3%87%C3%95ES%20NA%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20DE%20ALUNOS%20SURDOS%20EM%20UMA%20ESCOLA%20P%C3%9ABLICA%20INCLUSIVA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29989354"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "29989354",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Matemática",
+    "Educação Estatística",
+    "Estudos Surdos",
+    "Programa Etnomatemática."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-29989354.svg",
+  "resumo": "O objetivo desse estudo é investigar as contribuições de um conjunto de atividades voltadas à Educação Estatística de estudantes Surdos e ouvintes. Essas atividades foram desenvolvidas durante treze encontros numa turma de terceiro ano do Ensino Médio de uma escola pública estadual da cidade de Belo Horizonte. As atividades foram elaboradas com o propósito de desenvolver a literacia, o raciocínio e o pensamento estatístico dos estudantes. Além da Educação Estatística, dois outros campos de investigação compuseram a fundamentação teórica desse estudo: os Estudos Surdos em educação e o Programa Etnomatemática. Como instrumentos de coleta de dados foram utilizados: observação dos alunos Surdos e ouvintes durante oito aulas, diário de campo, questionários inicial e final com os oitos alunos Surdos, entrevistas com a intérprete de Libras e com os dois professores de Matemática que trabalharam com a turma, registro dos treze encontros em áudio e vídeo e registro documental da produção dos estudantes Surdos. A metodologia adotada foi a pesquisa-ação com observação participante. Os resultados mostram que a dimensão política da Etnomatemática está presente na educação de Surdos e que as relações entre Surdos e ouvintes e entre professor e estudante Surdos sofre por causa da alienação dos profissionais da educação a respeito das particularidades da surdez e da Cultura Surda. Além disso, os resultados se alinham às discussões dos Estudos Surdos, uma vez que apontam as potencialidades dos estudantes Surdos, a necessidade de se repensar o currículo e a importância da valorização da Libras na comunidade escolar. Por fim, os resultados também trouxeram contribuições relacionadas à Educação Estatística dos estudantes Surdos. Esses alunos demonstraram criticidade ao discutir a origem e a veracidade de dados estatísticos, confrontar informações apresentadas em gráficos com a realidade à sua volta e discutir o significado de dados estatísticos. A partir dessa pesquisa, um produto educacional foi construído para descrever as atividades estatísticas, divulgar os resultados e oferecer sugestões a professores que trabalhem em turmas de alunos Surdos e ouvintes.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "capes-19792457",
+  "autor": "Geraldo Bull da Silva Junior",
+  "ano": 2014,
+  "tipo": "Tese",
+  "titulo": "O Ensino de Estatística na Formação Inicial do Engenheiro de Produção",
+  "instituicao": "UNIVERSIDADE CRUZEIRO DO SUL",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Celi Aparecida Espasandin Lopes",
+  "programa": "ENSINO DE CIÊNCIAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino Superior, Engenharia de Produção, Ensino de Estatística, Formação Inicial, Análise de Conteúdo.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20Ensino%20de%20Estat%C3%ADstica%20na%20Forma%C3%A7%C3%A3o%20Inicial%20do%20Engenheiro%20de%20Produ%C3%A7%C3%A3o%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20Ensino%20de%20Estat%C3%ADstica%20na%20Forma%C3%A7%C3%A3o%20Inicial%20do%20Engenheiro%20de%20Produ%C3%A7%C3%A3o&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19792457"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "19792457",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino Superior, Engenharia de Produção, Ensino de Estatística, Formação Inicial, Análise de Conteúdo."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-19792457.svg",
+  "resumo": "Esta tese apresenta uma pesquisa qualitativa e interpretativa, cujo trabalho de campo foi desenvolvido em uma Instituição Federal de Ensino da Grande Vitória, Espírito Santo. Seu objetivo foi investigar como se dá a formação estatística de estudantes de um Curso Superior na área de Engenharia de Produção, a partir de um referencial teórico baseado na Filosofia da Ciência e nas áreas de Educação Crítica e Educação Estatística. A coleta de dados contou com depoimentos de cinco alunos escolhidos e/ou sorteados, além da professora de Estatística de uma turma desse curso. A partir das questões norteadoras buscou-se conhecer três aspectos: as demandas de formação explicitadas pelos estudantes de Engenharia de Produção em relação à Estatística; quais fragilidades e concepções equivocadas referentes ao conhecimento estatístico são reveladas e percebidas em alunos da Engenharia de Produção; como o Plano de Curso e as aulas de Estatística dialogam com as necessidades dos futuros engenheiros de Produção. Na construção e análise dos dados, colhidos por meio de um questionário e de entrevistas semiestruturadas gravadas em áudio, utilizou-se a Análise de Conteúdo. Tais entrevistas foram realizadas no decorrer do segundo semestre de 2013 e do primeiro de 2014, sendo três sessões com cada aluno e duas com a professora. Do processo de análise dos dados emergiram onze subcategorias, indicando um contato com a Estatística anterior à graduação dentro de padrões tradicionais, que resultou em concepções e fragilidades reforçadas pelas práticas do Nível Superior. As principais demandas verificadas são: a maior necessidade de articular saberes dos componentes da matriz curricular com a Estatística, de orientar seu ensino para o domínio da literacia e de desenvolver o pensamento estatístico, vencendo a fragmentação de saberes que pode ser constatada. A Educação necessita superar a tarefa de tornar o indivíduo hábil para manipular conceitos, desafiando-o constantemente a romper o estágio de conhecimento em que se encontra.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

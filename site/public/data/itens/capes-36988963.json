@@ -1,0 +1,61 @@
+{
+  "id": "capes-36988963",
+  "autor": "Lilian Balbinot",
+  "ano": 2022,
+  "tipo": "Dissertação",
+  "titulo": "A EDUCAÇÃO MATEMÁTICA CRÍTICA COMO ABORDAGEM PARA O ENSINO DA ESTATÍSTICA DESCRITIVA",
+  "instituicao": "UNIVERSIDADE ESTADUAL DO RIO GRANDE DO SUL",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Gladis Falavigna",
+  "programa": "FORMAÇÃO DOCENTE PARA CIÊNCIAS, TECNOLOGIAS, ENGENHARIAS E MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Matemática Crítica; Roteiro de Aprendizagem; Estatística Descritiva; Gráficos e Tabelas; Tecnologias Digitais",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20EDUCA%C3%87%C3%83O%20MATEM%C3%81TICA%20CR%C3%8DTICA%20COMO%20ABORDAGEM%20PARA%20O%20ENSINO%20DA%20ESTAT%C3%8DSTICA%20DESCRITIVA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20EDUCA%C3%87%C3%83O%20MATEM%C3%81TICA%20CR%C3%8DTICA%20COMO%20ABORDAGEM%20PARA%20O%20ENSINO%20DA%20ESTAT%C3%8DSTICA%20DESCRITIVA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36988963"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "36988963",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Matemática Crítica",
+    "Roteiro de Aprendizagem",
+    "Estatística Descritiva",
+    "Gráficos e Tabelas",
+    "Tecnologias Digitais"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-36988963.svg",
+  "resumo": "A presente pesquisa tem como tema a Educação Matemática Crítica (EMC) como abordagem no processo de ensino e aprendizagem da Matemática: Roteiro de Aprendizagem com auxílio das tecnologias digitais para o ensino da Estatística Descritiva através do estudo de gráficos e tabelas no 1º ano do Ensino Médio de um colégio público de Porto Alegre- RS. O objetivo geral tem o intuito de analisar como a Educação Matemática Crítica, como abordagem no processo de ensino\u0002aprendizagem da Matemática, contribui para a aprendizagem básica da Estatística Descritiva utilizando o estudo de Gráficos e Tabelas através da proposição de um Roteiro de Aprendizagem com o auxílio das Tecnologias Digitais (TD) a ser realizado pelos alunos do primeiro ano do Ensino Médio de um colégio público. Os objetivos específicos são, identificar o conhecimento teórico e prático dos alunos do componente curricular de Matemática em relação ao conhecimento básico de estatística, tecnologias digitais, uso didático do celular, computador, aplicativos de realização de formulários de pesquisa e gráficos, no Ensino Médio; planejar e aplicar atividades de um Roteiro de Aprendizagem, para o aprendizado básico da Estatística Descritiva, para os alunos do primeiro ano do Ensino Médio, criando assim, condições para que o aluno tenha uma formação crítica e reflexiva sobre o conhecimento adquirido, através da EMC; incentivar e oportunizar a realização da pesquisa em sala de aula com o uso das TD (computador, celular, internet, aplicativos para confecção de gráficos e outros), utilizando uma abordagem crítica para realização da mesma, promovendo o diálogo e a democratização e identificar os problemas apresentados, as soluções encontradas e os resultados da aprendizagem. No Marco Teórico, apresentamos o Estado da Arte, dissertamos sobre a EMC e o processo ensino\u0002aprendizagem da Estatística Descritiva. A amostra representativa é de 51 sujeitos. A metodologia é do tipo qualitativa-quantitativa, aplicada, exploratória e participante. Os instrumentos de pesquisa foram: questionários, registro das atitudes dos alunos e autoavaliação. Os dados são analisados tendo como base a Teoria Fundamentada nos Dados (TFD), discutidos à luz dos autores do Marco Teórico. Na conclusão e considerações finais, os resultados destacados comprovam que a EMC e o uso das Tecnologias digitais auxiliaram o processo ensino-aprendizagem da Estatística Descritiva com a aplicação de atividades que promoveram o diálogo, a reflexão e o desenvolvimento da Competência Democrática. As questões fechadas foram analisadas conforme a TFD e geraram figuras, já as questões abertas geraram categorias e também foram analisadas através da TFD. Salientamos que a maioria dos alunos (80%) alcançaram conhecimento considerável sobre ED, gráficos, tabelas, TD, por meio de uma abordagem crítica que promoveu o diálogo e a reflexão sobre o aprendizado. O produto educacional é um Roteiro de Aprendizagem no formato digital que permite modificações e poderá ser impresso.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
+}

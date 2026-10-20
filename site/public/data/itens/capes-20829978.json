@@ -1,0 +1,61 @@
+{
+  "id": "capes-20829978",
+  "autor": "Marcia Rodrigues Luiz da Silva",
+  "ano": 2016,
+  "tipo": "Tese",
+  "titulo": "A Prática como Componente Curricular Via Projeto Integrado de Prática Educativa (PIPE) no Ensino de Estatística na Universidade: implementação e implicações na Formação inicial do Professor de Matemática",
+  "instituicao": "UNIVERSIDADE EST.PAULISTA JÚLIO DE MESQUITA FILHO/RIO CLARO",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Maria Lucia Lorenzetti Wodewotzki",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Prática como Componente Curricular; Prática Educativa; Projeto Integrado de Prática Educativa (PIPE); Formação Inicial de Professores de Matemática; Ensino de Estatística",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20Pr%C3%A1tica%20como%20Componente%20Curricular%20Via%20Projeto%20Integrado%20de%20Pr%C3%A1tica%20Educativa%20%28PIPE%29%20no%20Ensino%20de%20Estat%C3%ADstica%20na%20Universidade%3A%20implementa%C3%A7%C3%A3o%20e%20implica%C3%A7%C3%B5es%20na%20Forma%C3%A7%C3%A3o%20inicial%20do%20Professor%20de%20Matem%C3%A1tica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20Pr%C3%A1tica%20como%20Componente%20Curricular%20Via%20Projeto%20Integrado%20de%20Pr%C3%A1tica%20Educativa%20%28PIPE%29%20no%20Ensino%20de%20Estat%C3%ADstica%20na%20Universidade%3A%20implementa%C3%A7%C3%A3o%20e%20implica%C3%A7%C3%B5es%20na%20Forma%C3%A7%C3%A3o%20inicial%20do%20Professor%20de%20Matem%C3%A1tica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20829978"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "20829978",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Prática como Componente Curricular",
+    "Prática Educativa",
+    "Projeto Integrado de Prática Educativa (PIPE)",
+    "Formação Inicial de Professores de Matemática",
+    "Ensino de Estatística"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-20829978.svg",
+  "resumo": "Este estudo tomou como contexto o Curso de Graduação em Matemática da Universidade Federal de Uberlândia (UFU). Enfocou a Prática Como Componente Curricular (PCC) instituída pelas Diretrizes Curriculares Nacionais para a formação de Professores em nível superior (Resolução CNE/CP nº. 01/2002). De caráter qualitativo, investigou, na disciplina Estatística e Probabilidade desse Curso, o processo de implementação do Projeto Integrado de Prática Educativa (PIPE) como componente curricular e suas implicações na formação inicial do Professor de Matemática no desenvolvimento da disciplina. Tomou como sujeitos os professores e estudantes na disciplina, no período de 2012 a 2014, utilizando-se, na produção de dados, da pesquisa documental e de campo, entrevistas com os docentes, questionários aos alunos e um ambiente virtual. Os principais resultados evidenciaram que, embora fundamental no Curso de Matemática, por possibilitar um espaço diferenciado de formação, carece da implementação de um espaço de troca de experiências em seu desenvolvimento, aliado a um processo contínuo e permanente de acompanhamento e avaliação, por caracterizar-se como uma prática que demanda um trabalho interdisciplinar e coletivo, destacando que, por isso mesmo tem representado ainda um grande desafio para o Curso de Matemática, mas que, apesar disso apresenta-se como uma proposta possível e viável.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

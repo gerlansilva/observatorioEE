@@ -1,0 +1,59 @@
+{
+  "id": "capes-34620167",
+  "autor": "Islani de Oliveira Silva",
+  "ano": 2021,
+  "tipo": "Dissertação",
+  "titulo": "UTILIZAÇÃO DOS JOGOS DIDÁTICOS PARA O ENSINO APRENDIZAGEM DE CONCEITOS ESTATÍSTICOS EM UMA TURMA DE ENSINO MÉDIO INTEGRADO DO IFTO",
+  "instituicao": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO TOCANTINS",
+  "cidade": "",
+  "estado": "Tocantins",
+  "regiao": "Norte",
+  "orientador": "Weimar Silva Castilho",
+  "programa": "EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Recursos Pedagógicos. Ensino de Estatística. Práticas Educativas.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22UTILIZA%C3%87%C3%83O%20DOS%20JOGOS%20DID%C3%81TICOS%20PARA%20O%20ENSINO%20APRENDIZAGEM%20DE%20CONCEITOS%20ESTAT%C3%8DSTICOS%20EM%20UMA%20TURMA%20DE%20ENSINO%20M%C3%89DIO%20INTEGRADO%20DO%20IFTO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UTILIZA%C3%87%C3%83O%20DOS%20JOGOS%20DID%C3%81TICOS%20PARA%20O%20ENSINO%20APRENDIZAGEM%20DE%20CONCEITOS%20ESTAT%C3%8DSTICOS%20EM%20UMA%20TURMA%20DE%20ENSINO%20M%C3%89DIO%20INTEGRADO%20DO%20IFTO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34620167"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "34620167",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Recursos Pedagógicos. Ensino de Estatística. Práticas Educativas."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-34620167.svg",
+  "resumo": "O ensino de estatística no ensino médio é visto, de modo geral, como um dos vilões dos conteúdos programáticos, sendo abordados muitas vezes apenas com coletas de gráficos, ou num viés descritivo como um ato de quantificar. Esta pesquisa teve como objetivo explorar o potencial dos jogos didáticos em uma turma de Ensino Médio Integrado (EMI) e partir disso construir um produto educacional como guia orientador dos jogos propostos, com o intuito de melhorar os processos de ensino aprendizagem dos conceitos estatísticos. O estudo foi desenvolvido durante o Programa de Pós Graduação em Educação Profissional e Tecnológica (ProfEPT) do Instituto Federal de Ciência e Tecnologia do Tocantins (IFTO), e configura-se como uma pesquisa exploratória, de cunho qualitativo e quantitativo, com procedimentos de pesquisa experimental; para a pesquisa foi aplicada uma sequência didática dividida em quatro momentos com 50 minutos cada que compreendeu jogos voltados para a Estatística, abordando conteúdo do 1° ano do EMI, como caça-palavras, jogo da forca, caça ao tesouro e quizzes de perguntas e respostas; as fontes de coletas de dados utilizadas para análise da sequência didática foram: questionário semi estruturado, entrevista e observação participante; os testes foram aplicados virtualmente pelo Google forms, e a proposta didática metodológica desenvolvida através do Google meet; a pesquisa foi desenvolvida no IFTO, campus Palmas, com 30 estudantes da turma do 1º ano do Curso Técnico em Administração Integrado ao Ensino Médio. Por meio das reflexões teóricas e análises dos resultados observados neste estudo, concluímos que as atividades com jogos didáticos promovem um ensino significativo, apontando possibilidades enquanto ferramenta pedagógica para inserção de uma cultura estatística, bem como práticas educativas que desenvolvam competências e habilidades do raciocínio lógico, interpretação e organização de dados, construção de tabelas e gráficos, concepção e compreensão de: espaço amostral, moda, média, mediana e desvio padrão.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": [
+    "40847184"
+  ]
+}

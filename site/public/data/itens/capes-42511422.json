@@ -1,0 +1,62 @@
+{
+  "id": "capes-42511422",
+  "autor": "Giane Correia Silva",
+  "ano": 2024,
+  "tipo": "Tese",
+  "titulo": "Formação Inicial De Professores Polivalentes: Contribuições Da Metodologia Resolução De Problemas Ao Trabalhar A Base De Conhecimentos Para O Ensino De Estatística",
+  "instituicao": "UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ",
+  "cidade": "",
+  "estado": "Paraná",
+  "regiao": "Sul",
+  "orientador": "Guatacara dos Santos Junior",
+  "programa": "ENSINO DE CIÊNCIA E TECNOLOGIA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino Estatística; BCEE; Anos Iniciais do Ensino Fundamental; curso de Pedagogia; Resolução de Problemas; Professores Polivalentes",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Forma%C3%A7%C3%A3o%20Inicial%20De%20Professores%20Polivalentes%3A%20Contribui%C3%A7%C3%B5es%20Da%20Metodologia%20Resolu%C3%A7%C3%A3o%20De%20Problemas%20Ao%20Trabalhar%20A%20Base%20De%20Conhecimentos%20Para%20O%20Ensino%20De%20Estat%C3%ADstica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Forma%C3%A7%C3%A3o%20Inicial%20De%20Professores%20Polivalentes%3A%20Contribui%C3%A7%C3%B5es%20Da%20Metodologia%20Resolu%C3%A7%C3%A3o%20De%20Problemas%20Ao%20Trabalhar%20A%20Base%20De%20Conhecimentos%20Para%20O%20Ensino%20De%20Estat%C3%ADstica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42511422"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "42511422",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino Estatística",
+    "BCEE",
+    "Anos Iniciais do Ensino Fundamental",
+    "curso de Pedagogia",
+    "Resolução de Problemas",
+    "Professores Polivalentes"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-42511422.svg",
+  "resumo": "Esta pesquisa teve como objetivo analisar as contribuições da metodologia da resolução de problemas para trabalhar a base de conhecimentos para ensinar estatística na formação inicial de professores polivalentes. Para alcançar esse objetivo, desenvolveu-se uma pesquisa qualitativa de cunho descritivo e explicativo, iniciando-se com uma revisão sistemática da literatura sobre a formação de professores polivalentes para o ensino de estatística. Posteriormente houve o levantamento do histórico do curso de Pedagogia no contexto brasileiro, a fim de se entender as nuances, perspectivas e desafios que envolvem a formação desses professores. Em seguida, realizou-se o aprofundamento teórico sobre a base de conhecimentos para a docência, especialmente sobre a Base de Conhecimentos para Ensinar Estatística (BCEE), e sobre a metodologia da resolução de problemas. Por fim, foi elaborada e aplicada uma sequência de ensino fundamentada nas teorias estudadas e organizada metodologicamente na estrutura da metodologia da resolução de problemas. A sequência de ensino é o produto desta tese e está anexada ao final do trabalho. A aplicação se deu durante o segundo semestre do ano de 2021, numa proposta formativa para os(as) acadêmicos(as) do quarto ano do curso de Pedagogia da Universidade Estadual de Ponta Grossa (UEPG). Desse modo, a construção dos dados se deu com base nas atividades propostas durante o processo formativo realizado. Para a análise desses dados, elegeu-se a metodologia da Análise Textual Discursiva (ATD), a qual permitiu o levantamento de unidades de análise que sinalizam as contribuições da metodologia da resolução de problemas para trabalhar com a base de conhecimentos para ensinar estatística aos futuros professores. Essas unidades foram agrupadas na Categoria Desenvolvimento da BCEE e nas subcategorias: Conhecimento de conteúdo da Estatística, Conhecimento pedagógico da Estatística e Conhecimento de contexto. Na subcategoria \"Conhecimento de conteúdo da Estatística\" evidenciou-se habilidades dos acadêmicos em interpretar gráficos e tabelas, calcular medidas de tendência central e dispersão, embora dúvidas iniciais tenham sido superadas ao longo da formação. Em \"Conhecimento Pedagógico da Estatística\", foram destacadas estratégias pedagógicas, o entendimento do currículo e práticas avaliativas, apesar de limitações na avaliação formativa. Já a subcategoria \"Conhecimento do contexto\" revelou a integração entre temas do cotidiano e práticas pedagógicas, permitindo maior envolvimento dos alunos no processo de aprendizagem. Os resultados indicam que os licenciandos demonstraram avanços significativos na BCEE, especialmente na adaptação de estratégias ao contexto educacional e no uso de dados reais para ensinar Estatística. Contudo, foram identificadas lacunas relacionadas à antecipação das dificuldades de aprendizagem dos estudantes e à elaboração de avaliações mais criteriosas e formativas. Esses achados reforçam a importância de aprofundar aspectos da BCEE em formações futuras, visando consolidar o conhecimento pedagógico e de conteúdo em Estatística.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

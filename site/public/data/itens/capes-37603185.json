@@ -1,0 +1,60 @@
+{
+  "id": "capes-37603185",
+  "autor": "Josiele Maria Fusiger",
+  "ano": 2023,
+  "tipo": "Tese",
+  "titulo": "ROBÓTICA EDUCACIONAL COMO ESTRATÉGIA METODOLÓGICA DE ENSINO DE MATEMÁTICA E DESENVOLVIMENTO DO PENSAMENTO COMPUTACIONAL: UMA ANÁLISE DA PERCEPÇÃO DOS PROFESSORES DA REDE PÚBLICA DE ENSINO MÉDIO DO RS, À LUZ DA ANÁLISE ESTATÍSTICA IMPLICATIVA",
+  "instituicao": "UNIVERSIDADE FRANCISCANA",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Ana Marli Bulegon",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Matemática; Ensino; Tecnologia; Robótica Educacional",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ROB%C3%93TICA%20EDUCACIONAL%20COMO%20ESTRAT%C3%89GIA%20METODOL%C3%93GICA%20DE%20ENSINO%20DE%20MATEM%C3%81TICA%20E%20DESENVOLVIMENTO%20DO%20PENSAMENTO%20COMPUTACIONAL%3A%20UMA%20AN%C3%81LISE%20DA%20PERCEP%C3%87%C3%83O%20DOS%20PROFESSORES%20DA%20REDE%20P%C3%9ABLICA%20DE%20ENSINO%20M%C3%89DIO%20DO%20RS%2C%20%C3%80%20LUZ%20DA%20AN%C3%81LISE%20ESTAT%C3%8DSTICA%20IMPLICATIVA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ROB%C3%93TICA%20EDUCACIONAL%20COMO%20ESTRAT%C3%89GIA%20METODOL%C3%93GICA%20DE%20ENSINO%20DE%20MATEM%C3%81TICA%20E%20DESENVOLVIMENTO%20DO%20PENSAMENTO%20COMPUTACIONAL%3A%20UMA%20AN%C3%81LISE%20DA%20PERCEP%C3%87%C3%83O%20DOS%20PROFESSORES%20DA%20REDE%20P%C3%9ABLICA%20DE%20ENSINO%20M%C3%89DIO%20DO%20RS%2C%20%C3%80%20LUZ%20DA%20AN%C3%81LISE%20ESTAT%C3%8DSTICA%20IMPLICATIVA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37603185"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37603185",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Matemática",
+    "Ensino",
+    "Tecnologia",
+    "Robótica Educacional"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37603185.svg",
+  "resumo": "A Educação caracteriza-se como principal interface entre a realidade e os indivíduos, mas tal como o mundo em constante movimento, necessita ela mesma, Educação, reagir às mudanças pelas quais passam as sociedades. Nesse contexto, o ensino e o aprendizado de Matemática seguem constituindo um desafio, que se aprofunda quanto maiores são as diferenças e as desigualdades socioeconômicas, e que tem como problemas as dificuldades, a falta de interesse e de participação dos alunos. Espera-se reverter esses problemas com a mudança de metodologia de ensino, aulas cada vez melhor preparadas, objetivas, com pesquisa e trabalho, e materiais concretos e manipuláveis, capazes de estimular os educandos a participarem ativamente das aulas. Nesse sentido, a Robótica é um campo de estudo e prática que envolve o design, construção, programação e operação de robôs, e combina princípios diversos, enquanto a robótica educacional constitui uma abordagem específica da robótica, e faz uso de programas e robôs como ferramentas de aprendizado, visando utilizar robôs como meio de ensinar conceitos de Ciência, Tecnologia, Engenharia e Matemática, além de desenvolver habilidades e competências nas áreas de resolução de problemas, pensamento crítico, trabalho em equipe e criatividade. O presente estudo problematiza sobre as percepções dos professores de Matemática, da Rede Pública de ensino do RS, quanto as condições necessárias para o ensino com Robótica Educacional. Seu objetivo é o de analisar o cenário das escolas da rede pública do Rio Grande do Sul, quanto as condições necessárias para o ensino de Matemática com Robótica Educacional, sejam elas de conhecimento conceitual e/ou pedagógico e infraestrutura. Trata-se de uma pesquisa de objetivos descritivos, na qual utiliza-se o procedimento de survey. A pesquisa foi realizada junto a professores de Matemática do Ensino Médio do Rio Grande do Sul, junto a professores que receberam o kit de orientação para o ensino de Robótica. A coleta de dados deu-se através da utilização de questionários, e o método analítico utilizado foi o da Análise Estatística Implicativa (ASI). O estudo permitiu inferir que os professores pesquisados percebem as múltiplas vantagens do método de ensino de Matemática com uso da Robótica; mas percebem, também, que são necessários investimentos de distintas naturezas, para capacitá-los e habilitá-los para a atividade, permitindo um melhor aproveitamento da técnica pedagógica, e melhores resultados no ensino daquela disciplina.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

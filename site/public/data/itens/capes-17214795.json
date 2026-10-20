@@ -1,0 +1,57 @@
+{
+  "id": "capes-17214795",
+  "autor": "Luana Oliveira Sampaio",
+  "ano": 2014,
+  "tipo": "Tese",
+  "titulo": "O Ensino de Estatística na ESALQ/USP: personagens, abordagens e problemáticas (1936-1959)",
+  "instituicao": "UNIVERSIDADE EST.PAULISTA JÚLIO DE MESQUITA FILHO/RIO CLARO",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Maria Lucia Lorenzetti Wodewotzki",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Pesquisa Histórica, Ensino de Estatística, ESALQ/USP",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20Ensino%20de%20Estat%C3%ADstica%20na%20ESALQ/USP%3A%20personagens%2C%20abordagens%20e%20problem%C3%A1ticas%20%281936-1959%29%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20Ensino%20de%20Estat%C3%ADstica%20na%20ESALQ/USP%3A%20personagens%2C%20abordagens%20e%20problem%C3%A1ticas%20%281936-1959%29&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/17214795"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "17214795",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Pesquisa Histórica, Ensino de Estatística, ESALQ/USP"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-17214795.svg",
+  "resumo": "Quando se fala em Estatística na Escola Superior de Agricultura Luiz de Queiroz (ESALQ/USP), o primeiro nome lembrado é o do professor Frederico Pimentel Gomes. Ele assumiu a Cadeira de Matemática em 1959, e a partir de então passou a atuar fortemente no campo da Estatística, publicando livros que foram amplamente referenciados, tornando-se destaque neste campo. O objetivo inicial desta pesquisa foi o de investigar e analisar o Ensino de Estatística na ESALQ no período anterior à atuação do professor Frederico Pimentel Gomes. Para constituir esta história, tivemos acesso a alguns depoimentos e a diversos documentos, como por exemplo, Diários de Classe, Programas de Cadeiras, Caderno de Aluno, Livros e Apostilas de Estatística. Diante da análise das informações advindas destas fontes identificamos a importância de outros personagens: Edgard do Amaral Graner (Cadeira de Genética e, posteriormente, Cadeira de Agricultura), Friedrich Gustav Brieger (Cadeira de Genética) e Carlos Teixeira Mendes (Cadeira de Agricultura). Partindo da atuação destes personagens, escrevemos uma história sobre o Ensino de Estatística na ESALQ, discutindo também sobre as abordagens no Ensino de Estatística deste período e algumas problemáticas enfrentadas.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

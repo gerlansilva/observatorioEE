@@ -1,0 +1,60 @@
+{
+  "id": "capes-27614146",
+  "autor": "Gessica Goncalves Martins",
+  "ano": 2018,
+  "tipo": "Dissertação",
+  "titulo": "Ensino de Análise Combinatória: um estudo das representações de professores de matemática do Ensino Médio público de São Mateus",
+  "instituicao": "UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO",
+  "cidade": "",
+  "estado": "Espírito Santo",
+  "regiao": "Sudeste",
+  "orientador": "Lucio Souza Fassarella",
+  "programa": "ENSINO NA EDUCAÇÃO BÁSICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Análise combinatória – Estudo e ensino; Matemática (Ensino mé-dio); Professores de matemática – Prática de ensino; História cultural",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Ensino%20de%20An%C3%A1lise%20Combinat%C3%B3ria%3A%20um%20estudo%20das%20representa%C3%A7%C3%B5es%20de%20professores%20de%20matem%C3%A1tica%20do%20Ensino%20M%C3%A9dio%20p%C3%BAblico%20de%20S%C3%A3o%20Mateus%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Ensino%20de%20An%C3%A1lise%20Combinat%C3%B3ria%3A%20um%20estudo%20das%20representa%C3%A7%C3%B5es%20de%20professores%20de%20matem%C3%A1tica%20do%20Ensino%20M%C3%A9dio%20p%C3%BAblico%20de%20S%C3%A3o%20Mateus&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27614146"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "27614146",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Análise combinatória – Estudo e ensino",
+    "Matemática (Ensino mé-dio)",
+    "Professores de matemática – Prática de ensino",
+    "História cultural"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-27614146.svg",
+  "resumo": "A Análise Combinatória tem sido considerada um tema difícil, tanto por alunos quan-to por professores de Matemática, apesar da resolução de uma significativa classe de problemas de contagem requerer apenas conhecimentos básicos, dentre os quais o Princípio Multiplicativo. Vimos então que a razão principal das dificuldades didáticas com esse tema está na confluência de dois fatores: (i) os problemas com-binatórios não admitem uma padronização que permita reduzir sua resolução à apli-cação de algoritmos simples e (ii) o modo de ensinar Matemática na Educação Bási-ca, que prioriza uma abordagem mecânica dos conteúdos. Corroborando esse en-tendimento, acreditamos que o ensino de Combinatória centralizado em definições e fórmulas, em detrimento do desenvolvimento do raciocínio estratégico, não favorece a aprendizagem e a capacidade de resolver problemas. Este é um estudo de campo exploratório-descritivo realizado ao longo dos anos 2016 e 2017 que, utilizando três instrumentos de coleta de dados (entrevista, questionário on-line e observação), pesquisou o tema com vinte professores de matemática das oito Escolas Estaduais de Ensino Médio de São Mateus/ES. Especificamente, buscamos analisar as repre-sentações dos professores relativas à Combinatória por meio dos pressupostos da História Cultural: representação, prática e apropriação, propostos por Roger Char-tier; estratégias e táticas, por Michel De Certeau; cultura escolar, por Dominique Ju-lia e disciplinas escolares, por André Chervel. Como resultado, constatamos que a maioria dos professores considera que a Análise Combinatória é um dos tópicos mais difíceis de ensinar no Ensino Médio e declara que o tema não foi devidamente estudado na sua formação inicial ou continuada. Além disso, para suprir essa carên-cia eles utilizam apenas o livro didático e a internet. Os professores pesquisados também não se apercebem da autonomia que possuem em meio às relações de es-tratégia e tática, no contexto escolar.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de combinatória"
+  ],
+  "ids_duplicados": []
+}

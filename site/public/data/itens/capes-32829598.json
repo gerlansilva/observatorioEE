@@ -1,0 +1,62 @@
+{
+  "id": "capes-32829598",
+  "autor": "Isabel Cristina Thiel Borgonovo",
+  "ano": 2020,
+  "tipo": "Dissertação",
+  "titulo": "EDUCAÇÃO MATEMÁTICA E EDUCAÇÃO AMBIENTAL: UM PARADIDÁTICO DESTINADO AO ENSINO DE ESTATÍSTICA",
+  "instituicao": "UNIVERSIDADE DO ESTADO DE SANTA CATARINA",
+  "cidade": "",
+  "estado": "Santa Catarina",
+  "regiao": "Sul",
+  "orientador": "Regina Helena Munhoz",
+  "programa": "ENSINO DE CIÊNCIAS, MATEMÁTICA E TECNOLOGIAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Ambiental; Educação Matemática; Estatística; Paradidático; Cidadãos críticos",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22EDUCA%C3%87%C3%83O%20MATEM%C3%81TICA%20E%20EDUCA%C3%87%C3%83O%20AMBIENTAL%3A%20UM%20PARADID%C3%81TICO%20DESTINADO%20AO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=EDUCA%C3%87%C3%83O%20MATEM%C3%81TICA%20E%20EDUCA%C3%87%C3%83O%20AMBIENTAL%3A%20UM%20PARADID%C3%81TICO%20DESTINADO%20AO%20ENSINO%20DE%20ESTAT%C3%8DSTICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/32829598"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "32829598",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Ambiental",
+    "Educação Matemática",
+    "Estatística",
+    "Paradidático",
+    "Cidadãos críticos"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-32829598.svg",
+  "resumo": "O presente trabalho tem como objetivo relacionar a Educação Ambiental com conteúdos matemáticos, mais especificamente na área de Estatística. Para isso, em um primeiro momento foi realizada a análise de livros paradidáticos já existentes destinados ao ensino de Matemática, com o intuito de verificar a presença, ou não, de questões socioambientais e quais conteúdos são comumente abordados nos mesmos. Para colaborar com a criação do paradidático, foram entrevistados três professores de uma escola de Joinville, para que, pudessem fazer apontamentos sobre a dificuldade em ensinar Estatística e os conteúdos que precisam de mais atenção. Assim, a partir das análises e entrevistas, foi elaborado um paradidático com o conteúdo de Estatística, envolvendo questões socioambientais com o intuito de possibilitar que os estudantes relacionem temas do cotidiano com a Matemática, motivando-os a serem indivíduos críticos, o que pode facilitar a compreensão dos conteúdos devido à contextualização. Paralelamente, foi realizada uma pesquisa bibliográfica a respeito da Educação Matemática e Educação Ambiental, bem como sobre os paradidáticos, sua origem e utilidade, facilitando as análises posteriores e embasando a criação do paradidático. Além disso, abordou-se sobre a Educação Estatística e seus principais apontamentos. Após a elaboração do material, este foi experimentado por um grupo de discentes do Programa de Pós-Graduação em Ensino de Ciências, Matemática e Tecnologias (PPGECMT) da Universidade do Estado de Santa Catarina (UDESC), com posterior análise dos resultados obtidos. Este paradidático tem como propósito auxiliar não somente o aluno, mas também o professor que, como formador de cidadãos críticos, poderá ter a oportunidade de estabelecer debates e discussões frente às questões socioambientais propostas.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

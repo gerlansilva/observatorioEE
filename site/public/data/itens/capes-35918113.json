@@ -1,0 +1,60 @@
+{
+  "id": "capes-35918113",
+  "autor": "Girlane Caita de Lima Correia",
+  "ano": 2021,
+  "tipo": "Dissertação",
+  "titulo": "A transposição didática das medidas de tendência central e de dispersão para os documentos oficiais e os livros didáticos de matemática do ensino médio",
+  "instituicao": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Vladimir Lira Veras Xavier de Andrade",
+  "programa": "ENSINO DAS CIÊNCIAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Medidas de tendência central e de dispersão; Transposição didática; Estatística; Ensino Médio.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20transposi%C3%A7%C3%A3o%20did%C3%A1tica%20das%20medidas%20de%20tend%C3%AAncia%20central%20e%20de%20dispers%C3%A3o%20para%20os%20documentos%20oficiais%20e%20os%20livros%20did%C3%A1ticos%20de%20matem%C3%A1tica%20do%20ensino%20m%C3%A9dio%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20transposi%C3%A7%C3%A3o%20did%C3%A1tica%20das%20medidas%20de%20tend%C3%AAncia%20central%20e%20de%20dispers%C3%A3o%20para%20os%20documentos%20oficiais%20e%20os%20livros%20did%C3%A1ticos%20de%20matem%C3%A1tica%20do%20ensino%20m%C3%A9dio&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35918113"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "35918113",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Medidas de tendência central e de dispersão",
+    "Transposição didática",
+    "Estatística",
+    "Ensino Médio."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-35918113.svg",
+  "resumo": "A Estatística é uma área do conhecimento de grande relevância para a sociedade, por proporcionar a leitura de diversos dados e pesquisas que contribui para a formação do cidadão possibilitando uma leitura crítica do mundo. Na educação básica, alguns conceitos ligados a estatística são abordados através da disciplina de matemática, dentre eles as medidas de tendência central e de dispersão. Nesta pesquisa, analisamos como esse conteúdo se apresenta em livros didáticos aprovados pelo Plano Nacional do Livro Didático para o ensino médio e em alguns documentos que regem a educação básica no país. A pesquisa teve como aporte teórico a teoria da transposição didática. Entre os resultados desenvolvidos temos uma seção sobre o saber científico das medidas de tendência central e de dispersão, a análise da transposição didática das orientações curriculares e dos livros selecionadas. Os resultados indicam restrições do saber nas orientações curriculares e livros analisados, o que podem ser indícios de que os problemas no ensino e aprendizagem desse conteúdo estejam ligados em parte a forma de como ele é apresentado nos livros e orientações curriculares da educação básica.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

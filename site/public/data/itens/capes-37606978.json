@@ -1,0 +1,62 @@
+{
+  "id": "capes-37606978",
+  "autor": "Dulcineia Dalcin",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "O ENSINO DE ESTATÍSTICA: UMA CONTRIBUIÇÃO PARA OS PROFESSORES DOS ANOS INICIAIS DA EDUCAÇÃO BÁSICA",
+  "instituicao": "UNIVERSIDADE FRANCISCANA",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Leonardo Dalla Porta",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Estatística; Ensino Fundamental; Anos Iniciais; Pedagogia; Oficina",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%3A%20UMA%20CONTRIBUI%C3%87%C3%83O%20PARA%20OS%20PROFESSORES%20DOS%20ANOS%20INICIAIS%20DA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%3A%20UMA%20CONTRIBUI%C3%87%C3%83O%20PARA%20OS%20PROFESSORES%20DOS%20ANOS%20INICIAIS%20DA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37606978"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37606978",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Estatística",
+    "Ensino Fundamental",
+    "Anos Iniciais",
+    "Pedagogia",
+    "Oficina"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37606978.svg",
+  "resumo": "A pesquisa realizada insere-se na linha de pesquisa \"Formação de Professores\" do Mestrado Profissional em Ensino de Ciências e Matemática na Universidade Franciscana. O objetivo principal foi desenvolver uma oficina de capacitação em estatística voltada para professores dos anos iniciais do Ensino Fundamental, visando aprimorar o ensino dessa unidade temática. Para alcançar esse objetivo, adotou-se uma abordagem qualitativa, que envolveu uma busca bibliográfica e documental para embasar teoricamente a construção da oficina. Além disso, utilizou-se uma abordagem quantitativa, por meio da reflexão e análise de um questionário aplicado a 35 professores da rede municipal de Júlio de Castilhos, que atuam nos anos iniciais do Ensino Fundamental. Com base nos dados coletados, foi possível desenvolver uma oficina, para os professores dos anos iniciais da Rede Municipal de Ensino, que apresentou atividades específicas para trabalhar o ensino da estatística nesse nível de ensino. Durante a aplicação da oficina, que foi sistematizada como um Produto Educacional, os professores tiveram a oportunidade de perceber a importância de sair do contexto teórico e trazer a estatística para o ambiente prático, utilizando materiais simples, como papel e lápis, para que os estudantes pudessem registrar dados, construir gráficos e tabelas, e refletir sobre os conceitos estatísticos de maneira concreta. Essa experiência de aprendizado compartilhada na oficina permitiu que os participantes se sentissem mais confiantes em introduzir o letramento estatístico em suas salas de aula, auxiliando os estudantes a desenvolver habilidades estatísticas desde cedo e preparando-os para lidar com informações e dados de maneira crítica e consciente.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

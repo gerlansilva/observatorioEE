@@ -1,0 +1,60 @@
+{
+  "id": "capes-33178873",
+  "autor": "Adriana Lauxen",
+  "ano": 2020,
+  "tipo": "Dissertação",
+  "titulo": "A ETNOMATEMÁTICA NUMA ESCOLA DO CAMPO EM PONTA PORÃ/MS: UM ESTUDO POR MEIO DOS CONCEITOS DE ESTATÍSTICA",
+  "instituicao": "UNIVERSIDADE ESTADUAL DE MATO GROSSO DO SUL",
+  "cidade": "",
+  "estado": "Mato Grosso do Sul",
+  "regiao": "Centro-Oeste",
+  "orientador": "Helena Alessandra Scavazza Leme",
+  "programa": "EDUCAÇÃO CIENTÍFICA E MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "educação do campo; etnomatemática; estatística; educação básica.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20ETNOMATEM%C3%81TICA%20NUMA%20ESCOLA%20DO%20CAMPO%20EM%20PONTA%20POR%C3%83/MS%3A%20UM%20ESTUDO%20POR%20MEIO%20DOS%20CONCEITOS%20DE%20ESTAT%C3%8DSTICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20ETNOMATEM%C3%81TICA%20NUMA%20ESCOLA%20DO%20CAMPO%20EM%20PONTA%20POR%C3%83/MS%3A%20UM%20ESTUDO%20POR%20MEIO%20DOS%20CONCEITOS%20DE%20ESTAT%C3%8DSTICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/33178873"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "33178873",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "educação do campo",
+    "etnomatemática",
+    "estatística",
+    "educação básica."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-33178873.svg",
+  "resumo": "Este trabalho apresenta os resultados da pesquisa de mestrado em Educação Científica e Matemática. Nosso objetivo foi investigar a aprendizagem em matemática desenvolvida por meio de estudos estatísticos, com uma turma de terceiro ano do ensino médio em uma escola do campo. Com a metodologia da problematização, oportunizar e mostrar aos alunos, a necessidade de ver a matemática como algo que envolve a vida social/econômica/cultural de todos nós. Para desenvolver esse conteúdo os estudantes fizeram várias pesquisas em suas comunidades e com os colegas do ensino médio, sobre temas que tinham interesse em conhecer. A partir dos temas escolhidos por esses estudantes, propusemos momentos de debates e palestras para desenvolver o conhecimento já existente entre eles. Partindo desses temas de interesse, desenvolvemos a matemática que envolvia cada situação, fizemos análises dos resultados e buscamos parcerias com pessoas especializadas nos assuntos referentes as pesquisas. Tivemos a etnomatemática e os estudos de Paulo Freire como pano de fundo nessa experiência com a matemática em uma escola do campo, localizada no município de Ponta Porã-MS, durante os anos de 2018 e 2019. Com esta pesquisa percebemos que os educandos conseguem aceitar o novo, rejeitar qualquer forma de discriminação, violência e valorizar as identidades culturais. Acreditamos que mudar é possível, dando autonomia aos alunos, tendo bom senso, humildade e uma postura de respeito para ser professor em escola do campo. O tratamento dos saberes científicos, tendo como base os saberes da vida, do dia a dia da cultura dos educandos, foi fundamental para a aprendizagem mais significativa, respeitando os saberes advindos de suas práticas diárias e de interesses pessoais, ou seja, não só valorizar as identidades culturais, mas utilizar essas práticas e identidades também em sala de aula para desenvolver a aprendizagem.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
+}

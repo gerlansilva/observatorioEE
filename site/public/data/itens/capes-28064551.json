@@ -1,0 +1,57 @@
+{
+  "id": "capes-28064551",
+  "autor": "Gabriela Braz Lucas",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "ESTUDO DOS NÍVEIS DE LETRAMENTO ESTATÍSTICO E DOS ESTÁDIOS DE DESENVOLVIMENTO COGNITIVO NO PROGRAMA LeME",
+  "instituicao": "UNIVERSIDADE FEDERAL DO RIO GRANDE",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Mauren Porciuncula Moreira da Silva",
+  "programa": "EDUCAÇÃO EM CIÊNCIAS QUÌMICA DA VIDA E SAÚDE ( UFSM - FURG)",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Letramento Estatístico. Desenvolvimento Cognitivo. Atividades Pedagógicas. Estádio Operatório.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ESTUDO%20DOS%20N%C3%8DVEIS%20DE%20LETRAMENTO%20ESTAT%C3%8DSTICO%20E%20DOS%20EST%C3%81DIOS%20DE%20DESENVOLVIMENTO%20COGNITIVO%20NO%20PROGRAMA%20LeME%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESTUDO%20DOS%20N%C3%8DVEIS%20DE%20LETRAMENTO%20ESTAT%C3%8DSTICO%20E%20DOS%20EST%C3%81DIOS%20DE%20DESENVOLVIMENTO%20COGNITIVO%20NO%20PROGRAMA%20LeME&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28064551"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "28064551",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Letramento Estatístico. Desenvolvimento Cognitivo. Atividades Pedagógicas. Estádio Operatório."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-28064551.svg",
+  "resumo": "Esta dissertação apresenta uma investigação de cunho qualitativo em educação em ciências, realizada com os professores do Programa de Letramento Multimídia Estatístico – LeME. Este estudo visa investigar que nível de Letramento Estatístico, atingem as atividades desenvolvidas no LeME, com a intenção de desenvolver cognitivamente os alunos do programa. O desenvolvimento da investigação ocorreu por um estudo de campo, realizado por uma Pesquisa Participante, contemplando quatro momentos subsequentes, que proporcionaram a coleta dos dados. A Análise de Conteúdo, aplicada ao planejamento das aulas, nas narrativas dos professores e nos diários de campo da pesquisadora. Todo delineamento metodológico possibilitou realizar as análises dos dados, resultando assim nas atividades que atingem o objetivo desta pesquisa, respondendo sua questão norteadora. Foi constatado que o Nível Crítico de Letramento Estatístico é o predominante no desenvolvimento das atividades, além de ser o nível, o qual é propenso ao processo de transição dos Estádios Operatórios Concreto ao Formal. Com as análises realizadas, pode-se indicar que os professores do programa LeME, planejam e aplicam atividades, as quais têm Nível Crítico de compreensão do Letramento Estatístico. Estas atividades possibilitam, de forma progressiva, auxiliar na materialização do pensamento transformando-a em abstração refletida. São elas: Descobrindo Estatísticas, O Homem Vitruviano de Leonardo da Vinci, Projeto \"Planeta Água\", Gincana dos pesos, Projeto de Aprendizagem e Batata quente com desafio.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
+}

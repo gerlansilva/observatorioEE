@@ -1,0 +1,57 @@
+{
+  "id": "capes-30244936",
+  "autor": "Magnus Cesar Ody",
+  "ano": 2019,
+  "tipo": "Tese",
+  "titulo": "DESENVOLVIMENTO E PERSPECTIVAS DA EDUCAÇÃO ESTATÍSTICA: NARRATIVAS DE EDUCADORES ESTATÍSTICOS NO CONTEXTO IBERO-AMERICANO",
+  "instituicao": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Lori Viali",
+  "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística. História da Educação Estatística. Investigação Biográfico-Narrativa. Contexto Iberoamericano.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22DESENVOLVIMENTO%20E%20PERSPECTIVAS%20DA%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20NARRATIVAS%20DE%20EDUCADORES%20ESTAT%C3%8DSTICOS%20NO%20CONTEXTO%20IBERO-AMERICANO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=DESENVOLVIMENTO%20E%20PERSPECTIVAS%20DA%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20NARRATIVAS%20DE%20EDUCADORES%20ESTAT%C3%8DSTICOS%20NO%20CONTEXTO%20IBERO-AMERICANO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30244936"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30244936",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística. História da Educação Estatística. Investigação Biográfico-Narrativa. Contexto Iberoamericano."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30244936.svg",
+  "resumo": "A pesquisa apresenta um estudo na área da Educação Estatística. O objetivo é analisar os modos de ver e conceber o seu desenvolvimento nas origens, finalidades e perspectivas, especialmente no Brasil. Utilizou-se a abordagem de natureza qualitativa e a investigação biográfico-narrativa como marco teórico e metodológico. As contribuições emergiram a partir dos materiais produzidos em três momentos. O primeiro consistiu na produção de uma narrativa histórica acerca da estatística e da educação estatística. O segundo mostra o desenvolvimento contemporâneo, com os relatos produzidos a partir das entrevistas realizadas com 15 professores relevantes na promoção da educação estatística de três países ibero-americanos: Brasil, Portugal e Espanha. Observaram-se fatos relacionados às trajetórias de formação profissional refletidos na pessoalidade. O terceiro momento foi a realização da análise narrativa, ancorada em uma estrutura ilustrativa, restitutiva e analítica. Estas, representadas pela textualização das entrevistas na íntegra e a construção do giro narrativo, como modo de compreender e reconstruir sentidos. Identificou-se que as contribuições históricas vão ao encontro do desenvolvimento da educação estatística, protagonizado por pessoas e instituições, especialmente após a segunda metade do século XX. Os modos de ver e conceber a educação estatística definem as ações de educadores no seu desenvolvimento e mostram, no Brasil, uma perspectiva de influência positiva no contexto ibero-americano. A colaboração de professores brasileiros em grupos de estudos e eventos da área, coloca o Brasil no cenário internacional. Uma referência em função da sua significativa produção, ocupando a vice posição mundial na elaboração de teses em educação estatística. O grupo de trabalho em educação estatística, o GT12, vinculado à Sociedade Brasileira de Educação Matemática, é colaborativo e atuante, agregando grupos de pesquisa brasileiros, incorporando novos membros e aumentando a produção científica. As narrativas produzidas, revelam os vínculos profissionais e pessoais como modo de aproximação nos países acima citados. A educação estatística é definida como área autônoma, com um campo de pesquisa definido, mais fortemente consolidada no contexto internacional. Predomina nas entrevistas, a relevância das interfaces didáticas e pedagógicas da educação estatística e da educação matemática. Ocorre a defesa na promoção da educação estatística para todos. Nos espaços formais, de forma didática e interdisciplinar, com o incentivo às mudanças na formação inicial e continuada. Em contextos não formais, a oportunidade e o apoio no desenvolvimento do letramento estatístico e probabilístico dos cidadãos.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
+}

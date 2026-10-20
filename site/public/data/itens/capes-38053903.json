@@ -1,0 +1,60 @@
+{
+  "id": "capes-38053903",
+  "autor": "Graziela Franceschini Dorigon",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "Uso de dados reais para interpretação de gráficos estatísticos sobre função exponencial",
+  "instituicao": "FUNDAÇÃO UNIVERSIDADE DE PASSO FUNDO",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Adriano Pasqualotti",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Funções exponenciais; Letramento estatístico; Matemática aplicada à realidade; Resolução de problemas",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Uso%20de%20dados%20reais%20para%20interpreta%C3%A7%C3%A3o%20de%20gr%C3%A1ficos%20estat%C3%ADsticos%20sobre%20fun%C3%A7%C3%A3o%20exponencial%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uso%20de%20dados%20reais%20para%20interpreta%C3%A7%C3%A3o%20de%20gr%C3%A1ficos%20estat%C3%ADsticos%20sobre%20fun%C3%A7%C3%A3o%20exponencial&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38053903"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "38053903",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Funções exponenciais",
+    "Letramento estatístico",
+    "Matemática aplicada à realidade",
+    "Resolução de problemas"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-38053903.svg",
+  "resumo": "O presente estudo aborda o uso de dados reais para a interpretação de gráficos estatísticos sobre função exponencial, explorando o tripé letramento estatístico, dados reais e resolução de problemas, buscando responder à seguinte problemática: como desenvolver letramento estatístico para interpretação de gráficos que envolvam função exponencial em alunos do ensino médio utilizando dados reais? Teve como objetivo geral modelar, desenvolver, aplicar e avaliar produto educacional para a interpretação de gráficos de função exponencial a partir de dados reais. Para tanto, partiu da exploração de modelos aplicados na saúde, como aqueles aplicados na disseminação de organismos patógenos entre a população, a exemplo do vírus Sars-Cov2. Explorando outras aplicações do modelo matemático, investigou também o campo da biologia, na relação presa e predador, e na Matemática financeira, quando analisou o rendimento das criptomoedas. Fundamentou suas reflexões na premissa de que a Matemática, conforme preconiza a Base Nacional Comum Curricular, deve estar voltada à resolução de problemas reais, o que evidencia a sua importância na formação escolar. Assim, buscou-se analisar as orientações deste documento quanto à resolução de problemas a partir de dados reais, ao letramento estatístico e à utilização da tecnologia como instrumento de ensino. As reflexões encontram amparo em Vygotsky, e na teoria do socio interacionismo. O estudo de campo efetivou-se por meio da criação, desenvolvimento e aplicação de um produto educacional explorando o tripé apresentado. O produto educacional consistiu na criação de um site, com foco nas funções exponenciais, e sua aplicação ocorreu por meio do desenvolvimento de uma sequência didática aplicada a estudantes do primeiro ano do ensino médio, de uma escola pública localizada no município de Soledade, região Norte do Rio Grande do Sul. O tratamento dos dados coletados ocorreu de forma quali e quantitativa, a partir dos pressupostos da análise de conteúdo de Bardin, utilizando o software NVivo; as fontes de análise foram textos resultantes da transcrição de encontros, relatando a aplicação da sequência didática e a avaliação dos alunos. A submissão dos textos ao software gerou quatro categorias de análise: dificuldade dos alunos, protagonismo dos alunos, Matemática e funções exponenciais e produto educacional e sequência didática. Os resultados obtidos permitiram concluir a eficácia da relação entre letramento estatístico, dados reais e resolução de problemas no ensino da Matemática. O produto educacional está disponível no site do programa, no portal dos produtos educacionais do PPGECM e no portal EduCapes https://educapes.capes.gov.br/handle/capes/742159.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
+}

@@ -1,0 +1,61 @@
+{
+  "id": "capes-38863520",
+  "autor": "Paola Mazzaro",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "NOVAS TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO (NTICs) PARA APRENDIZAGEM DE MATEMÁTICA: SCRATCH COMO RECURSO METODOLÓGICO DE ENSINO E APRENDIZAGEM DE PROBABILIDADE",
+  "instituicao": "UNIVERSIDADE CRUZEIRO DO SUL",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Juliano Schimiguel",
+  "programa": "ENSINO DE CIÊNCIAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Aprendizagem; Tecnologias; Scratch; Matemática; Probabilidade",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22NOVAS%20TECNOLOGIAS%20DE%20INFORMA%C3%87%C3%83O%20E%20COMUNICA%C3%87%C3%83O%20%28NTICs%29%20PARA%20APRENDIZAGEM%20DE%20MATEM%C3%81TICA%3A%20SCRATCH%20COMO%20RECURSO%20METODOL%C3%93GICO%20DE%20ENSINO%20E%20APRENDIZAGEM%20DE%20PROBABILIDADE%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=NOVAS%20TECNOLOGIAS%20DE%20INFORMA%C3%87%C3%83O%20E%20COMUNICA%C3%87%C3%83O%20%28NTICs%29%20PARA%20APRENDIZAGEM%20DE%20MATEM%C3%81TICA%3A%20SCRATCH%20COMO%20RECURSO%20METODOL%C3%93GICO%20DE%20ENSINO%20E%20APRENDIZAGEM%20DE%20PROBABILIDADE&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38863520"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "38863520",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Aprendizagem",
+    "Tecnologias",
+    "Scratch",
+    "Matemática",
+    "Probabilidade"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-38863520.svg",
+  "resumo": "As Tecnologias de Informação e Comunicação vêm se tornando, de maneira progressiva, importantes instrumentos na Educação, e sua utilização um meio concreto de inclusão e interação no mundo, seguindo as tendências e inovações tecnológicas, considerando como princípio o estudante no centro do processo educativo. Nesta dissertação, utilizamos como fundamentação teórica o construtivismo de Jean Piaget, a teoria construcionista de Seymour Papert, e documentos da Rede Municipal de Ensino de São Paulo, com ênfase no Currículo da Cidade de Tecnologias para Aprendizagem e Matemática, e são apresentados os resultados de uma pesquisa cujo objetivo foi analisar o ensino e a aprendizagem, partindo da experimentação e criação de jogos simples usando o software, Scratch, como recurso metodológico de Matemática, com estudantes do quinto ano do Ensino Fundamental; da Rede Pública Municipal de Educação de São Paulo. Este estudo adotou uma abordagem metodológica qualitativa, a partir da qual foram realizadas atividades, questionário de perguntas abertas e fechadas de maneira individual, e a oficina com o software, Scratch, que aconteceu em duplas. As atividades e oficina transcorreu em cinco etapas, para melhor organização e entendimento do contexto do projeto. A análise dos dados evidencia os conceitos, oriundos das relações do tema, que emergiram dos estudantes ao realizarem as vivências, além de mostrar as relações de tais temas nas atividades desenvolvidas com o referido software. Dessa forma, a partir de nossas análises, os resultados apontaram para uma proposta que procurou contemplar a participação dos estudantes, mostrando ser uma oportunidade para ajuda-los no desenvolvimento do raciocínio lógico-matemático, criatividade, a buscar soluções e desenvolver alguns dos conceitos que constituem o pensamento computacional, por meio da oficina com o Scratch, que trouxe de maneira satisfatória, possibilidades e contribuições para o processo de ensino e aprendizagem no contexto Educacional.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de probabilidade"
+  ],
+  "ids_duplicados": []
+}

@@ -1,0 +1,61 @@
+{
+  "id": "capes-18617098",
+  "autor": "Vladimir Lira Veras Xavier de Andrade",
+  "ano": 2013,
+  "tipo": "Tese",
+  "titulo": "OS CONCEITOS DE MEDIDAS DE TENDÊNCIA CENTRAL E DE DISPERSÃO NA FORMAÇÃO ESTATÍSTICA NO ENSINO MÉDIO NO BRASIL E NA FRANÇA. ABORDAGEM EXPLORATÓRIA NO QUADRO DA TEORIA ANTROPOLÓGICA DO DIDÁTICO E DA TEORIA DOS CAMPOS CONCEITUAIS",
+  "instituicao": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Anna Paula de A Brito Lima",
+  "programa": "ENSINO DAS CIÊNCIAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "medidas de tendência central e de dispersão; transposição didática; teoria antropológica do didático; teoria dos campos conceituais; ensino médio",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22OS%20CONCEITOS%20DE%20MEDIDAS%20DE%20TEND%C3%8ANCIA%20CENTRAL%20E%20DE%20DISPERS%C3%83O%20NA%20FORMA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO%20NO%20BRASIL%20E%20NA%20FRAN%C3%87A.%20ABORDAGEM%20EXPLORAT%C3%93RIA%20NO%20QUADRO%20DA%20TEORIA%20ANTROPOL%C3%93GICA%20DO%20DID%C3%81TICO%20E%20DA%20TEORIA%20DOS%20CAMPOS%20CONCEITUAIS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=OS%20CONCEITOS%20DE%20MEDIDAS%20DE%20TEND%C3%8ANCIA%20CENTRAL%20E%20DE%20DISPERS%C3%83O%20NA%20FORMA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO%20NO%20BRASIL%20E%20NA%20FRAN%C3%87A.%20ABORDAGEM%20EXPLORAT%C3%93RIA%20NO%20QUADRO%20DA%20TEORIA%20ANTROPOL%C3%93GICA%20DO%20DID%C3%81TICO%20E%20DA%20TEORIA%20DOS%20CAMPOS%20CONCEITUAIS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/18617098"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "18617098",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "medidas de tendência central e de dispersão",
+    "transposição didática",
+    "teoria antropológica do didático",
+    "teoria dos campos conceituais",
+    "ensino médio"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-18617098.svg",
+  "resumo": "A Estatística é importante para a educação científica e cidadã e por essa razão ela é adotada nos programas do ensino fundamental e médio de vários países, entre eles, o Brasil e a França. Dois conceitos fundamentais da estatística descritiva são as medidas de tendência central e de dispersão. Partindo de problemas identificados em diversas pesquisas sobre a aprendizagem dessas medidas na educação básica e em cursos de graduação, propomos como hipótese que existe uma relação entre esses problemas e a forma como esse saber é transposto para o livro didático e os programas. Consideramos também que essas medidas devem ser ensinadas de forma articuladas com a dispersão. Nesse sentido, este estudo tem por objetivo a análise da forma como as medidas de tendência central e de dispersão são apresentadas nos programas e em alguns livros didáticos utilizados no Brasil e na França no ensino médio. Para esta investigação, realizamos uma pesquisa bibliográfica. Apoiamos este estudo em diversos teóricos e pesquisas. Destacando em especial a teoria antropológica do didático e a teoria dos campos conceituais. Entre os resultados produzidos, temos a própria proposta de sistematização da pesquisa pela tese, um capítulo sobre o saber científico relativo às medidas de tendência central e de dispersão e a análise da transposição didática dos programas e dos livros que envolvem uma discussão sobre as características desses elementos no Brasil e na França. Os resultados indicam limitações entre os programas e livros selecionados, o que pode indicar que em parte os problemas indicados, nas pesquisas levantadas, estão relacionados à forma como esse conhecimento é transposto nos programas e livros didáticos.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
+}

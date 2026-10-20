@@ -1,0 +1,64 @@
+{
+  "id": "capes-42767943",
+  "autor": "Loise Tarouquela Medeiros",
+  "ano": 2024,
+  "tipo": "Tese",
+  "titulo": "ANÁLISE DE LIVROS DIDÁTICOS DOS ANOS INICIAIS EM RELAÇÃO A ESTATÍSTICA, A PARTIR DO QUE É PROPOSTO NO CURRÍCULO DA CIDADE DE SÃO JOÃO DE MERITI",
+  "instituicao": "UNIVERSIDADE CRUZEIRO DO SUL",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Edda Curi",
+  "programa": "ENSINO DE CIÊNCIAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Letramento Estatístico; Raciocínio Estatístico; Pensamento Estatístico; Livros Didáticos; Documentos Curriculares; Anos Iniciais",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22AN%C3%81LISE%20DE%20LIVROS%20DID%C3%81TICOS%20DOS%20ANOS%20INICIAIS%20EM%20RELA%C3%87%C3%83O%20A%20ESTAT%C3%8DSTICA%2C%20A%20PARTIR%20DO%20QUE%20%C3%89%20PROPOSTO%20NO%20CURR%C3%8DCULO%20DA%20CIDADE%20DE%20S%C3%83O%20JO%C3%83O%20DE%20MERITI%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AN%C3%81LISE%20DE%20LIVROS%20DID%C3%81TICOS%20DOS%20ANOS%20INICIAIS%20EM%20RELA%C3%87%C3%83O%20A%20ESTAT%C3%8DSTICA%2C%20A%20PARTIR%20DO%20QUE%20%C3%89%20PROPOSTO%20NO%20CURR%C3%8DCULO%20DA%20CIDADE%20DE%20S%C3%83O%20JO%C3%83O%20DE%20MERITI&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42767943"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "42767943",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Letramento Estatístico",
+    "Raciocínio Estatístico",
+    "Pensamento Estatístico",
+    "Livros Didáticos",
+    "Documentos Curriculares",
+    "Anos Iniciais"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-42767943.svg",
+  "resumo": "O objetivo da pesquisa é analisar a proposta de ensino de Estatística em currículos prescrito e apresentado para os Anos Iniciais das escolas de São João de Meriti, visando à indicação de complementação de atividades dessa unidade temática. As duas instâncias curriculares, o currículo prescrito e apresentado, foram escolhidas devido o momento de reorganização dos currículos de Matemática no Brasil e à ampla influência destas instâncias nas demais. A pesquisa baseia-se na interação dos documentos curriculares, bem como dos livros didáticos, com docentes e estudantes. Ou seja, analisamos os documentos e livros didáticos, considerando seu reflexo em sala de aula, sendo que essas instâncias curriculares interagem com as demais ao chegar ao professor, à sala de aula e, inclusive, ao deixar suas marcas nos resultados. Busca-se compreender quais são as concepções, características e elementos dos documentos curriculares analisados e como eles abordam a Estatística para o desenvolvimento do letramento, raciocínio e pensamento estatísticos, tendo como referência a Base Nacional Comum Curricular e se essas propostas estão contempladas nos livros didáticos utilizados nas escolas de São João de Meriti. A metodologia tem abordagem qualitativa, apoiada na análise documental dos documentos curriculares e de uma coleção de livros didáticos . A investigação almeja contribuir para o debate acerca da Estatística nos Anos Iniciais do Ensino Fundamental e ampliar as discussões em torno do currículo da cidade de São João de Meriti. Constatamos lacunas nos documentos curriculares que poderiam ser preenchidas se os autores de livros didáticos atendessem ao que é recomendado pelos pesquisadores da área de Educação Estatística. Apontamos para a necessidade de mais discussões e reflexões sobre as características do letramento, raciocínio e pensamento estatísticos e sua importância para o ensino e aprendizagem dos alunos, a fim de que esses aspectos estejam presentes no currículo e nas práticas pedagógicas. Acreditamos que ensinar os conceitos e procedimentos estatísticos, por meio de pesquisa, na perspectiva do letramento, raciocínio e pensamento estatísticos, poderá ajudar os alunos não só a tratar os dados, mas também a adotar uma postura investigativa, ampliando sua compreensão de mundo e melhorando seu posicionamento frente a novas informações, sejam elas sociais, políticas ou econômicas. Tendo em vista os aspectos observados, elaboramos uma proposta de atividade de Estatística baseada no Ciclo Investigativo de Guimarães (2013), de modo a apoiar o professor na elaboração de atividades que proporcionem o desenvolvimento do letramento, raciocínio e pensamento estatísticos, além de um catálogo com diferentes materiais complementares para auxiliar no planejamento das aulas com conteúdo de Estatística.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "letramento estatístico",
+    "pensamento estatístico",
+    "raciocínio estatístico"
+  ],
+  "ids_duplicados": []
+}

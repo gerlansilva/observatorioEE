@@ -1,0 +1,59 @@
+{
+  "id": "capes-29329090",
+  "autor": "Anderson Anzai dos Santos",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "A CONSTRUÇÃO DO LETRAMENTO ESTATÍSTICO EM ESTRATÉGIAS COM O USO DE TECNOLOGIAS DIGITAIS EM AULAS DE ESTATÍSTICA DE CURSOS DE GRADUAÇÃO",
+  "instituicao": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE SÃO PAULO",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Cileda de Queiroz e Silva Coutinho",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Estatística - Estudo e ensino; Letramento estatístico; Engenharia didática",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20CONSTRU%C3%87%C3%83O%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20EM%20ESTRAT%C3%89GIAS%20COM%20O%20USO%20DE%20TECNOLOGIAS%20DIGITAIS%20EM%20AULAS%20DE%20ESTAT%C3%8DSTICA%20DE%20CURSOS%20DE%20GRADUA%C3%87%C3%83O%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20CONSTRU%C3%87%C3%83O%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20EM%20ESTRAT%C3%89GIAS%20COM%20O%20USO%20DE%20TECNOLOGIAS%20DIGITAIS%20EM%20AULAS%20DE%20ESTAT%C3%8DSTICA%20DE%20CURSOS%20DE%20GRADUA%C3%87%C3%83O&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29329090"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "29329090",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Estatística - Estudo e ensino",
+    "Letramento estatístico",
+    "Engenharia didática"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-29329090.svg",
+  "resumo": "O letramento estatístico é caracterizado pela habilidade de ler, compreender, interpretar, analisar, avaliar e discutir corretamente conteúdos estatísticos. Nesse contexto, acreditamos que a construção desse letramento deve ser formada na vida do estudante desde o início da sua escolaridade. Entretanto, estudos indicam que essa formação não é suficiente e se agrava ainda mais na fase universitária. Assim, nesta pesquisa qualitativa, investigamos a situação atual das disciplinas introdutórias de estatística descritiva em cursos de graduação, analisando um da área de exatas (Licenciatura em Matemática) e dois de biológicas (Enfermagem e Medicina) na Universidade Federal do Estado do Rio de Janeiro (UNIRIO). A pesquisa foi realizada em Junho de 2018. Apoiamo-nos na fundamentação teórica da estruturação dos níveis de conceitualização dos conhecimentos pelos alunos para aplicar algumas sequências de atividades com o auxílio do software estatístico R e investigar se o aprendizado de conteúdos de estatística descritiva, utilizando o pacote R Commander, torna-se mais significativo e contribui para a construção do letramento estatístico dos estudantes universitários, bem como a contextualização da Estatística na formação profissional do estudante potencializa a construção do letramento estatístico, apoiando-o na formação de uma maior criticidade no uso dos dados e na possível articulação em seu cotidiano e formação de cidadania. Com relação aos procedimentos metodológicos, foram utilizados os pressupostos da Engenharia Didática, como estudos preliminares, análises a priori, experimentação, análises a posteriori e validação e durante a execução das atividades, identificamos que os alunos não tiveram dificuldade na manipulação do software, porém apresentaram dificuldade na abordagem das métricas estatísticas, na sua interpretação assim como em relacioná-las com os gráficos. Muitos demonstraram possuir apenas o nível técnico de seu conhecimento e tiveram dificuldade para ultrapassar os níveis mais elementares em seu letramento estatístico",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
+}

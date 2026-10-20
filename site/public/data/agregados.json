@@ -1,13 +1,13 @@
 {
-  "total": 259,
+  "total": 662,
   "periodo": {
     "inicio": 1984,
-    "fim": 2013
+    "fim": 2024
   },
-  "instituicoes": 57,
-  "estados": 14,
+  "instituicoes": 135,
+  "estados": 22,
   "regioes": 5,
-  "atualizado_em": "2026-10-17T22:18:18+00:00",
+  "atualizado_em": "2026-10-20T18:35:27+00:00",
   "por_ano": [
     {
       "ano": 1984,
@@ -127,90 +127,178 @@
     },
     {
       "ano": 2013,
-      "total": 1
+      "total": 20
+    },
+    {
+      "ano": 2014,
+      "total": 21
+    },
+    {
+      "ano": 2015,
+      "total": 26
+    },
+    {
+      "ano": 2016,
+      "total": 25
+    },
+    {
+      "ano": 2017,
+      "total": 29
+    },
+    {
+      "ano": 2018,
+      "total": 34
+    },
+    {
+      "ano": 2019,
+      "total": 47
+    },
+    {
+      "ano": 2020,
+      "total": 26
+    },
+    {
+      "ano": 2021,
+      "total": 44
+    },
+    {
+      "ano": 2022,
+      "total": 36
+    },
+    {
+      "ano": 2023,
+      "total": 52
+    },
+    {
+      "ano": 2024,
+      "total": 44
     }
   ],
   "por_grau": [
     {
       "rotulo": "Mestrado Acadêmico",
-      "total": 158
+      "total": 315
     },
     {
       "rotulo": "Mestrado Profissional",
-      "total": 63
+      "total": 222
     },
     {
       "rotulo": "Doutorado",
-      "total": 38
+      "total": 124
+    },
+    {
+      "rotulo": "Doutorado Profissional",
+      "total": 1
     }
   ],
   "por_tipo": [
     {
       "rotulo": "Dissertação",
-      "total": 221
+      "total": 537
     },
     {
       "rotulo": "Tese",
-      "total": 38
+      "total": 125
     }
   ],
   "por_regiao": [
     {
       "rotulo": "Sudeste",
-      "total": 165
+      "total": 320
     },
     {
       "rotulo": "Sul",
-      "total": 58
+      "total": 173
     },
     {
       "rotulo": "Nordeste",
-      "total": 29
+      "total": 129
     },
     {
       "rotulo": "Centro-Oeste",
-      "total": 5
+      "total": 17
     },
     {
       "rotulo": "Norte",
-      "total": 2
+      "total": 23
     }
   ],
   "por_estado": [
     {
       "rotulo": "São Paulo",
-      "total": 140
+      "total": 241
     },
     {
       "rotulo": "Rio Grande do Sul",
-      "total": 32
+      "total": 98
     },
     {
       "rotulo": "Pernambuco",
-      "total": 25
+      "total": 88
     },
     {
       "rotulo": "Minas Gerais",
-      "total": 14
-    },
-    {
-      "rotulo": "Santa Catarina",
-      "total": 13
+      "total": 49
     },
     {
       "rotulo": "Paraná",
-      "total": 13
+      "total": 49
+    },
+    {
+      "rotulo": "Santa Catarina",
+      "total": 26
     },
     {
       "rotulo": "Rio de Janeiro",
-      "total": 11
+      "total": 21
     },
     {
-      "rotulo": "Mato Grosso do Sul",
-      "total": 2
+      "rotulo": "Bahia",
+      "total": 14
     },
     {
       "rotulo": "Pará",
+      "total": 13
+    },
+    {
+      "rotulo": "Mato Grosso do Sul",
+      "total": 9
+    },
+    {
+      "rotulo": "Espírito Santo",
+      "total": 9
+    },
+    {
+      "rotulo": "Paraíba",
+      "total": 9
+    },
+    {
+      "rotulo": "Amazonas",
+      "total": 8
+    },
+    {
+      "rotulo": "Rio Grande do Norte",
+      "total": 5
+    },
+    {
+      "rotulo": "Alagoas",
+      "total": 5
+    },
+    {
+      "rotulo": "Sergipe",
+      "total": 4
+    },
+    {
+      "rotulo": "Ceará",
+      "total": 4
+    },
+    {
+      "rotulo": "Mato Grosso",
+      "total": 4
+    },
+    {
+      "rotulo": "Goiás",
       "total": 2
     },
     {
@@ -218,19 +306,11 @@
       "total": 2
     },
     {
-      "rotulo": "Paraíba",
-      "total": 2
-    },
-    {
-      "rotulo": "Goiás",
+      "rotulo": "Tocantins",
       "total": 1
     },
     {
-      "rotulo": "Sergipe",
-      "total": 1
-    },
-    {
-      "rotulo": "Ceará",
+      "rotulo": "Roraima",
       "total": 1
     }
   ],
@@ -272,11 +352,19 @@
       "total": 6
     },
     {
+      "rotulo": "Ensino",
+      "total": 403
+    },
+    {
       "rotulo": "Outros",
       "total": 4
     }
   ],
   "por_foco": [
+    {
+      "rotulo": "",
+      "total": 403
+    },
     {
       "rotulo": "Processo de ensino e aprendizagem da Estocástica",
       "total": 88
@@ -350,6 +438,10 @@
   ],
   "por_nivel": [
     {
+      "rotulo": "",
+      "total": 403
+    },
+    {
       "rotulo": "Ensino Superior",
       "total": 60
     },
@@ -412,48 +504,48 @@
       "total": 68
     },
     {
+      "nome": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+      "total": 58
+    },
+    {
+      "nome": "UNIVERSIDADE CRUZEIRO DO SUL",
+      "total": 27
+    },
+    {
+      "nome": "UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ",
+      "total": 23
+    },
+    {
       "nome": "Universidade Federal de Pernambuco",
       "total": 22
+    },
+    {
+      "nome": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE SÃO PAULO",
+      "total": 20
+    },
+    {
+      "nome": "UNIVERSIDADE FEDERAL DE JUIZ DE FORA",
+      "total": 19
     },
     {
       "nome": "Universidade Estadual de Campinas",
       "total": 15
     },
     {
+      "nome": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL",
+      "total": 14
+    },
+    {
+      "nome": "UNIVERSIDADE ESTADUAL DE SANTA CRUZ",
+      "total": 13
+    },
+    {
       "nome": "Universidade Bandeirantes de São Paulo",
       "total": 12
     },
     {
-      "nome": "Universidade Estadual Paulista",
-      "total": 10
-    },
-    {
-      "nome": "Universidade Cruzeiro do Sul",
-      "total": 10
-    },
-    {
-      "nome": "Universidade de São Paulo",
-      "total": 9
-    },
-    {
-      "nome": "Universidade Federal de Santa Catarina",
-      "total": 9
-    },
-    {
-      "nome": "Pontifícia Universidade Católica do Rio Grande do Sul",
-      "total": 9
-    },
-    {
-      "nome": "Universidade Luterana do Brasil (ULBRA/Canoas)",
-      "total": 8
-    },
-    {
-      "nome": "Pontifícia Universidade Católica de Minas Gerais",
-      "total": 7
-    },
-    {
-      "nome": "Universidade São Francisco",
-      "total": 7
+      "nome": "UNIVERSIDADE FEDERAL DO RIO GRANDE",
+      "total": 12
     }
   ]
 }
