@@ -2118,6 +2118,12 @@ h1[tabindex="-1"]:focus-visible {
   margin: 0 0 0.8rem;
 }
 
+.panorama-note.lingering {
+  font-size: 0.75rem;
+  color: var(--tainacan-muted);
+  margin: 0.4rem 0 0;
+}
+
 .timeline {
   display: grid;
   grid-template-columns: repeat(30, minmax(7px, 1fr));

@@ -1333,8 +1333,8 @@ function renderPanorama() {
         <section class="tainacan-panorama-section">
           <h2>Produção por ano</h2>
           <div style="overflow-x:auto">
-            <div class="timeline" role="img" aria-label="Produção por ano">${bars}</div>
-            <div class="timeline-labels" aria-hidden="true">${labels}</div>
+            <div class="timeline" style="grid-template-columns:repeat(${a.por_ano.length},minmax(7px,1fr))" role="img" aria-label="Produção por ano">${bars}</div>
+            <div class="timeline-labels" style="grid-template-columns:repeat(${a.por_ano.length},minmax(7px,1fr))" aria-hidden="true">${labels}</div>
           </div>
           <details style="margin-top:.8rem;font-size:.8125rem">
             <summary>Ver os dados do gráfico</summary>
@@ -1356,18 +1356,19 @@ function renderPanorama() {
                 <li><span class="dot" style="--dot:#174B57"></span><span>Mestrado acadêmico</span><strong>${ma}</strong></li>
                 <li><span class="dot" style="--dot:#2E7D89"></span><span>Mestrado profissional</span><strong>${mp}</strong></li>
                 <li><span class="dot" style="--dot:#8FB3B9"></span><span>Doutorado</span><strong>${dou}</strong></li>
+                <li><span class="dot" style="--dot:#174B57"></span><span>Doutorado profissional</span><strong>${grauValue('Doutorado Profissional')}</strong></li>
               </ul>
             </div>
           </section>
 
           <section class="tainacan-panorama-section panorama-section--conteudo">
             <h2>Conteúdo enfocado</h2>
-            ${renderPanoramaBars(a.por_conteudo, 'green', null)}
+            ${renderPanoramaBars(a.por_conteudo.filter((e) => e.rotulo && e.rotulo.trim()), 'green', null)}
           </section>
 
           <section class="tainacan-panorama-section panorama-section--foco">
             <h2>Foco temático</h2>
-            ${renderPanoramaBars(a.por_foco, 'mustard', 10)}
+            ${renderPanoramaBars(a.por_foco.filter((e) => e.rotulo && e.rotulo.trim()), 'mustard', 10)}${(a.por_foco.find((e) => !e.rotulo || !e.rotulo.trim()) || {}).total ? `<p class="panorama-note lingering">${a.por_foco.find((e) => !e.rotulo || !e.rotulo.trim()).total} registros novos ainda não têm foco catalogado (em curadoria).</p>` : ''}
           </section>
 
           <section class="tainacan-panorama-section panorama-section--instituicoes">
