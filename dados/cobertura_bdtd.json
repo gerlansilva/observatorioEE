@@ -1,11 +1,11 @@
 {
   "totais": {
-    "total": 945,
+    "total": 880,
     "bdtd": 172,
     "resumo_pt": 759,
     "repositorio": 182,
     "tags_pt": 763,
-    "thumbnail": 945
+    "thumbnail": 880
   },
   "registros": [
     {
@@ -449,28 +449,6 @@
       "thumbnail": "./assets/images/thumbs/capes-102838.svg"
     },
     {
-      "id": "capes-108808",
-      "titulo": "A Probabilidade e a Estatística no Ensino Fundamental: Uma Análise Curricular",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-108808.svg"
-    },
-    {
-      "id": "capes-110813",
-      "titulo": "Estatística no Ensino Fundamental: Uma Proposta de Inclusão de Conteúdos Matemáticos",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-110813.svg"
-    },
-    {
       "id": "capes-11094929",
       "titulo": "Práticas de uma comunidade de professores que ensinam matemática e o desenvolvimento profissional em educação matemática",
       "instituicao": "UNIVERSIDADE ESTADUAL DE LONDRINA",
@@ -669,17 +647,6 @@
       "thumbnail": "./assets/images/thumbs/capes-12202167.svg"
     },
     {
-      "id": "capes-127474",
-      "titulo": "As Possibilidades de um Ensino de Análise Combinatória Sob uma Abordagem Alternativa.",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-127474.svg"
-    },
-    {
       "id": "capes-12827159",
       "titulo": "Educação matemática nos cursos superiores de tecnologia: revelações sobre a formação estatística",
       "instituicao": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE SÃO PAULO",
@@ -700,28 +667,6 @@
       "resumo_fonte": "CAPES",
       "tags_pt": true,
       "thumbnail": "./assets/images/thumbs/capes-12827168.svg"
-    },
-    {
-      "id": "capes-129721",
-      "titulo": "Uma Abordagem Historica do Desenvolvimento da Estatistica no Estado de Sao Paulo",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-129721.svg"
-    },
-    {
-      "id": "capes-129730",
-      "titulo": "A Modelacao Matematica Aplicada no Ensino de Estatistica em Cursos de Graduacao",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-129730.svg"
     },
     {
       "id": "capes-12994621",
@@ -790,28 +735,6 @@
       "thumbnail": "./assets/images/thumbs/capes-13429.svg"
     },
     {
-      "id": "capes-149130",
-      "titulo": "Atitudes em relação à estatística: um estudo com alunos de graduação.",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-149130.svg"
-    },
-    {
-      "id": "capes-149135",
-      "titulo": "Implicações das atitudes e das habilidades matemáticas na aprendizagem dos conceitos de estatística.",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-149135.svg"
-    },
-    {
       "id": "capes-15238864",
       "titulo": "O que É Feito dos Dados do Ideb: Um Estudo sobre o Processo de Legitimação das Estatísticas Oficiais",
       "instituicao": "UNIVERSIDADE DO ESTADO DO RIO GRANDE DO NORTE",
@@ -843,17 +766,6 @@
       "resumo_fonte": "CAPES",
       "tags_pt": true,
       "thumbnail": "./assets/images/thumbs/capes-16038782.svg"
-    },
-    {
-      "id": "capes-161737",
-      "titulo": "Uma investigação sobre erros apresentados por estudantes na resolução de problemas verbais e não-verbais no campo da análise combinatória",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-161737.svg"
     },
     {
       "id": "capes-16601975",
@@ -900,17 +812,6 @@
       "thumbnail": "./assets/images/thumbs/capes-16772143.svg"
     },
     {
-      "id": "capes-168906",
-      "titulo": "O Ensino de Estatística na Universidade e a controvérsia sobre os fundamentos da inferência.",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-168906.svg"
-    },
-    {
       "id": "capes-17214795",
       "titulo": "O Ensino de Estatística na ESALQ/USP: personagens, abordagens e problemáticas (1936-1959)",
       "instituicao": "UNIVERSIDADE EST.PAULISTA JÚLIO DE MESQUITA FILHO/RIO CLARO",
@@ -942,17 +843,6 @@
       "resumo_fonte": "CAPES",
       "tags_pt": false,
       "thumbnail": "./assets/images/thumbs/capes-176461.svg"
-    },
-    {
-      "id": "capes-177013",
-      "titulo": "Investigando os Fatores que Influenciam o Raciocínio Combinatório em Adolescentes de 14 anos - 8a série",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-177013.svg"
     },
     {
       "id": "capes-17860943",
@@ -1439,17 +1329,6 @@
       "thumbnail": "./assets/images/thumbs/capes-20141905.svg"
     },
     {
-      "id": "capes-201821",
-      "titulo": "Professores e alunos construindo saberes e significados em um projeto de estatística para 6a série: estudo de duas experiências em escolas pública e particular.",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-201821.svg"
-    },
-    {
       "id": "capes-201824",
       "titulo": "Atitudes dos Alunos do Curso de Pedagogia com Relação à DIS-CIPLINA de Estatística no Laboratório de Informática.",
       "instituicao": "",
@@ -1459,17 +1338,6 @@
       "resumo_fonte": "CAPES",
       "tags_pt": false,
       "thumbnail": "./assets/images/thumbs/capes-201824.svg"
-    },
-    {
-      "id": "capes-201827",
-      "titulo": "A Relação Ente a Habilidade VISO-PICTÓRICA e o Domínio de Conceitos Estatísticos na Leitura de Gráficos.",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-201827.svg"
     },
     {
       "id": "capes-20245203",
@@ -1811,17 +1679,6 @@
       "resumo_fonte": "CAPES",
       "tags_pt": true,
       "thumbnail": "./assets/images/thumbs/capes-20910750.svg"
-    },
-    {
-      "id": "capes-209331",
-      "titulo": "Uma experiência de ensino: noções de amostra representativa e probabilidade durante um curso de Estatística",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-209331.svg"
     },
     {
       "id": "capes-21105095",
@@ -2242,17 +2099,6 @@
       "thumbnail": "./assets/images/thumbs/capes-21927465.svg"
     },
     {
-      "id": "capes-228430",
-      "titulo": "Estatística nas Séries Iniciais do Ensino Fundamental: Buscando Caminhos",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-228430.svg"
-    },
-    {
       "id": "capes-23150717",
       "titulo": "A Aprendizagem de Análise Combinatória no Ensino Médio",
       "instituicao": "UNIVERSIDADE FEDERAL DE ALAGOAS",
@@ -2297,28 +2143,6 @@
       "thumbnail": "./assets/images/thumbs/capes-23382487.svg"
     },
     {
-      "id": "capes-234005",
-      "titulo": "'O conhecimento profissional dos professores e suas relações com estatística e probabilidade na educação infantil.'",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-234005.svg"
-    },
-    {
-      "id": "capes-238106",
-      "titulo": "As Concepções dos Professores de Matemática sobre o uso da Modelagem no Desenvolvimento do Raciocínio Combinatório no Ensino Fundamental",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-238106.svg"
-    },
-    {
       "id": "capes-24122",
       "titulo": "Avaliacao do Desempenho dos Professores das Disciplinas de Estatistica da PUCRS, Sob o Ponto de Vista dos Alunos",
       "instituicao": "",
@@ -2350,17 +2174,6 @@
       "resumo_fonte": "CAPES",
       "tags_pt": true,
       "thumbnail": "./assets/images/thumbs/capes-24232609.svg"
-    },
-    {
-      "id": "capes-248348",
-      "titulo": "A Característica da Formação Inicial e Continuada Docente de Estatística da Ucdb",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-248348.svg"
     },
     {
       "id": "capes-24976569",
@@ -2440,28 +2253,6 @@
       "thumbnail": "./assets/images/thumbs/capes-27068898.svg"
     },
     {
-      "id": "capes-271632",
-      "titulo": "Introduzindo a estatística nas séries iniciais do Ensino Fundamental a partir de material manipulativo: uma intervenção de Ensino",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-271632.svg"
-    },
-    {
-      "id": "capes-271642",
-      "titulo": "A mobilização de conceitos estatísticos: estudo exploratório com alunos de um curso de Tecnologia em Turismo",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-271642.svg"
-    },
-    {
       "id": "capes-27180651",
       "titulo": "O Pensamento Estatístico no Ensino Fundamental: Uma Experiência Articulando o Desenvolvimento de Projetos de Pesquisa com os Conceitos Básicos da Estatística Implementados em uma Sequência Didática Eletrônica",
       "instituicao": "UNIVERSIDADE LUTERANA DO BRASIL",
@@ -2504,17 +2295,6 @@
       "resumo_fonte": "CAPES",
       "tags_pt": true,
       "thumbnail": "./assets/images/thumbs/capes-27231505.svg"
-    },
-    {
-      "id": "capes-272782",
-      "titulo": "Uma Abordagem sobre as Atitudes e as Idéias de Licenciandos em Relação à Estatística",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-272782.svg"
     },
     {
       "id": "capes-27343901",
@@ -4068,17 +3848,6 @@
       "thumbnail": "./assets/images/thumbs/capes-30883232.svg"
     },
     {
-      "id": "capes-310172",
-      "titulo": "O currículo de matemática no ensino fundamental e a estatística: relações e possibilidades.",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-310172.svg"
-    },
-    {
       "id": "capes-31393361",
       "titulo": "A inter-relação entre a estatística e a probabilidade: um estudo com professores de matemática do ensino médio sobre a curva normal",
       "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
@@ -4308,17 +4077,6 @@
       "resumo_fonte": "CAPES",
       "tags_pt": false,
       "thumbnail": "./assets/images/thumbs/capes-319317.svg"
-    },
-    {
-      "id": "capes-319386",
-      "titulo": "A educação estatística no ensino fundamental: discussões sobre a práxis de professoras que ensinam matemática no interior de Goiás.",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-319386.svg"
     },
     {
       "id": "capes-31946085",
@@ -4585,28 +4343,6 @@
       "thumbnail": "./assets/images/thumbs/capes-33466663.svg"
     },
     {
-      "id": "capes-336124",
-      "titulo": "O ensino de Estatística e a busca do equilíbrio entre os aspectos determinísticos e aleatórios da realidade",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-336124.svg"
-    },
-    {
-      "id": "capes-336183",
-      "titulo": "Aspectos afetivos na aprendizagem da Estatística: atitudes e suas formas de avaliação.",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-336183.svg"
-    },
-    {
       "id": "capes-33630839",
       "titulo": "Contribuições do Letramento Estatístico em Situações do Cotidiano dos Alunos do 9º Ano do Ensino Fundamental",
       "instituicao": "UNIVERSIDADE ESTADUAL DA PARAIBA",
@@ -4618,17 +4354,6 @@
       "thumbnail": "./assets/images/thumbs/capes-33630839.svg"
     },
     {
-      "id": "capes-341529",
-      "titulo": "Trabalho de projetos: possibilidades e desafios na formação estatística do pedagogo.",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-341529.svg"
-    },
-    {
       "id": "capes-34376825",
       "titulo": "PRAXEOLOGIAS DA EDUCAÇÃO ESTATÍSTICA NA FORMAÇÃO DE PROFESSORES DOS ANOS INICIAIS: o caso do pensamento transnumerativo",
       "instituicao": "UNIVERSIDADE FEDERAL DO PARÁ",
@@ -4638,28 +4363,6 @@
       "resumo_fonte": "CAPES",
       "tags_pt": true,
       "thumbnail": "./assets/images/thumbs/capes-34376825.svg"
-    },
-    {
-      "id": "capes-345543",
-      "titulo": "Um Estudo sobre o Pensamento Estatístico: Componentes e Habilidades",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-345543.svg"
-    },
-    {
-      "id": "capes-345544",
-      "titulo": "Estatística em um Curso de Administração de Empresas - Mobilização dos Conceitos Estatísticos de Base",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-345544.svg"
     },
     {
       "id": "capes-34557399",
@@ -4992,28 +4695,6 @@
       "thumbnail": "./assets/images/thumbs/capes-35657652.svg"
     },
     {
-      "id": "capes-356596",
-      "titulo": "A Compreensão da Estatística a Partir da Utilização da Planilha",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-356596.svg"
-    },
-    {
-      "id": "capes-356602",
-      "titulo": "A Estatística e a Probabilidade nos Livros Didáticos de Matemática do Ensino Médio",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-356602.svg"
-    },
-    {
       "id": "capes-35660592",
       "titulo": "Aprendizagem Profissional de uma Professora na Realização de Práticas de Ensino Exploratório de Estatística",
       "instituicao": "UNIVERSIDADE ESTADUAL DO PARANÁ - REITORIA",
@@ -5056,17 +4737,6 @@
       "resumo_fonte": "CAPES",
       "tags_pt": true,
       "thumbnail": "./assets/images/thumbs/capes-35713440.svg"
-    },
-    {
-      "id": "capes-357224",
-      "titulo": "As Concepções dos Professores de Matemática do Ensino Fundamental e Médio da 16ª CRE em relação ao ensino de estatística",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-357224.svg"
     },
     {
       "id": "capes-357232",
@@ -5905,17 +5575,6 @@
       "thumbnail": "./assets/images/thumbs/capes-37444269.svg"
     },
     {
-      "id": "capes-374594",
-      "titulo": "Trabalho de Projetos no Processo de Ensinar e Aprender Estatística na Universidade",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-374594.svg"
-    },
-    {
       "id": "capes-37464878",
       "titulo": "Investigação do Uso de uma Sequência Didática no Ensino de Estatística Numa Escola do Interior Potiguar",
       "instituicao": "UNIVERSIDADE DO ESTADO DO RIO GRANDE DO NORTE",
@@ -6510,17 +6169,6 @@
       "thumbnail": "./assets/images/thumbs/capes-38528977.svg"
     },
     {
-      "id": "capes-385360",
-      "titulo": "A Educação Estatística: Uma Investigação Acerca dos Aspectos Relevantes à Didática da Estatística em Cursos de Graduação",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-385360.svg"
-    },
-    {
       "id": "capes-385820",
       "titulo": "Pensamento estatístico e raciocínio sobre variação: um estudo com professores de matemática",
       "instituicao": "",
@@ -6530,17 +6178,6 @@
       "resumo_fonte": "CAPES",
       "tags_pt": false,
       "thumbnail": "./assets/images/thumbs/capes-385820.svg"
-    },
-    {
-      "id": "capes-385823",
-      "titulo": "A construção do pensamento estatístico: organização, representação e interpretação de dados por alunos da 5ª série do Ensino Fundamental",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-385823.svg"
     },
     {
       "id": "capes-38626907",
@@ -6662,17 +6299,6 @@
       "resumo_fonte": "CAPES",
       "tags_pt": true,
       "thumbnail": "./assets/images/thumbs/capes-38863520.svg"
-    },
-    {
-      "id": "capes-388939",
-      "titulo": "A Educação Estatística na Formação do professor de Matemática.",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-388939.svg"
     },
     {
       "id": "capes-401482",
@@ -7346,28 +6972,6 @@
       "thumbnail": "./assets/images/thumbs/capes-42823614.svg"
     },
     {
-      "id": "capes-428276",
-      "titulo": "Os Saberes Docentes Do Professor Universitário Do Curso Introdutório de Estatística Expressos no Discurso dos Formadores",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-428276.svg"
-    },
-    {
-      "id": "capes-428277",
-      "titulo": "Ensino e Aprendizagem de Estatística por meio da Modelagem Matemática: uma investigação com o ensino médio",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-428277.svg"
-    },
-    {
       "id": "capes-42843997",
       "titulo": "Estatística no Ensino Primário de Angola no período de 2002 a 2020: saberes do ensino e da formação",
       "instituicao": "UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL",
@@ -7401,50 +7005,6 @@
       "thumbnail": "./assets/images/thumbs/capes-42888983.svg"
     },
     {
-      "id": "capes-449068",
-      "titulo": "Quem Dança com Quem: O Desenvolvimento do Raciocínio Combinatório do 2º Ano do Ensino Fundamental ao 3º Ano do Ensino Médio",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-449068.svg"
-    },
-    {
-      "id": "capes-470255",
-      "titulo": "O papel da estatística na inclusão de alunos da educação de jovens e adultos em atividades letradas.",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-470255.svg"
-    },
-    {
-      "id": "capes-470256",
-      "titulo": "A formação estatística e pedagógica do professor de matemática em comunidades de prática",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-470256.svg"
-    },
-    {
-      "id": "capes-487318",
-      "titulo": "Ensino de Estatística com e Sem Recursos Tecnológicos: Uma Investigação com Normalistas",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-487318.svg"
-    },
-    {
       "id": "capes-488115",
       "titulo": "O Processo de Ensino e Aprendizagem da Análise Combinatória: Uma Visão dos Professores de Matemática de Floriano - PI",
       "instituicao": "",
@@ -7454,17 +7014,6 @@
       "resumo_fonte": "CAPES",
       "tags_pt": false,
       "thumbnail": "./assets/images/thumbs/capes-488115.svg"
-    },
-    {
-      "id": "capes-488116",
-      "titulo": "A Disciplina Estatistica nos curso de Pedagogia e Normal superior nas instituições superiores de Ensino de Teresina - PI",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-488116.svg"
     },
     {
       "id": "capes-497731",
@@ -7489,105 +7038,6 @@
       "thumbnail": "./assets/images/thumbs/capes-498647.svg"
     },
     {
-      "id": "capes-518000",
-      "titulo": "Os saberes profissionais dos professores: a problematização das práticas pedagógicas em estatística mediadas pelas práticas colaborativas",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-518000.svg"
-    },
-    {
-      "id": "capes-521763",
-      "titulo": "(Res)significando a Educação Estatística no Ensino Fundamental: Análise de uma Sequência Didática Apoiada nas Tecnologias de Informação e Comunicação",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-521763.svg"
-    },
-    {
-      "id": "capes-521902",
-      "titulo": "Análise Combinatória no Ensino Médio apoiada na Metodologia de Ensino-Aprendizagem-Avaliação de Matemática através da Resolução de Problemas",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-521902.svg"
-    },
-    {
-      "id": "capes-521925",
-      "titulo": "Educação Estatística Crítica: Uma possibilidade?",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-521925.svg"
-    },
-    {
-      "id": "capes-522399",
-      "titulo": "Relações entre Mobilização dos Registros de Representação Semiótica e os níveis de Letramento Estatístico com duas professoras.",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-522399.svg"
-    },
-    {
-      "id": "capes-522410",
-      "titulo": "Estatística para alunos do 6º ano do Ensino Fundamental: um estudo dos conceitos mobilizados na resolução de problemas.",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-522410.svg"
-    },
-    {
-      "id": "capes-522411",
-      "titulo": "Saberes docentes: a análise combinatória no Ensino Médio.",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-522411.svg"
-    },
-    {
-      "id": "capes-526413",
-      "titulo": "Análise de um instrumento de Letramento Estatístico para o Ensino Fundamental II",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-526413.svg"
-    },
-    {
-      "id": "capes-535020",
-      "titulo": "Análise de Atitudes de Alunos Universitários em Relação à Estatística por Meio da Teoria da Resposta ao Item (Tri)",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-535020.svg"
-    },
-    {
       "id": "capes-543555",
       "titulo": "Análise Combinatória: mapas conceituais para aprendizagem significativa",
       "instituicao": "",
@@ -7610,28 +7060,6 @@
       "thumbnail": "./assets/images/thumbs/capes-546237.svg"
     },
     {
-      "id": "capes-572764",
-      "titulo": "\"Análise Combinatória e Proposta Curricular Paulista: um estudo dos problemas de contagem\"",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-572764.svg"
-    },
-    {
-      "id": "capes-572766",
-      "titulo": "\"Concepções de Professores da Educação Básica sobre variabilidade Estatística\"",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-572766.svg"
-    },
-    {
       "id": "capes-5747249",
       "titulo": "Leitura e Interpretação de Gráficos e Tabelas: Um Estudo Social de Suas Fragilidades e de Suas Potencialidades com Estudantes da Educação de Jovens e Adultos no Ensino Fundamental",
       "instituicao": "UNIVERSIDADE SEVERINO SOMBRA",
@@ -7641,39 +7069,6 @@
       "resumo_fonte": "CAPES",
       "tags_pt": true,
       "thumbnail": "./assets/images/thumbs/capes-5747249.svg"
-    },
-    {
-      "id": "capes-575776",
-      "titulo": "Processos de Avaliação na Resolução de Problemas em Estocástica",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-575776.svg"
-    },
-    {
-      "id": "capes-576708",
-      "titulo": "Ensino de Probabilidade com o uso do Programa Estatístico R numa perspectiva Construcionista",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-576708.svg"
-    },
-    {
-      "id": "capes-576710",
-      "titulo": "Elaboração e validação de uma escala de atitudes em relação à Estatística para o ensino médio",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-576710.svg"
     },
     {
       "id": "capes-576712",
@@ -7687,39 +7082,6 @@
       "thumbnail": "./assets/images/thumbs/capes-576712.svg"
     },
     {
-      "id": "capes-586305",
-      "titulo": "Saberes Docentes e Educação Estatística: Um Estudo das Práticas Docentes no Ensino Médio",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-586305.svg"
-    },
-    {
-      "id": "capes-587242",
-      "titulo": "O Ensino de Estatística nas Séries Iniciais do Ensino Fundamental nas Escolas Municipais na Cidade de Boa VISTA-RR",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-587242.svg"
-    },
-    {
-      "id": "capes-587251",
-      "titulo": "O Ensino de Estatística nas Escolas de Ensino Médio Integrado no Estado de Roraima",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-587251.svg"
-    },
-    {
       "id": "capes-593799",
       "titulo": "A Utilização de Objetos de Aprendizagem para a Compreensão e Construção de Gráficos Estatísticos",
       "instituicao": "",
@@ -7729,28 +7091,6 @@
       "resumo_fonte": "CAPES",
       "tags_pt": false,
       "thumbnail": "./assets/images/thumbs/capes-593799.svg"
-    },
-    {
-      "id": "capes-599166",
-      "titulo": "O Ensino de Conteúdos Estatísticos no Projovem CAMPO-SABERES da Terra em Pernambuco",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-599166.svg"
-    },
-    {
-      "id": "capes-599167",
-      "titulo": "A PROVINHA BRASIL DE MATEMÁTICA E O CONHECIMENTO ESTATÍSTICO: instrumento avaliativo a ser utilizado pelo professor?",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-599167.svg"
     },
     {
       "id": "capes-599183",
@@ -7797,17 +7137,6 @@
       "thumbnail": "./assets/images/thumbs/capes-605499.svg"
     },
     {
-      "id": "capes-622737",
-      "titulo": "\"A metodologia de projetos como uma alternativa para ensinar estatística no ensino superior\"",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-622737.svg"
-    },
-    {
       "id": "capes-631652",
       "titulo": "Formação do professor de matemática para o ensino de estatística: estudo sobre uma licenciatura de matemática da Universidade Estadual do Maranhão",
       "instituicao": "",
@@ -7852,17 +7181,6 @@
       "thumbnail": "./assets/images/thumbs/capes-631663.svg"
     },
     {
-      "id": "capes-638216",
-      "titulo": "Análise Combinatória e Construção de Possibilidades: O Raciocínio Formal no Ensino Médio",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-638216.svg"
-    },
-    {
       "id": "capes-642586",
       "titulo": "Contribuições de uma Unidade de Aprendizagem sobre Estatística com o recurso da Planilha",
       "instituicao": "",
@@ -7885,17 +7203,6 @@
       "thumbnail": "./assets/images/thumbs/capes-642587.svg"
     },
     {
-      "id": "capes-643559",
-      "titulo": "E-LEARNING com Análise Combinatória",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-643559.svg"
-    },
-    {
       "id": "capes-643725",
       "titulo": "Aprendizagens Matemáticas Desenvolvidas em Ambiente de Investigação Estatística",
       "instituicao": "",
@@ -7916,17 +7223,6 @@
       "resumo_fonte": "CAPES",
       "tags_pt": false,
       "thumbnail": "./assets/images/thumbs/capes-72943.svg"
-    },
-    {
-      "id": "capes-77908",
-      "titulo": "Estatística e ensino: um estudo sobre representações de professores do 3o. grau.",
-      "instituicao": "",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "CAPES",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/capes-77908.svg"
     },
     {
       "id": "capes-82792",
@@ -10006,17 +9302,6 @@
       "resumo_fonte": "https://bdtd.ibict.br/vufind/Record/PUC_SP-1_495380ce28333bcbcd492fd6ab13e123",
       "tags_pt": true,
       "thumbnail": "./assets/images/thumbs/simone-neto-2008.svg"
-    },
-    {
-      "id": "sobrinho-2010",
-      "titulo": "O raciocínio combinatório e probabilístico de alunos do 6o. ano do Ensino Fundamental",
-      "instituicao": "Universidade Cruzeiro do Sul",
-      "bdtd_url": "",
-      "repositorio_url": "",
-      "resumo_pt": false,
-      "resumo_fonte": "",
-      "tags_pt": false,
-      "thumbnail": "./assets/images/thumbs/sobrinho-2010.svg"
     },
     {
       "id": "souza-2002-2",
