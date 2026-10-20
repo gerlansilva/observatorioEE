@@ -1,59 +1,59 @@
 {
- "id": "capes-29590929",
- "autor": "Jandela Cristiani Guilherme dos Santos Tamashiro",
- "ano": 2017,
- "tipo": "Dissertação",
- "titulo": "Contribuições da Estatística para a Educação Socioemocional na Educação Básica",
- "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Diva Valerio Novaes",
- "programa": "Ensino de Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino; Estatística; Educação Socioemocional.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22CONTRIBUI%C3%87%C3%95ES%20DA%20ESTAT%C3%8DSTICA%20PARA%20A%20EDUCA%C3%87%C3%83O%20SOCIOEMOCIONAL%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CONTRIBUI%C3%87%C3%95ES%20DA%20ESTAT%C3%8DSTICA%20PARA%20A%20EDUCA%C3%87%C3%83O%20SOCIOEMOCIONAL%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29590929"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "29590929",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino",
-  "Estatística",
-  "Educação Socioemocional."
- ],
- "thumbnail": "./assets/images/thumbs/capes-29590929.svg",
- "resumo": "Esta pesquisa tem como objetivo verificar se uma sequência didática elaborada para o processo de ensino e aprendizagem de variáveis estatísticas, organização, apresentação, leitura e interpretação de gráficos e tabelas, favorecerá simultaneamente, o aprendizado socioemocional em um ou mais aspectos explicitados no programa Collaborative for Academic, Social and Emoctional Learning (CASEL): Autoconhecimento, Consciência social, Tomada de decisão responsável, Habilidade de relacionamento, Autogestão. Buscou-se responder à seguinte questão: Uma sequência didática elaborada para o ensino da Estatística, pode contribuir com algum aspecto da Educação Socioemocional? A metodologia utilizada foi um estudo qualitativo. Para a coleta de dados utilizamos: protocolo das atividades realizadas, observação, gravação em áudio e roda de conversa. A pesquisa foi realizada com uma turma de estudantes matriculados no terceiro ano do ensino médio de uma escola pública no interior de São Paulo. Pode-se observar entre os jovens participantes da pesquisa, uma conscientização e socialização do exercício da empatia de alguns com os demais. Esse fato denota construção de competências de consciência social, que é a base para tomada de decisão responsável, pois eles conseguiram compreender os efeitos prejudiciais de ingerir bebida alcoólica, principalmente entre menores de idade. O produto final desse estudo é um relatório, contendo a sequência didática elaborada, a análise efetuada com nossas considerações futuras. Uma delas é a necessidade de ampliar tempo e frequência do trabalho com a interdisciplinaridade entre Estatística e Educação Socioemocional.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-29590929",
+  "autor": "Jandela Cristiani Guilherme dos Santos Tamashiro",
+  "ano": 2017,
+  "tipo": "Dissertação",
+  "titulo": "Contribuições da Estatística para a Educação Socioemocional na Educação Básica",
+  "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Diva Valerio Novaes",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino; Estatística; Educação Socioemocional.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22CONTRIBUI%C3%87%C3%95ES%20DA%20ESTAT%C3%8DSTICA%20PARA%20A%20EDUCA%C3%87%C3%83O%20SOCIOEMOCIONAL%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CONTRIBUI%C3%87%C3%95ES%20DA%20ESTAT%C3%8DSTICA%20PARA%20A%20EDUCA%C3%87%C3%83O%20SOCIOEMOCIONAL%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29590929"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "29590929",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino",
+    "Estatística",
+    "Educação Socioemocional."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-29590929.svg",
+  "resumo": "Esta pesquisa tem como objetivo verificar se uma sequência didática elaborada para o processo de ensino e aprendizagem de variáveis estatísticas, organização, apresentação, leitura e interpretação de gráficos e tabelas, favorecerá simultaneamente, o aprendizado socioemocional em um ou mais aspectos explicitados no programa Collaborative for Academic, Social and Emoctional Learning (CASEL): Autoconhecimento, Consciência social, Tomada de decisão responsável, Habilidade de relacionamento, Autogestão. Buscou-se responder à seguinte questão: Uma sequência didática elaborada para o ensino da Estatística, pode contribuir com algum aspecto da Educação Socioemocional? A metodologia utilizada foi um estudo qualitativo. Para a coleta de dados utilizamos: protocolo das atividades realizadas, observação, gravação em áudio e roda de conversa. A pesquisa foi realizada com uma turma de estudantes matriculados no terceiro ano do ensino médio de uma escola pública no interior de São Paulo. Pode-se observar entre os jovens participantes da pesquisa, uma conscientização e socialização do exercício da empatia de alguns com os demais. Esse fato denota construção de competências de consciência social, que é a base para tomada de decisão responsável, pois eles conseguiram compreender os efeitos prejudiciais de ingerir bebida alcoólica, principalmente entre menores de idade. O produto final desse estudo é um relatório, contendo a sequência didática elaborada, a análise efetuada com nossas considerações futuras. Uma delas é a necessidade de ampliar tempo e frequência do trabalho com a interdisciplinaridade entre Estatística e Educação Socioemocional.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

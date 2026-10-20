@@ -1,61 +1,61 @@
 {
- "id": "capes-38270895",
- "autor": "Michelson Borges de Almeida",
- "ano": 2023,
- "tipo": "Dissertação",
- "titulo": "Uma Sequência Didática de Estatística para Professores de Matemática do 6º Ano do Ensino Fundamental",
- "instituicao": "Universidade Federal do Rio Grande do Norte",
- "cidade": "",
- "estado": "Rio Grande do Norte",
- "regiao": "Nordeste",
- "orientador": "Liliane dos Santos Gutierre",
- "programa": "ENSINO DE CIÊNCIAS NATURAIS E MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino de Estatística; Ensino de Matemática; Educação ambiental; Sequência Didática",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20DE%20ESTAT%C3%8DSTICA%20PARA%20PROFESSORES%20DE%20MATEM%C3%81TICA%20DO%206%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20DE%20ESTAT%C3%8DSTICA%20PARA%20PROFESSORES%20DE%20MATEM%C3%81TICA%20DO%206%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38270895"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "38270895",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino de Estatística",
-  "Ensino de Matemática",
-  "Educação ambiental",
-  "Sequência Didática"
- ],
- "thumbnail": "./assets/images/thumbs/capes-38270895.svg",
- "resumo": "O presente trabalho é o resultado de uma pesquisa que se restringe ao ensino de matemática relacionado ao conteúdo do 6º ano do Ensino Fundamental que envolve estatística e as formas que tais conteúdos são abordados por seus professores aos alunos desse nível de ensino. Delimita-se o objeto de estudo como sendo a construção dos conhecimentos e habilidades sobre conceitos estatísticos na disciplina de matemática para turmas do 6º ano do Ensino Fundamental. Tal delimitação é posta para viabilizar a pesquisa dentro de tempo hábil que compreende o Mestrado Profissional em Ensino de Ciências Naturais e Matemática. Nossa questão foco é: Como construir uma Sequência Didática (SD) que auxilie o professor de matemática na construção da aprendizagem de conceitos estatísticos e, ao mesmo tempo, aborde noções de sustentabilidade ecológica junto aos estudantes do 6º ano do Ensino Fundamental? Para respondê-la, estabeleceu-se como objetivo geral analisar como a Sequência Didática construída pode contribuir no ensino de Matemática do 6º ano do Ensino Fundamental. Como objetivos específicos, foram determinados os seguintes: (1) disponibilizar aos professores de matemática uma Sequência Didática que aborde os conteúdos de estatística, pertinentes aos conhecimentos e habilidades previstos para o 6º ano do Ensino Fundamental, contextualizados com os conhecimentos inerentes à educação e conscientização ambiental; (2) divulgar a Sequência Didática, o Produto Educacional decorrente desse trabalho final de mestrado profissional, para uso no ensino de matemática. Como metodologia, a pesquisa foi desenvolvida com uma abordagem qualitativa e é dividida em duas etapas: (1) pesquisa bibliográfica sobre a abordagem do conteúdo de estatística na disciplina de matemática, bem como sobre a Educação Ambiental a fim de levantar o referencial teórico que viabilizará a utilização de noções de meio ambiente e sustentabilidade como contexto no desenvolvimento de um Produto Educacional (PE) (exigência a ser cumprida por quem faz um mestrado profissional); (2) construção, aplicação e avaliação de um PE que compreende uma Sequência Didática que contextualiza o ensino dos conteúdos de estatística para o 6º ano do Ensino Fundamental com conhecimentos referentes ao meio ambiente. Para aplicação do PE faremos uso da técnica da observação participante e para avaliação, usaremos um questionário fechado que será respondido pelos participantes da pesquisa (professores em formação inicial e continuada). Em conclusão, verificou-se que o ensino dos conteúdos de estatística costuma ser reproduzido de forma mecânica e sem considerar a construção de um pensamento crítico no ato de leitura e interpretação dos dados, fatos que descumprem o referencial didático estabelecido pelas normas da Base Nacional Comum Curricular (BNCC) para o desenvolvimento dos estudos escolares acerca da estatística na área da matemática. Além disso, averiguou-se que a Constituição Federal e a Lei nº 9.795/1999, ao disporem sobre a Educação Ambiental, tratam-na como obrigatória na escolha e manejo das estratégias pedagógicas de todas as disciplinas, incluindo-se, portanto, a matemática. Tais constatações demonstram a necessidade do desenvolvimento de materiais que cumpram o determinado e reforçam a relevância da construção e divulgação ampla do Produto Educacional proposto nesse estudo.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-38270895",
+  "autor": "Michelson Borges de Almeida",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "Uma Sequência Didática de Estatística para Professores de Matemática do 6º Ano do Ensino Fundamental",
+  "instituicao": "Universidade Federal do Rio Grande do Norte",
+  "cidade": "",
+  "estado": "Rio Grande do Norte",
+  "regiao": "Nordeste",
+  "orientador": "Liliane dos Santos Gutierre",
+  "programa": "ENSINO DE CIÊNCIAS NATURAIS E MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Estatística; Ensino de Matemática; Educação ambiental; Sequência Didática",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20DE%20ESTAT%C3%8DSTICA%20PARA%20PROFESSORES%20DE%20MATEM%C3%81TICA%20DO%206%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20DE%20ESTAT%C3%8DSTICA%20PARA%20PROFESSORES%20DE%20MATEM%C3%81TICA%20DO%206%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38270895"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "38270895",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Estatística",
+    "Ensino de Matemática",
+    "Educação ambiental",
+    "Sequência Didática"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-38270895.svg",
+  "resumo": "O presente trabalho é o resultado de uma pesquisa que se restringe ao ensino de matemática relacionado ao conteúdo do 6º ano do Ensino Fundamental que envolve estatística e as formas que tais conteúdos são abordados por seus professores aos alunos desse nível de ensino. Delimita-se o objeto de estudo como sendo a construção dos conhecimentos e habilidades sobre conceitos estatísticos na disciplina de matemática para turmas do 6º ano do Ensino Fundamental. Tal delimitação é posta para viabilizar a pesquisa dentro de tempo hábil que compreende o Mestrado Profissional em Ensino de Ciências Naturais e Matemática. Nossa questão foco é: Como construir uma Sequência Didática (SD) que auxilie o professor de matemática na construção da aprendizagem de conceitos estatísticos e, ao mesmo tempo, aborde noções de sustentabilidade ecológica junto aos estudantes do 6º ano do Ensino Fundamental? Para respondê-la, estabeleceu-se como objetivo geral analisar como a Sequência Didática construída pode contribuir no ensino de Matemática do 6º ano do Ensino Fundamental. Como objetivos específicos, foram determinados os seguintes: (1) disponibilizar aos professores de matemática uma Sequência Didática que aborde os conteúdos de estatística, pertinentes aos conhecimentos e habilidades previstos para o 6º ano do Ensino Fundamental, contextualizados com os conhecimentos inerentes à educação e conscientização ambiental; (2) divulgar a Sequência Didática, o Produto Educacional decorrente desse trabalho final de mestrado profissional, para uso no ensino de matemática. Como metodologia, a pesquisa foi desenvolvida com uma abordagem qualitativa e é dividida em duas etapas: (1) pesquisa bibliográfica sobre a abordagem do conteúdo de estatística na disciplina de matemática, bem como sobre a Educação Ambiental a fim de levantar o referencial teórico que viabilizará a utilização de noções de meio ambiente e sustentabilidade como contexto no desenvolvimento de um Produto Educacional (PE) (exigência a ser cumprida por quem faz um mestrado profissional); (2) construção, aplicação e avaliação de um PE que compreende uma Sequência Didática que contextualiza o ensino dos conteúdos de estatística para o 6º ano do Ensino Fundamental com conhecimentos referentes ao meio ambiente. Para aplicação do PE faremos uso da técnica da observação participante e para avaliação, usaremos um questionário fechado que será respondido pelos participantes da pesquisa (professores em formação inicial e continuada). Em conclusão, verificou-se que o ensino dos conteúdos de estatística costuma ser reproduzido de forma mecânica e sem considerar a construção de um pensamento crítico no ato de leitura e interpretação dos dados, fatos que descumprem o referencial didático estabelecido pelas normas da Base Nacional Comum Curricular (BNCC) para o desenvolvimento dos estudos escolares acerca da estatística na área da matemática. Além disso, averiguou-se que a Constituição Federal e a Lei nº 9.795/1999, ao disporem sobre a Educação Ambiental, tratam-na como obrigatória na escolha e manejo das estratégias pedagógicas de todas as disciplinas, incluindo-se, portanto, a matemática. Tais constatações demonstram a necessidade do desenvolvimento de materiais que cumpram o determinado e reforçam a relevância da construção e divulgação ampla do Produto Educacional proposto nesse estudo.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

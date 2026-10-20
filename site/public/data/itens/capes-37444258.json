@@ -1,64 +1,64 @@
 {
- "id": "capes-37444258",
- "autor": "Igor Gabriel Santos de Sousa",
- "ano": 2023,
- "tipo": "Dissertação",
- "titulo": "Letramento estatístico crítico: propostas pedagógicas a partir de dados veiculados nas mídias sociais",
- "instituicao": "Universidade Federal de Uberlândia",
- "cidade": "",
- "estado": "Minas Gerais",
- "regiao": "Sudeste",
- "orientador": "Leandro de Oliveira Souza",
- "programa": "Ensino de Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "E-book; Investigação; Ensino de Estatística; Pensamento Crítico; Sala de Aula; Educação Matemática",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Letramento%20estat%C3%ADstico%20cr%C3%ADtico%3A%20propostas%20pedag%C3%B3gicas%20a%20partir%20de%20dados%20veiculados%20nas%20m%C3%ADdias%20sociais%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Letramento%20estat%C3%ADstico%20cr%C3%ADtico%3A%20propostas%20pedag%C3%B3gicas%20a%20partir%20de%20dados%20veiculados%20nas%20m%C3%ADdias%20sociais&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37444258"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "37444258",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "E-book",
-  "Investigação",
-  "Ensino de Estatística",
-  "Pensamento Crítico",
-  "Sala de Aula",
-  "Educação Matemática"
- ],
- "thumbnail": "./assets/images/thumbs/capes-37444258.svg",
- "resumo": "Essa pesquisa partiu de uma problemática que tomou forma a partir da situação pandêmica ocasionada pela proliferação da Covid-19. Ao observar o aumento de dados estatísticos nas informações veiculadas nas mídias sociais, o estudo buscou compreender como propostas pedagógicas, elaboradas por meio de dados veiculados nas mídias sociais, poderiam auxiliar no desenvolvimento de letramento estatístico crítico. Para a investigação foram elaboradas duas propostas pedagógicas: (i) número de óbitos no Brasil durante os anos de 2019 e 2020; e (ii) violência contra mulher. O estudo apoiou-se numa perspectiva metodológica de observação participante e foi realizado com doze estudantes do terceiro ano do ensino médio de uma instituição pública de ensino no município de Campinas, no estado de São Paulo. Foram organizados quatro encontros. Os dados foram produzidos mediante vídeo gravação, diário de bordo do professor/pesquisador e registros elaborados pelos estudantes ao final de cada proposta. A análise dos dados indica que o trabalho na perspectiva teórica de letramento estatístico crítico pode auxiliar a desenvolver criticidade acerca de assuntos que permeiam o cotidiano dos estudantes, e a construir suas percepções sobre a responsabilidade de atuação na sociedade. Com a pesquisa concluiu-se que a perspectiva de letramento estatístico crítico apresenta contribuições para o ensino de estatística em ambientes educacionais. Mediante ao estudo das respostas dos estudantes durante a execução das propostas pedagógicas e reflexões que levantaram, foi elaborado um e-book digital, intitulado Investiga, produto educacional desta pesquisa, destinado a educadores, pesquisadores e leitores interessados no tema. O intuito foi apresentar a perspectiva da teoria de letramento estatístico crítico e as possíveis formas de se abordá-lo em sala de aula.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística",
-  "letramento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-37444258",
+  "autor": "Igor Gabriel Santos de Sousa",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "Letramento estatístico crítico: propostas pedagógicas a partir de dados veiculados nas mídias sociais",
+  "instituicao": "Universidade Federal de Uberlândia",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Leandro de Oliveira Souza",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "E-book; Investigação; Ensino de Estatística; Pensamento Crítico; Sala de Aula; Educação Matemática",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Letramento%20estat%C3%ADstico%20cr%C3%ADtico%3A%20propostas%20pedag%C3%B3gicas%20a%20partir%20de%20dados%20veiculados%20nas%20m%C3%ADdias%20sociais%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Letramento%20estat%C3%ADstico%20cr%C3%ADtico%3A%20propostas%20pedag%C3%B3gicas%20a%20partir%20de%20dados%20veiculados%20nas%20m%C3%ADdias%20sociais&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37444258"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37444258",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "E-book",
+    "Investigação",
+    "Ensino de Estatística",
+    "Pensamento Crítico",
+    "Sala de Aula",
+    "Educação Matemática"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37444258.svg",
+  "resumo": "Essa pesquisa partiu de uma problemática que tomou forma a partir da situação pandêmica ocasionada pela proliferação da Covid-19. Ao observar o aumento de dados estatísticos nas informações veiculadas nas mídias sociais, o estudo buscou compreender como propostas pedagógicas, elaboradas por meio de dados veiculados nas mídias sociais, poderiam auxiliar no desenvolvimento de letramento estatístico crítico. Para a investigação foram elaboradas duas propostas pedagógicas: (i) número de óbitos no Brasil durante os anos de 2019 e 2020; e (ii) violência contra mulher. O estudo apoiou-se numa perspectiva metodológica de observação participante e foi realizado com doze estudantes do terceiro ano do ensino médio de uma instituição pública de ensino no município de Campinas, no estado de São Paulo. Foram organizados quatro encontros. Os dados foram produzidos mediante vídeo gravação, diário de bordo do professor/pesquisador e registros elaborados pelos estudantes ao final de cada proposta. A análise dos dados indica que o trabalho na perspectiva teórica de letramento estatístico crítico pode auxiliar a desenvolver criticidade acerca de assuntos que permeiam o cotidiano dos estudantes, e a construir suas percepções sobre a responsabilidade de atuação na sociedade. Com a pesquisa concluiu-se que a perspectiva de letramento estatístico crítico apresenta contribuições para o ensino de estatística em ambientes educacionais. Mediante ao estudo das respostas dos estudantes durante a execução das propostas pedagógicas e reflexões que levantaram, foi elaborado um e-book digital, intitulado Investiga, produto educacional desta pesquisa, destinado a educadores, pesquisadores e leitores interessados no tema. O intuito foi apresentar a perspectiva da teoria de letramento estatístico crítico e as possíveis formas de se abordá-lo em sala de aula.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
 }

@@ -1,60 +1,60 @@
 {
- "id": "capes-38829007",
- "autor": "Adriana Jeronimo da Silva Araujo",
- "ano": 2023,
- "tipo": "Dissertação",
- "titulo": "O Eixo Estatística nos Anos Iniciais do Ensino Fundamental: Uma Análise do Livro Didático de Matemática a Partir da Pedagogia HISTÓRICO-CRÍTICA",
- "instituicao": "Universidade Federal de Alagoas",
- "cidade": "",
- "estado": "Alagoas",
- "regiao": "Nordeste",
- "orientador": "Carolina Nozella Gama",
- "programa": "Ensino de Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Pedagogia histórico-crítica; ensino de estatística; ensino de Matemática; livro didático de Matemática",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20EIXO%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20UMA%20AN%C3%81LISE%20DO%20LIVRO%20DID%C3%81TICO%20DE%20MATEM%C3%81TICA%20A%20PARTIR%20DA%20PEDAGOGIA%20HIST%C3%93RICO-CR%C3%8DTICA%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20EIXO%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20UMA%20AN%C3%81LISE%20DO%20LIVRO%20DID%C3%81TICO%20DE%20MATEM%C3%81TICA%20A%20PARTIR%20DA%20PEDAGOGIA%20HIST%C3%93RICO-CR%C3%8DTICA&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38829007"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "38829007",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Pedagogia histórico-crítica",
-  "ensino de estatística",
-  "ensino de Matemática",
-  "livro didático de Matemática"
- ],
- "thumbnail": "./assets/images/thumbs/capes-38829007.svg",
- "resumo": "A presente dissertação objetivou analisar o que tem sido apresentado em estatística nos anos iniciais do Ensino Fundamental a partir da coleção Buriti mais Matemática. O estudo é uma pesquisa que se fundamenta no materialismo histórico-dialético, sendo esta do tipo documental. Apontamos em especial que o interesse do estudo foi analisar a seção compreender informações dos livros didáticos de Matemática dos anos iniciais do Ensino Fundamental. A discussão teve como base a teoria pedagógica histórico-crítica, as principais categorias de análise foram: o ensino de Matemática, o ensino de estatística e o trato com o conhecimento, esta última categoria trata da seleção, organização e sistematização do conhecimento no processo pedagógico. A partir da análise constatamos que a seção compreender informações tem se dedicado a oferecer um ensino por competências e habilidades, estas que se caracterizam por um conjunto de códigos alfanuméricos e que estão associadas às avaliações externas em larga escala. As atividades pedagógicas são desenvolvidas por meio da resolução de problemas, que apontam para o cotidiano e interesse imediato dos estudantes. Verificamos no decorrer da análise que as habilidades e competências abordadas são quem direcionam os processos de ensino e aprendizagem condicionando o trabalho educativo desenvolvido na sala de aula.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-38829007",
+  "autor": "Adriana Jeronimo da Silva Araujo",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "O Eixo Estatística nos Anos Iniciais do Ensino Fundamental: Uma Análise do Livro Didático de Matemática a Partir da Pedagogia HISTÓRICO-CRÍTICA",
+  "instituicao": "Universidade Federal de Alagoas",
+  "cidade": "",
+  "estado": "Alagoas",
+  "regiao": "Nordeste",
+  "orientador": "Carolina Nozella Gama",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Pedagogia histórico-crítica; ensino de estatística; ensino de Matemática; livro didático de Matemática",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20EIXO%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20UMA%20AN%C3%81LISE%20DO%20LIVRO%20DID%C3%81TICO%20DE%20MATEM%C3%81TICA%20A%20PARTIR%20DA%20PEDAGOGIA%20HIST%C3%93RICO-CR%C3%8DTICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20EIXO%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20UMA%20AN%C3%81LISE%20DO%20LIVRO%20DID%C3%81TICO%20DE%20MATEM%C3%81TICA%20A%20PARTIR%20DA%20PEDAGOGIA%20HIST%C3%93RICO-CR%C3%8DTICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38829007"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "38829007",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Pedagogia histórico-crítica",
+    "ensino de estatística",
+    "ensino de Matemática",
+    "livro didático de Matemática"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-38829007.svg",
+  "resumo": "A presente dissertação objetivou analisar o que tem sido apresentado em estatística nos anos iniciais do Ensino Fundamental a partir da coleção Buriti mais Matemática. O estudo é uma pesquisa que se fundamenta no materialismo histórico-dialético, sendo esta do tipo documental. Apontamos em especial que o interesse do estudo foi analisar a seção compreender informações dos livros didáticos de Matemática dos anos iniciais do Ensino Fundamental. A discussão teve como base a teoria pedagógica histórico-crítica, as principais categorias de análise foram: o ensino de Matemática, o ensino de estatística e o trato com o conhecimento, esta última categoria trata da seleção, organização e sistematização do conhecimento no processo pedagógico. A partir da análise constatamos que a seção compreender informações tem se dedicado a oferecer um ensino por competências e habilidades, estas que se caracterizam por um conjunto de códigos alfanuméricos e que estão associadas às avaliações externas em larga escala. As atividades pedagógicas são desenvolvidas por meio da resolução de problemas, que apontam para o cotidiano e interesse imediato dos estudantes. Verificamos no decorrer da análise que as habilidades e competências abordadas são quem direcionam os processos de ensino e aprendizagem condicionando o trabalho educativo desenvolvido na sala de aula.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

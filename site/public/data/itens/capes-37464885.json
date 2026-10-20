@@ -1,61 +1,61 @@
 {
- "id": "capes-37464885",
- "autor": "Ajineldo Ferreira da Silva",
- "ano": 2023,
- "tipo": "Dissertação",
- "titulo": "Tecendo Caminhos para o Ensino e Aprendizagem de Estatística no Município de Lucrécia/rn",
- "instituicao": "Universidade do Estado do Rio Grande do Norte",
- "cidade": "",
- "estado": "Rio Grande do Norte",
- "regiao": "Nordeste",
- "orientador": "Glaydson Francisco Barros de Oliveira",
- "programa": "Ensino",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Modelagem Matemática; Ensino; Estatística; Educação Matemática.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22TECENDO%20CAMINHOS%20PARA%20O%20ENSINO%20E%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NO%20MUNIC%C3%8DPIO%20DE%20LUCR%C3%89CIA/RN%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=TECENDO%20CAMINHOS%20PARA%20O%20ENSINO%20E%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NO%20MUNIC%C3%8DPIO%20DE%20LUCR%C3%89CIA/RN&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37464885"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "37464885",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Modelagem Matemática",
-  "Ensino",
-  "Estatística",
-  "Educação Matemática."
- ],
- "thumbnail": "./assets/images/thumbs/capes-37464885.svg",
- "resumo": "Com as constantes mudanças que vem ocorrendo no currículo do Novo Ensino Médio, principalmente com o advento da Base Nacional Curricular Comum, faz-se necessário no ato de lecionar práticas que sejam voltadas para inserção do estudante ao contexto social para que venham compreender de forma crítica o ambiente em que vivem. Sendo assim, o presente trabalho visa investigar qualitativamente os impactos da aplicação da Modelagem Matemática na aprendizagem dos estudantes do 2o ano de uma escola urbana do Município de Lucrécia-RN, com abordagem da Estatística e aporte no Novo Ensino Médio, utilizando o DOTPLOT e BOXPLOT, relacionando-os a atividades práticas fora do muro da escola. Apesar do ato de lecionar sugerir que os professores implementem diversificadas estratégias de ensino, no entanto, ainda é comum encontrar relatos, resistência e desafios, como: necessidade de mudança na forma de lecionar, insegurança e pouco contato com a modelagem por parte dos professores, bem como a pouca adesão e interesse de participação dos alunos. Aqui, mostramos aplicações da Modelagem Matemática no ensino de Estatística, ocorridas com promoção da coletividade e o aumento da assiduidade dos alunos, instigados a realização de atividades dinâmicas, bem como o desencadeamento da aplicabilidade da temática no cotidiano dos estudantes. Por fim, destaca-se a pesquisa como importante ferramenta na transformação social, crítica, no despertar do potencial dos alunos do município de Lucrécia-RN e que acarretou na democratização do conhecimento científico, onde despertou os alunos a serem capazes de identificar a unidade temática dentro do seu cotidiano levando-os a utilizá-la com mais recorrência.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-37464885",
+  "autor": "Ajineldo Ferreira da Silva",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "Tecendo Caminhos para o Ensino e Aprendizagem de Estatística no Município de Lucrécia/rn",
+  "instituicao": "Universidade do Estado do Rio Grande do Norte",
+  "cidade": "",
+  "estado": "Rio Grande do Norte",
+  "regiao": "Nordeste",
+  "orientador": "Glaydson Francisco Barros de Oliveira",
+  "programa": "Ensino",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Modelagem Matemática; Ensino; Estatística; Educação Matemática.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22TECENDO%20CAMINHOS%20PARA%20O%20ENSINO%20E%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NO%20MUNIC%C3%8DPIO%20DE%20LUCR%C3%89CIA/RN%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=TECENDO%20CAMINHOS%20PARA%20O%20ENSINO%20E%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NO%20MUNIC%C3%8DPIO%20DE%20LUCR%C3%89CIA/RN&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37464885"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37464885",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Modelagem Matemática",
+    "Ensino",
+    "Estatística",
+    "Educação Matemática."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37464885.svg",
+  "resumo": "Com as constantes mudanças que vem ocorrendo no currículo do Novo Ensino Médio, principalmente com o advento da Base Nacional Curricular Comum, faz-se necessário no ato de lecionar práticas que sejam voltadas para inserção do estudante ao contexto social para que venham compreender de forma crítica o ambiente em que vivem. Sendo assim, o presente trabalho visa investigar qualitativamente os impactos da aplicação da Modelagem Matemática na aprendizagem dos estudantes do 2o ano de uma escola urbana do Município de Lucrécia-RN, com abordagem da Estatística e aporte no Novo Ensino Médio, utilizando o DOTPLOT e BOXPLOT, relacionando-os a atividades práticas fora do muro da escola. Apesar do ato de lecionar sugerir que os professores implementem diversificadas estratégias de ensino, no entanto, ainda é comum encontrar relatos, resistência e desafios, como: necessidade de mudança na forma de lecionar, insegurança e pouco contato com a modelagem por parte dos professores, bem como a pouca adesão e interesse de participação dos alunos. Aqui, mostramos aplicações da Modelagem Matemática no ensino de Estatística, ocorridas com promoção da coletividade e o aumento da assiduidade dos alunos, instigados a realização de atividades dinâmicas, bem como o desencadeamento da aplicabilidade da temática no cotidiano dos estudantes. Por fim, destaca-se a pesquisa como importante ferramenta na transformação social, crítica, no despertar do potencial dos alunos do município de Lucrécia-RN e que acarretou na democratização do conhecimento científico, onde despertou os alunos a serem capazes de identificar a unidade temática dentro do seu cotidiano levando-os a utilizá-la com mais recorrência.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

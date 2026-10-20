@@ -1,59 +1,59 @@
 {
- "id": "capes-30882980",
- "autor": "Rogerio Ramos Socha",
- "ano": 2019,
- "tipo": "Dissertação",
- "titulo": "Aprendizagem probabilistica de alunos do 7º ano do Ensino Fundamental por meio de atividades de investigação",
- "instituicao": "Universidade Cruzeiro do Sul",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Celi Aparecida Espasandin Lopes",
- "programa": "ENSINO DE CIÊNCIAS",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Aprendizagem; Probabilidade; Ensino Fundamental; Investigação",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Aprendizagem%20probabilistica%20de%20alunos%20do%207%C2%BA%20ano%20do%20Ensino%20Fundamental%20por%20meio%20de%20atividades%20de%20investiga%C3%A7%C3%A3o%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Aprendizagem%20probabilistica%20de%20alunos%20do%207%C2%BA%20ano%20do%20Ensino%20Fundamental%20por%20meio%20de%20atividades%20de%20investiga%C3%A7%C3%A3o&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30882980"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "30882980",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Aprendizagem",
-  "Probabilidade",
-  "Ensino Fundamental",
-  "Investigação"
- ],
- "thumbnail": "./assets/images/thumbs/capes-30882980.svg",
- "resumo": "Este estudo tem o objetivo de analisar a aprendizagem probabilística dos alunos do 7.° ano do Ensino Fundamental e as contribuições de uma prática docente pautada na problematização e na investigação. Trata-se de uma pesquisa com abordagem qualitativa, realizada por meio do estudo de caso, a qual busca responder à questão: quais indícios de aprendizagem da probabilidade de alunos do 7.° ano do Ensino Fundamental emergem, quando eles desenvolvem atividades de investigação? Para tanto, a construção de dados deu-se pela aplicação de atividades investigativas que envolveram fenômenos aleatórios. Inicialmente realizou-se uma sondagem para verificar o conhecimento dos alunos acerca de probabilidade e seus conceitos. A partir daí a realização das atividades os levou a investigar a aleatoriedade e a incerteza em situações relacionadas à realidade, de modo a favorecer o desenvolvimento do raciocínio probabilístico. Foram analisados os registros realizados pelos alunos, suas interações e suas falas. Evidenciou-se a importância dessas atividades por lhes permitir vivenciar uma ruptura com a visão determinística. Além disso, verificaram-se o envolvimento e a ampla interação dos alunos na realização das propostas. Pôde-se concluir que uma prática pautada em tarefas investigativas deu aos alunos subsídios para reconhecer com clareza os conceitos de probabilidade e para optar por melhores escolhas em situações de incerteza.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "coleta expandida (plural/vocabulário)"
- ]
+  "id": "capes-30882980",
+  "autor": "Rogerio Ramos Socha",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "Aprendizagem probabilistica de alunos do 7º ano do Ensino Fundamental por meio de atividades de investigação",
+  "instituicao": "Universidade Cruzeiro do Sul",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Celi Aparecida Espasandin Lopes",
+  "programa": "ENSINO DE CIÊNCIAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Aprendizagem; Probabilidade; Ensino Fundamental; Investigação",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Aprendizagem%20probabilistica%20de%20alunos%20do%207%C2%BA%20ano%20do%20Ensino%20Fundamental%20por%20meio%20de%20atividades%20de%20investiga%C3%A7%C3%A3o%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Aprendizagem%20probabilistica%20de%20alunos%20do%207%C2%BA%20ano%20do%20Ensino%20Fundamental%20por%20meio%20de%20atividades%20de%20investiga%C3%A7%C3%A3o&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30882980"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30882980",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Aprendizagem",
+    "Probabilidade",
+    "Ensino Fundamental",
+    "Investigação"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30882980.svg",
+  "resumo": "Este estudo tem o objetivo de analisar a aprendizagem probabilística dos alunos do 7.° ano do Ensino Fundamental e as contribuições de uma prática docente pautada na problematização e na investigação. Trata-se de uma pesquisa com abordagem qualitativa, realizada por meio do estudo de caso, a qual busca responder à questão: quais indícios de aprendizagem da probabilidade de alunos do 7.° ano do Ensino Fundamental emergem, quando eles desenvolvem atividades de investigação? Para tanto, a construção de dados deu-se pela aplicação de atividades investigativas que envolveram fenômenos aleatórios. Inicialmente realizou-se uma sondagem para verificar o conhecimento dos alunos acerca de probabilidade e seus conceitos. A partir daí a realização das atividades os levou a investigar a aleatoriedade e a incerteza em situações relacionadas à realidade, de modo a favorecer o desenvolvimento do raciocínio probabilístico. Foram analisados os registros realizados pelos alunos, suas interações e suas falas. Evidenciou-se a importância dessas atividades por lhes permitir vivenciar uma ruptura com a visão determinística. Além disso, verificaram-se o envolvimento e a ampla interação dos alunos na realização das propostas. Pôde-se concluir que uma prática pautada em tarefas investigativas deu aos alunos subsídios para reconhecer com clareza os conceitos de probabilidade e para optar por melhores escolhas em situações de incerteza.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
 }

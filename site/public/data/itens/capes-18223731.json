@@ -1,57 +1,57 @@
 {
- "id": "capes-18223731",
- "autor": "Eliene Costa dos Santos",
- "ano": 2015,
- "tipo": "Dissertação",
- "titulo": "Avaliação do nível de usabilidade do Avale-EB para a Aprendizagem de variabilidade",
- "instituicao": "Universidade Estadual de Santa Cruz",
- "cidade": "",
- "estado": "Bahia",
- "regiao": "Nordeste",
- "orientador": "Veronica Yumi Kataoka",
- "programa": "Educação Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Palavras-chave: Usabilidade. Variabilidade. Ambiente de aprendizagem. AVALE-EB. Ensino de Estatística.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Avalia%C3%A7%C3%A3o%20do%20n%C3%ADvel%20de%20usabilidade%20do%20Avale-EB%20para%20a%20Aprendizagem%20de%20variabilidade%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Avalia%C3%A7%C3%A3o%20do%20n%C3%ADvel%20de%20usabilidade%20do%20Avale-EB%20para%20a%20Aprendizagem%20de%20variabilidade&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/18223731"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "18223731",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Palavras-chave: Usabilidade. Variabilidade. Ambiente de aprendizagem. AVALE-EB. Ensino de Estatística."
- ],
- "thumbnail": "./assets/images/thumbs/capes-18223731.svg",
- "resumo": "Teve-se como objetivo geral nesta pesquisa avaliar a usabilidade do Ambiente Virtual de Apoio ao Letramento Estatístico (AVALE-EB) para a aprendizagem do conceito de variabilidade por estudantes do curso de licenciatura em Matemática de uma universidade estadual da Bahia. O AVALE-EB é um ambiente de aprendizagem disponível gratuitamente na internet, que objetiva auxiliar professores e estudantes no processo de ensino e aprendizagem de Estatística e Probabilidade por meio de sequências de ensino (SE), a serem trabalhadas nos ambientes papel e lápis e computacional. Dentre as SE de Estatística, encontra-se disponível a denominada Planeta Água, que foi utilizada nesta pesquisa para trabalhar o conceito de variabilidade no contexto do consumo de água das famílias dos estudantes. Enquanto ambiente educacional, o AVALE-EB precisa ser, constantemente, avaliado em sua qualidade e em especial, neste estudo, no que se refere à sua usabilidade, mais especificamente, quanto à satisfação, eficácia e eficiência. Nesse sentido, foram estabelecidos como objetivos específicos: verificar a eficácia do AVALE-EB para a aprendizagem de variabilidade; analisar a eficiência do estudante na resolução de tarefas envolvendo o conceito de variabilidade mediada pelo AVALE- EB; investigar a satisfação do estudante no uso do AVALE-EB durante a aplicação das tarefas da SE Planeta Água. Os sujeitos desta pesquisa foram quatro estudantes de um curso de licenciatura em Matemática e os instrumentos para a coleta de dados utilizados foram: questionário de perfil, teste de sondagem (avaliação dos conhecimentos prévios dos estudantes de aspectos relacionados à variabilidade), tarefas da SE Planeta Água (aplicadas nos ambientes: papel e lápis e computacional), e escala de avaliação da usabilidade. Salienta-se que as tarefas da SE foram elaboradas à luz do modelo epistemológico para construção desse conceito proposto por Garfield e Ben-Zvi e a escala de avalição foi proposta de acordo com os critérios ergonômicos elaborados por Bastien e Scapin. Os dados foram coletados por meio de produções escritas, filmagens, gravações de áudio dos diálogos, captura de telas dos computadores pelo software Camtasia, e que foram analisados qualitativamente. Em particular, as respostas dos estudantes às tarefas da SE foram categorizadas, hierarquicamente, de acordo com os níveis de resposta da Taxonomia SOLO, a saber, em pré-estrututural (respostas idiossincráticas), uniestrutural (o estudante observa apenas um aspecto relacionado à variabilidade), multiestrutural (observa mais de um aspecto) e relacional (observa mais de um aspecto, e os relaciona). Os resultados às tarefas em conjunto com as respostas dos estudantes aos questionamentos da escala foram utilizados na avaliação da usabilidade do AVALE-EB. Dentre os resultados, destaca-se que para as três tarefas, envolvendo análise e comparação entre os consumos de água de famílias por meio de gráficos de linha, na maioria das respostas os estudantes observaram somente um aspecto, evidenciando intervalos de maiores ou menores consumos, consumos mínimos e máximos, sendo estas classificadas no nível uniestrutural; e apenas uma das respostas foi classificada no nível relacional, no qual o estudante demonstrou uma visão global, observando a tendência das séries temporais. Para as três tarefas que envolviam a análise conjunta de gráficos de linha e medidas estatísticas para comparação entre os consumos de água das famílias, na maioria das respostas os estudantes consideraram mais de um aspecto relacionado à variabilidade, sendo essas classificadas entre os níveis multiestrutural e relacional, no caso desta última categoria, apesar dos estudantes relacionarem os diferentes aspectos entre si, demonstraram dificuldades em perceber que as medidas de variação utilizadas estavam associadas à média. De uma forma geral, foram observados avanços na aprendizagem do conceito de variabilidade, uma vez que os estudantes, como informaram no questionário de perfil, desconheciam, inicialmente, aspectos relacionados ao mesmo. Na avaliação da qualidade do AVALE-EB constatou-se que este ambiente possui nível de usabilidade satisfatório, tratando-se do contexto das tarefas da SE que foram analisadas, pois o estudante ao seguir o roteiro, demonstrou avanços com relação ao entendimento do tema. Verificou-se, também, que alguns ajustes precisarão ser realizados no AVALE-EB, com relação à sua qualidade ergonômica, em termos de eficiência, eficácia e satisfação dos usuários para melhor atender às necessidades dos estudantes e professores que o utilizam. Espera-se que este estudo possa contribuir nas discussões sobre avaliação de usabilidade de ambientes educacionais, como com o ensino do conceito de variabilidade.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-18223731",
+  "autor": "Eliene Costa dos Santos",
+  "ano": 2015,
+  "tipo": "Dissertação",
+  "titulo": "Avaliação do nível de usabilidade do Avale-EB para a Aprendizagem de variabilidade",
+  "instituicao": "Universidade Estadual de Santa Cruz",
+  "cidade": "",
+  "estado": "Bahia",
+  "regiao": "Nordeste",
+  "orientador": "Veronica Yumi Kataoka",
+  "programa": "Educação Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Palavras-chave: Usabilidade. Variabilidade. Ambiente de aprendizagem. AVALE-EB. Ensino de Estatística.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Avalia%C3%A7%C3%A3o%20do%20n%C3%ADvel%20de%20usabilidade%20do%20Avale-EB%20para%20a%20Aprendizagem%20de%20variabilidade%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Avalia%C3%A7%C3%A3o%20do%20n%C3%ADvel%20de%20usabilidade%20do%20Avale-EB%20para%20a%20Aprendizagem%20de%20variabilidade&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/18223731"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "18223731",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Palavras-chave: Usabilidade. Variabilidade. Ambiente de aprendizagem. AVALE-EB. Ensino de Estatística."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-18223731.svg",
+  "resumo": "Teve-se como objetivo geral nesta pesquisa avaliar a usabilidade do Ambiente Virtual de Apoio ao Letramento Estatístico (AVALE-EB) para a aprendizagem do conceito de variabilidade por estudantes do curso de licenciatura em Matemática de uma universidade estadual da Bahia. O AVALE-EB é um ambiente de aprendizagem disponível gratuitamente na internet, que objetiva auxiliar professores e estudantes no processo de ensino e aprendizagem de Estatística e Probabilidade por meio de sequências de ensino (SE), a serem trabalhadas nos ambientes papel e lápis e computacional. Dentre as SE de Estatística, encontra-se disponível a denominada Planeta Água, que foi utilizada nesta pesquisa para trabalhar o conceito de variabilidade no contexto do consumo de água das famílias dos estudantes. Enquanto ambiente educacional, o AVALE-EB precisa ser, constantemente, avaliado em sua qualidade e em especial, neste estudo, no que se refere à sua usabilidade, mais especificamente, quanto à satisfação, eficácia e eficiência. Nesse sentido, foram estabelecidos como objetivos específicos: verificar a eficácia do AVALE-EB para a aprendizagem de variabilidade; analisar a eficiência do estudante na resolução de tarefas envolvendo o conceito de variabilidade mediada pelo AVALE- EB; investigar a satisfação do estudante no uso do AVALE-EB durante a aplicação das tarefas da SE Planeta Água. Os sujeitos desta pesquisa foram quatro estudantes de um curso de licenciatura em Matemática e os instrumentos para a coleta de dados utilizados foram: questionário de perfil, teste de sondagem (avaliação dos conhecimentos prévios dos estudantes de aspectos relacionados à variabilidade), tarefas da SE Planeta Água (aplicadas nos ambientes: papel e lápis e computacional), e escala de avaliação da usabilidade. Salienta-se que as tarefas da SE foram elaboradas à luz do modelo epistemológico para construção desse conceito proposto por Garfield e Ben-Zvi e a escala de avalição foi proposta de acordo com os critérios ergonômicos elaborados por Bastien e Scapin. Os dados foram coletados por meio de produções escritas, filmagens, gravações de áudio dos diálogos, captura de telas dos computadores pelo software Camtasia, e que foram analisados qualitativamente. Em particular, as respostas dos estudantes às tarefas da SE foram categorizadas, hierarquicamente, de acordo com os níveis de resposta da Taxonomia SOLO, a saber, em pré-estrututural (respostas idiossincráticas), uniestrutural (o estudante observa apenas um aspecto relacionado à variabilidade), multiestrutural (observa mais de um aspecto) e relacional (observa mais de um aspecto, e os relaciona). Os resultados às tarefas em conjunto com as respostas dos estudantes aos questionamentos da escala foram utilizados na avaliação da usabilidade do AVALE-EB. Dentre os resultados, destaca-se que para as três tarefas, envolvendo análise e comparação entre os consumos de água de famílias por meio de gráficos de linha, na maioria das respostas os estudantes observaram somente um aspecto, evidenciando intervalos de maiores ou menores consumos, consumos mínimos e máximos, sendo estas classificadas no nível uniestrutural; e apenas uma das respostas foi classificada no nível relacional, no qual o estudante demonstrou uma visão global, observando a tendência das séries temporais. Para as três tarefas que envolviam a análise conjunta de gráficos de linha e medidas estatísticas para comparação entre os consumos de água das famílias, na maioria das respostas os estudantes consideraram mais de um aspecto relacionado à variabilidade, sendo essas classificadas entre os níveis multiestrutural e relacional, no caso desta última categoria, apesar dos estudantes relacionarem os diferentes aspectos entre si, demonstraram dificuldades em perceber que as medidas de variação utilizadas estavam associadas à média. De uma forma geral, foram observados avanços na aprendizagem do conceito de variabilidade, uma vez que os estudantes, como informaram no questionário de perfil, desconheciam, inicialmente, aspectos relacionados ao mesmo. Na avaliação da qualidade do AVALE-EB constatou-se que este ambiente possui nível de usabilidade satisfatório, tratando-se do contexto das tarefas da SE que foram analisadas, pois o estudante ao seguir o roteiro, demonstrou avanços com relação ao entendimento do tema. Verificou-se, também, que alguns ajustes precisarão ser realizados no AVALE-EB, com relação à sua qualidade ergonômica, em termos de eficiência, eficácia e satisfação dos usuários para melhor atender às necessidades dos estudantes e professores que o utilizam. Espera-se que este estudo possa contribuir nas discussões sobre avaliação de usabilidade de ambientes educacionais, como com o ensino do conceito de variabilidade.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

@@ -1,57 +1,57 @@
 {
- "id": "capes-29510974",
- "autor": "Weriton de Souza Lobo",
- "ano": 2019,
- "tipo": "Dissertação",
- "titulo": "Limites e Potencialidades de uma Sequência de Ensino para Ampliação do Conceito de Média Aritmética",
- "instituicao": "Universidade Estadual de Santa Cruz",
- "cidade": "",
- "estado": "Bahia",
- "regiao": "Nordeste",
- "orientador": "Irene Mauricio Cazorla",
- "programa": "Educação em Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Média Aritmética. Campos Conceituais. Ciclo investigativo. Letramento Estatístico. Sequência de ensino",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Limites%20e%20Potencialidades%20de%20uma%20Sequ%C3%AAncia%20de%20Ensino%20para%20Amplia%C3%A7%C3%A3o%20do%20Conceito%20de%20M%C3%A9dia%20Aritm%C3%A9tica%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Limites%20e%20Potencialidades%20de%20uma%20Sequ%C3%AAncia%20de%20Ensino%20para%20Amplia%C3%A7%C3%A3o%20do%20Conceito%20de%20M%C3%A9dia%20Aritm%C3%A9tica&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29510974"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "29510974",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Média Aritmética. Campos Conceituais. Ciclo investigativo. Letramento Estatístico. Sequência de ensino"
- ],
- "thumbnail": "./assets/images/thumbs/capes-29510974.svg",
- "resumo": "Esta pesquisa teve por objetivo investigar os limites e potencialidades de uma sequência de ensino construída para ampliar o conceito de Média Aritmética, pautada nos princípios do ciclo investigativo de Wild e Pfannkuch e do letramento estatístico de Gal. Para trabalhar o conceito de média nos ancoramos na Teoria dos Campos Conceituais de Vergnaud e de uma primeira aproximação do campo conceitual da média. A pesquisa, do tipo intervencionista, foi realizada pela professora de Matemática, em uma turma do 9º ano do Ensino Fundamental, de uma escola pública do interior da Bahia, que implementou a sequência de ensino denominada “Cartão de vacinação”, sendo que o planejamento, análise e reflexão sobre o ensino foram realizados em colaboração com o pesquisador, em sete encontros, que foram filmados e os registros dos estudantes foram coletados. A sequência foi iniciada com uma palestra sobre a importância da vacinação para a saúde humana, a partir da qual a professora e os estudantes formularam o problema de investigação e o planejamento da atividade; os estudantes coletaram dados a partir dos seus cartões de vacinação, construíram o banco de dados, tabelas, gráficos e calcularam a média e ao final responderam a questão de investigação. Os resultados mostram que envolver os estudantes no processo investigativo, coletando, tratando e analisando dados de seu contexto social contribui para ampliar o domínio dos conceitos estatísticos, propiciando ao estudante a oportunidade de ter um papel ativo na produção do seu conhecimento e a tomada de consciência sobre o poder desse conhecimento na tomada de decisões para suas vidas. Todavia, verificamos que essa não conseguiu gerar outras situações que permitissem explorar outras propriedades e representações da média. Nesse sentido, concluímos que se faz necessário combinar estratégias a fim de abranger os diversos aspectos deste campo conceitual e sua apropriação.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "letramento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-29510974",
+  "autor": "Weriton de Souza Lobo",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "Limites e Potencialidades de uma Sequência de Ensino para Ampliação do Conceito de Média Aritmética",
+  "instituicao": "Universidade Estadual de Santa Cruz",
+  "cidade": "",
+  "estado": "Bahia",
+  "regiao": "Nordeste",
+  "orientador": "Irene Mauricio Cazorla",
+  "programa": "Educação em Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Média Aritmética. Campos Conceituais. Ciclo investigativo. Letramento Estatístico. Sequência de ensino",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Limites%20e%20Potencialidades%20de%20uma%20Sequ%C3%AAncia%20de%20Ensino%20para%20Amplia%C3%A7%C3%A3o%20do%20Conceito%20de%20M%C3%A9dia%20Aritm%C3%A9tica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Limites%20e%20Potencialidades%20de%20uma%20Sequ%C3%AAncia%20de%20Ensino%20para%20Amplia%C3%A7%C3%A3o%20do%20Conceito%20de%20M%C3%A9dia%20Aritm%C3%A9tica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29510974"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "29510974",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Média Aritmética. Campos Conceituais. Ciclo investigativo. Letramento Estatístico. Sequência de ensino"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-29510974.svg",
+  "resumo": "Esta pesquisa teve por objetivo investigar os limites e potencialidades de uma sequência de ensino construída para ampliar o conceito de Média Aritmética, pautada nos princípios do ciclo investigativo de Wild e Pfannkuch e do letramento estatístico de Gal. Para trabalhar o conceito de média nos ancoramos na Teoria dos Campos Conceituais de Vergnaud e de uma primeira aproximação do campo conceitual da média. A pesquisa, do tipo intervencionista, foi realizada pela professora de Matemática, em uma turma do 9º ano do Ensino Fundamental, de uma escola pública do interior da Bahia, que implementou a sequência de ensino denominada “Cartão de vacinação”, sendo que o planejamento, análise e reflexão sobre o ensino foram realizados em colaboração com o pesquisador, em sete encontros, que foram filmados e os registros dos estudantes foram coletados. A sequência foi iniciada com uma palestra sobre a importância da vacinação para a saúde humana, a partir da qual a professora e os estudantes formularam o problema de investigação e o planejamento da atividade; os estudantes coletaram dados a partir dos seus cartões de vacinação, construíram o banco de dados, tabelas, gráficos e calcularam a média e ao final responderam a questão de investigação. Os resultados mostram que envolver os estudantes no processo investigativo, coletando, tratando e analisando dados de seu contexto social contribui para ampliar o domínio dos conceitos estatísticos, propiciando ao estudante a oportunidade de ter um papel ativo na produção do seu conhecimento e a tomada de consciência sobre o poder desse conhecimento na tomada de decisões para suas vidas. Todavia, verificamos que essa não conseguiu gerar outras situações que permitissem explorar outras propriedades e representações da média. Nesse sentido, concluímos que se faz necessário combinar estratégias a fim de abranger os diversos aspectos deste campo conceitual e sua apropriação.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
 }

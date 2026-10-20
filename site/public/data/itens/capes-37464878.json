@@ -1,60 +1,60 @@
 {
- "id": "capes-37464878",
- "autor": "Alderi Segundo de Lima Junior",
- "ano": 2023,
- "tipo": "Dissertação",
- "titulo": "Investigação do Uso de uma Sequência Didática no Ensino de Estatística Numa Escola do Interior Potiguar",
- "instituicao": "Universidade do Estado do Rio Grande do Norte",
- "cidade": "",
- "estado": "Rio Grande do Norte",
- "regiao": "Nordeste",
- "orientador": "Glaydson Francisco Barros de Oliveira",
- "programa": "Ensino",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Sequência Didática; Estatística; Ensino Híbrido; Sala de Aula Invertida",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22INVESTIGA%C3%87%C3%83O%20DO%20USO%20DE%20UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20NO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20NUMA%20ESCOLA%20DO%20INTERIOR%20POTIGUAR%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=INVESTIGA%C3%87%C3%83O%20DO%20USO%20DE%20UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20NO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20NUMA%20ESCOLA%20DO%20INTERIOR%20POTIGUAR&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37464878"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "37464878",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Sequência Didática",
-  "Estatística",
-  "Ensino Híbrido",
-  "Sala de Aula Invertida"
- ],
- "thumbnail": "./assets/images/thumbs/capes-37464878.svg",
- "resumo": "Este trabalho tem como principal objetivo avaliar o uso de uma sequência didática para o ensino de Estatística na Educação Básica, mediado por uma pesquisa em uma escola pública estadual localizada no município de Rafael Godeiro, no estado do Rio Grande do Norte, como estratégia de coleta de dados. Na fase de análises preliminares foi realizada uma revisão sistemática da literatura para verificar como a unidade temática Probabilidade e Estatística era trabalhada por meio da modalidade de ensino híbrido, como também uma análise do livro didático de matemática utilizado pelos sujeitos da pesquisa. Para a fase de experimentação, utilizou-se etapas da Sala de Aula Invertida, e por fim, para avaliar a prática, foi feito um confrontamento de dados coletados de questionários aplicados a priori com pós análise a posteriori. Foi possível validar as hipóteses iniciais e satisfazer os objetivos traçados inicialmente, pois se conseguiu instigar os alunos a trabalharem de forma coletiva e cooperativa, como também perceber a evolução e amadurecimento dos sujeitos da pesquisa com relação aos conceitos de estatística. Foi possível também observar que a pesquisa propiciou aos estudantes a possibilidade de validar suas próprias respostas, de dinamizar as aulas de matemática.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-37464878",
+  "autor": "Alderi Segundo de Lima Junior",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "Investigação do Uso de uma Sequência Didática no Ensino de Estatística Numa Escola do Interior Potiguar",
+  "instituicao": "Universidade do Estado do Rio Grande do Norte",
+  "cidade": "",
+  "estado": "Rio Grande do Norte",
+  "regiao": "Nordeste",
+  "orientador": "Glaydson Francisco Barros de Oliveira",
+  "programa": "Ensino",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Sequência Didática; Estatística; Ensino Híbrido; Sala de Aula Invertida",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22INVESTIGA%C3%87%C3%83O%20DO%20USO%20DE%20UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20NO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20NUMA%20ESCOLA%20DO%20INTERIOR%20POTIGUAR%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=INVESTIGA%C3%87%C3%83O%20DO%20USO%20DE%20UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20NO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20NUMA%20ESCOLA%20DO%20INTERIOR%20POTIGUAR&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37464878"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37464878",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Sequência Didática",
+    "Estatística",
+    "Ensino Híbrido",
+    "Sala de Aula Invertida"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37464878.svg",
+  "resumo": "Este trabalho tem como principal objetivo avaliar o uso de uma sequência didática para o ensino de Estatística na Educação Básica, mediado por uma pesquisa em uma escola pública estadual localizada no município de Rafael Godeiro, no estado do Rio Grande do Norte, como estratégia de coleta de dados. Na fase de análises preliminares foi realizada uma revisão sistemática da literatura para verificar como a unidade temática Probabilidade e Estatística era trabalhada por meio da modalidade de ensino híbrido, como também uma análise do livro didático de matemática utilizado pelos sujeitos da pesquisa. Para a fase de experimentação, utilizou-se etapas da Sala de Aula Invertida, e por fim, para avaliar a prática, foi feito um confrontamento de dados coletados de questionários aplicados a priori com pós análise a posteriori. Foi possível validar as hipóteses iniciais e satisfazer os objetivos traçados inicialmente, pois se conseguiu instigar os alunos a trabalharem de forma coletiva e cooperativa, como também perceber a evolução e amadurecimento dos sujeitos da pesquisa com relação aos conceitos de estatística. Foi possível também observar que a pesquisa propiciou aos estudantes a possibilidade de validar suas próprias respostas, de dinamizar as aulas de matemática.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

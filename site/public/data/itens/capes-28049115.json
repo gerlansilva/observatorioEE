@@ -1,60 +1,60 @@
 {
- "id": "capes-28049115",
- "autor": "Andressa Trainotti",
- "ano": 2019,
- "tipo": "Dissertação",
- "titulo": "A Educação Estatística e a Modelagem Matemática na Formação Crítica dos Estudantes do Ensino Médio de Escolas do Município de Rio do Sul - Sc",
- "instituicao": "Universidade Federal do Rio Grande do Sul",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Marilaine de Fraga Sant Ana",
- "programa": "ENSINO DE MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino de Estatística; Educação Estatística Crítica; Modelagem Matemática",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20E%20A%20MODELAGEM%20MATEM%C3%81TICA%20NA%20FORMA%C3%87%C3%83O%20CR%C3%8DTICA%20DOS%20ESTUDANTES%20DO%20ENSINO%20M%C3%89DIO%20DE%20ESCOLAS%20DO%20MUNIC%C3%8DPIO%20DE%20RIO%20DO%20SUL%20-%20SC%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20E%20A%20MODELAGEM%20MATEM%C3%81TICA%20NA%20FORMA%C3%87%C3%83O%20CR%C3%8DTICA%20DOS%20ESTUDANTES%20DO%20ENSINO%20M%C3%89DIO%20DE%20ESCOLAS%20DO%20MUNIC%C3%8DPIO%20DE%20RIO%20DO%20SUL%20-%20SC&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28049115"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "28049115",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino de Estatística",
-  "Educação Estatística Crítica",
-  "Modelagem Matemática"
- ],
- "thumbnail": "./assets/images/thumbs/capes-28049115.svg",
- "resumo": "Reconhecendo a importância da Estatística na formação do educando esta pesquisa objetivou investigar como o ensino da Estatística no Ensino Médio contribui para a formação crítica dos estudantes. O aporte teórico se baseia na Educação Estatística Crítica de Campos (2007), que visa desenvolver as habilidades de letramento, raciocínio e pensamento estatístico juntamente com os objetivos da Educação Matemática Crítica a fim de proporcionar uma pedagogia democrática e reflexiva. Ainda, para o autor, ambientes de Modelagem Matemática contribuem no desenvolvimento da Educação Estatística Crítica ao permitir um ambiente de problematização e investigação. Deste modo, buscou-se identificar como a Educação Estatística Crítica está presente no ensino dos conceitos estatísticos e se a Modelagem Matemática é utilizada pelos professores como estratégia de ensino deste conteúdo. A pesquisa aconteceu em duas escolas da rede estadual de ensino no município de Rio do Sul, Santa Catarina. A pesquisa é de caráter qualitativo e para a coleta de dados foram realizadas entrevistas com docentes e observações do ambiente escolar. Para a análise de dados optou-se pelo método da triangulação de dados. Foi possível identificar que o ensino da Estatística nas duas escolas contribui para o desenvolvimento das habilidades de letramento, raciocínio e pensamento estatístico, bem como possibilitam uma formação reflexiva e questionadora.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-28049115",
+  "autor": "Andressa Trainotti",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "A Educação Estatística e a Modelagem Matemática na Formação Crítica dos Estudantes do Ensino Médio de Escolas do Município de Rio do Sul - Sc",
+  "instituicao": "Universidade Federal do Rio Grande do Sul",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Marilaine de Fraga Sant Ana",
+  "programa": "ENSINO DE MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Estatística; Educação Estatística Crítica; Modelagem Matemática",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20E%20A%20MODELAGEM%20MATEM%C3%81TICA%20NA%20FORMA%C3%87%C3%83O%20CR%C3%8DTICA%20DOS%20ESTUDANTES%20DO%20ENSINO%20M%C3%89DIO%20DE%20ESCOLAS%20DO%20MUNIC%C3%8DPIO%20DE%20RIO%20DO%20SUL%20-%20SC%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20E%20A%20MODELAGEM%20MATEM%C3%81TICA%20NA%20FORMA%C3%87%C3%83O%20CR%C3%8DTICA%20DOS%20ESTUDANTES%20DO%20ENSINO%20M%C3%89DIO%20DE%20ESCOLAS%20DO%20MUNIC%C3%8DPIO%20DE%20RIO%20DO%20SUL%20-%20SC&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28049115"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "28049115",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Estatística",
+    "Educação Estatística Crítica",
+    "Modelagem Matemática"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-28049115.svg",
+  "resumo": "Reconhecendo a importância da Estatística na formação do educando esta pesquisa objetivou investigar como o ensino da Estatística no Ensino Médio contribui para a formação crítica dos estudantes. O aporte teórico se baseia na Educação Estatística Crítica de Campos (2007), que visa desenvolver as habilidades de letramento, raciocínio e pensamento estatístico juntamente com os objetivos da Educação Matemática Crítica a fim de proporcionar uma pedagogia democrática e reflexiva. Ainda, para o autor, ambientes de Modelagem Matemática contribuem no desenvolvimento da Educação Estatística Crítica ao permitir um ambiente de problematização e investigação. Deste modo, buscou-se identificar como a Educação Estatística Crítica está presente no ensino dos conceitos estatísticos e se a Modelagem Matemática é utilizada pelos professores como estratégia de ensino deste conteúdo. A pesquisa aconteceu em duas escolas da rede estadual de ensino no município de Rio do Sul, Santa Catarina. A pesquisa é de caráter qualitativo e para a coleta de dados foram realizadas entrevistas com docentes e observações do ambiente escolar. Para a análise de dados optou-se pelo método da triangulação de dados. Foi possível identificar que o ensino da Estatística nas duas escolas contribui para o desenvolvimento das habilidades de letramento, raciocínio e pensamento estatístico, bem como possibilitam uma formação reflexiva e questionadora.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

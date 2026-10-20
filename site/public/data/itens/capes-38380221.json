@@ -1,59 +1,59 @@
 {
- "id": "capes-38380221",
- "autor": "Mariella Fidler",
- "ano": 2023,
- "tipo": "Dissertação",
- "titulo": "Proposta de Ueps para Letramento Estatístico de Alunos do Ensino Fundamental",
- "instituicao": "Universidade Regional Integrada do Alto Uruguai e das Missões",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Rosangela Ferreira Prestes",
- "programa": "Ensino Cientifico e Tecnológico",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Aprendizagem Significativa; UEPS; Letramento Estatístico",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22PROPOSTA%20DE%20UEPS%20PARA%20LETRAMENTO%20ESTAT%C3%8DSTICO%20DE%20ALUNOS%20DO%20ENSINO%20FUNDAMENTAL%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PROPOSTA%20DE%20UEPS%20PARA%20LETRAMENTO%20ESTAT%C3%8DSTICO%20DE%20ALUNOS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38380221"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "38380221",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Aprendizagem Significativa",
-  "UEPS",
-  "Letramento Estatístico"
- ],
- "thumbnail": "./assets/images/thumbs/capes-38380221.svg",
- "resumo": "Essa pesquisa propõe-se a contribuir para o desenvolvimento do letramento estatístico de alunos do Ensino Fundamental, por meio da elaboração de uma UEPS como opção didática para um ensino significativo da disciplina de Matemática. Para tanto, compõe-se de uma pesquisa, respaldada na Teoria da Aprendizagem Significativa, sobre quais competências foram desenvolvidas pelos alunos do 9º do Ensino Fundamental, de uma escola pública, referente aos conceitos e habilidades relacionados à estatística, conforme proposto na BNCC. A partir dos resultados da investigação foi elaborado um produto educacional para auxiliar no ensino de conceitos estatísticos. O papel da tecnologia na educação também é abordado, como ferramenta com potencial para engajar os alunos, propiciar protagonismo na aprendizagem e associar o conhecimento da sala de aula com a realidade contemporânea. A pesquisa justifica-se pela necessidade de conhecer se o processo de ensino-aprendizagem aplicado para o ensino de conceitos estatísticos está apresentando resultado positivo, bem como, buscar permanentemente a melhoria a partir da aplicação e adaptação de novas metodologias, atividades e estratégias. O exame diagnóstico aplicado indicou que grande parte da amostra apresenta dificuldade com medidas de tendência central, gráficos de linha, tabelas de dupla entrada e interpretação de enunciados. O produto educacional elaborado buscou trabalhar essas fragilidades, enquanto também incorpora as habilidades indicadas na BNCC para o 9º ano do Ensino Fundamental, adota a transversalidade e favorece a utilização de metodologias ativas. A UEPS elaborada foi apresentada a um grupo de licenciados em matemática, obtendo avaliação favorável.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "letramento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-38380221",
+  "autor": "Mariella Fidler",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "Proposta de Ueps para Letramento Estatístico de Alunos do Ensino Fundamental",
+  "instituicao": "Universidade Regional Integrada do Alto Uruguai e das Missões",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Rosangela Ferreira Prestes",
+  "programa": "Ensino Cientifico e Tecnológico",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Aprendizagem Significativa; UEPS; Letramento Estatístico",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22PROPOSTA%20DE%20UEPS%20PARA%20LETRAMENTO%20ESTAT%C3%8DSTICO%20DE%20ALUNOS%20DO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PROPOSTA%20DE%20UEPS%20PARA%20LETRAMENTO%20ESTAT%C3%8DSTICO%20DE%20ALUNOS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38380221"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "38380221",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Aprendizagem Significativa",
+    "UEPS",
+    "Letramento Estatístico"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-38380221.svg",
+  "resumo": "Essa pesquisa propõe-se a contribuir para o desenvolvimento do letramento estatístico de alunos do Ensino Fundamental, por meio da elaboração de uma UEPS como opção didática para um ensino significativo da disciplina de Matemática. Para tanto, compõe-se de uma pesquisa, respaldada na Teoria da Aprendizagem Significativa, sobre quais competências foram desenvolvidas pelos alunos do 9º do Ensino Fundamental, de uma escola pública, referente aos conceitos e habilidades relacionados à estatística, conforme proposto na BNCC. A partir dos resultados da investigação foi elaborado um produto educacional para auxiliar no ensino de conceitos estatísticos. O papel da tecnologia na educação também é abordado, como ferramenta com potencial para engajar os alunos, propiciar protagonismo na aprendizagem e associar o conhecimento da sala de aula com a realidade contemporânea. A pesquisa justifica-se pela necessidade de conhecer se o processo de ensino-aprendizagem aplicado para o ensino de conceitos estatísticos está apresentando resultado positivo, bem como, buscar permanentemente a melhoria a partir da aplicação e adaptação de novas metodologias, atividades e estratégias. O exame diagnóstico aplicado indicou que grande parte da amostra apresenta dificuldade com medidas de tendência central, gráficos de linha, tabelas de dupla entrada e interpretação de enunciados. O produto educacional elaborado buscou trabalhar essas fragilidades, enquanto também incorpora as habilidades indicadas na BNCC para o 9º ano do Ensino Fundamental, adota a transversalidade e favorece a utilização de metodologias ativas. A UEPS elaborada foi apresentada a um grupo de licenciados em matemática, obtendo avaliação favorável.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
 }

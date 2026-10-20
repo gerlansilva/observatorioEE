@@ -1,64 +1,64 @@
 {
- "id": "capes-34850173",
- "autor": "Emivan da Costa Maia",
- "ano": 2021,
- "tipo": "Dissertação",
- "titulo": "Letramento Estatístico: Compreensão Gráfica por Meio de Sequências Didáticas Interdisciplinares",
- "instituicao": "Universidade Federal do Amazonas",
- "cidade": "",
- "estado": "Amazonas",
- "regiao": "Norte",
- "orientador": "Marcos Andre Braz Vaz",
- "programa": "ENSINO DE CIÊNCIAS E HUMANIDADES",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Literácia Estatística; Alfabetização Estatística; Educação Estatística; Teoria das Situações Didáticas; Engenharia Didática",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20ESTAT%C3%8DSTICO%3A%20COMPREENS%C3%83O%20GR%C3%81FICA%20POR%20MEIO%20DE%20SEQU%C3%8ANCIAS%20DID%C3%81TICAS%20INTERDISCIPLINARES%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20ESTAT%C3%8DSTICO%3A%20COMPREENS%C3%83O%20GR%C3%81FICA%20POR%20MEIO%20DE%20SEQU%C3%8ANCIAS%20DID%C3%81TICAS%20INTERDISCIPLINARES&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34850173"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "34850173",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Literácia Estatística",
-  "Alfabetização Estatística",
-  "Educação Estatística",
-  "Teoria das Situações Didáticas",
-  "Engenharia Didática"
- ],
- "thumbnail": "./assets/images/thumbs/capes-34850173.svg",
- "resumo": "Em tempos contemporâneos, presencia-se a divulgação de grande quantidade de informações através de diversos meios de comunicação em massa, como, por exemplo: jornais, revistas, livros, rádio, televisão, cinema e internet. Deste modo, se faz relevante trabalhar, nas instituições educacionais, o desenvolvimento de habilidades como leitura, escrita e interpretação das informações dessas mídias, a ponto de ser feitas críticas e inferências sobre elas. Para o desenvolvimento dessas habilidades, é necessário que educadores proporcionem aulas mais atrativas que demonstre a importância do estudo com saberes matemáticos e estatísticos, objetivando um olhar mais crítico de seus alunos e a superação de um processo de ensino e aprendizagem mecânico e memorístico. Diante disso, objetivou-se compreender os níveis de letramento estatístico a partir da mobilização de conhecimentos matemáticos e estatísticos solicitados em sequências didáticas interdisciplinares. Para isto, utilizou-se, como referencias teórico e metodológico, a Teoria das Situações Didáticas proposta por Guy Brousseau, a Engenharia Didática descrita por Michelè Artigue, os níveis de leitura gráfica baseados nas concepções de Curcio e o conceito de letramento estatístico proposto por Iddo Gal. Realizou-se três encontros por Webconferência utilizando o Google Meet com os quais desenvolveu-se uma sequência de atividades contemplando pesquisas, leituras e interpretações gráficas. A produção de dados ocorreu por meio de gravações de áudios de diálogos do pesquisador com os participantes no decorrer dos encontros. Os participantes foram alunos e professores egressos do curso de Letras, do Instituto de Educação, Agricultura e Ambiente (IEAA), da Universidade Federal do Amazonas (UFAM). Com o desenvolvimento da pesquisa, observou-se a mobilização de conhecimentos matemáticos e estatísticos a partir da experimentação de fases adidáticas, análise de estratégias e erros; identificação de níveis de leitura gráfica; e competências e habilidades de letramento estatístico. Notou-se, também, a importância do letramento estatístico, mostrando-se uma ferramenta para o desenvolvimento da interdisciplinaridade, promovendo uma educação crítica, qualificada e significativa, podendo conduzir metodologias que tenha o processo de ensino e aprendizagem fundamentado em ambientes científicos de investigação. Por consequência, os participantes se sentiram motivados a buscarem informações, adquirirem novas habilidades, mudarem comportamentos, experimentarem novas perspectivas, construírem conhecimentos de forma prazerosa por meio da interação, cooperação, criatividade e autonomia.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "letramento estatístico"
- ],
- "ids_duplicados": [
-  "40793977"
- ]
+  "id": "capes-34850173",
+  "autor": "Emivan da Costa Maia",
+  "ano": 2021,
+  "tipo": "Dissertação",
+  "titulo": "Letramento Estatístico: Compreensão Gráfica por Meio de Sequências Didáticas Interdisciplinares",
+  "instituicao": "Universidade Federal do Amazonas",
+  "cidade": "",
+  "estado": "Amazonas",
+  "regiao": "Norte",
+  "orientador": "Marcos Andre Braz Vaz",
+  "programa": "ENSINO DE CIÊNCIAS E HUMANIDADES",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Literácia Estatística; Alfabetização Estatística; Educação Estatística; Teoria das Situações Didáticas; Engenharia Didática",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20ESTAT%C3%8DSTICO%3A%20COMPREENS%C3%83O%20GR%C3%81FICA%20POR%20MEIO%20DE%20SEQU%C3%8ANCIAS%20DID%C3%81TICAS%20INTERDISCIPLINARES%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20ESTAT%C3%8DSTICO%3A%20COMPREENS%C3%83O%20GR%C3%81FICA%20POR%20MEIO%20DE%20SEQU%C3%8ANCIAS%20DID%C3%81TICAS%20INTERDISCIPLINARES&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34850173"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "34850173",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Literácia Estatística",
+    "Alfabetização Estatística",
+    "Educação Estatística",
+    "Teoria das Situações Didáticas",
+    "Engenharia Didática"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-34850173.svg",
+  "resumo": "Em tempos contemporâneos, presencia-se a divulgação de grande quantidade de informações através de diversos meios de comunicação em massa, como, por exemplo: jornais, revistas, livros, rádio, televisão, cinema e internet. Deste modo, se faz relevante trabalhar, nas instituições educacionais, o desenvolvimento de habilidades como leitura, escrita e interpretação das informações dessas mídias, a ponto de ser feitas críticas e inferências sobre elas. Para o desenvolvimento dessas habilidades, é necessário que educadores proporcionem aulas mais atrativas que demonstre a importância do estudo com saberes matemáticos e estatísticos, objetivando um olhar mais crítico de seus alunos e a superação de um processo de ensino e aprendizagem mecânico e memorístico. Diante disso, objetivou-se compreender os níveis de letramento estatístico a partir da mobilização de conhecimentos matemáticos e estatísticos solicitados em sequências didáticas interdisciplinares. Para isto, utilizou-se, como referencias teórico e metodológico, a Teoria das Situações Didáticas proposta por Guy Brousseau, a Engenharia Didática descrita por Michelè Artigue, os níveis de leitura gráfica baseados nas concepções de Curcio e o conceito de letramento estatístico proposto por Iddo Gal. Realizou-se três encontros por Webconferência utilizando o Google Meet com os quais desenvolveu-se uma sequência de atividades contemplando pesquisas, leituras e interpretações gráficas. A produção de dados ocorreu por meio de gravações de áudios de diálogos do pesquisador com os participantes no decorrer dos encontros. Os participantes foram alunos e professores egressos do curso de Letras, do Instituto de Educação, Agricultura e Ambiente (IEAA), da Universidade Federal do Amazonas (UFAM). Com o desenvolvimento da pesquisa, observou-se a mobilização de conhecimentos matemáticos e estatísticos a partir da experimentação de fases adidáticas, análise de estratégias e erros; identificação de níveis de leitura gráfica; e competências e habilidades de letramento estatístico. Notou-se, também, a importância do letramento estatístico, mostrando-se uma ferramenta para o desenvolvimento da interdisciplinaridade, promovendo uma educação crítica, qualificada e significativa, podendo conduzir metodologias que tenha o processo de ensino e aprendizagem fundamentado em ambientes científicos de investigação. Por consequência, os participantes se sentiram motivados a buscarem informações, adquirirem novas habilidades, mudarem comportamentos, experimentarem novas perspectivas, construírem conhecimentos de forma prazerosa por meio da interação, cooperação, criatividade e autonomia.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": [
+    "40793977"
+  ]
 }

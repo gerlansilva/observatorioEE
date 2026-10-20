@@ -1,62 +1,62 @@
 {
- "id": "capes-38250169",
- "autor": "Roberto Lucio Ferreira",
- "ano": 2023,
- "tipo": "Dissertação",
- "titulo": "Ensino de estatística no ensino médio com base na resolução de problemas em contexto pandêmico de COVID-19 à luz da educação matemática crítica",
- "instituicao": "Instituto Federal de Educação Ciência e Tecnologia de Mato Grosso",
- "cidade": "",
- "estado": "Mato Grosso",
- "regiao": "Centro-Oeste",
- "orientador": "Thiago Beirigo Lopes",
- "programa": "ENSINO",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Matemática; Aprendizagem de Estatística; Resolução de Problemas; Ensino Médio; . Pandemia de Covid-19",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Ensino%20de%20estat%C3%ADstica%20no%20ensino%20m%C3%A9dio%20com%20base%20na%20resolu%C3%A7%C3%A3o%20de%20problemas%20em%20contexto%20pand%C3%AAmico%20de%20COVID-19%20%C3%A0%20luz%20da%20educa%C3%A7%C3%A3o%20matem%C3%A1tica%20cr%C3%ADtica%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Ensino%20de%20estat%C3%ADstica%20no%20ensino%20m%C3%A9dio%20com%20base%20na%20resolu%C3%A7%C3%A3o%20de%20problemas%20em%20contexto%20pand%C3%AAmico%20de%20COVID-19%20%C3%A0%20luz%20da%20educa%C3%A7%C3%A3o%20matem%C3%A1tica%20cr%C3%ADtica&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38250169"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "38250169",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Matemática",
-  "Aprendizagem de Estatística",
-  "Resolução de Problemas",
-  "Ensino Médio",
-  ". Pandemia de Covid-19"
- ],
- "thumbnail": "./assets/images/thumbs/capes-38250169.svg",
- "resumo": "Esta pesquisa apresenta uma discussão a respeito do ensino de Estatística por meio daResolução de Problemas matemáticos contextualizados, tendo como objetivo compreender as contribuições da Resolução de Problemas matemáticos contextualizados na pandemia de Covid-19 para a aprendizagem de Estatística no Ensino Médio. Tem como questão norteadora a seguinte problemática: Quais as contribuições da Resolução de Problemas matemáticos contextualizados na pandemia de Covid-19 para a aprendizagem de Estatística no Ensino Médio? Para isso, recorreu-se a quatro instrumentos de produção de dados, que são: um préteste para averiguar o conhecimento prévio dos estudantes; utilização de uma apostila como uma ferramenta didática para desenvolvimento de ação formativa por intermédio de uma Sequência Didática para estudo dos conceitos e do conteúdo da Estatística Básica; um pós-teste para avaliar o desempenho e a evolução da aprendizagem dos estudantes participantes da pesquisa; e na fase final utilizou-se um questionário com 10 questões subjetivas para saber a opinião dos estudantes em relação à experiência de participação na pesquisa. Para a aplicação destes instrumentos de pesquisa, foi utilizado o espaço da sala de aula, onde os procedimentos foram postos em prática junto a um grupo de vinte e dois estudantes do Ensino Médio, participantes voluntários da pesquisa. Em relação à perspectiva metodológica, trata-se de uma pesquisa de abordagem qualitativa do tipo pesquisa-ação com análise interpretativa dos dados. As ações desenvolvidas durante a intervenção em sala de aula foram formalizadas, utilizandose dos registros verbais áudio gravados como método de recolha de dados. Usufruiu-se também de um diário de campo para registro das observações durante as ações didáticas. Os dados produzidos e submetidos à análise foram estruturados em cinco etapas: aplicação de um préteste para verificar o conhecimento prévio dos estudantes; observação do desempenho dos estudantes durante as ações didáticas, utilizando gravações em áudio e anotações no caderno de campo do pesquisador; acompanhamento dos registros dos estudantes elaborados durante o desenvolvimento da sequência de atividades da apostila Estatística Básica; aplicação do pósteste para verificar os avanços na aprendizagem emfunção das ações didáticas executadas em sala de aula; e análise dos dados produzidos pelos estudantes durante as ações didáticas. Os dados foram analisados a partir das dez etapas do método Ensino-Aprendizagem-Avaliação de Matemática através da Resolução de Problemas, que se trata de uma abordagem na qual uma situação problema é ponto de partida e orientação para a aprendizagem. Os resultados demonstram que a Resolução de Problemas contextualizados por intermédio do método de Ensino-Aprendizagem-Avaliação de Matemática por meio da Resolução de Problemas podem possibilitar uma aprendizagem crítica dos estudantes, e que sua utilização de forma prática promove a autonomia na condução do ensino dos conteúdos de Estatística dentro de uma perspectiva da Educação Matemática Crítica, tornando o estudante protagonista ativo na construção de seu conhecimento com capacidade de interpretar, analisar dados e tomar decisões informadas em diversos contextos.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-38250169",
+  "autor": "Roberto Lucio Ferreira",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "Ensino de estatística no ensino médio com base na resolução de problemas em contexto pandêmico de COVID-19 à luz da educação matemática crítica",
+  "instituicao": "Instituto Federal de Educação Ciência e Tecnologia de Mato Grosso",
+  "cidade": "",
+  "estado": "Mato Grosso",
+  "regiao": "Centro-Oeste",
+  "orientador": "Thiago Beirigo Lopes",
+  "programa": "ENSINO",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Matemática; Aprendizagem de Estatística; Resolução de Problemas; Ensino Médio; . Pandemia de Covid-19",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Ensino%20de%20estat%C3%ADstica%20no%20ensino%20m%C3%A9dio%20com%20base%20na%20resolu%C3%A7%C3%A3o%20de%20problemas%20em%20contexto%20pand%C3%AAmico%20de%20COVID-19%20%C3%A0%20luz%20da%20educa%C3%A7%C3%A3o%20matem%C3%A1tica%20cr%C3%ADtica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Ensino%20de%20estat%C3%ADstica%20no%20ensino%20m%C3%A9dio%20com%20base%20na%20resolu%C3%A7%C3%A3o%20de%20problemas%20em%20contexto%20pand%C3%AAmico%20de%20COVID-19%20%C3%A0%20luz%20da%20educa%C3%A7%C3%A3o%20matem%C3%A1tica%20cr%C3%ADtica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38250169"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "38250169",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Matemática",
+    "Aprendizagem de Estatística",
+    "Resolução de Problemas",
+    "Ensino Médio",
+    ". Pandemia de Covid-19"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-38250169.svg",
+  "resumo": "Esta pesquisa apresenta uma discussão a respeito do ensino de Estatística por meio daResolução de Problemas matemáticos contextualizados, tendo como objetivo compreender as contribuições da Resolução de Problemas matemáticos contextualizados na pandemia de Covid-19 para a aprendizagem de Estatística no Ensino Médio. Tem como questão norteadora a seguinte problemática: Quais as contribuições da Resolução de Problemas matemáticos contextualizados na pandemia de Covid-19 para a aprendizagem de Estatística no Ensino Médio? Para isso, recorreu-se a quatro instrumentos de produção de dados, que são: um préteste para averiguar o conhecimento prévio dos estudantes; utilização de uma apostila como uma ferramenta didática para desenvolvimento de ação formativa por intermédio de uma Sequência Didática para estudo dos conceitos e do conteúdo da Estatística Básica; um pós-teste para avaliar o desempenho e a evolução da aprendizagem dos estudantes participantes da pesquisa; e na fase final utilizou-se um questionário com 10 questões subjetivas para saber a opinião dos estudantes em relação à experiência de participação na pesquisa. Para a aplicação destes instrumentos de pesquisa, foi utilizado o espaço da sala de aula, onde os procedimentos foram postos em prática junto a um grupo de vinte e dois estudantes do Ensino Médio, participantes voluntários da pesquisa. Em relação à perspectiva metodológica, trata-se de uma pesquisa de abordagem qualitativa do tipo pesquisa-ação com análise interpretativa dos dados. As ações desenvolvidas durante a intervenção em sala de aula foram formalizadas, utilizandose dos registros verbais áudio gravados como método de recolha de dados. Usufruiu-se também de um diário de campo para registro das observações durante as ações didáticas. Os dados produzidos e submetidos à análise foram estruturados em cinco etapas: aplicação de um préteste para verificar o conhecimento prévio dos estudantes; observação do desempenho dos estudantes durante as ações didáticas, utilizando gravações em áudio e anotações no caderno de campo do pesquisador; acompanhamento dos registros dos estudantes elaborados durante o desenvolvimento da sequência de atividades da apostila Estatística Básica; aplicação do pósteste para verificar os avanços na aprendizagem emfunção das ações didáticas executadas em sala de aula; e análise dos dados produzidos pelos estudantes durante as ações didáticas. Os dados foram analisados a partir das dez etapas do método Ensino-Aprendizagem-Avaliação de Matemática através da Resolução de Problemas, que se trata de uma abordagem na qual uma situação problema é ponto de partida e orientação para a aprendizagem. Os resultados demonstram que a Resolução de Problemas contextualizados por intermédio do método de Ensino-Aprendizagem-Avaliação de Matemática por meio da Resolução de Problemas podem possibilitar uma aprendizagem crítica dos estudantes, e que sua utilização de forma prática promove a autonomia na condução do ensino dos conteúdos de Estatística dentro de uma perspectiva da Educação Matemática Crítica, tornando o estudante protagonista ativo na construção de seu conhecimento com capacidade de interpretar, analisar dados e tomar decisões informadas em diversos contextos.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

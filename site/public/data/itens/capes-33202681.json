@@ -1,61 +1,61 @@
 {
- "id": "capes-33202681",
- "autor": "Vanessa Lays Oliveira dos Santos",
- "ano": 2020,
- "tipo": "Dissertação",
- "titulo": "Análise sobre o Fenômeno da Transposição Didática Interna no Ensino de Estatística: Um Estudo com a Inclusão de um Aluno Cego em uma Sala de Aula Regular",
- "instituicao": "Universidade Estadual da Paraiba",
- "cidade": "",
- "estado": "Paraíba",
- "regiao": "Nordeste",
- "orientador": "Marcus Bessa de Menezes",
- "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Inclusão; Alunos Cegos; Ensino de Estatística; Saberes Diferentes; Transposição Didática Interna",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22AN%C3%81LISE%20SOBRE%20O%20FEN%C3%94MENO%20DA%20TRANSPOSI%C3%87%C3%83O%20DID%C3%81TICA%20INTERNA%20NO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%3A%20UM%20ESTUDO%20COM%20A%20INCLUS%C3%83O%20DE%20UM%20ALUNO%20CEGO%20EM%20UMA%20SALA%20DE%20AULA%20REGULAR%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AN%C3%81LISE%20SOBRE%20O%20FEN%C3%94MENO%20DA%20TRANSPOSI%C3%87%C3%83O%20DID%C3%81TICA%20INTERNA%20NO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%3A%20UM%20ESTUDO%20COM%20A%20INCLUS%C3%83O%20DE%20UM%20ALUNO%20CEGO%20EM%20UMA%20SALA%20DE%20AULA%20REGULAR&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/33202681"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "33202681",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Inclusão",
-  "Alunos Cegos",
-  "Ensino de Estatística",
-  "Saberes Diferentes",
-  "Transposição Didática Interna"
- ],
- "thumbnail": "./assets/images/thumbs/capes-33202681.svg",
- "resumo": "Este trabalho faz uma abordagem ao fenômeno da Transposição Didática, proposto por Yves Chevallard (1991). No campo da didática da Matemática, este fenômeno descreve a trajetória percorrida pelo saber desde sua criação na comunidade científica até se transformar em objeto de ensino nas escolas. Centralizamos nossas discussões na Transposição Didática Interna, que ocorre dentro da sala de aula e destacamos os direcionamentos teóricos dos pesquisadores: Araújo (2009), Bessa de Menezes (2004, 2010) e Brito Menezes (2006). As inquietações que nos levaram a esta investigação, estão relacionadas ao número elevado de alunos com deficiência visual incluídos na escola regular, realidade que exige do professor novas metodologias, para que ele possa atender as necessidades desses discentes nesse atual cenário didático. Analisamos sob a ótica da transposição didática interna, o distanciamento entre os saberes efetivamente ensinados para um aluno cego dos saberes efetivamente ensinados para alunos videntes, durante o ensino de estatística, especificamente em uma aula sobre as medidas de tendência central (média, moda e mediana), e na construção e interpretação de gráficos e tabelas. A partir desses estudos, encontramos indícios de possíveis formações de novos sistemas didáticos (subsistemas) na sala de aula regular. Tomamos como base uma pesquisa qualitativa, onde fizemos um estudo com um aluno cego em uma turma do 9º ano de uma escola pública. O desenvolvimento metodológico foi dividido em três etapas: i) observações das aulas; ii) entrevista semiestruturada/conversas informais, e iii) análise dos dados coletados. Percebemos ao final dessas etapas, mesmo com dados incipientes, um distanciamento entre os saberes efetivamente ensinados para os dois públicos (cego/videntes). Vimos que, a distância entre esses saberes, compromete o saber matemático que foi apresentado para o aluno cego, o que pode acarretar em dificuldades no avanço dos estudos desses saberes posteriormente.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-33202681",
+  "autor": "Vanessa Lays Oliveira dos Santos",
+  "ano": 2020,
+  "tipo": "Dissertação",
+  "titulo": "Análise sobre o Fenômeno da Transposição Didática Interna no Ensino de Estatística: Um Estudo com a Inclusão de um Aluno Cego em uma Sala de Aula Regular",
+  "instituicao": "Universidade Estadual da Paraiba",
+  "cidade": "",
+  "estado": "Paraíba",
+  "regiao": "Nordeste",
+  "orientador": "Marcus Bessa de Menezes",
+  "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Inclusão; Alunos Cegos; Ensino de Estatística; Saberes Diferentes; Transposição Didática Interna",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22AN%C3%81LISE%20SOBRE%20O%20FEN%C3%94MENO%20DA%20TRANSPOSI%C3%87%C3%83O%20DID%C3%81TICA%20INTERNA%20NO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%3A%20UM%20ESTUDO%20COM%20A%20INCLUS%C3%83O%20DE%20UM%20ALUNO%20CEGO%20EM%20UMA%20SALA%20DE%20AULA%20REGULAR%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AN%C3%81LISE%20SOBRE%20O%20FEN%C3%94MENO%20DA%20TRANSPOSI%C3%87%C3%83O%20DID%C3%81TICA%20INTERNA%20NO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%3A%20UM%20ESTUDO%20COM%20A%20INCLUS%C3%83O%20DE%20UM%20ALUNO%20CEGO%20EM%20UMA%20SALA%20DE%20AULA%20REGULAR&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/33202681"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "33202681",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Inclusão",
+    "Alunos Cegos",
+    "Ensino de Estatística",
+    "Saberes Diferentes",
+    "Transposição Didática Interna"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-33202681.svg",
+  "resumo": "Este trabalho faz uma abordagem ao fenômeno da Transposição Didática, proposto por Yves Chevallard (1991). No campo da didática da Matemática, este fenômeno descreve a trajetória percorrida pelo saber desde sua criação na comunidade científica até se transformar em objeto de ensino nas escolas. Centralizamos nossas discussões na Transposição Didática Interna, que ocorre dentro da sala de aula e destacamos os direcionamentos teóricos dos pesquisadores: Araújo (2009), Bessa de Menezes (2004, 2010) e Brito Menezes (2006). As inquietações que nos levaram a esta investigação, estão relacionadas ao número elevado de alunos com deficiência visual incluídos na escola regular, realidade que exige do professor novas metodologias, para que ele possa atender as necessidades desses discentes nesse atual cenário didático. Analisamos sob a ótica da transposição didática interna, o distanciamento entre os saberes efetivamente ensinados para um aluno cego dos saberes efetivamente ensinados para alunos videntes, durante o ensino de estatística, especificamente em uma aula sobre as medidas de tendência central (média, moda e mediana), e na construção e interpretação de gráficos e tabelas. A partir desses estudos, encontramos indícios de possíveis formações de novos sistemas didáticos (subsistemas) na sala de aula regular. Tomamos como base uma pesquisa qualitativa, onde fizemos um estudo com um aluno cego em uma turma do 9º ano de uma escola pública. O desenvolvimento metodológico foi dividido em três etapas: i) observações das aulas; ii) entrevista semiestruturada/conversas informais, e iii) análise dos dados coletados. Percebemos ao final dessas etapas, mesmo com dados incipientes, um distanciamento entre os saberes efetivamente ensinados para os dois públicos (cego/videntes). Vimos que, a distância entre esses saberes, compromete o saber matemático que foi apresentado para o aluno cego, o que pode acarretar em dificuldades no avanço dos estudos desses saberes posteriormente.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

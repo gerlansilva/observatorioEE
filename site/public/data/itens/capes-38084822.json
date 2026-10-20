@@ -1,62 +1,62 @@
 {
- "id": "capes-38084822",
- "autor": "Heron Miguez Gonzalez Gomes",
- "ano": 2023,
- "tipo": "Dissertação",
- "titulo": "A probabilidade nos documentos curriculares de Brasil, Argentina, Colômbia e México: uma análise comparada",
- "instituicao": "Universidade Estadual Paulista Júlio de Mesquita Filho ( Rio Claro )",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Antonio Carlos de Souza",
- "programa": "EDUCAÇÃO MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação estatística; Análise comparada; Currículo na América Latina; Letramento probabilístico; Educação Matemática",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20probabilidade%20nos%20documentos%20curriculares%20de%20Brasil%2C%20Argentina%2C%20Col%C3%B4mbia%20e%20M%C3%A9xico%3A%20uma%20an%C3%A1lise%20comparada%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20probabilidade%20nos%20documentos%20curriculares%20de%20Brasil%2C%20Argentina%2C%20Col%C3%B4mbia%20e%20M%C3%A9xico%3A%20uma%20an%C3%A1lise%20comparada&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38084822"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "38084822",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação estatística",
-  "Análise comparada",
-  "Currículo na América Latina",
-  "Letramento probabilístico",
-  "Educação Matemática"
- ],
- "thumbnail": "./assets/images/thumbs/capes-38084822.svg",
- "resumo": "O objetivo desta pesquisa é realizar uma análise comparada sobre como se mostra o ensino de Probabilidade em documentos curriculares nacionais de alguns países latino-americanos. Para tanto, elegemos, a partir de um estudo de publicações da área em eventos internacionais, analisar os currículos de Brasil, Argentina, Colômbia e México. Optamos por uma metodologia de pesquisa qualitativa comparada que nos permitiu analisar lado a lado, de maneira contextualizada, os quatro documentos em busca de convergências, peculiaridades e possibilidades do que se mostra para o ensino de Probabilidade no âmbito específico dessas políticas públicas curriculares nacionais. A pergunta que orientou nossa análise foi: “Como o ensino de Probabilidade se mostra em documentos curriculares de países da América Latina?”. Realizamos levantamentos teóricos quanto a interpretações de probabilidade, letramento probabilístico, bem como sobre teorias de currículo e elaboração curricular. Organizamos um panorama dos 4 países para situar nosso processo de análise comparada, com observações sobre suas histórias, aspectos socioeconômicos e educacionais. A análise dos dados se deu em dois momentos, o primeiro sobre a organização geral e específica da Probabilidade nos textos iniciais dos documentos. O segundo se deu com as orientações de aprendizagens prescritivas esperadas pelos currículos a partir de alguns aspectos considerados como as interpretações de probabilidade e os elementos do letramento probabilístico. Consideramos, por fim, que há a necessidade quantitativa da presença da Probabilidade em mais anos de ensino, mas principalmente a necessidade qualitativa de uma boa organização e aprofundamento de todos os aspectos considerados na pesquisa, como as interpretações e os elementos do letramento. Ao final, trazemos algumas considerações e propostas de maneira geral e específica a cada documento.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "letramento probabilístico"
- ],
- "ids_duplicados": []
+  "id": "capes-38084822",
+  "autor": "Heron Miguez Gonzalez Gomes",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "A probabilidade nos documentos curriculares de Brasil, Argentina, Colômbia e México: uma análise comparada",
+  "instituicao": "Universidade Estadual Paulista Júlio de Mesquita Filho ( Rio Claro )",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Antonio Carlos de Souza",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação estatística; Análise comparada; Currículo na América Latina; Letramento probabilístico; Educação Matemática",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20probabilidade%20nos%20documentos%20curriculares%20de%20Brasil%2C%20Argentina%2C%20Col%C3%B4mbia%20e%20M%C3%A9xico%3A%20uma%20an%C3%A1lise%20comparada%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20probabilidade%20nos%20documentos%20curriculares%20de%20Brasil%2C%20Argentina%2C%20Col%C3%B4mbia%20e%20M%C3%A9xico%3A%20uma%20an%C3%A1lise%20comparada&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38084822"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "38084822",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação estatística",
+    "Análise comparada",
+    "Currículo na América Latina",
+    "Letramento probabilístico",
+    "Educação Matemática"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-38084822.svg",
+  "resumo": "O objetivo desta pesquisa é realizar uma análise comparada sobre como se mostra o ensino de Probabilidade em documentos curriculares nacionais de alguns países latino-americanos. Para tanto, elegemos, a partir de um estudo de publicações da área em eventos internacionais, analisar os currículos de Brasil, Argentina, Colômbia e México. Optamos por uma metodologia de pesquisa qualitativa comparada que nos permitiu analisar lado a lado, de maneira contextualizada, os quatro documentos em busca de convergências, peculiaridades e possibilidades do que se mostra para o ensino de Probabilidade no âmbito específico dessas políticas públicas curriculares nacionais. A pergunta que orientou nossa análise foi: “Como o ensino de Probabilidade se mostra em documentos curriculares de países da América Latina?”. Realizamos levantamentos teóricos quanto a interpretações de probabilidade, letramento probabilístico, bem como sobre teorias de currículo e elaboração curricular. Organizamos um panorama dos 4 países para situar nosso processo de análise comparada, com observações sobre suas histórias, aspectos socioeconômicos e educacionais. A análise dos dados se deu em dois momentos, o primeiro sobre a organização geral e específica da Probabilidade nos textos iniciais dos documentos. O segundo se deu com as orientações de aprendizagens prescritivas esperadas pelos currículos a partir de alguns aspectos considerados como as interpretações de probabilidade e os elementos do letramento probabilístico. Consideramos, por fim, que há a necessidade quantitativa da presença da Probabilidade em mais anos de ensino, mas principalmente a necessidade qualitativa de uma boa organização e aprofundamento de todos os aspectos considerados na pesquisa, como as interpretações e os elementos do letramento. Ao final, trazemos algumas considerações e propostas de maneira geral e específica a cada documento.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "letramento probabilístico"
+  ],
+  "ids_duplicados": []
 }

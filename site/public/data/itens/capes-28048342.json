@@ -1,60 +1,60 @@
 {
- "id": "capes-28048342",
- "autor": "Mineia Bortole Machado",
- "ano": 2017,
- "tipo": "Dissertação",
- "titulo": "Modelagem Matemática Como Ambiente de Aprendizagem de Estatística na Educação Básica",
- "instituicao": "Universidade Federal do Rio Grande do Sul",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Alvino Alves Sant Ana",
- "programa": "ENSINO DE MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ambientes de Aprendizagem; Modelagem Matemática; Estatística; Investigação Estatística",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22MODELAGEM%20MATEM%C3%81TICA%20COMO%20AMBIENTE%20DE%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=MODELAGEM%20MATEM%C3%81TICA%20COMO%20AMBIENTE%20DE%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28048342"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "28048342",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ambientes de Aprendizagem",
-  "Modelagem Matemática",
-  "Estatística",
-  "Investigação Estatística"
- ],
- "thumbnail": "./assets/images/thumbs/capes-28048342.svg",
- "resumo": "A presente pesquisa de cunho qualitativo consiste em um estudo de caso que visa experimentar a Modelagem Matemática como Ambiente de Aprendizagem na introdução de conteúdos programáticos de Estatística. A questão que norteou nossa pesquisa foi: “Um Ambiente de Modelagem Matemática favorece a aprendizagem de Estatística na Educação Básica?” Na busca de resposta a essa pergunta, as atividades foram pensadas baseadas no contexto no qual a turma está inserida. Elaboramos uma sequência didática baseada em questionamentos direcionados à reflexão e à investigação. Nesse cenário, o professor tem papel de incentivador da autonomia e capacidade dos alunos produzirem estratégias para resolverem problemas. Trata-se de um plano de natureza aberta, no qual os conhecimentos prévios dos alunos e suas dúvidas têm maior responsabilidade no processo de aprendizagem. Escolhemos a Modelagem Matemática como metodologia, pois ela atende aos objetivos de nosso trabalho, de dar significado à Matemática à medida que a aproximamos da realidade do estudante, desenvolver a autonomia dos alunos, estimulá-los à reflexão e a crítica de fatos oriundos da sociedade. Queremos que os conteúdos sejam introduzidos dentro de um contexto com referência ao dia a dia do educando. Nossa expectativa é que por meio da compreensão da Estatística e de seu papel na sociedade os alunos consigam utilizá-la como ferramenta de análise da realidade vivida. Essa sequência didática foi aplicada em uma turma de 7º ano de Ensino Fundamental de uma escola pública de Sapucaia do Sul – RS. Baseado nesse trabalho, julgamos que utilizar a Modelagem Matemática como Ambiente de Aprendizagem favorece a aprendizagem de Estatística. Acreditamos que os alunos tiveram maior envolvimento nas atividades à medida que a Matemática se tornava mais próxima à realidade deles. Ao longo do trabalho desenvolvido junto aos alunos, percebemos uma evolução na compreensão dos conteúdos abordados. Atribuímos essa evolução ao maior envolvimento dos alunos nos Ambientes de Aprendizagem proporcionados pela Modelagem Matemática.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-28048342",
+  "autor": "Mineia Bortole Machado",
+  "ano": 2017,
+  "tipo": "Dissertação",
+  "titulo": "Modelagem Matemática Como Ambiente de Aprendizagem de Estatística na Educação Básica",
+  "instituicao": "Universidade Federal do Rio Grande do Sul",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Alvino Alves Sant Ana",
+  "programa": "ENSINO DE MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ambientes de Aprendizagem; Modelagem Matemática; Estatística; Investigação Estatística",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22MODELAGEM%20MATEM%C3%81TICA%20COMO%20AMBIENTE%20DE%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=MODELAGEM%20MATEM%C3%81TICA%20COMO%20AMBIENTE%20DE%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28048342"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "28048342",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ambientes de Aprendizagem",
+    "Modelagem Matemática",
+    "Estatística",
+    "Investigação Estatística"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-28048342.svg",
+  "resumo": "A presente pesquisa de cunho qualitativo consiste em um estudo de caso que visa experimentar a Modelagem Matemática como Ambiente de Aprendizagem na introdução de conteúdos programáticos de Estatística. A questão que norteou nossa pesquisa foi: “Um Ambiente de Modelagem Matemática favorece a aprendizagem de Estatística na Educação Básica?” Na busca de resposta a essa pergunta, as atividades foram pensadas baseadas no contexto no qual a turma está inserida. Elaboramos uma sequência didática baseada em questionamentos direcionados à reflexão e à investigação. Nesse cenário, o professor tem papel de incentivador da autonomia e capacidade dos alunos produzirem estratégias para resolverem problemas. Trata-se de um plano de natureza aberta, no qual os conhecimentos prévios dos alunos e suas dúvidas têm maior responsabilidade no processo de aprendizagem. Escolhemos a Modelagem Matemática como metodologia, pois ela atende aos objetivos de nosso trabalho, de dar significado à Matemática à medida que a aproximamos da realidade do estudante, desenvolver a autonomia dos alunos, estimulá-los à reflexão e a crítica de fatos oriundos da sociedade. Queremos que os conteúdos sejam introduzidos dentro de um contexto com referência ao dia a dia do educando. Nossa expectativa é que por meio da compreensão da Estatística e de seu papel na sociedade os alunos consigam utilizá-la como ferramenta de análise da realidade vivida. Essa sequência didática foi aplicada em uma turma de 7º ano de Ensino Fundamental de uma escola pública de Sapucaia do Sul – RS. Baseado nesse trabalho, julgamos que utilizar a Modelagem Matemática como Ambiente de Aprendizagem favorece a aprendizagem de Estatística. Acreditamos que os alunos tiveram maior envolvimento nas atividades à medida que a Matemática se tornava mais próxima à realidade deles. Ao longo do trabalho desenvolvido junto aos alunos, percebemos uma evolução na compreensão dos conteúdos abordados. Atribuímos essa evolução ao maior envolvimento dos alunos nos Ambientes de Aprendizagem proporcionados pela Modelagem Matemática.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

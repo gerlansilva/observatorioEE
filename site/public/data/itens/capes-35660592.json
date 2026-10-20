@@ -1,61 +1,61 @@
 {
- "id": "capes-35660592",
- "autor": "Dalva Spiler Brandelero",
- "ano": 2021,
- "tipo": "Dissertação",
- "titulo": "Aprendizagem Profissional de uma Professora na Realização de Práticas de Ensino Exploratório de Estatística",
- "instituicao": "Universidade Estadual do Paraná - Reitoria",
- "cidade": "",
- "estado": "Paraná",
- "regiao": "Sul",
- "orientador": "Everton Jose Goldoni Estevam",
- "programa": "EDUCAÇÃO MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino de Estatística; Investigação da própria prática; Planejamento",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22APRENDIZAGEM%20PROFISSIONAL%20DE%20UMA%20PROFESSORA%20NA%20REALIZA%C3%87%C3%83O%20DE%20PR%C3%81TICAS%20DE%20ENSINO%20EXPLORAT%C3%93RIO%20DE%20ESTAT%C3%8DSTICA%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=APRENDIZAGEM%20PROFISSIONAL%20DE%20UMA%20PROFESSORA%20NA%20REALIZA%C3%87%C3%83O%20DE%20PR%C3%81TICAS%20DE%20ENSINO%20EXPLORAT%C3%93RIO%20DE%20ESTAT%C3%8DSTICA&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35660592"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "35660592",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino de Estatística",
-  "Investigação da própria prática",
-  "Planejamento"
- ],
- "thumbnail": "./assets/images/thumbs/capes-35660592.svg",
- "resumo": "Diante das dificuldades de professores em desenvolver o ensino de Estatística menos focado em aspectos procedimentais e matemáticos, mas que privilegia a análise de dados e os conceitos, a perspectiva de desenvolvimento profissional mostra-se igualmente desafiadora e promissora a aprendizagens profissionais associadas às demandas, aos dilemas e dificuldades emergentes na prática pedagógica do professor da Educação Básica. Admitindo este cenário, o presente estudo envolve uma investigação da própria prática de uma professora da Educação Básica orientada pela seguinte questão: Quais aprendizagens e aspectos do desenvolvimento profissional são evidenciados nas reflexões de uma professora de Matemática quando planeja e analisa práticas assentes no Ensino Exploratório de Estatística? Assume, portanto, a pesquisa da própria prática como metodologia de pesquisa, orientado por reflexões da professora-pesquisadora no decurso do planejamento, realização e reflexões após a efetivação de práticas exploratórias de ensino de Estatística envolvendo particularmente a média aritmética simples e ponderada e direcionadas a alunos do oitavo ano. Este processo é partilhado com interações da professora-pesquisadora com um professor formador (seu orientador) e um grupo de pesquisa do qual é participante. Com uma estrutura no formato multipaper, a dissertação é organizada em três artigos orientados a aspectos específicos associados à questão geral: i) uma revisão bibliográfica acerca da investigação da própria prática; ii) o planejamento de aulas de Estatística na perspectiva exploratória de ensino, compartilhado com o professor orientador e o grupo de pesquisa; e iii) reflexões decorrentes da efetivação de uma prática de Ensino Exploratório de Estatística com um grupo de alunos, com episódios também discutidos com o grupo de pesquisa. Como instrumentos para produção de dados são utilizados: gravações em áudio das orientações, diálogos e reflexões no contexto do grupo de pesquisa; gravações em áudio e vídeo das aulas; planos de aula elaborados pela professora; e transcrições dos relatos e reflexões compartilhadas sobre o planejamento e o desenvolvimento da tarefa. Desse processo de investigação da própria prática emergem aprendizagens relacionadas ao conhecimento profissional, o qual abarca o conhecimento de conteúdo, também didático-pedagógico do conteúdo, que contribuem para melhorias de aspectos da prática da professora-pesquisadora. Além disso, o processo reflexivo sistemático, amparado pelo planejamento intencional e pela dimensão colaborativa da investigação, mostraram-se promissores à perspectiva de desenvolvimento profissional e possibilitaram a (re)significação, pela professora-pesquisadora, de crenças e concepções a respeito do ensino, da aprendizagem e da própria Estatística. Assim, a conjugação destes aspectos evidencia desenvolvimento profissional da professora em múltiplas dimensões, as quais sugerem mudanças nas suas formas de compreender, planejar, realizar e refletir sobre sua prática de ensino, com enfoque particular na perspectiva do Ensino Exploratório de Estatística. Demonstra, deste modo, como ações semelhantes mostram-se promissoras para a aprendizagem profissional de professores da Educação Básica.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística"
- ],
- "ids_duplicados": [
-  "39700161"
- ]
+  "id": "capes-35660592",
+  "autor": "Dalva Spiler Brandelero",
+  "ano": 2021,
+  "tipo": "Dissertação",
+  "titulo": "Aprendizagem Profissional de uma Professora na Realização de Práticas de Ensino Exploratório de Estatística",
+  "instituicao": "Universidade Estadual do Paraná - Reitoria",
+  "cidade": "",
+  "estado": "Paraná",
+  "regiao": "Sul",
+  "orientador": "Everton Jose Goldoni Estevam",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Estatística; Investigação da própria prática; Planejamento",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22APRENDIZAGEM%20PROFISSIONAL%20DE%20UMA%20PROFESSORA%20NA%20REALIZA%C3%87%C3%83O%20DE%20PR%C3%81TICAS%20DE%20ENSINO%20EXPLORAT%C3%93RIO%20DE%20ESTAT%C3%8DSTICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=APRENDIZAGEM%20PROFISSIONAL%20DE%20UMA%20PROFESSORA%20NA%20REALIZA%C3%87%C3%83O%20DE%20PR%C3%81TICAS%20DE%20ENSINO%20EXPLORAT%C3%93RIO%20DE%20ESTAT%C3%8DSTICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35660592"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "35660592",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Estatística",
+    "Investigação da própria prática",
+    "Planejamento"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-35660592.svg",
+  "resumo": "Diante das dificuldades de professores em desenvolver o ensino de Estatística menos focado em aspectos procedimentais e matemáticos, mas que privilegia a análise de dados e os conceitos, a perspectiva de desenvolvimento profissional mostra-se igualmente desafiadora e promissora a aprendizagens profissionais associadas às demandas, aos dilemas e dificuldades emergentes na prática pedagógica do professor da Educação Básica. Admitindo este cenário, o presente estudo envolve uma investigação da própria prática de uma professora da Educação Básica orientada pela seguinte questão: Quais aprendizagens e aspectos do desenvolvimento profissional são evidenciados nas reflexões de uma professora de Matemática quando planeja e analisa práticas assentes no Ensino Exploratório de Estatística? Assume, portanto, a pesquisa da própria prática como metodologia de pesquisa, orientado por reflexões da professora-pesquisadora no decurso do planejamento, realização e reflexões após a efetivação de práticas exploratórias de ensino de Estatística envolvendo particularmente a média aritmética simples e ponderada e direcionadas a alunos do oitavo ano. Este processo é partilhado com interações da professora-pesquisadora com um professor formador (seu orientador) e um grupo de pesquisa do qual é participante. Com uma estrutura no formato multipaper, a dissertação é organizada em três artigos orientados a aspectos específicos associados à questão geral: i) uma revisão bibliográfica acerca da investigação da própria prática; ii) o planejamento de aulas de Estatística na perspectiva exploratória de ensino, compartilhado com o professor orientador e o grupo de pesquisa; e iii) reflexões decorrentes da efetivação de uma prática de Ensino Exploratório de Estatística com um grupo de alunos, com episódios também discutidos com o grupo de pesquisa. Como instrumentos para produção de dados são utilizados: gravações em áudio das orientações, diálogos e reflexões no contexto do grupo de pesquisa; gravações em áudio e vídeo das aulas; planos de aula elaborados pela professora; e transcrições dos relatos e reflexões compartilhadas sobre o planejamento e o desenvolvimento da tarefa. Desse processo de investigação da própria prática emergem aprendizagens relacionadas ao conhecimento profissional, o qual abarca o conhecimento de conteúdo, também didático-pedagógico do conteúdo, que contribuem para melhorias de aspectos da prática da professora-pesquisadora. Além disso, o processo reflexivo sistemático, amparado pelo planejamento intencional e pela dimensão colaborativa da investigação, mostraram-se promissores à perspectiva de desenvolvimento profissional e possibilitaram a (re)significação, pela professora-pesquisadora, de crenças e concepções a respeito do ensino, da aprendizagem e da própria Estatística. Assim, a conjugação destes aspectos evidencia desenvolvimento profissional da professora em múltiplas dimensões, as quais sugerem mudanças nas suas formas de compreender, planejar, realizar e refletir sobre sua prática de ensino, com enfoque particular na perspectiva do Ensino Exploratório de Estatística. Demonstra, deste modo, como ações semelhantes mostram-se promissoras para a aprendizagem profissional de professores da Educação Básica.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": [
+    "39700161"
+  ]
 }

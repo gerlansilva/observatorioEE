@@ -1,62 +1,62 @@
 {
- "id": "capes-36960875",
- "autor": "Ellen Pinho Marques Mendes",
- "ano": 2022,
- "tipo": "Dissertação",
- "titulo": "A Relação entre consumo e sustentabilidade: uma abordagem da Educação Estatística para a Educação Básica",
- "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Diva Valerio Novaes",
- "programa": "Ensino de Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação estatística; Sustentabilidade; Consciência social; Tomada de decisão responsável",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20Rela%C3%A7%C3%A3o%20entre%20consumo%20e%20sustentabilidade%3A%20uma%20abordagem%20da%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20para%20a%20Educa%C3%A7%C3%A3o%20B%C3%A1sica%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20Rela%C3%A7%C3%A3o%20entre%20consumo%20e%20sustentabilidade%3A%20uma%20abordagem%20da%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20para%20a%20Educa%C3%A7%C3%A3o%20B%C3%A1sica&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36960875"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "36960875",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação estatística",
-  "Sustentabilidade",
-  "Consciência social",
-  "Tomada de decisão responsável"
- ],
- "thumbnail": "./assets/images/thumbs/capes-36960875.svg",
- "resumo": "Investigar como a Educação Estatística pode contribuir para a reflexão de assuntos referentes à Sustentabilidade e Consumo, com intervenção social e desenvolvimento socioemocional dos educandos foi o objetivo desta pesquisa. Os participantes da pesquisa foram alunos do 8º ano do Ensino Fundamental de uma escola pública no município de São Paulo. O trabalho está fundamentado numa pesquisa qualitativa por meio de pesquisa-ação. A pesquisa está organizada em três etapas: (i) pesquisa do referencial teórico: Currículo da Cidade de São Paulo, Sustentabilidade e Educação Socioemocional; (ii) Elaboração e desenvolvimento da Sequência Didática: questionário prévio para levantamento de dados sobre atitudes sustentáveis ou não dos alunos e de seus familiares; aula conceitual sobre Estatística e Sustentabilidade de forma interdisciplinar em parceria com a professora de Ciências; discussões por meio de roda de conversa com intervenções embasadas nos resultados da pesquisa; (iii) análise exploratória de dados, focada em habilidades socioemocionais. Buscou\u0002se contribuir, por meio de uma sequência didática, de forma global, na formação social, emocional e intelectual do educando. Por meio dos protocolos das atividades elaboradas e da roda de conversa, identificamos a aprendizagem do conteúdo específico de Estatística proposto no Plano de Ensino da turma, indícios de habilidades sociais e emocionais, bem como contribuições para a implementação da Educação Ambiental.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": [
-  "39438475"
- ]
+  "id": "capes-36960875",
+  "autor": "Ellen Pinho Marques Mendes",
+  "ano": 2022,
+  "tipo": "Dissertação",
+  "titulo": "A Relação entre consumo e sustentabilidade: uma abordagem da Educação Estatística para a Educação Básica",
+  "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Diva Valerio Novaes",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação estatística; Sustentabilidade; Consciência social; Tomada de decisão responsável",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20Rela%C3%A7%C3%A3o%20entre%20consumo%20e%20sustentabilidade%3A%20uma%20abordagem%20da%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20para%20a%20Educa%C3%A7%C3%A3o%20B%C3%A1sica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20Rela%C3%A7%C3%A3o%20entre%20consumo%20e%20sustentabilidade%3A%20uma%20abordagem%20da%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20para%20a%20Educa%C3%A7%C3%A3o%20B%C3%A1sica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36960875"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "36960875",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação estatística",
+    "Sustentabilidade",
+    "Consciência social",
+    "Tomada de decisão responsável"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-36960875.svg",
+  "resumo": "Investigar como a Educação Estatística pode contribuir para a reflexão de assuntos referentes à Sustentabilidade e Consumo, com intervenção social e desenvolvimento socioemocional dos educandos foi o objetivo desta pesquisa. Os participantes da pesquisa foram alunos do 8º ano do Ensino Fundamental de uma escola pública no município de São Paulo. O trabalho está fundamentado numa pesquisa qualitativa por meio de pesquisa-ação. A pesquisa está organizada em três etapas: (i) pesquisa do referencial teórico: Currículo da Cidade de São Paulo, Sustentabilidade e Educação Socioemocional; (ii) Elaboração e desenvolvimento da Sequência Didática: questionário prévio para levantamento de dados sobre atitudes sustentáveis ou não dos alunos e de seus familiares; aula conceitual sobre Estatística e Sustentabilidade de forma interdisciplinar em parceria com a professora de Ciências; discussões por meio de roda de conversa com intervenções embasadas nos resultados da pesquisa; (iii) análise exploratória de dados, focada em habilidades socioemocionais. Buscou\u0002se contribuir, por meio de uma sequência didática, de forma global, na formação social, emocional e intelectual do educando. Por meio dos protocolos das atividades elaboradas e da roda de conversa, identificamos a aprendizagem do conteúdo específico de Estatística proposto no Plano de Ensino da turma, indícios de habilidades sociais e emocionais, bem como contribuições para a implementação da Educação Ambiental.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": [
+    "39438475"
+  ]
 }

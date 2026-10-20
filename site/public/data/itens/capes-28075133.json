@@ -1,61 +1,61 @@
 {
- "id": "capes-28075133",
- "autor": "Camila Rubira Silva",
- "ano": 2018,
- "tipo": "Dissertação",
- "titulo": "Infografia com gráficos e a compreensão de informações estatísticas midiáticas",
- "instituicao": "Universidade Federal do Rio Grande",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Suzi Sama Pinto",
- "programa": "EDUCAÇÃO EM CIÊNCIAS QUÌMICA DA VIDA E SAÚDE ( UFSM - FURG)",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Infografia com gráficos.; Informações estatísticas.; Letramento e pensamento estatístico.; Ensino Superior.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Infografia%20com%20gr%C3%A1ficos%20e%20a%20compreens%C3%A3o%20de%20informa%C3%A7%C3%B5es%20estat%C3%ADsticas%20midi%C3%A1ticas%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Infografia%20com%20gr%C3%A1ficos%20e%20a%20compreens%C3%A3o%20de%20informa%C3%A7%C3%B5es%20estat%C3%ADsticas%20midi%C3%A1ticas&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28075133"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "28075133",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Infografia com gráficos.",
-  "Informações estatísticas.",
-  "Letramento e pensamento estatístico.",
-  "Ensino Superior."
- ],
- "thumbnail": "./assets/images/thumbs/capes-28075133.svg",
- "resumo": "Com o crescente volume de dados, os veículos de comunicação têm utilizado diferentes recursos para resumir grande quantidade de informação. Um desses recursos, é a infografia, que por meio de texto verbal (escrito) e texto não verbal (gráficos, mapas, ilustrações, entre outras imagens), busca apresentar a informação de forma visivelmente atraente, dinâmica e compreensível ao leitor. Nas mídias impressa e digital, gráficos, tabelas e medidas estatísticas são frequentemente utilizadas para sintetizar e melhor apresentar questões sociais, econômicas e ambientais, com o intuito de facilitar a leitura e a compreensão da informação que a notícia descreve. Assim, na presente pesquisa de mestrado objetivamos investigar a seguinte questão: Como a infografia com gráficos pode contribuir na compreensão de informações estatísticas midiáticas?. Para tal, o corpus de análise foi constituído das respostas de estudantes do Ensino Superior, dos cursos de Licenciatura em Matemática e Bacharelado em Administração da Universidade Federal do Rio Grande – FURG, a dois questionários, nos quais buscamos caracterizar os sujeitos de pesquisa e levantar as suas compreensões a respeito das informações apresentadas em um infográfico sobre a Violência Urbana, publicado na revista Superinteressante. Para subsidiar esta investigação buscamos aporte na Teoria de Processamento Humano de Informações Visuais, proposta por Stephen Michael Kosslyn, e na Semiótica Geral cunhada por Charles Sanders Peirce. A primeira teoria apresenta propriedades para elaboração da representação gráfica, de modo a priorizar as capacidades de percepção, memória e habilidades conceituais do leitor. A segunda propõe o estudo de todos os signos inerentes as linguagens e dos pensamentos como formas de percepção dos signos na consciência. Com esta investigação verificamos a potencialidade da infografia com gráficos na comunicação de informações estatísticas, revelando a necessidade de esta ser construída em conformidade com a percepção e o processamento de informações visuais, de modo que o arranjo das representações visuais (signos) facilite a compreensão do leitor. Também constatamos a emergência do conhecimento de conceitos estatísticos tanto à formação do produtor, quanto do leitor destas informações, evidenciando a necessidade de pesquisas, na área da Educação, com abordagem na infografia com gráficos.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "letramento estatístico",
-  "pensamento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-28075133",
+  "autor": "Camila Rubira Silva",
+  "ano": 2018,
+  "tipo": "Dissertação",
+  "titulo": "Infografia com gráficos e a compreensão de informações estatísticas midiáticas",
+  "instituicao": "Universidade Federal do Rio Grande",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Suzi Sama Pinto",
+  "programa": "EDUCAÇÃO EM CIÊNCIAS QUÌMICA DA VIDA E SAÚDE ( UFSM - FURG)",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Infografia com gráficos.; Informações estatísticas.; Letramento e pensamento estatístico.; Ensino Superior.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Infografia%20com%20gr%C3%A1ficos%20e%20a%20compreens%C3%A3o%20de%20informa%C3%A7%C3%B5es%20estat%C3%ADsticas%20midi%C3%A1ticas%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Infografia%20com%20gr%C3%A1ficos%20e%20a%20compreens%C3%A3o%20de%20informa%C3%A7%C3%B5es%20estat%C3%ADsticas%20midi%C3%A1ticas&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28075133"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "28075133",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Infografia com gráficos.",
+    "Informações estatísticas.",
+    "Letramento e pensamento estatístico.",
+    "Ensino Superior."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-28075133.svg",
+  "resumo": "Com o crescente volume de dados, os veículos de comunicação têm utilizado diferentes recursos para resumir grande quantidade de informação. Um desses recursos, é a infografia, que por meio de texto verbal (escrito) e texto não verbal (gráficos, mapas, ilustrações, entre outras imagens), busca apresentar a informação de forma visivelmente atraente, dinâmica e compreensível ao leitor. Nas mídias impressa e digital, gráficos, tabelas e medidas estatísticas são frequentemente utilizadas para sintetizar e melhor apresentar questões sociais, econômicas e ambientais, com o intuito de facilitar a leitura e a compreensão da informação que a notícia descreve. Assim, na presente pesquisa de mestrado objetivamos investigar a seguinte questão: Como a infografia com gráficos pode contribuir na compreensão de informações estatísticas midiáticas?. Para tal, o corpus de análise foi constituído das respostas de estudantes do Ensino Superior, dos cursos de Licenciatura em Matemática e Bacharelado em Administração da Universidade Federal do Rio Grande – FURG, a dois questionários, nos quais buscamos caracterizar os sujeitos de pesquisa e levantar as suas compreensões a respeito das informações apresentadas em um infográfico sobre a Violência Urbana, publicado na revista Superinteressante. Para subsidiar esta investigação buscamos aporte na Teoria de Processamento Humano de Informações Visuais, proposta por Stephen Michael Kosslyn, e na Semiótica Geral cunhada por Charles Sanders Peirce. A primeira teoria apresenta propriedades para elaboração da representação gráfica, de modo a priorizar as capacidades de percepção, memória e habilidades conceituais do leitor. A segunda propõe o estudo de todos os signos inerentes as linguagens e dos pensamentos como formas de percepção dos signos na consciência. Com esta investigação verificamos a potencialidade da infografia com gráficos na comunicação de informações estatísticas, revelando a necessidade de esta ser construída em conformidade com a percepção e o processamento de informações visuais, de modo que o arranjo das representações visuais (signos) facilite a compreensão do leitor. Também constatamos a emergência do conhecimento de conceitos estatísticos tanto à formação do produtor, quanto do leitor destas informações, evidenciando a necessidade de pesquisas, na área da Educação, com abordagem na infografia com gráficos.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "letramento estatístico",
+    "pensamento estatístico"
+  ],
+  "ids_duplicados": []
 }

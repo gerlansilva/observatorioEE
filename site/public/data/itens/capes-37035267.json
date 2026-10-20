@@ -1,65 +1,65 @@
 {
- "id": "capes-37035267",
- "autor": "Sergia Andrea Pereira de Oliveira",
- "ano": 2022,
- "tipo": "Tese",
- "titulo": "Atos dialógicos com WhatsApp e Google meet na formação continuada de professores sobre letramento estatístico",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Liliane Maria Teixeira Lima de Carvalho",
- "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "educação estatística; letramento estatístico; formação continuada de professores; anos Iniciais; WhatsApp; Google Meet.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Atos%20dial%C3%B3gicos%20com%20WhatsApp%20e%20Google%20meet%20na%20forma%C3%A7%C3%A3o%20continuada%20de%20professores%20sobre%20letramento%20estat%C3%ADstico%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Atos%20dial%C3%B3gicos%20com%20WhatsApp%20e%20Google%20meet%20na%20forma%C3%A7%C3%A3o%20continuada%20de%20professores%20sobre%20letramento%20estat%C3%ADstico&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37035267"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "37035267",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "educação estatística",
-  "letramento estatístico",
-  "formação continuada de professores",
-  "anos Iniciais",
-  "WhatsApp",
-  "Google Meet."
- ],
- "thumbnail": "./assets/images/thumbs/capes-37035267.svg",
- "resumo": "Esta pesquisa de doutorado objetiva analisar a constituição de atos dialógicos com o uso do aplicativo WhatsApp e do Google Meet, em um processo de formação continuada de professores dos anos iniciais do Ensino Fundamental, na perspectiva do letramento estatístico. As discussões que a fundamentam ancoram-se nos pressupostos teóricos do Letramento Estatístico, a partir do modelo de Gal (2002), na Educação Matemática Crítica, particularmente no construto de atos dialógicos propostos por Skovsmose (2006) e na abordagem do M-learning. Centrada em uma abordagem de cunho qualitativo, a pesquisa envolveu inicialmente uma Revisão Sistemática da Literatura (RSL), em publicações elaboradas no período de 10 anos e levantadas na base do Portal de periódicos da Capes; Anais de dois eventos de relevância da Educação Matemática (SIPEM e ENEM); e em teses e dissertações da BDTD. O estudo empírico envolveu a aplicação de um questionário com questões abertas e fechadas, contando com a participação de 18 professores e de um processo de formação continuada em situações síncronas e assíncronas, com a participação de 9 docentes que atuam nos anos iniciais do Ensino Fundamental. A participação dos professores foi voluntária e pautada em suas disponibilidades em colaborar com as atividades e reflexões voltadas para o letramento estatístico. Os dados foram produzidos a partir das respostas do questionário, videogravação das reuniões no Google Meet e captura de imagens dos diálogos estabelecidos no grupo do WhatsApp. Os resultados da RSL oferecem indícios positivos de que as pesquisas na área da Educação Estatística e das TDIC seguem uma tendência diversificada com relação ao uso de instrumentos como meios de coleta de dados. Porém, as análises dos artigos elegíveis para leitura também revelam escassez de pesquisas que tratam do diálogo na Educação estatística com o uso das TDIC voltadas ao desenvolvimento profissional docente. Os dados obtidos do questionário indicam que o aplicativo WhatsApp é amplamente utilizado pelos docentes em situações profissionais e pessoais e que eles compreendem e costumam realizar atividades envolvendo conteúdos de Estatística. Com o processo de formação continuada evidenciamos que os atos dialógicos não emergem isoladamente, mas associados entre si e articulados a contextos de comunicação. Constatou-se, também, que os atos dialógicos em comunicações síncronas apresentam um caráter mais espontâneo do que em relação às conversações assíncronas, mas em ambas as situações, a imprevisibilidade consistiu em forte característica do diálogo. A despeito do WhatsApp e do Google Meet contribuírem para interações entre sujeitos, e desses com o conhecimento, ainda são escassas as pesquisas que investigam o seu uso como ferramenta pedagógica, no âmbito de processos de formação de professores que ensinam Matemática. É necessário considerar o modo como a comunicação ocorre no ambiente educacional, pois a forma como a interação é estabelecida influencia no engajamento e nas aprendizagens. Acreditamos que incluir aplicativos que são utilizados amplamente pela população pode potencializar novas formas de ampliar e compartilhar o conhecimento, tendo em vista colaborar com a formação de sujeitos letrados estatisticamente.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "letramento estatístico"
- ],
- "ids_duplicados": [
-  "39997183"
- ]
+  "id": "capes-37035267",
+  "autor": "Sergia Andrea Pereira de Oliveira",
+  "ano": 2022,
+  "tipo": "Tese",
+  "titulo": "Atos dialógicos com WhatsApp e Google meet na formação continuada de professores sobre letramento estatístico",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Liliane Maria Teixeira Lima de Carvalho",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "educação estatística; letramento estatístico; formação continuada de professores; anos Iniciais; WhatsApp; Google Meet.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Atos%20dial%C3%B3gicos%20com%20WhatsApp%20e%20Google%20meet%20na%20forma%C3%A7%C3%A3o%20continuada%20de%20professores%20sobre%20letramento%20estat%C3%ADstico%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Atos%20dial%C3%B3gicos%20com%20WhatsApp%20e%20Google%20meet%20na%20forma%C3%A7%C3%A3o%20continuada%20de%20professores%20sobre%20letramento%20estat%C3%ADstico&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37035267"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37035267",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "educação estatística",
+    "letramento estatístico",
+    "formação continuada de professores",
+    "anos Iniciais",
+    "WhatsApp",
+    "Google Meet."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37035267.svg",
+  "resumo": "Esta pesquisa de doutorado objetiva analisar a constituição de atos dialógicos com o uso do aplicativo WhatsApp e do Google Meet, em um processo de formação continuada de professores dos anos iniciais do Ensino Fundamental, na perspectiva do letramento estatístico. As discussões que a fundamentam ancoram-se nos pressupostos teóricos do Letramento Estatístico, a partir do modelo de Gal (2002), na Educação Matemática Crítica, particularmente no construto de atos dialógicos propostos por Skovsmose (2006) e na abordagem do M-learning. Centrada em uma abordagem de cunho qualitativo, a pesquisa envolveu inicialmente uma Revisão Sistemática da Literatura (RSL), em publicações elaboradas no período de 10 anos e levantadas na base do Portal de periódicos da Capes; Anais de dois eventos de relevância da Educação Matemática (SIPEM e ENEM); e em teses e dissertações da BDTD. O estudo empírico envolveu a aplicação de um questionário com questões abertas e fechadas, contando com a participação de 18 professores e de um processo de formação continuada em situações síncronas e assíncronas, com a participação de 9 docentes que atuam nos anos iniciais do Ensino Fundamental. A participação dos professores foi voluntária e pautada em suas disponibilidades em colaborar com as atividades e reflexões voltadas para o letramento estatístico. Os dados foram produzidos a partir das respostas do questionário, videogravação das reuniões no Google Meet e captura de imagens dos diálogos estabelecidos no grupo do WhatsApp. Os resultados da RSL oferecem indícios positivos de que as pesquisas na área da Educação Estatística e das TDIC seguem uma tendência diversificada com relação ao uso de instrumentos como meios de coleta de dados. Porém, as análises dos artigos elegíveis para leitura também revelam escassez de pesquisas que tratam do diálogo na Educação estatística com o uso das TDIC voltadas ao desenvolvimento profissional docente. Os dados obtidos do questionário indicam que o aplicativo WhatsApp é amplamente utilizado pelos docentes em situações profissionais e pessoais e que eles compreendem e costumam realizar atividades envolvendo conteúdos de Estatística. Com o processo de formação continuada evidenciamos que os atos dialógicos não emergem isoladamente, mas associados entre si e articulados a contextos de comunicação. Constatou-se, também, que os atos dialógicos em comunicações síncronas apresentam um caráter mais espontâneo do que em relação às conversações assíncronas, mas em ambas as situações, a imprevisibilidade consistiu em forte característica do diálogo. A despeito do WhatsApp e do Google Meet contribuírem para interações entre sujeitos, e desses com o conhecimento, ainda são escassas as pesquisas que investigam o seu uso como ferramenta pedagógica, no âmbito de processos de formação de professores que ensinam Matemática. É necessário considerar o modo como a comunicação ocorre no ambiente educacional, pois a forma como a interação é estabelecida influencia no engajamento e nas aprendizagens. Acreditamos que incluir aplicativos que são utilizados amplamente pela população pode potencializar novas formas de ampliar e compartilhar o conhecimento, tendo em vista colaborar com a formação de sujeitos letrados estatisticamente.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": [
+    "39997183"
+  ]
 }

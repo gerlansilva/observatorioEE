@@ -1,63 +1,63 @@
 {
- "id": "capes-29596155",
- "autor": "Maria das Merces Coutinho Mota",
- "ano": 2019,
- "tipo": "Dissertação",
- "titulo": "O uso de objetos de aprendizagem para o ensino e aprendizagem de Estatística no Ensino Médio",
- "instituicao": "Universidade Federal de Juiz de Fora",
- "cidade": "",
- "estado": "Minas Gerais",
- "regiao": "Sudeste",
- "orientador": "Ronaldo Rocha Bastos",
- "programa": "EDUCAÇÃO MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Estatística; Literacia Estatística; Raciocínio Estatístico; ENEM; Objetos de Aprendizagem",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20uso%20de%20objetos%20de%20aprendizagem%20para%20o%20ensino%20e%20aprendizagem%20de%20Estat%C3%ADstica%20no%20Ensino%20M%C3%A9dio%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20uso%20de%20objetos%20de%20aprendizagem%20para%20o%20ensino%20e%20aprendizagem%20de%20Estat%C3%ADstica%20no%20Ensino%20M%C3%A9dio&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29596155"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "29596155",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Estatística",
-  "Literacia Estatística",
-  "Raciocínio Estatístico",
-  "ENEM",
-  "Objetos de Aprendizagem"
- ],
- "thumbnail": "./assets/images/thumbs/capes-29596155.svg",
- "resumo": "Este trabalho apresenta a trajetória e os resultados obtidos em uma pesquisa realizada no âmbito do Mestrado Profissional em Educação Matemática da Universidade Federal de Juiz de Fora (UFJF), tendo como foco a etapa final da Educação Básica, o Ensino Médio. Esta pesquisa buscou promover, por meio do uso de Objetos de Aprendizagem(OA), o desenvolvimento da Habilidade 27, presente na competência 07 da Matriz Curricular de Matemática do Exame Nacional do Ensino Médio (ENEM), que consiste em calcular medidas de tendência central ou de dispersão de um conjunto de dados expressos em uma tabela de frequências de dados agrupados (não em classes) ou em gráficos, por meio de um Objeto de Aprendizagem. Esta habilidade foi selecionada devido a seu baixo índice de acertos nas questões de Estatística avaliadas pelo Enem nos anos de 2014, 2015 e 2016. O Objeto de Aprendizagem desenvolvido, denominado “Aprendendo Medidas” tem como objetivo promover o ensino e aprendizagem dessa habilidade, abordando as principais competências relacionadas ao ensino de estatística: literacia, raciocínio e pensamento estatístico. A validação deste objeto de aprendizagem ocorreu por meio da aplicação deste para alunos que cursam o Ensino Médio em uma escola da rede pública do interior de Minas Gerais. A verificação da contribuição do OA ocorreu por meio da análise dos resultados obtidos em um pré-teste e em um pós-teste. Foi observado por meio do teste T de Student (para amostras pareadas), que houve uma diferença estatisticamente significativa, no pós-teste em relação ao pré-teste, o que apresenta uma melhoria após o uso do objeto. Além disso, como resultados deste trabalho, temos a análise dos microdados do Enem, que apresentam os fracos resultados nas questões relacionadas à estatística e probabilidade, apontando assim, a necessidade de dedicar uma maior atenção ao ensino e aprendizagem dos conteúdos. Espera-se que o OA possa ser utilizado por outros docentes, com forma de potencializar o processo de ensino e aprendizagem de Estatística e contribuir para a construção da literacia e do raciocínio estatístico, conforme identificados neste trabalho. Para auxiliar nesta utilização, foi produzido um guia do usuário com sugestões e orientações para sua utilização (Produto Educacional).",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística",
-  "raciocínio estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-29596155",
+  "autor": "Maria das Merces Coutinho Mota",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "O uso de objetos de aprendizagem para o ensino e aprendizagem de Estatística no Ensino Médio",
+  "instituicao": "Universidade Federal de Juiz de Fora",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Ronaldo Rocha Bastos",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Literacia Estatística; Raciocínio Estatístico; ENEM; Objetos de Aprendizagem",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20uso%20de%20objetos%20de%20aprendizagem%20para%20o%20ensino%20e%20aprendizagem%20de%20Estat%C3%ADstica%20no%20Ensino%20M%C3%A9dio%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20uso%20de%20objetos%20de%20aprendizagem%20para%20o%20ensino%20e%20aprendizagem%20de%20Estat%C3%ADstica%20no%20Ensino%20M%C3%A9dio&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29596155"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "29596155",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Literacia Estatística",
+    "Raciocínio Estatístico",
+    "ENEM",
+    "Objetos de Aprendizagem"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-29596155.svg",
+  "resumo": "Este trabalho apresenta a trajetória e os resultados obtidos em uma pesquisa realizada no âmbito do Mestrado Profissional em Educação Matemática da Universidade Federal de Juiz de Fora (UFJF), tendo como foco a etapa final da Educação Básica, o Ensino Médio. Esta pesquisa buscou promover, por meio do uso de Objetos de Aprendizagem(OA), o desenvolvimento da Habilidade 27, presente na competência 07 da Matriz Curricular de Matemática do Exame Nacional do Ensino Médio (ENEM), que consiste em calcular medidas de tendência central ou de dispersão de um conjunto de dados expressos em uma tabela de frequências de dados agrupados (não em classes) ou em gráficos, por meio de um Objeto de Aprendizagem. Esta habilidade foi selecionada devido a seu baixo índice de acertos nas questões de Estatística avaliadas pelo Enem nos anos de 2014, 2015 e 2016. O Objeto de Aprendizagem desenvolvido, denominado “Aprendendo Medidas” tem como objetivo promover o ensino e aprendizagem dessa habilidade, abordando as principais competências relacionadas ao ensino de estatística: literacia, raciocínio e pensamento estatístico. A validação deste objeto de aprendizagem ocorreu por meio da aplicação deste para alunos que cursam o Ensino Médio em uma escola da rede pública do interior de Minas Gerais. A verificação da contribuição do OA ocorreu por meio da análise dos resultados obtidos em um pré-teste e em um pós-teste. Foi observado por meio do teste T de Student (para amostras pareadas), que houve uma diferença estatisticamente significativa, no pós-teste em relação ao pré-teste, o que apresenta uma melhoria após o uso do objeto. Além disso, como resultados deste trabalho, temos a análise dos microdados do Enem, que apresentam os fracos resultados nas questões relacionadas à estatística e probabilidade, apontando assim, a necessidade de dedicar uma maior atenção ao ensino e aprendizagem dos conteúdos. Espera-se que o OA possa ser utilizado por outros docentes, com forma de potencializar o processo de ensino e aprendizagem de Estatística e contribuir para a construção da literacia e do raciocínio estatístico, conforme identificados neste trabalho. Para auxiliar nesta utilização, foi produzido um guia do usuário com sugestões e orientações para sua utilização (Produto Educacional).",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística",
+    "raciocínio estatístico"
+  ],
+  "ids_duplicados": []
 }

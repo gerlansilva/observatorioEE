@@ -1,61 +1,61 @@
 {
- "id": "capes-30121749",
- "autor": "Leticia Vieira Oliveira Giordano",
- "ano": 2017,
- "tipo": "Tese",
- "titulo": "Panorama da Competência Estatística no Ensino Médio Brasileiro: Das Ideias e Práticas dos Professores ao Desempenho dos Alunos no ENEM.",
- "instituicao": "Universidade Estadual de Campinas",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Mauricio Urban Kleinke",
- "programa": "Multiunidades em Ensino de Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Estatística; competência estatística; ENEM; professores de Matemática, Ensino Médio.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22PANORAMA%20DA%20COMPET%C3%8ANCIA%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO%20BRASILEIRO%3A%20DAS%20IDEIAS%20E%20PR%C3%81TICAS%20DOS%20PROFESSORES%20AO%20DESEMPENHO%20DOS%20ALUNOS%20NO%20ENEM.%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PANORAMA%20DA%20COMPET%C3%8ANCIA%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO%20BRASILEIRO%3A%20DAS%20IDEIAS%20E%20PR%C3%81TICAS%20DOS%20PROFESSORES%20AO%20DESEMPENHO%20DOS%20ALUNOS%20NO%20ENEM.&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30121749"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "30121749",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Estatística",
-  "competência estatística",
-  "ENEM",
-  "professores de Matemática, Ensino Médio."
- ],
- "thumbnail": "./assets/images/thumbs/capes-30121749.svg",
- "resumo": "Desde o final da década de 1990, com a publicação dos Parâmetros Curriculares Nacionais, a Educação Estatística compõe o currículo da Educação Básica brasileira, vindo a se consolidar como uma linha de pesquisa com temáticas associadas ao ensino e a aprendizagem de conceitos estatísticos e probabilísticos. A preocupação do desenvolvimento da Estatística como ciência e, principalmente, como método científico experimental foi sendo aperfeiçoada nos últimos anos. No entanto, assim como ocorre em outros países, a Educação Estatística ainda hoje busca seu lugar nas escolas brasileiras. Essa pesquisa busca auxiliar na compreensão de como as perspectivas teóricas dos documentos oficiais, as práticas docentes e o desempenho dos nossos estudantes têm se organizado, sobretudo no que tange ao desenvolvimento da competência estatística. A presente tese tem seu suporte empírico associado a duas vertentes metodológicas distintas: a) A aplicação de um questionário a professores que ministram aulas de Estatística na educação básica; e b) A avaliação e análise do desempenho dos candidatos ao Exame Nacional do Ensino Médio (ENEM) em questões associadas à Estatística presentes nas provas de Matemática entre os anos de 2012 a 2014. Os resultados do questionário foram avaliados utilizando medidas estatísticas de frequência; análise de conteúdo para as respostas dissertativas de uma questão aberta e Análise Fatorial Exploratória (AFE). A competência estatística dos candidatos do Enem foi estimada em 30 questões, as quais foram agrupadas segundo uma categorização baseada no PISA (Programa Internacional de Avaliação de Estudantes) complementada por outros indicadores. As diferentes metodologias aplicadas ao questionário indicam que os entrevistados ensinam Estatística com o foco na leitura e interpretação de dados relacionados a contextos próximos aos alunos. Situações escolares mais elaboradas, como o trabalho com resolução de problemas; cálculos estatísticos e a reflexão associada às medidas estatísticas não parecem ser foco do ensino de Estatística para os professores entrevistados. Observamos uma preocupação com o desenvolvimento da argumentação e senso crítico, entretanto essa não está associada aos conhecimentos estatísticos mais elaborados esperados para a escolaridade média. Ao acompanhar o desempenho dos candidatos no ENEM, observamos que eles resolvem questões que necessitam de leitura e interpretação em nível simples, sem conexões e/ou inferências; mas não aparentam dominar o conhecimento estatístico com a profundidade necessária para sua aplicação em situações problema de que necessitem de níveis de compreensão mais elevados.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-30121749",
+  "autor": "Leticia Vieira Oliveira Giordano",
+  "ano": 2017,
+  "tipo": "Tese",
+  "titulo": "Panorama da Competência Estatística no Ensino Médio Brasileiro: Das Ideias e Práticas dos Professores ao Desempenho dos Alunos no ENEM.",
+  "instituicao": "Universidade Estadual de Campinas",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Mauricio Urban Kleinke",
+  "programa": "Multiunidades em Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; competência estatística; ENEM; professores de Matemática, Ensino Médio.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22PANORAMA%20DA%20COMPET%C3%8ANCIA%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO%20BRASILEIRO%3A%20DAS%20IDEIAS%20E%20PR%C3%81TICAS%20DOS%20PROFESSORES%20AO%20DESEMPENHO%20DOS%20ALUNOS%20NO%20ENEM.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PANORAMA%20DA%20COMPET%C3%8ANCIA%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO%20BRASILEIRO%3A%20DAS%20IDEIAS%20E%20PR%C3%81TICAS%20DOS%20PROFESSORES%20AO%20DESEMPENHO%20DOS%20ALUNOS%20NO%20ENEM.&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30121749"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30121749",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "competência estatística",
+    "ENEM",
+    "professores de Matemática, Ensino Médio."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30121749.svg",
+  "resumo": "Desde o final da década de 1990, com a publicação dos Parâmetros Curriculares Nacionais, a Educação Estatística compõe o currículo da Educação Básica brasileira, vindo a se consolidar como uma linha de pesquisa com temáticas associadas ao ensino e a aprendizagem de conceitos estatísticos e probabilísticos. A preocupação do desenvolvimento da Estatística como ciência e, principalmente, como método científico experimental foi sendo aperfeiçoada nos últimos anos. No entanto, assim como ocorre em outros países, a Educação Estatística ainda hoje busca seu lugar nas escolas brasileiras. Essa pesquisa busca auxiliar na compreensão de como as perspectivas teóricas dos documentos oficiais, as práticas docentes e o desempenho dos nossos estudantes têm se organizado, sobretudo no que tange ao desenvolvimento da competência estatística. A presente tese tem seu suporte empírico associado a duas vertentes metodológicas distintas: a) A aplicação de um questionário a professores que ministram aulas de Estatística na educação básica; e b) A avaliação e análise do desempenho dos candidatos ao Exame Nacional do Ensino Médio (ENEM) em questões associadas à Estatística presentes nas provas de Matemática entre os anos de 2012 a 2014. Os resultados do questionário foram avaliados utilizando medidas estatísticas de frequência; análise de conteúdo para as respostas dissertativas de uma questão aberta e Análise Fatorial Exploratória (AFE). A competência estatística dos candidatos do Enem foi estimada em 30 questões, as quais foram agrupadas segundo uma categorização baseada no PISA (Programa Internacional de Avaliação de Estudantes) complementada por outros indicadores. As diferentes metodologias aplicadas ao questionário indicam que os entrevistados ensinam Estatística com o foco na leitura e interpretação de dados relacionados a contextos próximos aos alunos. Situações escolares mais elaboradas, como o trabalho com resolução de problemas; cálculos estatísticos e a reflexão associada às medidas estatísticas não parecem ser foco do ensino de Estatística para os professores entrevistados. Observamos uma preocupação com o desenvolvimento da argumentação e senso crítico, entretanto essa não está associada aos conhecimentos estatísticos mais elaborados esperados para a escolaridade média. Ao acompanhar o desempenho dos candidatos no ENEM, observamos que eles resolvem questões que necessitam de leitura e interpretação em nível simples, sem conexões e/ou inferências; mas não aparentam dominar o conhecimento estatístico com a profundidade necessária para sua aplicação em situações problema de que necessitem de níveis de compreensão mais elevados.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

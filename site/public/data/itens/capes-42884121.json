@@ -1,57 +1,57 @@
 {
- "id": "capes-42884121",
- "autor": "Evanjeffson Santos de Melo",
- "ano": 2024,
- "tipo": "Dissertação",
- "titulo": "Mobilização de Conceitos de Análise Combinatória a Luz da Teoria das Situações Didáticas",
- "instituicao": "Universidade Federal do Amazonas",
- "cidade": "",
- "estado": "Amazonas",
- "regiao": "Norte",
- "orientador": "Marcos Andre Braz Vaz",
- "programa": "ENSINO DE CIÊNCIAS E HUMANIDADES",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Raciocínio combinatório. Análise Combinatória. Matemática. TSD.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22MOBILIZA%C3%87%C3%83O%20DE%20CONCEITOS%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20A%20LUZ%20DA%20TEORIA%20DAS%20SITUA%C3%87%C3%95ES%20DID%C3%81TICAS%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=MOBILIZA%C3%87%C3%83O%20DE%20CONCEITOS%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20A%20LUZ%20DA%20TEORIA%20DAS%20SITUA%C3%87%C3%95ES%20DID%C3%81TICAS&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42884121"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "42884121",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Raciocínio combinatório. Análise Combinatória. Matemática. TSD."
- ],
- "thumbnail": "./assets/images/thumbs/capes-42884121.svg",
- "resumo": "A Análise Combinatória desempenha papel significativo na matemática e, apesar de repleta de problemas capazes de motivar os alunos, é considerada uma disciplina complicada, na qual os alunos têm dificuldades de encontrar o caminho correto para a resolução de cada problema. Os alunos sentem dificuldades em identificar corretamente a contagem de possibilidades em um problema de combinatória. Isso pode resultar em respostas incorretas e frustração por parte dos alunos. A Teoria das Situações Didáticas (TSD) pode ser uma estratégia valiosa para o ensino de conceitos de Análise Combinatória e para o desenvolvimento do Raciocínio Combinatório dos alunos. Nesse sentido, o uso de Sequências Didáticas, embasadas pela TSD, pode ser uma estratégia eficaz para aprimorar a aprendizagem e superar as dificuldades enfrentadas pelos estudantes. Definimos a seguinte questão norteadora: de que maneira as Sequências Didáticas mobilizam conceitos de Análise Combinatória em alunos de curso de licenciatura de ensino superior? Para isso, temos como objetivo geral o de analisar a mobilização de conceitos de Análise Combinatória por meio de sequências didáticas em alunos do ensino superior. Nosso referencial teórico fundamenta-se na TSD e o referencial metodológico utilizado é a Engenharia Didática de Michelè Artigue. Tendo uma abordagem qualitativa, o estudo foi conduzido em uma disciplina de um curso de Licenciatura em Ciências: Matemática e Física na Universidade Federal do Amazonas (UFAM), onde foram confrontadas as análises a priori e a posteriori, além de identificados e descritos níveis de raciocínio combinatório de uma amostra de seis alunos. Essa abordagem demonstrou ser uma estratégia pedagógica eficaz para a aprendizagem dos alunos. Observou-se a construção colaborativa de conhecimento entre os participantes, bem como o enriquecimento do pesquisador, que simultaneamente explora objetivos educacionais e adquire aprendizados através de sua prática. Durante a aplicação da sequência didática, podese observar a mobilização de conceitos de Permutação, além de conceitos como Princípio Fundamental da Contagem e Fatorial. Notou-se uma dificuldade comum, que foi a dificuldade em aplicar corretamente conceitos de permutação com repetição. A aplicação prática das sequências didáticas provou ser eficaz, pois permitiu aos estudantes, mesmo aqueles com conhecimentos prévios limitados em Análise Combinatória, alcançar as soluções corretas ou ajustar seus raciocínios após a intervenção docente. Além disso, promoveu a socialização e o desenvolvimento colaborativo do raciocínio combinatório, mostrando-se uma estratégia pedagógica valiosa não só para o Ensino Superior, mas também com potencial de adaptação para o Ensino Médio.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "raciocínio combinatório"
- ],
- "ids_duplicados": []
+  "id": "capes-42884121",
+  "autor": "Evanjeffson Santos de Melo",
+  "ano": 2024,
+  "tipo": "Dissertação",
+  "titulo": "Mobilização de Conceitos de Análise Combinatória a Luz da Teoria das Situações Didáticas",
+  "instituicao": "Universidade Federal do Amazonas",
+  "cidade": "",
+  "estado": "Amazonas",
+  "regiao": "Norte",
+  "orientador": "Marcos Andre Braz Vaz",
+  "programa": "ENSINO DE CIÊNCIAS E HUMANIDADES",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Raciocínio combinatório. Análise Combinatória. Matemática. TSD.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22MOBILIZA%C3%87%C3%83O%20DE%20CONCEITOS%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20A%20LUZ%20DA%20TEORIA%20DAS%20SITUA%C3%87%C3%95ES%20DID%C3%81TICAS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=MOBILIZA%C3%87%C3%83O%20DE%20CONCEITOS%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20A%20LUZ%20DA%20TEORIA%20DAS%20SITUA%C3%87%C3%95ES%20DID%C3%81TICAS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42884121"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "42884121",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Raciocínio combinatório. Análise Combinatória. Matemática. TSD."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-42884121.svg",
+  "resumo": "A Análise Combinatória desempenha papel significativo na matemática e, apesar de repleta de problemas capazes de motivar os alunos, é considerada uma disciplina complicada, na qual os alunos têm dificuldades de encontrar o caminho correto para a resolução de cada problema. Os alunos sentem dificuldades em identificar corretamente a contagem de possibilidades em um problema de combinatória. Isso pode resultar em respostas incorretas e frustração por parte dos alunos. A Teoria das Situações Didáticas (TSD) pode ser uma estratégia valiosa para o ensino de conceitos de Análise Combinatória e para o desenvolvimento do Raciocínio Combinatório dos alunos. Nesse sentido, o uso de Sequências Didáticas, embasadas pela TSD, pode ser uma estratégia eficaz para aprimorar a aprendizagem e superar as dificuldades enfrentadas pelos estudantes. Definimos a seguinte questão norteadora: de que maneira as Sequências Didáticas mobilizam conceitos de Análise Combinatória em alunos de curso de licenciatura de ensino superior? Para isso, temos como objetivo geral o de analisar a mobilização de conceitos de Análise Combinatória por meio de sequências didáticas em alunos do ensino superior. Nosso referencial teórico fundamenta-se na TSD e o referencial metodológico utilizado é a Engenharia Didática de Michelè Artigue. Tendo uma abordagem qualitativa, o estudo foi conduzido em uma disciplina de um curso de Licenciatura em Ciências: Matemática e Física na Universidade Federal do Amazonas (UFAM), onde foram confrontadas as análises a priori e a posteriori, além de identificados e descritos níveis de raciocínio combinatório de uma amostra de seis alunos. Essa abordagem demonstrou ser uma estratégia pedagógica eficaz para a aprendizagem dos alunos. Observou-se a construção colaborativa de conhecimento entre os participantes, bem como o enriquecimento do pesquisador, que simultaneamente explora objetivos educacionais e adquire aprendizados através de sua prática. Durante a aplicação da sequência didática, podese observar a mobilização de conceitos de Permutação, além de conceitos como Princípio Fundamental da Contagem e Fatorial. Notou-se uma dificuldade comum, que foi a dificuldade em aplicar corretamente conceitos de permutação com repetição. A aplicação prática das sequências didáticas provou ser eficaz, pois permitiu aos estudantes, mesmo aqueles com conhecimentos prévios limitados em Análise Combinatória, alcançar as soluções corretas ou ajustar seus raciocínios após a intervenção docente. Além disso, promoveu a socialização e o desenvolvimento colaborativo do raciocínio combinatório, mostrando-se uma estratégia pedagógica valiosa não só para o Ensino Superior, mas também com potencial de adaptação para o Ensino Médio.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "raciocínio combinatório"
+  ],
+  "ids_duplicados": []
 }

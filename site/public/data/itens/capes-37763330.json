@@ -1,61 +1,61 @@
 {
- "id": "capes-37763330",
- "autor": "Rosecler de Souza Becker",
- "ano": 2023,
- "tipo": "Dissertação",
- "titulo": "Ensino da Matemática na Modalidade Remota: Quais os Desafios Docentes com o Uso das Tecnologias Digitais?",
- "instituicao": "Universidade Federal de Santa Maria",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Carmen Vieira Mathias",
- "programa": "Educação Matemática e Ensino de Física",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Tecnologias; Professores de Matemática; Pandemia; Ensino Fundamental; Análise Estatística Implicativa",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20DA%20MATEM%C3%81TICA%20NA%20MODALIDADE%20REMOTA%3A%20QUAIS%20OS%20DESAFIOS%20DOCENTES%20COM%20O%20USO%20DAS%20TECNOLOGIAS%20DIGITAIS%3F%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20DA%20MATEM%C3%81TICA%20NA%20MODALIDADE%20REMOTA%3A%20QUAIS%20OS%20DESAFIOS%20DOCENTES%20COM%20O%20USO%20DAS%20TECNOLOGIAS%20DIGITAIS%3F&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37763330"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "37763330",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Tecnologias",
-  "Professores de Matemática",
-  "Pandemia",
-  "Ensino Fundamental",
-  "Análise Estatística Implicativa"
- ],
- "thumbnail": "./assets/images/thumbs/capes-37763330.svg",
- "resumo": "Em meio ao caos da pandemia ocasionado pela Covid-19, onde toda a sociedade foi afetada diretamente pela distância física, as escolas e os profissionais da educação também tiveram que criar meios para dar continuidade ao processo de ensinar. Nessa pesquisa, teve-se por objetivo analisar as percepções dos professores de Matemática sobre o uso das tecnologias digitais durante o período dessa pandemia. Com a presente pesquisa, também verificou-se quais os recursos tecnológicos utilizados pelos professores, bem como a relação deles com o uso dessas tecnologias. A pesquisa realizada foi qualitativa, quanto a abordagem do problema e quantitativa quanto a análise dos dados, na qual utilizou-se a ferramenta de Análise Estatística Implicativa, com o auxílio do software CHIC®. Para a coleta de dados foi utilizado como instrumentos os questionários. Compreende-se que, os desafios enfrentados e as experiências vivenciadas pelos professores, foram essenciais na construção de propostas educacionais, caminhos metodológicos e olhar para a importância da formação continuada dos professores. Os resultados mostram uma tendência que o uso das Tecnologias Digitais, principalmente do software GeoGebra, contribuiram para o ensino da Matemática na forma remota.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-37763330",
+  "autor": "Rosecler de Souza Becker",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "Ensino da Matemática na Modalidade Remota: Quais os Desafios Docentes com o Uso das Tecnologias Digitais?",
+  "instituicao": "Universidade Federal de Santa Maria",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Carmen Vieira Mathias",
+  "programa": "Educação Matemática e Ensino de Física",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Tecnologias; Professores de Matemática; Pandemia; Ensino Fundamental; Análise Estatística Implicativa",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20DA%20MATEM%C3%81TICA%20NA%20MODALIDADE%20REMOTA%3A%20QUAIS%20OS%20DESAFIOS%20DOCENTES%20COM%20O%20USO%20DAS%20TECNOLOGIAS%20DIGITAIS%3F%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20DA%20MATEM%C3%81TICA%20NA%20MODALIDADE%20REMOTA%3A%20QUAIS%20OS%20DESAFIOS%20DOCENTES%20COM%20O%20USO%20DAS%20TECNOLOGIAS%20DIGITAIS%3F&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37763330"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37763330",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Tecnologias",
+    "Professores de Matemática",
+    "Pandemia",
+    "Ensino Fundamental",
+    "Análise Estatística Implicativa"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37763330.svg",
+  "resumo": "Em meio ao caos da pandemia ocasionado pela Covid-19, onde toda a sociedade foi afetada diretamente pela distância física, as escolas e os profissionais da educação também tiveram que criar meios para dar continuidade ao processo de ensinar. Nessa pesquisa, teve-se por objetivo analisar as percepções dos professores de Matemática sobre o uso das tecnologias digitais durante o período dessa pandemia. Com a presente pesquisa, também verificou-se quais os recursos tecnológicos utilizados pelos professores, bem como a relação deles com o uso dessas tecnologias. A pesquisa realizada foi qualitativa, quanto a abordagem do problema e quantitativa quanto a análise dos dados, na qual utilizou-se a ferramenta de Análise Estatística Implicativa, com o auxílio do software CHIC®. Para a coleta de dados foi utilizado como instrumentos os questionários. Compreende-se que, os desafios enfrentados e as experiências vivenciadas pelos professores, foram essenciais na construção de propostas educacionais, caminhos metodológicos e olhar para a importância da formação continuada dos professores. Os resultados mostram uma tendência que o uso das Tecnologias Digitais, principalmente do software GeoGebra, contribuiram para o ensino da Matemática na forma remota.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

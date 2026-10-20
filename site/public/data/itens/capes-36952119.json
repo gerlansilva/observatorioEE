@@ -1,59 +1,59 @@
 {
- "id": "capes-36952119",
- "autor": "Fabio Borges Ricci de Camargo",
- "ano": 2022,
- "tipo": "Dissertação",
- "titulo": "Caracterização das Habilidades em Estatística Requeridas no Exame Nacional do Ensino Médio",
- "instituicao": "Universidade Anhanguera",
- "cidade": "",
- "estado": "Mato Grosso do Sul",
- "regiao": "Centro-Oeste",
- "orientador": "Diego Fogaca Carvalho",
- "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Letramento Estatístico; ENEM; Ensino Médio e Análise de Conteúdo",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22CARACTERIZA%C3%87%C3%83O%20DAS%20HABILIDADES%20EM%20ESTAT%C3%8DSTICA%20REQUERIDAS%20NO%20EXAME%20NACIONAL%20DO%20ENSINO%20M%C3%89DIO%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CARACTERIZA%C3%87%C3%83O%20DAS%20HABILIDADES%20EM%20ESTAT%C3%8DSTICA%20REQUERIDAS%20NO%20EXAME%20NACIONAL%20DO%20ENSINO%20M%C3%89DIO&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36952119"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "36952119",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Letramento Estatístico",
-  "ENEM",
-  "Ensino Médio e Análise de Conteúdo"
- ],
- "thumbnail": "./assets/images/thumbs/capes-36952119.svg",
- "resumo": "Este estudo visa caracterizar as habilidades em estatística que são requeridas na prova de Matemática e suas Tecnologias no Exame Nacional do Ensino Médio (ENEM), que é o principal meio de avaliação do rendimento dos estudantes concluintes do Ensino Médio. Como referência, foi tomada como base a Lei de Diretrizes e Bases da Educação Nacional (LDB), Matriz de Referência do ENEM e o trabalho do pesquisador Iddo Gal (2002), que propôs um grupo de habilidades e atitudes, ligadas às capacidades de interpretar, avaliar criticamente e comunicar sobre informações e mensagens estatísticas, conhecimentos fundamentais ao cotidiano do cidadão, tendo em vista que contribui para a tomada de decisões pessoais com base em informações numéricas. Trata-se de uma pesquisa qualitativa documental que se fundamentou, do ponto de vista metodológico, na Análise de Conteúdo de Bardin (2011) para analisar as questões de Matemática e suas Tecnologias entre os anos de 2015 a 2021. Pode-se interpretar que, apesar de expressar preocupação quanto a essa competência, a prova é focada na resolução prática de exercícios e pouco na análise crítica do contexto social, histórico, econômico ou cultural na qual a questão encontra-se ancorada.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "letramento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-36952119",
+  "autor": "Fabio Borges Ricci de Camargo",
+  "ano": 2022,
+  "tipo": "Dissertação",
+  "titulo": "Caracterização das Habilidades em Estatística Requeridas no Exame Nacional do Ensino Médio",
+  "instituicao": "Universidade Anhanguera",
+  "cidade": "",
+  "estado": "Mato Grosso do Sul",
+  "regiao": "Centro-Oeste",
+  "orientador": "Diego Fogaca Carvalho",
+  "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Letramento Estatístico; ENEM; Ensino Médio e Análise de Conteúdo",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22CARACTERIZA%C3%87%C3%83O%20DAS%20HABILIDADES%20EM%20ESTAT%C3%8DSTICA%20REQUERIDAS%20NO%20EXAME%20NACIONAL%20DO%20ENSINO%20M%C3%89DIO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CARACTERIZA%C3%87%C3%83O%20DAS%20HABILIDADES%20EM%20ESTAT%C3%8DSTICA%20REQUERIDAS%20NO%20EXAME%20NACIONAL%20DO%20ENSINO%20M%C3%89DIO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36952119"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "36952119",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Letramento Estatístico",
+    "ENEM",
+    "Ensino Médio e Análise de Conteúdo"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-36952119.svg",
+  "resumo": "Este estudo visa caracterizar as habilidades em estatística que são requeridas na prova de Matemática e suas Tecnologias no Exame Nacional do Ensino Médio (ENEM), que é o principal meio de avaliação do rendimento dos estudantes concluintes do Ensino Médio. Como referência, foi tomada como base a Lei de Diretrizes e Bases da Educação Nacional (LDB), Matriz de Referência do ENEM e o trabalho do pesquisador Iddo Gal (2002), que propôs um grupo de habilidades e atitudes, ligadas às capacidades de interpretar, avaliar criticamente e comunicar sobre informações e mensagens estatísticas, conhecimentos fundamentais ao cotidiano do cidadão, tendo em vista que contribui para a tomada de decisões pessoais com base em informações numéricas. Trata-se de uma pesquisa qualitativa documental que se fundamentou, do ponto de vista metodológico, na Análise de Conteúdo de Bardin (2011) para analisar as questões de Matemática e suas Tecnologias entre os anos de 2015 a 2021. Pode-se interpretar que, apesar de expressar preocupação quanto a essa competência, a prova é focada na resolução prática de exercícios e pouco na análise crítica do contexto social, histórico, econômico ou cultural na qual a questão encontra-se ancorada.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
 }

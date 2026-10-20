@@ -1,54 +1,54 @@
 {
- "id": "capes-18769022",
- "autor": "Francis Miller Barbosa Moreira",
- "ano": 2014,
- "tipo": "Dissertação",
- "titulo": "Os Conhecimentos Acerca dos Conceitos de Análise Combinatória de Professores que Ensinam Matemática: Um Estudo Diagnóstico",
- "instituicao": "Universidade Estadual de Santa Cruz",
- "cidade": "",
- "estado": "Bahia",
- "regiao": "Nordeste",
- "orientador": "Sergio Mota Alves",
- "programa": "Educação Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Análise Combinatória. Estudo Diagnóstico. Teoria dos Campos Conceituais, Conhecimentos dos professores.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22OS%20CONHECIMENTOS%20ACERCA%20DOS%20CONCEITOS%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20DE%20PROFESSORES%20QUE%20ENSINAM%20MATEM%C3%81TICA%3A%20UM%20ESTUDO%20DIAGN%C3%93STICO%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=OS%20CONHECIMENTOS%20ACERCA%20DOS%20CONCEITOS%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20DE%20PROFESSORES%20QUE%20ENSINAM%20MATEM%C3%81TICA%3A%20UM%20ESTUDO%20DIAGN%C3%93STICO&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/18769022"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "18769022",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Análise Combinatória. Estudo Diagnóstico. Teoria dos Campos Conceituais, Conhecimentos dos professores."
- ],
- "thumbnail": "./assets/images/thumbs/capes-18769022.svg",
- "resumo": "O presente estudo propõe investigar o desempenho e estratégias apresentadas por professores que ensinam Matemática no estado da Bahia ao lidar com problemas envolvendo análise combinatória. Para tanto realizaremos uma pesquisa de campo que consistirá da aplicação de um instrumento diagnóstico, o qual será composto por um questionário para traçar um perfil do professor e um teste contendo 8 problemas que envolvem os conceitos de análise combinatória, todos com aplicação em situações da realidade. Este instrumento será analisado primeiramente de forma quantitativa, considerando aqui a quantidade de acertos e erros nas questões propostas no teste como todo e em cada um dos problemas. No segundo momento a análise será de cunho qualitativo, quando as estratégias de solução utilizadas pelos professores serão classificadas. Para subsidiar nossa pesquisa teremos como base teórica a Teoria dos Campos Conceituais (VERGNAUD, 1986, 1996, 2009), especialmente no campo das estruturas multiplicativas e o conhecimento do professor na visão de Shulman (1986, 2005). Também faremos uma revisão da literatura, quando dialogaremos com outros estudos, tais como aqueles realizados por Pessoa e Borba (2009), Esteves (2001), Miguel e Magina (2003), Almeida (2010), Alves (2012), Rocha (2011) entre outros.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": null
+  "id": "capes-18769022",
+  "autor": "Francis Miller Barbosa Moreira",
+  "ano": 2014,
+  "tipo": "Dissertação",
+  "titulo": "Os Conhecimentos Acerca dos Conceitos de Análise Combinatória de Professores que Ensinam Matemática: Um Estudo Diagnóstico",
+  "instituicao": "Universidade Estadual de Santa Cruz",
+  "cidade": "",
+  "estado": "Bahia",
+  "regiao": "Nordeste",
+  "orientador": "Sergio Mota Alves",
+  "programa": "Educação Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Análise Combinatória. Estudo Diagnóstico. Teoria dos Campos Conceituais, Conhecimentos dos professores.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22OS%20CONHECIMENTOS%20ACERCA%20DOS%20CONCEITOS%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20DE%20PROFESSORES%20QUE%20ENSINAM%20MATEM%C3%81TICA%3A%20UM%20ESTUDO%20DIAGN%C3%93STICO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=OS%20CONHECIMENTOS%20ACERCA%20DOS%20CONCEITOS%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20DE%20PROFESSORES%20QUE%20ENSINAM%20MATEM%C3%81TICA%3A%20UM%20ESTUDO%20DIAGN%C3%93STICO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/18769022"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "18769022",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Análise Combinatória. Estudo Diagnóstico. Teoria dos Campos Conceituais, Conhecimentos dos professores."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-18769022.svg",
+  "resumo": "O presente estudo propõe investigar o desempenho e estratégias apresentadas por professores que ensinam Matemática no estado da Bahia ao lidar com problemas envolvendo análise combinatória. Para tanto realizaremos uma pesquisa de campo que consistirá da aplicação de um instrumento diagnóstico, o qual será composto por um questionário para traçar um perfil do professor e um teste contendo 8 problemas que envolvem os conceitos de análise combinatória, todos com aplicação em situações da realidade. Este instrumento será analisado primeiramente de forma quantitativa, considerando aqui a quantidade de acertos e erros nas questões propostas no teste como todo e em cada um dos problemas. No segundo momento a análise será de cunho qualitativo, quando as estratégias de solução utilizadas pelos professores serão classificadas. Para subsidiar nossa pesquisa teremos como base teórica a Teoria dos Campos Conceituais (VERGNAUD, 1986, 1996, 2009), especialmente no campo das estruturas multiplicativas e o conhecimento do professor na visão de Shulman (1986, 2005). Também faremos uma revisão da literatura, quando dialogaremos com outros estudos, tais como aqueles realizados por Pessoa e Borba (2009), Esteves (2001), Miguel e Magina (2003), Almeida (2010), Alves (2012), Rocha (2011) entre outros.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
 }

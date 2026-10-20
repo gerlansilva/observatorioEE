@@ -1,62 +1,62 @@
 {
- "id": "capes-38774954",
- "autor": "Alexei de Assis Alves",
- "ano": 2023,
- "tipo": "Dissertação",
- "titulo": "Noções de Estatística para Sexto Ano do Ensino Fundamental: aprendizagem por meio de projeto",
- "instituicao": "Universidade Federal de Juiz de Fora",
- "cidade": "",
- "estado": "Minas Gerais",
- "regiao": "Sudeste",
- "orientador": "Chang Kuo Rodrigues",
- "programa": "EDUCAÇÃO MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Matemática; Educação Estatística; Literacia Estatística; Produto Educacional; Pedagogia de Projetos",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22No%C3%A7%C3%B5es%20de%20Estat%C3%ADstica%20para%20Sexto%20Ano%20do%20Ensino%20Fundamental%3A%20aprendizagem%20por%20meio%20de%20projeto%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=No%C3%A7%C3%B5es%20de%20Estat%C3%ADstica%20para%20Sexto%20Ano%20do%20Ensino%20Fundamental%3A%20aprendizagem%20por%20meio%20de%20projeto&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38774954"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "38774954",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Matemática",
-  "Educação Estatística",
-  "Literacia Estatística",
-  "Produto Educacional",
-  "Pedagogia de Projetos"
- ],
- "thumbnail": "./assets/images/thumbs/capes-38774954.svg",
- "resumo": "Esta pesquisa apresenta uma proposta de investigação cujo objetivo é verificar as contribuições que a implementação de projeto proporciona na construção de conhecimentos estatísticos e o desenvolvimento da literacia estatística para alunos do sexto ano do Ensino Fundamental. A escolha do objeto de estudo partiu das inquietações que permeiam a prática do professor-pesquisador, levando-nos a refletir sobre a importância de intervenções pedagógicas que promovam a efetividade do ensino e da aprendizagem. Nessa perspectiva, levanta-se a questão desta pesquisa: Quais as potencialidades de estruturação e condução de um projeto, junto a uma turma de sexto ano do Ensino Fundamental, com vistas à construção de conhecimentos estatísticos? Para o desenvolvimento da pesquisa de natureza qualitativa e alcançar os objetivos propostos e responder à questão de pesquisa, apoiaremos nos pressupostos metodológicos da Engenharia Didática. Os fundamentos teóricos que amparam a pesquisa terão uma abordagem nas concepções da Educação Estatística, bem como, as três competências preconizadas por esse campo de estudo, Literacia, Raciocínio e Pensamento Estatístico. O trabalho com projetos é uma alternativa de ensino que visa proporcionar o envolvimento dos alunos na construção de novos saberes e, assim, realizamos estudos sobre as propostas apresentadas pela Pedagogia de Projetos. A pesquisa foi desenvolvida, durante as aulas de matemática, em uma turma de 6º ano do Ensino Fundamental de uma escola pública, sendo que o pesquisador é o professor regente. A implementação do projeto como proposta para construção de conhecimentos estatísticos evidenciou que as práticas de ensinos que estimulam o engajamento do aluno promovem habilidades e competências aos sujeitos envolvidos no processo de ensino e aprendidos no âmbito educacional.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-38774954",
+  "autor": "Alexei de Assis Alves",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "Noções de Estatística para Sexto Ano do Ensino Fundamental: aprendizagem por meio de projeto",
+  "instituicao": "Universidade Federal de Juiz de Fora",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Chang Kuo Rodrigues",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Matemática; Educação Estatística; Literacia Estatística; Produto Educacional; Pedagogia de Projetos",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22No%C3%A7%C3%B5es%20de%20Estat%C3%ADstica%20para%20Sexto%20Ano%20do%20Ensino%20Fundamental%3A%20aprendizagem%20por%20meio%20de%20projeto%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=No%C3%A7%C3%B5es%20de%20Estat%C3%ADstica%20para%20Sexto%20Ano%20do%20Ensino%20Fundamental%3A%20aprendizagem%20por%20meio%20de%20projeto&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38774954"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "38774954",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Matemática",
+    "Educação Estatística",
+    "Literacia Estatística",
+    "Produto Educacional",
+    "Pedagogia de Projetos"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-38774954.svg",
+  "resumo": "Esta pesquisa apresenta uma proposta de investigação cujo objetivo é verificar as contribuições que a implementação de projeto proporciona na construção de conhecimentos estatísticos e o desenvolvimento da literacia estatística para alunos do sexto ano do Ensino Fundamental. A escolha do objeto de estudo partiu das inquietações que permeiam a prática do professor-pesquisador, levando-nos a refletir sobre a importância de intervenções pedagógicas que promovam a efetividade do ensino e da aprendizagem. Nessa perspectiva, levanta-se a questão desta pesquisa: Quais as potencialidades de estruturação e condução de um projeto, junto a uma turma de sexto ano do Ensino Fundamental, com vistas à construção de conhecimentos estatísticos? Para o desenvolvimento da pesquisa de natureza qualitativa e alcançar os objetivos propostos e responder à questão de pesquisa, apoiaremos nos pressupostos metodológicos da Engenharia Didática. Os fundamentos teóricos que amparam a pesquisa terão uma abordagem nas concepções da Educação Estatística, bem como, as três competências preconizadas por esse campo de estudo, Literacia, Raciocínio e Pensamento Estatístico. O trabalho com projetos é uma alternativa de ensino que visa proporcionar o envolvimento dos alunos na construção de novos saberes e, assim, realizamos estudos sobre as propostas apresentadas pela Pedagogia de Projetos. A pesquisa foi desenvolvida, durante as aulas de matemática, em uma turma de 6º ano do Ensino Fundamental de uma escola pública, sendo que o pesquisador é o professor regente. A implementação do projeto como proposta para construção de conhecimentos estatísticos evidenciou que as práticas de ensinos que estimulam o engajamento do aluno promovem habilidades e competências aos sujeitos envolvidos no processo de ensino e aprendidos no âmbito educacional.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

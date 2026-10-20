@@ -1,60 +1,60 @@
 {
- "id": "capes-28162988",
- "autor": "Flavio Cantuaria Ribeiro",
- "ano": 2018,
- "tipo": "Dissertação",
- "titulo": "Trabalhando com Medidas Estatísticas no Ensino Médio",
- "instituicao": "Pontifícia Universidade Católica de Minas Gerais",
- "cidade": "",
- "estado": "Minas Gerais",
- "regiao": "Sudeste",
- "orientador": "Tania Fernandes Bogutchi",
- "programa": "ENSINO",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino de Estatística; Atividades Investigativas; Educação Básica",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Trabalhando%20com%20Medidas%20Estat%C3%ADsticas%20no%20Ensino%20M%C3%A9dio%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Trabalhando%20com%20Medidas%20Estat%C3%ADsticas%20no%20Ensino%20M%C3%A9dio&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28162988"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "28162988",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino de Estatística",
-  "Atividades Investigativas",
-  "Educação Básica"
- ],
- "thumbnail": "./assets/images/thumbs/capes-28162988.svg",
- "resumo": "Este trabalho tem, como principal proposta metodológica, a realização de uma pesquisa investigativa que procura conciliar a teoria da Matemática e Estatística com a prática, por meio da realização de um experimento junto aos discentes da Educação Básica. O estudo buscou uma alternativa para o ensino da Estatística, na disciplina de Matemática, utilizando atividades investigativas guiadas contextualizada com a realidade social vivenciada por estes discentes. O experimento prático mostrou que o estreitamento das relações entre a sala de aula e as atividades do cotidiano desses alunos propiciou uma facilitação na compreensão dos conceitos básicos da Estatística. O experimento foi aplicado numa turma do 1º ano do Ensino Médio da Escola Estadual Maurício Augusto Azevedo, na cidade de Janaúba, Minas Gerais.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-28162988",
+  "autor": "Flavio Cantuaria Ribeiro",
+  "ano": 2018,
+  "tipo": "Dissertação",
+  "titulo": "Trabalhando com Medidas Estatísticas no Ensino Médio",
+  "instituicao": "Pontifícia Universidade Católica de Minas Gerais",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Tania Fernandes Bogutchi",
+  "programa": "ENSINO",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Estatística; Atividades Investigativas; Educação Básica",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Trabalhando%20com%20Medidas%20Estat%C3%ADsticas%20no%20Ensino%20M%C3%A9dio%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Trabalhando%20com%20Medidas%20Estat%C3%ADsticas%20no%20Ensino%20M%C3%A9dio&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28162988"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "28162988",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Estatística",
+    "Atividades Investigativas",
+    "Educação Básica"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-28162988.svg",
+  "resumo": "Este trabalho tem, como principal proposta metodológica, a realização de uma pesquisa investigativa que procura conciliar a teoria da Matemática e Estatística com a prática, por meio da realização de um experimento junto aos discentes da Educação Básica. O estudo buscou uma alternativa para o ensino da Estatística, na disciplina de Matemática, utilizando atividades investigativas guiadas contextualizada com a realidade social vivenciada por estes discentes. O experimento prático mostrou que o estreitamento das relações entre a sala de aula e as atividades do cotidiano desses alunos propiciou uma facilitação na compreensão dos conceitos básicos da Estatística. O experimento foi aplicado numa turma do 1º ano do Ensino Médio da Escola Estadual Maurício Augusto Azevedo, na cidade de Janaúba, Minas Gerais.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

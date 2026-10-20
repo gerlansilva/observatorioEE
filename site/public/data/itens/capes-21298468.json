@@ -1,59 +1,59 @@
 {
- "id": "capes-21298468",
- "autor": "Wilian Schmidt",
- "ano": 2016,
- "tipo": "Dissertação",
- "titulo": "Raciocínio Combinatório: Uma META-ANÁLISE a Partir dos Registros de Representação Semiótica",
- "instituicao": "Universidade Federal de Santa Maria",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Rita de Cassia Pistoia Mariani",
- "programa": "Educação Matemática e Ensino de Física",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Raciocínio combinatório; Meta-análise; Registros de representação",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO%3A%20UMA%20META-AN%C3%81LISE%20A%20PARTIR%20DOS%20REGISTROS%20DE%20REPRESENTA%C3%87%C3%83O%20SEMI%C3%93TICA%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO%3A%20UMA%20META-AN%C3%81LISE%20A%20PARTIR%20DOS%20REGISTROS%20DE%20REPRESENTA%C3%87%C3%83O%20SEMI%C3%93TICA&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21298468"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "21298468",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Raciocínio combinatório",
-  "Meta-análise",
-  "Registros de representação"
- ],
- "thumbnail": "./assets/images/thumbs/capes-21298468.svg",
- "resumo": "O objetivo desta pesquisa é investigar se e como são empregados os registros de representação semiótica nas investigações stricto sensu produzidas por instituições brasileiras que abordam o desenvolvimento do raciocínio combinatório por meio de atividades didáticas que tiveram a participação de alunos do ensino médio. O estudo está baseado na meta-análise qualitativa, que pode ser entendida como a realização de uma revisão sistemática de um conjunto de pesquisas com a intenção de culminar em uma síntese interpretativa por meio da análise e dos dados primários destas (BICUDO, 2014). Para tanto, adotamos os registros de representação semiótica de Duval (2003, 2009, 2011) como referencial teórico. A triagem se deu nos sites dos programas de pós-graduação de universidades brasileiras (grande área Multidisciplinar, área de Ensino de Matemática) e no Banco de Teses e Dissertações da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Nas buscas utilizou-se as palavras-chave “análise combinatória”, “combinatória” e “permutações”. Constatou-se que 43 pesquisas enfatizaram o raciocínio combinatório e 35 delas explicitaram em seu corpus documental atividades didáticas na educação básica, no ensino superior ou na formação de professores que ensinam Matemática. Dessas, 12 centraram-se no ensino médio, tanto no ensino regular quanto na modalidade de Educação de Jovens e Adultos. Para realizar a análise dos dados selecionou-se quatro dissertações que propõem e analisam atividades resolvidas por estudantes do ensino médio e que têm aporte teórico na resolução de problemas. Diante disso, por meio de descritores elaborados a partir das estratégias de resolução de atividades de cunho combinatório apresentadas por Batanero et al (1996, 1997, 2001 e 2003), buscou-se nestas atividades indícios que permitiram identificar os registros de representação mobilizados nas soluções apresentadas pelos participantes dos estudos selecionados. Das análises dos dados conclui-se que o emprego das fórmulas de arranjo, combinação e permutação não é a estratégia mais adotada pelos estudantes, mas sim, a regra do produto (produto cartesiano ou princípio multiplicativo). Esta regra mobiliza principalmente registros simbólicos e, sendo assim, suscita tratamentos nesse mesmo tipo de registro. De modo semelhante, quando as atividades são desenvolvidas por meio de fórmulas, ou seja, pela regra do produto, da soma ou do quociente, também foram empregados registros simbólicos e seus tratamentos. Além disso, nestas tarefas houve uma maior evidência das modificações do registro de partida, em língua natural, para o intermediário, registro simbólico. Nas demais estratégias como enumerar as configurações solicitadas, recursividade, subdividir o problema, fixar variáveis e tradução do problema a outro equivalente identificou-se uma diversidade maior de registros, a saber: língua natural, figural, tabular e em árvore e, por conseguinte, uma variedade maior nos tipos de mudanças entre eles. Por fim, observou-se que a mobilização dos registros de representação semiótica na resolução de atividades de cunho combinatório não visam somente à apreensão dos objetos matemáticos, mas, principalmente, um suporte para a resolução desse tipo de problemas.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "raciocínio combinatório"
- ],
- "ids_duplicados": []
+  "id": "capes-21298468",
+  "autor": "Wilian Schmidt",
+  "ano": 2016,
+  "tipo": "Dissertação",
+  "titulo": "Raciocínio Combinatório: Uma META-ANÁLISE a Partir dos Registros de Representação Semiótica",
+  "instituicao": "Universidade Federal de Santa Maria",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Rita de Cassia Pistoia Mariani",
+  "programa": "Educação Matemática e Ensino de Física",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Raciocínio combinatório; Meta-análise; Registros de representação",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO%3A%20UMA%20META-AN%C3%81LISE%20A%20PARTIR%20DOS%20REGISTROS%20DE%20REPRESENTA%C3%87%C3%83O%20SEMI%C3%93TICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO%3A%20UMA%20META-AN%C3%81LISE%20A%20PARTIR%20DOS%20REGISTROS%20DE%20REPRESENTA%C3%87%C3%83O%20SEMI%C3%93TICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21298468"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "21298468",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Raciocínio combinatório",
+    "Meta-análise",
+    "Registros de representação"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-21298468.svg",
+  "resumo": "O objetivo desta pesquisa é investigar se e como são empregados os registros de representação semiótica nas investigações stricto sensu produzidas por instituições brasileiras que abordam o desenvolvimento do raciocínio combinatório por meio de atividades didáticas que tiveram a participação de alunos do ensino médio. O estudo está baseado na meta-análise qualitativa, que pode ser entendida como a realização de uma revisão sistemática de um conjunto de pesquisas com a intenção de culminar em uma síntese interpretativa por meio da análise e dos dados primários destas (BICUDO, 2014). Para tanto, adotamos os registros de representação semiótica de Duval (2003, 2009, 2011) como referencial teórico. A triagem se deu nos sites dos programas de pós-graduação de universidades brasileiras (grande área Multidisciplinar, área de Ensino de Matemática) e no Banco de Teses e Dissertações da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Nas buscas utilizou-se as palavras-chave “análise combinatória”, “combinatória” e “permutações”. Constatou-se que 43 pesquisas enfatizaram o raciocínio combinatório e 35 delas explicitaram em seu corpus documental atividades didáticas na educação básica, no ensino superior ou na formação de professores que ensinam Matemática. Dessas, 12 centraram-se no ensino médio, tanto no ensino regular quanto na modalidade de Educação de Jovens e Adultos. Para realizar a análise dos dados selecionou-se quatro dissertações que propõem e analisam atividades resolvidas por estudantes do ensino médio e que têm aporte teórico na resolução de problemas. Diante disso, por meio de descritores elaborados a partir das estratégias de resolução de atividades de cunho combinatório apresentadas por Batanero et al (1996, 1997, 2001 e 2003), buscou-se nestas atividades indícios que permitiram identificar os registros de representação mobilizados nas soluções apresentadas pelos participantes dos estudos selecionados. Das análises dos dados conclui-se que o emprego das fórmulas de arranjo, combinação e permutação não é a estratégia mais adotada pelos estudantes, mas sim, a regra do produto (produto cartesiano ou princípio multiplicativo). Esta regra mobiliza principalmente registros simbólicos e, sendo assim, suscita tratamentos nesse mesmo tipo de registro. De modo semelhante, quando as atividades são desenvolvidas por meio de fórmulas, ou seja, pela regra do produto, da soma ou do quociente, também foram empregados registros simbólicos e seus tratamentos. Além disso, nestas tarefas houve uma maior evidência das modificações do registro de partida, em língua natural, para o intermediário, registro simbólico. Nas demais estratégias como enumerar as configurações solicitadas, recursividade, subdividir o problema, fixar variáveis e tradução do problema a outro equivalente identificou-se uma diversidade maior de registros, a saber: língua natural, figural, tabular e em árvore e, por conseguinte, uma variedade maior nos tipos de mudanças entre eles. Por fim, observou-se que a mobilização dos registros de representação semiótica na resolução de atividades de cunho combinatório não visam somente à apreensão dos objetos matemáticos, mas, principalmente, um suporte para a resolução desse tipo de problemas.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "raciocínio combinatório"
+  ],
+  "ids_duplicados": []
 }

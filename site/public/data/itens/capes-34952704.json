@@ -1,58 +1,58 @@
 {
- "id": "capes-34952704",
- "autor": "Dina Sefora Santana Menezes Lima",
- "ano": 2021,
- "tipo": "Dissertação",
- "titulo": "Formação do Pedagogo e a Base Nacional Comum Curricular (Bncc): Uma Análise sobre os Saberes Pedagógicos Necessários ao Ensino de Probabilidade e Estatística nos Anos Iniciais",
- "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará",
- "cidade": "",
- "estado": "Ceará",
- "regiao": "Nordeste",
- "orientador": "Maria Cleide da Silva Barroso",
- "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Formação de professores. Probabilidade e Estatística. Base Nacional Comum Curricular.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22FORMA%C3%87%C3%83O%20DO%20PEDAGOGO%20E%20A%20BASE%20NACIONAL%20COMUM%20CURRICULAR%20%28BNCC%29%3A%20UMA%20AN%C3%81LISE%20SOBRE%20OS%20SABERES%20PEDAG%C3%93GICOS%20NECESS%C3%81RIOS%20AO%20ENSINO%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=FORMA%C3%87%C3%83O%20DO%20PEDAGOGO%20E%20A%20BASE%20NACIONAL%20COMUM%20CURRICULAR%20%28BNCC%29%3A%20UMA%20AN%C3%81LISE%20SOBRE%20OS%20SABERES%20PEDAG%C3%93GICOS%20NECESS%C3%81RIOS%20AO%20ENSINO%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34952704"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "34952704",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Formação de professores. Probabilidade e Estatística. Base Nacional Comum Curricular."
- ],
- "thumbnail": "./assets/images/thumbs/capes-34952704.svg",
- "resumo": "A formação inicial de professores pedagogos na área da Matemática tem sido motivo de estudos nas pesquisas acadêmicas, devido às novas mudanças nessa área de conhecimento e inquietações relativas aos baixos resultados nas avaliações de desempenho de larga escala, realizadas ao final do 5o ano do Ensino Fundamental. Nesse sentido, esse trabalho tem por objetivo analisar os saberes pedagógicos necessários ao ensino de Probabilidade e Estatística, dentro do currículo de Matemática para os professores dos Anos Iniciais do Ensino Fundamental, considerando seus aspectos epistemológicos, cognitivos e didáticos. Utilizamos como metodologia de pesquisa, Engenharia Didática de Formação (EDF), com enfoque na Teoria das Situações Didáticas (TSD) que se estrutura de forma experimental, assentadas em práticas intencionais que promovem a construção dos saberes pedagógicos. A pesquisa é de natureza aplicada, baseada em dados qualitativos e quantitativos que convergem e se complementam. Para os dados quantitativos, realizamos um questionário pelo qual traçamos o perfil de 200 professores pedagogos da rede pública do município de Maracanaú-Ceará que manifestaram interesse em responder. Na sequência, dentre os professores que participaram do questionário, convidamos oito professores para participarem da oficina, realizada na Secretaria de Educação de Maracanaú, para a execução de uma das etapas da EDF, a Experimentação. Destacamos, dentre alguns dos resultados encontrados sobre os saberes pedagógicos necessários ao ensino de Probabilidade e Estatística, o planejamento previamente estruturado; uma avaliação diagnóstica; o trabalho com Situações Didáticas (SD) investigativas, desafiadoras e intrigantes; o trabalho pedagógico que articule os gêneros textuais; abordagens com ludicidade no ensino e na aprendizagem através de materiais manipuláveis (jogos e brincadeiras); abordagem de conteúdos matemáticos com uso da Literatura Infantil e a utilização de tecnologias educacionais que auxiliam o processo de ensino e aprendizagem das concepções concernentes à Probabilidade e Estatística. Assim alcançamos o objetivo da pesquisa e reconhecemos ser fundamental para o ensino de Matemática nos Anos Iniciais, o papel dos professores nesse processo de investigação, interação e produção de saberes pedagógicos originados das vivências com Situações Didáticas, como também através dos relatos de experiência ao ensinar e aprender Estocástica.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística",
-  "ensino de probabilidade"
- ],
- "ids_duplicados": []
+  "id": "capes-34952704",
+  "autor": "Dina Sefora Santana Menezes Lima",
+  "ano": 2021,
+  "tipo": "Dissertação",
+  "titulo": "Formação do Pedagogo e a Base Nacional Comum Curricular (Bncc): Uma Análise sobre os Saberes Pedagógicos Necessários ao Ensino de Probabilidade e Estatística nos Anos Iniciais",
+  "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará",
+  "cidade": "",
+  "estado": "Ceará",
+  "regiao": "Nordeste",
+  "orientador": "Maria Cleide da Silva Barroso",
+  "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Formação de professores. Probabilidade e Estatística. Base Nacional Comum Curricular.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22FORMA%C3%87%C3%83O%20DO%20PEDAGOGO%20E%20A%20BASE%20NACIONAL%20COMUM%20CURRICULAR%20%28BNCC%29%3A%20UMA%20AN%C3%81LISE%20SOBRE%20OS%20SABERES%20PEDAG%C3%93GICOS%20NECESS%C3%81RIOS%20AO%20ENSINO%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=FORMA%C3%87%C3%83O%20DO%20PEDAGOGO%20E%20A%20BASE%20NACIONAL%20COMUM%20CURRICULAR%20%28BNCC%29%3A%20UMA%20AN%C3%81LISE%20SOBRE%20OS%20SABERES%20PEDAG%C3%93GICOS%20NECESS%C3%81RIOS%20AO%20ENSINO%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34952704"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "34952704",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Formação de professores. Probabilidade e Estatística. Base Nacional Comum Curricular."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-34952704.svg",
+  "resumo": "A formação inicial de professores pedagogos na área da Matemática tem sido motivo de estudos nas pesquisas acadêmicas, devido às novas mudanças nessa área de conhecimento e inquietações relativas aos baixos resultados nas avaliações de desempenho de larga escala, realizadas ao final do 5o ano do Ensino Fundamental. Nesse sentido, esse trabalho tem por objetivo analisar os saberes pedagógicos necessários ao ensino de Probabilidade e Estatística, dentro do currículo de Matemática para os professores dos Anos Iniciais do Ensino Fundamental, considerando seus aspectos epistemológicos, cognitivos e didáticos. Utilizamos como metodologia de pesquisa, Engenharia Didática de Formação (EDF), com enfoque na Teoria das Situações Didáticas (TSD) que se estrutura de forma experimental, assentadas em práticas intencionais que promovem a construção dos saberes pedagógicos. A pesquisa é de natureza aplicada, baseada em dados qualitativos e quantitativos que convergem e se complementam. Para os dados quantitativos, realizamos um questionário pelo qual traçamos o perfil de 200 professores pedagogos da rede pública do município de Maracanaú-Ceará que manifestaram interesse em responder. Na sequência, dentre os professores que participaram do questionário, convidamos oito professores para participarem da oficina, realizada na Secretaria de Educação de Maracanaú, para a execução de uma das etapas da EDF, a Experimentação. Destacamos, dentre alguns dos resultados encontrados sobre os saberes pedagógicos necessários ao ensino de Probabilidade e Estatística, o planejamento previamente estruturado; uma avaliação diagnóstica; o trabalho com Situações Didáticas (SD) investigativas, desafiadoras e intrigantes; o trabalho pedagógico que articule os gêneros textuais; abordagens com ludicidade no ensino e na aprendizagem através de materiais manipuláveis (jogos e brincadeiras); abordagem de conteúdos matemáticos com uso da Literatura Infantil e a utilização de tecnologias educacionais que auxiliam o processo de ensino e aprendizagem das concepções concernentes à Probabilidade e Estatística. Assim alcançamos o objetivo da pesquisa e reconhecemos ser fundamental para o ensino de Matemática nos Anos Iniciais, o papel dos professores nesse processo de investigação, interação e produção de saberes pedagógicos originados das vivências com Situações Didáticas, como também através dos relatos de experiência ao ensinar e aprender Estocástica.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística",
+    "ensino de probabilidade"
+  ],
+  "ids_duplicados": []
 }

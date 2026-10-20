@@ -1,61 +1,61 @@
 {
- "id": "capes-32786258",
- "autor": "Cassio Cristiano Giordano",
- "ano": 2020,
- "tipo": "Tese",
- "titulo": "Concepções sobre Estatística: Um Estudo com Alunos do Ensino Médio",
- "instituicao": "Pontifícia Universidade Católica de São Paulo",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Cileda de Queiroz e Silva Coutinho",
- "programa": "EDUCAÇÃO MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Estatística; Concepções; Análise Estatística Implicativa e de Similaridades; Projetos; BNCC",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22CONCEP%C3%87%C3%95ES%20SOBRE%20ESTAT%C3%8DSTICA%3A%20UM%20ESTUDO%20COM%20ALUNOS%20DO%20ENSINO%20M%C3%89DIO%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CONCEP%C3%87%C3%95ES%20SOBRE%20ESTAT%C3%8DSTICA%3A%20UM%20ESTUDO%20COM%20ALUNOS%20DO%20ENSINO%20M%C3%89DIO&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/32786258"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "32786258",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Estatística",
-  "Concepções",
-  "Análise Estatística Implicativa e de Similaridades",
-  "Projetos",
-  "BNCC"
- ],
- "thumbnail": "./assets/images/thumbs/capes-32786258.svg",
- "resumo": "Este estudo analisou os conhecimentos e as concepções mobilizadas por alunos do último ano do ensino médio de uma escola pública brasileira, dos 16 aos 19 anos de idade, antes e depois do desenvolvimento de projetos envolvendo elementos de Estatística. A fim de investigar as concepções estatísticas mobilizadas por eles, uma pesquisa de natureza qualitativa, do tipo estudo de caso, foi realizada. Dessa forma, buscou-se responder que concepções são mobilizadas por alunos do ensino médio na resolução de problemas após o desenvolvimento de projetos, utilizados como abordagem para a aprendizagem de conceitos da Estatística. Com esse objetivo, por meio da Análise Estatística Implicativa e Análise de Similaridades, foram identificados os conhecimentos prévios de 86 alunos, com base nos questionários respondidos por eles antes da participação nos projetos de pesquisa. Assim, este trabalho teve o auxílio de recursos tecnológicos oferecidos pelo software CHIC – Classificação Hierárquica Implicativa e Coesitiva. Além disso, foram analisadas as concepções mobilizadas por quatro grupos de alunos (duas duplas e dois trios) após o desenvolvimento dos projetos, por meio de registros escritos e gravações da sua produção bem como das interações com os colegas dos respectivos grupos, durante a resolução de problemas estatísticos semelhantes àqueles resolvidos em suas pesquisas. No que se refere aos conhecimentos, considerou-se que ainda existe um longo caminho para que os alunos cheguem ao término do ensino médio com um nível de letramento estatístico satisfatório para uma maior compreensão de mundo e exercício pleno da cidadania assim como para a transição para o ensino superior, e que a implantação da BNCC pode ajudar nesse desafio. Foi possível identificar onze concepções estatísticas mobilizadas pelos alunos, algumas delas deslocadas de seu domínio de validade, refletindo dificuldades de aprendizagem, mas também avanços, falhas estruturais e possíveis caminhos no ensino e aprendizagem de Estatística no Brasil.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-32786258",
+  "autor": "Cassio Cristiano Giordano",
+  "ano": 2020,
+  "tipo": "Tese",
+  "titulo": "Concepções sobre Estatística: Um Estudo com Alunos do Ensino Médio",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Cileda de Queiroz e Silva Coutinho",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Concepções; Análise Estatística Implicativa e de Similaridades; Projetos; BNCC",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22CONCEP%C3%87%C3%95ES%20SOBRE%20ESTAT%C3%8DSTICA%3A%20UM%20ESTUDO%20COM%20ALUNOS%20DO%20ENSINO%20M%C3%89DIO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CONCEP%C3%87%C3%95ES%20SOBRE%20ESTAT%C3%8DSTICA%3A%20UM%20ESTUDO%20COM%20ALUNOS%20DO%20ENSINO%20M%C3%89DIO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/32786258"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "32786258",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Concepções",
+    "Análise Estatística Implicativa e de Similaridades",
+    "Projetos",
+    "BNCC"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-32786258.svg",
+  "resumo": "Este estudo analisou os conhecimentos e as concepções mobilizadas por alunos do último ano do ensino médio de uma escola pública brasileira, dos 16 aos 19 anos de idade, antes e depois do desenvolvimento de projetos envolvendo elementos de Estatística. A fim de investigar as concepções estatísticas mobilizadas por eles, uma pesquisa de natureza qualitativa, do tipo estudo de caso, foi realizada. Dessa forma, buscou-se responder que concepções são mobilizadas por alunos do ensino médio na resolução de problemas após o desenvolvimento de projetos, utilizados como abordagem para a aprendizagem de conceitos da Estatística. Com esse objetivo, por meio da Análise Estatística Implicativa e Análise de Similaridades, foram identificados os conhecimentos prévios de 86 alunos, com base nos questionários respondidos por eles antes da participação nos projetos de pesquisa. Assim, este trabalho teve o auxílio de recursos tecnológicos oferecidos pelo software CHIC – Classificação Hierárquica Implicativa e Coesitiva. Além disso, foram analisadas as concepções mobilizadas por quatro grupos de alunos (duas duplas e dois trios) após o desenvolvimento dos projetos, por meio de registros escritos e gravações da sua produção bem como das interações com os colegas dos respectivos grupos, durante a resolução de problemas estatísticos semelhantes àqueles resolvidos em suas pesquisas. No que se refere aos conhecimentos, considerou-se que ainda existe um longo caminho para que os alunos cheguem ao término do ensino médio com um nível de letramento estatístico satisfatório para uma maior compreensão de mundo e exercício pleno da cidadania assim como para a transição para o ensino superior, e que a implantação da BNCC pode ajudar nesse desafio. Foi possível identificar onze concepções estatísticas mobilizadas pelos alunos, algumas delas deslocadas de seu domínio de validade, refletindo dificuldades de aprendizagem, mas também avanços, falhas estruturais e possíveis caminhos no ensino e aprendizagem de Estatística no Brasil.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

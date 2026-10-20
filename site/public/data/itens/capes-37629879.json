@@ -1,60 +1,60 @@
 {
- "id": "capes-37629879",
- "autor": "Anderson Henrique Costa Barros",
- "ano": 2023,
- "tipo": "Tese",
- "titulo": "LETRAMENTO ESTATÍSTICO EM CURSOS DE LICENCIATURA EM EDUCAÇÃO DO CAMPO: diálogo e investigação com professores formadores",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Carlos Eduardo Ferreira Monteiro",
- "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "licenciatura em educação do campo; letramento estatístico; educação matemática crítica; diálogo",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20ESTAT%C3%8DSTICO%20EM%20CURSOS%20DE%20LICENCIATURA%20EM%20EDUCA%C3%87%C3%83O%20DO%20CAMPO%3A%20di%C3%A1logo%20e%20investiga%C3%A7%C3%A3o%20com%20professores%20formadores%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20ESTAT%C3%8DSTICO%20EM%20CURSOS%20DE%20LICENCIATURA%20EM%20EDUCA%C3%87%C3%83O%20DO%20CAMPO%3A%20di%C3%A1logo%20e%20investiga%C3%A7%C3%A3o%20com%20professores%20formadores&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37629879"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "37629879",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "licenciatura em educação do campo",
-  "letramento estatístico",
-  "educação matemática crítica",
-  "diálogo"
- ],
- "thumbnail": "./assets/images/thumbs/capes-37629879.svg",
- "resumo": "A Educação do Campo tem origem nas lutas dos movimentos sociais pelo direito à terra e à educação pública de qualidade socialmente referenciada, pensada junto aos povos do campo para contribuir com a melhoria das escolas do campo. Os cursos de Licenciatura em Educação do Campo (LEdoC) fazem parte das políticas públicas de formação inicial de professores do campo comprometidos com a Educação Básica das populações campesinas. O Letramento Estatístico está relacionado à leitura e interpretação crítica de dados estatísticos publicadas nos veículos de comunicação por meio de textos, gráficos e tabelas. Uma pessoa estatisticamente letrada pode se posicionar criticamente diante de dados estatísticos e se comunicar com outras pessoas para possíveis tomadas de decisão em contextos sociais com base nessas informações. Portanto, o Letramento Estatístico pode impactar a vida das pessoas do campo ao favorecer a leitura de suas realidades. Nesse sentido, é importante abordar aspectos da educação estatística na perspectiva do Letramento Estatístico na formação inicial de professores do campo. Esta tese foi motivada pelas seguintes questões de investigação: Como componentes curriculares das LEdoC abordam conteúdos de estatística? Quais as concepções dos professores formadores das LEdoC sobre o ensino da estatística? Como as atividades podem potencializar a criticidade no ensino de estatística por professores formadores da LEdoC para promover o Letramento Estatístico? O objetivo geral da pesquisa foi analisar, à luz das perspectivas de Letramento Estatístico e da Educação Matemática Crítica, as concepções de professores formadores de cursos de Licenciatura em Educação do Campo sobre o ensino de estatística. O estudo tem como base o princípio da Educação do Campo, o modelo de Letramento Estatístico de Iddo Gal e conceito de diálogo proposto por Ole Skovsmose inspirado na dialogicidade em Paulo Freire. A produção de dados envolveu a análise dos Projetos Políticos de Curso (PPC) de cinco instituições de Ensino Superior que oferecem a formação de professores do campo de Matemática e Ciências Naturais. Além disso, foram realizadas entrevistas com professores formadores que lecionam componentes curriculares relacionados a conteúdos de estatística e matemática nos cursos de LEdoC selecionados. Embora as análises dos PPC tenham sugerido que existem conteúdos estatísticos que podem ser relacionados aos contextos de campo, os documentos curriculares deveriam ser mais explícitos sobre essas relações abordando referências produzidas por grupos de pesquisa, revistas científicas, dissertações e teses que discutem educação estatística em contexto do campo que poderia contribuir para a promoção do Letramento Estatístico. As entrevistas com os professores formadores apontaram potencialidades para a promoção do Letramento Estatístico em uma concepção dialógica realizado no Tempo Universidade e Tempo Comunidade quando as atividades estatísticas envolvem aspectos sociais, políticos, econômicos e culturais em contextos do campo e envolvem diálogo, investigação e crítica para a produção de dados nas comunidades dos estudantes.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "letramento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-37629879",
+  "autor": "Anderson Henrique Costa Barros",
+  "ano": 2023,
+  "tipo": "Tese",
+  "titulo": "LETRAMENTO ESTATÍSTICO EM CURSOS DE LICENCIATURA EM EDUCAÇÃO DO CAMPO: diálogo e investigação com professores formadores",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Carlos Eduardo Ferreira Monteiro",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "licenciatura em educação do campo; letramento estatístico; educação matemática crítica; diálogo",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20ESTAT%C3%8DSTICO%20EM%20CURSOS%20DE%20LICENCIATURA%20EM%20EDUCA%C3%87%C3%83O%20DO%20CAMPO%3A%20di%C3%A1logo%20e%20investiga%C3%A7%C3%A3o%20com%20professores%20formadores%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20ESTAT%C3%8DSTICO%20EM%20CURSOS%20DE%20LICENCIATURA%20EM%20EDUCA%C3%87%C3%83O%20DO%20CAMPO%3A%20di%C3%A1logo%20e%20investiga%C3%A7%C3%A3o%20com%20professores%20formadores&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37629879"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37629879",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "licenciatura em educação do campo",
+    "letramento estatístico",
+    "educação matemática crítica",
+    "diálogo"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37629879.svg",
+  "resumo": "A Educação do Campo tem origem nas lutas dos movimentos sociais pelo direito à terra e à educação pública de qualidade socialmente referenciada, pensada junto aos povos do campo para contribuir com a melhoria das escolas do campo. Os cursos de Licenciatura em Educação do Campo (LEdoC) fazem parte das políticas públicas de formação inicial de professores do campo comprometidos com a Educação Básica das populações campesinas. O Letramento Estatístico está relacionado à leitura e interpretação crítica de dados estatísticos publicadas nos veículos de comunicação por meio de textos, gráficos e tabelas. Uma pessoa estatisticamente letrada pode se posicionar criticamente diante de dados estatísticos e se comunicar com outras pessoas para possíveis tomadas de decisão em contextos sociais com base nessas informações. Portanto, o Letramento Estatístico pode impactar a vida das pessoas do campo ao favorecer a leitura de suas realidades. Nesse sentido, é importante abordar aspectos da educação estatística na perspectiva do Letramento Estatístico na formação inicial de professores do campo. Esta tese foi motivada pelas seguintes questões de investigação: Como componentes curriculares das LEdoC abordam conteúdos de estatística? Quais as concepções dos professores formadores das LEdoC sobre o ensino da estatística? Como as atividades podem potencializar a criticidade no ensino de estatística por professores formadores da LEdoC para promover o Letramento Estatístico? O objetivo geral da pesquisa foi analisar, à luz das perspectivas de Letramento Estatístico e da Educação Matemática Crítica, as concepções de professores formadores de cursos de Licenciatura em Educação do Campo sobre o ensino de estatística. O estudo tem como base o princípio da Educação do Campo, o modelo de Letramento Estatístico de Iddo Gal e conceito de diálogo proposto por Ole Skovsmose inspirado na dialogicidade em Paulo Freire. A produção de dados envolveu a análise dos Projetos Políticos de Curso (PPC) de cinco instituições de Ensino Superior que oferecem a formação de professores do campo de Matemática e Ciências Naturais. Além disso, foram realizadas entrevistas com professores formadores que lecionam componentes curriculares relacionados a conteúdos de estatística e matemática nos cursos de LEdoC selecionados. Embora as análises dos PPC tenham sugerido que existem conteúdos estatísticos que podem ser relacionados aos contextos de campo, os documentos curriculares deveriam ser mais explícitos sobre essas relações abordando referências produzidas por grupos de pesquisa, revistas científicas, dissertações e teses que discutem educação estatística em contexto do campo que poderia contribuir para a promoção do Letramento Estatístico. As entrevistas com os professores formadores apontaram potencialidades para a promoção do Letramento Estatístico em uma concepção dialógica realizado no Tempo Universidade e Tempo Comunidade quando as atividades estatísticas envolvem aspectos sociais, políticos, econômicos e culturais em contextos do campo e envolvem diálogo, investigação e crítica para a produção de dados nas comunidades dos estudantes.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
 }

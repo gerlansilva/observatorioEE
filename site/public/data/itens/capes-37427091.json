@@ -1,62 +1,62 @@
 {
- "id": "capes-37427091",
- "autor": "Cleiton Ribeiro de Jesus",
- "ano": 2023,
- "tipo": "Dissertação",
- "titulo": "A Aprendizagem da Probabilidade no 9º Ano do Ensino Fundamental por Meio da Produção de Mídias Digitais",
- "instituicao": "Universidade Luterana do Brasil",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Agostinho Iaqchan Ryokiti Homa",
- "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Probabilidade; Metodologia Ativa; Sala de Aula Invertida; Educação Matemática; Animações didáticas; histórias e cartoons digitais",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20APRENDIZAGEM%20DA%20PROBABILIDADE%20NO%209%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%20POR%20MEIO%20DA%20PRODU%C3%87%C3%83O%20DE%20M%C3%8DDIAS%20DIGITAIS%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20APRENDIZAGEM%20DA%20PROBABILIDADE%20NO%209%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%20POR%20MEIO%20DA%20PRODU%C3%87%C3%83O%20DE%20M%C3%8DDIAS%20DIGITAIS&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37427091"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "37427091",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Probabilidade",
-  "Metodologia Ativa",
-  "Sala de Aula Invertida",
-  "Educação Matemática",
-  "Animações didáticas",
-  "histórias e cartoons digitais"
- ],
- "thumbnail": "./assets/images/thumbs/capes-37427091.svg",
- "resumo": "O processo de aprendizagem da probabilidade na Matemática ligado a produção de animações didáticas, histórias e cartoons digitais é uma abordagem metodológica diferenciada que é capaz de proporcionar uma situação didática de aprendizagem dos conceitos matemáticos relativos à Probabilidade, desenvolvendo as habilidades necessárias para os alunos serem protagonistas da própria construção do conhecimento. Esta dissertação teve por objetivo geral investigar as contribuições que a atividade de produção de animações didáticas, histórias e cartoons digitais, sob as características da metodologia ativa da sala de aula invertida, trazem para a aprendizagem da Probabilidade no 9º ano do Ensino Fundamental. A dissertação está vinculada na hipótese de que o aluno se torna protagonista de sua aprendizagem quando está ensinando, explicando, resumindo, estruturando, definindo, generalizando, elaborando e ilustrando, ou seja, aprende ao aplicar na prática os conceitos adquiridos para que aconteça uma aprendizagem mais significativa. Para serem protagonistas da sua aprendizagem espera-se que os alunos aprofundem seus conhecimentos na temática voltada a Probabilidade e, por meio disso, passem a produzirem animações didáticas, histórias e cartoons digitais, que contribuam para o processo de ensino e de aprendizagem da Matemática, podendo ser trabalhado de diferentes formas na sala de aula. A metodologia utilizada para a pesquisa foi de cunho qualitativo do tipo estudo de caso, essa metodologia enfatiza mais o processo de análise do que o produto final obtido, e se preocupa em retratar a perspectiva dos participantes, possibilitando um contato direto do pesquisador com os alunos. Os resultados apontam que a produção das animações didáticas, histórias e cartoons digitais é um meio para a Educação Matemática, contribuindo sob diversas formas, desde o despertar do interesse dos alunos, ao desenvolvimento de habilidades essenciais para a vida em sociedade. Constatou-se, durante a aplicação que os alunos pesquisaram e aprofundaram os conhecimentos no objeto de conhecimento de Probabilidade, e obtiveram domínio tanto na criação das situações problemas e sua possível resolução, quanto na produção das mídias didáticas digitais. O resultado da pesquisa mostra que a atividade de produção das animações didáticas, histórias e cartoons digitais com a utilização da metodologia ativa da sala de aula invertida, fez com que os alunos se tornassem protagonistas do seu próprio conhecimento, pois realizaram pesquisas de forma autônoma, utilizaram a criatividade, buscaram os diversos aplicativos, criaram as histórias problemas e os resolveram com a criação das mídias digitais, favorecendo o processo de ensino e aprendizagem do objeto de conhecimento de Probabilidade.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de probabilidade"
- ],
- "ids_duplicados": []
+  "id": "capes-37427091",
+  "autor": "Cleiton Ribeiro de Jesus",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "A Aprendizagem da Probabilidade no 9º Ano do Ensino Fundamental por Meio da Produção de Mídias Digitais",
+  "instituicao": "Universidade Luterana do Brasil",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Agostinho Iaqchan Ryokiti Homa",
+  "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Probabilidade; Metodologia Ativa; Sala de Aula Invertida; Educação Matemática; Animações didáticas; histórias e cartoons digitais",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20APRENDIZAGEM%20DA%20PROBABILIDADE%20NO%209%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%20POR%20MEIO%20DA%20PRODU%C3%87%C3%83O%20DE%20M%C3%8DDIAS%20DIGITAIS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20APRENDIZAGEM%20DA%20PROBABILIDADE%20NO%209%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%20POR%20MEIO%20DA%20PRODU%C3%87%C3%83O%20DE%20M%C3%8DDIAS%20DIGITAIS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37427091"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37427091",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Probabilidade",
+    "Metodologia Ativa",
+    "Sala de Aula Invertida",
+    "Educação Matemática",
+    "Animações didáticas",
+    "histórias e cartoons digitais"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37427091.svg",
+  "resumo": "O processo de aprendizagem da probabilidade na Matemática ligado a produção de animações didáticas, histórias e cartoons digitais é uma abordagem metodológica diferenciada que é capaz de proporcionar uma situação didática de aprendizagem dos conceitos matemáticos relativos à Probabilidade, desenvolvendo as habilidades necessárias para os alunos serem protagonistas da própria construção do conhecimento. Esta dissertação teve por objetivo geral investigar as contribuições que a atividade de produção de animações didáticas, histórias e cartoons digitais, sob as características da metodologia ativa da sala de aula invertida, trazem para a aprendizagem da Probabilidade no 9º ano do Ensino Fundamental. A dissertação está vinculada na hipótese de que o aluno se torna protagonista de sua aprendizagem quando está ensinando, explicando, resumindo, estruturando, definindo, generalizando, elaborando e ilustrando, ou seja, aprende ao aplicar na prática os conceitos adquiridos para que aconteça uma aprendizagem mais significativa. Para serem protagonistas da sua aprendizagem espera-se que os alunos aprofundem seus conhecimentos na temática voltada a Probabilidade e, por meio disso, passem a produzirem animações didáticas, histórias e cartoons digitais, que contribuam para o processo de ensino e de aprendizagem da Matemática, podendo ser trabalhado de diferentes formas na sala de aula. A metodologia utilizada para a pesquisa foi de cunho qualitativo do tipo estudo de caso, essa metodologia enfatiza mais o processo de análise do que o produto final obtido, e se preocupa em retratar a perspectiva dos participantes, possibilitando um contato direto do pesquisador com os alunos. Os resultados apontam que a produção das animações didáticas, histórias e cartoons digitais é um meio para a Educação Matemática, contribuindo sob diversas formas, desde o despertar do interesse dos alunos, ao desenvolvimento de habilidades essenciais para a vida em sociedade. Constatou-se, durante a aplicação que os alunos pesquisaram e aprofundaram os conhecimentos no objeto de conhecimento de Probabilidade, e obtiveram domínio tanto na criação das situações problemas e sua possível resolução, quanto na produção das mídias didáticas digitais. O resultado da pesquisa mostra que a atividade de produção das animações didáticas, histórias e cartoons digitais com a utilização da metodologia ativa da sala de aula invertida, fez com que os alunos se tornassem protagonistas do seu próprio conhecimento, pois realizaram pesquisas de forma autônoma, utilizaram a criatividade, buscaram os diversos aplicativos, criaram as histórias problemas e os resolveram com a criação das mídias digitais, favorecendo o processo de ensino e aprendizagem do objeto de conhecimento de Probabilidade.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de probabilidade"
+  ],
+  "ids_duplicados": []
 }

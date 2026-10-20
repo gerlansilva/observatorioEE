@@ -1,58 +1,58 @@
 {
- "id": "capes-33003623",
- "autor": "Plinio Rubens de Farias Marcolino",
- "ano": 2020,
- "tipo": "Dissertação",
- "titulo": "Compreensões de Estudantes do 3º Ano do Ensino Médio sobre o Conceito de Média Aritmética",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Jose Ivanildo Felisberto de Carvalho",
- "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Média aritmética. Medidas de Tendência Central. Teoria dos Campos Conceituais. Letramento Estatístico. Educação Estatística.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22COMPREENS%C3%95ES%20DE%20ESTUDANTES%20DO%203%C2%BA%20ANO%20DO%20ENSINO%20M%C3%89DIO%20SOBRE%20O%20CONCEITO%20DE%20M%C3%89DIA%20ARITM%C3%89TICA%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=COMPREENS%C3%95ES%20DE%20ESTUDANTES%20DO%203%C2%BA%20ANO%20DO%20ENSINO%20M%C3%89DIO%20SOBRE%20O%20CONCEITO%20DE%20M%C3%89DIA%20ARITM%C3%89TICA&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/33003623"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "33003623",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Média aritmética. Medidas de Tendência Central. Teoria dos Campos Conceituais. Letramento Estatístico. Educação Estatística."
- ],
- "thumbnail": "./assets/images/thumbs/capes-33003623.svg",
- "resumo": "O presente estudo investigou como o conceito de média aritmética é compreendido por estudantes do terceiro ano do Ensino Médio. Tem como base teórica os campos conceituais desenvolvidos por Gerárd Vergnaud. Participaram desta pesquisa 231 alunos oriundos de três cidades e cinco escolas públicas que fazem parte da Gerência Regional de Educação – Mata Centro (GRE- Mata Centro) – Secretaria de Educação de Pernambuco. Os estudantes responderam individualmente a um instrumento diagnóstico composto por cinco questões que consideraram os diferentes significados e propriedades que sustentam o conceito de média aritmética. A análise dos dados se deu por categorizações das estratégias implementadas pelos estudantes, organizadas e comparadas por meio de um programa estatístico. Os dados deste estudo demonstram um desempenho abaixo do desejado para estudantes concluintes do Ensino Médio. Observou-se que nenhum dos sujeitos respondeu corretamente a todas às questões do instrumento diagnóstico. A média aritmética da quantidade de acertos foi de 2,23 pontos quando poderiam ser alcançados 7 pontos. Na resolução das questões, os estudantes se detêm em procedimentos de cálculo e não realizam uma análise crítica e reflexiva do que as questões propõem. Quando analisamos as propriedades e significados da média aritmética, percebemos que em algumas situações as propriedades influenciam mais que os significados no nível de desempenho dos estudantes. Evidenciamos a importância da abordagem dos diferentes significados e propriedades na compreensão do conceito de média aritmética e acreditamos que há possibilidades didáticas possíveis para o ensino e aprendizagem da média aritmética nas escolas e, de forma mais ampla, para o letramento estatístico dos estudantes. Com os resultados deste estudo reforçamos a discussão sobre a formação inicial e continuada de professores no campo da Educação Estatística.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "letramento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-33003623",
+  "autor": "Plinio Rubens de Farias Marcolino",
+  "ano": 2020,
+  "tipo": "Dissertação",
+  "titulo": "Compreensões de Estudantes do 3º Ano do Ensino Médio sobre o Conceito de Média Aritmética",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Jose Ivanildo Felisberto de Carvalho",
+  "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Média aritmética. Medidas de Tendência Central. Teoria dos Campos Conceituais. Letramento Estatístico. Educação Estatística.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22COMPREENS%C3%95ES%20DE%20ESTUDANTES%20DO%203%C2%BA%20ANO%20DO%20ENSINO%20M%C3%89DIO%20SOBRE%20O%20CONCEITO%20DE%20M%C3%89DIA%20ARITM%C3%89TICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=COMPREENS%C3%95ES%20DE%20ESTUDANTES%20DO%203%C2%BA%20ANO%20DO%20ENSINO%20M%C3%89DIO%20SOBRE%20O%20CONCEITO%20DE%20M%C3%89DIA%20ARITM%C3%89TICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/33003623"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "33003623",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Média aritmética. Medidas de Tendência Central. Teoria dos Campos Conceituais. Letramento Estatístico. Educação Estatística."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-33003623.svg",
+  "resumo": "O presente estudo investigou como o conceito de média aritmética é compreendido por estudantes do terceiro ano do Ensino Médio. Tem como base teórica os campos conceituais desenvolvidos por Gerárd Vergnaud. Participaram desta pesquisa 231 alunos oriundos de três cidades e cinco escolas públicas que fazem parte da Gerência Regional de Educação – Mata Centro (GRE- Mata Centro) – Secretaria de Educação de Pernambuco. Os estudantes responderam individualmente a um instrumento diagnóstico composto por cinco questões que consideraram os diferentes significados e propriedades que sustentam o conceito de média aritmética. A análise dos dados se deu por categorizações das estratégias implementadas pelos estudantes, organizadas e comparadas por meio de um programa estatístico. Os dados deste estudo demonstram um desempenho abaixo do desejado para estudantes concluintes do Ensino Médio. Observou-se que nenhum dos sujeitos respondeu corretamente a todas às questões do instrumento diagnóstico. A média aritmética da quantidade de acertos foi de 2,23 pontos quando poderiam ser alcançados 7 pontos. Na resolução das questões, os estudantes se detêm em procedimentos de cálculo e não realizam uma análise crítica e reflexiva do que as questões propõem. Quando analisamos as propriedades e significados da média aritmética, percebemos que em algumas situações as propriedades influenciam mais que os significados no nível de desempenho dos estudantes. Evidenciamos a importância da abordagem dos diferentes significados e propriedades na compreensão do conceito de média aritmética e acreditamos que há possibilidades didáticas possíveis para o ensino e aprendizagem da média aritmética nas escolas e, de forma mais ampla, para o letramento estatístico dos estudantes. Com os resultados deste estudo reforçamos a discussão sobre a formação inicial e continuada de professores no campo da Educação Estatística.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
 }

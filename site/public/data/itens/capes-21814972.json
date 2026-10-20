@@ -1,60 +1,60 @@
 {
- "id": "capes-21814972",
- "autor": "Valdir Ramos Francisco",
- "ano": 2016,
- "tipo": "Dissertação",
- "titulo": "Interpretação de Dados Estatísticos: Um Estudo com Alunos do Ensino Médio da Educação de Jovens e Adultos",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Iranete Maria da Silva Lima",
- "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação de Jovens e Adultos; Educação Estatística; Interpretação de gráficos estatísticos; Variação de dados.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22INTERPRETA%C3%87%C3%83O%20DE%20DADOS%20ESTAT%C3%8DSTICOS%3A%20UM%20ESTUDO%20COM%20ALUNOS%20DO%20ENSINO%20M%C3%89DIO%20DA%20EDUCA%C3%87%C3%83O%20DE%20JOVENS%20E%20ADULTOS%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=INTERPRETA%C3%87%C3%83O%20DE%20DADOS%20ESTAT%C3%8DSTICOS%3A%20UM%20ESTUDO%20COM%20ALUNOS%20DO%20ENSINO%20M%C3%89DIO%20DA%20EDUCA%C3%87%C3%83O%20DE%20JOVENS%20E%20ADULTOS&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21814972"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "21814972",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação de Jovens e Adultos",
-  "Educação Estatística",
-  "Interpretação de gráficos estatísticos",
-  "Variação de dados."
- ],
- "thumbnail": "./assets/images/thumbs/capes-21814972.svg",
- "resumo": "A pesquisa teve como objetivo investigar o desempenho de alunos do Ensino Médio da Educação de Jovens e Adultos (EJA) na resolução de atividades de interpretação de gráficos estatísticos. Para tanto, realizamos um breve estudo sobre a EJA e a Educação Estatística, bem como sobre os resultados de pesquisas realizadas nestes domínios. Focamos na interpretação de dados estatísticos contidos em gráficos, considerando as dimensões local (interpretação de pontos isolados do gráfico), global (interpretação do gráfico como um todo) e variacional (utilização da variação como forma de interpretação). O interesse pela variação de dados se justifica por se tratar de um conceito central para a interpretação de gráficos e a tomada de decisão, além de contribuir para o desenvolvimento do pensamento e letramento estatísticos. A pesquisa foi realizada com vinte e três alunos do Ensino Médio da EJA, que resolveram cinco atividades de interpretação de gráficos de linhas e de colunas simples e múltiplas. Os resultados obtidos mostram que os alunos tiveram mais facilidade para interpretar pontos isolados dos gráficos propostos, enquanto que apresentaram maior dificuldade para utilizar o conceito de variação de dados, por exemplo, para quantificar a variabilidade no cálculo da amplitude. Estes resultados se aproximam dos achados de pesquisas que foram realizados com professores e alunos dos anos iniciais e finais do Ensino Fundamental e indicam a necessidade de se repensar, também, o processo de ensino de conteúdos estatísticos aos alunos do Ensino Médio da EJA.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-21814972",
+  "autor": "Valdir Ramos Francisco",
+  "ano": 2016,
+  "tipo": "Dissertação",
+  "titulo": "Interpretação de Dados Estatísticos: Um Estudo com Alunos do Ensino Médio da Educação de Jovens e Adultos",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Iranete Maria da Silva Lima",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação de Jovens e Adultos; Educação Estatística; Interpretação de gráficos estatísticos; Variação de dados.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22INTERPRETA%C3%87%C3%83O%20DE%20DADOS%20ESTAT%C3%8DSTICOS%3A%20UM%20ESTUDO%20COM%20ALUNOS%20DO%20ENSINO%20M%C3%89DIO%20DA%20EDUCA%C3%87%C3%83O%20DE%20JOVENS%20E%20ADULTOS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=INTERPRETA%C3%87%C3%83O%20DE%20DADOS%20ESTAT%C3%8DSTICOS%3A%20UM%20ESTUDO%20COM%20ALUNOS%20DO%20ENSINO%20M%C3%89DIO%20DA%20EDUCA%C3%87%C3%83O%20DE%20JOVENS%20E%20ADULTOS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21814972"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "21814972",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação de Jovens e Adultos",
+    "Educação Estatística",
+    "Interpretação de gráficos estatísticos",
+    "Variação de dados."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-21814972.svg",
+  "resumo": "A pesquisa teve como objetivo investigar o desempenho de alunos do Ensino Médio da Educação de Jovens e Adultos (EJA) na resolução de atividades de interpretação de gráficos estatísticos. Para tanto, realizamos um breve estudo sobre a EJA e a Educação Estatística, bem como sobre os resultados de pesquisas realizadas nestes domínios. Focamos na interpretação de dados estatísticos contidos em gráficos, considerando as dimensões local (interpretação de pontos isolados do gráfico), global (interpretação do gráfico como um todo) e variacional (utilização da variação como forma de interpretação). O interesse pela variação de dados se justifica por se tratar de um conceito central para a interpretação de gráficos e a tomada de decisão, além de contribuir para o desenvolvimento do pensamento e letramento estatísticos. A pesquisa foi realizada com vinte e três alunos do Ensino Médio da EJA, que resolveram cinco atividades de interpretação de gráficos de linhas e de colunas simples e múltiplas. Os resultados obtidos mostram que os alunos tiveram mais facilidade para interpretar pontos isolados dos gráficos propostos, enquanto que apresentaram maior dificuldade para utilizar o conceito de variação de dados, por exemplo, para quantificar a variabilidade no cálculo da amplitude. Estes resultados se aproximam dos achados de pesquisas que foram realizados com professores e alunos dos anos iniciais e finais do Ensino Fundamental e indicam a necessidade de se repensar, também, o processo de ensino de conteúdos estatísticos aos alunos do Ensino Médio da EJA.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

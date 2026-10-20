@@ -1,61 +1,61 @@
 {
- "id": "capes-36921064",
- "autor": "Daniela Silveira Rocha",
- "ano": 2022,
- "tipo": "Dissertação",
- "titulo": "Ensino e Aprendizagem de Estatística nas Dissertações e Teses no Brasil: Um Estado do Conhecimento no Período de 2000 a 2021",
- "instituicao": "Universidade do Estado de Mato Grosso",
- "cidade": "",
- "estado": "Mato Grosso",
- "regiao": "Centro-Oeste",
- "orientador": "Marcio Urel Rodrigues",
- "programa": "ENSINO DE CIENCIAS E MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino e Aprendizagem de Estatística; Estado do Conhecimento; Dissertações e Teses; Educação Estatística.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20E%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NAS%20DISSERTA%C3%87%C3%95ES%20E%20TESES%20NO%20BRASIL%3A%20UM%20ESTADO%20DO%20CONHECIMENTO%20NO%20PER%C3%8DODO%20DE%202000%20A%202021%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20E%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NAS%20DISSERTA%C3%87%C3%95ES%20E%20TESES%20NO%20BRASIL%3A%20UM%20ESTADO%20DO%20CONHECIMENTO%20NO%20PER%C3%8DODO%20DE%202000%20A%202021&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36921064"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "36921064",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino e Aprendizagem de Estatística",
-  "Estado do Conhecimento",
-  "Dissertações e Teses",
-  "Educação Estatística."
- ],
- "thumbnail": "./assets/images/thumbs/capes-36921064.svg",
- "resumo": "Na presente pesquisa, objetivamos investigar e analisar as pesquisas acadêmicas (dissertações e teses) relacionadas ao Ensino e Aprendizagem de Estatística produzidas pelos programas de pósgraduação no Brasil, no período de 2000 a 2021. Desta maneira, a questão norteadora da pesquisa é: O que nos revelam as pesquisas acadêmicas (dissertações e teses) envolvendo o Ensino e Aprendizagem de Estatística, desenvolvidas no período de 2000 a 2021, no Brasil? Para a coleta de dados, realizamos um levantamento das dissertações e teses publicadas nas seguintes bases de dados: Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), Biblioteca Digital de Teses e Dissertações (BDTD) e Mestrado Profissional em Matemática em Rede Nacional (PROFMAT). Metodologicamente, realizamos uma abordagem qualitativa, na modalidade do Estado do Conhecimento, o qual possibilita a compreensão dos estudos realizados a respeito do Ensino e Aprendizagem de Estatística, de modo quantificado e ordenado. O corpus da pesquisa foi constituído por 429 pesquisas, sendo 372 dissertações e 57 teses envolvendo a referida temática. Para a análise desse material, utilizamos alguns conceitos da Análise de Conteúdo na perspectiva de Bardin (1977) e Rodrigues (2019). O levantamento e o processo de codificação dos dados brutos conduziram-nos à definição de 22 Eixos Temáticos, os quais foram constituídos com base nas nuvens de palavras elaboradas a partir dos títulos das pesquisas e das palavras-chave. Após a codificação dos trabalhos, segundo os Eixos Temáticos, buscamos estabelecer articulações entre eles para a constituição de seis Categorias de Análise: 1. Ensino e Aprendizagem de Estatística na Educação Básica; 2. Processos Formativos de Professores e o Ensino e Aprendizagem de Estatística; 3. Ensino e Aprendizagem de Estatística no Contexto Teórico-Metodológico; 4. Ensino e Aprendizagem de Estatística e suas Inter-relações Disciplinares e Interdisciplinares; 5. Abordagens Metodológicas no Ensino e Aprendizagem de Estatística; 6. Conceitos envolvendo a Educação Estatística. Realizamos a sistematização e análise interpretativa por meio do alinhamento entre os objetivos das pesquisas pertencentes a cada uma das seis Categorias de Análise configuradas no presente Estado do Conhecimento, o qual nos proporcionou compreensões e uma visão mais aprofundada e crítica do que já foi produzido e do que ainda precisa ser explorado nas pesquisas (dissertações e teses) envolvendo os processos de ensino e aprendizagem de Estatística no Brasil.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-36921064",
+  "autor": "Daniela Silveira Rocha",
+  "ano": 2022,
+  "tipo": "Dissertação",
+  "titulo": "Ensino e Aprendizagem de Estatística nas Dissertações e Teses no Brasil: Um Estado do Conhecimento no Período de 2000 a 2021",
+  "instituicao": "Universidade do Estado de Mato Grosso",
+  "cidade": "",
+  "estado": "Mato Grosso",
+  "regiao": "Centro-Oeste",
+  "orientador": "Marcio Urel Rodrigues",
+  "programa": "ENSINO DE CIENCIAS E MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino e Aprendizagem de Estatística; Estado do Conhecimento; Dissertações e Teses; Educação Estatística.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20E%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NAS%20DISSERTA%C3%87%C3%95ES%20E%20TESES%20NO%20BRASIL%3A%20UM%20ESTADO%20DO%20CONHECIMENTO%20NO%20PER%C3%8DODO%20DE%202000%20A%202021%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20E%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NAS%20DISSERTA%C3%87%C3%95ES%20E%20TESES%20NO%20BRASIL%3A%20UM%20ESTADO%20DO%20CONHECIMENTO%20NO%20PER%C3%8DODO%20DE%202000%20A%202021&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36921064"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "36921064",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino e Aprendizagem de Estatística",
+    "Estado do Conhecimento",
+    "Dissertações e Teses",
+    "Educação Estatística."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-36921064.svg",
+  "resumo": "Na presente pesquisa, objetivamos investigar e analisar as pesquisas acadêmicas (dissertações e teses) relacionadas ao Ensino e Aprendizagem de Estatística produzidas pelos programas de pósgraduação no Brasil, no período de 2000 a 2021. Desta maneira, a questão norteadora da pesquisa é: O que nos revelam as pesquisas acadêmicas (dissertações e teses) envolvendo o Ensino e Aprendizagem de Estatística, desenvolvidas no período de 2000 a 2021, no Brasil? Para a coleta de dados, realizamos um levantamento das dissertações e teses publicadas nas seguintes bases de dados: Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), Biblioteca Digital de Teses e Dissertações (BDTD) e Mestrado Profissional em Matemática em Rede Nacional (PROFMAT). Metodologicamente, realizamos uma abordagem qualitativa, na modalidade do Estado do Conhecimento, o qual possibilita a compreensão dos estudos realizados a respeito do Ensino e Aprendizagem de Estatística, de modo quantificado e ordenado. O corpus da pesquisa foi constituído por 429 pesquisas, sendo 372 dissertações e 57 teses envolvendo a referida temática. Para a análise desse material, utilizamos alguns conceitos da Análise de Conteúdo na perspectiva de Bardin (1977) e Rodrigues (2019). O levantamento e o processo de codificação dos dados brutos conduziram-nos à definição de 22 Eixos Temáticos, os quais foram constituídos com base nas nuvens de palavras elaboradas a partir dos títulos das pesquisas e das palavras-chave. Após a codificação dos trabalhos, segundo os Eixos Temáticos, buscamos estabelecer articulações entre eles para a constituição de seis Categorias de Análise: 1. Ensino e Aprendizagem de Estatística na Educação Básica; 2. Processos Formativos de Professores e o Ensino e Aprendizagem de Estatística; 3. Ensino e Aprendizagem de Estatística no Contexto Teórico-Metodológico; 4. Ensino e Aprendizagem de Estatística e suas Inter-relações Disciplinares e Interdisciplinares; 5. Abordagens Metodológicas no Ensino e Aprendizagem de Estatística; 6. Conceitos envolvendo a Educação Estatística. Realizamos a sistematização e análise interpretativa por meio do alinhamento entre os objetivos das pesquisas pertencentes a cada uma das seis Categorias de Análise configuradas no presente Estado do Conhecimento, o qual nos proporcionou compreensões e uma visão mais aprofundada e crítica do que já foi produzido e do que ainda precisa ser explorado nas pesquisas (dissertações e teses) envolvendo os processos de ensino e aprendizagem de Estatística no Brasil.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

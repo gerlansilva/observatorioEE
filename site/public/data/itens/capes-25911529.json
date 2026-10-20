@@ -1,61 +1,61 @@
 {
- "id": "capes-25911529",
- "autor": "Nilceia Datori Barbosa",
- "ano": 2019,
- "tipo": "Dissertação",
- "titulo": "O Trilhar da Construção de um Jogo Pedagógico Como Ferramenta para o Ensino de Probabilidade nos Anos Iniciais do Ensino Fundamental",
- "instituicao": "Universidade Federal do Abc",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Ailton Paulo de Oliveira Junior",
- "programa": "Ensino e História das Ciências e da Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino de Probabilidade; Anos iniciais do Ensino Fundamental; Resolução de Problemas; Jogo pedagógico; Teoria Antropológica do Didático",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20TRILHAR%20DA%20CONSTRU%C3%87%C3%83O%20DE%20UM%20JOGO%20PEDAG%C3%93GICO%20COMO%20FERRAMENTA%20PARA%20O%20ENSINO%20DE%20PROBABILIDADE%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20TRILHAR%20DA%20CONSTRU%C3%87%C3%83O%20DE%20UM%20JOGO%20PEDAG%C3%93GICO%20COMO%20FERRAMENTA%20PARA%20O%20ENSINO%20DE%20PROBABILIDADE%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/25911529"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "25911529",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino de Probabilidade",
-  "Anos iniciais do Ensino Fundamental",
-  "Resolução de Problemas",
-  "Jogo pedagógico",
-  "Teoria Antropológica do Didático"
- ],
- "thumbnail": "./assets/images/thumbs/capes-25911529.svg",
- "resumo": "O presente trabalho teve como objetivo principal mostrar o processo de construção e criação de um jogo pedagógico para o desenvolvimento de conceitos de probabilidade nos anos iniciais do Ensino Fundamental. Concebemos ainda que construir e criar é o mesmo que trilhar o caminho da concepção do jogo pedagógico que denominamos como “Brincando com a Probabilidade”. Escolhemos o jogo porque consideramos que, além de ser atrativo, também é um exercício de aprendizagem ativa capaz de possibilitar simulações de tarefas que provocam e exigem soluções imediatas. Entendemos também que a resolução de problemas em contexto de jogos pode ser utilizada para o ensino de probabilidade, entretanto, é escassa a disponibilidade desse recurso como material pedagógico para o trabalho com o ensino e a aprendizagem destes conceitos. Tomando como referência a Base Nacional Comum Curricular – BNCC, no que diz respeito aos conteúdos e habilidades a serem trabalhados na unidade temática “Estatística e Probabilidade” para os anos iniciais do Ensino Fundamental, elaboramos dois tipos de cartas para o jogo: Perguntas (?) e Saiba Mais (!). As cartas “perguntas (?)” são tarefas baseadas em situações problemas cujo objetivo é favorecer a apreensão dos conteúdos e o desenvolvimento do conhecimento probabilístico. Para a elaboração dessas cartas, junto à BNCC conectamos o Programa de Ensino sobre probabilidade e risco desenvolvido por Nunes et al. (2012) na Inglaterra com as pesquisas já realizadas por especialistas da área. Ainda, para fundamentar essas tarefas, utilizamos a Teoria Antropológica do Didático – TAD de Yves Chevallard, que é composta por dois blocos, o prático (constituído por tarefas, subtarefas e técnicas) e o teórico (constituído pela tecnologia e pela teoria). Já as cartas “saiba mais (!)”, trazem informações relevantes para a formação da criança cujo objetivo é propiciar um trabalho interdisciplinar, mostrando que a probabilidade está associada à diversas áreas do conhecimento. Essas cartas procuraram contemplar alguns aspectos da BNCC, como leitura de mundo natural e social, pensamento crítico, sociabilidade e solidariedade. O desafio da pesquisa foi mostrar a possibilidade de desenvolver um trabalho pedagógico para os anos iniciais do Ensino Fundamental, baseado em jogos e resolução de problemas que envolva conteúdos probabilísticos, criando um recurso fundamentado que favoreça o repensar sobre os métodos estratégicos, redimensionando-os a fim de minimizar o hiato existente entre as atividades lúdicas cotidianas realizadas pelos alunos, espontaneamente, e o trabalho desencadeado em sala de aula. Partindo deste princípio, todas as tarefas propostas neste jogo foram contextualizadas e pautadas em situações reais que fazem parte do cotidiano da criança. A construção das cartas “perguntas (?)”, em particular, seguiu uma sequência de apresentação baseada num modelo cumulativo e processual, procurando oferecer ao professor diversas possibilidades de trabalho em sala de aula. Além do jogo pedagógico, ao final deste trabalho trazemos uma proposta curricular a partir da BNCC conjugada com o programa de ensino de Nunes et al. (2012) e especialistas em Educação Estatística.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de probabilidade"
- ],
- "ids_duplicados": []
+  "id": "capes-25911529",
+  "autor": "Nilceia Datori Barbosa",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "O Trilhar da Construção de um Jogo Pedagógico Como Ferramenta para o Ensino de Probabilidade nos Anos Iniciais do Ensino Fundamental",
+  "instituicao": "Universidade Federal do Abc",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Ailton Paulo de Oliveira Junior",
+  "programa": "Ensino e História das Ciências e da Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Probabilidade; Anos iniciais do Ensino Fundamental; Resolução de Problemas; Jogo pedagógico; Teoria Antropológica do Didático",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20TRILHAR%20DA%20CONSTRU%C3%87%C3%83O%20DE%20UM%20JOGO%20PEDAG%C3%93GICO%20COMO%20FERRAMENTA%20PARA%20O%20ENSINO%20DE%20PROBABILIDADE%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20TRILHAR%20DA%20CONSTRU%C3%87%C3%83O%20DE%20UM%20JOGO%20PEDAG%C3%93GICO%20COMO%20FERRAMENTA%20PARA%20O%20ENSINO%20DE%20PROBABILIDADE%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/25911529"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "25911529",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Probabilidade",
+    "Anos iniciais do Ensino Fundamental",
+    "Resolução de Problemas",
+    "Jogo pedagógico",
+    "Teoria Antropológica do Didático"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-25911529.svg",
+  "resumo": "O presente trabalho teve como objetivo principal mostrar o processo de construção e criação de um jogo pedagógico para o desenvolvimento de conceitos de probabilidade nos anos iniciais do Ensino Fundamental. Concebemos ainda que construir e criar é o mesmo que trilhar o caminho da concepção do jogo pedagógico que denominamos como “Brincando com a Probabilidade”. Escolhemos o jogo porque consideramos que, além de ser atrativo, também é um exercício de aprendizagem ativa capaz de possibilitar simulações de tarefas que provocam e exigem soluções imediatas. Entendemos também que a resolução de problemas em contexto de jogos pode ser utilizada para o ensino de probabilidade, entretanto, é escassa a disponibilidade desse recurso como material pedagógico para o trabalho com o ensino e a aprendizagem destes conceitos. Tomando como referência a Base Nacional Comum Curricular – BNCC, no que diz respeito aos conteúdos e habilidades a serem trabalhados na unidade temática “Estatística e Probabilidade” para os anos iniciais do Ensino Fundamental, elaboramos dois tipos de cartas para o jogo: Perguntas (?) e Saiba Mais (!). As cartas “perguntas (?)” são tarefas baseadas em situações problemas cujo objetivo é favorecer a apreensão dos conteúdos e o desenvolvimento do conhecimento probabilístico. Para a elaboração dessas cartas, junto à BNCC conectamos o Programa de Ensino sobre probabilidade e risco desenvolvido por Nunes et al. (2012) na Inglaterra com as pesquisas já realizadas por especialistas da área. Ainda, para fundamentar essas tarefas, utilizamos a Teoria Antropológica do Didático – TAD de Yves Chevallard, que é composta por dois blocos, o prático (constituído por tarefas, subtarefas e técnicas) e o teórico (constituído pela tecnologia e pela teoria). Já as cartas “saiba mais (!)”, trazem informações relevantes para a formação da criança cujo objetivo é propiciar um trabalho interdisciplinar, mostrando que a probabilidade está associada à diversas áreas do conhecimento. Essas cartas procuraram contemplar alguns aspectos da BNCC, como leitura de mundo natural e social, pensamento crítico, sociabilidade e solidariedade. O desafio da pesquisa foi mostrar a possibilidade de desenvolver um trabalho pedagógico para os anos iniciais do Ensino Fundamental, baseado em jogos e resolução de problemas que envolva conteúdos probabilísticos, criando um recurso fundamentado que favoreça o repensar sobre os métodos estratégicos, redimensionando-os a fim de minimizar o hiato existente entre as atividades lúdicas cotidianas realizadas pelos alunos, espontaneamente, e o trabalho desencadeado em sala de aula. Partindo deste princípio, todas as tarefas propostas neste jogo foram contextualizadas e pautadas em situações reais que fazem parte do cotidiano da criança. A construção das cartas “perguntas (?)”, em particular, seguiu uma sequência de apresentação baseada num modelo cumulativo e processual, procurando oferecer ao professor diversas possibilidades de trabalho em sala de aula. Além do jogo pedagógico, ao final deste trabalho trazemos uma proposta curricular a partir da BNCC conjugada com o programa de ensino de Nunes et al. (2012) e especialistas em Educação Estatística.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de probabilidade"
+  ],
+  "ids_duplicados": []
 }

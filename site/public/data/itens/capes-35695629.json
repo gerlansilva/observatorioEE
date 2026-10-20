@@ -1,59 +1,59 @@
 {
- "id": "capes-35695629",
- "autor": "Roberto Wesley Araujo Lima",
- "ano": 2021,
- "tipo": "Dissertação",
- "titulo": "Construíndo e Interpretando Gráficos Estatísticos com Alunos da 3ª Série do Ensino Médio Utilizando o Power Point",
- "instituicao": "Universidade Federal de Alagoas",
- "cidade": "",
- "estado": "Alagoas",
- "regiao": "Nordeste",
- "orientador": "Ediel Azevedo Guerra",
- "programa": "Ensino de Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Estatística; Sequência Didática; Recursos Educacionais Digitais",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22CONSTRU%C3%8DNDO%20E%20INTERPRETANDO%20GR%C3%81FICOS%20ESTAT%C3%8DSTICOS%20COM%20ALUNOS%20DA%203%C2%AA%20S%C3%89RIE%20DO%20ENSINO%20M%C3%89DIO%20UTILIZANDO%20O%20POWER%20POINT%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CONSTRU%C3%8DNDO%20E%20INTERPRETANDO%20GR%C3%81FICOS%20ESTAT%C3%8DSTICOS%20COM%20ALUNOS%20DA%203%C2%AA%20S%C3%89RIE%20DO%20ENSINO%20M%C3%89DIO%20UTILIZANDO%20O%20POWER%20POINT&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35695629"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "35695629",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Estatística",
-  "Sequência Didática",
-  "Recursos Educacionais Digitais"
- ],
- "thumbnail": "./assets/images/thumbs/capes-35695629.svg",
- "resumo": "Nosso trabalho tem como objetivo criar, aplicar e avaliar uma sequência didática visando à aprendizagem da representação gráfica e da interpretação de dados estatísticos por meio do Powerpoint para estudantes da terceira série do ensino médio. Apresentamos, então, as contribuições de uma Sequência Didática como um instrumento de planejamento pedagógico que pode implicar na problematização e desenvolvimento do conhecimento matemático tendo como Produto Educacional um manual para construção de gráficos estatísticos por intermédio do Powerpoint. A pesquisa foi realizada por uma abordagem qualitativa com alunos da 3ª série do Ensino Médio, da Escola Estadual Professor Theonilo Gama, situada em Maceió. Iniciamos falando um pouco sobre o contexto histórico da Estatística, em seguida, abordamos a educação Estatística enfatizando os conceitos de Literacia, Raciocínio e Pensamento Estatístico, de acordo com Cazorla (2010), Gal (2000), Garfield (2002), Raumsey (2002), entre outros. Logo depois, discutimos sobre a Estatística na escola e o uso de Recursos Educacionais Digitais (RDE) no desenvolvimento de metodologias ativas. Por fim, propomos um manual, como sugestão, para trabalhar a construção de gráficos com o uso do software Powerpoint. E mostramos que a Estatística vai muito além do que uma simples leitura de gráficos ou tabelas – perpassa por todo processo do ensino da Estatística, desde a literacia até a inferência.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-35695629",
+  "autor": "Roberto Wesley Araujo Lima",
+  "ano": 2021,
+  "tipo": "Dissertação",
+  "titulo": "Construíndo e Interpretando Gráficos Estatísticos com Alunos da 3ª Série do Ensino Médio Utilizando o Power Point",
+  "instituicao": "Universidade Federal de Alagoas",
+  "cidade": "",
+  "estado": "Alagoas",
+  "regiao": "Nordeste",
+  "orientador": "Ediel Azevedo Guerra",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Sequência Didática; Recursos Educacionais Digitais",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22CONSTRU%C3%8DNDO%20E%20INTERPRETANDO%20GR%C3%81FICOS%20ESTAT%C3%8DSTICOS%20COM%20ALUNOS%20DA%203%C2%AA%20S%C3%89RIE%20DO%20ENSINO%20M%C3%89DIO%20UTILIZANDO%20O%20POWER%20POINT%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CONSTRU%C3%8DNDO%20E%20INTERPRETANDO%20GR%C3%81FICOS%20ESTAT%C3%8DSTICOS%20COM%20ALUNOS%20DA%203%C2%AA%20S%C3%89RIE%20DO%20ENSINO%20M%C3%89DIO%20UTILIZANDO%20O%20POWER%20POINT&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35695629"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "35695629",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Sequência Didática",
+    "Recursos Educacionais Digitais"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-35695629.svg",
+  "resumo": "Nosso trabalho tem como objetivo criar, aplicar e avaliar uma sequência didática visando à aprendizagem da representação gráfica e da interpretação de dados estatísticos por meio do Powerpoint para estudantes da terceira série do ensino médio. Apresentamos, então, as contribuições de uma Sequência Didática como um instrumento de planejamento pedagógico que pode implicar na problematização e desenvolvimento do conhecimento matemático tendo como Produto Educacional um manual para construção de gráficos estatísticos por intermédio do Powerpoint. A pesquisa foi realizada por uma abordagem qualitativa com alunos da 3ª série do Ensino Médio, da Escola Estadual Professor Theonilo Gama, situada em Maceió. Iniciamos falando um pouco sobre o contexto histórico da Estatística, em seguida, abordamos a educação Estatística enfatizando os conceitos de Literacia, Raciocínio e Pensamento Estatístico, de acordo com Cazorla (2010), Gal (2000), Garfield (2002), Raumsey (2002), entre outros. Logo depois, discutimos sobre a Estatística na escola e o uso de Recursos Educacionais Digitais (RDE) no desenvolvimento de metodologias ativas. Por fim, propomos um manual, como sugestão, para trabalhar a construção de gráficos com o uso do software Powerpoint. E mostramos que a Estatística vai muito além do que uma simples leitura de gráficos ou tabelas – perpassa por todo processo do ensino da Estatística, desde a literacia até a inferência.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

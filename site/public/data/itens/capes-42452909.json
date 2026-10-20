@@ -1,60 +1,60 @@
 {
- "id": "capes-42452909",
- "autor": "Magda Beatriz de Lima Almeida",
- "ano": 2024,
- "tipo": "Dissertação",
- "titulo": "Decisões Didáticas sobre a Utilização do Jogo da Senha Digital para o Ensino de Análise Combinatória",
- "instituicao": "Universidade Federal Rural de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Elisangela Bastos de Melo Espindola",
- "programa": "ENSINO DAS CIÊNCIAS",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Decisões didáticas; Jogo da senha digital; Análise combinatória; Metodologia de Investigação Reflexiva",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22DECIS%C3%95ES%20DID%C3%81TICAS%20SOBRE%20A%20UTILIZA%C3%87%C3%83O%20DO%20JOGO%20DA%20SENHA%20DIGITAL%20PARA%20O%20ENSINO%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=DECIS%C3%95ES%20DID%C3%81TICAS%20SOBRE%20A%20UTILIZA%C3%87%C3%83O%20DO%20JOGO%20DA%20SENHA%20DIGITAL%20PARA%20O%20ENSINO%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42452909"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "42452909",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Decisões didáticas",
-  "Jogo da senha digital",
-  "Análise combinatória",
-  "Metodologia de Investigação Reflexiva"
- ],
- "thumbnail": "./assets/images/thumbs/capes-42452909.svg",
- "resumo": "Este trabalho tem por objetivo analisar as decisões didáticas de uma professora no planejamento e na utilização do jogo da senha digital (Real Code Breaker) para o ensino de Análise Combinatória em uma turma do 2º ano do Ensino Médio. Para tanto, tomamos como referência o Modelo dos Fatores Decisionais do Professor, desenvolvido na Didática de Matemática francesa. Este modelo aborda três tipos de fatores que influenciam as decisões docentes: fatores epistêmicos, fatores da história didática e fatores externos. A pesquisa está organizada em duas etapas. Na primeira etapa, apresentamos os procedimentos realizados acerca do mapeamento e análise de tipos de jogo da senha digital, disponíveis na loja online da Google para dispositivos com sistema Android ( Google Play Store) visando as possíveis explorações didáticas de cada um deles para o ensino de Análise Combinatória, com o intuito de escolher aquele mais adequado a ser utilizado na segunda etapa da pesquisa. Analisamos estes recursos à luz de duas questões: Em que se assemelham ou se diferenciam os jogos da senha digitais do jogo da senha tradicional? Quais as possibilidades de utilizar os tipos de jogo da senha digital para o ensino de análise combinatória? Os princípios da Metodologia de Investigação Reflexiva, guiaram a segunda etapa, a saber: I. Acompanhamento do trabalho do professor por um período significativo; II. Acompanhamento dentro e fora da sala de aula; III. Acompanhamento reflexivo do trabalho de documentação, pelo próprio professor; IV. Ampla coleta dos recursos utilizados e produzidos, ao longo do acompanhamento; V. Confrontação permanente das opiniões do professor a respeito do seu trabalho de documentação. Dentre os resultados da pesquisa, selecionamos o jogo “Real Code Breaker”, em virtude do idioma português, layout do jogo dinâmico de forma que permite ao jogador compreender as regras, além disso, o jogo possui quatro níveis de dificuldades, havendo a modalidade de multiplayer, ou seja, sendo possível ao jogador jogar com algum oponente de forma online. Em relação às decisões didáticas, identificamos no nível noosférico, fatores externos reveladores de restrições ao uso de jogos digitais, por exemplo, pela carência do uso de smartphones em sala de aula, em virtude das condições socioeconômicas do público escolar. Destacamos, nos fatores da história didática, a dificuldade dos estudantes em resolverem problemas de Análise Combinatória; nos fatores epistêmicos, a correlação que a professora estabeleceu entre seus conhecimentos sobre os conteúdos de Análise Combinatória (Arranjo simples e Combinação simples) e a exploração destes a partir da utilização do jogo em sala de aula.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de combinatória"
- ],
- "ids_duplicados": []
+  "id": "capes-42452909",
+  "autor": "Magda Beatriz de Lima Almeida",
+  "ano": 2024,
+  "tipo": "Dissertação",
+  "titulo": "Decisões Didáticas sobre a Utilização do Jogo da Senha Digital para o Ensino de Análise Combinatória",
+  "instituicao": "Universidade Federal Rural de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Elisangela Bastos de Melo Espindola",
+  "programa": "ENSINO DAS CIÊNCIAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Decisões didáticas; Jogo da senha digital; Análise combinatória; Metodologia de Investigação Reflexiva",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22DECIS%C3%95ES%20DID%C3%81TICAS%20SOBRE%20A%20UTILIZA%C3%87%C3%83O%20DO%20JOGO%20DA%20SENHA%20DIGITAL%20PARA%20O%20ENSINO%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=DECIS%C3%95ES%20DID%C3%81TICAS%20SOBRE%20A%20UTILIZA%C3%87%C3%83O%20DO%20JOGO%20DA%20SENHA%20DIGITAL%20PARA%20O%20ENSINO%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42452909"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "42452909",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Decisões didáticas",
+    "Jogo da senha digital",
+    "Análise combinatória",
+    "Metodologia de Investigação Reflexiva"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-42452909.svg",
+  "resumo": "Este trabalho tem por objetivo analisar as decisões didáticas de uma professora no planejamento e na utilização do jogo da senha digital (Real Code Breaker) para o ensino de Análise Combinatória em uma turma do 2º ano do Ensino Médio. Para tanto, tomamos como referência o Modelo dos Fatores Decisionais do Professor, desenvolvido na Didática de Matemática francesa. Este modelo aborda três tipos de fatores que influenciam as decisões docentes: fatores epistêmicos, fatores da história didática e fatores externos. A pesquisa está organizada em duas etapas. Na primeira etapa, apresentamos os procedimentos realizados acerca do mapeamento e análise de tipos de jogo da senha digital, disponíveis na loja online da Google para dispositivos com sistema Android ( Google Play Store) visando as possíveis explorações didáticas de cada um deles para o ensino de Análise Combinatória, com o intuito de escolher aquele mais adequado a ser utilizado na segunda etapa da pesquisa. Analisamos estes recursos à luz de duas questões: Em que se assemelham ou se diferenciam os jogos da senha digitais do jogo da senha tradicional? Quais as possibilidades de utilizar os tipos de jogo da senha digital para o ensino de análise combinatória? Os princípios da Metodologia de Investigação Reflexiva, guiaram a segunda etapa, a saber: I. Acompanhamento do trabalho do professor por um período significativo; II. Acompanhamento dentro e fora da sala de aula; III. Acompanhamento reflexivo do trabalho de documentação, pelo próprio professor; IV. Ampla coleta dos recursos utilizados e produzidos, ao longo do acompanhamento; V. Confrontação permanente das opiniões do professor a respeito do seu trabalho de documentação. Dentre os resultados da pesquisa, selecionamos o jogo “Real Code Breaker”, em virtude do idioma português, layout do jogo dinâmico de forma que permite ao jogador compreender as regras, além disso, o jogo possui quatro níveis de dificuldades, havendo a modalidade de multiplayer, ou seja, sendo possível ao jogador jogar com algum oponente de forma online. Em relação às decisões didáticas, identificamos no nível noosférico, fatores externos reveladores de restrições ao uso de jogos digitais, por exemplo, pela carência do uso de smartphones em sala de aula, em virtude das condições socioeconômicas do público escolar. Destacamos, nos fatores da história didática, a dificuldade dos estudantes em resolverem problemas de Análise Combinatória; nos fatores epistêmicos, a correlação que a professora estabeleceu entre seus conhecimentos sobre os conteúdos de Análise Combinatória (Arranjo simples e Combinação simples) e a exploração destes a partir da utilização do jogo em sala de aula.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de combinatória"
+  ],
+  "ids_duplicados": []
 }

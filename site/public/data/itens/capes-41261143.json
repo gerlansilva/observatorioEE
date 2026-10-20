@@ -1,59 +1,59 @@
 {
- "id": "capes-41261143",
- "autor": "Yasmin Chagas de Oliveira",
- "ano": 2024,
- "tipo": "Dissertação",
- "titulo": "O Ensino de Combinatória nos Anos Iniciais: Uma Análise sobre os Conhecimentos Docentes",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Juliana Azevedo Montenegro",
- "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Combinatória; Conhecimentos Docentes; Ensino Fundamental Anos Iniciais.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ENSINO%20DE%20COMBINAT%C3%93RIA%20NOS%20ANOS%20INICIAIS%3A%20UMA%20AN%C3%81LISE%20SOBRE%20OS%20CONHECIMENTOS%20DOCENTES%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ENSINO%20DE%20COMBINAT%C3%93RIA%20NOS%20ANOS%20INICIAIS%3A%20UMA%20AN%C3%81LISE%20SOBRE%20OS%20CONHECIMENTOS%20DOCENTES&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41261143"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "41261143",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Combinatória",
-  "Conhecimentos Docentes",
-  "Ensino Fundamental Anos Iniciais."
- ],
- "thumbnail": "./assets/images/thumbs/capes-41261143.svg",
- "resumo": "Este estudo pretende analisar os conhecimentos docentes para o ensino de Combinatória, mais especificamente no que tange aos Anos Iniciais do Ensino Fundamental. Para o alcance desse objetivo, desenvolvemos uma formação continuada, que deu base aos professores desenvolverem suas aulas sobre Combinatória. Participaram do processo de formação seis professores do 4° e 5° anos do ensino Fundamental., A formação teve duração de três dias, na qual foram discutidos...a discussão do conhecimento comum de Combinatória, o conhecimento especializado de Combinatória, o conhecimento de Combinatória e Aluno, conhecimento de Combinatória e Currículo e por fim o Conhecimento de Combinatória e Ensino. Posteriormente a formação, quatro docentes realizaram uma aula sobre Combinatória, que foram observadas e analisadas , Além de participarem de uma entrevista semi estruturada, com o intuito de conhecer as participantes e aprofundar nossas análises sobre os conhecimentos mobilizados no ensino de Combinatória. Na análise dos resultados verificamos os diferentes domínios à luz de Ball, Thames e Phelps com respaldo na teoria dos Campos conceituais de Vergnaud (1986). Percebemos que com esta pesquisa conseguimos pontuar diferentes aspectos sobre cada conhecimento docente no ensino de Combinatória nos anos iniciais. No entanto percebemos que o Conhecimento do Horizonte de Combinatória e o Conhecimento de Combinatória e Currículo, não foram evidenciados durante o processo de ensino, sendo, portanto, discutido a partir das colocações da entrevista. Por fim, acreditamos que o estudo nos possibilitou um vasto conhecimento sobre todos os aspectos do ensino de Combinatória nos anos iniciais, principalmente no que tange o papel do professor na busca da melhoria da aprendizagem desse conteúdo Matemático.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de combinatória"
- ],
- "ids_duplicados": []
+  "id": "capes-41261143",
+  "autor": "Yasmin Chagas de Oliveira",
+  "ano": 2024,
+  "tipo": "Dissertação",
+  "titulo": "O Ensino de Combinatória nos Anos Iniciais: Uma Análise sobre os Conhecimentos Docentes",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Juliana Azevedo Montenegro",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Combinatória; Conhecimentos Docentes; Ensino Fundamental Anos Iniciais.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ENSINO%20DE%20COMBINAT%C3%93RIA%20NOS%20ANOS%20INICIAIS%3A%20UMA%20AN%C3%81LISE%20SOBRE%20OS%20CONHECIMENTOS%20DOCENTES%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ENSINO%20DE%20COMBINAT%C3%93RIA%20NOS%20ANOS%20INICIAIS%3A%20UMA%20AN%C3%81LISE%20SOBRE%20OS%20CONHECIMENTOS%20DOCENTES&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41261143"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "41261143",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Combinatória",
+    "Conhecimentos Docentes",
+    "Ensino Fundamental Anos Iniciais."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-41261143.svg",
+  "resumo": "Este estudo pretende analisar os conhecimentos docentes para o ensino de Combinatória, mais especificamente no que tange aos Anos Iniciais do Ensino Fundamental. Para o alcance desse objetivo, desenvolvemos uma formação continuada, que deu base aos professores desenvolverem suas aulas sobre Combinatória. Participaram do processo de formação seis professores do 4° e 5° anos do ensino Fundamental., A formação teve duração de três dias, na qual foram discutidos...a discussão do conhecimento comum de Combinatória, o conhecimento especializado de Combinatória, o conhecimento de Combinatória e Aluno, conhecimento de Combinatória e Currículo e por fim o Conhecimento de Combinatória e Ensino. Posteriormente a formação, quatro docentes realizaram uma aula sobre Combinatória, que foram observadas e analisadas , Além de participarem de uma entrevista semi estruturada, com o intuito de conhecer as participantes e aprofundar nossas análises sobre os conhecimentos mobilizados no ensino de Combinatória. Na análise dos resultados verificamos os diferentes domínios à luz de Ball, Thames e Phelps com respaldo na teoria dos Campos conceituais de Vergnaud (1986). Percebemos que com esta pesquisa conseguimos pontuar diferentes aspectos sobre cada conhecimento docente no ensino de Combinatória nos anos iniciais. No entanto percebemos que o Conhecimento do Horizonte de Combinatória e o Conhecimento de Combinatória e Currículo, não foram evidenciados durante o processo de ensino, sendo, portanto, discutido a partir das colocações da entrevista. Por fim, acreditamos que o estudo nos possibilitou um vasto conhecimento sobre todos os aspectos do ensino de Combinatória nos anos iniciais, principalmente no que tange o papel do professor na busca da melhoria da aprendizagem desse conteúdo Matemático.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de combinatória"
+  ],
+  "ids_duplicados": []
 }

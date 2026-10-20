@@ -1,57 +1,57 @@
 {
- "id": "capes-12994621",
- "autor": "Rita de Cassia Celio Pasquarelli",
- "ano": 2015,
- "tipo": "Dissertação",
- "titulo": "A Inclusão de Alunos com Deficiência Visual do 9 Ano do Ensino Fundamental no Processo de Ensino e Aprendizagem de Estatística",
- "instituicao": "Pontifícia Universidade Católica de São Paulo",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Ana Lucia Manrique",
- "programa": "EDUCAÇÃO MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "MATEMÁTICA, Inclusão, Estatística, Aluno com deficiência visual, Acessibilidade",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20INCLUS%C3%83O%20DE%20ALUNOS%20COM%20DEFICI%C3%8ANCIA%20VISUAL%20DO%209%20ANO%20DO%20ENSINO%20FUNDAMENTAL%20NO%20PROCESSO%20DE%20ENSINO%20E%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20INCLUS%C3%83O%20DE%20ALUNOS%20COM%20DEFICI%C3%8ANCIA%20VISUAL%20DO%209%20ANO%20DO%20ENSINO%20FUNDAMENTAL%20NO%20PROCESSO%20DE%20ENSINO%20E%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/12994621"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "12994621",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "MATEMÁTICA, Inclusão, Estatística, Aluno com deficiência visual, Acessibilidade"
- ],
- "thumbnail": "./assets/images/thumbs/capes-12994621.svg",
- "resumo": "Esta pesquisa teve por objetivo promover o diálogo entre a inclusão de alunos com deficiência visual e o ensino e a aprendizagem de Estatística, baseado na variabilidade dos dados, de maneira introdutória e intuitiva. Assim, nos orientamos pela seguinte questão: Como proporcionar a inclusão de alunos com deficiência visual nas aulas de Estatística e iniciar a construção de significados dos conteúdos de média, moda e mediana, com vistas à variabilidade intuitiva? Assumindo que os conteúdos que envolvem esta disciplina demandam considerável tempo, apresentamos os conceitos como processo elementar prevendo seu fortalecimento e expansão no decorrer da Escola Básica. Considerando esses aspectos, fizemos uso da Tecnologia Assistiva com o desenvolvimento do material denominado “simulador de gráficos dot-plot e box-plot”. Adotamos como nosso referencial duas filosofias, a Inclusão e Análise Exploratória de Dados e como metodologia a pesquisa qualitativa. Verificamos que estratégias de ensino são cruciais para fomentar as aprendizagens de conceitos estatísticos para os alunos com deficiência visual. Assim, priorizamos as modalidades multissensoriais, audição e tato, com atividades cooperativas, noções matemáticas elementares, sem ênfase em fórmulas e definições. Desenvolvemos nosso trabalho com uma turma do 9º ano em uma Instituição na cidade de São Paulo, com oito alunos, dentre eles, quatro cegos, um com baixa visão e três videntes. Podemos afirmar que proporcionamos resultados expressivos quanto à inclusão dos alunos com deficiência visual envolvidos nesta pesquisa com implicações que apontam caminhos para o ensino e a aprendizagem de Estatística para esses alunos, com indícios de construção de significados sobre a variabilidade na distribuição dos dados. Não obstante a isto, podemos afirmar que proporcionamos quatro acessibilidades: instrumental, metodológica, programática e atitudinal. Acrescentamos que, ao contrário do que alguns autores afirmam, o fator tempo não prejudicou a inclusão dos alunos com deficiência visual, pois, trabalhamos com esses alunos simultaneamente aos videntes. Quanto aos conceitos estatísticos envolvidos, como prevíamos, o tempo foi insuficiente para que os alunos alcançassem a construção significativa, o que justifica a escolha de atividades introdutórias, com caráter intuitivo",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-12994621",
+  "autor": "Rita de Cassia Celio Pasquarelli",
+  "ano": 2015,
+  "tipo": "Dissertação",
+  "titulo": "A Inclusão de Alunos com Deficiência Visual do 9 Ano do Ensino Fundamental no Processo de Ensino e Aprendizagem de Estatística",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Ana Lucia Manrique",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "MATEMÁTICA, Inclusão, Estatística, Aluno com deficiência visual, Acessibilidade",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20INCLUS%C3%83O%20DE%20ALUNOS%20COM%20DEFICI%C3%8ANCIA%20VISUAL%20DO%209%20ANO%20DO%20ENSINO%20FUNDAMENTAL%20NO%20PROCESSO%20DE%20ENSINO%20E%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20INCLUS%C3%83O%20DE%20ALUNOS%20COM%20DEFICI%C3%8ANCIA%20VISUAL%20DO%209%20ANO%20DO%20ENSINO%20FUNDAMENTAL%20NO%20PROCESSO%20DE%20ENSINO%20E%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/12994621"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "12994621",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "MATEMÁTICA, Inclusão, Estatística, Aluno com deficiência visual, Acessibilidade"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-12994621.svg",
+  "resumo": "Esta pesquisa teve por objetivo promover o diálogo entre a inclusão de alunos com deficiência visual e o ensino e a aprendizagem de Estatística, baseado na variabilidade dos dados, de maneira introdutória e intuitiva. Assim, nos orientamos pela seguinte questão: Como proporcionar a inclusão de alunos com deficiência visual nas aulas de Estatística e iniciar a construção de significados dos conteúdos de média, moda e mediana, com vistas à variabilidade intuitiva? Assumindo que os conteúdos que envolvem esta disciplina demandam considerável tempo, apresentamos os conceitos como processo elementar prevendo seu fortalecimento e expansão no decorrer da Escola Básica. Considerando esses aspectos, fizemos uso da Tecnologia Assistiva com o desenvolvimento do material denominado “simulador de gráficos dot-plot e box-plot”. Adotamos como nosso referencial duas filosofias, a Inclusão e Análise Exploratória de Dados e como metodologia a pesquisa qualitativa. Verificamos que estratégias de ensino são cruciais para fomentar as aprendizagens de conceitos estatísticos para os alunos com deficiência visual. Assim, priorizamos as modalidades multissensoriais, audição e tato, com atividades cooperativas, noções matemáticas elementares, sem ênfase em fórmulas e definições. Desenvolvemos nosso trabalho com uma turma do 9º ano em uma Instituição na cidade de São Paulo, com oito alunos, dentre eles, quatro cegos, um com baixa visão e três videntes. Podemos afirmar que proporcionamos resultados expressivos quanto à inclusão dos alunos com deficiência visual envolvidos nesta pesquisa com implicações que apontam caminhos para o ensino e a aprendizagem de Estatística para esses alunos, com indícios de construção de significados sobre a variabilidade na distribuição dos dados. Não obstante a isto, podemos afirmar que proporcionamos quatro acessibilidades: instrumental, metodológica, programática e atitudinal. Acrescentamos que, ao contrário do que alguns autores afirmam, o fator tempo não prejudicou a inclusão dos alunos com deficiência visual, pois, trabalhamos com esses alunos simultaneamente aos videntes. Quanto aos conceitos estatísticos envolvidos, como prevíamos, o tempo foi insuficiente para que os alunos alcançassem a construção significativa, o que justifica a escolha de atividades introdutórias, com caráter intuitivo",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

@@ -1,60 +1,60 @@
 {
- "id": "capes-37629880",
- "autor": "Wanessa Mayara da Silva",
- "ano": 2023,
- "tipo": "Dissertação",
- "titulo": "Média Aritmética na Perspectiva do Letramento Estatístico nos Anos Finais: Compreensão de Professores e Possibilidades de Ensino",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Liliane Maria Teixeira Lima de Carvalho",
- "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Média Aritmética; Letramento Estatístico; Formação de Professores de Matemática; Ensino Fundamental Anos Finais.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22M%C3%89DIA%20ARITM%C3%89TICA%20NA%20PERSPECTIVA%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20NOS%20ANOS%20FINAIS%3A%20COMPREENS%C3%83O%20DE%20PROFESSORES%20E%20POSSIBILIDADES%20DE%20ENSINO%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=M%C3%89DIA%20ARITM%C3%89TICA%20NA%20PERSPECTIVA%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20NOS%20ANOS%20FINAIS%3A%20COMPREENS%C3%83O%20DE%20PROFESSORES%20E%20POSSIBILIDADES%20DE%20ENSINO&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37629880"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "37629880",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Média Aritmética",
-  "Letramento Estatístico",
-  "Formação de Professores de Matemática",
-  "Ensino Fundamental Anos Finais."
- ],
- "thumbnail": "./assets/images/thumbs/capes-37629880.svg",
- "resumo": "O conceito de média aritmética se encontra presente nas mais variadas situações e contextos, como, por exemplo, nos meios de comunicação para veicular notícias diversificadas. A leitura de notícias da mídia envolve análises e avaliações críticas baseadas em elementos do conhecimento e disposicionais e requer das pessoas certo nível de letramento estatístico (LE), conforme modelo teórico de Iddo Gal. Nesta pesquisa analisa-se, em termos gerais, a compreensão do conceito de média aritmética por professores de Matemática dos anos finais do Ensino Fundamental, buscando identificar possibilidades para o ensino desse conteúdo em sala de aula a partir da perspectiva do LE. Em termos específicos busca-se identificar conhecimentos prévios de professores de Matemática dos anos finais sobre situações envolvendo o uso da média aritmética; caracterizar abordagens de ensino sobre situações envolvendo o uso da média; e, analisar com professores de matemática possibilidades de ensino do conceito de média na perspectiva do LE. A metodologia, de cunho qualitativo, envolveu realização de questionário virtual com 14 professores de matemática de escolas localizadas em diferentes municípios do estado de Pernambuco; e de grupo focal com quatro desses professores, os quais aceitaram continuar participando da pesquisa. O questionário envolveu questões abertas e fechadas sobre perfil e formação dos participantes, e aspectos relacionados a compreensão do conceito de média aritmética. A maioria dos professores compreendeu esse conceito relacionando-o à definição de média simples. Além disso, muitos deles não reconhecem as propriedades da média e têm dificuldades em interpretá-las em gráficos estatísticos. Um erro comum foi eles reconhecerem a média destacando os resultados que mais se repetem, confundindo assim com o conceito de moda. Eles também apresentaram dificuldades em compreender o conceito de média móvel. O grupo focal, realizado de modo síncrono em dois encontros no Google Meet e de forma assíncrona com o auxílio do WhatsApp, incluiu problematizações, teorizações e elaboração de atividade em duplas, para o ensino do conceito de média nos anos finais. Os encontros oportunizaram aos participantes reflexões e análises sobre tipos de erros na resolução de problemas de média aritmética na perspectiva do LE. As abordagens propostas pelos docentes apresentaram-se potencialmente mobilizadoras de questionamentos críticos, possibilitando articulações dos elementos de disposição e do conhecimento. Os resultados apontam para a relevância do ensino da média aritmética nos anos finais com ênfase no Letramento Estatístico.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "letramento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-37629880",
+  "autor": "Wanessa Mayara da Silva",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "Média Aritmética na Perspectiva do Letramento Estatístico nos Anos Finais: Compreensão de Professores e Possibilidades de Ensino",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Liliane Maria Teixeira Lima de Carvalho",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Média Aritmética; Letramento Estatístico; Formação de Professores de Matemática; Ensino Fundamental Anos Finais.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22M%C3%89DIA%20ARITM%C3%89TICA%20NA%20PERSPECTIVA%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20NOS%20ANOS%20FINAIS%3A%20COMPREENS%C3%83O%20DE%20PROFESSORES%20E%20POSSIBILIDADES%20DE%20ENSINO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=M%C3%89DIA%20ARITM%C3%89TICA%20NA%20PERSPECTIVA%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20NOS%20ANOS%20FINAIS%3A%20COMPREENS%C3%83O%20DE%20PROFESSORES%20E%20POSSIBILIDADES%20DE%20ENSINO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37629880"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37629880",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Média Aritmética",
+    "Letramento Estatístico",
+    "Formação de Professores de Matemática",
+    "Ensino Fundamental Anos Finais."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37629880.svg",
+  "resumo": "O conceito de média aritmética se encontra presente nas mais variadas situações e contextos, como, por exemplo, nos meios de comunicação para veicular notícias diversificadas. A leitura de notícias da mídia envolve análises e avaliações críticas baseadas em elementos do conhecimento e disposicionais e requer das pessoas certo nível de letramento estatístico (LE), conforme modelo teórico de Iddo Gal. Nesta pesquisa analisa-se, em termos gerais, a compreensão do conceito de média aritmética por professores de Matemática dos anos finais do Ensino Fundamental, buscando identificar possibilidades para o ensino desse conteúdo em sala de aula a partir da perspectiva do LE. Em termos específicos busca-se identificar conhecimentos prévios de professores de Matemática dos anos finais sobre situações envolvendo o uso da média aritmética; caracterizar abordagens de ensino sobre situações envolvendo o uso da média; e, analisar com professores de matemática possibilidades de ensino do conceito de média na perspectiva do LE. A metodologia, de cunho qualitativo, envolveu realização de questionário virtual com 14 professores de matemática de escolas localizadas em diferentes municípios do estado de Pernambuco; e de grupo focal com quatro desses professores, os quais aceitaram continuar participando da pesquisa. O questionário envolveu questões abertas e fechadas sobre perfil e formação dos participantes, e aspectos relacionados a compreensão do conceito de média aritmética. A maioria dos professores compreendeu esse conceito relacionando-o à definição de média simples. Além disso, muitos deles não reconhecem as propriedades da média e têm dificuldades em interpretá-las em gráficos estatísticos. Um erro comum foi eles reconhecerem a média destacando os resultados que mais se repetem, confundindo assim com o conceito de moda. Eles também apresentaram dificuldades em compreender o conceito de média móvel. O grupo focal, realizado de modo síncrono em dois encontros no Google Meet e de forma assíncrona com o auxílio do WhatsApp, incluiu problematizações, teorizações e elaboração de atividade em duplas, para o ensino do conceito de média nos anos finais. Os encontros oportunizaram aos participantes reflexões e análises sobre tipos de erros na resolução de problemas de média aritmética na perspectiva do LE. As abordagens propostas pelos docentes apresentaram-se potencialmente mobilizadoras de questionamentos críticos, possibilitando articulações dos elementos de disposição e do conhecimento. Os resultados apontam para a relevância do ensino da média aritmética nos anos finais com ênfase no Letramento Estatístico.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
 }

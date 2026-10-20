@@ -1,60 +1,60 @@
 {
- "id": "capes-30268701",
- "autor": "Rejane Padilha Quedi",
- "ano": 2019,
- "tipo": "Dissertação",
- "titulo": "Estatística no Ensino Médio: uma proposta teórica-metodológica fundamentada na Teoria da Aprendizagem Significativa",
- "instituicao": "Fundação Universidade de Passo Fundo",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Luiz Marcelo Darroz",
- "programa": "Ensino de Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino de Estatística; Educação Básica; Aprendizagem Significativa",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Estat%C3%ADstica%20no%20Ensino%20M%C3%A9dio%3A%20uma%20proposta%20te%C3%B3rica-metodol%C3%B3gica%20fundamentada%20na%20Teoria%20da%20Aprendizagem%20Significativa%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estat%C3%ADstica%20no%20Ensino%20M%C3%A9dio%3A%20uma%20proposta%20te%C3%B3rica-metodol%C3%B3gica%20fundamentada%20na%20Teoria%20da%20Aprendizagem%20Significativa&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30268701"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "30268701",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino de Estatística",
-  "Educação Básica",
-  "Aprendizagem Significativa"
- ],
- "thumbnail": "./assets/images/thumbs/capes-30268701.svg",
- "resumo": "A presente investigação parte da percepção de que, ao ingressar em um curso superior, os estudantes apresentam significativas lacunas conceituais, o que, muitas vezes, é responsável por um alto índice de reprovação nas disciplinas da Área de Estatística. As reprovações confirmam a falta de compreensão e de domínio desses conceitos, seja para serem utilizados na disciplina de Estatística ou em situações de interpretação e análise de dados em outras disciplinas. Nesse contexto, evidencia-se a necessidade de desenvolvimento de estratégias e de metodologias de ensino que possam promover aprendizagens significativas, duradouras e profundas na Educação Básica. Com essa percepção, formulou-se a seguinte questão: Como uma sequência didática de conceitos básicos de Estatística pode ser um material, potencialmente, significativo para o ensino da área? Para responder a tal indagação, elaborou-se uma sequência didática para abordar os conceitos básicos de Estatística que foi estruturada de acordo com os pressupostos da Teoria da Aprendizagem Significativa, de David Paul Ausubel, sendo dividida em cinco encontros e implementada com um grupo de oito acadêmicos do sexto nível do curso de Matemática – Licenciatura, da Universidade de Passo Fundo, na disciplina de Metodologia do Ensino de Matemática III. A investigação, classificada como qualitativa e participante, foi efetivada com base na análise das entrevistas semiestruturadas realizadas com os acadêmicos e nos registros efetuados pela professora pesquisadora no diário de bordo. Os dados coletados foram analisados, a fim de evidenciar se a sequência didática se caracteriza como um material potencialmente significativo na percepção de futuros professores de Matemática, de acordo com as seguintes categorias: capacidade de relacionar os conteúdos estudados com os conhecimentos anteriores dos estudantes; promoção da diferenciação progressiva e a reconciliação integrativa; materiais utilizados; estrutura da proposta; participação e comprometimento nas atividades. Os resultados indicam que a sequência didática proposta pode ser considerada um material potencialmente significativo na percepção dos futuros professores de Matemática, pois foi capaz de instigá-los a buscar mais conhecimentos e possibilitou a percepção da importância da utilização de estratégias criativas para o estudo da área no Ensino Médio. Por fim, destaca-se que essa dissertação é acompanhada de um produto educacional que reúne o material utilizado nos encontros e a sequência didática desenvolvida. Tal produto está disponível no site <http://educapes.capes.gov.br/handle/capes/552764>.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-30268701",
+  "autor": "Rejane Padilha Quedi",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "Estatística no Ensino Médio: uma proposta teórica-metodológica fundamentada na Teoria da Aprendizagem Significativa",
+  "instituicao": "Fundação Universidade de Passo Fundo",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Luiz Marcelo Darroz",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Estatística; Educação Básica; Aprendizagem Significativa",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Estat%C3%ADstica%20no%20Ensino%20M%C3%A9dio%3A%20uma%20proposta%20te%C3%B3rica-metodol%C3%B3gica%20fundamentada%20na%20Teoria%20da%20Aprendizagem%20Significativa%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estat%C3%ADstica%20no%20Ensino%20M%C3%A9dio%3A%20uma%20proposta%20te%C3%B3rica-metodol%C3%B3gica%20fundamentada%20na%20Teoria%20da%20Aprendizagem%20Significativa&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30268701"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30268701",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Estatística",
+    "Educação Básica",
+    "Aprendizagem Significativa"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30268701.svg",
+  "resumo": "A presente investigação parte da percepção de que, ao ingressar em um curso superior, os estudantes apresentam significativas lacunas conceituais, o que, muitas vezes, é responsável por um alto índice de reprovação nas disciplinas da Área de Estatística. As reprovações confirmam a falta de compreensão e de domínio desses conceitos, seja para serem utilizados na disciplina de Estatística ou em situações de interpretação e análise de dados em outras disciplinas. Nesse contexto, evidencia-se a necessidade de desenvolvimento de estratégias e de metodologias de ensino que possam promover aprendizagens significativas, duradouras e profundas na Educação Básica. Com essa percepção, formulou-se a seguinte questão: Como uma sequência didática de conceitos básicos de Estatística pode ser um material, potencialmente, significativo para o ensino da área? Para responder a tal indagação, elaborou-se uma sequência didática para abordar os conceitos básicos de Estatística que foi estruturada de acordo com os pressupostos da Teoria da Aprendizagem Significativa, de David Paul Ausubel, sendo dividida em cinco encontros e implementada com um grupo de oito acadêmicos do sexto nível do curso de Matemática – Licenciatura, da Universidade de Passo Fundo, na disciplina de Metodologia do Ensino de Matemática III. A investigação, classificada como qualitativa e participante, foi efetivada com base na análise das entrevistas semiestruturadas realizadas com os acadêmicos e nos registros efetuados pela professora pesquisadora no diário de bordo. Os dados coletados foram analisados, a fim de evidenciar se a sequência didática se caracteriza como um material potencialmente significativo na percepção de futuros professores de Matemática, de acordo com as seguintes categorias: capacidade de relacionar os conteúdos estudados com os conhecimentos anteriores dos estudantes; promoção da diferenciação progressiva e a reconciliação integrativa; materiais utilizados; estrutura da proposta; participação e comprometimento nas atividades. Os resultados indicam que a sequência didática proposta pode ser considerada um material potencialmente significativo na percepção dos futuros professores de Matemática, pois foi capaz de instigá-los a buscar mais conhecimentos e possibilitou a percepção da importância da utilização de estratégias criativas para o estudo da área no Ensino Médio. Por fim, destaca-se que essa dissertação é acompanhada de um produto educacional que reúne o material utilizado nos encontros e a sequência didática desenvolvida. Tal produto está disponível no site <http://educapes.capes.gov.br/handle/capes/552764>.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

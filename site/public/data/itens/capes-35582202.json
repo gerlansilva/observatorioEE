@@ -1,60 +1,60 @@
 {
- "id": "capes-35582202",
- "autor": "Wanderson Pinto Moreira",
- "ano": 2021,
- "tipo": "Dissertação",
- "titulo": "Modelagem Matemática e Educação Estatística: Formulação, Tabulação e Análise do Inquérito Sorológico com Estudantes do Ensino Fundamental",
- "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
- "cidade": "",
- "estado": "Espírito Santo",
- "regiao": "Sudeste",
- "orientador": "Luciano Lessa Lorenzoni",
- "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Modelagem Matemática.; Educação Estatística. Competências Estatísticas. Inquérito Sorológico",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22MODELAGEM%20MATEM%C3%81TICA%20E%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20FORMULA%C3%87%C3%83O%2C%20TABULA%C3%87%C3%83O%20E%20AN%C3%81LISE%20DO%20INQU%C3%89RITO%20SOROL%C3%93GICO%20COM%20ESTUDANTES%20DO%20ENSINO%20FUNDAMENTAL%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=MODELAGEM%20MATEM%C3%81TICA%20E%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20FORMULA%C3%87%C3%83O%2C%20TABULA%C3%87%C3%83O%20E%20AN%C3%81LISE%20DO%20INQU%C3%89RITO%20SOROL%C3%93GICO%20COM%20ESTUDANTES%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35582202"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "35582202",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Modelagem Matemática.",
-  "Educação Estatística. Competências Estatísticas. Inquérito Sorológico"
- ],
- "thumbnail": "./assets/images/thumbs/capes-35582202.svg",
- "resumo": "Ministrar aulas de Matemática que possibilitem uma aproximação com a realidade dos alunos é uma possibilidade a ser trabalhada por meio de atividades de Modelagem Matemática. Em um momento que o mundo enfrenta a pandemia da Covid-19, uma quantidade muito grande de dados e informações são apresentados pelos jornais e pela comunidade científica. Essas informações precisam fazer sentido para os alunos para que eles consigam, a partir de uma leitura crítica desses dados, entender o real impacto da pandemia em suas vidas, na de seus familiares, no seu entorno e no mundo. A leitura desses dados e as análises das informações extraídas podem ser feitas à luz da Educação Estatística a partir de atividades que possibilitem o desenvolvimento das competências estatísticas tais como o pensamento, o raciocínio e o letramento estatístico. Assim, esta pesquisa tem como questão investigativa central: quais as contribuições da Modelagem Matemática para o desenvolvimento do raciocínio, pensamento e letramento estatísticos em uma turma do 8º Ano do Ensino Fundamental? O objetivo geral dessa pesquisa é analisar o desenvolvimento das competências estatísticas numa atividade de Modelagem Matemática em uma turma do 8º Ano do Ensino Fundamental, por meio da formulação de um Inquérito Sorológico, considerando o momento da Pandemia da Covid-19. Essa pesquisa é de cunho qualitativo, pois seu desenvolvimento visa interpretar fenômenos e dados em uma situação real do cotidiano, o diário de campo, gravações das aulas online, printscreens das atividades e análise do plano de ensino que será previamente preparado. Como resultado observou-se que a metodologia de Modelagem Matemática aplicada por meio de etapas fomentou o desenvolvimento das competências estatísticas com os alunos de modo gradual, uma vez que os conteúdos, o contexto e as tarefas dentro da atividade se combinaram para criar um ambiente onde fosse possível pensar sobre os dados, usar as ferramentas e se comunicar usando a linguagem adequada para discorrer análises sobre os dados coletados.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": [
-  "40853546"
- ]
+  "id": "capes-35582202",
+  "autor": "Wanderson Pinto Moreira",
+  "ano": 2021,
+  "tipo": "Dissertação",
+  "titulo": "Modelagem Matemática e Educação Estatística: Formulação, Tabulação e Análise do Inquérito Sorológico com Estudantes do Ensino Fundamental",
+  "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+  "cidade": "",
+  "estado": "Espírito Santo",
+  "regiao": "Sudeste",
+  "orientador": "Luciano Lessa Lorenzoni",
+  "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Modelagem Matemática.; Educação Estatística. Competências Estatísticas. Inquérito Sorológico",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22MODELAGEM%20MATEM%C3%81TICA%20E%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20FORMULA%C3%87%C3%83O%2C%20TABULA%C3%87%C3%83O%20E%20AN%C3%81LISE%20DO%20INQU%C3%89RITO%20SOROL%C3%93GICO%20COM%20ESTUDANTES%20DO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=MODELAGEM%20MATEM%C3%81TICA%20E%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20FORMULA%C3%87%C3%83O%2C%20TABULA%C3%87%C3%83O%20E%20AN%C3%81LISE%20DO%20INQU%C3%89RITO%20SOROL%C3%93GICO%20COM%20ESTUDANTES%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35582202"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "35582202",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Modelagem Matemática.",
+    "Educação Estatística. Competências Estatísticas. Inquérito Sorológico"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-35582202.svg",
+  "resumo": "Ministrar aulas de Matemática que possibilitem uma aproximação com a realidade dos alunos é uma possibilidade a ser trabalhada por meio de atividades de Modelagem Matemática. Em um momento que o mundo enfrenta a pandemia da Covid-19, uma quantidade muito grande de dados e informações são apresentados pelos jornais e pela comunidade científica. Essas informações precisam fazer sentido para os alunos para que eles consigam, a partir de uma leitura crítica desses dados, entender o real impacto da pandemia em suas vidas, na de seus familiares, no seu entorno e no mundo. A leitura desses dados e as análises das informações extraídas podem ser feitas à luz da Educação Estatística a partir de atividades que possibilitem o desenvolvimento das competências estatísticas tais como o pensamento, o raciocínio e o letramento estatístico. Assim, esta pesquisa tem como questão investigativa central: quais as contribuições da Modelagem Matemática para o desenvolvimento do raciocínio, pensamento e letramento estatísticos em uma turma do 8º Ano do Ensino Fundamental? O objetivo geral dessa pesquisa é analisar o desenvolvimento das competências estatísticas numa atividade de Modelagem Matemática em uma turma do 8º Ano do Ensino Fundamental, por meio da formulação de um Inquérito Sorológico, considerando o momento da Pandemia da Covid-19. Essa pesquisa é de cunho qualitativo, pois seu desenvolvimento visa interpretar fenômenos e dados em uma situação real do cotidiano, o diário de campo, gravações das aulas online, printscreens das atividades e análise do plano de ensino que será previamente preparado. Como resultado observou-se que a metodologia de Modelagem Matemática aplicada por meio de etapas fomentou o desenvolvimento das competências estatísticas com os alunos de modo gradual, uma vez que os conteúdos, o contexto e as tarefas dentro da atividade se combinaram para criar um ambiente onde fosse possível pensar sobre os dados, usar as ferramentas e se comunicar usando a linguagem adequada para discorrer análises sobre os dados coletados.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": [
+    "40853546"
+  ]
 }

@@ -1,58 +1,58 @@
 {
- "id": "capes-11119040",
- "autor": "Sheila Heydt Requia",
- "ano": 2015,
- "tipo": "Dissertação",
- "titulo": "Investigação Matemática: Uma Proposta de Ensino de Estatística para o 8° Ano do Ensino Fundamental",
- "instituicao": "Centro Universitário Franciscano",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Vanilde Bisognin",
- "programa": "Programa de Pós-Graduação em Ensino de Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Matemática. Investigação Matemática. Estatística.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22INVESTIGA%C3%87%C3%83O%20MATEM%C3%81TICA%3A%20UMA%20PROPOSTA%20DE%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20PARA%20O%208%C2%B0%20ANO%20DO%20ENSINO%20FUNDAMENTAL%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=INVESTIGA%C3%87%C3%83O%20MATEM%C3%81TICA%3A%20UMA%20PROPOSTA%20DE%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20PARA%20O%208%C2%B0%20ANO%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/11119040"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "11119040",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Matemática. Investigação Matemática. Estatística."
- ],
- "thumbnail": "./assets/images/thumbs/capes-11119040.svg",
- "resumo": "Este trabalho teve como objetivo analisar se a metodologia da investigação matemática contribui para o ensino de conceitos básicos de Estatística em uma turma do 8° ano do Ensino Fundamental. Os participantes da pesquisa foram 24 alunos de uma escola pública municipal da cidade de Santa Maria – RS. Esta pesquisa desenvolveu-se a partir da motivação profissional em propor atividades investigativas envolvendo os conceitos de Estatística. A metodologia do trabalho foi fundamentada a partir da abordagem qualitativa de pesquisa, onde a pesquisadora teve participação direta em todas as etapas da pesquisa e os instrumentos de coleta de dados utilizados foram a observação participante, o diário de campo para o registro dos acontecimentos durante a aplicação das unidades propostas e a análise dos documentos produzidos pelos alunos. Também foram realizadas gravações em vídeo e áudio para tornar mais fiel e precisa a compreensão e a análise dos diálogos durante a realização da investigação. Durante a investigação foi aplicada uma sequência didática subdividida em duas unidades de ensino que tinham como propósito a análise do processo seguido pelos alunos na construção dos conceitos básicos de Estatística, utilizando a metodologia da investigação matemática. Como resultado das análises, pôde-se evidenciar que a grande maioria dos alunos assumiu papel ativo durante as etapas da investigação, favorecendo o desenvolvimento de competências que englobam a comunicação, a tomada de decisões, o trabalho em equipe, a discussão e a argumentação, que vão além do cálculo matemático. Outro aspecto a ser destacado foi o grande envolvimento e entusiasmo dos alunos neste tipo de trabalho, mesmo tendo contato com a metodologia pela primeira vez no âmbito escolar. Nesse sentido, os resultados obtidos permitiram verificar que, após a aplicação da sequência didática, a metodologia da investigação matemática, apoiada às Tecnologias da Informação e Comunicação, contribuiu efetivamente para a aprendizagem de conceitos de Estatística e possibilitou um maior envolvimento dos mesmos nas aulas de Matemática.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-11119040",
+  "autor": "Sheila Heydt Requia",
+  "ano": 2015,
+  "tipo": "Dissertação",
+  "titulo": "Investigação Matemática: Uma Proposta de Ensino de Estatística para o 8° Ano do Ensino Fundamental",
+  "instituicao": "Centro Universitário Franciscano",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Vanilde Bisognin",
+  "programa": "Programa de Pós-Graduação em Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Matemática. Investigação Matemática. Estatística.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22INVESTIGA%C3%87%C3%83O%20MATEM%C3%81TICA%3A%20UMA%20PROPOSTA%20DE%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20PARA%20O%208%C2%B0%20ANO%20DO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=INVESTIGA%C3%87%C3%83O%20MATEM%C3%81TICA%3A%20UMA%20PROPOSTA%20DE%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20PARA%20O%208%C2%B0%20ANO%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/11119040"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "11119040",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Matemática. Investigação Matemática. Estatística."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-11119040.svg",
+  "resumo": "Este trabalho teve como objetivo analisar se a metodologia da investigação matemática contribui para o ensino de conceitos básicos de Estatística em uma turma do 8° ano do Ensino Fundamental. Os participantes da pesquisa foram 24 alunos de uma escola pública municipal da cidade de Santa Maria – RS. Esta pesquisa desenvolveu-se a partir da motivação profissional em propor atividades investigativas envolvendo os conceitos de Estatística. A metodologia do trabalho foi fundamentada a partir da abordagem qualitativa de pesquisa, onde a pesquisadora teve participação direta em todas as etapas da pesquisa e os instrumentos de coleta de dados utilizados foram a observação participante, o diário de campo para o registro dos acontecimentos durante a aplicação das unidades propostas e a análise dos documentos produzidos pelos alunos. Também foram realizadas gravações em vídeo e áudio para tornar mais fiel e precisa a compreensão e a análise dos diálogos durante a realização da investigação. Durante a investigação foi aplicada uma sequência didática subdividida em duas unidades de ensino que tinham como propósito a análise do processo seguido pelos alunos na construção dos conceitos básicos de Estatística, utilizando a metodologia da investigação matemática. Como resultado das análises, pôde-se evidenciar que a grande maioria dos alunos assumiu papel ativo durante as etapas da investigação, favorecendo o desenvolvimento de competências que englobam a comunicação, a tomada de decisões, o trabalho em equipe, a discussão e a argumentação, que vão além do cálculo matemático. Outro aspecto a ser destacado foi o grande envolvimento e entusiasmo dos alunos neste tipo de trabalho, mesmo tendo contato com a metodologia pela primeira vez no âmbito escolar. Nesse sentido, os resultados obtidos permitiram verificar que, após a aplicação da sequência didática, a metodologia da investigação matemática, apoiada às Tecnologias da Informação e Comunicação, contribuiu efetivamente para a aprendizagem de conceitos de Estatística e possibilitou um maior envolvimento dos mesmos nas aulas de Matemática.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

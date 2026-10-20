@@ -1,58 +1,58 @@
 {
- "id": "capes-20312449",
- "autor": "Tamires Nogueira de Queiroz",
- "ano": 2015,
- "tipo": "Dissertação",
- "titulo": "Expressões Afetivas na Interpretação de Dados Estatísticos",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Carlos Eduardo Ferreira Monteiro",
- "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Expressões afetivas. Interpretação de dados estatísticos. Letramento estatístico. Educação Estatística.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22EXPRESS%C3%95ES%20AFETIVAS%20NA%20INTERPRETA%C3%87%C3%83O%20DE%20DADOS%20ESTAT%C3%8DSTICOS%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=EXPRESS%C3%95ES%20AFETIVAS%20NA%20INTERPRETA%C3%87%C3%83O%20DE%20DADOS%20ESTAT%C3%8DSTICOS&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20312449"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "20312449",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Expressões afetivas. Interpretação de dados estatísticos. Letramento estatístico. Educação Estatística."
- ],
- "thumbnail": "./assets/images/thumbs/capes-20312449.svg",
- "resumo": "Pesquisas realizadas recentemente sobre interpretação de dados estatísticos têm investigado que o processo de interpretação é complexo e envolve aspectos cognitivos e afetivos. Em geral, as pesquisas vinculadas à Educação Estatística investigam os aspectos cognitivos e técnicos envolvidos na interpretação de dados. O objetivo geral deste estudo é analisar as expressões afetivas durante o processo de interpretação de dados estatísticos. Os objetivos específicos da pesquisa são: discutir as expressões afetivas como elemento do processo de interpretação de dados estatísticos em diferentes tarefas; e identificar as expressões afetivas apresentadas por estudantes de Licenciatura em Pedagogia e Bacharelado em Estatística, em situações de interpretação de dados. Os dados da pesquisa são referentes a entrevistas com 11 participantes, sendo seis do curso de Pedagogia e cinco de Estatística. Cada entrevista compõe-se de três etapas. Na primeira etapa, as questões vinculam-se a informações gerais de cada participante, bem como às suas vivências com a Estatística. A segunda parte da entrevista refere-se a questões relacionadas a quatro tarefas de interpretação de dados. A tarefa 1 é composta por uma notícia retirada de uma revista nacional sobre acesso ao exame de mamografia; a tarefa 2 está associada a um gráfico de um relatório oficial sobre óbitos em acidentes de trânsito envolvendo a população jovem no Brasil; a tarefa 3 aborda uma pesquisa realizada em Chicago sobre o acesso a armas por estudantes em idade escolar; a tarefa 4 refere-se a uma tabela retirada de um relatório oficial sobre projeção de viagens no Brasil, entre os anos de 2010 e 2014. A etapa 3 da pesquisa trata-se de quatro perguntas finais sobre as tarefas que os estudantes haviam terminado de interpretar, as quais questionam aos mesmos por quais destas perguntas eles mais ou menos interessaram-se por interpretar. As entrevistas estão gravadas em vídeo com software Camtasia Studio 8, que também permite o registro do áudio e das manipulações efetuadas no computador. As entrevistas têm uma duração média de 65 minutos e estão transcritas e organizadas em forma de protocolos de fala. Para a análise e categorização dos dados utilizamos o software de análise de dados qualitativos webQDA. Os dados indicam que as respostas dos participantes envolvem, majoritariamente, algum tipo de expressão afetiva e que estas não podem ser desconsideradas durante o processo de interpretação de dados. Analisamos, ainda, que os estudantes de Pedagogia apresentaram um quantitativo maior de expressões afetivas, mas o teor de tais expressões é semelhante entre os cursos e não foram encontradas evidências que apontam o curso de graduação como motivo de tal diferença. As respostas que envolviam conhecimentos próprios da área de Matemática e Estatística também foram analisadas. No entanto, não foram encontradas diferenças nas frequências de ocorrência desta categoria entre os grupos investigados. Novas pesquisas devem ser feitas para investigar a possível relação do curso de graduação com as interpretações dos participantes e o papel das expressões afetivas no processo de interpretação de dados.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "letramento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-20312449",
+  "autor": "Tamires Nogueira de Queiroz",
+  "ano": 2015,
+  "tipo": "Dissertação",
+  "titulo": "Expressões Afetivas na Interpretação de Dados Estatísticos",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Carlos Eduardo Ferreira Monteiro",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Expressões afetivas. Interpretação de dados estatísticos. Letramento estatístico. Educação Estatística.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22EXPRESS%C3%95ES%20AFETIVAS%20NA%20INTERPRETA%C3%87%C3%83O%20DE%20DADOS%20ESTAT%C3%8DSTICOS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=EXPRESS%C3%95ES%20AFETIVAS%20NA%20INTERPRETA%C3%87%C3%83O%20DE%20DADOS%20ESTAT%C3%8DSTICOS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20312449"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "20312449",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Expressões afetivas. Interpretação de dados estatísticos. Letramento estatístico. Educação Estatística."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-20312449.svg",
+  "resumo": "Pesquisas realizadas recentemente sobre interpretação de dados estatísticos têm investigado que o processo de interpretação é complexo e envolve aspectos cognitivos e afetivos. Em geral, as pesquisas vinculadas à Educação Estatística investigam os aspectos cognitivos e técnicos envolvidos na interpretação de dados. O objetivo geral deste estudo é analisar as expressões afetivas durante o processo de interpretação de dados estatísticos. Os objetivos específicos da pesquisa são: discutir as expressões afetivas como elemento do processo de interpretação de dados estatísticos em diferentes tarefas; e identificar as expressões afetivas apresentadas por estudantes de Licenciatura em Pedagogia e Bacharelado em Estatística, em situações de interpretação de dados. Os dados da pesquisa são referentes a entrevistas com 11 participantes, sendo seis do curso de Pedagogia e cinco de Estatística. Cada entrevista compõe-se de três etapas. Na primeira etapa, as questões vinculam-se a informações gerais de cada participante, bem como às suas vivências com a Estatística. A segunda parte da entrevista refere-se a questões relacionadas a quatro tarefas de interpretação de dados. A tarefa 1 é composta por uma notícia retirada de uma revista nacional sobre acesso ao exame de mamografia; a tarefa 2 está associada a um gráfico de um relatório oficial sobre óbitos em acidentes de trânsito envolvendo a população jovem no Brasil; a tarefa 3 aborda uma pesquisa realizada em Chicago sobre o acesso a armas por estudantes em idade escolar; a tarefa 4 refere-se a uma tabela retirada de um relatório oficial sobre projeção de viagens no Brasil, entre os anos de 2010 e 2014. A etapa 3 da pesquisa trata-se de quatro perguntas finais sobre as tarefas que os estudantes haviam terminado de interpretar, as quais questionam aos mesmos por quais destas perguntas eles mais ou menos interessaram-se por interpretar. As entrevistas estão gravadas em vídeo com software Camtasia Studio 8, que também permite o registro do áudio e das manipulações efetuadas no computador. As entrevistas têm uma duração média de 65 minutos e estão transcritas e organizadas em forma de protocolos de fala. Para a análise e categorização dos dados utilizamos o software de análise de dados qualitativos webQDA. Os dados indicam que as respostas dos participantes envolvem, majoritariamente, algum tipo de expressão afetiva e que estas não podem ser desconsideradas durante o processo de interpretação de dados. Analisamos, ainda, que os estudantes de Pedagogia apresentaram um quantitativo maior de expressões afetivas, mas o teor de tais expressões é semelhante entre os cursos e não foram encontradas evidências que apontam o curso de graduação como motivo de tal diferença. As respostas que envolviam conhecimentos próprios da área de Matemática e Estatística também foram analisadas. No entanto, não foram encontradas diferenças nas frequências de ocorrência desta categoria entre os grupos investigados. Novas pesquisas devem ser feitas para investigar a possível relação do curso de graduação com as interpretações dos participantes e o papel das expressões afetivas no processo de interpretação de dados.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
 }

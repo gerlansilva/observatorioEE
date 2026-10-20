@@ -1,54 +1,54 @@
 {
- "id": "capes-10113676",
- "autor": "Magnus Cesar Ody",
- "ano": 2013,
- "tipo": "Dissertação",
- "titulo": "Literacia Estatística e Probabilística no Ensino Médio",
- "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Lori Viali",
- "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Literacia. Estatística. Probabilidade. Ensino Médio. Tratamento da Informação e da Incerteza.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22LITERACIA%20ESTAT%C3%8DSTICA%20E%20PROBABIL%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LITERACIA%20ESTAT%C3%8DSTICA%20E%20PROBABIL%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/10113676"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "10113676",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Literacia. Estatística. Probabilidade. Ensino Médio. Tratamento da Informação e da Incerteza."
- ],
- "thumbnail": "./assets/images/thumbs/capes-10113676.svg",
- "resumo": "O presente estudo teve como objetivo investigar a Literacia Estatística e Probabilística de alunos ingressantes e concluintes do Ensino Médio de duas escolas públicas de uma cidade da região metropolitana de Porto Alegre, RS. Tratou de identificar e analisar as habilidades e as competências em Literacia no Tratamento da Informação e da Incerteza. A pesquisa envolveu 21 turmas, sendo nove de uma escola da periferia e 12 de uma escola localizada na área central da cidade. O universo pesquisado envolveu 444 alunos. Os dados foram coletados por meio de um questionário formado por questões informativas para levantar identificações gerais e avaliativas com o propósito de identificar a Literacia. A pesquisa foi realizada por meio de uma extensa revisão bibliográfica e diferentes perspectivas teóricas. Apoiou-se, ainda, em documentos legais, especialmente os Parâmetros Curriculares Nacionais (PCN). A metodologia utilizada foi a de métodos mistos com base em Creswell (2010). A análise quantitativa foi feita de forma descritiva, apresentando resultados por meio de gráficos e tabelas. A análise qualitativa utilizou a metodologia da Textual Discursiva (MORAES; GALIAZZI, 2011). Os resultados indicam que os alunos ingressantes e concluintes do Ensino Médio apresentam limitadas habilidades na escrita, na leitura, no cálculo e na interpretação de dados contidos em gráficos e tabelas. Desse modo, o desempenho dos alunos foi insatisfatório ao considerar a Literacia enquanto uso de habilidades e competências. Alunos da terceira série tiveram melhores resultados que os alunos da primeira série, porém, com semelhantes dificuldades no Tratamento da Informação e da Incerteza. As habilidades e as competências demonstradas em cada série, associadas àquelas agregadas nesta etapa de ensino, mostram a defasagem na aprendizagem desse bloco de conteúdos na conclusão do Ensino Médio.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": null
+  "id": "capes-10113676",
+  "autor": "Magnus Cesar Ody",
+  "ano": 2013,
+  "tipo": "Dissertação",
+  "titulo": "Literacia Estatística e Probabilística no Ensino Médio",
+  "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Lori Viali",
+  "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Literacia. Estatística. Probabilidade. Ensino Médio. Tratamento da Informação e da Incerteza.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22LITERACIA%20ESTAT%C3%8DSTICA%20E%20PROBABIL%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LITERACIA%20ESTAT%C3%8DSTICA%20E%20PROBABIL%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/10113676"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "10113676",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Literacia. Estatística. Probabilidade. Ensino Médio. Tratamento da Informação e da Incerteza."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-10113676.svg",
+  "resumo": "O presente estudo teve como objetivo investigar a Literacia Estatística e Probabilística de alunos ingressantes e concluintes do Ensino Médio de duas escolas públicas de uma cidade da região metropolitana de Porto Alegre, RS. Tratou de identificar e analisar as habilidades e as competências em Literacia no Tratamento da Informação e da Incerteza. A pesquisa envolveu 21 turmas, sendo nove de uma escola da periferia e 12 de uma escola localizada na área central da cidade. O universo pesquisado envolveu 444 alunos. Os dados foram coletados por meio de um questionário formado por questões informativas para levantar identificações gerais e avaliativas com o propósito de identificar a Literacia. A pesquisa foi realizada por meio de uma extensa revisão bibliográfica e diferentes perspectivas teóricas. Apoiou-se, ainda, em documentos legais, especialmente os Parâmetros Curriculares Nacionais (PCN). A metodologia utilizada foi a de métodos mistos com base em Creswell (2010). A análise quantitativa foi feita de forma descritiva, apresentando resultados por meio de gráficos e tabelas. A análise qualitativa utilizou a metodologia da Textual Discursiva (MORAES; GALIAZZI, 2011). Os resultados indicam que os alunos ingressantes e concluintes do Ensino Médio apresentam limitadas habilidades na escrita, na leitura, no cálculo e na interpretação de dados contidos em gráficos e tabelas. Desse modo, o desempenho dos alunos foi insatisfatório ao considerar a Literacia enquanto uso de habilidades e competências. Alunos da terceira série tiveram melhores resultados que os alunos da primeira série, porém, com semelhantes dificuldades no Tratamento da Informação e da Incerteza. As habilidades e as competências demonstradas em cada série, associadas àquelas agregadas nesta etapa de ensino, mostram a defasagem na aprendizagem desse bloco de conteúdos na conclusão do Ensino Médio.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
 }

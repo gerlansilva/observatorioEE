@@ -1,62 +1,62 @@
 {
- "id": "capes-41756889",
- "autor": "Milena Vasconcelos Gomes",
- "ano": 2024,
- "tipo": "Dissertação",
- "titulo": "Letramento Estatístico na Perspectiva da Interdisciplinaridade",
- "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará",
- "cidade": "",
- "estado": "Ceará",
- "regiao": "Nordeste",
- "orientador": "Juscileide Braga de Castro",
- "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino de estatística; Atividades investigativas; Interdisciplinaridade; Ciclo investigativo PPDAC; Ensino Fundamental",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20ESTAT%C3%8DSTICO%20NA%20PERSPECTIVA%20DA%20INTERDISCIPLINARIDADE%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20ESTAT%C3%8DSTICO%20NA%20PERSPECTIVA%20DA%20INTERDISCIPLINARIDADE&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41756889"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "41756889",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino de estatística",
-  "Atividades investigativas",
-  "Interdisciplinaridade",
-  "Ciclo investigativo PPDAC",
-  "Ensino Fundamental"
- ],
- "thumbnail": "./assets/images/thumbs/capes-41756889.svg",
- "resumo": "Na sociedade atual, faz-se necessário o indivíduo ser letrado estatisticamente, visto que, cada vez mais há uma propagação de inúmeras informações em diferentes representações (textos, gráficos, infográficos, desenhos, entre outros). Nesse contexto, um indivíduo com Letramento Estatístico (LE) será capaz de ler, interpretar e analisar criticamente essas comunicações, de modo que assuma uma postura crítica e saiba tomar decisões com base em suas análises. Além disso, ter Letramento Estatístico contribui para a reflexão e ponderação acerca da veracidade dessas informações, contribuindo assim, para a identificação de possíveis falácias. Diante dessa relevância social do LE, esta pesquisa tem como objetivo analisar como uma Sequência de Ensino Interdisciplinar, com aporte na metodologia investigativa Problema, Planejamento, Dados, Análise e Conclusão (PPDAC), pode colaborar para a exploração do Letramento Estatístico e Científico de alunos do 6º ano do Ensino Fundamental. Para isso, inicialmente, realizou-se a elaboração e análise de uma Sequência de Ensino Interdisciplinar, que, posteriormente, foi implementada com 16 alunos do 6º ano do Ensino Fundamental de uma escola pública, localizada no município de Campo Maior, no Estado do Piauí. Com isso, pretendia-se possibilitar o ensino de estatística, de maneira a considerar as características da interdisciplinaridade, especialmente, o diálogo: entre as pessoas (alunos x alunos, alunos x pesquisadora); entre os conhecimentos de disciplinas diferentes (Ciências e Matemática) e, sobretudo, o diálogo com o contexto real em que os estudantes estão inseridos, isto é, suas vidas cotidianas e suas vivências. Quanto aos procedimentos de análise dos dados, ressalta-se que a análise e discussão da SEI se deu por meio do embasamento teórico e triangulação dos instrumentos utilizados e; para a análise dos dados coletados, durante o processo de intervenção, referentes ao LE, utilizou-se a análise de conteúdo. Como resultados, pontua-se que os estudantes, inicialmente, apresentavam inúmeras dificuldades quanto à Estatística e sua aplicabilidade, assim como na construção de representações gráficas; esses conhecimentos foram explorados ao longo do desenvolvimento da sequência, de modo que puderam compreender os procedimentos necessários para a realização de uma investigação, refletir sobre a origem dos dados e a necessidade deles, planejar e executar uma coleta de dados e comunicar seus resultados de maneira clara e correta, atentando-se às convenções das representações gráficas. Destaca-se ainda, que vivenciar uma investigação possibilitou que os estudantes mobilizassem conhecimento de contexto referente à poluição, reciclagem e preferências de disciplinas e atividades escolares. Esses estudantes ainda produziram uma comunicação científica, a revista “Estatística para a vida”, em que produziram matérias sobre suas problemáticas investigadas, comunicaram os resultados de suas pesquisas e produziram desenhos que representassem as matérias. Desse modo, afirma-se que a Sequência de Ensino Interdisciplinar implementada possibilitou não só a mobilização, mas também o aprofundamento dos componentes de conhecimento e disposicionais do LE desses estudantes.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística",
-  "letramento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-41756889",
+  "autor": "Milena Vasconcelos Gomes",
+  "ano": 2024,
+  "tipo": "Dissertação",
+  "titulo": "Letramento Estatístico na Perspectiva da Interdisciplinaridade",
+  "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará",
+  "cidade": "",
+  "estado": "Ceará",
+  "regiao": "Nordeste",
+  "orientador": "Juscileide Braga de Castro",
+  "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de estatística; Atividades investigativas; Interdisciplinaridade; Ciclo investigativo PPDAC; Ensino Fundamental",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20ESTAT%C3%8DSTICO%20NA%20PERSPECTIVA%20DA%20INTERDISCIPLINARIDADE%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20ESTAT%C3%8DSTICO%20NA%20PERSPECTIVA%20DA%20INTERDISCIPLINARIDADE&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41756889"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "41756889",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de estatística",
+    "Atividades investigativas",
+    "Interdisciplinaridade",
+    "Ciclo investigativo PPDAC",
+    "Ensino Fundamental"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-41756889.svg",
+  "resumo": "Na sociedade atual, faz-se necessário o indivíduo ser letrado estatisticamente, visto que, cada vez mais há uma propagação de inúmeras informações em diferentes representações (textos, gráficos, infográficos, desenhos, entre outros). Nesse contexto, um indivíduo com Letramento Estatístico (LE) será capaz de ler, interpretar e analisar criticamente essas comunicações, de modo que assuma uma postura crítica e saiba tomar decisões com base em suas análises. Além disso, ter Letramento Estatístico contribui para a reflexão e ponderação acerca da veracidade dessas informações, contribuindo assim, para a identificação de possíveis falácias. Diante dessa relevância social do LE, esta pesquisa tem como objetivo analisar como uma Sequência de Ensino Interdisciplinar, com aporte na metodologia investigativa Problema, Planejamento, Dados, Análise e Conclusão (PPDAC), pode colaborar para a exploração do Letramento Estatístico e Científico de alunos do 6º ano do Ensino Fundamental. Para isso, inicialmente, realizou-se a elaboração e análise de uma Sequência de Ensino Interdisciplinar, que, posteriormente, foi implementada com 16 alunos do 6º ano do Ensino Fundamental de uma escola pública, localizada no município de Campo Maior, no Estado do Piauí. Com isso, pretendia-se possibilitar o ensino de estatística, de maneira a considerar as características da interdisciplinaridade, especialmente, o diálogo: entre as pessoas (alunos x alunos, alunos x pesquisadora); entre os conhecimentos de disciplinas diferentes (Ciências e Matemática) e, sobretudo, o diálogo com o contexto real em que os estudantes estão inseridos, isto é, suas vidas cotidianas e suas vivências. Quanto aos procedimentos de análise dos dados, ressalta-se que a análise e discussão da SEI se deu por meio do embasamento teórico e triangulação dos instrumentos utilizados e; para a análise dos dados coletados, durante o processo de intervenção, referentes ao LE, utilizou-se a análise de conteúdo. Como resultados, pontua-se que os estudantes, inicialmente, apresentavam inúmeras dificuldades quanto à Estatística e sua aplicabilidade, assim como na construção de representações gráficas; esses conhecimentos foram explorados ao longo do desenvolvimento da sequência, de modo que puderam compreender os procedimentos necessários para a realização de uma investigação, refletir sobre a origem dos dados e a necessidade deles, planejar e executar uma coleta de dados e comunicar seus resultados de maneira clara e correta, atentando-se às convenções das representações gráficas. Destaca-se ainda, que vivenciar uma investigação possibilitou que os estudantes mobilizassem conhecimento de contexto referente à poluição, reciclagem e preferências de disciplinas e atividades escolares. Esses estudantes ainda produziram uma comunicação científica, a revista “Estatística para a vida”, em que produziram matérias sobre suas problemáticas investigadas, comunicaram os resultados de suas pesquisas e produziram desenhos que representassem as matérias. Desse modo, afirma-se que a Sequência de Ensino Interdisciplinar implementada possibilitou não só a mobilização, mas também o aprofundamento dos componentes de conhecimento e disposicionais do LE desses estudantes.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
 }

@@ -1,62 +1,62 @@
 {
- "id": "capes-37634528",
- "autor": "Marta da Silva Simoes",
- "ano": 2023,
- "tipo": "Dissertação",
- "titulo": "Contribuições do Ensino de Estatística na Tomada de Consciência do Risco da Obesidade e do Diabetes",
- "instituicao": "Universidade Estadual de Santa Cruz",
- "cidade": "",
- "estado": "Bahia",
- "regiao": "Nordeste",
- "orientador": "Irene Mauricio Cazorla",
- "programa": "Educação em Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Letramento Estatístico; Ciclo Investigativo; Ensino de Ciências por Investigação; Obesidade e Diabetes; Sequência de Ensino por Investigação",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22CONTRIBUI%C3%87%C3%95ES%20DO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20NA%20TOMADA%20DE%20CONSCI%C3%8ANCIA%20DO%20RISCO%20DA%20OBESIDADE%20E%20DO%20DIABETES%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CONTRIBUI%C3%87%C3%95ES%20DO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20NA%20TOMADA%20DE%20CONSCI%C3%8ANCIA%20DO%20RISCO%20DA%20OBESIDADE%20E%20DO%20DIABETES&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37634528"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "37634528",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Letramento Estatístico",
-  "Ciclo Investigativo",
-  "Ensino de Ciências por Investigação",
-  "Obesidade e Diabetes",
-  "Sequência de Ensino por Investigação"
- ],
- "thumbnail": "./assets/images/thumbs/capes-37634528.svg",
- "resumo": "mudança de estilo de vida da população em relação à hábitos alimentares e de atividade física, tem preocupado as autoridades de saúde, visto que isto está desencadeando uma epidemia de obesidade e diabetes. As pessoas são expostas e induzidas a consumir alimentos ultraprocessados, cada vez mais baratos e embalados em campanhas publicitárias milionárias e de desinformação. Nesse contexto, o objetivo desta dissertação foi construir e avaliar as possíveis contribuições de uma Sequência de Ensino Investigativo (SEI) envolvendo conceitos estatísticos, na tomada de consciência do risco da obesidade e do Diabetes Mellitus. A pesquisa é de abordagem quali-quantitativa, caracterizada como uma intervenção pedagógica e foi realizada em uma turma de 3° ano do Ensino Médio em uma escola pública do Sul da Bahia. Como referencial teórico para construir a SEI utilizamos o letramento estatístico, o ciclo investigativo e o ensino de ciências por investigação (EnCI). A SEI foi implementada pela pesquisadora, junto com a professora de Educação Física da turma. Os participantes preencheram quatro instrumentos, um questionário com questões gerais, duas escalas do tipo Likert, uma para mapear o nível de conhecimento sobre o diabetes e outra para os hábitos alimentares e de atividade física; e um instrumento para coletar dados antropométricos para o cálculo do Índice Massa Corpórea (IMC), da circunferência abdominal (CA) e do risco de diabetes. Esses dados foram organizados em um banco de dados. Para contextualizar o tema, os estudantes organizados em oito grupos realizaram leituras guiadas de reportagens sobre obesidade e diabetes e discutiram o tema com nutricionista. Para o tratamento dos dados, os grupos receberam o banco de dados e o Guia de Atividades, que contemplava a análise de uma variável estatística. Após a intervenção pedagógica, os estudantes preencheram novamente os instrumentos. Dentre os principais resultados destacamos o engajamento dos estudantes, que participaram de forma ativa ao longo da implementação da SEI na escola, aprimoraram suas concepções, passaram do uso de uma linguagem cotidiana, coloquial e ingênua para uma linguagem científica e aumentaram seu nível de conhecimento sobre o Diabetes. Os estudantes trabalharam conceitos estatísticos contidos em tabelas de distribuição de frequência simples e de dupla entrada e no gráfico de barras/colunas; manifestaram intenções de mudanças em seus hábitos alimentares e de atividade física, bem como despertaram consciência sobre o papel da escola, mais especificamente da merenda escolar na prevenção dessas doenças. Como limitações, foi observado algumas lacunas no tratamento dos números decimais por parte dos estudantes e para que a SEI seja viável na escola é preciso limitar a quantidade de variáveis a serem trabalhadas, recomendações que são apresentadas no Guia e Roteiro de Atividades, que pode servir de apoio para os professores do Ensino Médio que queiram ensinar Estatística na perspectiva da formação de cidadãos críticos, capazes de utilizar o conhecimento estatístico para a promoção do bem-estar pessoal e de sua comunidade.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística",
-  "letramento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-37634528",
+  "autor": "Marta da Silva Simoes",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "Contribuições do Ensino de Estatística na Tomada de Consciência do Risco da Obesidade e do Diabetes",
+  "instituicao": "Universidade Estadual de Santa Cruz",
+  "cidade": "",
+  "estado": "Bahia",
+  "regiao": "Nordeste",
+  "orientador": "Irene Mauricio Cazorla",
+  "programa": "Educação em Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Letramento Estatístico; Ciclo Investigativo; Ensino de Ciências por Investigação; Obesidade e Diabetes; Sequência de Ensino por Investigação",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22CONTRIBUI%C3%87%C3%95ES%20DO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20NA%20TOMADA%20DE%20CONSCI%C3%8ANCIA%20DO%20RISCO%20DA%20OBESIDADE%20E%20DO%20DIABETES%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CONTRIBUI%C3%87%C3%95ES%20DO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20NA%20TOMADA%20DE%20CONSCI%C3%8ANCIA%20DO%20RISCO%20DA%20OBESIDADE%20E%20DO%20DIABETES&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37634528"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37634528",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Letramento Estatístico",
+    "Ciclo Investigativo",
+    "Ensino de Ciências por Investigação",
+    "Obesidade e Diabetes",
+    "Sequência de Ensino por Investigação"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37634528.svg",
+  "resumo": "mudança de estilo de vida da população em relação à hábitos alimentares e de atividade física, tem preocupado as autoridades de saúde, visto que isto está desencadeando uma epidemia de obesidade e diabetes. As pessoas são expostas e induzidas a consumir alimentos ultraprocessados, cada vez mais baratos e embalados em campanhas publicitárias milionárias e de desinformação. Nesse contexto, o objetivo desta dissertação foi construir e avaliar as possíveis contribuições de uma Sequência de Ensino Investigativo (SEI) envolvendo conceitos estatísticos, na tomada de consciência do risco da obesidade e do Diabetes Mellitus. A pesquisa é de abordagem quali-quantitativa, caracterizada como uma intervenção pedagógica e foi realizada em uma turma de 3° ano do Ensino Médio em uma escola pública do Sul da Bahia. Como referencial teórico para construir a SEI utilizamos o letramento estatístico, o ciclo investigativo e o ensino de ciências por investigação (EnCI). A SEI foi implementada pela pesquisadora, junto com a professora de Educação Física da turma. Os participantes preencheram quatro instrumentos, um questionário com questões gerais, duas escalas do tipo Likert, uma para mapear o nível de conhecimento sobre o diabetes e outra para os hábitos alimentares e de atividade física; e um instrumento para coletar dados antropométricos para o cálculo do Índice Massa Corpórea (IMC), da circunferência abdominal (CA) e do risco de diabetes. Esses dados foram organizados em um banco de dados. Para contextualizar o tema, os estudantes organizados em oito grupos realizaram leituras guiadas de reportagens sobre obesidade e diabetes e discutiram o tema com nutricionista. Para o tratamento dos dados, os grupos receberam o banco de dados e o Guia de Atividades, que contemplava a análise de uma variável estatística. Após a intervenção pedagógica, os estudantes preencheram novamente os instrumentos. Dentre os principais resultados destacamos o engajamento dos estudantes, que participaram de forma ativa ao longo da implementação da SEI na escola, aprimoraram suas concepções, passaram do uso de uma linguagem cotidiana, coloquial e ingênua para uma linguagem científica e aumentaram seu nível de conhecimento sobre o Diabetes. Os estudantes trabalharam conceitos estatísticos contidos em tabelas de distribuição de frequência simples e de dupla entrada e no gráfico de barras/colunas; manifestaram intenções de mudanças em seus hábitos alimentares e de atividade física, bem como despertaram consciência sobre o papel da escola, mais especificamente da merenda escolar na prevenção dessas doenças. Como limitações, foi observado algumas lacunas no tratamento dos números decimais por parte dos estudantes e para que a SEI seja viável na escola é preciso limitar a quantidade de variáveis a serem trabalhadas, recomendações que são apresentadas no Guia e Roteiro de Atividades, que pode servir de apoio para os professores do Ensino Médio que queiram ensinar Estatística na perspectiva da formação de cidadãos críticos, capazes de utilizar o conhecimento estatístico para a promoção do bem-estar pessoal e de sua comunidade.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
 }

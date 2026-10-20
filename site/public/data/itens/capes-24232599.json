@@ -1,61 +1,61 @@
 {
- "id": "capes-24232599",
- "autor": "Leonardo da Silva Rosas",
- "ano": 2018,
- "tipo": "Dissertação",
- "titulo": "Ensino de análise combinatória por atividades",
- "instituicao": "Universidade do Estado do Pará",
- "cidade": "",
- "estado": "Pará",
- "regiao": "Norte",
- "orientador": "Pedro Franco de Sá",
- "programa": "ENSINO DE MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Engenharia Didática; Ensino de Matemática; Metodologia de Ensino; Ensino por atividade; Ensino de Análise Combinatória",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Ensino%20de%20an%C3%A1lise%20combinat%C3%B3ria%20por%20atividades%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Ensino%20de%20an%C3%A1lise%20combinat%C3%B3ria%20por%20atividades&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/24232599"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "24232599",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Engenharia Didática",
-  "Ensino de Matemática",
-  "Metodologia de Ensino",
-  "Ensino por atividade",
-  "Ensino de Análise Combinatória"
- ],
- "thumbnail": "./assets/images/thumbs/capes-24232599.svg",
- "resumo": "Este trabalho apresenta os resultados de uma pesquisa que teve como objetivo avaliar os efeitos de uma sequência didática diferente da tradicional, sobre a participação e o desempenho dos alunos na resolução de questões de Análise Combinatória. E a partir dessa investigação, procuramos responder problematizações como: A sequência didática proposta propicia uma participação efetiva e um bom desempenho dos alunos na resolução de questões de Análise Combinatória? A sequência oferecida aos alunos desenvolve competências e habilidades para resolverem problemas de Análise Combinatória? O referencial teórico adotado em nossa pesquisa tem como base a Teoria das Situações Didáticas de Brousseau (1996), o Ensino de Matemática por Atividades segundo Sá (2009) e o uso de jogos. Para se alcançar o objetivo do trabalho, optou-se pela Engenharia Didática como metodologia de pesquisa, que foi dividida nas seguintes etapas: primeiro as Análises Prévias, onde consta a fundamentação teórica, composta das seguintes etapas: Teoria das situações didáticas, o ensino de matemática por atividade e o uso de jogos no ensino de matemática; depois se escreve sobre o ensino de Matemática; em seguida sobre os resultados de estudos sobre o ensino de Análise Combinatória buscando as contribuições de vários autores, que têm dedicado seus estudos de pesquisa nessa área da matemática; a fundamentação matemática e por fim, os resultados de um estudo de campo desenvolvido com alunos que estavam cursando o 2º ano do ensino médio de uma escola pública de Belém. A segunda parte da pesquisa, concepção e análise a priori, descreve os testes e uma sequência didática para o ensino de Análise Combinatória. Já na terceira etapa da pesquisa, a experimentação, revela a produção das informações que ocorreu no mês de Maio e Junho de 2017, com base nos resultados de uma consulta a 32 alunos, do 1º ano do ensino médio, de uma escola pública do município de Vigia de Nazaré. Finalizando a pesquisa, a análise a posteriori e validação, onde ocorreram as análises dos resultados, com comparações percentuais entre os resultados e análise dos erros ocorridos nos testes, aplicação do Coeficiente de Correlação Linear de Pearson e do Teste de Hipótese. Todas essas análises e comparações validaram a pesquisa, já que ouve um aumento significativo no desempenho dos alunos entre o teste inicial e final, foi provado que os fatores socioeconômicos, vivenciados pelos alunos não influenciaram na evolução que eles tiveram entre os testes, mostrando assim que a metodologia de ensino surtiu o efeito esperado.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de combinatória"
- ],
- "ids_duplicados": []
+  "id": "capes-24232599",
+  "autor": "Leonardo da Silva Rosas",
+  "ano": 2018,
+  "tipo": "Dissertação",
+  "titulo": "Ensino de análise combinatória por atividades",
+  "instituicao": "Universidade do Estado do Pará",
+  "cidade": "",
+  "estado": "Pará",
+  "regiao": "Norte",
+  "orientador": "Pedro Franco de Sá",
+  "programa": "ENSINO DE MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Engenharia Didática; Ensino de Matemática; Metodologia de Ensino; Ensino por atividade; Ensino de Análise Combinatória",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Ensino%20de%20an%C3%A1lise%20combinat%C3%B3ria%20por%20atividades%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Ensino%20de%20an%C3%A1lise%20combinat%C3%B3ria%20por%20atividades&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/24232599"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "24232599",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Engenharia Didática",
+    "Ensino de Matemática",
+    "Metodologia de Ensino",
+    "Ensino por atividade",
+    "Ensino de Análise Combinatória"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-24232599.svg",
+  "resumo": "Este trabalho apresenta os resultados de uma pesquisa que teve como objetivo avaliar os efeitos de uma sequência didática diferente da tradicional, sobre a participação e o desempenho dos alunos na resolução de questões de Análise Combinatória. E a partir dessa investigação, procuramos responder problematizações como: A sequência didática proposta propicia uma participação efetiva e um bom desempenho dos alunos na resolução de questões de Análise Combinatória? A sequência oferecida aos alunos desenvolve competências e habilidades para resolverem problemas de Análise Combinatória? O referencial teórico adotado em nossa pesquisa tem como base a Teoria das Situações Didáticas de Brousseau (1996), o Ensino de Matemática por Atividades segundo Sá (2009) e o uso de jogos. Para se alcançar o objetivo do trabalho, optou-se pela Engenharia Didática como metodologia de pesquisa, que foi dividida nas seguintes etapas: primeiro as Análises Prévias, onde consta a fundamentação teórica, composta das seguintes etapas: Teoria das situações didáticas, o ensino de matemática por atividade e o uso de jogos no ensino de matemática; depois se escreve sobre o ensino de Matemática; em seguida sobre os resultados de estudos sobre o ensino de Análise Combinatória buscando as contribuições de vários autores, que têm dedicado seus estudos de pesquisa nessa área da matemática; a fundamentação matemática e por fim, os resultados de um estudo de campo desenvolvido com alunos que estavam cursando o 2º ano do ensino médio de uma escola pública de Belém. A segunda parte da pesquisa, concepção e análise a priori, descreve os testes e uma sequência didática para o ensino de Análise Combinatória. Já na terceira etapa da pesquisa, a experimentação, revela a produção das informações que ocorreu no mês de Maio e Junho de 2017, com base nos resultados de uma consulta a 32 alunos, do 1º ano do ensino médio, de uma escola pública do município de Vigia de Nazaré. Finalizando a pesquisa, a análise a posteriori e validação, onde ocorreram as análises dos resultados, com comparações percentuais entre os resultados e análise dos erros ocorridos nos testes, aplicação do Coeficiente de Correlação Linear de Pearson e do Teste de Hipótese. Todas essas análises e comparações validaram a pesquisa, já que ouve um aumento significativo no desempenho dos alunos entre o teste inicial e final, foi provado que os fatores socioeconômicos, vivenciados pelos alunos não influenciaram na evolução que eles tiveram entre os testes, mostrando assim que a metodologia de ensino surtiu o efeito esperado.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de combinatória"
+  ],
+  "ids_duplicados": []
 }

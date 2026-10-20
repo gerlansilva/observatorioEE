@@ -1,63 +1,63 @@
 {
- "id": "capes-35799258",
- "autor": "Dayse Bivar da Silva",
- "ano": 2021,
- "tipo": "Tese",
- "titulo": "O Contexto Escolar na Aprendizagem sobre Gráficos para Estudantes Cegas dos Anos Iniciais",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Gilda Lisboa Guimaraes",
- "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Estatística; Anos Iniciais; Estudantes Cegas; Ensino e Aprendizagem; AEE.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20CONTEXTO%20ESCOLAR%20NA%20APRENDIZAGEM%20SOBRE%20GR%C3%81FICOS%20PARA%20ESTUDANTES%20CEGAS%20DOS%20ANOS%20INICIAIS%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20CONTEXTO%20ESCOLAR%20NA%20APRENDIZAGEM%20SOBRE%20GR%C3%81FICOS%20PARA%20ESTUDANTES%20CEGAS%20DOS%20ANOS%20INICIAIS&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35799258"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "35799258",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Estatística",
-  "Anos Iniciais",
-  "Estudantes Cegas",
-  "Ensino e Aprendizagem",
-  "AEE."
- ],
- "thumbnail": "./assets/images/thumbs/capes-35799258.svg",
- "resumo": "Como destacado por Vygotsky (1997) há muitos anos, a cultura é a principal esfera em que é possivel compensar a cegueira. É preciso termos em mente que as principais dificuldades não são cognitivas e que o meio pode constituir-se na principal barreira que dificulta a construção de um novo caminho, impedindo, assim, o desenvolvimento da pessoa cega. Nesse sentido, acreditamos que estudantes dos anos iniciais de escolarização são capazes de compreender e analisar, de forma crítica, informações veiculadas em gráficos para tomar decisões a partir de suas conclusões, desde que o planejamento das aulas, a metodologia e os recursos didáticos utilizados atendam as especificidades desses estudantes. Assim, esse estudo teve por objetivo analisar a compreensão de estudantes cegas dos anos iniciais do Ensino Fundamental em atividades de interpretação e construção de gráficos, considerando o contexto escolar. Assim, mais especificamente buscamos compreender como o atendimento educacional especializado é realizado na escola e como este vem subsidiando professores para o ensino de representações em gráficos com estudantes cegos; investigar como professores de sala comum trabalham com ensino de representações em gráficos para turmas que possuem estudantes cegos; investigar a aprendizagem de estudantes cegos resolvendo situações de interpretação de gráfico de barras e construção de pictogramas. Para contemplar esses objetivos, identificamos duas escolas da região metropolitana de Recife (Escola A e Escola B) que tinham estudantes cegas matriculadas. Em seguida, realizamos entrevistas com as professoras do AEE, observamos uma aula sobre gráficos ministrada por cada professora da sala comum, seguida de uma entrevista ao final da aula e, por fim, entrevistamos as estudantes cegas. Para esta entrevista com as estudantes selecionadas, elaboramos, a partir de dados reais, quatro atividades envolvendo gráficos, sendo duas de interpretação de gráfico de barras e duas de construção de pictogramas. Nossos resultados revelam que a escola não está preparada para a inclusão. Observou-se que apesar das professoras reconhecerem a importância da aprendizagem do conteúdo de gráficos pelas estudantes cegas e se mostrarem, de modo geral, empenhadas em viabilizar o acesso delas às representações gráficas, as profissionais carecem de uma prática pedagógica inclusiva para atender as singularidades das estudantes cegas em seu processo de aprendizagem, a fim de levá-las a participar ativamente das atividades desenvolvidas em sala de aula de forma mais autônoma possível. Acrescido a isso, o pouco domínio conceitual dos conceitos estatísticos e metodológicos, refletiu no desenvolvimento de uma aula tradicional e não problematizadora, não favorecendo a aprendizagem dos estudantes da turma, incluindo a estudante cega. Esse dado evidencia a necessidade de investimentos na formação inicial e continuada dos professores da sala comum para que sejam levados a compreenderem conceitos estatísticos e a desenvolverem práticas pedagógicas inclusivas, a fim de garantir a todos os estudantes o direito de aprender. O pouco conhecimento das estudantes sobre representações em gráficos ficou evidente. Entretanto, as estudantes apresentaram aprendizagens durante a entrevista com a pesquisadora, cuja mediação esteve centrada em associar a leitura tátil com a linguagem oral descritiva, permitindo que as estudantes cegas tivessem acesso às imagens e atribuíssem significado a elas, a partir da fala descritiva. Além disso, a mediação realizada pela pesquisadora permitia reflexões por parte das estudantes sobre o que estava sendo realizado, o que também foi fundamental para favorecer a compreensão das representações gráficas. Assim, defendemos que estudantes cegas dos anos iniciais conseguem aprender sobre representações em gráficos se os professores do atendimento educacional especializado e da sala comum desenvolverem um trabalho colaborativo atendendo cada um às suas atribuições. Além disso, são prementes processos formativos de professores dos anos iniciais do Ensino Fundamental sobre conhecimentos estatísticos e que os levem a atuar pedagogicamente em uma perspectiva inclusiva. Esses são fundamentais para que professores da sala comum tenham condições de desenvolver um ensino articulado, propondo atividades desafiadoras, envolvendo didáticas e materiais adequados que favoreçam a aprendizagem de todos os estudantes da turma.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": [
-  "40849285"
- ]
+  "id": "capes-35799258",
+  "autor": "Dayse Bivar da Silva",
+  "ano": 2021,
+  "tipo": "Tese",
+  "titulo": "O Contexto Escolar na Aprendizagem sobre Gráficos para Estudantes Cegas dos Anos Iniciais",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Gilda Lisboa Guimaraes",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Anos Iniciais; Estudantes Cegas; Ensino e Aprendizagem; AEE.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20CONTEXTO%20ESCOLAR%20NA%20APRENDIZAGEM%20SOBRE%20GR%C3%81FICOS%20PARA%20ESTUDANTES%20CEGAS%20DOS%20ANOS%20INICIAIS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20CONTEXTO%20ESCOLAR%20NA%20APRENDIZAGEM%20SOBRE%20GR%C3%81FICOS%20PARA%20ESTUDANTES%20CEGAS%20DOS%20ANOS%20INICIAIS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35799258"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "35799258",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Anos Iniciais",
+    "Estudantes Cegas",
+    "Ensino e Aprendizagem",
+    "AEE."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-35799258.svg",
+  "resumo": "Como destacado por Vygotsky (1997) há muitos anos, a cultura é a principal esfera em que é possivel compensar a cegueira. É preciso termos em mente que as principais dificuldades não são cognitivas e que o meio pode constituir-se na principal barreira que dificulta a construção de um novo caminho, impedindo, assim, o desenvolvimento da pessoa cega. Nesse sentido, acreditamos que estudantes dos anos iniciais de escolarização são capazes de compreender e analisar, de forma crítica, informações veiculadas em gráficos para tomar decisões a partir de suas conclusões, desde que o planejamento das aulas, a metodologia e os recursos didáticos utilizados atendam as especificidades desses estudantes. Assim, esse estudo teve por objetivo analisar a compreensão de estudantes cegas dos anos iniciais do Ensino Fundamental em atividades de interpretação e construção de gráficos, considerando o contexto escolar. Assim, mais especificamente buscamos compreender como o atendimento educacional especializado é realizado na escola e como este vem subsidiando professores para o ensino de representações em gráficos com estudantes cegos; investigar como professores de sala comum trabalham com ensino de representações em gráficos para turmas que possuem estudantes cegos; investigar a aprendizagem de estudantes cegos resolvendo situações de interpretação de gráfico de barras e construção de pictogramas. Para contemplar esses objetivos, identificamos duas escolas da região metropolitana de Recife (Escola A e Escola B) que tinham estudantes cegas matriculadas. Em seguida, realizamos entrevistas com as professoras do AEE, observamos uma aula sobre gráficos ministrada por cada professora da sala comum, seguida de uma entrevista ao final da aula e, por fim, entrevistamos as estudantes cegas. Para esta entrevista com as estudantes selecionadas, elaboramos, a partir de dados reais, quatro atividades envolvendo gráficos, sendo duas de interpretação de gráfico de barras e duas de construção de pictogramas. Nossos resultados revelam que a escola não está preparada para a inclusão. Observou-se que apesar das professoras reconhecerem a importância da aprendizagem do conteúdo de gráficos pelas estudantes cegas e se mostrarem, de modo geral, empenhadas em viabilizar o acesso delas às representações gráficas, as profissionais carecem de uma prática pedagógica inclusiva para atender as singularidades das estudantes cegas em seu processo de aprendizagem, a fim de levá-las a participar ativamente das atividades desenvolvidas em sala de aula de forma mais autônoma possível. Acrescido a isso, o pouco domínio conceitual dos conceitos estatísticos e metodológicos, refletiu no desenvolvimento de uma aula tradicional e não problematizadora, não favorecendo a aprendizagem dos estudantes da turma, incluindo a estudante cega. Esse dado evidencia a necessidade de investimentos na formação inicial e continuada dos professores da sala comum para que sejam levados a compreenderem conceitos estatísticos e a desenvolverem práticas pedagógicas inclusivas, a fim de garantir a todos os estudantes o direito de aprender. O pouco conhecimento das estudantes sobre representações em gráficos ficou evidente. Entretanto, as estudantes apresentaram aprendizagens durante a entrevista com a pesquisadora, cuja mediação esteve centrada em associar a leitura tátil com a linguagem oral descritiva, permitindo que as estudantes cegas tivessem acesso às imagens e atribuíssem significado a elas, a partir da fala descritiva. Além disso, a mediação realizada pela pesquisadora permitia reflexões por parte das estudantes sobre o que estava sendo realizado, o que também foi fundamental para favorecer a compreensão das representações gráficas. Assim, defendemos que estudantes cegas dos anos iniciais conseguem aprender sobre representações em gráficos se os professores do atendimento educacional especializado e da sala comum desenvolverem um trabalho colaborativo atendendo cada um às suas atribuições. Além disso, são prementes processos formativos de professores dos anos iniciais do Ensino Fundamental sobre conhecimentos estatísticos e que os levem a atuar pedagogicamente em uma perspectiva inclusiva. Esses são fundamentais para que professores da sala comum tenham condições de desenvolver um ensino articulado, propondo atividades desafiadoras, envolvendo didáticas e materiais adequados que favoreçam a aprendizagem de todos os estudantes da turma.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": [
+    "40849285"
+  ]
 }

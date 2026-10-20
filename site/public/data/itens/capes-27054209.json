@@ -1,54 +1,54 @@
 {
- "id": "capes-27054209",
- "autor": "Simone Gabriely da Silva Lima",
- "ano": 2019,
- "tipo": "Dissertação",
- "titulo": "Uma Proposta de Apropriação Tecnológica Mediada Através de Metodologias Ativas e Recursos Educacionais Abertos no Ensino de Estatística do Ensino Médio",
- "instituicao": "Universidade do Estado da Bahia",
- "cidade": "",
- "estado": "Bahia",
- "regiao": "Nordeste",
- "orientador": "Marcus Tulio de Freitas Pinheiro",
- "programa": "Gestão e Tecnologias Aplicadas à Educação",
- "area": "Educação",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "A ser disponibilizado",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22UMA%20PROPOSTA%20DE%20APROPRIA%C3%87%C3%83O%20TECNOL%C3%93GICA%20MEDIADA%20ATRAV%C3%89S%20DE%20METODOLOGIAS%20ATIVAS%20E%20RECURSOS%20EDUCACIONAIS%20ABERTOS%20NO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20DO%20ENSINO%20M%C3%89DIO%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UMA%20PROPOSTA%20DE%20APROPRIA%C3%87%C3%83O%20TECNOL%C3%93GICA%20MEDIADA%20ATRAV%C3%89S%20DE%20METODOLOGIAS%20ATIVAS%20E%20RECURSOS%20EDUCACIONAIS%20ABERTOS%20NO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20DO%20ENSINO%20M%C3%89DIO&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27054209"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "27054209",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "A ser disponibilizado"
- ],
- "thumbnail": "./assets/images/thumbs/capes-27054209.svg",
- "resumo": "A ser disponibilizado.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": null
+  "id": "capes-27054209",
+  "autor": "Simone Gabriely da Silva Lima",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "Uma Proposta de Apropriação Tecnológica Mediada Através de Metodologias Ativas e Recursos Educacionais Abertos no Ensino de Estatística do Ensino Médio",
+  "instituicao": "Universidade do Estado da Bahia",
+  "cidade": "",
+  "estado": "Bahia",
+  "regiao": "Nordeste",
+  "orientador": "Marcus Tulio de Freitas Pinheiro",
+  "programa": "Gestão e Tecnologias Aplicadas à Educação",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "A ser disponibilizado",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22UMA%20PROPOSTA%20DE%20APROPRIA%C3%87%C3%83O%20TECNOL%C3%93GICA%20MEDIADA%20ATRAV%C3%89S%20DE%20METODOLOGIAS%20ATIVAS%20E%20RECURSOS%20EDUCACIONAIS%20ABERTOS%20NO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20DO%20ENSINO%20M%C3%89DIO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UMA%20PROPOSTA%20DE%20APROPRIA%C3%87%C3%83O%20TECNOL%C3%93GICA%20MEDIADA%20ATRAV%C3%89S%20DE%20METODOLOGIAS%20ATIVAS%20E%20RECURSOS%20EDUCACIONAIS%20ABERTOS%20NO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20DO%20ENSINO%20M%C3%89DIO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27054209"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "27054209",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "A ser disponibilizado"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-27054209.svg",
+  "resumo": "A ser disponibilizado.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
 }

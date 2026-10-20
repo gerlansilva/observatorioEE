@@ -1,59 +1,59 @@
 {
- "id": "capes-27767996",
- "autor": "Ednei Leite de Araujo",
- "ano": 2017,
- "tipo": "Dissertação",
- "titulo": "Concepções de Educação Estatística: Narrativas de Professores Membros do GT-12 da Sbem",
- "instituicao": "Universidade Federal do Paraná",
- "cidade": "",
- "estado": "Paraná",
- "regiao": "Sul",
- "orientador": "Luciane Mulazani dos Santos",
- "programa": "Educação em Ciências e em Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Estatística; Alfabetização Estatística; História Oral",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22CONCEP%C3%87%C3%95ES%20DE%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20NARRATIVAS%20DE%20PROFESSORES%20MEMBROS%20DO%20GT-12%20DA%20SBEM%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CONCEP%C3%87%C3%95ES%20DE%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20NARRATIVAS%20DE%20PROFESSORES%20MEMBROS%20DO%20GT-12%20DA%20SBEM&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27767996"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "27767996",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Estatística",
-  "Alfabetização Estatística",
-  "História Oral"
- ],
- "thumbnail": "./assets/images/thumbs/capes-27767996.svg",
- "resumo": "Nesta pesquisa, o objetivo principal é apresentar a área de conhecimento Educação Estatística tal como é concebida por alguns pesquisadores da Educação Matemática, atuantes do GT-12 da SBEM (Ensino de Probabilidade e Estatística). O problema de pesquisa consiste em investigar que concepções de Educação Estatística podem ser identificadas nas narrativas de professores pesquisadores atuantes do GT-12. A partir da memória dos colaboradores, levantamos aspectos históricos importantes da trajetória das pesquisas em Educação Estatística, explicitando temas como Letramento e Alfabetização em Estatística, Educação Estatística e Educação Matemática, marcos históricos das pesquisas brasileiras na área e formação do professor que ensina Estatística. Todas as entrevistas realizadas seguiram os procedimentos metodológicos da História Oral e uma interpretação das narrativas foi feita com base na análise (narrativa) de narrativas. Desse modo, apresentamos possíveis caminhos para pesquisas futuras, contribuindo assim para a evolução das pesquisas e para o ensino de Estatística em todos os seus níveis.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-27767996",
+  "autor": "Ednei Leite de Araujo",
+  "ano": 2017,
+  "tipo": "Dissertação",
+  "titulo": "Concepções de Educação Estatística: Narrativas de Professores Membros do GT-12 da Sbem",
+  "instituicao": "Universidade Federal do Paraná",
+  "cidade": "",
+  "estado": "Paraná",
+  "regiao": "Sul",
+  "orientador": "Luciane Mulazani dos Santos",
+  "programa": "Educação em Ciências e em Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Alfabetização Estatística; História Oral",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22CONCEP%C3%87%C3%95ES%20DE%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20NARRATIVAS%20DE%20PROFESSORES%20MEMBROS%20DO%20GT-12%20DA%20SBEM%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CONCEP%C3%87%C3%95ES%20DE%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20NARRATIVAS%20DE%20PROFESSORES%20MEMBROS%20DO%20GT-12%20DA%20SBEM&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27767996"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "27767996",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Alfabetização Estatística",
+    "História Oral"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-27767996.svg",
+  "resumo": "Nesta pesquisa, o objetivo principal é apresentar a área de conhecimento Educação Estatística tal como é concebida por alguns pesquisadores da Educação Matemática, atuantes do GT-12 da SBEM (Ensino de Probabilidade e Estatística). O problema de pesquisa consiste em investigar que concepções de Educação Estatística podem ser identificadas nas narrativas de professores pesquisadores atuantes do GT-12. A partir da memória dos colaboradores, levantamos aspectos históricos importantes da trajetória das pesquisas em Educação Estatística, explicitando temas como Letramento e Alfabetização em Estatística, Educação Estatística e Educação Matemática, marcos históricos das pesquisas brasileiras na área e formação do professor que ensina Estatística. Todas as entrevistas realizadas seguiram os procedimentos metodológicos da História Oral e uma interpretação das narrativas foi feita com base na análise (narrativa) de narrativas. Desse modo, apresentamos possíveis caminhos para pesquisas futuras, contribuindo assim para a evolução das pesquisas e para o ensino de Estatística em todos os seus níveis.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

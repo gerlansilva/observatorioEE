@@ -1,61 +1,61 @@
 {
- "id": "capes-35646770",
- "autor": "Cintia Poffo",
- "ano": 2021,
- "tipo": "Dissertação",
- "titulo": "Letramento Estatístico na Perspectiva do Ensino por Meio da Resolução de Problemas",
- "instituicao": "Universidade Regional de Blumenau",
- "cidade": "",
- "estado": "Santa Catarina",
- "regiao": "Sul",
- "orientador": "Janaina Poffo Possamai",
- "programa": "Ensino de Ciências Naturais e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Resolução de Problemas; letramento estatístico; problemas estatísticos; ciclo de alfabetização; anos iniciais do Ensino Fundamental",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20ESTAT%C3%8DSTICO%20NA%20PERSPECTIVA%20DO%20ENSINO%20POR%20MEIO%20DA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20ESTAT%C3%8DSTICO%20NA%20PERSPECTIVA%20DO%20ENSINO%20POR%20MEIO%20DA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35646770"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "35646770",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Resolução de Problemas",
-  "letramento estatístico",
-  "problemas estatísticos",
-  "ciclo de alfabetização",
-  "anos iniciais do Ensino Fundamental"
- ],
- "thumbnail": "./assets/images/thumbs/capes-35646770.svg",
- "resumo": "A dissertação “Letramento Estatístico na perspectiva do ensino através da Resolução de Problemas no primeiro ano do Ensino Fundamental” foi desenvolvida no grupo de pesquisa em “Estudos e Pesquisa em Educação e Educação Matemática”, pertencente à linha de pesquisa “Formação e Práticas Docentes em Contextos de Ensino de Ciências Naturais e Matemática”, do Programa de Pós-Graduação em Ensino de Ciências Naturais e Matemática (PPGECIM), da Universidade Regional de Blumenau (FURB). Nesta pesquisa, de natureza qualitativa, buscouse analisar implicações da Metodologia de Ensino-Aprendizagem-Avaliação de Matemática através da Resolução de Problemas no desenvolvimento do Letramento Estatístico com crianças do 1º Ano do Ensino Fundamental. Para tanto, inicialmente, constituiu-se referenciais teóricos que nortearam a elaboração de uma sequência de problemas que foi submetida à apreciação por professores da área de Pedagogia. Essa sequência de oito problemas foi utilizada em quatro turmas de 1º Ano do Ensino Fundamental, nas quais, em duas, a pesquisadora atuou conjuntamente com os professores regentes na mediação das situações de aprendizagem e, em outras duas, o desenvolvimento e a mediação foram realizados por professoras colaboradoras. Dessa prática que foi realizada, foram coletados os dados por meio de anotações, registro das crianças, gravações e contribuições das professoras colaboradoras, os quais foram analisados com base em critérios norteados pelos referenciais teóricos relacionados à Resolução de Problemas e ao Letramento Estatístico. Os resultados indicaram o envolvimento das crianças como destaque na metodologia, especialmente no que se refere à socialização e discussão dos problemas estatísticos relacionados com o seu cotidiano. Ao final, percebeu-se que as crianças se tornaram mais participativas, questionadoras e interessadas em comunicar e compartilhar suas ideias. A aprendizagem com significado no desenvolvimento do Letramento Estatístico e as contribuições para a formação integral das crianças foram construídas por meio da Resolução de Problemas. Para chegar aos resultados, as crianças necessitaram de uma mediação observadora e incentivadora, ressaltando o papel do professor na utilização da Metodologia de Ensino-Aprendizagem-Avaliação de Matemática através da Resolução de Problemas para que resultados positivos sejam verificados.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "letramento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-35646770",
+  "autor": "Cintia Poffo",
+  "ano": 2021,
+  "tipo": "Dissertação",
+  "titulo": "Letramento Estatístico na Perspectiva do Ensino por Meio da Resolução de Problemas",
+  "instituicao": "Universidade Regional de Blumenau",
+  "cidade": "",
+  "estado": "Santa Catarina",
+  "regiao": "Sul",
+  "orientador": "Janaina Poffo Possamai",
+  "programa": "Ensino de Ciências Naturais e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Resolução de Problemas; letramento estatístico; problemas estatísticos; ciclo de alfabetização; anos iniciais do Ensino Fundamental",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20ESTAT%C3%8DSTICO%20NA%20PERSPECTIVA%20DO%20ENSINO%20POR%20MEIO%20DA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20ESTAT%C3%8DSTICO%20NA%20PERSPECTIVA%20DO%20ENSINO%20POR%20MEIO%20DA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35646770"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "35646770",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Resolução de Problemas",
+    "letramento estatístico",
+    "problemas estatísticos",
+    "ciclo de alfabetização",
+    "anos iniciais do Ensino Fundamental"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-35646770.svg",
+  "resumo": "A dissertação “Letramento Estatístico na perspectiva do ensino através da Resolução de Problemas no primeiro ano do Ensino Fundamental” foi desenvolvida no grupo de pesquisa em “Estudos e Pesquisa em Educação e Educação Matemática”, pertencente à linha de pesquisa “Formação e Práticas Docentes em Contextos de Ensino de Ciências Naturais e Matemática”, do Programa de Pós-Graduação em Ensino de Ciências Naturais e Matemática (PPGECIM), da Universidade Regional de Blumenau (FURB). Nesta pesquisa, de natureza qualitativa, buscouse analisar implicações da Metodologia de Ensino-Aprendizagem-Avaliação de Matemática através da Resolução de Problemas no desenvolvimento do Letramento Estatístico com crianças do 1º Ano do Ensino Fundamental. Para tanto, inicialmente, constituiu-se referenciais teóricos que nortearam a elaboração de uma sequência de problemas que foi submetida à apreciação por professores da área de Pedagogia. Essa sequência de oito problemas foi utilizada em quatro turmas de 1º Ano do Ensino Fundamental, nas quais, em duas, a pesquisadora atuou conjuntamente com os professores regentes na mediação das situações de aprendizagem e, em outras duas, o desenvolvimento e a mediação foram realizados por professoras colaboradoras. Dessa prática que foi realizada, foram coletados os dados por meio de anotações, registro das crianças, gravações e contribuições das professoras colaboradoras, os quais foram analisados com base em critérios norteados pelos referenciais teóricos relacionados à Resolução de Problemas e ao Letramento Estatístico. Os resultados indicaram o envolvimento das crianças como destaque na metodologia, especialmente no que se refere à socialização e discussão dos problemas estatísticos relacionados com o seu cotidiano. Ao final, percebeu-se que as crianças se tornaram mais participativas, questionadoras e interessadas em comunicar e compartilhar suas ideias. A aprendizagem com significado no desenvolvimento do Letramento Estatístico e as contribuições para a formação integral das crianças foram construídas por meio da Resolução de Problemas. Para chegar aos resultados, as crianças necessitaram de uma mediação observadora e incentivadora, ressaltando o papel do professor na utilização da Metodologia de Ensino-Aprendizagem-Avaliação de Matemática através da Resolução de Problemas para que resultados positivos sejam verificados.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
 }

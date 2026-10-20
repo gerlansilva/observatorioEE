@@ -1,61 +1,61 @@
 {
- "id": "capes-38432430",
- "autor": "Ayrton Araujo Kiill",
- "ano": 2023,
- "tipo": "Dissertação",
- "titulo": "Estatística e Educação Socioemocional Integradas para Discutir Consumo Sustentáel no Ensino Fundamental",
- "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Diva Valerio Novaes",
- "programa": "Ensino de Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Socioemocional; Educação Estatística; Consumo; Consumismo; Sustentabilidade Ambiental",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22ESTAT%C3%8DSTICA%20E%20EDUCA%C3%87%C3%83O%20SOCIOEMOCIONAL%20INTEGRADAS%20PARA%20DISCUTIR%20CONSUMO%20SUSTENT%C3%81EL%20NO%20ENSINO%20FUNDAMENTAL%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESTAT%C3%8DSTICA%20E%20EDUCA%C3%87%C3%83O%20SOCIOEMOCIONAL%20INTEGRADAS%20PARA%20DISCUTIR%20CONSUMO%20SUSTENT%C3%81EL%20NO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38432430"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "38432430",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Socioemocional",
-  "Educação Estatística",
-  "Consumo",
-  "Consumismo",
-  "Sustentabilidade Ambiental"
- ],
- "thumbnail": "./assets/images/thumbs/capes-38432430.svg",
- "resumo": "Os rumos de nosso desenvolvimento social e econômico apontam a necessidade de rever nosso modo de consumo e a buscar equilíbrio social. A legislação educacional brasileira orienta o trabalho com estas questões na educação básica. Elaboramos esta pesquisa qualitativa com o objetivo de investigar como uma sequência didática abordando o conteúdo de estatística do 6.° ano do ensino fundamental contribuiria para a aprendizagem de matemática e, simultaneamente, para reflexão sobre aspectos sociais e emocionais envolvidos na relação entre consumo e consumismo no dia a dia dos estudantes. Buscamos responder à seguinte questão: Que contribuições pode uma sequência didática contextualizada na problemática que envolve consumo consciente propiciar ao ensino significativo de estatística em uma turma do 6.º ano do ensino fundamental e, simultaneamente, fomentar o autoconhecimento e consciência social no que se refere a questões que envolvam o consumo ou consumismo? Como embasamento teórico, recorremos a autores que apresentam elementos para justificar a importância da educação estatística, da educação socioemocional e da economia comportamental para uma formação interdimensional, como pede a legislação educacional brasileira. Seus aportes também embasaram a elaboração e análise da sequência didática aplicada. A análise dos dados contribuiu para melhoria dessa sequência didática, resultando no produto educacional desta dissertação de mestrado, o qual traz aplicação prática do referencial de nosso trabalho, com sugestão de aplicação de nossa sequência didática. Esta investigação foi produzida no âmbito do Grupo de Pesquisa Ser, Estar e Integrar Competências na Educação Básica (GPSEI), cadastrado no CNPQ e associado à linha de pesquisa Formação de Professores do Mestrado Profissional em Ensino de Ciências e Matemática, do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-38432430",
+  "autor": "Ayrton Araujo Kiill",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "Estatística e Educação Socioemocional Integradas para Discutir Consumo Sustentáel no Ensino Fundamental",
+  "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Diva Valerio Novaes",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Socioemocional; Educação Estatística; Consumo; Consumismo; Sustentabilidade Ambiental",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ESTAT%C3%8DSTICA%20E%20EDUCA%C3%87%C3%83O%20SOCIOEMOCIONAL%20INTEGRADAS%20PARA%20DISCUTIR%20CONSUMO%20SUSTENT%C3%81EL%20NO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESTAT%C3%8DSTICA%20E%20EDUCA%C3%87%C3%83O%20SOCIOEMOCIONAL%20INTEGRADAS%20PARA%20DISCUTIR%20CONSUMO%20SUSTENT%C3%81EL%20NO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38432430"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "38432430",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Socioemocional",
+    "Educação Estatística",
+    "Consumo",
+    "Consumismo",
+    "Sustentabilidade Ambiental"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-38432430.svg",
+  "resumo": "Os rumos de nosso desenvolvimento social e econômico apontam a necessidade de rever nosso modo de consumo e a buscar equilíbrio social. A legislação educacional brasileira orienta o trabalho com estas questões na educação básica. Elaboramos esta pesquisa qualitativa com o objetivo de investigar como uma sequência didática abordando o conteúdo de estatística do 6.° ano do ensino fundamental contribuiria para a aprendizagem de matemática e, simultaneamente, para reflexão sobre aspectos sociais e emocionais envolvidos na relação entre consumo e consumismo no dia a dia dos estudantes. Buscamos responder à seguinte questão: Que contribuições pode uma sequência didática contextualizada na problemática que envolve consumo consciente propiciar ao ensino significativo de estatística em uma turma do 6.º ano do ensino fundamental e, simultaneamente, fomentar o autoconhecimento e consciência social no que se refere a questões que envolvam o consumo ou consumismo? Como embasamento teórico, recorremos a autores que apresentam elementos para justificar a importância da educação estatística, da educação socioemocional e da economia comportamental para uma formação interdimensional, como pede a legislação educacional brasileira. Seus aportes também embasaram a elaboração e análise da sequência didática aplicada. A análise dos dados contribuiu para melhoria dessa sequência didática, resultando no produto educacional desta dissertação de mestrado, o qual traz aplicação prática do referencial de nosso trabalho, com sugestão de aplicação de nossa sequência didática. Esta investigação foi produzida no âmbito do Grupo de Pesquisa Ser, Estar e Integrar Competências na Educação Básica (GPSEI), cadastrado no CNPQ e associado à linha de pesquisa Formação de Professores do Mestrado Profissional em Ensino de Ciências e Matemática, do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

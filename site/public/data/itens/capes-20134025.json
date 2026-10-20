@@ -1,57 +1,57 @@
 {
- "id": "capes-20134025",
- "autor": "Cleuza Eunice Pereira Brumano",
- "ano": 2014,
- "tipo": "Dissertação",
- "titulo": "A Modelagem Matemática Como Metodologia para o Estudo de Análise Combinatória",
- "instituicao": "Universidade Federal de Juiz de Fora",
- "cidade": "",
- "estado": "Minas Gerais",
- "regiao": "Sudeste",
- "orientador": "Orestes Piermatei Filho",
- "programa": "EDUCAÇÃO MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Modelagem Matemática, Análise Combinatória, ensino e aprendizagem de Matemática",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20MODELAGEM%20MATEM%C3%81TICA%20COMO%20METODOLOGIA%20PARA%20O%20ESTUDO%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20MODELAGEM%20MATEM%C3%81TICA%20COMO%20METODOLOGIA%20PARA%20O%20ESTUDO%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20134025"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "20134025",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Modelagem Matemática, Análise Combinatória, ensino e aprendizagem de Matemática"
- ],
- "thumbnail": "./assets/images/thumbs/capes-20134025.svg",
- "resumo": "O presente trabalho aborda a modelagem matemática como uma alternativa de ensino que se dá através de uma concepção que permite ao educador desenvolver uma busca pela interação proveniente da matemática contextualizada na realidade dos estudantes, e que prioriza a construção do conhecimento por parte do aluno. Dessa forma, os conteúdos matemáticos são estudados partindo-se de um tema sugerido pelos alunos, o que proporciona maior interação entre estes e o professor. Neste contexto, objetiva-se analisar a aplicação desta estratégia como uma proposta eficaz para favorecer o ensino de Análise Combinatória. O estudo aponta para a possibilidade de compreensão acerca deste conteúdo tomando-se como base as implicações obtidas em um grupo de quatro alunos da segunda série do Ensino Médio e, metodologicamente, utilizando-se da Modelagem Matemática para tal fim. Foi realizada uma pesquisa bibliográfica buscando identificar como a modelagem pode ser aplicada ao ensino da disciplina em questão. A abordagem de pesquisa adotada se caracteriza qualitativa e os dados foram coletados por meio de dispositivos de áudio/vídeo e anotações. As informações obtidas estão organizadas neste trabalho da seguinte forma: inicialmente, apresenta-se o conceito de modelo, modelagem e modelação matemática; em seguida, expõe-se sobre o ensino de Análise Combinatória e finalmente apresenta-se a pesquisa de campo com os devidos comentários e conclusões.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de combinatória"
- ],
- "ids_duplicados": []
+  "id": "capes-20134025",
+  "autor": "Cleuza Eunice Pereira Brumano",
+  "ano": 2014,
+  "tipo": "Dissertação",
+  "titulo": "A Modelagem Matemática Como Metodologia para o Estudo de Análise Combinatória",
+  "instituicao": "Universidade Federal de Juiz de Fora",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Orestes Piermatei Filho",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Modelagem Matemática, Análise Combinatória, ensino e aprendizagem de Matemática",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20MODELAGEM%20MATEM%C3%81TICA%20COMO%20METODOLOGIA%20PARA%20O%20ESTUDO%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20MODELAGEM%20MATEM%C3%81TICA%20COMO%20METODOLOGIA%20PARA%20O%20ESTUDO%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20134025"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "20134025",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Modelagem Matemática, Análise Combinatória, ensino e aprendizagem de Matemática"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-20134025.svg",
+  "resumo": "O presente trabalho aborda a modelagem matemática como uma alternativa de ensino que se dá através de uma concepção que permite ao educador desenvolver uma busca pela interação proveniente da matemática contextualizada na realidade dos estudantes, e que prioriza a construção do conhecimento por parte do aluno. Dessa forma, os conteúdos matemáticos são estudados partindo-se de um tema sugerido pelos alunos, o que proporciona maior interação entre estes e o professor. Neste contexto, objetiva-se analisar a aplicação desta estratégia como uma proposta eficaz para favorecer o ensino de Análise Combinatória. O estudo aponta para a possibilidade de compreensão acerca deste conteúdo tomando-se como base as implicações obtidas em um grupo de quatro alunos da segunda série do Ensino Médio e, metodologicamente, utilizando-se da Modelagem Matemática para tal fim. Foi realizada uma pesquisa bibliográfica buscando identificar como a modelagem pode ser aplicada ao ensino da disciplina em questão. A abordagem de pesquisa adotada se caracteriza qualitativa e os dados foram coletados por meio de dispositivos de áudio/vídeo e anotações. As informações obtidas estão organizadas neste trabalho da seguinte forma: inicialmente, apresenta-se o conceito de modelo, modelagem e modelação matemática; em seguida, expõe-se sobre o ensino de Análise Combinatória e finalmente apresenta-se a pesquisa de campo com os devidos comentários e conclusões.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de combinatória"
+  ],
+  "ids_duplicados": []
 }

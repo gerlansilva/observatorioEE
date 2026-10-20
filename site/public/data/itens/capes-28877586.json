@@ -1,59 +1,59 @@
 {
- "id": "capes-28877586",
- "autor": "Leonardo Dalla Porta",
- "ano": 2019,
- "tipo": "Tese",
- "titulo": "Formação do Raciocínio Estatístico na Conceptualização da Estimação Estatística: Estudo Exploratório de um Dispositivo Pedagógico no Ensino Superior",
- "instituicao": "Universidade Franciscana",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Silvia Maria de Aguiar Isaia",
- "programa": "Ensino de Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Competências estatísticas; Estimação estatística. Teoria dos Campos Conceituais. Análise Estatística Implicativa – A.S.I.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22FORMA%C3%87%C3%83O%20DO%20RACIOC%C3%8DNIO%20ESTAT%C3%8DSTICO%20NA%20CONCEPTUALIZA%C3%87%C3%83O%20DA%20ESTIMA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20ESTUDO%20EXPLORAT%C3%93RIO%20DE%20UM%20DISPOSITIVO%20PEDAG%C3%93GICO%20NO%20ENSINO%20SUPERIOR%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=FORMA%C3%87%C3%83O%20DO%20RACIOC%C3%8DNIO%20ESTAT%C3%8DSTICO%20NA%20CONCEPTUALIZA%C3%87%C3%83O%20DA%20ESTIMA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20ESTUDO%20EXPLORAT%C3%93RIO%20DE%20UM%20DISPOSITIVO%20PEDAG%C3%93GICO%20NO%20ENSINO%20SUPERIOR&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28877586"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "28877586",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Competências estatísticas",
-  "Estimação estatística. Teoria dos Campos Conceituais. Análise Estatística Implicativa – A.S.I."
- ],
- "thumbnail": "./assets/images/thumbs/capes-28877586.svg",
- "resumo": "Os dados estatísticos estão presentes em diversos meios da sociedade e são indispensáveis nos campos científicos e na formação do cidadão moderno. Por essa razão, a estatística é abordada no Brasil a partir da educação básica e permanece presente em outros níveis de ensino. Nosso estudo está situado no campo da Educação Estatística no Ensino Superior e se insere na linha de investigação voltada ao ensino e aprendizagem de conceitos da estatística, mais particularmente relacionados aos conceitos de estimação estatística. O trabalho, desenvolvido no contexto de uma pesquisa qualitativa e quantitativa, teve como objetivo identificar como se dá a formação do raciocínio estatístico por meio da conceptualização da estimação estatística. Observamos uma amostra de 81 estudantes oriundos de cursos de graduação das áreas de Ciências Socias e Ciências Tecnológicas, de uma instituição comunitária da cidade de Santa Maria, estado do Rio Grande do Sul, Brasil. Como referencial teórico utilizamos a Teoria dos Campos Conceituais e a exploração de diversas pesquisas que tratam sobre as competências estatísticas: letramento, pensamento e raciocínio estatísticos. Baseamos nossa exploração em dados construídos por meio de dois questionários que foram aplicados em disciplinas de estatística, antes e depois do conteúdo de estimação estatística ser explorado em sala de aula. Os questionários foram organizados com questões baseadas em situações-problema relacionadas com a estimação estatística e por questões pertinentes quanto a relação do estudante com a estatística. Para o tratamento, análise e interpretação dos dados, ferramentas computacionais estatísticas foram utilizadas no quadro teórico da análise estatística implicativa (ASI), com o apoio do software CHIC e, na estatística clássica, para análises estatísticas descritivas e inferenciais, o software SPAD. Os resultados obtidos mostram que os estudantes que possuem melhores relações com a estatística utilizam os conceitos aprendidos de forma mais satisfatória. A orientação dessas relações com a estatística pode influenciar na formação do raciocínio estatístico, principalmente em razão de problemas matemáticos.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística",
-  "raciocínio estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-28877586",
+  "autor": "Leonardo Dalla Porta",
+  "ano": 2019,
+  "tipo": "Tese",
+  "titulo": "Formação do Raciocínio Estatístico na Conceptualização da Estimação Estatística: Estudo Exploratório de um Dispositivo Pedagógico no Ensino Superior",
+  "instituicao": "Universidade Franciscana",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Silvia Maria de Aguiar Isaia",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Competências estatísticas; Estimação estatística. Teoria dos Campos Conceituais. Análise Estatística Implicativa – A.S.I.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22FORMA%C3%87%C3%83O%20DO%20RACIOC%C3%8DNIO%20ESTAT%C3%8DSTICO%20NA%20CONCEPTUALIZA%C3%87%C3%83O%20DA%20ESTIMA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20ESTUDO%20EXPLORAT%C3%93RIO%20DE%20UM%20DISPOSITIVO%20PEDAG%C3%93GICO%20NO%20ENSINO%20SUPERIOR%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=FORMA%C3%87%C3%83O%20DO%20RACIOC%C3%8DNIO%20ESTAT%C3%8DSTICO%20NA%20CONCEPTUALIZA%C3%87%C3%83O%20DA%20ESTIMA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20ESTUDO%20EXPLORAT%C3%93RIO%20DE%20UM%20DISPOSITIVO%20PEDAG%C3%93GICO%20NO%20ENSINO%20SUPERIOR&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28877586"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "28877586",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Competências estatísticas",
+    "Estimação estatística. Teoria dos Campos Conceituais. Análise Estatística Implicativa – A.S.I."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-28877586.svg",
+  "resumo": "Os dados estatísticos estão presentes em diversos meios da sociedade e são indispensáveis nos campos científicos e na formação do cidadão moderno. Por essa razão, a estatística é abordada no Brasil a partir da educação básica e permanece presente em outros níveis de ensino. Nosso estudo está situado no campo da Educação Estatística no Ensino Superior e se insere na linha de investigação voltada ao ensino e aprendizagem de conceitos da estatística, mais particularmente relacionados aos conceitos de estimação estatística. O trabalho, desenvolvido no contexto de uma pesquisa qualitativa e quantitativa, teve como objetivo identificar como se dá a formação do raciocínio estatístico por meio da conceptualização da estimação estatística. Observamos uma amostra de 81 estudantes oriundos de cursos de graduação das áreas de Ciências Socias e Ciências Tecnológicas, de uma instituição comunitária da cidade de Santa Maria, estado do Rio Grande do Sul, Brasil. Como referencial teórico utilizamos a Teoria dos Campos Conceituais e a exploração de diversas pesquisas que tratam sobre as competências estatísticas: letramento, pensamento e raciocínio estatísticos. Baseamos nossa exploração em dados construídos por meio de dois questionários que foram aplicados em disciplinas de estatística, antes e depois do conteúdo de estimação estatística ser explorado em sala de aula. Os questionários foram organizados com questões baseadas em situações-problema relacionadas com a estimação estatística e por questões pertinentes quanto a relação do estudante com a estatística. Para o tratamento, análise e interpretação dos dados, ferramentas computacionais estatísticas foram utilizadas no quadro teórico da análise estatística implicativa (ASI), com o apoio do software CHIC e, na estatística clássica, para análises estatísticas descritivas e inferenciais, o software SPAD. Os resultados obtidos mostram que os estudantes que possuem melhores relações com a estatística utilizam os conceitos aprendidos de forma mais satisfatória. A orientação dessas relações com a estatística pode influenciar na formação do raciocínio estatístico, principalmente em razão de problemas matemáticos.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística",
+    "raciocínio estatístico"
+  ],
+  "ids_duplicados": []
 }

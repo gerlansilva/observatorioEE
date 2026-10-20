@@ -1,62 +1,62 @@
 {
- "id": "capes-36268582",
- "autor": "Adriana Costa Santos da Silva",
- "ano": 2022,
- "tipo": "Dissertação",
- "titulo": "Planejamento de uma Sequência de Ensino com Base nos Conceitos Estatísticos na Perspectiva da Equidade",
- "instituicao": "Universidade Estadual de Santa Cruz",
- "cidade": "",
- "estado": "Bahia",
- "regiao": "Nordeste",
- "orientador": "Maria Elizabete Souza Couto",
- "programa": "Educação em Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Planejamento; Estatística; Sequência de ensino; Equidade",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22PLANEJAMENTO%20DE%20UMA%20SEQU%C3%8ANCIA%20DE%20ENSINO%20COM%20BASE%20NOS%20CONCEITOS%20ESTAT%C3%8DSTICOS%20NA%20PERSPECTIVA%20DA%20EQUIDADE%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PLANEJAMENTO%20DE%20UMA%20SEQU%C3%8ANCIA%20DE%20ENSINO%20COM%20BASE%20NOS%20CONCEITOS%20ESTAT%C3%8DSTICOS%20NA%20PERSPECTIVA%20DA%20EQUIDADE&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36268582"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "36268582",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Planejamento",
-  "Estatística",
-  "Sequência de ensino",
-  "Equidade"
- ],
- "thumbnail": "./assets/images/thumbs/capes-36268582.svg",
- "resumo": "A Estatística passou a fazer parte dos anos iniciais do Ensino Fundamental em 1997, por meio dos Parâmetros Curriculares Nacionais. Em 2017 houve a aprovação da Base Nacional Curricular Comum, seu estudo avança em relação aos Parâmetros Curriculares Nacionais, pois orienta o ensino baseado na investigação desde os primeiros anos de escolarização. A investigação abre possibilidades para tratar as diferenças que a sala de aula apresenta, oferecendo, a cada um, aquilo que é necessário para o seu avanço nas aprendizagens. Assim, o objetivo desta pesquisa foi analisar como o planejamento de uma sequência de ensino elaborada no processo formativo possibilita o ensino dos conceitos estatísticos na perspectiva da equidade. A pesquisa de abordagem qualitativa, teve como participante uma professora do 3º ano do Ensino Fundamental, identificada como Ine. Aconteceu em três etapas: acompanhamento dos encontros formativos, do planejamento e desenvolvimento da sequência de ensino e da compreensão das possibilidades de interlocução dos conceitos estatísticos com outras áreas do conhecimento, na perspectiva da equidade. Os instrumentos de coleta de dados utilizados foram: videogravações dos encontros do processo formativo, conversas no WhatsApp, planejamento da sequência de ensino organizada em dois blocos de atividades, roteiro de entrevista semiestruturada e o questionário. Para analisar o material empírico recorremos à análise de conteúdo (BARDIN, 2016) e as práticas discursivas (SPINK, MEDRADO, 2013). Com a leitura e interpretação do material empírico percebe-se que o planejamento da sequência de ensino possibilitou o ensino dos conceitos estatísticos na perspectiva da equidade, pois a participante da pesquisa criou estratégias como: a gravação de vídeos, mensagens de áudio, explicações por escrito no bloco de atividades e replanejou sua prática pedagógica para que o ensino/orientações chegassem até os estudantes. Nesse sentido, conclui-se que a formação contribuiu na construção de sua aprendizagem no sentido de promover a reflexão entre Ine, seus colegas, a gestão e o grupo de pesquisa sobre o planejamento, permitindo assim, assumir novas posturas/mudanças diante de si e do conhecimento adquirido no processo formativo.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística"
- ],
- "ids_duplicados": [
-  "39228637"
- ]
+  "id": "capes-36268582",
+  "autor": "Adriana Costa Santos da Silva",
+  "ano": 2022,
+  "tipo": "Dissertação",
+  "titulo": "Planejamento de uma Sequência de Ensino com Base nos Conceitos Estatísticos na Perspectiva da Equidade",
+  "instituicao": "Universidade Estadual de Santa Cruz",
+  "cidade": "",
+  "estado": "Bahia",
+  "regiao": "Nordeste",
+  "orientador": "Maria Elizabete Souza Couto",
+  "programa": "Educação em Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Planejamento; Estatística; Sequência de ensino; Equidade",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22PLANEJAMENTO%20DE%20UMA%20SEQU%C3%8ANCIA%20DE%20ENSINO%20COM%20BASE%20NOS%20CONCEITOS%20ESTAT%C3%8DSTICOS%20NA%20PERSPECTIVA%20DA%20EQUIDADE%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PLANEJAMENTO%20DE%20UMA%20SEQU%C3%8ANCIA%20DE%20ENSINO%20COM%20BASE%20NOS%20CONCEITOS%20ESTAT%C3%8DSTICOS%20NA%20PERSPECTIVA%20DA%20EQUIDADE&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36268582"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "36268582",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Planejamento",
+    "Estatística",
+    "Sequência de ensino",
+    "Equidade"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-36268582.svg",
+  "resumo": "A Estatística passou a fazer parte dos anos iniciais do Ensino Fundamental em 1997, por meio dos Parâmetros Curriculares Nacionais. Em 2017 houve a aprovação da Base Nacional Curricular Comum, seu estudo avança em relação aos Parâmetros Curriculares Nacionais, pois orienta o ensino baseado na investigação desde os primeiros anos de escolarização. A investigação abre possibilidades para tratar as diferenças que a sala de aula apresenta, oferecendo, a cada um, aquilo que é necessário para o seu avanço nas aprendizagens. Assim, o objetivo desta pesquisa foi analisar como o planejamento de uma sequência de ensino elaborada no processo formativo possibilita o ensino dos conceitos estatísticos na perspectiva da equidade. A pesquisa de abordagem qualitativa, teve como participante uma professora do 3º ano do Ensino Fundamental, identificada como Ine. Aconteceu em três etapas: acompanhamento dos encontros formativos, do planejamento e desenvolvimento da sequência de ensino e da compreensão das possibilidades de interlocução dos conceitos estatísticos com outras áreas do conhecimento, na perspectiva da equidade. Os instrumentos de coleta de dados utilizados foram: videogravações dos encontros do processo formativo, conversas no WhatsApp, planejamento da sequência de ensino organizada em dois blocos de atividades, roteiro de entrevista semiestruturada e o questionário. Para analisar o material empírico recorremos à análise de conteúdo (BARDIN, 2016) e as práticas discursivas (SPINK, MEDRADO, 2013). Com a leitura e interpretação do material empírico percebe-se que o planejamento da sequência de ensino possibilitou o ensino dos conceitos estatísticos na perspectiva da equidade, pois a participante da pesquisa criou estratégias como: a gravação de vídeos, mensagens de áudio, explicações por escrito no bloco de atividades e replanejou sua prática pedagógica para que o ensino/orientações chegassem até os estudantes. Nesse sentido, conclui-se que a formação contribuiu na construção de sua aprendizagem no sentido de promover a reflexão entre Ine, seus colegas, a gestão e o grupo de pesquisa sobre o planejamento, permitindo assim, assumir novas posturas/mudanças diante de si e do conhecimento adquirido no processo formativo.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": [
+    "39228637"
+  ]
 }

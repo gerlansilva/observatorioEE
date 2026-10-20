@@ -1,59 +1,59 @@
 {
- "id": "capes-29268058",
- "autor": "James Ernesto Mazzanti",
- "ano": 2017,
- "tipo": "Tese",
- "titulo": "Colaboração em Ambientes Virtuais e Presenciais: Um Estudo sobre Aprendizagem de Estatística no Ensino Médio",
- "instituicao": "Pontifícia Universidade Católica de São Paulo",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Gerson Pastre de Oliveira",
- "programa": "EDUCAÇÃO MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino auxiliado por computador; Ensino à distância; Estatística -- Estudo e ensino (Ensino Médio)",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22COLABORA%C3%87%C3%83O%20EM%20AMBIENTES%20VIRTUAIS%20E%20PRESENCIAIS%3A%20UM%20ESTUDO%20SOBRE%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=COLABORA%C3%87%C3%83O%20EM%20AMBIENTES%20VIRTUAIS%20E%20PRESENCIAIS%3A%20UM%20ESTUDO%20SOBRE%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29268058"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "29268058",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino auxiliado por computador",
-  "Ensino à distância",
-  "Estatística -- Estudo e ensino (Ensino Médio)"
- ],
- "thumbnail": "./assets/images/thumbs/capes-29268058.svg",
- "resumo": "O presente trabalho, baseado em uma investigação de caráter qualitativo, busca compreender se a aprendizagem de elementos de Estatística Descritiva por um grupo de alunos do Ensino Médio (EM) pode se mostrar eficiente se levada a efeito por meio de um Ambiente Virtual de Aprendizagem (AVA) e de interações presenciais, em regime de convergência. Além disso, busca estabelecer se uma abordagem colaborativa, mediada pela convergência entre o virtual e o presencial, é eficiente em promover a aprendizagem de tópicos de Estatística Descritiva entre alunos do Ensino Médio, sujeitos da pesquisa. Os dados relativos a este estudo foram coletados a partir do uso do AVA Moodle e do acompanhamento de interações presenciais entre os alunos da rede estadual paulista, os quais participaram voluntariamente de um curso de Estatística Descritiva e trabalharam com atividades planejadas para promover a colaboração e incentivar a autonomia. Assim, para fundamentarmos este trabalho trouxemos refernciais em três áreas principais, AVA, Aprendizagem Colaborativa e Educação Estatística, sendo alguns que se destacam, Pallof e Pratt, Kenski, Lévy, Borba, Oliveira, Torres, Batanero; Campos; Cazorla; Coutinho; Lopes. A partir das análises, realizadas na perspectiva descritiva e interpretativa, constatou-se que a convergência tivesse lugar e constituísse um contexto de aprendizagem, a abordagem adotada parece ter sido eficiente no sentido de dotar os sujeitos de uma visão mais crítica e mostrou que pode ser eficiente em relação à promoção de elementos que levem à autonomia e finalmente os estudantes formaram as bases para a vivência em uma Comunidade Virtual de Aprendizagem com características como autorregulação, autonomia, colaboração e construção coletiva do conhecimento, representando importantes aportes para o cumprimento dos objetivos pretendidos nesta investigação",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-29268058",
+  "autor": "James Ernesto Mazzanti",
+  "ano": 2017,
+  "tipo": "Tese",
+  "titulo": "Colaboração em Ambientes Virtuais e Presenciais: Um Estudo sobre Aprendizagem de Estatística no Ensino Médio",
+  "instituicao": "Pontifícia Universidade Católica de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Gerson Pastre de Oliveira",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino auxiliado por computador; Ensino à distância; Estatística -- Estudo e ensino (Ensino Médio)",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22COLABORA%C3%87%C3%83O%20EM%20AMBIENTES%20VIRTUAIS%20E%20PRESENCIAIS%3A%20UM%20ESTUDO%20SOBRE%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=COLABORA%C3%87%C3%83O%20EM%20AMBIENTES%20VIRTUAIS%20E%20PRESENCIAIS%3A%20UM%20ESTUDO%20SOBRE%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29268058"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "29268058",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino auxiliado por computador",
+    "Ensino à distância",
+    "Estatística -- Estudo e ensino (Ensino Médio)"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-29268058.svg",
+  "resumo": "O presente trabalho, baseado em uma investigação de caráter qualitativo, busca compreender se a aprendizagem de elementos de Estatística Descritiva por um grupo de alunos do Ensino Médio (EM) pode se mostrar eficiente se levada a efeito por meio de um Ambiente Virtual de Aprendizagem (AVA) e de interações presenciais, em regime de convergência. Além disso, busca estabelecer se uma abordagem colaborativa, mediada pela convergência entre o virtual e o presencial, é eficiente em promover a aprendizagem de tópicos de Estatística Descritiva entre alunos do Ensino Médio, sujeitos da pesquisa. Os dados relativos a este estudo foram coletados a partir do uso do AVA Moodle e do acompanhamento de interações presenciais entre os alunos da rede estadual paulista, os quais participaram voluntariamente de um curso de Estatística Descritiva e trabalharam com atividades planejadas para promover a colaboração e incentivar a autonomia. Assim, para fundamentarmos este trabalho trouxemos refernciais em três áreas principais, AVA, Aprendizagem Colaborativa e Educação Estatística, sendo alguns que se destacam, Pallof e Pratt, Kenski, Lévy, Borba, Oliveira, Torres, Batanero; Campos; Cazorla; Coutinho; Lopes. A partir das análises, realizadas na perspectiva descritiva e interpretativa, constatou-se que a convergência tivesse lugar e constituísse um contexto de aprendizagem, a abordagem adotada parece ter sido eficiente no sentido de dotar os sujeitos de uma visão mais crítica e mostrou que pode ser eficiente em relação à promoção de elementos que levem à autonomia e finalmente os estudantes formaram as bases para a vivência em uma Comunidade Virtual de Aprendizagem com características como autorregulação, autonomia, colaboração e construção coletiva do conhecimento, representando importantes aportes para o cumprimento dos objetivos pretendidos nesta investigação",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

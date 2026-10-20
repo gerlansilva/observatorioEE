@@ -1,60 +1,60 @@
 {
- "id": "capes-21283263",
- "autor": "Marcelo Calixto Haubert",
- "ano": 2016,
- "tipo": "Dissertação",
- "titulo": "Uma Medida Saudável: Uma abordagem de Educação Estatística no Ensino Médio associada à área da Saúde",
- "instituicao": "Universidade Federal do Rio Grande do Sul",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Marcus Vinicius de Azevedo Basso",
- "programa": "ENSINO DE MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Estatística; Interdisciplinaridade; Saúde",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Uma%20Medida%20Saud%C3%A1vel%3A%20Uma%20abordagem%20de%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20no%20Ensino%20M%C3%A9dio%20associada%20%C3%A0%20%C3%A1rea%20da%20Sa%C3%BAde%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma%20Medida%20Saud%C3%A1vel%3A%20Uma%20abordagem%20de%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20no%20Ensino%20M%C3%A9dio%20associada%20%C3%A0%20%C3%A1rea%20da%20Sa%C3%BAde&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21283263"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "21283263",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Estatística",
-  "Interdisciplinaridade",
-  "Saúde"
- ],
- "thumbnail": "./assets/images/thumbs/capes-21283263.svg",
- "resumo": "O presente trabalho tem como objetivo apresentar os resultados obtidos em uma prática de ensino para os alunos do segundo ano do Ensino Médio, realizada em 2014. A pesquisa foi realizada em uma escola da cidade de Taquara, no Rio Grande do Sul. O propósito do desenvolvimento e aplicação da sequência didática, foi elucidar respostas sobre quais contribuições uma abordagem de Educação Estatística, de forma interdisciplinar, pode trazer a este nível de ensino. Para isto, os alunos participaram de todas as fases do trabalho estatístico (coleta, organização, tratamento, representação e análise). A interdisciplinaridade aconteceu com a disciplina de Educação Física, no aspecto referente à saúde. Como referenciais teóricos foram utilizadas as teorias das situações didáticas de Brousseau e Transposição Didática de Chevallard. A metodologia usada para análise foi o estudo de caso. Os resultados obtidos mostraram fortes indicações de que uma abordagem de Educação Estatística traz aos alunos ganhos significativos. Estes aconteceram nos aspectos ligados à literacia estatística, raciocínio e pensar estatístico, contribuindo para a construção de cidadãos críticos e atuantes na sociedade. Também foi percebido o desenvolvimento de autonomia, prazer ao aprender e cooperação no desenvolvimento das atividades.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-21283263",
+  "autor": "Marcelo Calixto Haubert",
+  "ano": 2016,
+  "tipo": "Dissertação",
+  "titulo": "Uma Medida Saudável: Uma abordagem de Educação Estatística no Ensino Médio associada à área da Saúde",
+  "instituicao": "Universidade Federal do Rio Grande do Sul",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Marcus Vinicius de Azevedo Basso",
+  "programa": "ENSINO DE MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Interdisciplinaridade; Saúde",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Uma%20Medida%20Saud%C3%A1vel%3A%20Uma%20abordagem%20de%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20no%20Ensino%20M%C3%A9dio%20associada%20%C3%A0%20%C3%A1rea%20da%20Sa%C3%BAde%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma%20Medida%20Saud%C3%A1vel%3A%20Uma%20abordagem%20de%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20no%20Ensino%20M%C3%A9dio%20associada%20%C3%A0%20%C3%A1rea%20da%20Sa%C3%BAde&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21283263"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "21283263",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Interdisciplinaridade",
+    "Saúde"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-21283263.svg",
+  "resumo": "O presente trabalho tem como objetivo apresentar os resultados obtidos em uma prática de ensino para os alunos do segundo ano do Ensino Médio, realizada em 2014. A pesquisa foi realizada em uma escola da cidade de Taquara, no Rio Grande do Sul. O propósito do desenvolvimento e aplicação da sequência didática, foi elucidar respostas sobre quais contribuições uma abordagem de Educação Estatística, de forma interdisciplinar, pode trazer a este nível de ensino. Para isto, os alunos participaram de todas as fases do trabalho estatístico (coleta, organização, tratamento, representação e análise). A interdisciplinaridade aconteceu com a disciplina de Educação Física, no aspecto referente à saúde. Como referenciais teóricos foram utilizadas as teorias das situações didáticas de Brousseau e Transposição Didática de Chevallard. A metodologia usada para análise foi o estudo de caso. Os resultados obtidos mostraram fortes indicações de que uma abordagem de Educação Estatística traz aos alunos ganhos significativos. Estes aconteceram nos aspectos ligados à literacia estatística, raciocínio e pensar estatístico, contribuindo para a construção de cidadãos críticos e atuantes na sociedade. Também foi percebido o desenvolvimento de autonomia, prazer ao aprender e cooperação no desenvolvimento das atividades.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

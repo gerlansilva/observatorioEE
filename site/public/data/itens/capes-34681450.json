@@ -1,63 +1,63 @@
 {
- "id": "capes-34681450",
- "autor": "Helenita de Jesus de Sousa",
- "ano": 2021,
- "tipo": "Dissertação",
- "titulo": "DESENVOLVIMENTO PROFISSIONAL DE PROFESSORES: (do) Aprender (ao) Ensinar Estatística nos anos iniciais do Ensino Fundamental",
- "instituicao": "Universidade Estadual de Santa Cruz",
- "cidade": "",
- "estado": "Bahia",
- "regiao": "Nordeste",
- "orientador": "Maria Elizabete Souza Couto",
- "programa": "Educação em Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Desenvolvimento Profissional; Formação Continuada; Ensino de Matemática; Conceitos Estatísticos; Conhecimentos do professor",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22DESENVOLVIMENTO%20PROFISSIONAL%20DE%20PROFESSORES%3A%20%28do%29%20Aprender%20%28ao%29%20Ensinar%20Estat%C3%ADstica%20nos%20anos%20iniciais%20do%20Ensino%20Fundamental%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=DESENVOLVIMENTO%20PROFISSIONAL%20DE%20PROFESSORES%3A%20%28do%29%20Aprender%20%28ao%29%20Ensinar%20Estat%C3%ADstica%20nos%20anos%20iniciais%20do%20Ensino%20Fundamental&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34681450"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "34681450",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Desenvolvimento Profissional",
-  "Formação Continuada",
-  "Ensino de Matemática",
-  "Conceitos Estatísticos",
-  "Conhecimentos do professor"
- ],
- "thumbnail": "./assets/images/thumbs/capes-34681450.svg",
- "resumo": "Esta pesquisa tem por objetivo analisar os indícios de desenvolvimento profissional de professores que ensinam Matemática nos anos iniciais do Ensino Fundamental, com ênfase nos conceitos estatísticos, a partir de um processo formativo realizado na escola. A pesquisa de abordagem qualitativa deu-se no contexto Universidade-Escola, fundamentada na colaboração. A formação aconteceu por meio do Projeto de Pesquisa intitulado “Desenvolvimento profissional de professores que ensinam Estatística” (D-Estat), desenvolvido pelo Grupo de Pesquisa em Educação Matemática, Estatística e Ciências (GPEMEC), da Universidade Estadual de Santa Cruz (UESC). Esse processo formativo aconteceu ao longo de 14 encontros em uma escola municipal no Baixo Sul da Bahia, no período de fevereiro de 2018 a dezembro de 2019, com o estudo sobre conceitos estatísticos, com ênfase no planejamento e desenvolvimento de sequências de ensino em sala de aula. A investigação foi orientada no sentido de responder “quais indícios de desenvolvimento profissional apresentam professores que ensinam Matemática nos anos iniciais do Ensino Fundamental, a partir de um processo formativo”. A coleta sistemática de dados aconteceu em dois momentos, com os seguintes instrumentos: 1) questionário “Perfil do professor”; e 2) entrevista semiestruturada, realizadas por intermédio dos aplicativos WhatsApp e Meet. A análise foi realizada por meio da metodologia de Análise Textual Discursiva, à luz do referencial teórico sobre o desenvolvimento profissional de professores, nas perspectivas de Antônio Nóvoa, Cristopher Day, Carlos Marcelo Garcia, Francisco Imbernón, João Pedro da Ponte e Judith Sowder. Os resultados trazem como indícios do desenvolvimento profissional dos professores a construção e ampliação das destrezas pedagógicas e dos conhecimentos dos conceitos estatísticos, conhecimento pedagógico geral e pedagógico e tecnológico do conteúdo, adoção de novas práticas, superação da prática de reprodução de atividades do livro didático, desenvolvimento da prática de reflexão e autoquestionamento. O desenvolvimento profissional foi impulsionado pela reflexão sobre a prática, nos momentos de estudos e planejamento com os colegas e pesquisadores, no contexto da universidade-escola, e na prática, no momento de desenvolvimento das sequências de ensino em sala de aula com os alunos. Assim, o processo formativo desenvolvido pelo projeto D-Estat configurou-se em uma possibilidade para a continuidade do desenvolvimento profissional dos professores envolvidos, uma vez que tiveram a oportunidade de construir novos conhecimentos conceituais e metodológicos, bem como, experienciar e refletir sobre novas maneiras de aprender e ensinar os conceitos estatísticos",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística"
- ],
- "ids_duplicados": [
-  "39223554"
- ]
+  "id": "capes-34681450",
+  "autor": "Helenita de Jesus de Sousa",
+  "ano": 2021,
+  "tipo": "Dissertação",
+  "titulo": "DESENVOLVIMENTO PROFISSIONAL DE PROFESSORES: (do) Aprender (ao) Ensinar Estatística nos anos iniciais do Ensino Fundamental",
+  "instituicao": "Universidade Estadual de Santa Cruz",
+  "cidade": "",
+  "estado": "Bahia",
+  "regiao": "Nordeste",
+  "orientador": "Maria Elizabete Souza Couto",
+  "programa": "Educação em Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Desenvolvimento Profissional; Formação Continuada; Ensino de Matemática; Conceitos Estatísticos; Conhecimentos do professor",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22DESENVOLVIMENTO%20PROFISSIONAL%20DE%20PROFESSORES%3A%20%28do%29%20Aprender%20%28ao%29%20Ensinar%20Estat%C3%ADstica%20nos%20anos%20iniciais%20do%20Ensino%20Fundamental%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=DESENVOLVIMENTO%20PROFISSIONAL%20DE%20PROFESSORES%3A%20%28do%29%20Aprender%20%28ao%29%20Ensinar%20Estat%C3%ADstica%20nos%20anos%20iniciais%20do%20Ensino%20Fundamental&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34681450"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "34681450",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Desenvolvimento Profissional",
+    "Formação Continuada",
+    "Ensino de Matemática",
+    "Conceitos Estatísticos",
+    "Conhecimentos do professor"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-34681450.svg",
+  "resumo": "Esta pesquisa tem por objetivo analisar os indícios de desenvolvimento profissional de professores que ensinam Matemática nos anos iniciais do Ensino Fundamental, com ênfase nos conceitos estatísticos, a partir de um processo formativo realizado na escola. A pesquisa de abordagem qualitativa deu-se no contexto Universidade-Escola, fundamentada na colaboração. A formação aconteceu por meio do Projeto de Pesquisa intitulado “Desenvolvimento profissional de professores que ensinam Estatística” (D-Estat), desenvolvido pelo Grupo de Pesquisa em Educação Matemática, Estatística e Ciências (GPEMEC), da Universidade Estadual de Santa Cruz (UESC). Esse processo formativo aconteceu ao longo de 14 encontros em uma escola municipal no Baixo Sul da Bahia, no período de fevereiro de 2018 a dezembro de 2019, com o estudo sobre conceitos estatísticos, com ênfase no planejamento e desenvolvimento de sequências de ensino em sala de aula. A investigação foi orientada no sentido de responder “quais indícios de desenvolvimento profissional apresentam professores que ensinam Matemática nos anos iniciais do Ensino Fundamental, a partir de um processo formativo”. A coleta sistemática de dados aconteceu em dois momentos, com os seguintes instrumentos: 1) questionário “Perfil do professor”; e 2) entrevista semiestruturada, realizadas por intermédio dos aplicativos WhatsApp e Meet. A análise foi realizada por meio da metodologia de Análise Textual Discursiva, à luz do referencial teórico sobre o desenvolvimento profissional de professores, nas perspectivas de Antônio Nóvoa, Cristopher Day, Carlos Marcelo Garcia, Francisco Imbernón, João Pedro da Ponte e Judith Sowder. Os resultados trazem como indícios do desenvolvimento profissional dos professores a construção e ampliação das destrezas pedagógicas e dos conhecimentos dos conceitos estatísticos, conhecimento pedagógico geral e pedagógico e tecnológico do conteúdo, adoção de novas práticas, superação da prática de reprodução de atividades do livro didático, desenvolvimento da prática de reflexão e autoquestionamento. O desenvolvimento profissional foi impulsionado pela reflexão sobre a prática, nos momentos de estudos e planejamento com os colegas e pesquisadores, no contexto da universidade-escola, e na prática, no momento de desenvolvimento das sequências de ensino em sala de aula com os alunos. Assim, o processo formativo desenvolvido pelo projeto D-Estat configurou-se em uma possibilidade para a continuidade do desenvolvimento profissional dos professores envolvidos, uma vez que tiveram a oportunidade de construir novos conhecimentos conceituais e metodológicos, bem como, experienciar e refletir sobre novas maneiras de aprender e ensinar os conceitos estatísticos",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": [
+    "39223554"
+  ]
 }

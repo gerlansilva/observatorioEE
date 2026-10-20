@@ -1,62 +1,62 @@
 {
- "id": "capes-42192279",
- "autor": "Helena Pereira da Silva",
- "ano": 2024,
- "tipo": "Dissertação",
- "titulo": "Literacia Estatística e dados midiáticos: um estudo com estudantes do Ensino Fundamental durante a pandemia da COVID-19",
- "instituicao": "Universidade Federal de Juiz de Fora",
- "cidade": "",
- "estado": "Minas Gerais",
- "regiao": "Sudeste",
- "orientador": "Chang Kuo Rodrigues",
- "programa": "EDUCAÇÃO MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Matemática; Educação Estatística; Engenharia Didática; gráficos midiáticos; pandemia; média móvel",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Literacia%20Estat%C3%ADstica%20e%20dados%20midi%C3%A1ticos%3A%20um%20estudo%20com%20estudantes%20do%20Ensino%20Fundamental%20durante%20a%20pandemia%20da%20COVID-19%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Literacia%20Estat%C3%ADstica%20e%20dados%20midi%C3%A1ticos%3A%20um%20estudo%20com%20estudantes%20do%20Ensino%20Fundamental%20durante%20a%20pandemia%20da%20COVID-19&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42192279"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "42192279",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Matemática",
-  "Educação Estatística",
-  "Engenharia Didática",
-  "gráficos midiáticos",
-  "pandemia",
-  "média móvel"
- ],
- "thumbnail": "./assets/images/thumbs/capes-42192279.svg",
- "resumo": "Esta pesquisa tem como objetivo investigar o desenvolvimento da Literacia Estatística em uma turma de cinco alunos do Projeto Carioca II por meio de uma sequência de atividades que aborda a leitura de gráficos relacionados à COVID-19 apresentados pela mídia. A pesquisa adota uma abordagem qualitativa e utiliza os pressupostos da Engenharia Didática como metodologia da pesquisa e dispositivo metodológico em sala de aula. O quadro teórico que norteia esta pesquisa é a Literacia Estatística e a hipótese a ser validada é se uma sequência de atividades apoiada na Engenharia Didática, abordando linguagem, abordagens estatísticas e tomada de decisão, pode levar os alunos a desenvolver e exercer aspectos que compõem a Literacia Estatística. Após a obtenção e análise dos dados, puderam-se verificar os aspectos que contribuíram para o exercício deste letramento, assim como validar a hipótese apresentada. O Produto Educacional proposto para este estudo consiste na elaboração de uma História em Quadrinhos (HQ) destinada a alunos e professores. A HQ terá como objetivo apresentar fatos e gráficos divulgados durante a pandemia da COVID-19, com foco na relevância da Estatística em meio ao cenário de caos e incertezas e também oferecerá momentos de atividades e interação com o leitor.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-42192279",
+  "autor": "Helena Pereira da Silva",
+  "ano": 2024,
+  "tipo": "Dissertação",
+  "titulo": "Literacia Estatística e dados midiáticos: um estudo com estudantes do Ensino Fundamental durante a pandemia da COVID-19",
+  "instituicao": "Universidade Federal de Juiz de Fora",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Chang Kuo Rodrigues",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Matemática; Educação Estatística; Engenharia Didática; gráficos midiáticos; pandemia; média móvel",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Literacia%20Estat%C3%ADstica%20e%20dados%20midi%C3%A1ticos%3A%20um%20estudo%20com%20estudantes%20do%20Ensino%20Fundamental%20durante%20a%20pandemia%20da%20COVID-19%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Literacia%20Estat%C3%ADstica%20e%20dados%20midi%C3%A1ticos%3A%20um%20estudo%20com%20estudantes%20do%20Ensino%20Fundamental%20durante%20a%20pandemia%20da%20COVID-19&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42192279"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "42192279",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Matemática",
+    "Educação Estatística",
+    "Engenharia Didática",
+    "gráficos midiáticos",
+    "pandemia",
+    "média móvel"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-42192279.svg",
+  "resumo": "Esta pesquisa tem como objetivo investigar o desenvolvimento da Literacia Estatística em uma turma de cinco alunos do Projeto Carioca II por meio de uma sequência de atividades que aborda a leitura de gráficos relacionados à COVID-19 apresentados pela mídia. A pesquisa adota uma abordagem qualitativa e utiliza os pressupostos da Engenharia Didática como metodologia da pesquisa e dispositivo metodológico em sala de aula. O quadro teórico que norteia esta pesquisa é a Literacia Estatística e a hipótese a ser validada é se uma sequência de atividades apoiada na Engenharia Didática, abordando linguagem, abordagens estatísticas e tomada de decisão, pode levar os alunos a desenvolver e exercer aspectos que compõem a Literacia Estatística. Após a obtenção e análise dos dados, puderam-se verificar os aspectos que contribuíram para o exercício deste letramento, assim como validar a hipótese apresentada. O Produto Educacional proposto para este estudo consiste na elaboração de uma História em Quadrinhos (HQ) destinada a alunos e professores. A HQ terá como objetivo apresentar fatos e gráficos divulgados durante a pandemia da COVID-19, com foco na relevância da Estatística em meio ao cenário de caos e incertezas e também oferecerá momentos de atividades e interação com o leitor.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

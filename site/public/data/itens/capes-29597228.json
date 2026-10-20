@@ -1,61 +1,61 @@
 {
- "id": "capes-29597228",
- "autor": "Tamara Lamas Muller",
- "ano": 2018,
- "tipo": "Dissertação",
- "titulo": "EDUCAÇÃO FINANCEIRA E EDUCAÇÃO ESTATÍSTICA: INFLAÇÃO COMO TEMA DE ENSINO E APRENDIZAGEM Tamara",
- "instituicao": "Universidade Federal de Juiz de Fora",
- "cidade": "",
- "estado": "Minas Gerais",
- "regiao": "Sudeste",
- "orientador": "Ronaldo Rocha Bastos",
- "programa": "EDUCAÇÃO MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Matemática; Inflação; Educação Financeira Escolar; Educação Estatística",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22EDUCA%C3%87%C3%83O%20FINANCEIRA%20E%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20INFLA%C3%87%C3%83O%20COMO%20TEMA%20DE%20ENSINO%20E%20APRENDIZAGEM%20Tamara%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=EDUCA%C3%87%C3%83O%20FINANCEIRA%20E%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20INFLA%C3%87%C3%83O%20COMO%20TEMA%20DE%20ENSINO%20E%20APRENDIZAGEM%20Tamara&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29597228"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "29597228",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Matemática",
-  "Inflação",
-  "Educação Financeira Escolar",
-  "Educação Estatística"
- ],
- "thumbnail": "./assets/images/thumbs/capes-29597228.svg",
- "resumo": "O presente trabalho tem como objetivo analisar a produção de significado de alunos do Ensino Médio a respeito do conceito de inflação e suas interpretações na resolução de tarefas envolvendo o pensamento estatístico aplicado a dados reais. Esta pesquisa foi desenvolvida no Programa de Pós-graduação em Educação Matemática da Universidade Federal de Juiz de Fora. O tema abordado na pesquisa para contextualizar as atividades de ensino e aprendizado é a inflação de preços, tendo como intuito ampliar ideias de Educação Financeira por meio do pensamento estatístico. Foram trabalhadas cinco tarefas envolvendo esta temática com alunos do segundo ano do Ensino Médio de uma escola estadual da cidade de Juiz de Fora, Minas Gerais, para que eles se posicionassem criticamente diante de questões que fazem parte do contexto da sociedade na qual estão inseridos. Após as análises feitas das produções de significados dos alunos, constatou-se que o tema é relevante para se discutir com alunos do Ensino Médio, eles se mostraram motivados a discutir o tema e afirmaram que a Educação Financeira deveria ser trabalhada em sala de aula. A pesquisa se caracteriza como qualitativa e adota como base teórica e metodológica o Modelo dos Campos Semânticos e aspectos teóricos da Educação Estatística O conjunto de tarefas utilizadas na pesquisa de campo fazem parte do Produto Educacional, direcionado para professores de Ensino Médio.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-29597228",
+  "autor": "Tamara Lamas Muller",
+  "ano": 2018,
+  "tipo": "Dissertação",
+  "titulo": "EDUCAÇÃO FINANCEIRA E EDUCAÇÃO ESTATÍSTICA: INFLAÇÃO COMO TEMA DE ENSINO E APRENDIZAGEM Tamara",
+  "instituicao": "Universidade Federal de Juiz de Fora",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Ronaldo Rocha Bastos",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Matemática; Inflação; Educação Financeira Escolar; Educação Estatística",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22EDUCA%C3%87%C3%83O%20FINANCEIRA%20E%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20INFLA%C3%87%C3%83O%20COMO%20TEMA%20DE%20ENSINO%20E%20APRENDIZAGEM%20Tamara%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=EDUCA%C3%87%C3%83O%20FINANCEIRA%20E%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20INFLA%C3%87%C3%83O%20COMO%20TEMA%20DE%20ENSINO%20E%20APRENDIZAGEM%20Tamara&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29597228"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "29597228",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Matemática",
+    "Inflação",
+    "Educação Financeira Escolar",
+    "Educação Estatística"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-29597228.svg",
+  "resumo": "O presente trabalho tem como objetivo analisar a produção de significado de alunos do Ensino Médio a respeito do conceito de inflação e suas interpretações na resolução de tarefas envolvendo o pensamento estatístico aplicado a dados reais. Esta pesquisa foi desenvolvida no Programa de Pós-graduação em Educação Matemática da Universidade Federal de Juiz de Fora. O tema abordado na pesquisa para contextualizar as atividades de ensino e aprendizado é a inflação de preços, tendo como intuito ampliar ideias de Educação Financeira por meio do pensamento estatístico. Foram trabalhadas cinco tarefas envolvendo esta temática com alunos do segundo ano do Ensino Médio de uma escola estadual da cidade de Juiz de Fora, Minas Gerais, para que eles se posicionassem criticamente diante de questões que fazem parte do contexto da sociedade na qual estão inseridos. Após as análises feitas das produções de significados dos alunos, constatou-se que o tema é relevante para se discutir com alunos do Ensino Médio, eles se mostraram motivados a discutir o tema e afirmaram que a Educação Financeira deveria ser trabalhada em sala de aula. A pesquisa se caracteriza como qualitativa e adota como base teórica e metodológica o Modelo dos Campos Semânticos e aspectos teóricos da Educação Estatística O conjunto de tarefas utilizadas na pesquisa de campo fazem parte do Produto Educacional, direcionado para professores de Ensino Médio.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

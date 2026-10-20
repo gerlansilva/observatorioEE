@@ -1,61 +1,61 @@
 {
- "id": "capes-30004873",
- "autor": "Izauriana Borges Lima",
- "ano": 2019,
- "tipo": "Tese",
- "titulo": "GRÁFICOS DE BARRAS NA EDUCAÇÃO DE JOVENS E ADULTOS: investigando as relações entre tarefas de interpretar e construir",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Ana Coelho Vieira Selva",
- "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Estatística; Gráficos de barras.; Letramento; Educação de Jovens e Adultos; Interpretação e construção",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22GR%C3%81FICOS%20DE%20BARRAS%20NA%20EDUCA%C3%87%C3%83O%20DE%20JOVENS%20E%20ADULTOS%3A%20investigando%20as%20rela%C3%A7%C3%B5es%20entre%20tarefas%20de%20interpretar%20e%20construir%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=GR%C3%81FICOS%20DE%20BARRAS%20NA%20EDUCA%C3%87%C3%83O%20DE%20JOVENS%20E%20ADULTOS%3A%20investigando%20as%20rela%C3%A7%C3%B5es%20entre%20tarefas%20de%20interpretar%20e%20construir&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30004873"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "30004873",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Estatística",
-  "Gráficos de barras.",
-  "Letramento",
-  "Educação de Jovens e Adultos",
-  "Interpretação e construção"
- ],
- "thumbnail": "./assets/images/thumbs/capes-30004873.svg",
- "resumo": "O objetivo desta tese foi investigar as relações em interpretar e construir gráficos de barras na Educação de Jovens e Adultos (EJA) através de dois estudos. No primeiro, analisamos o desempenho de 88 estudantes do Ensino Fundamental, sendo 44 do Módulo III e 44 do Módulo V, em atividades de interpretação e construção. A ordem de apresentação das atividades foi alternada e os resultados indicaram que foi significativamente mais fácil construir um gráfico quando iniciaram por uma atividade de interpretação. Os estudantes mostraram facilidade na identificação de pontos extremos (leitura entre os dados), questões de localização (leitura dos dados) ainda trouxeram dificuldades e questões de análise variacional (leitura entre os dados) foram as mais difíceis. Na leitura para além dos dados, apresentaram acertos semelhantes entre os módulos, revelando a ausência da escola ao longo do Ensino Fundamental como responsável pelos avanços nos níveis mais elevados de compreensão gráfica. Quanto à construção, os resultados evidenciaram a ausência de elementos estruturantes, como o título, entretanto, a maioria apresentou a descrição das categorias e frequências e o uso da linha de base. A construção da escala foi a dificuldade mais evidente. Observamos que o êxito na interpretação não garantiu bons resultados em construção, entretanto, resultados exitosos em construção corresponderam a bons desempenhos na interpretação. O segundo estudo objetivou aprofundar a compreensão das relações entre interpretar e construir, a partir de quatro intervenções pedagógicas distintas, com 28 estudantes do último ano dos anos iniciais do Ensino Fundamental da EJA. O Estudo 2 envolveu pré-teste, intervenção e pós-teste. O pré-teste e o pós-teste foram semelhantes. As quatro intervenções envolveram: duas seções de construção (G1), duas seções de interpretação (G2), uma seção de interpretação seguida de construção (G3) e uma seção de construção seguida de interpretação (G4). Os resultados do pré-teste foram semelhantes aos resultados do Estudo 1. Os resultados do pós-teste indicaram que a ordem deixou de ser significativa e que os estudantes acertaram mais na interpretação e construíram gráficos corretamente. Na interpretação não foram observadas diferenças significativas por grupo de intervenção, entretanto, os resultados do G2 foram melhores que os demais grupos. Verificamos desempenho significativamente melhor no pós-teste na leitura dos dados, leitura entre os dados e leitura para além dos dados, entretanto, dificuldades nas questões de comparação se mostraram persistentes. Quanto à construção, observamos gráficos construídos corretamente, com a inclusão de estruturantes básicos e a adequação da escala, sobretudo no G1. Intervir apenas com atividades de interpretação contribuiu na compreensão de gráficos de maneira mais forte, entretanto, não auxiliou na construção correta de novos gráficos. Por outro lado, observamos desempenhos superiores na construção quando os estudantes participaram das seções com construção, mais fortemente quando foram submetidos apenas às seções de construção. Conclui-se a partir dos resultados alcançados que interpretar e construir gráficos são atividades distintas, mas relacionadas, e que o trabalho articulado entre estas duas atividades contribui para o desenvolvimento de habilidades para interpretar e para construir. Entretanto, aprender a construir gráficos auxilia na interpretação mais do que o inverso.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-30004873",
+  "autor": "Izauriana Borges Lima",
+  "ano": 2019,
+  "tipo": "Tese",
+  "titulo": "GRÁFICOS DE BARRAS NA EDUCAÇÃO DE JOVENS E ADULTOS: investigando as relações entre tarefas de interpretar e construir",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Ana Coelho Vieira Selva",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Gráficos de barras.; Letramento; Educação de Jovens e Adultos; Interpretação e construção",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22GR%C3%81FICOS%20DE%20BARRAS%20NA%20EDUCA%C3%87%C3%83O%20DE%20JOVENS%20E%20ADULTOS%3A%20investigando%20as%20rela%C3%A7%C3%B5es%20entre%20tarefas%20de%20interpretar%20e%20construir%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=GR%C3%81FICOS%20DE%20BARRAS%20NA%20EDUCA%C3%87%C3%83O%20DE%20JOVENS%20E%20ADULTOS%3A%20investigando%20as%20rela%C3%A7%C3%B5es%20entre%20tarefas%20de%20interpretar%20e%20construir&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30004873"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30004873",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Gráficos de barras.",
+    "Letramento",
+    "Educação de Jovens e Adultos",
+    "Interpretação e construção"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30004873.svg",
+  "resumo": "O objetivo desta tese foi investigar as relações em interpretar e construir gráficos de barras na Educação de Jovens e Adultos (EJA) através de dois estudos. No primeiro, analisamos o desempenho de 88 estudantes do Ensino Fundamental, sendo 44 do Módulo III e 44 do Módulo V, em atividades de interpretação e construção. A ordem de apresentação das atividades foi alternada e os resultados indicaram que foi significativamente mais fácil construir um gráfico quando iniciaram por uma atividade de interpretação. Os estudantes mostraram facilidade na identificação de pontos extremos (leitura entre os dados), questões de localização (leitura dos dados) ainda trouxeram dificuldades e questões de análise variacional (leitura entre os dados) foram as mais difíceis. Na leitura para além dos dados, apresentaram acertos semelhantes entre os módulos, revelando a ausência da escola ao longo do Ensino Fundamental como responsável pelos avanços nos níveis mais elevados de compreensão gráfica. Quanto à construção, os resultados evidenciaram a ausência de elementos estruturantes, como o título, entretanto, a maioria apresentou a descrição das categorias e frequências e o uso da linha de base. A construção da escala foi a dificuldade mais evidente. Observamos que o êxito na interpretação não garantiu bons resultados em construção, entretanto, resultados exitosos em construção corresponderam a bons desempenhos na interpretação. O segundo estudo objetivou aprofundar a compreensão das relações entre interpretar e construir, a partir de quatro intervenções pedagógicas distintas, com 28 estudantes do último ano dos anos iniciais do Ensino Fundamental da EJA. O Estudo 2 envolveu pré-teste, intervenção e pós-teste. O pré-teste e o pós-teste foram semelhantes. As quatro intervenções envolveram: duas seções de construção (G1), duas seções de interpretação (G2), uma seção de interpretação seguida de construção (G3) e uma seção de construção seguida de interpretação (G4). Os resultados do pré-teste foram semelhantes aos resultados do Estudo 1. Os resultados do pós-teste indicaram que a ordem deixou de ser significativa e que os estudantes acertaram mais na interpretação e construíram gráficos corretamente. Na interpretação não foram observadas diferenças significativas por grupo de intervenção, entretanto, os resultados do G2 foram melhores que os demais grupos. Verificamos desempenho significativamente melhor no pós-teste na leitura dos dados, leitura entre os dados e leitura para além dos dados, entretanto, dificuldades nas questões de comparação se mostraram persistentes. Quanto à construção, observamos gráficos construídos corretamente, com a inclusão de estruturantes básicos e a adequação da escala, sobretudo no G1. Intervir apenas com atividades de interpretação contribuiu na compreensão de gráficos de maneira mais forte, entretanto, não auxiliou na construção correta de novos gráficos. Por outro lado, observamos desempenhos superiores na construção quando os estudantes participaram das seções com construção, mais fortemente quando foram submetidos apenas às seções de construção. Conclui-se a partir dos resultados alcançados que interpretar e construir gráficos são atividades distintas, mas relacionadas, e que o trabalho articulado entre estas duas atividades contribui para o desenvolvimento de habilidades para interpretar e para construir. Entretanto, aprender a construir gráficos auxilia na interpretação mais do que o inverso.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

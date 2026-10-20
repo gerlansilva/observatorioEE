@@ -1,61 +1,61 @@
 {
- "id": "capes-29873714",
- "autor": "Denise Jane Alves Frederic",
- "ano": 2018,
- "tipo": "Dissertação",
- "titulo": "Contribuições das Educação Estatística, Socioemocional e Financeira para a saúde do cidadão",
- "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Diva Valerio Novaes",
- "programa": "Ensino de Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Estatística; Educação Socioemocional; Educação Matemática; Felicidade; Transdisciplinaridade",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Contribui%C3%A7%C3%B5es%20das%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%2C%20Socioemocional%20e%20Financeira%20para%20a%20sa%C3%BAde%20do%20cidad%C3%A3o%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Contribui%C3%A7%C3%B5es%20das%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%2C%20Socioemocional%20e%20Financeira%20para%20a%20sa%C3%BAde%20do%20cidad%C3%A3o&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29873714"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "29873714",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Estatística",
-  "Educação Socioemocional",
-  "Educação Matemática",
-  "Felicidade",
-  "Transdisciplinaridade"
- ],
- "thumbnail": "./assets/images/thumbs/capes-29873714.svg",
- "resumo": "Este trabalho teve como objetivo verificar as possibilidades de aprendizagem geradas por uma atividade que busca integrar Educação Matemática Crítica, Educação Estatística, Educação Financeira e Educação Socioemocional de maneira transdisciplinar no espaço das aulas de Matemática no currículo do sexto ano da Educação Básica. Nossos estudos apontaram causas que levam as pessoas a inadimplência e suas consequências, o número de endividados no Brasil aumenta de forma contínua, com picos de aceleração, tendo como consequência do endividamento o comprometimento da qualidade de vida pessoal bem como, repercute de forma negativa na vida social e na economia. No levantamento bibliográfico realizado nota-se que os enfoques dados em educação financeira, na Educação Básica, com frequência visam avaliar e orientar como e onde aplicar o dinheiro, estabelece discussões sobre escolhas da forma de pagamento, como a vista ou a prazo, principalmente em relação a cálculos de juros. Entendemos que é importante discutir também os aspectos emocionais envolvidos em questões financeiras. Dessa forma, supomos que com a consciência das armadilhas do marketing, a discussão sobre resultado de pesquisas da Ciência Hedônica, sobre o que realmente torna as pessoas felizes de maneira mais duradoura, e também, alguns aspectos de autogestão e de análise de dados favorecida por conhecimentos de Estatística, os estudantes poderão ser preparados para fazer melhores escolhas financeiras e obterem tomada de decisões fundamentadas e responsáveis. Elaboramos uma atividade transdisciplinar no contexto de Educação Financeira para ser aplicada no espaço destinado ao estudo da Estatística no 6º ano do Ensino Fundamental. Esta atividade além da formação estatística proposta no plano de ensino da turma instigou os alunos as primeiras reflexões sobre as necessidades humanas essenciais para uma vida saudável, estabelecendo a diferença entre consumo e consumismo, entre importante e essencial, bem como, distinguindo uma necessidade das diversas maneiras de satisfazer essa necessidade, sem comprometer a sustentabilidade da vida em nosso planeta.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-29873714",
+  "autor": "Denise Jane Alves Frederic",
+  "ano": 2018,
+  "tipo": "Dissertação",
+  "titulo": "Contribuições das Educação Estatística, Socioemocional e Financeira para a saúde do cidadão",
+  "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Diva Valerio Novaes",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Educação Socioemocional; Educação Matemática; Felicidade; Transdisciplinaridade",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Contribui%C3%A7%C3%B5es%20das%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%2C%20Socioemocional%20e%20Financeira%20para%20a%20sa%C3%BAde%20do%20cidad%C3%A3o%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Contribui%C3%A7%C3%B5es%20das%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%2C%20Socioemocional%20e%20Financeira%20para%20a%20sa%C3%BAde%20do%20cidad%C3%A3o&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29873714"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "29873714",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Educação Socioemocional",
+    "Educação Matemática",
+    "Felicidade",
+    "Transdisciplinaridade"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-29873714.svg",
+  "resumo": "Este trabalho teve como objetivo verificar as possibilidades de aprendizagem geradas por uma atividade que busca integrar Educação Matemática Crítica, Educação Estatística, Educação Financeira e Educação Socioemocional de maneira transdisciplinar no espaço das aulas de Matemática no currículo do sexto ano da Educação Básica. Nossos estudos apontaram causas que levam as pessoas a inadimplência e suas consequências, o número de endividados no Brasil aumenta de forma contínua, com picos de aceleração, tendo como consequência do endividamento o comprometimento da qualidade de vida pessoal bem como, repercute de forma negativa na vida social e na economia. No levantamento bibliográfico realizado nota-se que os enfoques dados em educação financeira, na Educação Básica, com frequência visam avaliar e orientar como e onde aplicar o dinheiro, estabelece discussões sobre escolhas da forma de pagamento, como a vista ou a prazo, principalmente em relação a cálculos de juros. Entendemos que é importante discutir também os aspectos emocionais envolvidos em questões financeiras. Dessa forma, supomos que com a consciência das armadilhas do marketing, a discussão sobre resultado de pesquisas da Ciência Hedônica, sobre o que realmente torna as pessoas felizes de maneira mais duradoura, e também, alguns aspectos de autogestão e de análise de dados favorecida por conhecimentos de Estatística, os estudantes poderão ser preparados para fazer melhores escolhas financeiras e obterem tomada de decisões fundamentadas e responsáveis. Elaboramos uma atividade transdisciplinar no contexto de Educação Financeira para ser aplicada no espaço destinado ao estudo da Estatística no 6º ano do Ensino Fundamental. Esta atividade além da formação estatística proposta no plano de ensino da turma instigou os alunos as primeiras reflexões sobre as necessidades humanas essenciais para uma vida saudável, estabelecendo a diferença entre consumo e consumismo, entre importante e essencial, bem como, distinguindo uma necessidade das diversas maneiras de satisfazer essa necessidade, sem comprometer a sustentabilidade da vida em nosso planeta.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

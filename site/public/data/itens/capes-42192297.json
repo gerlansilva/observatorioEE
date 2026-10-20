@@ -1,60 +1,60 @@
 {
- "id": "capes-42192297",
- "autor": "Leticia Santos Elias Rocha",
- "ano": 2024,
- "tipo": "Dissertação",
- "titulo": "Uma Abordagem Didática Envolvendo Ideias e Conceitos Probabilísticos no 6° Ano do Ensino Fundamental",
- "instituicao": "Universidade Federal de Juiz de Fora",
- "cidade": "",
- "estado": "Minas Gerais",
- "regiao": "Sudeste",
- "orientador": "Chang Kuo Rodrigues",
- "programa": "EDUCAÇÃO MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Matemática; Educação Estatística; Objeto de aprendizagem; Literacia probabilística",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Uma%20Abordagem%20Did%C3%A1tica%20Envolvendo%20Ideias%20e%20Conceitos%20Probabil%C3%ADsticos%20no%206%C2%B0%20Ano%20do%20Ensino%20Fundamental%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma%20Abordagem%20Did%C3%A1tica%20Envolvendo%20Ideias%20e%20Conceitos%20Probabil%C3%ADsticos%20no%206%C2%B0%20Ano%20do%20Ensino%20Fundamental&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42192297"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "42192297",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Matemática",
-  "Educação Estatística",
-  "Objeto de aprendizagem",
-  "Literacia probabilística"
- ],
- "thumbnail": "./assets/images/thumbs/capes-42192297.svg",
- "resumo": "O presente trabalho envolve o estudo do processo de ensino e de aprendizagem de ideias e noções de Probabilidade, bem como a discussão sobre meios que podem contribuir para potencializar esse processo nos Anos Finais da Educação Básica, mais especificamente no 6º ano do Ensino Fundamental. A pesquisa é de cunho qualitativo e foi utilizada a metodologia da Engenharia Didática em confluência com a Teoria das Situações Didáticas. A escola onde a Experimentação foi realizada é pública e também o local onde a pesquisadora atua como professora regente. Foi aplicada uma sequência de atividades em uma turma do 6° ano do Ensino Fundamental. Os dados foram coletados com o objetivo de estudo e análise de como se deu o processo de ensino e de aprendizagem dos conceitos e ideias probabilísticas, utilizando como procedimento metodológico a Teoria das Situações Didáticas na Experimentação e, além disso, foi feita a análise dos resultados à luz da Literacia Probabilística. Neste contexto, foram desenvolvidos dois produtos educacionais: um sob a perspectiva do ensino, que é uma proposta metodológica para a análise de livros didáticos e um sob a perspectiva da aprendizagem, que é um quiz on-line, um objeto de aprendizagem. A partir das análises realizadas na perspectiva de ensino, verificou-se que a proposta metodológica apresentada neste trabalho, pode permitir ao professor verificar como o conteúdo de interesse vem sendo abordado nos livros didáticos aprovados pela PNLD e, diante disso, ajudá-lo a fazer escolhas; e, na perspectiva da aprendizagem, verificou-se que a utilização do quiz on-line pode favorecer a aprendizagem dos alunos, bem como as tarefas que estimulam o exercício da literacia probabilística, uma vez que foram identificados nas justificativas para escolha das respostas dadas pelos alunos, os cinco elementos do construto da Literacia Probabilística.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-42192297",
+  "autor": "Leticia Santos Elias Rocha",
+  "ano": 2024,
+  "tipo": "Dissertação",
+  "titulo": "Uma Abordagem Didática Envolvendo Ideias e Conceitos Probabilísticos no 6° Ano do Ensino Fundamental",
+  "instituicao": "Universidade Federal de Juiz de Fora",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Chang Kuo Rodrigues",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Matemática; Educação Estatística; Objeto de aprendizagem; Literacia probabilística",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Uma%20Abordagem%20Did%C3%A1tica%20Envolvendo%20Ideias%20e%20Conceitos%20Probabil%C3%ADsticos%20no%206%C2%B0%20Ano%20do%20Ensino%20Fundamental%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma%20Abordagem%20Did%C3%A1tica%20Envolvendo%20Ideias%20e%20Conceitos%20Probabil%C3%ADsticos%20no%206%C2%B0%20Ano%20do%20Ensino%20Fundamental&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42192297"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "42192297",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Matemática",
+    "Educação Estatística",
+    "Objeto de aprendizagem",
+    "Literacia probabilística"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-42192297.svg",
+  "resumo": "O presente trabalho envolve o estudo do processo de ensino e de aprendizagem de ideias e noções de Probabilidade, bem como a discussão sobre meios que podem contribuir para potencializar esse processo nos Anos Finais da Educação Básica, mais especificamente no 6º ano do Ensino Fundamental. A pesquisa é de cunho qualitativo e foi utilizada a metodologia da Engenharia Didática em confluência com a Teoria das Situações Didáticas. A escola onde a Experimentação foi realizada é pública e também o local onde a pesquisadora atua como professora regente. Foi aplicada uma sequência de atividades em uma turma do 6° ano do Ensino Fundamental. Os dados foram coletados com o objetivo de estudo e análise de como se deu o processo de ensino e de aprendizagem dos conceitos e ideias probabilísticas, utilizando como procedimento metodológico a Teoria das Situações Didáticas na Experimentação e, além disso, foi feita a análise dos resultados à luz da Literacia Probabilística. Neste contexto, foram desenvolvidos dois produtos educacionais: um sob a perspectiva do ensino, que é uma proposta metodológica para a análise de livros didáticos e um sob a perspectiva da aprendizagem, que é um quiz on-line, um objeto de aprendizagem. A partir das análises realizadas na perspectiva de ensino, verificou-se que a proposta metodológica apresentada neste trabalho, pode permitir ao professor verificar como o conteúdo de interesse vem sendo abordado nos livros didáticos aprovados pela PNLD e, diante disso, ajudá-lo a fazer escolhas; e, na perspectiva da aprendizagem, verificou-se que a utilização do quiz on-line pode favorecer a aprendizagem dos alunos, bem como as tarefas que estimulam o exercício da literacia probabilística, uma vez que foram identificados nas justificativas para escolha das respostas dadas pelos alunos, os cinco elementos do construto da Literacia Probabilística.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

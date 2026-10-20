@@ -1,61 +1,61 @@
 {
- "id": "capes-34911291",
- "autor": "Dianis Ferreira Irias",
- "ano": 2021,
- "tipo": "Dissertação",
- "titulo": "O Ensino Remoto de Matemática no Ensino Médio em uma Escola Mineira: Percursos e Percalços",
- "instituicao": "Universidade Federal de Ouro Preto",
- "cidade": "",
- "estado": "Minas Gerais",
- "regiao": "Sudeste",
- "orientador": "Marli Regina dos Santos",
- "programa": "EDUCAÇÃO MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "ANÁLISE COMBINATÓRIA; ENSINO HÍBRIDO; ENSINO REMOTO; FENOMENOLOGIA; MOBILE LEARNING; TIC.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ENSINO%20REMOTO%20DE%20MATEM%C3%81TICA%20NO%20ENSINO%20M%C3%89DIO%20EM%20UMA%20ESCOLA%20MINEIRA%3A%20PERCURSOS%20E%20PERCAL%C3%87OS%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ENSINO%20REMOTO%20DE%20MATEM%C3%81TICA%20NO%20ENSINO%20M%C3%89DIO%20EM%20UMA%20ESCOLA%20MINEIRA%3A%20PERCURSOS%20E%20PERCAL%C3%87OS&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34911291"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "34911291",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "ANÁLISE COMBINATÓRIA",
-  "ENSINO HÍBRIDO",
-  "ENSINO REMOTO",
-  "FENOMENOLOGIA",
-  "MOBILE LEARNING",
-  "TIC."
- ],
- "thumbnail": "./assets/images/thumbs/capes-34911291.svg",
- "resumo": "Esta pesquisa, de cunho qualitativo fenomenológico, coloca em destaque a implantação da proposta de ensino remoto da rede estadual mineira em uma turma do segundo ano do Ensino Médio Regular de uma escola do interior de Minas Gerais. A questão de investigação, que orientou o caminhar da pesquisa e a própria pesquisadora-professora para a compreensão do fenômeno investigado, foi “Como se deu a implantação, em uma turma do segundo ano do Ensino Médio, da proposta de ensino emergencial e remoto de matemática apresentada pela Secretaria de Estado e Educação de Minas Gerais (SEE-MG) com vistas à manutenção do ensino diante da pandemia e necessidade de isolamento social?”. Visando compreender a implantação da proposta, em seus percursos e percalços, é apresentado um breve panorama do cenário da pandemia e seus reflexos na sociedade e em especial na educação de Minas Gerais, embasado por documentos oficiais (Decretos, Leis e Resoluções), bem como pelo Documento Orientador para o Regime Especial de Atividades Não Presenciais da Secretaria de Estado de Educação de Minas Gerais (REANP/SEE-MG). Considerando o papel preponderante das tecnologias de informação e comunicação (TIC) para que o ensino remoto se tornasse realidade, há uma reflexão quanto ao seu uso no processo de ensino e aprendizagem, dialogando com discussões atuais quanto à EaD e Ensino Remoto, em suas aproximações e afastamento; à aprendizagem móvel, ou Mobile Learning, e reconfiguração do uso do celular visando a aprendizagem; ao Ensino Híbrido e suas possibilidades. Para a coleta dos dados, foram destacadas as ações e interações ocorridas na implantação do REANP na turma acompanhada, com foco na disciplina de Matemática, cujo tema abordado é a Análise Combinatória. Foram considerados como fontes de dados as interações ocorridas, remotamente entre a pesquisadora- professora, equipe escolar e alunos; as devolutivas dos alunos para as atividades propostas e para a Sondagem realizada; os recursos do REANP, como os documentos orientadores, a apostila do PET e as tele aulas do Programa Se liga na Educação. Os dados coletados foram organizados em forma de descrição e sustentaram as análises ideográfica e nomotética da abordagem fenomenológica. A partir das unidades de significado que se destacaram e dos sentidos explicitados por elas, as convergências efetuadas levaram a três grandes categorias de compreensão do fenômeno indagado: O papel das tecnologias e as (re)organizações que se dão; A prática docente em meio ao ensino remoto; e Ensino e aprendizagem da Matemática: (re)configurações no ensino remoto. Por meio delas, discorremos sobre a implantação da proposta, tecendo reflexões quanto ao uso das tecnologias, à prática docente e ao ensino do tema focado. As categorias indicam que o uso das TIC, ainda que com foco na comunicação e não no seu potencial pedagógico para o ensino da matemática, foi um caminho possível, que exigiu dos professores um repensar sobre sua prática e suas ações, visando envolver seus alunos e suprir lacunas e dificuldades que se apresentaram. As reflexões quanto às análises, levaram à elaboração do Produto Educacional intitulado Ensino Híbrido e Mobile Learning: uma proposta para introdução de conceitos de Análise Combinatória no Ensino Médio, que apresenta uma síntese das reflexões possibilitadas na pesquisa e uma proposta de abordagem para o ensino do tema, com sugestões de atividades que podem ser realizadas de forma presencial ou remota, síncrona ou assíncrona, destacando aspectos da aprendizagem móvel e do ensino híbrido como caminhos no cenário pós-pandemia.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "coleta expandida (plural/vocabulário)"
- ]
+  "id": "capes-34911291",
+  "autor": "Dianis Ferreira Irias",
+  "ano": 2021,
+  "tipo": "Dissertação",
+  "titulo": "O Ensino Remoto de Matemática no Ensino Médio em uma Escola Mineira: Percursos e Percalços",
+  "instituicao": "Universidade Federal de Ouro Preto",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Marli Regina dos Santos",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "ANÁLISE COMBINATÓRIA; ENSINO HÍBRIDO; ENSINO REMOTO; FENOMENOLOGIA; MOBILE LEARNING; TIC.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ENSINO%20REMOTO%20DE%20MATEM%C3%81TICA%20NO%20ENSINO%20M%C3%89DIO%20EM%20UMA%20ESCOLA%20MINEIRA%3A%20PERCURSOS%20E%20PERCAL%C3%87OS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ENSINO%20REMOTO%20DE%20MATEM%C3%81TICA%20NO%20ENSINO%20M%C3%89DIO%20EM%20UMA%20ESCOLA%20MINEIRA%3A%20PERCURSOS%20E%20PERCAL%C3%87OS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34911291"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "34911291",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "ANÁLISE COMBINATÓRIA",
+    "ENSINO HÍBRIDO",
+    "ENSINO REMOTO",
+    "FENOMENOLOGIA",
+    "MOBILE LEARNING",
+    "TIC."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-34911291.svg",
+  "resumo": "Esta pesquisa, de cunho qualitativo fenomenológico, coloca em destaque a implantação da proposta de ensino remoto da rede estadual mineira em uma turma do segundo ano do Ensino Médio Regular de uma escola do interior de Minas Gerais. A questão de investigação, que orientou o caminhar da pesquisa e a própria pesquisadora-professora para a compreensão do fenômeno investigado, foi “Como se deu a implantação, em uma turma do segundo ano do Ensino Médio, da proposta de ensino emergencial e remoto de matemática apresentada pela Secretaria de Estado e Educação de Minas Gerais (SEE-MG) com vistas à manutenção do ensino diante da pandemia e necessidade de isolamento social?”. Visando compreender a implantação da proposta, em seus percursos e percalços, é apresentado um breve panorama do cenário da pandemia e seus reflexos na sociedade e em especial na educação de Minas Gerais, embasado por documentos oficiais (Decretos, Leis e Resoluções), bem como pelo Documento Orientador para o Regime Especial de Atividades Não Presenciais da Secretaria de Estado de Educação de Minas Gerais (REANP/SEE-MG). Considerando o papel preponderante das tecnologias de informação e comunicação (TIC) para que o ensino remoto se tornasse realidade, há uma reflexão quanto ao seu uso no processo de ensino e aprendizagem, dialogando com discussões atuais quanto à EaD e Ensino Remoto, em suas aproximações e afastamento; à aprendizagem móvel, ou Mobile Learning, e reconfiguração do uso do celular visando a aprendizagem; ao Ensino Híbrido e suas possibilidades. Para a coleta dos dados, foram destacadas as ações e interações ocorridas na implantação do REANP na turma acompanhada, com foco na disciplina de Matemática, cujo tema abordado é a Análise Combinatória. Foram considerados como fontes de dados as interações ocorridas, remotamente entre a pesquisadora- professora, equipe escolar e alunos; as devolutivas dos alunos para as atividades propostas e para a Sondagem realizada; os recursos do REANP, como os documentos orientadores, a apostila do PET e as tele aulas do Programa Se liga na Educação. Os dados coletados foram organizados em forma de descrição e sustentaram as análises ideográfica e nomotética da abordagem fenomenológica. A partir das unidades de significado que se destacaram e dos sentidos explicitados por elas, as convergências efetuadas levaram a três grandes categorias de compreensão do fenômeno indagado: O papel das tecnologias e as (re)organizações que se dão; A prática docente em meio ao ensino remoto; e Ensino e aprendizagem da Matemática: (re)configurações no ensino remoto. Por meio delas, discorremos sobre a implantação da proposta, tecendo reflexões quanto ao uso das tecnologias, à prática docente e ao ensino do tema focado. As categorias indicam que o uso das TIC, ainda que com foco na comunicação e não no seu potencial pedagógico para o ensino da matemática, foi um caminho possível, que exigiu dos professores um repensar sobre sua prática e suas ações, visando envolver seus alunos e suprir lacunas e dificuldades que se apresentaram. As reflexões quanto às análises, levaram à elaboração do Produto Educacional intitulado Ensino Híbrido e Mobile Learning: uma proposta para introdução de conceitos de Análise Combinatória no Ensino Médio, que apresenta uma síntese das reflexões possibilitadas na pesquisa e uma proposta de abordagem para o ensino do tema, com sugestões de atividades que podem ser realizadas de forma presencial ou remota, síncrona ou assíncrona, destacando aspectos da aprendizagem móvel e do ensino híbrido como caminhos no cenário pós-pandemia.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
 }

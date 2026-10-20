@@ -1,60 +1,60 @@
 {
- "id": "capes-41347629",
- "autor": "Erivan Grangeiro de Morais",
- "ano": 2024,
- "tipo": "Dissertação",
- "titulo": "Técnicas de Contagem na Resolução de Questões de Concursos Públicos",
- "instituicao": "Universidade Federal do Cariri",
- "cidade": "",
- "estado": "Ceará",
- "regiao": "Nordeste",
- "orientador": "Valdir Ferreira de Paula Junior",
- "programa": "Matemática em Rede Nacional",
- "area": "CIÊNCIAS E HUMANIDADES PARA A EDUCAÇÃO BÁSICA",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Combinatória; Técnicas de contagem; Concursos públicos; Triângulo de Pascal; Binômio de Newton",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22T%C3%89CNICAS%20DE%20CONTAGEM%20NA%20RESOLU%C3%87%C3%83O%20DE%20QUEST%C3%95ES%20DE%20CONCURSOS%20P%C3%9ABLICOS%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=T%C3%89CNICAS%20DE%20CONTAGEM%20NA%20RESOLU%C3%87%C3%83O%20DE%20QUEST%C3%95ES%20DE%20CONCURSOS%20P%C3%9ABLICOS&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41347629"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "41347629",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Combinatória",
-  "Técnicas de contagem",
-  "Concursos públicos",
-  "Triângulo de Pascal",
-  "Binômio de Newton"
- ],
- "thumbnail": "./assets/images/thumbs/capes-41347629.svg",
- "resumo": "O presente trabalho, intitulado “Técnicas de Contagem Aplicadas à Resolução de Questões em Concursos Públicos”, explora a importância e o uso das questões de contagem em vestibulares e concursos públicos, abrangendo também a seleção de docentes nos Institutos Federais. A pesquisa analisa provas recentes desses concursos, com ênfase na frequência e nos tipos de problemas de contagem, como permutações e combinações, que são frequentemente abordados. A relevância deste estudo reside no fato de que as questões de contagem surgem de forma recorrente nesses exames, exigindo dos candidatos uma sólida compreensão das técnicas combinatórias. Além disso, dominar esses conceitos é essencial não só para a resolução de problemas específicos, mas também para o desenvolvimento de habilidades analíticas e lógicas, que são amplamente valorizadas tanto em exames seletivos quanto na prática docente, especialmente nas áreas de Matemática e disciplinas correlatas. O estudo também aborda o Triângulo de Pascal e o Binômio de Newton, ferramentas fundamentais no ensino médio, pois oferecem uma base sólida para a compreensão de conceitos de combinatória e álgebra. Essas ferramentas permitem que os alunos compreendam a estrutura dos coeficientes binomiais e suas aplicações em diversas áreas da matemática, como a resolução de equações e o cálculo de probabilidades. Além disso, o trabalho apresenta demonstrações combinatórias e algébricas de algumas propriedades do Triângulo de Pascal, explorando suas aplicações práticas em sala de aula. Por fim, oferece soluções para questões de contagem já abordadas em concursos, reforçando a importância do domínio dessas técnicas. A dissertação está estruturada em cinco capítulos, que abrangem desde os conceitos básicos de métodos de contagem até discussões mais aprofundadas sobre a aplicação desses conceitos em contextos educacionais. O objetivo final é fornecer um material de estudo útil para alunos e professores que desejam aprimorar seus conhecimentos e se preparar para concursos, destacando tanto a relevância quanto a complexidade das questões de contagem. Dessa forma, o trabalho não apenas contribui para o conhecimento técnico na área, mas também oferece suporte prático para o desenvolvimento de estratégias de ensino e aprendizagem focadas em combinatória.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "coleta expandida (plural/vocabulário)"
- ]
+  "id": "capes-41347629",
+  "autor": "Erivan Grangeiro de Morais",
+  "ano": 2024,
+  "tipo": "Dissertação",
+  "titulo": "Técnicas de Contagem na Resolução de Questões de Concursos Públicos",
+  "instituicao": "Universidade Federal do Cariri",
+  "cidade": "",
+  "estado": "Ceará",
+  "regiao": "Nordeste",
+  "orientador": "Valdir Ferreira de Paula Junior",
+  "programa": "Matemática em Rede Nacional",
+  "area": "CIÊNCIAS E HUMANIDADES PARA A EDUCAÇÃO BÁSICA",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Combinatória; Técnicas de contagem; Concursos públicos; Triângulo de Pascal; Binômio de Newton",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22T%C3%89CNICAS%20DE%20CONTAGEM%20NA%20RESOLU%C3%87%C3%83O%20DE%20QUEST%C3%95ES%20DE%20CONCURSOS%20P%C3%9ABLICOS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=T%C3%89CNICAS%20DE%20CONTAGEM%20NA%20RESOLU%C3%87%C3%83O%20DE%20QUEST%C3%95ES%20DE%20CONCURSOS%20P%C3%9ABLICOS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41347629"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "41347629",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Combinatória",
+    "Técnicas de contagem",
+    "Concursos públicos",
+    "Triângulo de Pascal",
+    "Binômio de Newton"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-41347629.svg",
+  "resumo": "O presente trabalho, intitulado “Técnicas de Contagem Aplicadas à Resolução de Questões em Concursos Públicos”, explora a importância e o uso das questões de contagem em vestibulares e concursos públicos, abrangendo também a seleção de docentes nos Institutos Federais. A pesquisa analisa provas recentes desses concursos, com ênfase na frequência e nos tipos de problemas de contagem, como permutações e combinações, que são frequentemente abordados. A relevância deste estudo reside no fato de que as questões de contagem surgem de forma recorrente nesses exames, exigindo dos candidatos uma sólida compreensão das técnicas combinatórias. Além disso, dominar esses conceitos é essencial não só para a resolução de problemas específicos, mas também para o desenvolvimento de habilidades analíticas e lógicas, que são amplamente valorizadas tanto em exames seletivos quanto na prática docente, especialmente nas áreas de Matemática e disciplinas correlatas. O estudo também aborda o Triângulo de Pascal e o Binômio de Newton, ferramentas fundamentais no ensino médio, pois oferecem uma base sólida para a compreensão de conceitos de combinatória e álgebra. Essas ferramentas permitem que os alunos compreendam a estrutura dos coeficientes binomiais e suas aplicações em diversas áreas da matemática, como a resolução de equações e o cálculo de probabilidades. Além disso, o trabalho apresenta demonstrações combinatórias e algébricas de algumas propriedades do Triângulo de Pascal, explorando suas aplicações práticas em sala de aula. Por fim, oferece soluções para questões de contagem já abordadas em concursos, reforçando a importância do domínio dessas técnicas. A dissertação está estruturada em cinco capítulos, que abrangem desde os conceitos básicos de métodos de contagem até discussões mais aprofundadas sobre a aplicação desses conceitos em contextos educacionais. O objetivo final é fornecer um material de estudo útil para alunos e professores que desejam aprimorar seus conhecimentos e se preparar para concursos, destacando tanto a relevância quanto a complexidade das questões de contagem. Dessa forma, o trabalho não apenas contribui para o conhecimento técnico na área, mas também oferece suporte prático para o desenvolvimento de estratégias de ensino e aprendizagem focadas em combinatória.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
 }

@@ -1,57 +1,57 @@
 {
- "id": "capes-23382487",
- "autor": "Fabiane Santana da Silva",
- "ano": 2017,
- "tipo": "Dissertação",
- "titulo": "Raciocínio Combinatório e a Criatividade Matemática no Ensino Médio",
- "instituicao": "Universidade Estadual de Santa Cruz",
- "cidade": "",
- "estado": "Bahia",
- "regiao": "Nordeste",
- "orientador": "Irene Mauricio Cazorla",
- "programa": "Educação Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Criatividade Matemática. Análise Combinatória. Raciocínio Combinatório, Ensino Médio. Aprendizagem.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO%20E%20A%20CRIATIVIDADE%20MATEM%C3%81TICA%20NO%20ENSINO%20M%C3%89DIO%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO%20E%20A%20CRIATIVIDADE%20MATEM%C3%81TICA%20NO%20ENSINO%20M%C3%89DIO&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/23382487"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "23382487",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Criatividade Matemática. Análise Combinatória. Raciocínio Combinatório, Ensino Médio. Aprendizagem."
- ],
- "thumbnail": "./assets/images/thumbs/capes-23382487.svg",
- "resumo": "Esta pesquisa teve como objetivo analisar as possíveis contribuições que a sequência de ensino, construída na perspectiva da Criatividade Matemática, pode trazer para o desenvolvimento do raciocínio combinatório de estudantes do 2º ano do Ensino Médio. Esta pesquisa, de caráter intervencionista, delineou-se como parcialmente experimental, ao abranger uma variação do plano clássico, pelo fato de não considerar o grupo controle, composto de grupo comparado “antes“ e “depois”, com duas réplicas (Estudo I e Estudo II). Dessa forma, foi construído e aplicado um teste antes e depois da intervenção, além de uma sequência de ensino, composta por seis questões para explorar os conceitos de Arranjo e Permutação. Os resultados mostram que o desempenho dos estudantes no pós-teste em relação ao pré-teste foi estatisticamente superior nos dois estudos, sendo que as resoluções demonstram: Presença de Raciocínio Combinatório; troca no nível de complexidade em relação à ordem de grandeza dos problemas de arranjo e permutação; Capacidades inerentes a Criatividade Matemática dos quais os estudantes se tornam mais fluentes e flexíveis. Tais resultados são indicadores de contribuições positivas para o desenvolvimento do raciocínio combinatório dos aprendizes envolvidos, a partir da sequência de ensino elaborada com os princípios da Criatividade Matemática.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "raciocínio combinatório"
- ],
- "ids_duplicados": []
+  "id": "capes-23382487",
+  "autor": "Fabiane Santana da Silva",
+  "ano": 2017,
+  "tipo": "Dissertação",
+  "titulo": "Raciocínio Combinatório e a Criatividade Matemática no Ensino Médio",
+  "instituicao": "Universidade Estadual de Santa Cruz",
+  "cidade": "",
+  "estado": "Bahia",
+  "regiao": "Nordeste",
+  "orientador": "Irene Mauricio Cazorla",
+  "programa": "Educação Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Criatividade Matemática. Análise Combinatória. Raciocínio Combinatório, Ensino Médio. Aprendizagem.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO%20E%20A%20CRIATIVIDADE%20MATEM%C3%81TICA%20NO%20ENSINO%20M%C3%89DIO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO%20E%20A%20CRIATIVIDADE%20MATEM%C3%81TICA%20NO%20ENSINO%20M%C3%89DIO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/23382487"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "23382487",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Criatividade Matemática. Análise Combinatória. Raciocínio Combinatório, Ensino Médio. Aprendizagem."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-23382487.svg",
+  "resumo": "Esta pesquisa teve como objetivo analisar as possíveis contribuições que a sequência de ensino, construída na perspectiva da Criatividade Matemática, pode trazer para o desenvolvimento do raciocínio combinatório de estudantes do 2º ano do Ensino Médio. Esta pesquisa, de caráter intervencionista, delineou-se como parcialmente experimental, ao abranger uma variação do plano clássico, pelo fato de não considerar o grupo controle, composto de grupo comparado “antes“ e “depois”, com duas réplicas (Estudo I e Estudo II). Dessa forma, foi construído e aplicado um teste antes e depois da intervenção, além de uma sequência de ensino, composta por seis questões para explorar os conceitos de Arranjo e Permutação. Os resultados mostram que o desempenho dos estudantes no pós-teste em relação ao pré-teste foi estatisticamente superior nos dois estudos, sendo que as resoluções demonstram: Presença de Raciocínio Combinatório; troca no nível de complexidade em relação à ordem de grandeza dos problemas de arranjo e permutação; Capacidades inerentes a Criatividade Matemática dos quais os estudantes se tornam mais fluentes e flexíveis. Tais resultados são indicadores de contribuições positivas para o desenvolvimento do raciocínio combinatório dos aprendizes envolvidos, a partir da sequência de ensino elaborada com os princípios da Criatividade Matemática.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "raciocínio combinatório"
+  ],
+  "ids_duplicados": []
 }

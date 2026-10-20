@@ -1,62 +1,62 @@
 {
- "id": "capes-30265341",
- "autor": "Scheila Montelli dos Santos",
- "ano": 2018,
- "tipo": "Dissertação",
- "titulo": "Unidade de Ensino Potencialmente Significativa para o estudo de Estatística no Ensino Fundamental II",
- "instituicao": "Fundação Universidade de Passo Fundo",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Cleci Teresinha Werner da Rosa",
- "programa": "Ensino de Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Estatística; Teoria da Aprendizagem Significativa; Unidade de Ensino Potencialmente Significativa (UEPS); Tendências em Educação Matemática; Produto educacional",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Unidade%20de%20Ensino%20Potencialmente%20Significativa%20para%20o%20estudo%20de%20Estat%C3%ADstica%20no%20Ensino%20Fundamental%20II%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Unidade%20de%20Ensino%20Potencialmente%20Significativa%20para%20o%20estudo%20de%20Estat%C3%ADstica%20no%20Ensino%20Fundamental%20II&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30265341"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "30265341",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Estatística",
-  "Teoria da Aprendizagem Significativa",
-  "Unidade de Ensino Potencialmente Significativa (UEPS)",
-  "Tendências em Educação Matemática",
-  "Produto educacional"
- ],
- "thumbnail": "./assets/images/thumbs/capes-30265341.svg",
- "resumo": "O presente texto refere-se à dissertação de mestrado alocado na linha de pesquisa Fundamentos teórico-metodológicos para o ensino de Ciências e Matemática e tem como objetivo principal analisar a implementação de uma Unidade de Ensino Potencialmente Significativa - UEPS para a abordagem de conteúdos de Estatística no Ensino Fundamental, avaliando a sua pertinência em termos didáticos e como favorecedora da construção de conceitos estatísticos. A problemática que gerou o presente estudo se situa na identificação da pouca eficácia do processo de ensino e aprendizagem em Estatística, especialmente no Ensino Fundamental II, apontando para a necessidade de propor alternativas metodológicas. Tal necessidade buscou subsidio na Teoria da Aprendizagem Significativa - TAS na concepção de David Paul Ausubel, a fim de responder o seguinte questionamento: quais as potencialidades que uma proposta didática regulada pela TAS oferece para a construção dos conceitos estatísticos? Para responder a esse questionamento o estudo recorre a elaboração de uma sequência didática na forma de UEPS seguindo a estrutura proposta por Moreira (2011b) e apoiando-se nas Tendências em Educação Matemática, nos Parâmetros Curriculares Nacionais, na Base Nacional Comum Curricular e nos estudos vinculados a Educação em Estatística. Tal sequência didática na forma de UEPS foi estruturada em 20 encontros e desenvolvida em uma turma de sétimo ano do Ensino Fundamental em uma escola pública localizada no interior do Rio Grande do Sul. Metodologicamente, a pesquisa proposta neste estudo caracteriza-se como de abordagem qualitativa e em termos de seus objetivos como pesquisa participante. Como instrumento para coleta de dados foram utilizados os registros no diário de bordo da pesquisadora, que é professora da turma e os materiais produzidos pelos alunos no decorrer dos encontros, especialmente a avaliação diagnóstica e a avaliação somativa, realizadas respectivamente, no primeiro e penúltimo encontro. As discussões dos resultados obtidos com o estudo ocorreram a partir da TAS e dos fundamentos da UEPS, complementados pelas demais discussões especialmente pelos estudos que envolvem o campo da Educação Estatística. Para essa discussão foi adotado duas categorias - Estratégias didática e Objetivos educacionais, dividida em subcategorias. Tais categorias permitiram identificar que a UEPS em termos didáticos se mostrou uma importante ferramenta favorecendo a motivação, o envolvimento, a participação e a busca por conhecimentos. Em relação aos objetivos educacionais, a UEPS demonstrou sua potencialidade em termos de ativação dos conhecimentos prévios e de confronto entre os novos conhecimentos. A presente dissertação é acompanhada de um produto educacional desenvolvida com o objetivo de fornecer subsidio didático-metodológico aos professores do Ensino Fundamental II. Esse produto educacional é integralizado pela sequência didática desenvolvida (UEPS) e está disponibilizado de forma digital e com livre acesso.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-30265341",
+  "autor": "Scheila Montelli dos Santos",
+  "ano": 2018,
+  "tipo": "Dissertação",
+  "titulo": "Unidade de Ensino Potencialmente Significativa para o estudo de Estatística no Ensino Fundamental II",
+  "instituicao": "Fundação Universidade de Passo Fundo",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Cleci Teresinha Werner da Rosa",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Teoria da Aprendizagem Significativa; Unidade de Ensino Potencialmente Significativa (UEPS); Tendências em Educação Matemática; Produto educacional",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Unidade%20de%20Ensino%20Potencialmente%20Significativa%20para%20o%20estudo%20de%20Estat%C3%ADstica%20no%20Ensino%20Fundamental%20II%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Unidade%20de%20Ensino%20Potencialmente%20Significativa%20para%20o%20estudo%20de%20Estat%C3%ADstica%20no%20Ensino%20Fundamental%20II&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30265341"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30265341",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Teoria da Aprendizagem Significativa",
+    "Unidade de Ensino Potencialmente Significativa (UEPS)",
+    "Tendências em Educação Matemática",
+    "Produto educacional"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30265341.svg",
+  "resumo": "O presente texto refere-se à dissertação de mestrado alocado na linha de pesquisa Fundamentos teórico-metodológicos para o ensino de Ciências e Matemática e tem como objetivo principal analisar a implementação de uma Unidade de Ensino Potencialmente Significativa - UEPS para a abordagem de conteúdos de Estatística no Ensino Fundamental, avaliando a sua pertinência em termos didáticos e como favorecedora da construção de conceitos estatísticos. A problemática que gerou o presente estudo se situa na identificação da pouca eficácia do processo de ensino e aprendizagem em Estatística, especialmente no Ensino Fundamental II, apontando para a necessidade de propor alternativas metodológicas. Tal necessidade buscou subsidio na Teoria da Aprendizagem Significativa - TAS na concepção de David Paul Ausubel, a fim de responder o seguinte questionamento: quais as potencialidades que uma proposta didática regulada pela TAS oferece para a construção dos conceitos estatísticos? Para responder a esse questionamento o estudo recorre a elaboração de uma sequência didática na forma de UEPS seguindo a estrutura proposta por Moreira (2011b) e apoiando-se nas Tendências em Educação Matemática, nos Parâmetros Curriculares Nacionais, na Base Nacional Comum Curricular e nos estudos vinculados a Educação em Estatística. Tal sequência didática na forma de UEPS foi estruturada em 20 encontros e desenvolvida em uma turma de sétimo ano do Ensino Fundamental em uma escola pública localizada no interior do Rio Grande do Sul. Metodologicamente, a pesquisa proposta neste estudo caracteriza-se como de abordagem qualitativa e em termos de seus objetivos como pesquisa participante. Como instrumento para coleta de dados foram utilizados os registros no diário de bordo da pesquisadora, que é professora da turma e os materiais produzidos pelos alunos no decorrer dos encontros, especialmente a avaliação diagnóstica e a avaliação somativa, realizadas respectivamente, no primeiro e penúltimo encontro. As discussões dos resultados obtidos com o estudo ocorreram a partir da TAS e dos fundamentos da UEPS, complementados pelas demais discussões especialmente pelos estudos que envolvem o campo da Educação Estatística. Para essa discussão foi adotado duas categorias - Estratégias didática e Objetivos educacionais, dividida em subcategorias. Tais categorias permitiram identificar que a UEPS em termos didáticos se mostrou uma importante ferramenta favorecendo a motivação, o envolvimento, a participação e a busca por conhecimentos. Em relação aos objetivos educacionais, a UEPS demonstrou sua potencialidade em termos de ativação dos conhecimentos prévios e de confronto entre os novos conhecimentos. A presente dissertação é acompanhada de um produto educacional desenvolvida com o objetivo de fornecer subsidio didático-metodológico aos professores do Ensino Fundamental II. Esse produto educacional é integralizado pela sequência didática desenvolvida (UEPS) e está disponibilizado de forma digital e com livre acesso.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

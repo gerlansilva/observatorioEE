@@ -1,61 +1,61 @@
 {
- "id": "capes-20305124",
- "autor": "Siquele Roseane de Carvalho",
- "ano": 2014,
- "tipo": "Dissertação",
- "titulo": "Software Educativo Tinkerplots 2.0: Possibilidades e Limites para a Interpretação de Gráficos por Estudantes do Ensino Fundamental",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Liliane Maria Teixeira Lima de Carvalho",
- "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Estatística; Análise de Software educativo; Interpretação de gráficos; Ensino Fundamental.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22SOFTWARE%20EDUCATIVO%20TINKERPLOTS%202.0%3A%20POSSIBILIDADES%20E%20LIMITES%20PARA%20A%20INTERPRETA%C3%87%C3%83O%20DE%20GR%C3%81FICOS%20POR%20ESTUDANTES%20DO%20ENSINO%20FUNDAMENTAL%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=SOFTWARE%20EDUCATIVO%20TINKERPLOTS%202.0%3A%20POSSIBILIDADES%20E%20LIMITES%20PARA%20A%20INTERPRETA%C3%87%C3%83O%20DE%20GR%C3%81FICOS%20POR%20ESTUDANTES%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20305124"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "20305124",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Estatística",
-  "Análise de Software educativo",
-  "Interpretação de gráficos",
-  "Ensino Fundamental."
- ],
- "thumbnail": "./assets/images/thumbs/capes-20305124.svg",
- "resumo": "Gráficos e tabelas enquanto recursos para a comunicação de dados são encontrados frequentemente nos diversos meios de comunicação e por sua veiculação constante, interpretá-los é um aspecto relevante para a participação do indivíduo na vida social. Para analisar gráficos é fundamental compreender como esses foram organizados, a ordem dos dados e sua relação com o contexto da informação. O software educativo no ensino de Estatística, pode se constituir como ferramenta para a ampliação das experiências com o saber matemático, ajudando estudantes a desenvolver o raciocínio estatístico e a aprender novas formas de representar dados. Em nossa pesquisa, analisamos as possibilidades de uso de tecnologias na Educação Estatística, em particular com o software TinkerPlots 2.0 para visualização e simulação de dados. Nossa proposta é analisar a adequação do software, considerando critérios advindos da literatura sobre o tema, bem como o uso feito por alunos do 5° ano do Ensino Fundamental, em situações de resolução de problemas envolvendo a interpretação de gráficos. Os estudantes vivenciaram inicialmente uma etapa de familiarização com o software, seguida de uma etapa de interpretação de problemas envolvendo bancos de dados e a construção de diferentes visualizações. Utilizamos o software NVivo 9 na organização dos dados. Na análise dos dados, nos concentramos no uso das ferramentas do software e nas estratégias dos estudantes, analisando-as a partir de diferentes tipos de problemas: uma e duas variáveis, tendência e criação de um novo caso. Os resultados da pesquisa apontam para a importância do software no favorecimento de diferentes formas de representação para os dados e o enriquecimento de estratégias de resolução de problemas envolvendo o Tratamento da Informação. A partir da análise baseada nos critérios considerados, pudemos constatar a adequação do software TinkerPlots para a exploração de problemas envolvendo interpretação e produção de gráficos estatísticos, bem",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-20305124",
+  "autor": "Siquele Roseane de Carvalho",
+  "ano": 2014,
+  "tipo": "Dissertação",
+  "titulo": "Software Educativo Tinkerplots 2.0: Possibilidades e Limites para a Interpretação de Gráficos por Estudantes do Ensino Fundamental",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Liliane Maria Teixeira Lima de Carvalho",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Análise de Software educativo; Interpretação de gráficos; Ensino Fundamental.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22SOFTWARE%20EDUCATIVO%20TINKERPLOTS%202.0%3A%20POSSIBILIDADES%20E%20LIMITES%20PARA%20A%20INTERPRETA%C3%87%C3%83O%20DE%20GR%C3%81FICOS%20POR%20ESTUDANTES%20DO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=SOFTWARE%20EDUCATIVO%20TINKERPLOTS%202.0%3A%20POSSIBILIDADES%20E%20LIMITES%20PARA%20A%20INTERPRETA%C3%87%C3%83O%20DE%20GR%C3%81FICOS%20POR%20ESTUDANTES%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20305124"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "20305124",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Análise de Software educativo",
+    "Interpretação de gráficos",
+    "Ensino Fundamental."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-20305124.svg",
+  "resumo": "Gráficos e tabelas enquanto recursos para a comunicação de dados são encontrados frequentemente nos diversos meios de comunicação e por sua veiculação constante, interpretá-los é um aspecto relevante para a participação do indivíduo na vida social. Para analisar gráficos é fundamental compreender como esses foram organizados, a ordem dos dados e sua relação com o contexto da informação. O software educativo no ensino de Estatística, pode se constituir como ferramenta para a ampliação das experiências com o saber matemático, ajudando estudantes a desenvolver o raciocínio estatístico e a aprender novas formas de representar dados. Em nossa pesquisa, analisamos as possibilidades de uso de tecnologias na Educação Estatística, em particular com o software TinkerPlots 2.0 para visualização e simulação de dados. Nossa proposta é analisar a adequação do software, considerando critérios advindos da literatura sobre o tema, bem como o uso feito por alunos do 5° ano do Ensino Fundamental, em situações de resolução de problemas envolvendo a interpretação de gráficos. Os estudantes vivenciaram inicialmente uma etapa de familiarização com o software, seguida de uma etapa de interpretação de problemas envolvendo bancos de dados e a construção de diferentes visualizações. Utilizamos o software NVivo 9 na organização dos dados. Na análise dos dados, nos concentramos no uso das ferramentas do software e nas estratégias dos estudantes, analisando-as a partir de diferentes tipos de problemas: uma e duas variáveis, tendência e criação de um novo caso. Os resultados da pesquisa apontam para a importância do software no favorecimento de diferentes formas de representação para os dados e o enriquecimento de estratégias de resolução de problemas envolvendo o Tratamento da Informação. A partir da análise baseada nos critérios considerados, pudemos constatar a adequação do software TinkerPlots para a exploração de problemas envolvendo interpretação e produção de gráficos estatísticos, bem",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

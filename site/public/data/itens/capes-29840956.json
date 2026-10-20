@@ -1,57 +1,57 @@
 {
- "id": "capes-29840956",
- "autor": "Lidia Silva Lacerda da Rosa",
- "ano": 2017,
- "tipo": "Dissertação",
- "titulo": "Desafios na Criação e Aplicação de uma Sequência Didática - uma introdução ao Ensino de Estatística nos Anos iniciais",
- "instituicao": "Universidade do Estado do Rio de Janeiro",
- "cidade": "",
- "estado": "Rio de Janeiro",
- "regiao": "Sudeste",
- "orientador": "Francisco Roberto Pinto Mattos",
- "programa": "Ensino em Educação Básica",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "ghfg",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Desafios%20na%20Cria%C3%A7%C3%A3o%20e%20Aplica%C3%A7%C3%A3o%20de%20uma%20Sequ%C3%AAncia%20Did%C3%A1tica%20-%20uma%20introdu%C3%A7%C3%A3o%20ao%20Ensino%20de%20Estat%C3%ADstica%20nos%20Anos%20iniciais%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Desafios%20na%20Cria%C3%A7%C3%A3o%20e%20Aplica%C3%A7%C3%A3o%20de%20uma%20Sequ%C3%AAncia%20Did%C3%A1tica%20-%20uma%20introdu%C3%A7%C3%A3o%20ao%20Ensino%20de%20Estat%C3%ADstica%20nos%20Anos%20iniciais&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29840956"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "29840956",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "ghfg"
- ],
- "thumbnail": "./assets/images/thumbs/capes-29840956.svg",
- "resumo": "hfghgf",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-29840956",
+  "autor": "Lidia Silva Lacerda da Rosa",
+  "ano": 2017,
+  "tipo": "Dissertação",
+  "titulo": "Desafios na Criação e Aplicação de uma Sequência Didática - uma introdução ao Ensino de Estatística nos Anos iniciais",
+  "instituicao": "Universidade do Estado do Rio de Janeiro",
+  "cidade": "",
+  "estado": "Rio de Janeiro",
+  "regiao": "Sudeste",
+  "orientador": "Francisco Roberto Pinto Mattos",
+  "programa": "Ensino em Educação Básica",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "ghfg",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Desafios%20na%20Cria%C3%A7%C3%A3o%20e%20Aplica%C3%A7%C3%A3o%20de%20uma%20Sequ%C3%AAncia%20Did%C3%A1tica%20-%20uma%20introdu%C3%A7%C3%A3o%20ao%20Ensino%20de%20Estat%C3%ADstica%20nos%20Anos%20iniciais%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Desafios%20na%20Cria%C3%A7%C3%A3o%20e%20Aplica%C3%A7%C3%A3o%20de%20uma%20Sequ%C3%AAncia%20Did%C3%A1tica%20-%20uma%20introdu%C3%A7%C3%A3o%20ao%20Ensino%20de%20Estat%C3%ADstica%20nos%20Anos%20iniciais&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29840956"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "29840956",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "ghfg"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-29840956.svg",
+  "resumo": "hfghgf",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

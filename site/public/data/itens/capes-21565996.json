@@ -1,60 +1,60 @@
 {
- "id": "capes-21565996",
- "autor": "Anelise Hodecker",
- "ano": 2016,
- "tipo": "Dissertação",
- "titulo": "Explorando Conceitos Básicos de Análise Combinatória nos Anos Finais do Ensino Fundamental",
- "instituicao": "Universidade Regional de Blumenau",
- "cidade": "",
- "estado": "Santa Catarina",
- "regiao": "Sul",
- "orientador": "Viviane Clotilde da Silva",
- "programa": "Ensino de Ciências Naturais e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Análise Combinatória; Resolução de Problemas; Material Didático Manipulável; Semiótica",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Explorando%20Conceitos%20B%C3%A1sicos%20de%20An%C3%A1lise%20Combinat%C3%B3ria%20nos%20Anos%20Finais%20do%20Ensino%20Fundamental%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Explorando%20Conceitos%20B%C3%A1sicos%20de%20An%C3%A1lise%20Combinat%C3%B3ria%20nos%20Anos%20Finais%20do%20Ensino%20Fundamental&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21565996"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "21565996",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Análise Combinatória",
-  "Resolução de Problemas",
-  "Material Didático Manipulável",
-  "Semiótica"
- ],
- "thumbnail": "./assets/images/thumbs/capes-21565996.svg",
- "resumo": "Esta pesquisa está vinculada à linha de pesquisa Didática das Ciências e da Matemática, do Programa de Pós-Graduação em Ensino de Ciências Naturais e Matemática (PPGECIM) – Mestrado Profissional – da Universidade Regional de Blumenau (FURB). A exploração de conceitos básicos da Análise Combinatória, segundo estudiosos e também alguns documentos curriculares oficiais, deve iniciar nos Anos Iniciais do Ensino Fundamental. Porém, a forma como esses conceitos são explorados em sala de aula, muitas vezes causam resultados indesejados no processo de aprendizagem, uma vez que muitos estudantes apresentam dificuldades em compreender o que deve ser feito para solucionar as situações apresentadas. Diante disso, o objetivo geral desta pesquisa é “analisar, com base na Teoria dos Registros de Representação Semiótica de Raymond Duval, o processo de aprendizagem dos conceitos básicos da Análise Combinatória no 6º ano do Ensino Fundamental, quando da utilização de resolução de problemas e materiais didáticos manipuláveis”. Para atingir este objetivo estudamos e apresentamos a Teoria dos Registros de Representação Semiótica de Raymod Duval, a metodologia da Resolução de Problemas e a importância do uso de Materiais Didáticos Manipuláveis para auxiliar na interpretação de problemas relacionados ao pensamento combinatório. Desenvolvemos, com base na Teoria de Representação Semiótica uma sequência didática de atividades Matemáticas que aborda os conceitos básicos da Análise Combinatória sendo desenvolvidos por meio de Resolução de Problemas e do uso de materiais didáticos manipuláveis. Estas atividades foram aplicadas com 31 alunos de uma turma do 6º ano do Ensino Fundamental. Os procedimentos metodológicos apontam para uma pesquisa qualitativa, de caráter participante. Como considerações finais, observamos a sequência didática apresentada neste trabalho contribuiu para a aprendizagem do assunto explorado, mostrando que a Resolução de Problemas e o uso dos materiais didáticos manipuláveis auxiliaram na compreensão deste conteúdo. Observamos também que a Teoria dos Registros de Representação Semiótica nos fornece subsídios para acompanhar e verificar a aprendizagem dos alunos por meio das representações que os mesmos utilizam, analisando se eles conseguem coordenar a mudança de registros e compreender que diferentes registros podem representar o mesmo objeto.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de combinatória"
- ],
- "ids_duplicados": []
+  "id": "capes-21565996",
+  "autor": "Anelise Hodecker",
+  "ano": 2016,
+  "tipo": "Dissertação",
+  "titulo": "Explorando Conceitos Básicos de Análise Combinatória nos Anos Finais do Ensino Fundamental",
+  "instituicao": "Universidade Regional de Blumenau",
+  "cidade": "",
+  "estado": "Santa Catarina",
+  "regiao": "Sul",
+  "orientador": "Viviane Clotilde da Silva",
+  "programa": "Ensino de Ciências Naturais e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Análise Combinatória; Resolução de Problemas; Material Didático Manipulável; Semiótica",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Explorando%20Conceitos%20B%C3%A1sicos%20de%20An%C3%A1lise%20Combinat%C3%B3ria%20nos%20Anos%20Finais%20do%20Ensino%20Fundamental%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Explorando%20Conceitos%20B%C3%A1sicos%20de%20An%C3%A1lise%20Combinat%C3%B3ria%20nos%20Anos%20Finais%20do%20Ensino%20Fundamental&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21565996"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "21565996",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Análise Combinatória",
+    "Resolução de Problemas",
+    "Material Didático Manipulável",
+    "Semiótica"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-21565996.svg",
+  "resumo": "Esta pesquisa está vinculada à linha de pesquisa Didática das Ciências e da Matemática, do Programa de Pós-Graduação em Ensino de Ciências Naturais e Matemática (PPGECIM) – Mestrado Profissional – da Universidade Regional de Blumenau (FURB). A exploração de conceitos básicos da Análise Combinatória, segundo estudiosos e também alguns documentos curriculares oficiais, deve iniciar nos Anos Iniciais do Ensino Fundamental. Porém, a forma como esses conceitos são explorados em sala de aula, muitas vezes causam resultados indesejados no processo de aprendizagem, uma vez que muitos estudantes apresentam dificuldades em compreender o que deve ser feito para solucionar as situações apresentadas. Diante disso, o objetivo geral desta pesquisa é “analisar, com base na Teoria dos Registros de Representação Semiótica de Raymond Duval, o processo de aprendizagem dos conceitos básicos da Análise Combinatória no 6º ano do Ensino Fundamental, quando da utilização de resolução de problemas e materiais didáticos manipuláveis”. Para atingir este objetivo estudamos e apresentamos a Teoria dos Registros de Representação Semiótica de Raymod Duval, a metodologia da Resolução de Problemas e a importância do uso de Materiais Didáticos Manipuláveis para auxiliar na interpretação de problemas relacionados ao pensamento combinatório. Desenvolvemos, com base na Teoria de Representação Semiótica uma sequência didática de atividades Matemáticas que aborda os conceitos básicos da Análise Combinatória sendo desenvolvidos por meio de Resolução de Problemas e do uso de materiais didáticos manipuláveis. Estas atividades foram aplicadas com 31 alunos de uma turma do 6º ano do Ensino Fundamental. Os procedimentos metodológicos apontam para uma pesquisa qualitativa, de caráter participante. Como considerações finais, observamos a sequência didática apresentada neste trabalho contribuiu para a aprendizagem do assunto explorado, mostrando que a Resolução de Problemas e o uso dos materiais didáticos manipuláveis auxiliaram na compreensão deste conteúdo. Observamos também que a Teoria dos Registros de Representação Semiótica nos fornece subsídios para acompanhar e verificar a aprendizagem dos alunos por meio das representações que os mesmos utilizam, analisando se eles conseguem coordenar a mudança de registros e compreender que diferentes registros podem representar o mesmo objeto.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de combinatória"
+  ],
+  "ids_duplicados": []
 }

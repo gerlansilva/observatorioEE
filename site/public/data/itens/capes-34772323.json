@@ -1,62 +1,62 @@
 {
- "id": "capes-34772323",
- "autor": "Dirlene Melo Santa Maria",
- "ano": 2021,
- "tipo": "Dissertação",
- "titulo": "Percepção dos Alunos de Ensino Fundamental da Cidade de Canoas sobre Indicadores Sociais com Ênfase no Saneamento Básico",
- "instituicao": "Universidade Luterana do Brasil",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Rossano Andre Dal Farra",
- "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Ambiental; Ensino de Estatística; Ensino Fundamental; Métodos Mistos; Saneamento Básico",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22PERCEP%C3%87%C3%83O%20DOS%20ALUNOS%20DE%20ENSINO%20FUNDAMENTAL%20DA%20CIDADE%20DE%20CANOAS%20SOBRE%20INDICADORES%20SOCIAIS%20COM%20%C3%8ANFASE%20NO%20SANEAMENTO%20B%C3%81SICO%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PERCEP%C3%87%C3%83O%20DOS%20ALUNOS%20DE%20ENSINO%20FUNDAMENTAL%20DA%20CIDADE%20DE%20CANOAS%20SOBRE%20INDICADORES%20SOCIAIS%20COM%20%C3%8ANFASE%20NO%20SANEAMENTO%20B%C3%81SICO&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34772323"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "34772323",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Ambiental",
-  "Ensino de Estatística",
-  "Ensino Fundamental",
-  "Métodos Mistos",
-  "Saneamento Básico"
- ],
- "thumbnail": "./assets/images/thumbs/capes-34772323.svg",
- "resumo": "Os indicadores sociais e ambientais representam uma perspectiva que auxilia na conscientização dos estudantes e podem ser trabalhados no ensino de estatística nos níveis Fundamental e Médio, contribuindo para a literacia nessa área e para inseri-los nas problemáticas que atingem a cidade, o estado e o país em que habitam. Este estudo teve por objetivo investigar a percepção dos estudantes de Ensino Fundamental sobre os indicadores socioambientais da cidade de Canoas. Esta pesquisa foi realizada no segundo semestre de 2019 com alunos do nono ano do Ensino Fundamental em quatro escolas municipais de Canoas e localizadas nos diferentes quadrantes da cidade. Para atingir os objetivos propostos, optou-se pela utilização da Pesquisa com Métodos Mistos, integrando componentes qualitativos e quantitativos, de modo a verificar as percepções socioambientais dos estudantes e as possíveis semelhanças com os indicadores reais nos bairros em que vivem. Foram elaboradas e aplicadas uma série de atividades envolvendo exposição dialogada, debates e preenchimento de questionários. Examinou-se os dados qualitativos por meio da Análise de Conteúdo e, para os quantitativos, utilizou-se Estatística Descritiva e Inferencial. Os resultados mostraram que, em geral, as percepções dos estudantes são semelhantes aos indicadores disponíveis de seus bairros relacionados ao saneamento básico e à arborização urbana, especialmente no que tange aos grandes problemas que assolam o espaço em que está a escola. As análises advertem que, embora os dados qualitativos demonstrem a primazia dos indicadores nas práticas educativas como tema mais relevante, as disciplinas consideradas quantitativamente mais importantes foram Ciências e Geografia. Nessa perspectiva, entendese que os indicadores podem ser trabalhados de forma mais efetiva por meio da construção de articulações entre os diferentes componentes curriculares da educação básica.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-34772323",
+  "autor": "Dirlene Melo Santa Maria",
+  "ano": 2021,
+  "tipo": "Dissertação",
+  "titulo": "Percepção dos Alunos de Ensino Fundamental da Cidade de Canoas sobre Indicadores Sociais com Ênfase no Saneamento Básico",
+  "instituicao": "Universidade Luterana do Brasil",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Rossano Andre Dal Farra",
+  "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Ambiental; Ensino de Estatística; Ensino Fundamental; Métodos Mistos; Saneamento Básico",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22PERCEP%C3%87%C3%83O%20DOS%20ALUNOS%20DE%20ENSINO%20FUNDAMENTAL%20DA%20CIDADE%20DE%20CANOAS%20SOBRE%20INDICADORES%20SOCIAIS%20COM%20%C3%8ANFASE%20NO%20SANEAMENTO%20B%C3%81SICO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PERCEP%C3%87%C3%83O%20DOS%20ALUNOS%20DE%20ENSINO%20FUNDAMENTAL%20DA%20CIDADE%20DE%20CANOAS%20SOBRE%20INDICADORES%20SOCIAIS%20COM%20%C3%8ANFASE%20NO%20SANEAMENTO%20B%C3%81SICO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34772323"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "34772323",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Ambiental",
+    "Ensino de Estatística",
+    "Ensino Fundamental",
+    "Métodos Mistos",
+    "Saneamento Básico"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-34772323.svg",
+  "resumo": "Os indicadores sociais e ambientais representam uma perspectiva que auxilia na conscientização dos estudantes e podem ser trabalhados no ensino de estatística nos níveis Fundamental e Médio, contribuindo para a literacia nessa área e para inseri-los nas problemáticas que atingem a cidade, o estado e o país em que habitam. Este estudo teve por objetivo investigar a percepção dos estudantes de Ensino Fundamental sobre os indicadores socioambientais da cidade de Canoas. Esta pesquisa foi realizada no segundo semestre de 2019 com alunos do nono ano do Ensino Fundamental em quatro escolas municipais de Canoas e localizadas nos diferentes quadrantes da cidade. Para atingir os objetivos propostos, optou-se pela utilização da Pesquisa com Métodos Mistos, integrando componentes qualitativos e quantitativos, de modo a verificar as percepções socioambientais dos estudantes e as possíveis semelhanças com os indicadores reais nos bairros em que vivem. Foram elaboradas e aplicadas uma série de atividades envolvendo exposição dialogada, debates e preenchimento de questionários. Examinou-se os dados qualitativos por meio da Análise de Conteúdo e, para os quantitativos, utilizou-se Estatística Descritiva e Inferencial. Os resultados mostraram que, em geral, as percepções dos estudantes são semelhantes aos indicadores disponíveis de seus bairros relacionados ao saneamento básico e à arborização urbana, especialmente no que tange aos grandes problemas que assolam o espaço em que está a escola. As análises advertem que, embora os dados qualitativos demonstrem a primazia dos indicadores nas práticas educativas como tema mais relevante, as disciplinas consideradas quantitativamente mais importantes foram Ciências e Geografia. Nessa perspectiva, entendese que os indicadores podem ser trabalhados de forma mais efetiva por meio da construção de articulações entre os diferentes componentes curriculares da educação básica.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

@@ -1,59 +1,59 @@
 {
- "id": "capes-34589794",
- "autor": "Brenda Samanta de Lima Delgado",
- "ano": 2021,
- "tipo": "Dissertação",
- "titulo": "Concepção dos Professores de Matemática sobre o Desenvolvimento de Habilidades no Processo de Ensino no 3º Ano do Ensino Médio",
- "instituicao": "Universidade do Estado do Amazonas",
- "cidade": "",
- "estado": "Amazonas",
- "regiao": "Norte",
- "orientador": "Josefina Diosdada Barrera Kalhil",
- "programa": "EDUCAÇÃO EM CIÊNCIAS NA AMAZÔNIA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Desenvolvimento de habilidades, Ensino de matemática, Estatística, Geometria e Concepção dos Professores.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22CONCEP%C3%87%C3%83O%20DOS%20PROFESSORES%20DE%20MATEM%C3%81TICA%20SOBRE%20O%20DESENVOLVIMENTO%20DE%20HABILIDADES%20NO%20PROCESSO%20DE%20ENSINO%20NO%203%C2%BA%20ANO%20DO%20ENSINO%20M%C3%89DIO%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CONCEP%C3%87%C3%83O%20DOS%20PROFESSORES%20DE%20MATEM%C3%81TICA%20SOBRE%20O%20DESENVOLVIMENTO%20DE%20HABILIDADES%20NO%20PROCESSO%20DE%20ENSINO%20NO%203%C2%BA%20ANO%20DO%20ENSINO%20M%C3%89DIO&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34589794"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "34589794",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Desenvolvimento de habilidades, Ensino de matemática, Estatística, Geometria e Concepção dos Professores."
- ],
- "thumbnail": "./assets/images/thumbs/capes-34589794.svg",
- "resumo": "Diante dos muitos desafios que a Educação no século XXI enfrenta, há de se considerar as dificuldades no processo de ensino e, principalmente, quando se refere à disciplina de matemática. Dessa forma, se lança um olhar para o desenvolvimento das habilidades no Ensino Médio e em como elas colaboram para a construção das formações cognitivas no processo da aprendizagem. Emergente das inquietações colocadas, a pesquisa se atém na busca de responder ao seguinte problema científico: como se dá o desenvolvimento de habilidades em estatística e geometria no processo de ensino de matemática no 3º ano do Ensino Médio? Para tanto, trabalhamos com três professores de matemática de uma escola pública de Ensino Médio do município de Manaus, analisando o desenvolvimento de habilidades nos conteúdos de estatística e geometria e como essas habilidades se relacionavam com o documento da BNCC e na proposta curricular de matemática para o Ensino Médio do Estado do amazonas. Para isso, foi aplicada a técnica de entrevista realizada com cada professor pela plataforma do Google Meet. A abordagem da pesquisa é qualitativa, com a triangulação e a análise dos dados pautada na análise de conteúdo de Bardin e a discussão teórica na perspectiva de Zabala e Vygotsky. Com isso, após a análise dos dados, o trabalho trouxe resultados importantes para análises e discussão. Dessa forma, foram estruturados quadros, trazendo as habilidades encontradas na fala dos professores, comparando com os presentes nos planos de aula e as habilidades estipuladas nos documentos norteadores da educação, BNCC. Os resultados da pesquisa permitiram concluir que os professores conhecem de maneira superficial o que seria, de fato, trabalhar para o desenvolvimento das habilidades e existe certa dificuldade em como trabalhar em sala de aula de forma que as habilidades, inerentes aos conteúdos, sejam de fato alcançadas. Dessa forma, em decorrência da pesquisa, apresentamos sugestões de atividades que potencializariam o desenvolvimento das habilidades.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística"
- ],
- "ids_duplicados": [
-  "39080291"
- ]
+  "id": "capes-34589794",
+  "autor": "Brenda Samanta de Lima Delgado",
+  "ano": 2021,
+  "tipo": "Dissertação",
+  "titulo": "Concepção dos Professores de Matemática sobre o Desenvolvimento de Habilidades no Processo de Ensino no 3º Ano do Ensino Médio",
+  "instituicao": "Universidade do Estado do Amazonas",
+  "cidade": "",
+  "estado": "Amazonas",
+  "regiao": "Norte",
+  "orientador": "Josefina Diosdada Barrera Kalhil",
+  "programa": "EDUCAÇÃO EM CIÊNCIAS NA AMAZÔNIA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Desenvolvimento de habilidades, Ensino de matemática, Estatística, Geometria e Concepção dos Professores.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22CONCEP%C3%87%C3%83O%20DOS%20PROFESSORES%20DE%20MATEM%C3%81TICA%20SOBRE%20O%20DESENVOLVIMENTO%20DE%20HABILIDADES%20NO%20PROCESSO%20DE%20ENSINO%20NO%203%C2%BA%20ANO%20DO%20ENSINO%20M%C3%89DIO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CONCEP%C3%87%C3%83O%20DOS%20PROFESSORES%20DE%20MATEM%C3%81TICA%20SOBRE%20O%20DESENVOLVIMENTO%20DE%20HABILIDADES%20NO%20PROCESSO%20DE%20ENSINO%20NO%203%C2%BA%20ANO%20DO%20ENSINO%20M%C3%89DIO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34589794"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "34589794",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Desenvolvimento de habilidades, Ensino de matemática, Estatística, Geometria e Concepção dos Professores."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-34589794.svg",
+  "resumo": "Diante dos muitos desafios que a Educação no século XXI enfrenta, há de se considerar as dificuldades no processo de ensino e, principalmente, quando se refere à disciplina de matemática. Dessa forma, se lança um olhar para o desenvolvimento das habilidades no Ensino Médio e em como elas colaboram para a construção das formações cognitivas no processo da aprendizagem. Emergente das inquietações colocadas, a pesquisa se atém na busca de responder ao seguinte problema científico: como se dá o desenvolvimento de habilidades em estatística e geometria no processo de ensino de matemática no 3º ano do Ensino Médio? Para tanto, trabalhamos com três professores de matemática de uma escola pública de Ensino Médio do município de Manaus, analisando o desenvolvimento de habilidades nos conteúdos de estatística e geometria e como essas habilidades se relacionavam com o documento da BNCC e na proposta curricular de matemática para o Ensino Médio do Estado do amazonas. Para isso, foi aplicada a técnica de entrevista realizada com cada professor pela plataforma do Google Meet. A abordagem da pesquisa é qualitativa, com a triangulação e a análise dos dados pautada na análise de conteúdo de Bardin e a discussão teórica na perspectiva de Zabala e Vygotsky. Com isso, após a análise dos dados, o trabalho trouxe resultados importantes para análises e discussão. Dessa forma, foram estruturados quadros, trazendo as habilidades encontradas na fala dos professores, comparando com os presentes nos planos de aula e as habilidades estipuladas nos documentos norteadores da educação, BNCC. Os resultados da pesquisa permitiram concluir que os professores conhecem de maneira superficial o que seria, de fato, trabalhar para o desenvolvimento das habilidades e existe certa dificuldade em como trabalhar em sala de aula de forma que as habilidades, inerentes aos conteúdos, sejam de fato alcançadas. Dessa forma, em decorrência da pesquisa, apresentamos sugestões de atividades que potencializariam o desenvolvimento das habilidades.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": [
+    "39080291"
+  ]
 }

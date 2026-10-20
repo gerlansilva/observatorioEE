@@ -1,59 +1,59 @@
 {
- "id": "capes-29956968",
- "autor": "Cecilia Manoella Carvalho Almeida",
- "ano": 2018,
- "tipo": "Dissertação",
- "titulo": "Um Modelo Didático de Referência para o Ensino de Probabilidade",
- "instituicao": "Universidade Federal da Bahia",
- "cidade": "",
- "estado": "Bahia",
- "regiao": "Nordeste",
- "orientador": "Luiz Marcio Santos Farias",
- "programa": "ENSINO, FILOSOFIA E HISTÓRIA DAS CIÊNCIAS",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "ENSINO DE PROBABILIDADE; Teoria Antropológica do Didático; Praxeologias matemáticas; Engenhariadidática de formação",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22UM%20MODELO%20DID%C3%81TICO%20DE%20REFER%C3%8ANCIA%20PARA%20O%20ENSINO%20DE%20PROBABILIDADE%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UM%20MODELO%20DID%C3%81TICO%20DE%20REFER%C3%8ANCIA%20PARA%20O%20ENSINO%20DE%20PROBABILIDADE&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29956968"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "29956968",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "ENSINO DE PROBABILIDADE",
-  "Teoria Antropológica do Didático",
-  "Praxeologias matemáticas",
-  "Engenhariadidática de formação"
- ],
- "thumbnail": "./assets/images/thumbs/capes-29956968.svg",
- "resumo": "O objeto Probabilidade vem sendo discutido no Ensino Médio sob uma perspectiva que visa aprimorar o conhecimento sobre os fenômenos aleatórios presentes no cotidiano. A todo o momento, estamos sujeitos a tomadas de decisões baseadas em incertezas que nos levam a escolhas, por vezes, equivocadas. Neste trabalho discutimos um modelo didáticoidealizado por professores e para professores a respeito da abordagem do ensino de Probabilidade, levando-se em consideração a dualidade do seu conceito. Objetivamos assim, construir um modelo didático de referência que aborde o ensino de Probabilidade, integrando as interpretações: clássica e frequentista. Para tanto, elegemos a Teoria Antropológica do Didático (TAD) como lente teórica. Desenvolvemos este trabalho no formato multipaper, segundo três artigos que correspondem aos nossos objetivos específicos. O primeiro apresenta um estudo histórico-epistemológico sobre o conceito de Probabilidade, o segundo artigo trata-se de uma análise institucional sobre os documentos oficiais que norteiam este saber e o terceiro e último artigo descreve uma Engenharia de Formação com um modelo epistemológico didático de referência (MDR). Esta engenharia, que apreende elementos da Engenharia Didática Clássica, em que os participantes experimentam uma sequência didática para ser utilizada em turmas do terceiro ano do Ensino Médio, permitiu evidenciar a necessidade de novos modelos didáticos para o ensino de probabilidade que permitam aos professores de matemática, minimizar possíveis obstáculos existentes no estudo deste conceito.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "coleta expandida (plural/vocabulário)"
- ]
+  "id": "capes-29956968",
+  "autor": "Cecilia Manoella Carvalho Almeida",
+  "ano": 2018,
+  "tipo": "Dissertação",
+  "titulo": "Um Modelo Didático de Referência para o Ensino de Probabilidade",
+  "instituicao": "Universidade Federal da Bahia",
+  "cidade": "",
+  "estado": "Bahia",
+  "regiao": "Nordeste",
+  "orientador": "Luiz Marcio Santos Farias",
+  "programa": "ENSINO, FILOSOFIA E HISTÓRIA DAS CIÊNCIAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "ENSINO DE PROBABILIDADE; Teoria Antropológica do Didático; Praxeologias matemáticas; Engenhariadidática de formação",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22UM%20MODELO%20DID%C3%81TICO%20DE%20REFER%C3%8ANCIA%20PARA%20O%20ENSINO%20DE%20PROBABILIDADE%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UM%20MODELO%20DID%C3%81TICO%20DE%20REFER%C3%8ANCIA%20PARA%20O%20ENSINO%20DE%20PROBABILIDADE&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29956968"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "29956968",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "ENSINO DE PROBABILIDADE",
+    "Teoria Antropológica do Didático",
+    "Praxeologias matemáticas",
+    "Engenhariadidática de formação"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-29956968.svg",
+  "resumo": "O objeto Probabilidade vem sendo discutido no Ensino Médio sob uma perspectiva que visa aprimorar o conhecimento sobre os fenômenos aleatórios presentes no cotidiano. A todo o momento, estamos sujeitos a tomadas de decisões baseadas em incertezas que nos levam a escolhas, por vezes, equivocadas. Neste trabalho discutimos um modelo didáticoidealizado por professores e para professores a respeito da abordagem do ensino de Probabilidade, levando-se em consideração a dualidade do seu conceito. Objetivamos assim, construir um modelo didático de referência que aborde o ensino de Probabilidade, integrando as interpretações: clássica e frequentista. Para tanto, elegemos a Teoria Antropológica do Didático (TAD) como lente teórica. Desenvolvemos este trabalho no formato multipaper, segundo três artigos que correspondem aos nossos objetivos específicos. O primeiro apresenta um estudo histórico-epistemológico sobre o conceito de Probabilidade, o segundo artigo trata-se de uma análise institucional sobre os documentos oficiais que norteiam este saber e o terceiro e último artigo descreve uma Engenharia de Formação com um modelo epistemológico didático de referência (MDR). Esta engenharia, que apreende elementos da Engenharia Didática Clássica, em que os participantes experimentam uma sequência didática para ser utilizada em turmas do terceiro ano do Ensino Médio, permitiu evidenciar a necessidade de novos modelos didáticos para o ensino de probabilidade que permitam aos professores de matemática, minimizar possíveis obstáculos existentes no estudo deste conceito.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
 }

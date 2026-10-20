@@ -1,58 +1,58 @@
 {
- "id": "capes-19569794",
- "autor": "Sonia Regina Scheleski",
- "ano": 2015,
- "tipo": "Dissertação",
- "titulo": "Sequência Didática da Utilização da Análise Exploratória de Dados para o Ensino de Estatística na Educação Básica",
- "instituicao": "Univ. Regional Integrada do Alto Uruguai e das Missões",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Rozelaine de Fatima Franzin",
- "programa": "Ensino Cientifico e Tecnológico",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Estatística. Análise Exploratória de Dados. Planilhas eletrônicas. Informática. Excel.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Sequ%C3%AAncia%20Did%C3%A1tica%20da%20Utiliza%C3%A7%C3%A3o%20da%20An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20para%20o%20Ensino%20de%20Estat%C3%ADstica%20na%20Educa%C3%A7%C3%A3o%20B%C3%A1sica%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Sequ%C3%AAncia%20Did%C3%A1tica%20da%20Utiliza%C3%A7%C3%A3o%20da%20An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20para%20o%20Ensino%20de%20Estat%C3%ADstica%20na%20Educa%C3%A7%C3%A3o%20B%C3%A1sica&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19569794"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "19569794",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Estatística. Análise Exploratória de Dados. Planilhas eletrônicas. Informática. Excel."
- ],
- "thumbnail": "./assets/images/thumbs/capes-19569794.svg",
- "resumo": "A Estatística é uma área que mantém uma profunda ligação com a tecnologia, pois visa coletar, organizar e analisar dados em gráficos e tabelas. Além disso, também calcula medidas de tendência central, distingue variáveis quantitativas das qualitativas, calcula medidas de dispersão, constrói tabelas de distribuição de frequência, e resolve problemas que envolvem a distribuição de frequência e histograma, entre outros. O objetivo do presente estudo foi desenvolver uma sequência didática por meio da Análise Exploratória de Dados que possa servir como ferramenta mediadora para o trabalho docente. E, apesar de os PCNs imporem uma visão de Estatística como um dos itens da Matemática, este estudo tem outras pretensões, principalmente a de construir um espaço referencial próprio, como uma ciência abordada com o auxílio da Matemática e das tecnologias da Informática. Uma boa parte dos professores das escolas do Ensino Básico não trabalha ou trabalha pouco a Estatística com seus alunos. Ademais, há restrito material didático pedagógico disponível e adequado às necessidades atuais de ensino da Estatística que contemplem, simultaneamente, a Análise Exploratória de Dados e o uso de tecnologias da informática. Nesse sentido, o ensino da Estatística pode ser uma importante aliada das práticas educacionais. A fim de conhecer o grau de entendimento de alunos e professores a respeito da Estatística e do uso de planilhas eletrônicas do Excel nas aulas de Matemática, esta pesquisa aplicou questionários que ao final foram sistematizados e analisados à luz da teoria científica. Em questionário específico, a grande maioria dos alunos revelou baixo nível de conhecimento estatístico e das suas ferramentas, como as planilhas eletrônicas. Entretanto, a maior parte deles mostra-se interessado em participar de projetos interdisciplinares a fim de ampliar seus conhecimentos sobre o tema. Já os professores que participaram do estudo possuem visões opostas quanto ao uso de programas computacionais para a construção de gráficos e tabelas, mas ambos concordam que a falta de laboratórios e de formação específica dos professores agrava as dificuldades que os professores enfrentam hoje para trabalhar com seus alunos sobre as ferramentas de Tecnologia, Informação e Comunicação (TICs). Após a realização da oficina, professores e alunos mostraram-se satisfeitos e interessados em ampliar seus conhecimentos sobre a Estatística e o uso das planilhas eletrônicas no seu dia a dia. O estudo contribuiu para a formação continuada dos professores, independente da sua área de atuação. A elaboração de um Caderno Estatístico para a Análise Exploratória de Dados foi o resultado principal deste estudo, o qual servirá como material didático-pedagógico para o ensino-aprendizagem da Estatística.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-19569794",
+  "autor": "Sonia Regina Scheleski",
+  "ano": 2015,
+  "tipo": "Dissertação",
+  "titulo": "Sequência Didática da Utilização da Análise Exploratória de Dados para o Ensino de Estatística na Educação Básica",
+  "instituicao": "Univ. Regional Integrada do Alto Uruguai e das Missões",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Rozelaine de Fatima Franzin",
+  "programa": "Ensino Cientifico e Tecnológico",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Estatística. Análise Exploratória de Dados. Planilhas eletrônicas. Informática. Excel.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Sequ%C3%AAncia%20Did%C3%A1tica%20da%20Utiliza%C3%A7%C3%A3o%20da%20An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20para%20o%20Ensino%20de%20Estat%C3%ADstica%20na%20Educa%C3%A7%C3%A3o%20B%C3%A1sica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Sequ%C3%AAncia%20Did%C3%A1tica%20da%20Utiliza%C3%A7%C3%A3o%20da%20An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20para%20o%20Ensino%20de%20Estat%C3%ADstica%20na%20Educa%C3%A7%C3%A3o%20B%C3%A1sica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19569794"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "19569794",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Estatística. Análise Exploratória de Dados. Planilhas eletrônicas. Informática. Excel."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-19569794.svg",
+  "resumo": "A Estatística é uma área que mantém uma profunda ligação com a tecnologia, pois visa coletar, organizar e analisar dados em gráficos e tabelas. Além disso, também calcula medidas de tendência central, distingue variáveis quantitativas das qualitativas, calcula medidas de dispersão, constrói tabelas de distribuição de frequência, e resolve problemas que envolvem a distribuição de frequência e histograma, entre outros. O objetivo do presente estudo foi desenvolver uma sequência didática por meio da Análise Exploratória de Dados que possa servir como ferramenta mediadora para o trabalho docente. E, apesar de os PCNs imporem uma visão de Estatística como um dos itens da Matemática, este estudo tem outras pretensões, principalmente a de construir um espaço referencial próprio, como uma ciência abordada com o auxílio da Matemática e das tecnologias da Informática. Uma boa parte dos professores das escolas do Ensino Básico não trabalha ou trabalha pouco a Estatística com seus alunos. Ademais, há restrito material didático pedagógico disponível e adequado às necessidades atuais de ensino da Estatística que contemplem, simultaneamente, a Análise Exploratória de Dados e o uso de tecnologias da informática. Nesse sentido, o ensino da Estatística pode ser uma importante aliada das práticas educacionais. A fim de conhecer o grau de entendimento de alunos e professores a respeito da Estatística e do uso de planilhas eletrônicas do Excel nas aulas de Matemática, esta pesquisa aplicou questionários que ao final foram sistematizados e analisados à luz da teoria científica. Em questionário específico, a grande maioria dos alunos revelou baixo nível de conhecimento estatístico e das suas ferramentas, como as planilhas eletrônicas. Entretanto, a maior parte deles mostra-se interessado em participar de projetos interdisciplinares a fim de ampliar seus conhecimentos sobre o tema. Já os professores que participaram do estudo possuem visões opostas quanto ao uso de programas computacionais para a construção de gráficos e tabelas, mas ambos concordam que a falta de laboratórios e de formação específica dos professores agrava as dificuldades que os professores enfrentam hoje para trabalhar com seus alunos sobre as ferramentas de Tecnologia, Informação e Comunicação (TICs). Após a realização da oficina, professores e alunos mostraram-se satisfeitos e interessados em ampliar seus conhecimentos sobre a Estatística e o uso das planilhas eletrônicas no seu dia a dia. O estudo contribuiu para a formação continuada dos professores, independente da sua área de atuação. A elaboração de um Caderno Estatístico para a Análise Exploratória de Dados foi o resultado principal deste estudo, o qual servirá como material didático-pedagógico para o ensino-aprendizagem da Estatística.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

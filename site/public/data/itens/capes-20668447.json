@@ -1,61 +1,61 @@
 {
- "id": "capes-20668447",
- "autor": "Fabio Garcia Gatti",
- "ano": 2016,
- "tipo": "Tese",
- "titulo": "Filosofia da mecânica estatística e ensino de física: redução versus emergência e a importância dos modelos",
- "instituicao": "Universidade de São Paulo",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Osvaldo Frota Pessoa Junior",
- "programa": "ENSINO DE CIÊNCIAS (MODALIDADES FÍSICA, QUÍMICA E BIOLOGIA)",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Filosofia da física; Mecânica estatística; Reducionismo; Emergentismo; Modelos",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Filosofia%20da%20mec%C3%A2nica%20estat%C3%ADstica%20e%20ensino%20de%20f%C3%ADsica%3A%20redu%C3%A7%C3%A3o%20versus%20emerg%C3%AAncia%20e%20a%20import%C3%A2ncia%20dos%20modelos%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Filosofia%20da%20mec%C3%A2nica%20estat%C3%ADstica%20e%20ensino%20de%20f%C3%ADsica%3A%20redu%C3%A7%C3%A3o%20versus%20emerg%C3%AAncia%20e%20a%20import%C3%A2ncia%20dos%20modelos&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20668447"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "20668447",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Filosofia da física",
-  "Mecânica estatística",
-  "Reducionismo",
-  "Emergentismo",
-  "Modelos"
- ],
- "thumbnail": "./assets/images/thumbs/capes-20668447.svg",
- "resumo": "Esta tese explora tópicos de Filosofia da Mecânica Estatística e sua inserção no Ensino de Física. Levanta-se inicialmente a discussão filosófica entre o reducionismo e o emergentismo. Esta questão permeia os debates científicos em Mecânica Estatística e em outras áreas, mas costuma ficar fora dos currículos escolares e universitários. Defendemos que esta discussão tem grande valor educacional para a formação do futuro professor e dos futuros cidadãos, mostrando como a ciência de fato é construída, e revelando aspectos da ciência para os quais não há uma visão de consenso único. Além disso, a natureza de modelos e aproximações foi estudada, sendo explorados diversos modelos de Mecânica Estatística, visando seu uso em sala de aula. Ao final da tese, apresenta-se uma proposta de curso onde essas questões poderão ser discutidas em sala de aula, contribuindo para um enriquecimento dos estudos sobre a Natureza da Ciência.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-20668447",
+  "autor": "Fabio Garcia Gatti",
+  "ano": 2016,
+  "tipo": "Tese",
+  "titulo": "Filosofia da mecânica estatística e ensino de física: redução versus emergência e a importância dos modelos",
+  "instituicao": "Universidade de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Osvaldo Frota Pessoa Junior",
+  "programa": "ENSINO DE CIÊNCIAS (MODALIDADES FÍSICA, QUÍMICA E BIOLOGIA)",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Filosofia da física; Mecânica estatística; Reducionismo; Emergentismo; Modelos",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Filosofia%20da%20mec%C3%A2nica%20estat%C3%ADstica%20e%20ensino%20de%20f%C3%ADsica%3A%20redu%C3%A7%C3%A3o%20versus%20emerg%C3%AAncia%20e%20a%20import%C3%A2ncia%20dos%20modelos%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Filosofia%20da%20mec%C3%A2nica%20estat%C3%ADstica%20e%20ensino%20de%20f%C3%ADsica%3A%20redu%C3%A7%C3%A3o%20versus%20emerg%C3%AAncia%20e%20a%20import%C3%A2ncia%20dos%20modelos&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20668447"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "20668447",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Filosofia da física",
+    "Mecânica estatística",
+    "Reducionismo",
+    "Emergentismo",
+    "Modelos"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-20668447.svg",
+  "resumo": "Esta tese explora tópicos de Filosofia da Mecânica Estatística e sua inserção no Ensino de Física. Levanta-se inicialmente a discussão filosófica entre o reducionismo e o emergentismo. Esta questão permeia os debates científicos em Mecânica Estatística e em outras áreas, mas costuma ficar fora dos currículos escolares e universitários. Defendemos que esta discussão tem grande valor educacional para a formação do futuro professor e dos futuros cidadãos, mostrando como a ciência de fato é construída, e revelando aspectos da ciência para os quais não há uma visão de consenso único. Além disso, a natureza de modelos e aproximações foi estudada, sendo explorados diversos modelos de Mecânica Estatística, visando seu uso em sala de aula. Ao final da tese, apresenta-se uma proposta de curso onde essas questões poderão ser discutidas em sala de aula, contribuindo para um enriquecimento dos estudos sobre a Natureza da Ciência.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

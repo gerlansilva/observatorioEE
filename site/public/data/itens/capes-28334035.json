@@ -1,61 +1,61 @@
 {
- "id": "capes-28334035",
- "autor": "Dirceu Arnaldo Czedrowski",
- "ano": 2017,
- "tipo": "Dissertação",
- "titulo": "A Tecnologia Educacional como Aliada do Professor de Matemática visando ao Desenvolvimento Social e Econômico de Propriedades Rurais da Região das Missões",
- "instituicao": "Universidade Regional Integrada do Alto Uruguai e das Missões",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Neusa Maria John Scheid",
- "programa": "Ensino Cientifico e Tecnológico",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Matemática; Tecnologia; Planilha Eletrônica Excel; Estatística; Informática",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20Tecnologia%20Educacional%20como%20Aliada%20do%20Professor%20de%20Matem%C3%A1tica%20visando%20ao%20Desenvolvimento%20Social%20e%20Econ%C3%B4mico%20de%20Propriedades%20Rurais%20da%20Regi%C3%A3o%20das%20Miss%C3%B5es%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20Tecnologia%20Educacional%20como%20Aliada%20do%20Professor%20de%20Matem%C3%A1tica%20visando%20ao%20Desenvolvimento%20Social%20e%20Econ%C3%B4mico%20de%20Propriedades%20Rurais%20da%20Regi%C3%A3o%20das%20Miss%C3%B5es&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28334035"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "28334035",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Matemática",
-  "Tecnologia",
-  "Planilha Eletrônica Excel",
-  "Estatística",
-  "Informática"
- ],
- "thumbnail": "./assets/images/thumbs/capes-28334035.svg",
- "resumo": "O avanço no uso de tecnologia, presente nas diferentes áreas de conhecimentos, traz consigo incrementos e mudanças expressivas nas áreas sociais, econômicas, políticas e ambientais. Esse avanço não interfere apenas nas sociedades, mas afeta também a escola. O papel do professor é ajudar o aluno a interpretar, relacionar e contextualizar estes dados trazendo-os mais próximos de sua realidade possível, na qual o uso de tecnologias educacionais está presente. Por outro lado, as investigações sobre possíveis vantagens do uso das tecnologias no ensino são importantes para subsidiarem os professores no processo de preparação de novas formas de abordagem dos conteúdos e ao mesmo tempo poderão apontar para um atraente instrumento facilitador da aprendizagem para os alunos. Esta pesquisa, de abordagem qualitativa, teve como objetivo investigar as potencialidades da utilização das Tecnologias da Informática e da Comunicação, nas aulas de matemática, para professores e alunos do curso técnico agropecuário e politécnico com a finalidade de aplicarem os conhecimentos adquiridos em diferentes setores produtivos e de suas propriedades rurais. Trata-se de uma inovação abordando Estatística e Matemática com o uso da planilha eletrônica Excel desenvolvida junto ao Curso Técnico em Agropecuária e Ensino Médio da Escola Estadual Técnica Guaramano/RS. As análises apontam ser adequada a utilização da planilha Excel como recurso didático no processo de ensino - aprendizagem de conceitos matemáticos. A pesquisa proporciona uma reflexão sobre a necessidade de se democratizar o acesso ao computador, fazendo com que o mesmo seja mais uma ferramenta na busca por uma escola que desenvolva um currículo voltado para uma educação de qualidade. Como produto educacional elaborou-se uma ferramenta digital mediadora para auxiliar o processo ensino/aprendizagem nas aulas de matemática do curso técnico em agropecuária. Em conclusão, pode-se afirmar que métodos de tecnologias educacionais associadas ao ensino da matemática aplicada em uma escola técnica agropecuária, traz importante motivação, participação e interação entre os alunos. Há uma necessidade crescente do uso da tecnologia, mais precisamente de software educacional, com mecanismos e ferramentas disponíveis, numa aplicação adequada de seus recursos, conteúdos e metodologias pedagógicas e didáticas, para a área da matemática, propondo uma nova versão de ensino programado e organizado nas informações, do espaço e do tempo e modos de aprendizagem mais autônoma e /ou cooperativa.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-28334035",
+  "autor": "Dirceu Arnaldo Czedrowski",
+  "ano": 2017,
+  "tipo": "Dissertação",
+  "titulo": "A Tecnologia Educacional como Aliada do Professor de Matemática visando ao Desenvolvimento Social e Econômico de Propriedades Rurais da Região das Missões",
+  "instituicao": "Universidade Regional Integrada do Alto Uruguai e das Missões",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Neusa Maria John Scheid",
+  "programa": "Ensino Cientifico e Tecnológico",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Matemática; Tecnologia; Planilha Eletrônica Excel; Estatística; Informática",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20Tecnologia%20Educacional%20como%20Aliada%20do%20Professor%20de%20Matem%C3%A1tica%20visando%20ao%20Desenvolvimento%20Social%20e%20Econ%C3%B4mico%20de%20Propriedades%20Rurais%20da%20Regi%C3%A3o%20das%20Miss%C3%B5es%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20Tecnologia%20Educacional%20como%20Aliada%20do%20Professor%20de%20Matem%C3%A1tica%20visando%20ao%20Desenvolvimento%20Social%20e%20Econ%C3%B4mico%20de%20Propriedades%20Rurais%20da%20Regi%C3%A3o%20das%20Miss%C3%B5es&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28334035"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "28334035",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Matemática",
+    "Tecnologia",
+    "Planilha Eletrônica Excel",
+    "Estatística",
+    "Informática"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-28334035.svg",
+  "resumo": "O avanço no uso de tecnologia, presente nas diferentes áreas de conhecimentos, traz consigo incrementos e mudanças expressivas nas áreas sociais, econômicas, políticas e ambientais. Esse avanço não interfere apenas nas sociedades, mas afeta também a escola. O papel do professor é ajudar o aluno a interpretar, relacionar e contextualizar estes dados trazendo-os mais próximos de sua realidade possível, na qual o uso de tecnologias educacionais está presente. Por outro lado, as investigações sobre possíveis vantagens do uso das tecnologias no ensino são importantes para subsidiarem os professores no processo de preparação de novas formas de abordagem dos conteúdos e ao mesmo tempo poderão apontar para um atraente instrumento facilitador da aprendizagem para os alunos. Esta pesquisa, de abordagem qualitativa, teve como objetivo investigar as potencialidades da utilização das Tecnologias da Informática e da Comunicação, nas aulas de matemática, para professores e alunos do curso técnico agropecuário e politécnico com a finalidade de aplicarem os conhecimentos adquiridos em diferentes setores produtivos e de suas propriedades rurais. Trata-se de uma inovação abordando Estatística e Matemática com o uso da planilha eletrônica Excel desenvolvida junto ao Curso Técnico em Agropecuária e Ensino Médio da Escola Estadual Técnica Guaramano/RS. As análises apontam ser adequada a utilização da planilha Excel como recurso didático no processo de ensino - aprendizagem de conceitos matemáticos. A pesquisa proporciona uma reflexão sobre a necessidade de se democratizar o acesso ao computador, fazendo com que o mesmo seja mais uma ferramenta na busca por uma escola que desenvolva um currículo voltado para uma educação de qualidade. Como produto educacional elaborou-se uma ferramenta digital mediadora para auxiliar o processo ensino/aprendizagem nas aulas de matemática do curso técnico em agropecuária. Em conclusão, pode-se afirmar que métodos de tecnologias educacionais associadas ao ensino da matemática aplicada em uma escola técnica agropecuária, traz importante motivação, participação e interação entre os alunos. Há uma necessidade crescente do uso da tecnologia, mais precisamente de software educacional, com mecanismos e ferramentas disponíveis, numa aplicação adequada de seus recursos, conteúdos e metodologias pedagógicas e didáticas, para a área da matemática, propondo uma nova versão de ensino programado e organizado nas informações, do espaço e do tempo e modos de aprendizagem mais autônoma e /ou cooperativa.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

@@ -1,60 +1,60 @@
 {
- "id": "capes-36440780",
- "autor": "Valderez Aparecida Aluiz Amin",
- "ano": 2022,
- "tipo": "Dissertação",
- "titulo": "A Organização do Ensino da Estatística no 5º e 6º Ano do Ensino Fundamental: O Olhar dos Professores",
- "instituicao": "Universidade Federal do Paraná",
- "cidade": "",
- "estado": "Paraná",
- "regiao": "Sul",
- "orientador": "Maria Lucia Panossian",
- "programa": "Educação em Ciências e em Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Formação de Professores; Atividade Orientadora de Ensino; Formação Continuada; Ensino da Estatística",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20ORGANIZA%C3%87%C3%83O%20DO%20ENSINO%20DA%20ESTAT%C3%8DSTICA%20NO%205%C2%BA%20E%206%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%3A%20O%20OLHAR%20DOS%20PROFESSORES%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20ORGANIZA%C3%87%C3%83O%20DO%20ENSINO%20DA%20ESTAT%C3%8DSTICA%20NO%205%C2%BA%20E%206%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%3A%20O%20OLHAR%20DOS%20PROFESSORES&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36440780"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "36440780",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Formação de Professores",
-  "Atividade Orientadora de Ensino",
-  "Formação Continuada",
-  "Ensino da Estatística"
- ],
- "thumbnail": "./assets/images/thumbs/capes-36440780.svg",
- "resumo": "Esta pesquisa de mestrado foi desenvolvida no Programa de Pós-Graduação em Educação em Ciências e em Matemática, no Setor de Ciências Exatas da Universidade Federal do Paraná, na linha de pesquisa Formação de Professores que ensinam Ciências e Matemática. Vincula-se ao Grupo de Estudos e Pesquisas sobre Formação de Professores na linha de Estudos sobre a Teoria Histórico-Cultural, Teoria da Atividade e Atividade Orientadora de Ensino. O interesse desta pesquisa surgiu da percepção da dificuldade que os estudantes encontram quando passam pelo processo de transição dos anos iniciais para os anos finais do Ensino Fundamental. Ao identificar a dificuldade do estudante, voltamos nosso olhar para a atuação do professor nos conceitos específicos da Estatística, considerando a seguinte problemática: O que os professores do 5º e do 6º ano do Ensino Fundamental revelam sobre a organização do ensino da Estatística? Estabelecemos o objetivo de compreender as manifestações dos professores sobre a organização do ensino da estatística no 5º e 6º ano do Ensino Fundamental em um curso de formação continuada, proposto a partir das ações geradas no projeto de extensão Oficina Pedagógica de Matemática pautado nos pressupostos da Atividade Orientadora de Ensino. Contamos com a participação de 19 professores, entre professores da educação básica, alunos da graduação e da pós-graduação. Para iniciar o movimento da pesquisa, foram organizadas ações de estudo do fundamento teórico e da análise de como a estatística é contemplada nos documentos norteadores do trabalho docente, a Base Nacional Comum Curricular - BNCC, Currículo da Rede Estadual do Paranaense - CREP e Proposta Curricular de Piraquara, município de origem de alguns dos participantes. A segunda ação desenvolvida foi o levantamento bibliográfico sobre o Ensino da Estatística, a partir de artigos e números temáticos de revistas. E a terceira ação que sustenta a pesquisa é o reconhecimento de nexos conceituais da estatística, revelados a partir do estudo do movimento histórico e lógico. Com base nestes estudos, as ações metodológicas incluem a organização do curso de formação continuada para professores da rede pública de ensino que lecionam para o 5º e 6º ano do Ensino Fundamental, a partir do qual os dados foram constituídos. Devido ao momento pandêmico que enfrentamos a partir de 2020, causado pelo Covid-19, o curso aconteceu de forma remota, com momentos síncronos e assíncronos pela plataforma Google Meet e Classroom. Para análise dos dados gerados, utilizamos a noção de isolado empregado em estudos que utilizam o referencial teórico adotado, e para organização e discussão dos dados, utilizamos a apresentação de episódios, cenas e flashes. Partimos da hipótese de que as diferenças no processo de organização do ensino de professores de cada um dos níveis implicam em algumas das dificuldades dos estudantes, considerando a fragilidade na comunicação entre os educadores que atuam nesses níveis de ensino. De forma geral, percebemos que os professores dos anos iniciais, 5º ano e 6º ano, preocupam-se com temas que despertem o interesse dos estudantes para o estudo da Estatística; no entanto, os professores do 5º ano encontram dificuldade em articular os conceitos estatísticos, limitando-se à interpretação de tabelas e gráficos. Por outro lado, os professores do 6º ano demonstraram dificuldade na busca por temas atrativos para os estudantes. Espera-se que este estudo motive outras pesquisas a olharem a formação continuada para professores durante a transição dos Anos Iniciais para os Anos Finais do Ensino Fundamental.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-36440780",
+  "autor": "Valderez Aparecida Aluiz Amin",
+  "ano": 2022,
+  "tipo": "Dissertação",
+  "titulo": "A Organização do Ensino da Estatística no 5º e 6º Ano do Ensino Fundamental: O Olhar dos Professores",
+  "instituicao": "Universidade Federal do Paraná",
+  "cidade": "",
+  "estado": "Paraná",
+  "regiao": "Sul",
+  "orientador": "Maria Lucia Panossian",
+  "programa": "Educação em Ciências e em Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Formação de Professores; Atividade Orientadora de Ensino; Formação Continuada; Ensino da Estatística",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20ORGANIZA%C3%87%C3%83O%20DO%20ENSINO%20DA%20ESTAT%C3%8DSTICA%20NO%205%C2%BA%20E%206%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%3A%20O%20OLHAR%20DOS%20PROFESSORES%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20ORGANIZA%C3%87%C3%83O%20DO%20ENSINO%20DA%20ESTAT%C3%8DSTICA%20NO%205%C2%BA%20E%206%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%3A%20O%20OLHAR%20DOS%20PROFESSORES&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36440780"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "36440780",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Formação de Professores",
+    "Atividade Orientadora de Ensino",
+    "Formação Continuada",
+    "Ensino da Estatística"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-36440780.svg",
+  "resumo": "Esta pesquisa de mestrado foi desenvolvida no Programa de Pós-Graduação em Educação em Ciências e em Matemática, no Setor de Ciências Exatas da Universidade Federal do Paraná, na linha de pesquisa Formação de Professores que ensinam Ciências e Matemática. Vincula-se ao Grupo de Estudos e Pesquisas sobre Formação de Professores na linha de Estudos sobre a Teoria Histórico-Cultural, Teoria da Atividade e Atividade Orientadora de Ensino. O interesse desta pesquisa surgiu da percepção da dificuldade que os estudantes encontram quando passam pelo processo de transição dos anos iniciais para os anos finais do Ensino Fundamental. Ao identificar a dificuldade do estudante, voltamos nosso olhar para a atuação do professor nos conceitos específicos da Estatística, considerando a seguinte problemática: O que os professores do 5º e do 6º ano do Ensino Fundamental revelam sobre a organização do ensino da Estatística? Estabelecemos o objetivo de compreender as manifestações dos professores sobre a organização do ensino da estatística no 5º e 6º ano do Ensino Fundamental em um curso de formação continuada, proposto a partir das ações geradas no projeto de extensão Oficina Pedagógica de Matemática pautado nos pressupostos da Atividade Orientadora de Ensino. Contamos com a participação de 19 professores, entre professores da educação básica, alunos da graduação e da pós-graduação. Para iniciar o movimento da pesquisa, foram organizadas ações de estudo do fundamento teórico e da análise de como a estatística é contemplada nos documentos norteadores do trabalho docente, a Base Nacional Comum Curricular - BNCC, Currículo da Rede Estadual do Paranaense - CREP e Proposta Curricular de Piraquara, município de origem de alguns dos participantes. A segunda ação desenvolvida foi o levantamento bibliográfico sobre o Ensino da Estatística, a partir de artigos e números temáticos de revistas. E a terceira ação que sustenta a pesquisa é o reconhecimento de nexos conceituais da estatística, revelados a partir do estudo do movimento histórico e lógico. Com base nestes estudos, as ações metodológicas incluem a organização do curso de formação continuada para professores da rede pública de ensino que lecionam para o 5º e 6º ano do Ensino Fundamental, a partir do qual os dados foram constituídos. Devido ao momento pandêmico que enfrentamos a partir de 2020, causado pelo Covid-19, o curso aconteceu de forma remota, com momentos síncronos e assíncronos pela plataforma Google Meet e Classroom. Para análise dos dados gerados, utilizamos a noção de isolado empregado em estudos que utilizam o referencial teórico adotado, e para organização e discussão dos dados, utilizamos a apresentação de episódios, cenas e flashes. Partimos da hipótese de que as diferenças no processo de organização do ensino de professores de cada um dos níveis implicam em algumas das dificuldades dos estudantes, considerando a fragilidade na comunicação entre os educadores que atuam nesses níveis de ensino. De forma geral, percebemos que os professores dos anos iniciais, 5º ano e 6º ano, preocupam-se com temas que despertem o interesse dos estudantes para o estudo da Estatística; no entanto, os professores do 5º ano encontram dificuldade em articular os conceitos estatísticos, limitando-se à interpretação de tabelas e gráficos. Por outro lado, os professores do 6º ano demonstraram dificuldade na busca por temas atrativos para os estudantes. Espera-se que este estudo motive outras pesquisas a olharem a formação continuada para professores durante a transição dos Anos Iniciais para os Anos Finais do Ensino Fundamental.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

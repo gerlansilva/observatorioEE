@@ -1,64 +1,64 @@
 {
- "id": "capes-37306641",
- "autor": "Sidney Silva Santos",
- "ano": 2022,
- "tipo": "Tese",
- "titulo": "Formação continuada a distância em Educação Estatística: Práticas pedagógicas videobiografadas por professoras de Matemática",
- "instituicao": "Universidade Cruzeiro do Sul",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Celi Aparecida Espasandin Lopes",
- "programa": "ENSINO DE CIÊNCIAS",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "DO",
- "grau": "Doutorado",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Estatística; Educação a distância; Formação Continuada de professores; Narrativas videobiografadas; Práticas pedagógicas; Saberes docentes",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Forma%C3%A7%C3%A3o%20continuada%20a%20dist%C3%A2ncia%20em%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%3A%20Pr%C3%A1ticas%20pedag%C3%B3gicas%20videobiografadas%20por%20professoras%20de%20Matem%C3%A1tica%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Forma%C3%A7%C3%A3o%20continuada%20a%20dist%C3%A2ncia%20em%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%3A%20Pr%C3%A1ticas%20pedag%C3%B3gicas%20videobiografadas%20por%20professoras%20de%20Matem%C3%A1tica&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37306641"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "37306641",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Estatística",
-  "Educação a distância",
-  "Formação Continuada de professores",
-  "Narrativas videobiografadas",
-  "Práticas pedagógicas",
-  "Saberes docentes"
- ],
- "thumbnail": "./assets/images/thumbs/capes-37306641.svg",
- "resumo": "Este estudo tem por objetivo analisar as contribuições de um curso de formação continuada a distância, para o desenvolvimento profissional e a prática pedagógica de professores de matemática, ao ensinarem estatística e probabilidade a alunos dos anos finais do Ensino Fundamental. Nessa direção, foi elaborada e proporcionada uma formação continuada, pautada na reflexão, na discussão e no diálogo entre os participantes, na intenção de promover a troca de experiências e o aprofundamento teórico e metodológico acerca da investigação estatística e probabilística, como perspectiva pedagógica, assim como dos conceitos dessas áreas, de modo a favorecer a ampliação dos saberes profissionais desses professores, ao ensinarem essas temáticas neste nível de escolaridade. Assim, buscaram-se subsídios possíveis para responder à seguinte questão de pesquisa: quais contribuições um curso de formação continuada, concedido a distância, em Educação Estatística, pode trazer para prática pedagógica de professores de matemática dos anos finais do Ensino Fundamental? Fundamentou-se nas ideias que norteiam o conceito de formação continuada de professores em espaços de aprendizagem a distância; ensino da estatística e probabilidade; e nos saberes necessários à prática docente. Foram utilizadas narrativas videobiográficas como dispositivo de (auto)formação e método de pesquisa, oriundas da abordagem da Pesquisa (Auto)biográfica em Educação. Os materiais de análise deste estudo consistem em narrativas de percurso (auto)biográfico e de práticas pedagógicas de sala de aula, emergentes dos momentos síncronos e assíncronos do curso de formação continuada, das ações mobilizadas por duas professoras de matemática atuantes nos anos finais do Ensino Fundamental da cidade de São Paulo, assim como de seus alunos, em um período de isolamento social, provocado pela pandemia do coronavírus – COVID 19. Infere-se que o curso de formação continuada contribuiu consideravelmente para o desenvolvimento profissional dessas professoras, principalmente, no que refere-se à ampliação de saberes necessários ao ensino de estatística e probabilidade; à aquisição de práticas pedagógicas em educação estatística instigantes e desafiadoras em um momento de ensino remoto emergencial; e à produção, à divulgação e ao compartilhamento de saberes profissionais construídos durante o curso em periódico e anais de eventos da área.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": [
-  "39263631"
- ]
+  "id": "capes-37306641",
+  "autor": "Sidney Silva Santos",
+  "ano": 2022,
+  "tipo": "Tese",
+  "titulo": "Formação continuada a distância em Educação Estatística: Práticas pedagógicas videobiografadas por professoras de Matemática",
+  "instituicao": "Universidade Cruzeiro do Sul",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Celi Aparecida Espasandin Lopes",
+  "programa": "ENSINO DE CIÊNCIAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Educação a distância; Formação Continuada de professores; Narrativas videobiografadas; Práticas pedagógicas; Saberes docentes",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Forma%C3%A7%C3%A3o%20continuada%20a%20dist%C3%A2ncia%20em%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%3A%20Pr%C3%A1ticas%20pedag%C3%B3gicas%20videobiografadas%20por%20professoras%20de%20Matem%C3%A1tica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Forma%C3%A7%C3%A3o%20continuada%20a%20dist%C3%A2ncia%20em%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%3A%20Pr%C3%A1ticas%20pedag%C3%B3gicas%20videobiografadas%20por%20professoras%20de%20Matem%C3%A1tica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37306641"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37306641",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Educação a distância",
+    "Formação Continuada de professores",
+    "Narrativas videobiografadas",
+    "Práticas pedagógicas",
+    "Saberes docentes"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37306641.svg",
+  "resumo": "Este estudo tem por objetivo analisar as contribuições de um curso de formação continuada a distância, para o desenvolvimento profissional e a prática pedagógica de professores de matemática, ao ensinarem estatística e probabilidade a alunos dos anos finais do Ensino Fundamental. Nessa direção, foi elaborada e proporcionada uma formação continuada, pautada na reflexão, na discussão e no diálogo entre os participantes, na intenção de promover a troca de experiências e o aprofundamento teórico e metodológico acerca da investigação estatística e probabilística, como perspectiva pedagógica, assim como dos conceitos dessas áreas, de modo a favorecer a ampliação dos saberes profissionais desses professores, ao ensinarem essas temáticas neste nível de escolaridade. Assim, buscaram-se subsídios possíveis para responder à seguinte questão de pesquisa: quais contribuições um curso de formação continuada, concedido a distância, em Educação Estatística, pode trazer para prática pedagógica de professores de matemática dos anos finais do Ensino Fundamental? Fundamentou-se nas ideias que norteiam o conceito de formação continuada de professores em espaços de aprendizagem a distância; ensino da estatística e probabilidade; e nos saberes necessários à prática docente. Foram utilizadas narrativas videobiográficas como dispositivo de (auto)formação e método de pesquisa, oriundas da abordagem da Pesquisa (Auto)biográfica em Educação. Os materiais de análise deste estudo consistem em narrativas de percurso (auto)biográfico e de práticas pedagógicas de sala de aula, emergentes dos momentos síncronos e assíncronos do curso de formação continuada, das ações mobilizadas por duas professoras de matemática atuantes nos anos finais do Ensino Fundamental da cidade de São Paulo, assim como de seus alunos, em um período de isolamento social, provocado pela pandemia do coronavírus – COVID 19. Infere-se que o curso de formação continuada contribuiu consideravelmente para o desenvolvimento profissional dessas professoras, principalmente, no que refere-se à ampliação de saberes necessários ao ensino de estatística e probabilidade; à aquisição de práticas pedagógicas em educação estatística instigantes e desafiadoras em um momento de ensino remoto emergencial; e à produção, à divulgação e ao compartilhamento de saberes profissionais construídos durante o curso em periódico e anais de eventos da área.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": [
+    "39263631"
+  ]
 }

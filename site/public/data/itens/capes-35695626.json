@@ -1,61 +1,61 @@
 {
- "id": "capes-35695626",
- "autor": "Monica Franca da Silva Barros",
- "ano": 2021,
- "tipo": "Dissertação",
- "titulo": "ANÁLISE DA ABORDAGEM DA ESTATÍSTICA EM LIVROS DIDÁTICOS DE MATEMÁTICA DO ENSINO MÉDIO DO PNLD 2018 – o letramento estatístico",
- "instituicao": "Universidade Federal de Alagoas",
- "cidade": "",
- "estado": "Alagoas",
- "regiao": "Nordeste",
- "orientador": "Givaldo Oliveira dos Santos",
- "programa": "Ensino de Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Livro Didático; Ensino Médio; Letramento Estatístico; Organização Praxeológica",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22AN%C3%81LISE%20DA%20ABORDAGEM%20DA%20ESTAT%C3%8DSTICA%20EM%20LIVROS%20DID%C3%81TICOS%20DE%20MATEM%C3%81TICA%20DO%20ENSINO%20M%C3%89DIO%20DO%20PNLD%202018%20%E2%80%93%20o%20letramento%20estat%C3%ADstico%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AN%C3%81LISE%20DA%20ABORDAGEM%20DA%20ESTAT%C3%8DSTICA%20EM%20LIVROS%20DID%C3%81TICOS%20DE%20MATEM%C3%81TICA%20DO%20ENSINO%20M%C3%89DIO%20DO%20PNLD%202018%20%E2%80%93%20o%20letramento%20estat%C3%ADstico&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35695626"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "35695626",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Livro Didático",
-  "Ensino Médio",
-  "Letramento Estatístico",
-  "Organização Praxeológica"
- ],
- "thumbnail": "./assets/images/thumbs/capes-35695626.svg",
- "resumo": "Este estudo ressalta a importância da Estatística na aprendizagem dos alunos, além disso, considera o livro didático como o principal instrumento utilizado pelos docentes ao planejarem suas aulas e como material de estudo e pesquisa pelos alunos. Tem como objetivo principal analisar duas coleções de livros didáticos de Matemática do Ensino Médio, do Programa Nacional do Livro Didático 2018, quanto a abordagem da Estatística e se ela promove o Letramento Estatístico. Teoricamente se apoiará no Letramento Estatístico proposto por Iddo Gal (2002), nos níveis de Letramento Estatístico de Watson e Callingham (2003), na Organização Praxeológica de Chevallard (1999) e em trabalhos que também analisaram o livro didático da área de Matemática. Na análise ainda verificou-se se nas coleções já havia alguma correspondência com orientações da Base Nacional Curricular Comum (BNCC, 2018). Utilizou-se a metodologia do estudo documental qualitativo, sob a perspectiva de estudo de caso de Fonseca (2002). A amostra foi intencional composta por duas coleções do ensino médio recomendados pelo PNLD 2018 – 2020. Para realizar a análise foi utilizado o instrumento de avaliação com descritores baseados no trabalho de Santos (2017). Ao término da análise constatou-se que a coleção Conexões com a Matemática permite ao aluno atingir o nível consistente não-crítico, enquanto a coleção Matemática: Contexto & Aplicações possibilita o nível inconsistente, consoante a categorização do Letramento Estatístico de Watson e Callingham (2003). Logo, constatamos lacunas que seriam preenchidas se os autores de livros didáticos atendessem ao que é recomendado pelos pesquisadores da área de Educação Estatística. Tendo em vista os aspectos observados, elaboramos um produto educacional que consiste em material de apoio didático, que apresenta proposições ao professor sobre como elaborar exercícios para desenvolver os níveis mais elevados do letramento estatístico e um catálogo com diferentes materiais complementares para auxiliar no planejamento das aulas sobre estatística.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística",
-  "letramento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-35695626",
+  "autor": "Monica Franca da Silva Barros",
+  "ano": 2021,
+  "tipo": "Dissertação",
+  "titulo": "ANÁLISE DA ABORDAGEM DA ESTATÍSTICA EM LIVROS DIDÁTICOS DE MATEMÁTICA DO ENSINO MÉDIO DO PNLD 2018 – o letramento estatístico",
+  "instituicao": "Universidade Federal de Alagoas",
+  "cidade": "",
+  "estado": "Alagoas",
+  "regiao": "Nordeste",
+  "orientador": "Givaldo Oliveira dos Santos",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Livro Didático; Ensino Médio; Letramento Estatístico; Organização Praxeológica",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22AN%C3%81LISE%20DA%20ABORDAGEM%20DA%20ESTAT%C3%8DSTICA%20EM%20LIVROS%20DID%C3%81TICOS%20DE%20MATEM%C3%81TICA%20DO%20ENSINO%20M%C3%89DIO%20DO%20PNLD%202018%20%E2%80%93%20o%20letramento%20estat%C3%ADstico%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AN%C3%81LISE%20DA%20ABORDAGEM%20DA%20ESTAT%C3%8DSTICA%20EM%20LIVROS%20DID%C3%81TICOS%20DE%20MATEM%C3%81TICA%20DO%20ENSINO%20M%C3%89DIO%20DO%20PNLD%202018%20%E2%80%93%20o%20letramento%20estat%C3%ADstico&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35695626"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "35695626",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Livro Didático",
+    "Ensino Médio",
+    "Letramento Estatístico",
+    "Organização Praxeológica"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-35695626.svg",
+  "resumo": "Este estudo ressalta a importância da Estatística na aprendizagem dos alunos, além disso, considera o livro didático como o principal instrumento utilizado pelos docentes ao planejarem suas aulas e como material de estudo e pesquisa pelos alunos. Tem como objetivo principal analisar duas coleções de livros didáticos de Matemática do Ensino Médio, do Programa Nacional do Livro Didático 2018, quanto a abordagem da Estatística e se ela promove o Letramento Estatístico. Teoricamente se apoiará no Letramento Estatístico proposto por Iddo Gal (2002), nos níveis de Letramento Estatístico de Watson e Callingham (2003), na Organização Praxeológica de Chevallard (1999) e em trabalhos que também analisaram o livro didático da área de Matemática. Na análise ainda verificou-se se nas coleções já havia alguma correspondência com orientações da Base Nacional Curricular Comum (BNCC, 2018). Utilizou-se a metodologia do estudo documental qualitativo, sob a perspectiva de estudo de caso de Fonseca (2002). A amostra foi intencional composta por duas coleções do ensino médio recomendados pelo PNLD 2018 – 2020. Para realizar a análise foi utilizado o instrumento de avaliação com descritores baseados no trabalho de Santos (2017). Ao término da análise constatou-se que a coleção Conexões com a Matemática permite ao aluno atingir o nível consistente não-crítico, enquanto a coleção Matemática: Contexto & Aplicações possibilita o nível inconsistente, consoante a categorização do Letramento Estatístico de Watson e Callingham (2003). Logo, constatamos lacunas que seriam preenchidas se os autores de livros didáticos atendessem ao que é recomendado pelos pesquisadores da área de Educação Estatística. Tendo em vista os aspectos observados, elaboramos um produto educacional que consiste em material de apoio didático, que apresenta proposições ao professor sobre como elaborar exercícios para desenvolver os níveis mais elevados do letramento estatístico e um catálogo com diferentes materiais complementares para auxiliar no planejamento das aulas sobre estatística.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
 }

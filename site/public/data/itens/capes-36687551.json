@@ -1,60 +1,60 @@
 {
- "id": "capes-36687551",
- "autor": "Felipe Bruce de Lima",
- "ano": 2022,
- "tipo": "Dissertação",
- "titulo": "Ensino de Estatística Descritiva: Análise de Tabelas e Gráficos no Ensino Fundamental",
- "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
- "cidade": "",
- "estado": "Amazonas",
- "regiao": "Norte",
- "orientador": "Andrea Pereira Mendonca",
- "programa": "Ensino Tecnológico",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino-Aprendizagem; Ensino de Estatística; Roteiros de Ensino; Roteiros de Aprendizagem",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20DE%20ESTAT%C3%8DSTICA%20DESCRITIVA%3A%20AN%C3%81LISE%20DE%20TABELAS%20E%20GR%C3%81FICOS%20NO%20ENSINO%20FUNDAMENTAL%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20DE%20ESTAT%C3%8DSTICA%20DESCRITIVA%3A%20AN%C3%81LISE%20DE%20TABELAS%20E%20GR%C3%81FICOS%20NO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36687551"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "36687551",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino-Aprendizagem",
-  "Ensino de Estatística",
-  "Roteiros de Ensino",
-  "Roteiros de Aprendizagem"
- ],
- "thumbnail": "./assets/images/thumbs/capes-36687551.svg",
- "resumo": "A análise de dados estatísticos a partir de tabelas e gráficos é uma importante habilidade requerida dos estudantes. Contudo, identificamos que são vários os relatos na literatura que evidenciam as dificuldades dos estudantes em ler, interpretar e se posicionar quando os dados são representados em formato de tabelas e gráficos. Tendo em vista essa problemática, nossa pesquisa teve por objetivo desenvolver uma proposta de ensino-aprendizagem voltada para o ensino de estatística descritiva, com foco na análise de dados a partir de tabelas e gráficos, considerando como público-alvo estudantes do 7° ano do ensino fundamental. Essa proposta está fundamentada segundo os documentos atuais de orientação curricular (Base Nacional Comum Curricular – BNCC e o Referencial Curricular Amazonense – RCA), bem como inspirada na abordagem de ensino de Matemática por meio da Resolução de Problemas. Esta pesquisa resultou em um produto educacional intitulado “Análise de Dados Estatísticos a partir de Tabelas e Gráficos - Uma Abordagem para o Letramento Matemático no Ensino Fundamental II”, o qual, inspirado no Método Delphi, foi avaliado por um comitê ad hoc, a luz de três dimensões - Novidade do Produto, Resolução que o produto pode permitir e Elaboração e Síntese. Considerando a síntese das avaliações do Comitê Ad hoc, os dados obtidos nos permitem inferir que o produto atendeu aos requisitos avaliados nas três dimensões, embora seja necessário obter, em trabalhos futuros, informações sobre adequação da carga horária prevista, compreensão de aspectos que possam ser melhorados na organização do produto para favorecer a sua replicação por terceiros. No que concerne a uma síntese dos resultados, houve uma concordância de 75% dos avaliadores quanto a pertinência do produto educacional nas dimensões avaliadas e houve, no contexto da avaliação realizada, evidências que demostram que o produto educacional tem potencial para contribuir para o ensino-aprendizagem de Estatística Descritiva.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-36687551",
+  "autor": "Felipe Bruce de Lima",
+  "ano": 2022,
+  "tipo": "Dissertação",
+  "titulo": "Ensino de Estatística Descritiva: Análise de Tabelas e Gráficos no Ensino Fundamental",
+  "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+  "cidade": "",
+  "estado": "Amazonas",
+  "regiao": "Norte",
+  "orientador": "Andrea Pereira Mendonca",
+  "programa": "Ensino Tecnológico",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino-Aprendizagem; Ensino de Estatística; Roteiros de Ensino; Roteiros de Aprendizagem",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20DE%20ESTAT%C3%8DSTICA%20DESCRITIVA%3A%20AN%C3%81LISE%20DE%20TABELAS%20E%20GR%C3%81FICOS%20NO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20DE%20ESTAT%C3%8DSTICA%20DESCRITIVA%3A%20AN%C3%81LISE%20DE%20TABELAS%20E%20GR%C3%81FICOS%20NO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36687551"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "36687551",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino-Aprendizagem",
+    "Ensino de Estatística",
+    "Roteiros de Ensino",
+    "Roteiros de Aprendizagem"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-36687551.svg",
+  "resumo": "A análise de dados estatísticos a partir de tabelas e gráficos é uma importante habilidade requerida dos estudantes. Contudo, identificamos que são vários os relatos na literatura que evidenciam as dificuldades dos estudantes em ler, interpretar e se posicionar quando os dados são representados em formato de tabelas e gráficos. Tendo em vista essa problemática, nossa pesquisa teve por objetivo desenvolver uma proposta de ensino-aprendizagem voltada para o ensino de estatística descritiva, com foco na análise de dados a partir de tabelas e gráficos, considerando como público-alvo estudantes do 7° ano do ensino fundamental. Essa proposta está fundamentada segundo os documentos atuais de orientação curricular (Base Nacional Comum Curricular – BNCC e o Referencial Curricular Amazonense – RCA), bem como inspirada na abordagem de ensino de Matemática por meio da Resolução de Problemas. Esta pesquisa resultou em um produto educacional intitulado “Análise de Dados Estatísticos a partir de Tabelas e Gráficos - Uma Abordagem para o Letramento Matemático no Ensino Fundamental II”, o qual, inspirado no Método Delphi, foi avaliado por um comitê ad hoc, a luz de três dimensões - Novidade do Produto, Resolução que o produto pode permitir e Elaboração e Síntese. Considerando a síntese das avaliações do Comitê Ad hoc, os dados obtidos nos permitem inferir que o produto atendeu aos requisitos avaliados nas três dimensões, embora seja necessário obter, em trabalhos futuros, informações sobre adequação da carga horária prevista, compreensão de aspectos que possam ser melhorados na organização do produto para favorecer a sua replicação por terceiros. No que concerne a uma síntese dos resultados, houve uma concordância de 75% dos avaliadores quanto a pertinência do produto educacional nas dimensões avaliadas e houve, no contexto da avaliação realizada, evidências que demostram que o produto educacional tem potencial para contribuir para o ensino-aprendizagem de Estatística Descritiva.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

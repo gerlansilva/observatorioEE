@@ -1,62 +1,62 @@
 {
- "id": "capes-38432431",
- "autor": "Leocadio Bibiano Barreto",
- "ano": 2023,
- "tipo": "Dissertação",
- "titulo": "Forças de Caráter e Virtudes: construção da dimensão pessoal do Projeto de Vida dos adolescentes",
- "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Diva Valerio Novaes",
- "programa": "Ensino de Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino; Projeto de Vida; Transdisciplinaridade; Formação de Professores; Educação Estatística",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22For%C3%A7as%20de%20Car%C3%A1ter%20e%20Virtudes%3A%20constru%C3%A7%C3%A3o%20da%20dimens%C3%A3o%20pessoal%20do%20Projeto%20de%20Vida%20dos%20adolescentes%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=For%C3%A7as%20de%20Car%C3%A1ter%20e%20Virtudes%3A%20constru%C3%A7%C3%A3o%20da%20dimens%C3%A3o%20pessoal%20do%20Projeto%20de%20Vida%20dos%20adolescentes&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38432431"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "38432431",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino",
-  "Projeto de Vida",
-  "Transdisciplinaridade",
-  "Formação de Professores",
-  "Educação Estatística"
- ],
- "thumbnail": "./assets/images/thumbs/capes-38432431.svg",
- "resumo": "A presente pesquisa teve como objetivo verificar se o conhecimento das Forças de Caráter e Virtudes contribuem para a dimensão pessoal do Projeto de Vida de estudantes do Ensino Médio, com questões relacionadas ao autoconhecimento, à Identidade e à autoestima. A pesquisa teve uma abordagem qualitativa de natureza aplicada, com objetivo descritivo e explicativo. O objeto de investigação utilizado foi o questionário Forças de Caráter e Virtudes, uma adaptação do questionário Values in Action (VIA) Classification of Strength. Esse instrumento foi elaborado pelo grupo de pesquisa GPSEI — Grupo de Pesquisa Ser, Estar e Integrar competências na Educação Básica da instituição em que atuamos. O processo metodológico é composto por quatro etapas. São elas: 1) Apresentação e orientações; 2) Ação individual; 3) Roda de conversa e 4) Ação protagonista. Os resultados apresentaram uma contribuição significativa das forças em relação ao despertar nos participantes os sentimentos de confiança, esperança, motivação e persistência na identificação e superação de suas fragilidades, dificuldades e desafios. As conclusões mostraram que nosso projeto trouxe expectativas positivas sobre um futuro desejado e encorajou os alunos a pensarem em suas forças e no que é necessário fazer para chegar até ele com as forças que tem. Percebeu-se, também, que se trata de um processo contínuo que se faz no cotidiano de suas vivências e no contexto familiar enquanto elemento de amparo legítimo e agregador. O Produto Educacional é composto por um Material Didático sobre as Forças de Caráter e Virtudes. O instrumento visa motivar o estudante com a prática de boas atitudes, sendo o caminho para viver em harmonia e bem-estar pessoal e social. Com isso, o estudante pode conhecer, lidar e vivenciar suas forças de maior intensidade, forças médias e menores.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-38432431",
+  "autor": "Leocadio Bibiano Barreto",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "Forças de Caráter e Virtudes: construção da dimensão pessoal do Projeto de Vida dos adolescentes",
+  "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Diva Valerio Novaes",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino; Projeto de Vida; Transdisciplinaridade; Formação de Professores; Educação Estatística",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22For%C3%A7as%20de%20Car%C3%A1ter%20e%20Virtudes%3A%20constru%C3%A7%C3%A3o%20da%20dimens%C3%A3o%20pessoal%20do%20Projeto%20de%20Vida%20dos%20adolescentes%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=For%C3%A7as%20de%20Car%C3%A1ter%20e%20Virtudes%3A%20constru%C3%A7%C3%A3o%20da%20dimens%C3%A3o%20pessoal%20do%20Projeto%20de%20Vida%20dos%20adolescentes&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38432431"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "38432431",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino",
+    "Projeto de Vida",
+    "Transdisciplinaridade",
+    "Formação de Professores",
+    "Educação Estatística"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-38432431.svg",
+  "resumo": "A presente pesquisa teve como objetivo verificar se o conhecimento das Forças de Caráter e Virtudes contribuem para a dimensão pessoal do Projeto de Vida de estudantes do Ensino Médio, com questões relacionadas ao autoconhecimento, à Identidade e à autoestima. A pesquisa teve uma abordagem qualitativa de natureza aplicada, com objetivo descritivo e explicativo. O objeto de investigação utilizado foi o questionário Forças de Caráter e Virtudes, uma adaptação do questionário Values in Action (VIA) Classification of Strength. Esse instrumento foi elaborado pelo grupo de pesquisa GPSEI — Grupo de Pesquisa Ser, Estar e Integrar competências na Educação Básica da instituição em que atuamos. O processo metodológico é composto por quatro etapas. São elas: 1) Apresentação e orientações; 2) Ação individual; 3) Roda de conversa e 4) Ação protagonista. Os resultados apresentaram uma contribuição significativa das forças em relação ao despertar nos participantes os sentimentos de confiança, esperança, motivação e persistência na identificação e superação de suas fragilidades, dificuldades e desafios. As conclusões mostraram que nosso projeto trouxe expectativas positivas sobre um futuro desejado e encorajou os alunos a pensarem em suas forças e no que é necessário fazer para chegar até ele com as forças que tem. Percebeu-se, também, que se trata de um processo contínuo que se faz no cotidiano de suas vivências e no contexto familiar enquanto elemento de amparo legítimo e agregador. O Produto Educacional é composto por um Material Didático sobre as Forças de Caráter e Virtudes. O instrumento visa motivar o estudante com a prática de boas atitudes, sendo o caminho para viver em harmonia e bem-estar pessoal e social. Com isso, o estudante pode conhecer, lidar e vivenciar suas forças de maior intensidade, forças médias e menores.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

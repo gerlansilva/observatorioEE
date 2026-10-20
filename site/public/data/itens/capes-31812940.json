@@ -1,62 +1,62 @@
 {
- "id": "capes-31812940",
- "autor": "Carlos Alexandre Silva dos Santos",
- "ano": 2020,
- "tipo": "Dissertação",
- "titulo": "Estatística com projetos: uma proposta para os anos finais do Ensino Fundamental",
- "instituicao": "Universidade Federal do Rio Grande do Sul",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Joao Feliz Duarte de Moraes",
- "programa": "ENSINO DE MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação Estatística; Estatística Crítica; Letramento Estatístico; Projetos de Aprendizagem; Currículo",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Estat%C3%ADstica%20com%20projetos%3A%20uma%20proposta%20para%20os%20anos%20finais%20do%20Ensino%20Fundamental%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estat%C3%ADstica%20com%20projetos%3A%20uma%20proposta%20para%20os%20anos%20finais%20do%20Ensino%20Fundamental&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31812940"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "31812940",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação Estatística",
-  "Estatística Crítica",
-  "Letramento Estatístico",
-  "Projetos de Aprendizagem",
-  "Currículo"
- ],
- "thumbnail": "./assets/images/thumbs/capes-31812940.svg",
- "resumo": "O presente trabalho teve o objetivo de analisar como um estudo baseado em Projetos de Aprendizagem pode contribuir para a formação de estudantes mais críticos e atuantes na sociedade. Participaram deste estudo 27 alunos do sétimo ano de uma escola do Ensino Fundamental do município de Guaíba, estado do Rio Grande do Sul. Nesse estudo os aprendizes realizaram coleta de dados a partir de um tema de sua livre escolha, realizaram o tratamento das observações coletadas, criaram gráficos em planilhas eletrônicas e elaboraram seus relatos em editores de texto. Durante a apresentação dos resultados em forma de slides, verificamos intensa discussão e debate com seus pares. Foram escolhidos por eles temas como alimentação mais saudável, preconceitos, religiões, esportes preferidos, animais de estimação, aplicativos mais utilizados pelos adolescentes e comportamento dos jovens em sala de aula. Também realizamos uma enquete com vinte professores de matemática desse município para averiguar como tem sido a inserção da Estatística na sua prática pedagógica, as principais dificuldades percebidas e como têm se posicionado em relação às propostas da Base Nacional Curricular Comum. Os dados da pesquisa foram recolhidos pelas respostas dos docentes e relatos e escritos dos alunos em todas as etapas do estudo. As informações recolhidas foram analisadas por meio da pedagogia de projetos, preceitos da Educação Crítica e as aptidões básicas da Estatística em autores nacionais e internacionais. Houve uma intensa troca de ideias por parte dos nossos aprendizes que, na busca por respostas a seus questionamentos, tiveram contato com a investigação. Por meio de gráficos, quadros e tabelas, expuseram suas conclusões demonstrando uma excelente capacidade na argumentação. Nossos resultados sugerem, de acordo com a literatura estudada, que essa forma de pedagogia contribuiu para a formação de educandos mais críticos e com pensamentos mais reflexivos em relação ao mundo. O produto final dessa pesquisa foi um relato dessa experiência voltado para ajudar docentes que tenham o interesse em iniciar o trabalho com projetos de aprendizagem explorando as habilidades básicas da Estatística.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "letramento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-31812940",
+  "autor": "Carlos Alexandre Silva dos Santos",
+  "ano": 2020,
+  "tipo": "Dissertação",
+  "titulo": "Estatística com projetos: uma proposta para os anos finais do Ensino Fundamental",
+  "instituicao": "Universidade Federal do Rio Grande do Sul",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Joao Feliz Duarte de Moraes",
+  "programa": "ENSINO DE MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação Estatística; Estatística Crítica; Letramento Estatístico; Projetos de Aprendizagem; Currículo",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Estat%C3%ADstica%20com%20projetos%3A%20uma%20proposta%20para%20os%20anos%20finais%20do%20Ensino%20Fundamental%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estat%C3%ADstica%20com%20projetos%3A%20uma%20proposta%20para%20os%20anos%20finais%20do%20Ensino%20Fundamental&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31812940"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "31812940",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação Estatística",
+    "Estatística Crítica",
+    "Letramento Estatístico",
+    "Projetos de Aprendizagem",
+    "Currículo"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-31812940.svg",
+  "resumo": "O presente trabalho teve o objetivo de analisar como um estudo baseado em Projetos de Aprendizagem pode contribuir para a formação de estudantes mais críticos e atuantes na sociedade. Participaram deste estudo 27 alunos do sétimo ano de uma escola do Ensino Fundamental do município de Guaíba, estado do Rio Grande do Sul. Nesse estudo os aprendizes realizaram coleta de dados a partir de um tema de sua livre escolha, realizaram o tratamento das observações coletadas, criaram gráficos em planilhas eletrônicas e elaboraram seus relatos em editores de texto. Durante a apresentação dos resultados em forma de slides, verificamos intensa discussão e debate com seus pares. Foram escolhidos por eles temas como alimentação mais saudável, preconceitos, religiões, esportes preferidos, animais de estimação, aplicativos mais utilizados pelos adolescentes e comportamento dos jovens em sala de aula. Também realizamos uma enquete com vinte professores de matemática desse município para averiguar como tem sido a inserção da Estatística na sua prática pedagógica, as principais dificuldades percebidas e como têm se posicionado em relação às propostas da Base Nacional Curricular Comum. Os dados da pesquisa foram recolhidos pelas respostas dos docentes e relatos e escritos dos alunos em todas as etapas do estudo. As informações recolhidas foram analisadas por meio da pedagogia de projetos, preceitos da Educação Crítica e as aptidões básicas da Estatística em autores nacionais e internacionais. Houve uma intensa troca de ideias por parte dos nossos aprendizes que, na busca por respostas a seus questionamentos, tiveram contato com a investigação. Por meio de gráficos, quadros e tabelas, expuseram suas conclusões demonstrando uma excelente capacidade na argumentação. Nossos resultados sugerem, de acordo com a literatura estudada, que essa forma de pedagogia contribuiu para a formação de educandos mais críticos e com pensamentos mais reflexivos em relação ao mundo. O produto final dessa pesquisa foi um relato dessa experiência voltado para ajudar docentes que tenham o interesse em iniciar o trabalho com projetos de aprendizagem explorando as habilidades básicas da Estatística.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
 }

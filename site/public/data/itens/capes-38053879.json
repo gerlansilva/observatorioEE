@@ -1,60 +1,60 @@
 {
- "id": "capes-38053879",
- "autor": "Francisco Marinho de Oliveira",
- "ano": 2023,
- "tipo": "Dissertação",
- "titulo": "Investigação do processo da Aprendizagem Significativa de Estatística no Ensino Médio: um estudo com base na aplicação de uma UEPS no contexto do estado do Acre",
- "instituicao": "Fundação Universidade de Passo Fundo",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Luiz Marcelo Darroz",
- "programa": "Ensino de Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Estatística; Unidade de Ensino Potencialmente Significativa (UEPS); Orientações da BNCC; Índice de Preço ao Consumidor Amplo (IPCA)",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Investiga%C3%A7%C3%A3o%20do%20processo%20da%20Aprendizagem%20Significativa%20de%20Estat%C3%ADstica%20no%20Ensino%20M%C3%A9dio%3A%20um%20estudo%20com%20base%20na%20aplica%C3%A7%C3%A3o%20de%20uma%20UEPS%20no%20contexto%20do%20estado%20do%20Acre%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Investiga%C3%A7%C3%A3o%20do%20processo%20da%20Aprendizagem%20Significativa%20de%20Estat%C3%ADstica%20no%20Ensino%20M%C3%A9dio%3A%20um%20estudo%20com%20base%20na%20aplica%C3%A7%C3%A3o%20de%20uma%20UEPS%20no%20contexto%20do%20estado%20do%20Acre&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38053879"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "38053879",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Estatística",
-  "Unidade de Ensino Potencialmente Significativa (UEPS)",
-  "Orientações da BNCC",
-  "Índice de Preço ao Consumidor Amplo (IPCA)"
- ],
- "thumbnail": "./assets/images/thumbs/capes-38053879.svg",
- "resumo": "O presente texto se refere à dissertação de mestrado, alocado à linha de pesquisa Práticas Educativas no ensino de Ciências e Matemática, explanando a investigação e suas expectativas. O estudo parte da necessidade de propor uma sequência didática para o ensino de tópicos de estatística na Educação Básica, partindo de uma perspectiva significativa da aprendizagem em contexto local. A urgência pela referida investigação, se dá principalmente devido ao baixo desempenho da proficiência média em matemática evidenciados nas avaliações externas do Sistema de Avaliação da Educação Básica (SAEB), e do Programa Internacional de Avaliação de Estudantes (PISA). Aspectos esses, que direcionam ao questionamento central da pesquisa assim expresso: como se dá o processo da aprendizagem significativa da estatística no Ensino Médio, por meio de uma Unidade de Ensino Potencialmente Significativa (UEPS), no contexto de um Instituto Federal (IF) do estado do Acre? Buscando respondê-la, o presente estudo tem como objetivo geral investigar como se dá o processo da aprendizagem significativa da Estatística no Ensino Médio através da implementação de uma UEPS no contexto de uma turma do IF do estado do Acre, que abordou tópicos de Estatística no Curso Técnico Integrado ao Ensino Médio em Biotecnologia, sendo organizada em dez encontros e aplicada em uma escola pública do interior do Acre no ano de 2023. Para o alcance desse propósito a UEPS foi estruturada com base no proposto por Moreira (2011) e cujos fundamentos estão pautados nas teorias cognitivistas/construtivistas, particularmente na Teoria de Aprendizagem Significativa proposta por David Ausubel (1978). Além desse embasamento, a UEPS está norteada pela utilização de diferentes estratégias de ensino, tendo como suporte as orientações da BNCC. Metodologicamente, a pesquisa proposta neste texto se caracteriza como de abordagem qualitativa, e, em relação a seus objetivos, como pesquisa participante. Como instrumentos para a coleta de dados, utilizou-se os seguintes materiais: diário de bordo produzido pelo professor pesquisador, questionário inicial com intenção diagnóstica, textos elaborados pelos alunos, e um questionário final, aplicados durante a implementação da proposta didática. A análise dos dados produzidos é limita aos dez episódios de ensino, investigando em cada um deles evidências de indícios de aprendizagem significativa subordinada e superordenada. Os resultados apontam para evidências de tais indícios, uma vez que se percebeu que a proposta possibilitou a identificação de subsunçores, promoveu a construção de pontes cognitivas, a diferenciação progressiva e a reconciliação integrativa e possibilitou a transposição das especificidades do ensino de Estatística para contextos diferentes daqueles desenvolvidos no ambiente escolar. O Produto Educacional associado a essa dissertação refere-se a um texto de apoio ao professor de matemática do Ensino Médio envolvendo a UEPS implementada na investigação. O Referido Produto Educacional está disponível para acesso livre no Portal EduCapes (http://educapes.capes.gov.br/handle/capes/741221), assim como na página do programa (www.upf.br/ppgecm) e na página dos produtos educacionais do PPGECM (www.upf.br/produtoseducacionais).",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-38053879",
+  "autor": "Francisco Marinho de Oliveira",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "Investigação do processo da Aprendizagem Significativa de Estatística no Ensino Médio: um estudo com base na aplicação de uma UEPS no contexto do estado do Acre",
+  "instituicao": "Fundação Universidade de Passo Fundo",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Luiz Marcelo Darroz",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Estatística; Unidade de Ensino Potencialmente Significativa (UEPS); Orientações da BNCC; Índice de Preço ao Consumidor Amplo (IPCA)",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Investiga%C3%A7%C3%A3o%20do%20processo%20da%20Aprendizagem%20Significativa%20de%20Estat%C3%ADstica%20no%20Ensino%20M%C3%A9dio%3A%20um%20estudo%20com%20base%20na%20aplica%C3%A7%C3%A3o%20de%20uma%20UEPS%20no%20contexto%20do%20estado%20do%20Acre%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Investiga%C3%A7%C3%A3o%20do%20processo%20da%20Aprendizagem%20Significativa%20de%20Estat%C3%ADstica%20no%20Ensino%20M%C3%A9dio%3A%20um%20estudo%20com%20base%20na%20aplica%C3%A7%C3%A3o%20de%20uma%20UEPS%20no%20contexto%20do%20estado%20do%20Acre&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38053879"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "38053879",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Estatística",
+    "Unidade de Ensino Potencialmente Significativa (UEPS)",
+    "Orientações da BNCC",
+    "Índice de Preço ao Consumidor Amplo (IPCA)"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-38053879.svg",
+  "resumo": "O presente texto se refere à dissertação de mestrado, alocado à linha de pesquisa Práticas Educativas no ensino de Ciências e Matemática, explanando a investigação e suas expectativas. O estudo parte da necessidade de propor uma sequência didática para o ensino de tópicos de estatística na Educação Básica, partindo de uma perspectiva significativa da aprendizagem em contexto local. A urgência pela referida investigação, se dá principalmente devido ao baixo desempenho da proficiência média em matemática evidenciados nas avaliações externas do Sistema de Avaliação da Educação Básica (SAEB), e do Programa Internacional de Avaliação de Estudantes (PISA). Aspectos esses, que direcionam ao questionamento central da pesquisa assim expresso: como se dá o processo da aprendizagem significativa da estatística no Ensino Médio, por meio de uma Unidade de Ensino Potencialmente Significativa (UEPS), no contexto de um Instituto Federal (IF) do estado do Acre? Buscando respondê-la, o presente estudo tem como objetivo geral investigar como se dá o processo da aprendizagem significativa da Estatística no Ensino Médio através da implementação de uma UEPS no contexto de uma turma do IF do estado do Acre, que abordou tópicos de Estatística no Curso Técnico Integrado ao Ensino Médio em Biotecnologia, sendo organizada em dez encontros e aplicada em uma escola pública do interior do Acre no ano de 2023. Para o alcance desse propósito a UEPS foi estruturada com base no proposto por Moreira (2011) e cujos fundamentos estão pautados nas teorias cognitivistas/construtivistas, particularmente na Teoria de Aprendizagem Significativa proposta por David Ausubel (1978). Além desse embasamento, a UEPS está norteada pela utilização de diferentes estratégias de ensino, tendo como suporte as orientações da BNCC. Metodologicamente, a pesquisa proposta neste texto se caracteriza como de abordagem qualitativa, e, em relação a seus objetivos, como pesquisa participante. Como instrumentos para a coleta de dados, utilizou-se os seguintes materiais: diário de bordo produzido pelo professor pesquisador, questionário inicial com intenção diagnóstica, textos elaborados pelos alunos, e um questionário final, aplicados durante a implementação da proposta didática. A análise dos dados produzidos é limita aos dez episódios de ensino, investigando em cada um deles evidências de indícios de aprendizagem significativa subordinada e superordenada. Os resultados apontam para evidências de tais indícios, uma vez que se percebeu que a proposta possibilitou a identificação de subsunçores, promoveu a construção de pontes cognitivas, a diferenciação progressiva e a reconciliação integrativa e possibilitou a transposição das especificidades do ensino de Estatística para contextos diferentes daqueles desenvolvidos no ambiente escolar. O Produto Educacional associado a essa dissertação refere-se a um texto de apoio ao professor de matemática do Ensino Médio envolvendo a UEPS implementada na investigação. O Referido Produto Educacional está disponível para acesso livre no Portal EduCapes (http://educapes.capes.gov.br/handle/capes/741221), assim como na página do programa (www.upf.br/ppgecm) e na página dos produtos educacionais do PPGECM (www.upf.br/produtoseducacionais).",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

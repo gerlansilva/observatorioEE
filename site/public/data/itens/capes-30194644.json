@@ -1,57 +1,57 @@
 {
- "id": "capes-30194644",
- "autor": "Emanuela Nascimento Alves",
- "ano": 2019,
- "tipo": "Dissertação",
- "titulo": "A Construção do Conceito de Probabilidade em Espaços Contínuos: Uma Contribuição à Luz da Teoria das Situações Didáticas",
- "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
- "cidade": "",
- "estado": "Espírito Santo",
- "regiao": "Sudeste",
- "orientador": "Oscar Luiz Teixeira de Rezende",
- "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Conceito de Probabilidade; Espaços Contínuos. Teoria das Situações Didáticas. Engenharia Didática",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20CONSTRU%C3%87%C3%83O%20DO%20CONCEITO%20DE%20PROBABILIDADE%20EM%20ESPA%C3%87OS%20CONT%C3%8DNUOS%3A%20UMA%20CONTRIBUI%C3%87%C3%83O%20%C3%80%20LUZ%20DA%20TEORIA%20DAS%20SITUA%C3%87%C3%95ES%20DID%C3%81TICAS%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20CONSTRU%C3%87%C3%83O%20DO%20CONCEITO%20DE%20PROBABILIDADE%20EM%20ESPA%C3%87OS%20CONT%C3%8DNUOS%3A%20UMA%20CONTRIBUI%C3%87%C3%83O%20%C3%80%20LUZ%20DA%20TEORIA%20DAS%20SITUA%C3%87%C3%95ES%20DID%C3%81TICAS&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30194644"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "30194644",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Conceito de Probabilidade",
-  "Espaços Contínuos. Teoria das Situações Didáticas. Engenharia Didática"
- ],
- "thumbnail": "./assets/images/thumbs/capes-30194644.svg",
- "resumo": "A Estatística e a Probabilidade fazem parte do dia a dia das pessoas. A escolha de um investimento financeiro ou a possibilidade de se prever um fenômeno com alguma segurança estão associadas à uma efetiva formação estatística. Esta formação é imprescindível para que as informações coletadas pelos indivíduos sejam manipuladas e interpretadas corretamente, auxiliando-os na tomada de decisão. Neste sentido, a pesquisa surgiu da motivação em abordar a passagem do conceito de probabilidade em espaços amostrais discretos para os espaços amostrais contínuos, ao analisar que a mesma não é feita nos livros-textos de Probabilidade e Estatística, destinados ao Ensino Superior. Ou, quando feito, é abordado de maneira tímida. O trabalho fundamenta-se nos estudos de Carmen Batanero, quem faz um panorama acerca do conteúdo de Probabilidade e Estatística no Ensino Superior, identificando os principais problemas e desafios enfrentados no ensino e na aprendizagem destes conteúdos. Em seus estudos, a má formação de conceitos probabilísticos e a abordagem feita de forma equivocada em livros-textos são apontados como grandes desafios a serem enfrentados. O trabalho possui como questão norteadora: como a transição do conceito de probabilidade em espaços amostrais discretos para os contínuos pode ser abordada tendo como proposta pedagógica uma situação didática? E, como objetivo geral, pretende analisar a aprendizagem do conceito de probabilidade em espaços amostrais contínuos, a partir de uma situação didática. Para isso, foi planejado uma situação didática, fomentada pela Teoria das Situações Didáticas (TSD), de Guy Brousseau, que busca criar um modelo de interação entre o aluno, o saber e o milieu. A sequência de atividades, a ser aplicada na fase da experimentação, assume a função de milieu, sistema autônomo e antagônico ao sujeito, que com ele troca informações, possibilitando a aprendizagem. Neste sentido, a TSD, numa proposta de pesquisa qualitativa, foi utilizada para abordar a passagem do conceito de probabilidade em espaços discretos para os espaços contínuos. E, a partir da situação didática desenvolvida com alunos do curso de Licenciatura em Matemática, na fase da experimentação, criar um guia didático destinado a professores, visando preencher esta lacuna deixada nos livros-textos, sobre o conteúdo. A metodologia de pesquisa utilizada foi a Engenharia Didática (ED), e possui 4 fases: análise prévia; construção das situações e análise a priori; experimentação e análise a posteriori; e validação. A análise dos dados foi feita com base na ED, na fase da análise a posteriori e validação. Nas análises dos dados produzidos na fase de experimentação foi possível identificar a ocorrência das fases da situação didática: ação, formulação, validação e institucionalização, que caracterizam uma possível aprendizagem. A produção de dados foi realizada por meio da aplicação da sequência de atividades. Os registros se deram por meio de gravações de imagem, áudio e utilização de diário de bordo. As análises revelam que a sequência de atividades produzida contribuiu com que os licenciandos em matemática compreendessem o conceito de probabilidade em espaços contínuos. Além disso, possibilitou com que os alunos perpassassem por todas as fases da TSD, construindo o conhecimento de forma autônoma. Assim, o guia, que possui como aporte a sequência de atividades, pôde ser validado por essa pesquisa, e destina-se a professores que desejam lecionar o conteúdo de Probabilidade e Estatística.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "coleta expandida (plural/vocabulário)"
- ]
+  "id": "capes-30194644",
+  "autor": "Emanuela Nascimento Alves",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "A Construção do Conceito de Probabilidade em Espaços Contínuos: Uma Contribuição à Luz da Teoria das Situações Didáticas",
+  "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+  "cidade": "",
+  "estado": "Espírito Santo",
+  "regiao": "Sudeste",
+  "orientador": "Oscar Luiz Teixeira de Rezende",
+  "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Conceito de Probabilidade; Espaços Contínuos. Teoria das Situações Didáticas. Engenharia Didática",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20CONSTRU%C3%87%C3%83O%20DO%20CONCEITO%20DE%20PROBABILIDADE%20EM%20ESPA%C3%87OS%20CONT%C3%8DNUOS%3A%20UMA%20CONTRIBUI%C3%87%C3%83O%20%C3%80%20LUZ%20DA%20TEORIA%20DAS%20SITUA%C3%87%C3%95ES%20DID%C3%81TICAS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20CONSTRU%C3%87%C3%83O%20DO%20CONCEITO%20DE%20PROBABILIDADE%20EM%20ESPA%C3%87OS%20CONT%C3%8DNUOS%3A%20UMA%20CONTRIBUI%C3%87%C3%83O%20%C3%80%20LUZ%20DA%20TEORIA%20DAS%20SITUA%C3%87%C3%95ES%20DID%C3%81TICAS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30194644"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30194644",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Conceito de Probabilidade",
+    "Espaços Contínuos. Teoria das Situações Didáticas. Engenharia Didática"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30194644.svg",
+  "resumo": "A Estatística e a Probabilidade fazem parte do dia a dia das pessoas. A escolha de um investimento financeiro ou a possibilidade de se prever um fenômeno com alguma segurança estão associadas à uma efetiva formação estatística. Esta formação é imprescindível para que as informações coletadas pelos indivíduos sejam manipuladas e interpretadas corretamente, auxiliando-os na tomada de decisão. Neste sentido, a pesquisa surgiu da motivação em abordar a passagem do conceito de probabilidade em espaços amostrais discretos para os espaços amostrais contínuos, ao analisar que a mesma não é feita nos livros-textos de Probabilidade e Estatística, destinados ao Ensino Superior. Ou, quando feito, é abordado de maneira tímida. O trabalho fundamenta-se nos estudos de Carmen Batanero, quem faz um panorama acerca do conteúdo de Probabilidade e Estatística no Ensino Superior, identificando os principais problemas e desafios enfrentados no ensino e na aprendizagem destes conteúdos. Em seus estudos, a má formação de conceitos probabilísticos e a abordagem feita de forma equivocada em livros-textos são apontados como grandes desafios a serem enfrentados. O trabalho possui como questão norteadora: como a transição do conceito de probabilidade em espaços amostrais discretos para os contínuos pode ser abordada tendo como proposta pedagógica uma situação didática? E, como objetivo geral, pretende analisar a aprendizagem do conceito de probabilidade em espaços amostrais contínuos, a partir de uma situação didática. Para isso, foi planejado uma situação didática, fomentada pela Teoria das Situações Didáticas (TSD), de Guy Brousseau, que busca criar um modelo de interação entre o aluno, o saber e o milieu. A sequência de atividades, a ser aplicada na fase da experimentação, assume a função de milieu, sistema autônomo e antagônico ao sujeito, que com ele troca informações, possibilitando a aprendizagem. Neste sentido, a TSD, numa proposta de pesquisa qualitativa, foi utilizada para abordar a passagem do conceito de probabilidade em espaços discretos para os espaços contínuos. E, a partir da situação didática desenvolvida com alunos do curso de Licenciatura em Matemática, na fase da experimentação, criar um guia didático destinado a professores, visando preencher esta lacuna deixada nos livros-textos, sobre o conteúdo. A metodologia de pesquisa utilizada foi a Engenharia Didática (ED), e possui 4 fases: análise prévia; construção das situações e análise a priori; experimentação e análise a posteriori; e validação. A análise dos dados foi feita com base na ED, na fase da análise a posteriori e validação. Nas análises dos dados produzidos na fase de experimentação foi possível identificar a ocorrência das fases da situação didática: ação, formulação, validação e institucionalização, que caracterizam uma possível aprendizagem. A produção de dados foi realizada por meio da aplicação da sequência de atividades. Os registros se deram por meio de gravações de imagem, áudio e utilização de diário de bordo. As análises revelam que a sequência de atividades produzida contribuiu com que os licenciandos em matemática compreendessem o conceito de probabilidade em espaços contínuos. Além disso, possibilitou com que os alunos perpassassem por todas as fases da TSD, construindo o conhecimento de forma autônoma. Assim, o guia, que possui como aporte a sequência de atividades, pôde ser validado por essa pesquisa, e destina-se a professores que desejam lecionar o conteúdo de Probabilidade e Estatística.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
 }

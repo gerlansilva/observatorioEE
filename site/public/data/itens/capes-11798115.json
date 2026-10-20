@@ -1,57 +1,57 @@
 {
- "id": "capes-11798115",
- "autor": "Roberto Stenio Areias Carneiro de Albuquerque",
- "ano": 2014,
- "tipo": "Dissertação",
- "titulo": "Uma Investigação no Ensino Médio sobre o Raciocínio Combinatório e a Divergência de Resultados na Resolução de Problemas de Contagem",
- "instituicao": "Fundacao Vale do Taquari de Educacao e Desenvolvimento Social - Fuvates",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Claus Haetinger",
- "programa": "ENSINO DE CIÊNCIAS EXATAS",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Raciocínio Combinatório. Divergência de Resultados. Resolução de Problemas de Contagem. Modelos Mentais. Ensino de Matemática.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22UMA%20INVESTIGA%C3%87%C3%83O%20NO%20ENSINO%20M%C3%89DIO%20SOBRE%20O%20RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO%20E%20A%20DIVERG%C3%8ANCIA%20DE%20RESULTADOS%20NA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20DE%20CONTAGEM%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UMA%20INVESTIGA%C3%87%C3%83O%20NO%20ENSINO%20M%C3%89DIO%20SOBRE%20O%20RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO%20E%20A%20DIVERG%C3%8ANCIA%20DE%20RESULTADOS%20NA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20DE%20CONTAGEM&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/11798115"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "11798115",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Raciocínio Combinatório. Divergência de Resultados. Resolução de Problemas de Contagem. Modelos Mentais. Ensino de Matemática."
- ],
- "thumbnail": "./assets/images/thumbs/capes-11798115.svg",
- "resumo": "Este trabalho trata de uma investigação realizada no âmbito do Ensino Médio e cujo objetivo geral consistiu em investigar  à luz da Teoria dos Modelos Mentais de Johnson-Laird (1983)  os principais fatores que podem influenciar o raciocínio combinatório dos estudantes e que, em razão disso, podem levá-los a resultados divergentes dos conceitualmente esperados na resolução de problemas de contagem. A pesquisa é de natureza exploratória, quali-quantitativa, com predominância qualitativa, tendo sido executada no segundo semestre de 2012, em duas turmas de 2o ano da Escola Estadual de Ensino Médio Fazenda Vilanova/RS. Basicamente, foram coletados dados a partir de entrevistas com professores e testes de sondagem aplicados aos estudantes das turmas investigadas. Outras informações foram obtidas a partir de questionários e por intermédio de uma gincana matemática realizada em um blog (desenvolvido pelo autor para favorecer debates entre professores e estudantes sobre a resolução de problemas matemáticos, em especial, de contagem). No mais, realizou-se também uma seleção e análise das resoluções dos problemas de contagem que constam nos Anais das Olimpíadas Matemáticas da Univates/RS (provas de Ensino Médio da 10a a 15a edição), objetivando encontrar resoluções interessantes que contribuíssem para o lançamento de abordagens diferenciadas no ensino e na aprendizagem de heurísticas e estratégias particulares de resolução de problemas combinatórios. Dentro do contexto estabelecido, foi confirmada a hipótese de que a construção de modelos mentais inadequados é um dos principais fatores de influência que podem levar o pensamento combinatório dos estudantes para resultados divergentes dos conceitualmente esperados.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "raciocínio combinatório"
- ],
- "ids_duplicados": []
+  "id": "capes-11798115",
+  "autor": "Roberto Stenio Areias Carneiro de Albuquerque",
+  "ano": 2014,
+  "tipo": "Dissertação",
+  "titulo": "Uma Investigação no Ensino Médio sobre o Raciocínio Combinatório e a Divergência de Resultados na Resolução de Problemas de Contagem",
+  "instituicao": "Fundacao Vale do Taquari de Educacao e Desenvolvimento Social - Fuvates",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Claus Haetinger",
+  "programa": "ENSINO DE CIÊNCIAS EXATAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Raciocínio Combinatório. Divergência de Resultados. Resolução de Problemas de Contagem. Modelos Mentais. Ensino de Matemática.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22UMA%20INVESTIGA%C3%87%C3%83O%20NO%20ENSINO%20M%C3%89DIO%20SOBRE%20O%20RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO%20E%20A%20DIVERG%C3%8ANCIA%20DE%20RESULTADOS%20NA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20DE%20CONTAGEM%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UMA%20INVESTIGA%C3%87%C3%83O%20NO%20ENSINO%20M%C3%89DIO%20SOBRE%20O%20RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO%20E%20A%20DIVERG%C3%8ANCIA%20DE%20RESULTADOS%20NA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20DE%20CONTAGEM&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/11798115"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "11798115",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Raciocínio Combinatório. Divergência de Resultados. Resolução de Problemas de Contagem. Modelos Mentais. Ensino de Matemática."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-11798115.svg",
+  "resumo": "Este trabalho trata de uma investigação realizada no âmbito do Ensino Médio e cujo objetivo geral consistiu em investigar  à luz da Teoria dos Modelos Mentais de Johnson-Laird (1983)  os principais fatores que podem influenciar o raciocínio combinatório dos estudantes e que, em razão disso, podem levá-los a resultados divergentes dos conceitualmente esperados na resolução de problemas de contagem. A pesquisa é de natureza exploratória, quali-quantitativa, com predominância qualitativa, tendo sido executada no segundo semestre de 2012, em duas turmas de 2o ano da Escola Estadual de Ensino Médio Fazenda Vilanova/RS. Basicamente, foram coletados dados a partir de entrevistas com professores e testes de sondagem aplicados aos estudantes das turmas investigadas. Outras informações foram obtidas a partir de questionários e por intermédio de uma gincana matemática realizada em um blog (desenvolvido pelo autor para favorecer debates entre professores e estudantes sobre a resolução de problemas matemáticos, em especial, de contagem). No mais, realizou-se também uma seleção e análise das resoluções dos problemas de contagem que constam nos Anais das Olimpíadas Matemáticas da Univates/RS (provas de Ensino Médio da 10a a 15a edição), objetivando encontrar resoluções interessantes que contribuíssem para o lançamento de abordagens diferenciadas no ensino e na aprendizagem de heurísticas e estratégias particulares de resolução de problemas combinatórios. Dentro do contexto estabelecido, foi confirmada a hipótese de que a construção de modelos mentais inadequados é um dos principais fatores de influência que podem levar o pensamento combinatório dos estudantes para resultados divergentes dos conceitualmente esperados.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "raciocínio combinatório"
+  ],
+  "ids_duplicados": []
 }

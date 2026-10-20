@@ -1,60 +1,60 @@
 {
- "id": "capes-20550934",
- "autor": "Rubia Juliana Gomes Fernandes",
- "ano": 2014,
- "tipo": "Dissertação",
- "titulo": "Estatística e Probabilidade: Uma Proposta para os Anos Iniciais do Ensino Fundamental",
- "instituicao": "Universidade Tecnológica Federal do Paraná",
- "cidade": "",
- "estado": "Paraná",
- "regiao": "Sul",
- "orientador": "Guatacara dos Santos Junior",
- "programa": "ENSINO DE CIÊNCIA E TECNOLOGIA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino de estatística e probabilidade. Literacia estatística. Raciocínio estatístico. Pensamento estatístico.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22ESTAT%C3%8DSTICA%20E%20PROBABILIDADE%3A%20UMA%20PROPOSTA%20PARA%20OS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESTAT%C3%8DSTICA%20E%20PROBABILIDADE%3A%20UMA%20PROPOSTA%20PARA%20OS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20550934"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "20550934",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino de estatística e probabilidade. Literacia estatística. Raciocínio estatístico. Pensamento estatístico."
- ],
- "thumbnail": "./assets/images/thumbs/capes-20550934.svg",
- "resumo": "FERNANDES, Rúbia Juliana Gomes. Estatística e probabilidade: uma proposta para os anos iniciais do ensino fundamental. 2014. 191f. Dissertação (Mestrado em Ensino de Ciência e Tecnologia) - Universidade Tecnológica Federal do Paraná. Ponta Grossa, 2014. O presente trabalho teve como objetivo analisar quais os impactos que uma Sequência de Estudo - SE, pautada no ensino e aprendizagem da Estatística e Probabilidade, poderá causar para os anos iniciais do Ensino Fundamental. Com a intenção de alcançar tal objetivo, desenvolveu -se uma pesquisa aplicada, com enfoque qualitativo de cunho interpretativo numa turma de alunos do 4° ano do Ensino Fundamental da Rede Municipal de Educação da cidade de Curitiba. A fundamentação teórica pauta-se em autores que abordam o ensino de Estatística e Probabilidade, bem como as competências de letramento, pensamento e raciocínio estatístico, como: Cazorla (2002, 2006, 2008), Lopes (2003, 2008, 2010a, 2010b), Silva (2007), Cazorla, Kataoka e Silva (2010), Campos, Wodewotzki e Jacobini (2011), dentre outros. Inicialmente realizou-se uma análise prévia com relação aos conteúdos básicos de Estatística e Probabilidade que os alunos possuíam, por meio de um instrumento diagnóstico (pré-teste). Na sequência trabalhou-se uma sequência de ensino voltada aos conteúdos básicos de Estatística e Probabilidade, utilizando dados coletados na turma, ou seja, contextualizados. Assim, constatou-se, durante o trabalho com a SE, grande interesse, disposição e entusiasmo dos alunos para realização das atividades, além do envolvimento mais acentuado com relação aos conteúdos em questão. Os resultados das análises referentes ao desempenho e aproveitamento dos alunos após o trabalho (pós-teste) com a SE evidenciaram que a proposta favoreceu para que houvesse avanços relevantes quanto à apropriação dos conteúdos básicos de Estatística e Probabilidade dos alunos, em relação à representação tabular e gráfica, probabilidade, combinatória e média aritmética. Apesar disso, é importante destacar que, mesmo com os progressos obtidos, os alunos não compreenderam plenamente todos os conhecimentos sistematizados, ficando latente a necessidade do desenvolvimento de outros encaminhamentos pedagógicos de tais conteúdos. Para esta pesquisa foi elaborado um material didático de apoio, para os professores que atuam no nos anos iniciais do Ensino Fundamental, apresentando uma SE envolvendo os conteúdos básicos de Estatística e Probabilidade, a qual está anexada nesta dissertação.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística",
-  "pensamento estatístico",
-  "raciocínio estatístico",
-  "ensino de probabilidade"
- ],
- "ids_duplicados": []
+  "id": "capes-20550934",
+  "autor": "Rubia Juliana Gomes Fernandes",
+  "ano": 2014,
+  "tipo": "Dissertação",
+  "titulo": "Estatística e Probabilidade: Uma Proposta para os Anos Iniciais do Ensino Fundamental",
+  "instituicao": "Universidade Tecnológica Federal do Paraná",
+  "cidade": "",
+  "estado": "Paraná",
+  "regiao": "Sul",
+  "orientador": "Guatacara dos Santos Junior",
+  "programa": "ENSINO DE CIÊNCIA E TECNOLOGIA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de estatística e probabilidade. Literacia estatística. Raciocínio estatístico. Pensamento estatístico.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ESTAT%C3%8DSTICA%20E%20PROBABILIDADE%3A%20UMA%20PROPOSTA%20PARA%20OS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESTAT%C3%8DSTICA%20E%20PROBABILIDADE%3A%20UMA%20PROPOSTA%20PARA%20OS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20550934"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "20550934",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de estatística e probabilidade. Literacia estatística. Raciocínio estatístico. Pensamento estatístico."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-20550934.svg",
+  "resumo": "FERNANDES, Rúbia Juliana Gomes. Estatística e probabilidade: uma proposta para os anos iniciais do ensino fundamental. 2014. 191f. Dissertação (Mestrado em Ensino de Ciência e Tecnologia) - Universidade Tecnológica Federal do Paraná. Ponta Grossa, 2014. O presente trabalho teve como objetivo analisar quais os impactos que uma Sequência de Estudo - SE, pautada no ensino e aprendizagem da Estatística e Probabilidade, poderá causar para os anos iniciais do Ensino Fundamental. Com a intenção de alcançar tal objetivo, desenvolveu -se uma pesquisa aplicada, com enfoque qualitativo de cunho interpretativo numa turma de alunos do 4° ano do Ensino Fundamental da Rede Municipal de Educação da cidade de Curitiba. A fundamentação teórica pauta-se em autores que abordam o ensino de Estatística e Probabilidade, bem como as competências de letramento, pensamento e raciocínio estatístico, como: Cazorla (2002, 2006, 2008), Lopes (2003, 2008, 2010a, 2010b), Silva (2007), Cazorla, Kataoka e Silva (2010), Campos, Wodewotzki e Jacobini (2011), dentre outros. Inicialmente realizou-se uma análise prévia com relação aos conteúdos básicos de Estatística e Probabilidade que os alunos possuíam, por meio de um instrumento diagnóstico (pré-teste). Na sequência trabalhou-se uma sequência de ensino voltada aos conteúdos básicos de Estatística e Probabilidade, utilizando dados coletados na turma, ou seja, contextualizados. Assim, constatou-se, durante o trabalho com a SE, grande interesse, disposição e entusiasmo dos alunos para realização das atividades, além do envolvimento mais acentuado com relação aos conteúdos em questão. Os resultados das análises referentes ao desempenho e aproveitamento dos alunos após o trabalho (pós-teste) com a SE evidenciaram que a proposta favoreceu para que houvesse avanços relevantes quanto à apropriação dos conteúdos básicos de Estatística e Probabilidade dos alunos, em relação à representação tabular e gráfica, probabilidade, combinatória e média aritmética. Apesar disso, é importante destacar que, mesmo com os progressos obtidos, os alunos não compreenderam plenamente todos os conhecimentos sistematizados, ficando latente a necessidade do desenvolvimento de outros encaminhamentos pedagógicos de tais conteúdos. Para esta pesquisa foi elaborado um material didático de apoio, para os professores que atuam no nos anos iniciais do Ensino Fundamental, apresentando uma SE envolvendo os conteúdos básicos de Estatística e Probabilidade, a qual está anexada nesta dissertação.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística",
+    "pensamento estatístico",
+    "raciocínio estatístico",
+    "ensino de probabilidade"
+  ],
+  "ids_duplicados": []
 }

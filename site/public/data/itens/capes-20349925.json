@@ -1,57 +1,57 @@
 {
- "id": "capes-20349925",
- "autor": "Helder Franca Floret",
- "ano": 2013,
- "tipo": "Dissertação",
- "titulo": "Jogos Eletrônicos Gratuitos para o Ensino da Matemática: Levantamento e Proposta de um Recurso Didático",
- "instituicao": "Universidade do Grande Rio - Prof Jose de Souza Herdy",
- "cidade": "",
- "estado": "Rio de Janeiro",
- "regiao": "Sudeste",
- "orientador": "Cleonice Puggian",
- "programa": "ENSINO DAS CIÊNCIAS",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Jogos eletrônicos. Ensino de matemática. Análise combinatória. Classificação indicativa. Ensino básico.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Jogos%20Eletr%C3%B4nicos%20Gratuitos%20para%20o%20Ensino%20da%20Matem%C3%A1tica%3A%20Levantamento%20e%20Proposta%20de%20um%20Recurso%20Did%C3%A1tico%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Jogos%20Eletr%C3%B4nicos%20Gratuitos%20para%20o%20Ensino%20da%20Matem%C3%A1tica%3A%20Levantamento%20e%20Proposta%20de%20um%20Recurso%20Did%C3%A1tico&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20349925"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "20349925",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Jogos eletrônicos. Ensino de matemática. Análise combinatória. Classificação indicativa. Ensino básico."
- ],
- "thumbnail": "./assets/images/thumbs/capes-20349925.svg",
- "resumo": "Esta dissertação apresenta os resultados de um levantamento de cento e dois jogos eletrônicos para o ensino da matemática disponíveis gratuitamente na internet, o qual fundamentou a proposta do jogo Euclidean, um recurso didático para o ensino da análise combinatória. A questão norteadora do estudo foi: como os jogos eletrônicos podem contribuir para o ensino da matemática no ensino médio e, mais especificamente, servir como recurso didático para o ensino da análise combinatória? Conduziu-se uma pesquisa exploratória, com o levantamento e classificação de 102 jogos eletrônicos. A abordagem metodológica utilizada foi qualitativa, do tipo exploratória, com levantamento e classificação dos jogos. A primeira fase da pesquisa dedicou-se à construção de um referencial teórico, que articulou trabalhos sobre ensino de matemática, tecnologias da informação e comunicação, jogos eletrônicos e análise combinatória. Na segunda-fase, dedicada à coleta de dados, foram identificados cento e dois jogos que poderiam promover a aprendizagem da matemática, posteriormente categorizados e classificados. Propôs-se como produtos do Mestrado Profissional em Ensino das Ciências um jogo de análise combinatória chamado Euclidean; novos critérios para a classificação de jogos eletrônicos educativos; e um livro para a formação de professores. Quanto aos resultados do estudo, notamos que a maior parte dos jogos classificados priorizavam a repetição de conteúdos, e não a construção do conceito, o que configura a utilização de uma tecnologia nova para a reprodução de um modelo de ensino antigo. A abordagem da matemática era limitada, se atendo a pontos básicos do currículo. Foi rara a presença de conteúdos voltados para o ensino médio. Outro aspecto relevante foi a falta de interação com o usuário. Na maior parte dos casos era oferecido ao jogador um roteiro pronto que deveria ser cumprido, de forma repetitiva, ao longo de fases. Não eram oferecidas possibilidades de alterar o rumo do jogo ou personalizá-lo. Apesar das limitações, o estudo revelou que os jogos eletrônicos podem servir como recursos didáticos para o ensino da matemática na educação básica, pois aproximam o universo do aluno ao universo da escola. O jogo eletrônico também minimiza a barreira da abstração, que é característica da matemática, enriquecendo a experiência dos alunos. Cabe observar, entretanto, as limitações que ainda existem nos jogos disponibilizados online, assim como as múltiplas dificuldades para a elaboração de objetos de aprendizagem destinados ao ensino da matemática.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de combinatória"
- ],
- "ids_duplicados": []
+  "id": "capes-20349925",
+  "autor": "Helder Franca Floret",
+  "ano": 2013,
+  "tipo": "Dissertação",
+  "titulo": "Jogos Eletrônicos Gratuitos para o Ensino da Matemática: Levantamento e Proposta de um Recurso Didático",
+  "instituicao": "Universidade do Grande Rio - Prof Jose de Souza Herdy",
+  "cidade": "",
+  "estado": "Rio de Janeiro",
+  "regiao": "Sudeste",
+  "orientador": "Cleonice Puggian",
+  "programa": "ENSINO DAS CIÊNCIAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Jogos eletrônicos. Ensino de matemática. Análise combinatória. Classificação indicativa. Ensino básico.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Jogos%20Eletr%C3%B4nicos%20Gratuitos%20para%20o%20Ensino%20da%20Matem%C3%A1tica%3A%20Levantamento%20e%20Proposta%20de%20um%20Recurso%20Did%C3%A1tico%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Jogos%20Eletr%C3%B4nicos%20Gratuitos%20para%20o%20Ensino%20da%20Matem%C3%A1tica%3A%20Levantamento%20e%20Proposta%20de%20um%20Recurso%20Did%C3%A1tico&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20349925"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "20349925",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Jogos eletrônicos. Ensino de matemática. Análise combinatória. Classificação indicativa. Ensino básico."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-20349925.svg",
+  "resumo": "Esta dissertação apresenta os resultados de um levantamento de cento e dois jogos eletrônicos para o ensino da matemática disponíveis gratuitamente na internet, o qual fundamentou a proposta do jogo Euclidean, um recurso didático para o ensino da análise combinatória. A questão norteadora do estudo foi: como os jogos eletrônicos podem contribuir para o ensino da matemática no ensino médio e, mais especificamente, servir como recurso didático para o ensino da análise combinatória? Conduziu-se uma pesquisa exploratória, com o levantamento e classificação de 102 jogos eletrônicos. A abordagem metodológica utilizada foi qualitativa, do tipo exploratória, com levantamento e classificação dos jogos. A primeira fase da pesquisa dedicou-se à construção de um referencial teórico, que articulou trabalhos sobre ensino de matemática, tecnologias da informação e comunicação, jogos eletrônicos e análise combinatória. Na segunda-fase, dedicada à coleta de dados, foram identificados cento e dois jogos que poderiam promover a aprendizagem da matemática, posteriormente categorizados e classificados. Propôs-se como produtos do Mestrado Profissional em Ensino das Ciências um jogo de análise combinatória chamado Euclidean; novos critérios para a classificação de jogos eletrônicos educativos; e um livro para a formação de professores. Quanto aos resultados do estudo, notamos que a maior parte dos jogos classificados priorizavam a repetição de conteúdos, e não a construção do conceito, o que configura a utilização de uma tecnologia nova para a reprodução de um modelo de ensino antigo. A abordagem da matemática era limitada, se atendo a pontos básicos do currículo. Foi rara a presença de conteúdos voltados para o ensino médio. Outro aspecto relevante foi a falta de interação com o usuário. Na maior parte dos casos era oferecido ao jogador um roteiro pronto que deveria ser cumprido, de forma repetitiva, ao longo de fases. Não eram oferecidas possibilidades de alterar o rumo do jogo ou personalizá-lo. Apesar das limitações, o estudo revelou que os jogos eletrônicos podem servir como recursos didáticos para o ensino da matemática na educação básica, pois aproximam o universo do aluno ao universo da escola. O jogo eletrônico também minimiza a barreira da abstração, que é característica da matemática, enriquecendo a experiência dos alunos. Cabe observar, entretanto, as limitações que ainda existem nos jogos disponibilizados online, assim como as múltiplas dificuldades para a elaboração de objetos de aprendizagem destinados ao ensino da matemática.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de combinatória"
+  ],
+  "ids_duplicados": []
 }

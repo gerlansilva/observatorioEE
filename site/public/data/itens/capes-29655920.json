@@ -1,59 +1,59 @@
 {
- "id": "capes-29655920",
- "autor": "Carlos Alex Barreto de Queiroz",
- "ano": 2019,
- "tipo": "Dissertação",
- "titulo": "Média Aritmética: O Uso das Histórias em Quadrinhos no Ensino da Matemática",
- "instituicao": "Universidade Federal do Pará",
- "cidade": "",
- "estado": "Pará",
- "regiao": "Norte",
- "orientador": "Jose Messildo Viana Nunes",
- "programa": "Docência em Educação em Ciências e Matemáticas",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Ensino da Estatística; Média Aritmética; Pensamento e Letramento Estatísticos; Histórias em Quadrinhos",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22M%C3%89DIA%20ARITM%C3%89TICA%3A%20O%20USO%20DAS%20HIST%C3%93RIAS%20EM%20QUADRINHOS%20NO%20ENSINO%20DA%20MATEM%C3%81TICA%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=M%C3%89DIA%20ARITM%C3%89TICA%3A%20O%20USO%20DAS%20HIST%C3%93RIAS%20EM%20QUADRINHOS%20NO%20ENSINO%20DA%20MATEM%C3%81TICA&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29655920"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "29655920",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Ensino da Estatística",
-  "Média Aritmética",
-  "Pensamento e Letramento Estatísticos",
-  "Histórias em Quadrinhos"
- ],
- "thumbnail": "./assets/images/thumbs/capes-29655920.svg",
- "resumo": "Esta pesquisa, que teve como uma de suas preocupações mostrar a possibilidade de uso do gênero textual Histórias em Quadrinhos para auxiliar alunos e professores no processo de ensino e de aprendizagem do objeto estatístico média aritmética, teve, como um de seus objetivos, mostrar que é possível desenvolver uma metodologia de ensino deste objeto estatístico, utilizando, como ferramenta para o processo de transposição didática, o gênero textual História em Quadrinhos. Assim, temos como foco a questão: “É possível utilizar o gênero textual Histórias em Quadrinhos no ensino da Estatística, para auxiliar no desenvolvimento do Letramento Estatístico em relação ao objeto Média Aritmética?”. Para o alcance deste fim, assumimos que o ensino se desenvolve através de um processo. Desta forma, apresentamos um percurso de estudo e ensino para o objeto em questão, abordando três momentos distintos de ensino que denominamos de “Dimensões” e que compõem nosso produto de pesquisa. Nossos momentos de estudo propostos, as três dimensões, tiveram como base teórica os estudos da pesquisadora Carmen Batanero, do professor Celso Ribeiro Campos, de James Watson, das pesquisas de Ângela Rama e Waldomiro Vergueiro, dentre outros. Para a concepção do letramento estatístico, utilizamos o modelo de letramento disposto por Gal, abordando elementos de conhecimento e disposição, tidos como necessários, para que uma pessoa adulta seja considerada letrada estatisticamente em meio a uma sociedade tecnológica. A abordagem de nossa pesquisa foi de cunho qualitativo, nos moldes de uma pesquisa Bibliográfica. As análises da nossa pesquisa a luz das teorias, tendo como foco a utilização de nossa proposta de ensino, mostram que é possível o ensino da média aritmética, por meio do gênero textual HQ, possibilita o desenvolvimento do pensamento e do letramento estatísticos dos alunos e favorece para o despertar para o hábito da leitura e da escrita, elementos essenciais para o surgimento das habilidades de criatividade, criticidade e reflexão.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "coleta expandida (plural/vocabulário)"
- ]
+  "id": "capes-29655920",
+  "autor": "Carlos Alex Barreto de Queiroz",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "Média Aritmética: O Uso das Histórias em Quadrinhos no Ensino da Matemática",
+  "instituicao": "Universidade Federal do Pará",
+  "cidade": "",
+  "estado": "Pará",
+  "regiao": "Norte",
+  "orientador": "Jose Messildo Viana Nunes",
+  "programa": "Docência em Educação em Ciências e Matemáticas",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino da Estatística; Média Aritmética; Pensamento e Letramento Estatísticos; Histórias em Quadrinhos",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22M%C3%89DIA%20ARITM%C3%89TICA%3A%20O%20USO%20DAS%20HIST%C3%93RIAS%20EM%20QUADRINHOS%20NO%20ENSINO%20DA%20MATEM%C3%81TICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=M%C3%89DIA%20ARITM%C3%89TICA%3A%20O%20USO%20DAS%20HIST%C3%93RIAS%20EM%20QUADRINHOS%20NO%20ENSINO%20DA%20MATEM%C3%81TICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29655920"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "29655920",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino da Estatística",
+    "Média Aritmética",
+    "Pensamento e Letramento Estatísticos",
+    "Histórias em Quadrinhos"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-29655920.svg",
+  "resumo": "Esta pesquisa, que teve como uma de suas preocupações mostrar a possibilidade de uso do gênero textual Histórias em Quadrinhos para auxiliar alunos e professores no processo de ensino e de aprendizagem do objeto estatístico média aritmética, teve, como um de seus objetivos, mostrar que é possível desenvolver uma metodologia de ensino deste objeto estatístico, utilizando, como ferramenta para o processo de transposição didática, o gênero textual História em Quadrinhos. Assim, temos como foco a questão: “É possível utilizar o gênero textual Histórias em Quadrinhos no ensino da Estatística, para auxiliar no desenvolvimento do Letramento Estatístico em relação ao objeto Média Aritmética?”. Para o alcance deste fim, assumimos que o ensino se desenvolve através de um processo. Desta forma, apresentamos um percurso de estudo e ensino para o objeto em questão, abordando três momentos distintos de ensino que denominamos de “Dimensões” e que compõem nosso produto de pesquisa. Nossos momentos de estudo propostos, as três dimensões, tiveram como base teórica os estudos da pesquisadora Carmen Batanero, do professor Celso Ribeiro Campos, de James Watson, das pesquisas de Ângela Rama e Waldomiro Vergueiro, dentre outros. Para a concepção do letramento estatístico, utilizamos o modelo de letramento disposto por Gal, abordando elementos de conhecimento e disposição, tidos como necessários, para que uma pessoa adulta seja considerada letrada estatisticamente em meio a uma sociedade tecnológica. A abordagem de nossa pesquisa foi de cunho qualitativo, nos moldes de uma pesquisa Bibliográfica. As análises da nossa pesquisa a luz das teorias, tendo como foco a utilização de nossa proposta de ensino, mostram que é possível o ensino da média aritmética, por meio do gênero textual HQ, possibilita o desenvolvimento do pensamento e do letramento estatísticos dos alunos e favorece para o despertar para o hábito da leitura e da escrita, elementos essenciais para o surgimento das habilidades de criatividade, criticidade e reflexão.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
 }

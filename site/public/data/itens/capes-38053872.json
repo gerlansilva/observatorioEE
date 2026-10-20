@@ -1,60 +1,60 @@
 {
- "id": "capes-38053872",
- "autor": "Maria Doralice da Silva Bindi de Castro",
- "ano": 2023,
- "tipo": "Dissertação",
- "titulo": "Ensino do cálculo de Probabilidade em Genética para o cruzamento dos gametas utilizando o quadro de Punnett a Aplicativo",
- "instituicao": "Fundação Universidade de Passo Fundo",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Juliano Tonezer da Silva",
- "programa": "Ensino de Ciências e Matemática",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Genética; Aplicativo; Quadro de Punnett; Aprendizagem significativa",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22Ensino%20do%20c%C3%A1lculo%20de%20Probabilidade%20em%20Gen%C3%A9tica%20para%20o%20cruzamento%20dos%20gametas%20utilizando%20o%20quadro%20de%20Punnett%20a%20Aplicativo%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Ensino%20do%20c%C3%A1lculo%20de%20Probabilidade%20em%20Gen%C3%A9tica%20para%20o%20cruzamento%20dos%20gametas%20utilizando%20o%20quadro%20de%20Punnett%20a%20Aplicativo&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38053872"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "38053872",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Genética",
-  "Aplicativo",
-  "Quadro de Punnett",
-  "Aprendizagem significativa"
- ],
- "thumbnail": "./assets/images/thumbs/capes-38053872.svg",
- "resumo": "O trabalho intitulado “Ensino do cálculo de probabilidade em Genética para o cruzamento dos gametas utilizando o Quadro de Punnett e aplicativo” busca investigar o ensino desta temática com estudantes do 3º ano do Ensino Médio da Escola Pública Estadual Rio Branco, localizada em Porto Velho, capital de Rondônia. O estudo foi desenvolvido junto ao Programa de Pós\u0002Graduação em Ensino de Ciências e Matemática da Universidade de Passo Fundo (PPGECM/UPF), na linha de pesquisa Tecnologias de Informação, Comunicação e Interação aplicadas ao ensino de Ciências e Matemática. A questão norteadora que orientou a pesquisa foi: “Quais as vantagens/desvantagens ou potencialidades do uso de um aplicativo direcionado ao cálculo de probabilidade, no cruzamento de gametas quando comparado com o método tradicional, baseado no quadro de Punnett?”. Nesse contexto é desenvolvida e aplicada uma sequência didática, constituída por dez encontros, no formato de Unidade de Ensino Potencialmente Significativa (UEPS) e tendo como aporte teórico a Teoria da Aprendizagem Significativa. A metodologia de pesquisa apresenta uma abordagem qualitativa, de natureza aplicada. Quanto aos objetivos, se caracteriza como exploratória e participante. Como instrumentos de coleta de dados, utiliza-se a observação, diário de bordo, transcrição de diálogos, fotos, vídeos e uso de aplicativos para smartphone. A aplicação da UEPS, além de permitir análises e inferir indícios de aprendizagem significativa, também proporciona reflexões sobre o fato de que uma aula convencional, com a utilização de materiais de apoio e exposição, ainda é uma realidade e, apesar de criticada, pode ter seu valor para a sistematização dos conceitos. Entretanto, essa metodologia não pode e não deve ser a única utilizada no processo ensino-aprendizagem, carecendo de abordagens que promovam movimentos cognitivos direcionados a aprendizagem significativa. E que as estratégias utilizadas, frente ao público que envolve estudantes que na contemporaneidade estão conectadas as tecnologias, contribuem para que o processo ensino-aprendizagem seja mais eficiente e prazeroso. Em síntese, os resultados apontaram que o conhecimento prévio é fundamental para que os estudantes aprendam significativamente e, ainda, a importância de que os professores atentem para o planejamento das atividades a partir do mundo vivencial dos estudantes, contribuindo para a construção do conhecimento. Por fim, o produto educacional está disponível no portal do PPGECM/UPF: <https://www.upf.br/ppgecm> e no site EduCapes: <https://educapes.capes.gov.br/handle/capes/741466>.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de probabilidade"
- ],
- "ids_duplicados": []
+  "id": "capes-38053872",
+  "autor": "Maria Doralice da Silva Bindi de Castro",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "Ensino do cálculo de Probabilidade em Genética para o cruzamento dos gametas utilizando o quadro de Punnett a Aplicativo",
+  "instituicao": "Fundação Universidade de Passo Fundo",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Juliano Tonezer da Silva",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Genética; Aplicativo; Quadro de Punnett; Aprendizagem significativa",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Ensino%20do%20c%C3%A1lculo%20de%20Probabilidade%20em%20Gen%C3%A9tica%20para%20o%20cruzamento%20dos%20gametas%20utilizando%20o%20quadro%20de%20Punnett%20a%20Aplicativo%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Ensino%20do%20c%C3%A1lculo%20de%20Probabilidade%20em%20Gen%C3%A9tica%20para%20o%20cruzamento%20dos%20gametas%20utilizando%20o%20quadro%20de%20Punnett%20a%20Aplicativo&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38053872"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "38053872",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Genética",
+    "Aplicativo",
+    "Quadro de Punnett",
+    "Aprendizagem significativa"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-38053872.svg",
+  "resumo": "O trabalho intitulado “Ensino do cálculo de probabilidade em Genética para o cruzamento dos gametas utilizando o Quadro de Punnett e aplicativo” busca investigar o ensino desta temática com estudantes do 3º ano do Ensino Médio da Escola Pública Estadual Rio Branco, localizada em Porto Velho, capital de Rondônia. O estudo foi desenvolvido junto ao Programa de Pós\u0002Graduação em Ensino de Ciências e Matemática da Universidade de Passo Fundo (PPGECM/UPF), na linha de pesquisa Tecnologias de Informação, Comunicação e Interação aplicadas ao ensino de Ciências e Matemática. A questão norteadora que orientou a pesquisa foi: “Quais as vantagens/desvantagens ou potencialidades do uso de um aplicativo direcionado ao cálculo de probabilidade, no cruzamento de gametas quando comparado com o método tradicional, baseado no quadro de Punnett?”. Nesse contexto é desenvolvida e aplicada uma sequência didática, constituída por dez encontros, no formato de Unidade de Ensino Potencialmente Significativa (UEPS) e tendo como aporte teórico a Teoria da Aprendizagem Significativa. A metodologia de pesquisa apresenta uma abordagem qualitativa, de natureza aplicada. Quanto aos objetivos, se caracteriza como exploratória e participante. Como instrumentos de coleta de dados, utiliza-se a observação, diário de bordo, transcrição de diálogos, fotos, vídeos e uso de aplicativos para smartphone. A aplicação da UEPS, além de permitir análises e inferir indícios de aprendizagem significativa, também proporciona reflexões sobre o fato de que uma aula convencional, com a utilização de materiais de apoio e exposição, ainda é uma realidade e, apesar de criticada, pode ter seu valor para a sistematização dos conceitos. Entretanto, essa metodologia não pode e não deve ser a única utilizada no processo ensino-aprendizagem, carecendo de abordagens que promovam movimentos cognitivos direcionados a aprendizagem significativa. E que as estratégias utilizadas, frente ao público que envolve estudantes que na contemporaneidade estão conectadas as tecnologias, contribuem para que o processo ensino-aprendizagem seja mais eficiente e prazeroso. Em síntese, os resultados apontaram que o conhecimento prévio é fundamental para que os estudantes aprendam significativamente e, ainda, a importância de que os professores atentem para o planejamento das atividades a partir do mundo vivencial dos estudantes, contribuindo para a construção do conhecimento. Por fim, o produto educacional está disponível no portal do PPGECM/UPF: <https://www.upf.br/ppgecm> e no site EduCapes: <https://educapes.capes.gov.br/handle/capes/741466>.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de probabilidade"
+  ],
+  "ids_duplicados": []
 }

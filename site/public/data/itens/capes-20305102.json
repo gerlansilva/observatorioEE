@@ -1,57 +1,57 @@
 {
- "id": "capes-20305102",
- "autor": "Lucicleide Bezerra da Silva",
- "ano": 2014,
- "tipo": "Dissertação",
- "titulo": "A Estatística e a Probabilidade nos Currículos dos Cursos de Licenciatura em Matemática no Brasil",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Veronica Gitirana Gomes Ferreira",
- "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Currículo. Educação Estatística. Ensino Superior. Estatística e Probabilidade. Matemática.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20ESTAT%C3%8DSTICA%20E%20A%20PROBABILIDADE%20NOS%20CURR%C3%8DCULOS%20DOS%20CURSOS%20DE%20LICENCIATURA%20EM%20MATEM%C3%81TICA%20NO%20BRASIL%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20ESTAT%C3%8DSTICA%20E%20A%20PROBABILIDADE%20NOS%20CURR%C3%8DCULOS%20DOS%20CURSOS%20DE%20LICENCIATURA%20EM%20MATEM%C3%81TICA%20NO%20BRASIL&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20305102"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "20305102",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Currículo. Educação Estatística. Ensino Superior. Estatística e Probabilidade. Matemática."
- ],
- "thumbnail": "./assets/images/thumbs/capes-20305102.svg",
- "resumo": "Nossa pesquisa buscou investigar a formação para o ensino da Estatística e Probabilidade, nos currículos dos cursos de Licenciatura em Matemática (LM) no Brasil. O nosso estudo foi fundamentado pela discussão dos currículos de Sacristán, nos conhecimentos base necessários à docência de Schulman, em Gal e Garfield para estudarmos o que se tem como metas a serem alcançadas para o ensino desses componentes. E para entendermos os princípios que favorecem ao alcance dessas metas nos pautamos em diversos pesquisadores da Educação Estatística (EE). Na metodologia, mapeamos os cursos em todo o Brasil, suas regiões, estados, municípios e rede de ensino para construirmos nossa amostra com estratos proporcionais em todas as regiões e rede de ensino, com 78 cursos, distribuídos em 48 Instituições de Ensino Superior (IES). Coletamos matrizes curriculares, Projetos Políticos Pedagógicos, Ementários, Programas de disciplinas e aplicamos um questionário com coordenadores dos cursos. Utilizamos partes de análise estatística e de análise de conteúdo. Os resultados mostram que os componentes curriculares de formação conceitual em Estatística e Probabilidade estão presentes nas matrizes curriculares dos cursos de LM de forma obrigatória, independente da região, estado, município ou rede de ensino, todos os cursos analisados têm a preocupação em ter em seu currículo prescrito o ensino conceitual de tais conteúdos. Apesar da presença da Estatística e da Probabilidade como conteúdo, encontramos na estrutura curricular de alguns cursos, ainda incorporada, a visão de que a formação do professor para ensinar precisa ser pautada exclusivamente no conhecimento conceitual. No entanto, é possível constatar matrizes, que contemplem a EE em componentes curriculares da didática, prática/estágio. Assim como, componente curricular que trabalhe de forma especifica a EE. Em sete IES, pudemos confirmar no currículo interpretado, a presença dos princípios da EE na formação do professor para o ensino e aprendizagem de forma integrada.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-20305102",
+  "autor": "Lucicleide Bezerra da Silva",
+  "ano": 2014,
+  "tipo": "Dissertação",
+  "titulo": "A Estatística e a Probabilidade nos Currículos dos Cursos de Licenciatura em Matemática no Brasil",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Veronica Gitirana Gomes Ferreira",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Currículo. Educação Estatística. Ensino Superior. Estatística e Probabilidade. Matemática.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20ESTAT%C3%8DSTICA%20E%20A%20PROBABILIDADE%20NOS%20CURR%C3%8DCULOS%20DOS%20CURSOS%20DE%20LICENCIATURA%20EM%20MATEM%C3%81TICA%20NO%20BRASIL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20ESTAT%C3%8DSTICA%20E%20A%20PROBABILIDADE%20NOS%20CURR%C3%8DCULOS%20DOS%20CURSOS%20DE%20LICENCIATURA%20EM%20MATEM%C3%81TICA%20NO%20BRASIL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20305102"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "20305102",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Currículo. Educação Estatística. Ensino Superior. Estatística e Probabilidade. Matemática."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-20305102.svg",
+  "resumo": "Nossa pesquisa buscou investigar a formação para o ensino da Estatística e Probabilidade, nos currículos dos cursos de Licenciatura em Matemática (LM) no Brasil. O nosso estudo foi fundamentado pela discussão dos currículos de Sacristán, nos conhecimentos base necessários à docência de Schulman, em Gal e Garfield para estudarmos o que se tem como metas a serem alcançadas para o ensino desses componentes. E para entendermos os princípios que favorecem ao alcance dessas metas nos pautamos em diversos pesquisadores da Educação Estatística (EE). Na metodologia, mapeamos os cursos em todo o Brasil, suas regiões, estados, municípios e rede de ensino para construirmos nossa amostra com estratos proporcionais em todas as regiões e rede de ensino, com 78 cursos, distribuídos em 48 Instituições de Ensino Superior (IES). Coletamos matrizes curriculares, Projetos Políticos Pedagógicos, Ementários, Programas de disciplinas e aplicamos um questionário com coordenadores dos cursos. Utilizamos partes de análise estatística e de análise de conteúdo. Os resultados mostram que os componentes curriculares de formação conceitual em Estatística e Probabilidade estão presentes nas matrizes curriculares dos cursos de LM de forma obrigatória, independente da região, estado, município ou rede de ensino, todos os cursos analisados têm a preocupação em ter em seu currículo prescrito o ensino conceitual de tais conteúdos. Apesar da presença da Estatística e da Probabilidade como conteúdo, encontramos na estrutura curricular de alguns cursos, ainda incorporada, a visão de que a formação do professor para ensinar precisa ser pautada exclusivamente no conhecimento conceitual. No entanto, é possível constatar matrizes, que contemplem a EE em componentes curriculares da didática, prática/estágio. Assim como, componente curricular que trabalhe de forma especifica a EE. Em sete IES, pudemos confirmar no currículo interpretado, a presença dos princípios da EE na formação do professor para o ensino e aprendizagem de forma integrada.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

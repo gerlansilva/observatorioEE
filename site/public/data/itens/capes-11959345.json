@@ -1,58 +1,58 @@
 {
- "id": "capes-11959345",
- "autor": "Geisiane Rodrigues dos Santos",
- "ano": 2013,
- "tipo": "Dissertação",
- "titulo": "A Educação Estatística no Ensino Superior, o trabalho com Projetos e o uso de Tecnologias",
- "instituicao": "Universidade Cruzeiro do Sul",
- "cidade": "",
- "estado": "São Paulo",
- "regiao": "Sudeste",
- "orientador": "Celi Aparecida Espasandin Lopes",
- "programa": "ENSINO DE CIÊNCIAS",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Educação estatística, Trabalho com projetos, Modelagem matemática, Recursos tecnológicos.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20no%20Ensino%20Superior%2C%20o%20trabalho%20com%20Projetos%20e%20o%20uso%20de%20Tecnologias%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20no%20Ensino%20Superior%2C%20o%20trabalho%20com%20Projetos%20e%20o%20uso%20de%20Tecnologias&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/11959345"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "11959345",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Educação estatística, Trabalho com projetos, Modelagem matemática, Recursos tecnológicos."
- ],
- "thumbnail": "./assets/images/thumbs/capes-11959345.svg",
- "resumo": "A presente pesquisa investigou como alunos do Ensino Superior mobilizam conhecimentos estatísticos ao longo do curso de Métodos Quantitativos em Administração, com auxílio de recursos tecnológicos. Analisou-se um processo de estudo da Estatística por meio do trabalho com Projetos mediado pela Modelagem Matemática no contexto do Ensino Superior aliado ao uso das Tecnologias de Informação e Comunicação (TIC). A questão que norteou o processo investigativo foi: Quais as contribuições que o trabalho com Projetos em Modelagem Matemática, mediado pelo uso de tecnologias, pode trazer à aprendizagem estatística dos estudantes de um curso de Administração? Para responder a essa pergunta, utilizou-se uma abordagem qualitativa, com o intuito de se considerar mais o processo do que a produção final. Construiu-se, então, um estudo de caso, a partir dos Cenários de Investigação constituídos pelos Projetos de Investigação em Administração desenvolvidos por alunos, atores no seu processo de ensino e aprendizagem. Os resultados do estudo indicam que a articulação entre a prática e a teoria proporciona uma aprendizagem permeada por significados a qual é decorrente de uma proposta pedagógica em que o professor possibilita ao aluno ser coautor do processo de ensino e aprendizagem. O trabalho com Projetos, cujos temas tenham interesse aos alunos e estejam relacionados ao cotidiano, permite mobilizar conhecimentos estatísticos e matemáticos de forma a ressignificá-los. A inserção das tecnologias favorece na resolução dos cálculos matemáticos e na análise sobre os dados. Dessa forma, concluiu-se que o trabalho com Projetos em um ambiente de Modelagem Matemática, com o uso de tecnologias, propicia um melhor desempenho no processo de aprendizagem da Estatística.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística",
-  "ensino de estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-11959345",
+  "autor": "Geisiane Rodrigues dos Santos",
+  "ano": 2013,
+  "tipo": "Dissertação",
+  "titulo": "A Educação Estatística no Ensino Superior, o trabalho com Projetos e o uso de Tecnologias",
+  "instituicao": "Universidade Cruzeiro do Sul",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Celi Aparecida Espasandin Lopes",
+  "programa": "ENSINO DE CIÊNCIAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Educação estatística, Trabalho com projetos, Modelagem matemática, Recursos tecnológicos.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20no%20Ensino%20Superior%2C%20o%20trabalho%20com%20Projetos%20e%20o%20uso%20de%20Tecnologias%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20no%20Ensino%20Superior%2C%20o%20trabalho%20com%20Projetos%20e%20o%20uso%20de%20Tecnologias&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/11959345"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "11959345",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Educação estatística, Trabalho com projetos, Modelagem matemática, Recursos tecnológicos."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-11959345.svg",
+  "resumo": "A presente pesquisa investigou como alunos do Ensino Superior mobilizam conhecimentos estatísticos ao longo do curso de Métodos Quantitativos em Administração, com auxílio de recursos tecnológicos. Analisou-se um processo de estudo da Estatística por meio do trabalho com Projetos mediado pela Modelagem Matemática no contexto do Ensino Superior aliado ao uso das Tecnologias de Informação e Comunicação (TIC). A questão que norteou o processo investigativo foi: Quais as contribuições que o trabalho com Projetos em Modelagem Matemática, mediado pelo uso de tecnologias, pode trazer à aprendizagem estatística dos estudantes de um curso de Administração? Para responder a essa pergunta, utilizou-se uma abordagem qualitativa, com o intuito de se considerar mais o processo do que a produção final. Construiu-se, então, um estudo de caso, a partir dos Cenários de Investigação constituídos pelos Projetos de Investigação em Administração desenvolvidos por alunos, atores no seu processo de ensino e aprendizagem. Os resultados do estudo indicam que a articulação entre a prática e a teoria proporciona uma aprendizagem permeada por significados a qual é decorrente de uma proposta pedagógica em que o professor possibilita ao aluno ser coautor do processo de ensino e aprendizagem. O trabalho com Projetos, cujos temas tenham interesse aos alunos e estejam relacionados ao cotidiano, permite mobilizar conhecimentos estatísticos e matemáticos de forma a ressignificá-los. A inserção das tecnologias favorece na resolução dos cálculos matemáticos e na análise sobre os dados. Dessa forma, concluiu-se que o trabalho com Projetos em um ambiente de Modelagem Matemática, com o uso de tecnologias, propicia um melhor desempenho no processo de aprendizagem da Estatística.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística",
+    "ensino de estatística"
+  ],
+  "ids_duplicados": []
 }

@@ -1,61 +1,61 @@
 {
- "id": "capes-30244929",
- "autor": "Rodrigo Castelo Branco Herzog",
- "ano": 2019,
- "tipo": "Dissertação",
- "titulo": "A Percepção de Licenciandos em Matemática sobre a Aleatoriedade'",
- "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
- "cidade": "",
- "estado": "Rio Grande do Sul",
- "regiao": "Sul",
- "orientador": "Lori Viali",
- "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Probabilidade no Ensino; Educação Estatística; Aleatoriedade; Acaso; Determinismo",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20PERCEP%C3%87%C3%83O%20DE%20LICENCIANDOS%20EM%20MATEM%C3%81TICA%20SOBRE%20A%20ALEATORIEDADE%27%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20PERCEP%C3%87%C3%83O%20DE%20LICENCIANDOS%20EM%20MATEM%C3%81TICA%20SOBRE%20A%20ALEATORIEDADE%27&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30244929"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "30244929",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Probabilidade no Ensino",
-  "Educação Estatística",
-  "Aleatoriedade",
-  "Acaso",
-  "Determinismo"
- ],
- "thumbnail": "./assets/images/thumbs/capes-30244929.svg",
- "resumo": "Este trabalho teve como objetivo investigar a percepção de doze estudantes formandos em licenciatura em Matemática de universidades da região metropolitana de Porto Alegre sobre aleatoriedade, dentro do contexto de educação probabilística e Educação Estatística. Além disso, foram verificadas as concepções destes estudantes sobre termos relacionados, como Determinismo e Acaso Ainda, foram verificadas a definição que estes estudantes possuem sobre Probabilidade, e a relação que eles estabelecem com aleatoriedade e com a Estatística. Este trabalho foi um estudo de caso, e como método de análise foi utilizada a Análise Textual Discursiva. Os dados foram coletados por meio de entrevistas pessoais com os estudantes, e a partir da análise do Corpus, foram geradas categorias para cada um dos objetivos acima. Dentre os principais resultados obtidos, pode-se perceber que os estudantes possuem uma concepção sobre aleatoriedade própria, no entanto, não a relacionam com a Probabilidade, da mesma forma como ocorre com o conceito de acaso. Em relação ao Determinismo, os estudantes mostraram um desconhecimento do termo. Já sobre a relação entre Probabilidade e Estatística, os participantes da pesquisa mostraram ter dificuldade em diferenciar os dois conceitos e ao definir Estatística. Ainda, os estudantes reconheceram o Aleatório e a Probabilidade em diversas situações da realidade, embora muitas vezes se referindo ao lançamento de dados ou moedas. Estes resultados sugerem que a formação dos professores em Matemática é insuficiente para lecionar Probabilidade e Estatística, visto que normalmente há apenas uma disciplina no curso e ensinada junto as engenharias. Como os próprios estudantes dessa pesquisa demonstraram, com uma formação tão superficial é difícil entender de forma satisfatória esses conceitos de forma conectada a realidade, um pré-requisito necessário para um ensino eficaz.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "educação estatística"
- ],
- "ids_duplicados": []
+  "id": "capes-30244929",
+  "autor": "Rodrigo Castelo Branco Herzog",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "A Percepção de Licenciandos em Matemática sobre a Aleatoriedade'",
+  "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Lori Viali",
+  "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Probabilidade no Ensino; Educação Estatística; Aleatoriedade; Acaso; Determinismo",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20PERCEP%C3%87%C3%83O%20DE%20LICENCIANDOS%20EM%20MATEM%C3%81TICA%20SOBRE%20A%20ALEATORIEDADE%27%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20PERCEP%C3%87%C3%83O%20DE%20LICENCIANDOS%20EM%20MATEM%C3%81TICA%20SOBRE%20A%20ALEATORIEDADE%27&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30244929"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30244929",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Probabilidade no Ensino",
+    "Educação Estatística",
+    "Aleatoriedade",
+    "Acaso",
+    "Determinismo"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30244929.svg",
+  "resumo": "Este trabalho teve como objetivo investigar a percepção de doze estudantes formandos em licenciatura em Matemática de universidades da região metropolitana de Porto Alegre sobre aleatoriedade, dentro do contexto de educação probabilística e Educação Estatística. Além disso, foram verificadas as concepções destes estudantes sobre termos relacionados, como Determinismo e Acaso Ainda, foram verificadas a definição que estes estudantes possuem sobre Probabilidade, e a relação que eles estabelecem com aleatoriedade e com a Estatística. Este trabalho foi um estudo de caso, e como método de análise foi utilizada a Análise Textual Discursiva. Os dados foram coletados por meio de entrevistas pessoais com os estudantes, e a partir da análise do Corpus, foram geradas categorias para cada um dos objetivos acima. Dentre os principais resultados obtidos, pode-se perceber que os estudantes possuem uma concepção sobre aleatoriedade própria, no entanto, não a relacionam com a Probabilidade, da mesma forma como ocorre com o conceito de acaso. Em relação ao Determinismo, os estudantes mostraram um desconhecimento do termo. Já sobre a relação entre Probabilidade e Estatística, os participantes da pesquisa mostraram ter dificuldade em diferenciar os dois conceitos e ao definir Estatística. Ainda, os estudantes reconheceram o Aleatório e a Probabilidade em diversas situações da realidade, embora muitas vezes se referindo ao lançamento de dados ou moedas. Estes resultados sugerem que a formação dos professores em Matemática é insuficiente para lecionar Probabilidade e Estatística, visto que normalmente há apenas uma disciplina no curso e ensinada junto as engenharias. Como os próprios estudantes dessa pesquisa demonstraram, com uma formação tão superficial é difícil entender de forma satisfatória esses conceitos de forma conectada a realidade, um pré-requisito necessário para um ensino eficaz.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "educação estatística"
+  ],
+  "ids_duplicados": []
 }

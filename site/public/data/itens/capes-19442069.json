@@ -1,58 +1,58 @@
 {
- "id": "capes-19442069",
- "autor": "Fabricia Lucia Costa Ferreira",
- "ano": 2015,
- "tipo": "Dissertação",
- "titulo": "Analisando Contribuições da Teoria das Situações Didáticas no Ensino e na Aprendizagem da Estatística e das Probabilidades no Ensino Fundamental",
- "instituicao": "Universidade Federal de Ouro Preto",
- "cidade": "",
- "estado": "Minas Gerais",
- "regiao": "Sudeste",
- "orientador": "Maria do Carmo Vila",
- "programa": "EDUCAÇÃO MATEMÁTICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MP",
- "grau": "Mestrado Profissional",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "Estatística, Probabilidade, Tratamento de Informação, Ensino Fundamental",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22ANALISANDO%20CONTRIBUI%C3%87%C3%95ES%20DA%20TEORIA%20DAS%20SITUA%C3%87%C3%95ES%20DID%C3%81TICAS%20NO%20ENSINO%20E%20NA%20APRENDIZAGEM%20DA%20ESTAT%C3%8DSTICA%20E%20DAS%20PROBABILIDADES%20NO%20ENSINO%20FUNDAMENTAL%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ANALISANDO%20CONTRIBUI%C3%87%C3%95ES%20DA%20TEORIA%20DAS%20SITUA%C3%87%C3%95ES%20DID%C3%81TICAS%20NO%20ENSINO%20E%20NA%20APRENDIZAGEM%20DA%20ESTAT%C3%8DSTICA%20E%20DAS%20PROBABILIDADES%20NO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19442069"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "19442069",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "Estatística, Probabilidade, Tratamento de Informação, Ensino Fundamental"
- ],
- "thumbnail": "./assets/images/thumbs/capes-19442069.svg",
- "resumo": "A presente pesquisa visa a contribuir com o debate e sugestões de alternativas pedagógicas para o ensino e a aprendizagem desses conteúdos no Ensino Fundamental, tendo por base a Teoria das Situações Didáticas, de Guy Brousseau (2008, 2013, 1998, 1996) e trabalhos de alguns educadores matemáticos. O objetivo principal desta investigação foi coletar informações que pudessem responder à seguinte questão de pesquisa: Quais as contribuições da Teoria das Situações Didáticas no ensino e na aprendizagem da Estatística e das Probabilidades no 6o ano do Ensino Fundamental? Ela foi realizada com 30 alunos do 6o ano do Ensino Fundamental de uma escola municipal de Congonhas, Minas Gerais. Para a coleta de dados foram utilizados os seguintes instrumentos: caderno de campo da professora-pesquisadora com os registros das observações feitas em classe, caderno de anotações dos participantes, grupos focais, testes, questionários, manifestações orais dos participantes e gravações em áudio e vídeo. As gravações foram transcritas para análise. Os resultados apresentaram fortes indícios de que a teoria em questão contribui de vários modos para o ensino e a aprendizagem da Estatística e das Probabilidades: autonomia dos alunos, envolvimento e satisfação dos alunos na realização das atividades; estímulo à interação e cooperação aluno-aluno e aluno-professor em sala de aula; percepção do aluno sobre a importância do saber matemático; apropriação pelos alunos dos saberes estatísticos e probabilísticos trabalhados durante a pesquisa. Além disso, os resultados evidenciaram as dificuldades vivenciadas pelos alunos na aquisição dos conhecimentos e os erros por eles cometidos. Na Teoria das Situações Didáticas, quando identificados, os erros e as dificuldades cometidos pelos alunos tornam-se uma valiosa fonte de informação para a elaboração de boas questões ou de novas situações problemas que possam atender, mais claramente, os objetivos desejáveis.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "ensino de estatística",
-  "ensino de probabilidade"
- ],
- "ids_duplicados": []
+  "id": "capes-19442069",
+  "autor": "Fabricia Lucia Costa Ferreira",
+  "ano": 2015,
+  "tipo": "Dissertação",
+  "titulo": "Analisando Contribuições da Teoria das Situações Didáticas no Ensino e na Aprendizagem da Estatística e das Probabilidades no Ensino Fundamental",
+  "instituicao": "Universidade Federal de Ouro Preto",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Maria do Carmo Vila",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Estatística, Probabilidade, Tratamento de Informação, Ensino Fundamental",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ANALISANDO%20CONTRIBUI%C3%87%C3%95ES%20DA%20TEORIA%20DAS%20SITUA%C3%87%C3%95ES%20DID%C3%81TICAS%20NO%20ENSINO%20E%20NA%20APRENDIZAGEM%20DA%20ESTAT%C3%8DSTICA%20E%20DAS%20PROBABILIDADES%20NO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ANALISANDO%20CONTRIBUI%C3%87%C3%95ES%20DA%20TEORIA%20DAS%20SITUA%C3%87%C3%95ES%20DID%C3%81TICAS%20NO%20ENSINO%20E%20NA%20APRENDIZAGEM%20DA%20ESTAT%C3%8DSTICA%20E%20DAS%20PROBABILIDADES%20NO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19442069"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "19442069",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Estatística, Probabilidade, Tratamento de Informação, Ensino Fundamental"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-19442069.svg",
+  "resumo": "A presente pesquisa visa a contribuir com o debate e sugestões de alternativas pedagógicas para o ensino e a aprendizagem desses conteúdos no Ensino Fundamental, tendo por base a Teoria das Situações Didáticas, de Guy Brousseau (2008, 2013, 1998, 1996) e trabalhos de alguns educadores matemáticos. O objetivo principal desta investigação foi coletar informações que pudessem responder à seguinte questão de pesquisa: Quais as contribuições da Teoria das Situações Didáticas no ensino e na aprendizagem da Estatística e das Probabilidades no 6o ano do Ensino Fundamental? Ela foi realizada com 30 alunos do 6o ano do Ensino Fundamental de uma escola municipal de Congonhas, Minas Gerais. Para a coleta de dados foram utilizados os seguintes instrumentos: caderno de campo da professora-pesquisadora com os registros das observações feitas em classe, caderno de anotações dos participantes, grupos focais, testes, questionários, manifestações orais dos participantes e gravações em áudio e vídeo. As gravações foram transcritas para análise. Os resultados apresentaram fortes indícios de que a teoria em questão contribui de vários modos para o ensino e a aprendizagem da Estatística e das Probabilidades: autonomia dos alunos, envolvimento e satisfação dos alunos na realização das atividades; estímulo à interação e cooperação aluno-aluno e aluno-professor em sala de aula; percepção do aluno sobre a importância do saber matemático; apropriação pelos alunos dos saberes estatísticos e probabilísticos trabalhados durante a pesquisa. Além disso, os resultados evidenciaram as dificuldades vivenciadas pelos alunos na aquisição dos conhecimentos e os erros por eles cometidos. Na Teoria das Situações Didáticas, quando identificados, os erros e as dificuldades cometidos pelos alunos tornam-se uma valiosa fonte de informação para a elaboração de boas questões ou de novas situações problemas que possam atender, mais claramente, os objetivos desejáveis.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "ensino de estatística",
+    "ensino de probabilidade"
+  ],
+  "ids_duplicados": []
 }

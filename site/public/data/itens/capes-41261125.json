@@ -1,61 +1,61 @@
 {
- "id": "capes-41261125",
- "autor": "Stephany Maria Pereira da Silva",
- "ano": 2024,
- "tipo": "Dissertação",
- "titulo": "Conhecimentos para o Ensino de Média Aritmética nos Anos Finais para Estudantes Cegos Utilizando Material Manipulável",
- "instituicao": "Universidade Federal de Pernambuco",
- "cidade": "",
- "estado": "Pernambuco",
- "regiao": "Nordeste",
- "orientador": "Liliane Maria Teixeira Lima de Carvalho",
- "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
- "area": "Ensino",
- "nivel_codigo": "",
- "nivel": "",
- "foco_codigo": "",
- "foco": "",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "",
- "problema": "",
- "metodologia": "",
- "contribuicoes": "",
- "palavras_chave": "educação inclusiva; estudantes cegos; material manipulável; média aritmética; letramento estatístico.",
- "referencial": "",
- "revisado": false,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22CONHECIMENTOS%20PARA%20O%20ENSINO%20DE%20M%C3%89DIA%20ARITM%C3%89TICA%20NOS%20ANOS%20FINAIS%20PARA%20ESTUDANTES%20CEGOS%20UTILIZANDO%20MATERIAL%20MANIPUL%C3%81VEL%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CONHECIMENTOS%20PARA%20O%20ENSINO%20DE%20M%C3%89DIA%20ARITM%C3%89TICA%20NOS%20ANOS%20FINAIS%20PARA%20ESTUDANTES%20CEGOS%20UTILIZANDO%20MATERIAL%20MANIPUL%C3%81VEL&type=AllFields",
-  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41261125"
- },
- "bdtd": {
-  "status": "",
-  "score": 0.0,
-  "candidato": null,
-  "consultado_em": "2026-10-20"
- },
- "capes": {
-  "status": "ok",
-  "score": 1.0,
-  "candidato": "41261125",
-  "consultado_em": "2026-10-20"
- },
- "autor_planilha": "",
- "enriquecimento_manual": {},
- "tags": [
-  "educação inclusiva",
-  "estudantes cegos",
-  "material manipulável",
-  "média aritmética",
-  "letramento estatístico."
- ],
- "thumbnail": "./assets/images/thumbs/capes-41261125.svg",
- "resumo": "A utilização de materiais manipuláveis para o ensino de Estatística se constitui em possibilidade de acesso a representações de dados por estudantes cegos por meio da exploração tátil. O objetivo geral desta pesquisa de mestrado é analisar conhecimentos para o ensino de média aritmética para estudantes cegos mobilizados com o auxílio de um material manipulável. Em termos específicos busca-se investigar a viabilidade de um material manipulável para o ensino de média aritmética para estudantes cegos a partir das experiências de brailistas e estudantes cegos; analisar conhecimentos de professores de matemática para o ensino de média aritmética para estudantes cegos em classes inclusivas; e analisar conhecimentos dos docentes em planejamento de aula para o ensino de média aritmética para estudantes cegos com a utilização do material manipulável. As contribuições teóricas de Ball, Thames e Phelps e as de Iddo Gal fundamentaram as discussões a respeito, respectivamente, dos conhecimentos docentes e da perspectiva do letramento estatístico no ensino da média aritmética. A pesquisa iniciou com a realização de entrevistas semiestruturadas com duas brailistas, uma normovisual e uma cega, e duas estudantes matriculadas no 9o ano do Ensino Fundamental, uma normovisual e uma cega. As entrevistas aconteceram de forma individual, e os questionamentos envolveram aspectos relativos à análise do material manipulável elaborado. Numa segunda etapa, entrevistou-se dois professores, um com experiência com estudantes cegos e outro sem. Na terceira etapa, esses professores desenvolveram um planejamento para o ensino de média aritmética para estudantes cegos com a utilização do material. De modo geral, todos os participantes consideraram o material manipulável adequado para o ensino de média aritmética para estudantes cegos. Eles também apresentaram considerações quanto a sua estrutura com o foco nos aspectos que potencializariam a usabilidade. As entrevistas com as brailistas evidenciaram a mobilização de conhecimentos gerais a respeito do ensino e dos estudantes cegos, sendo apresentados aspectos a serem considerados no ensino destes estudantes. Nas entrevistas com as estudantes, identificaram-se conhecimentos sobre o algoritmo da média aritmética, mas dificuldades na resolução de situações envolvendo as propriedades conceituais propostas por Strauss e Bichler. Os professores por vezes mobilizaram mais de um tipo de conhecimento simultaneamente, sobretudo: Conhecimento do Conteúdo e do Currículo, Conhecimento do Conteúdo e do Ensino, e Conhecimento do Conteúdo e do Aluno. Com a utilização do material manipulável a mobilização do Conhecimento do Conteúdo e do Ensino foram mais realçados. Nos planejamentos de aulas, os professores mobilizaram o Conhecimento do Conteúdo e do Currículo e o Conhecimento do Conteúdo e do Ensino. A mobilização do Conhecimento Horizontal do Conteúdo pareceu requerer mais experiência na docência. A pesquisa oferece indícios da viabilidade do material manipulável proposto para o ensino de média aritmética para estudantes cegos, à medida que evidencia também a mobilização de conhecimentos docentes a partir de seu uso.",
- "resumo_idioma": "por",
- "resumo_fonte": "CAPES",
- "termos_busca": [
-  "letramento estatístico"
- ],
- "ids_duplicados": []
+  "id": "capes-41261125",
+  "autor": "Stephany Maria Pereira da Silva",
+  "ano": 2024,
+  "tipo": "Dissertação",
+  "titulo": "Conhecimentos para o Ensino de Média Aritmética nos Anos Finais para Estudantes Cegos Utilizando Material Manipulável",
+  "instituicao": "Universidade Federal de Pernambuco",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Liliane Maria Teixeira Lima de Carvalho",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "educação inclusiva; estudantes cegos; material manipulável; média aritmética; letramento estatístico.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22CONHECIMENTOS%20PARA%20O%20ENSINO%20DE%20M%C3%89DIA%20ARITM%C3%89TICA%20NOS%20ANOS%20FINAIS%20PARA%20ESTUDANTES%20CEGOS%20UTILIZANDO%20MATERIAL%20MANIPUL%C3%81VEL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CONHECIMENTOS%20PARA%20O%20ENSINO%20DE%20M%C3%89DIA%20ARITM%C3%89TICA%20NOS%20ANOS%20FINAIS%20PARA%20ESTUDANTES%20CEGOS%20UTILIZANDO%20MATERIAL%20MANIPUL%C3%81VEL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41261125"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "41261125",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "educação inclusiva",
+    "estudantes cegos",
+    "material manipulável",
+    "média aritmética",
+    "letramento estatístico."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-41261125.svg",
+  "resumo": "A utilização de materiais manipuláveis para o ensino de Estatística se constitui em possibilidade de acesso a representações de dados por estudantes cegos por meio da exploração tátil. O objetivo geral desta pesquisa de mestrado é analisar conhecimentos para o ensino de média aritmética para estudantes cegos mobilizados com o auxílio de um material manipulável. Em termos específicos busca-se investigar a viabilidade de um material manipulável para o ensino de média aritmética para estudantes cegos a partir das experiências de brailistas e estudantes cegos; analisar conhecimentos de professores de matemática para o ensino de média aritmética para estudantes cegos em classes inclusivas; e analisar conhecimentos dos docentes em planejamento de aula para o ensino de média aritmética para estudantes cegos com a utilização do material manipulável. As contribuições teóricas de Ball, Thames e Phelps e as de Iddo Gal fundamentaram as discussões a respeito, respectivamente, dos conhecimentos docentes e da perspectiva do letramento estatístico no ensino da média aritmética. A pesquisa iniciou com a realização de entrevistas semiestruturadas com duas brailistas, uma normovisual e uma cega, e duas estudantes matriculadas no 9o ano do Ensino Fundamental, uma normovisual e uma cega. As entrevistas aconteceram de forma individual, e os questionamentos envolveram aspectos relativos à análise do material manipulável elaborado. Numa segunda etapa, entrevistou-se dois professores, um com experiência com estudantes cegos e outro sem. Na terceira etapa, esses professores desenvolveram um planejamento para o ensino de média aritmética para estudantes cegos com a utilização do material. De modo geral, todos os participantes consideraram o material manipulável adequado para o ensino de média aritmética para estudantes cegos. Eles também apresentaram considerações quanto a sua estrutura com o foco nos aspectos que potencializariam a usabilidade. As entrevistas com as brailistas evidenciaram a mobilização de conhecimentos gerais a respeito do ensino e dos estudantes cegos, sendo apresentados aspectos a serem considerados no ensino destes estudantes. Nas entrevistas com as estudantes, identificaram-se conhecimentos sobre o algoritmo da média aritmética, mas dificuldades na resolução de situações envolvendo as propriedades conceituais propostas por Strauss e Bichler. Os professores por vezes mobilizaram mais de um tipo de conhecimento simultaneamente, sobretudo: Conhecimento do Conteúdo e do Currículo, Conhecimento do Conteúdo e do Ensino, e Conhecimento do Conteúdo e do Aluno. Com a utilização do material manipulável a mobilização do Conhecimento do Conteúdo e do Ensino foram mais realçados. Nos planejamentos de aulas, os professores mobilizaram o Conhecimento do Conteúdo e do Currículo e o Conhecimento do Conteúdo e do Ensino. A mobilização do Conhecimento Horizontal do Conteúdo pareceu requerer mais experiência na docência. A pesquisa oferece indícios da viabilidade do material manipulável proposto para o ensino de média aritmética para estudantes cegos, à medida que evidencia também a mobilização de conhecimentos docentes a partir de seu uso.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "letramento estatístico"
+  ],
+  "ids_duplicados": []
 }
