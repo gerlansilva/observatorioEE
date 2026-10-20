@@ -1,61 +1,61 @@
 {
-  "id": "capes-38626907",
-  "autor": "Gerlan Silva da Silva",
-  "ano": 2023,
-  "tipo": "Dissertação",
-  "titulo": "O Estado da Arte da Pesquisa em Educação Probabilística na Escola Básica",
-  "instituicao": "Universidade Federal de Santa Catarina",
-  "cidade": "",
-  "estado": "Santa Catarina",
-  "regiao": "Sul",
-  "orientador": "Regina Celia Grando",
-  "programa": "EDUCAÇÃO CIENTIFICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Revisão Sistemática; Ensino de Probabilidade; Educação Probabilística; Estado da Arte; Produção Científica",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20Estado%20da%20Arte%20da%20Pesquisa%20em%20Educa%C3%A7%C3%A3o%20Probabil%C3%ADstica%20na%20Escola%20B%C3%A1sica%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20Estado%20da%20Arte%20da%20Pesquisa%20em%20Educa%C3%A7%C3%A3o%20Probabil%C3%ADstica%20na%20Escola%20B%C3%A1sica&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38626907"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "38626907",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Revisão Sistemática",
-    "Ensino de Probabilidade",
-    "Educação Probabilística",
-    "Estado da Arte",
-    "Produção Científica"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-38626907.svg",
-  "resumo": "Nosso objetivo nesta pesquisa é inventariar, sistematizar, descrever e analisar a pesquisa acadêmica brasileira sobre o ensino e a aprendizagem de Probabilidade na Educação Básica, produzida no âmbito dos programas de pós-graduação, na área de Educação e Ensino, evidenciando suas principais tendências temáticas e aspectos teórico-metodológicos. Essa investigação se caracteriza metodologicamente como qualitativa quanto à abordagem, de natureza exploratória, quanto aos seus objetivos, e bibliográfica, considerando os seus procedimentos de produção e análise dos dados. O mapeamento das pesquisas, como fonte de dados, foi realizado de forma totalmente digital, através do Catálogo de teses e dissertações da CAPES, da Biblioteca Digital Brasileira de Teses e Dissertações (BDTD), e de acervos de currículos da plataforma Lattes. Essas buscas nos retornaram um total de 99 teses e dissertações, defendidas no Brasil no período de maio de 1994 a junho de 2021, que relacionam e articulam a Educação Probabilística na Escola Básica como objeto de estudo. Essas pesquisas foram organizadas no gerenciador de referências Mendeley com a identificação dos seus respectivos metadados, exportadas para o programa de análise de dados qualitativos MAXQDA e codificadas com base nos seguintes elementos presentes na ficha de leitura das pesquisas: ano de defesa, nome do autor, titulação acadêmica, nome do orientador, instituição de ensino, programa de pós-graduação, banca examinadora, objetivo/problema/questão norteadora, conteúdo enfocado, foco temático, sujeitos e contextos investigados, metodologia, procedimentos metodológicos, instrumentos de produção de dados, principais resultados obtidos, contribuições e referencial teórico. Por meio da análise das pesquisas, identificamos sete núcleos temáticos principais. Os mais frequentes: \"TIC e outros recursos didáticos para o ensino e aprendizagem da probabilidade\", com um total de 19 pesquisas; e \"Metodologias de Ensino\", com 20 pesquisas. A partir desses estudos encontrados (78 dissertações e 21 teses) sobre Educação Probabilística na Escola Básica, percebemos um aumento considerável do interesse dos pesquisadores no referido tema, desde 2007. As cinco regiões do Brasil apresentaram trabalhos de pesquisa (com ênfase na região Sudeste) e São Paulo concentrou a maior parte dos trabalhos. 31 universidades brasileiras foram identificadas como produtoras de teses e dissertações sobre Educação Probabilística, com destaque para a PUC/SP. O programa de Educação Matemática apresentou o maior número de trabalhos defendidos, com 55 orientadores identificados e 16 pesquisadores/orientadores centrais na produção nacional. Quanto aos principais resultados dos núcleos temáticos, a categoria \"TIC e outros recursos didáticos para o ensino e a aprendizagem da probabilidade\" investigou o uso de materiais manipulativos e jogos educativos para explorar conceitos de probabilidade em diferentes níveis de ensino. O objetivo desses estudos foi tornar o ensino mais atrativo e interativo, bem como examinar a influência desses recursos na aprendizagem de conceitos de probabilidade e interações entre alunos e materiais. Na subcategoria \"Metodologias de Ensino\", o objetivo foi identificar estratégias e recursos pedagógicos para o ensino de conceitos de probabilidade na Educação Básica, analisando as possibilidades de metodologias ativas e participativas, o papel do professor na construção do conhecimento e o potencial de situações contextualizadas para o ensino de conceitos de probabilidade. No geral, as investigações têm se focado em identificar as principais dificuldades dos alunos em compreender o conceito de probabilidade e em propor estratégias de ensino para melhorar seu aprendizado nessa área.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de probabilidade"
-  ],
-  "ids_duplicados": []
+ "id": "capes-38626907",
+ "autor": "Gerlan Silva da Silva",
+ "ano": 2023,
+ "tipo": "Dissertação",
+ "titulo": "O Estado da Arte da Pesquisa em Educação Probabilística na Escola Básica",
+ "instituicao": "Universidade Federal de Santa Catarina",
+ "cidade": "",
+ "estado": "Santa Catarina",
+ "regiao": "Sul",
+ "orientador": "Regina Celia Grando",
+ "programa": "Educação Científica e Tecnológica",
+ "area": "Ensino de Ciências e Matemática",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Revisão Sistemática; Ensino de Probabilidade; Educação Probabilística; Estado da Arte; Produção Científica",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20Estado%20da%20Arte%20da%20Pesquisa%20em%20Educa%C3%A7%C3%A3o%20Probabil%C3%ADstica%20na%20Escola%20B%C3%A1sica%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20Estado%20da%20Arte%20da%20Pesquisa%20em%20Educa%C3%A7%C3%A3o%20Probabil%C3%ADstica%20na%20Escola%20B%C3%A1sica&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38626907"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "38626907",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Revisão Sistemática",
+  "Ensino de Probabilidade",
+  "Educação Probabilística",
+  "Estado da Arte",
+  "Produção Científica"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-38626907.svg",
+ "resumo": "Nosso objetivo nesta pesquisa é inventariar, sistematizar, descrever e analisar a pesquisa acadêmica brasileira sobre o ensino e a aprendizagem de Probabilidade na Educação Básica, produzida no âmbito dos programas de pós-graduação, na área de Educação e Ensino, evidenciando suas principais tendências temáticas e aspectos teórico-metodológicos. Essa investigação se caracteriza metodologicamente como qualitativa quanto à abordagem, de natureza exploratória, quanto aos seus objetivos, e bibliográfica, considerando os seus procedimentos de produção e análise dos dados. O mapeamento das pesquisas, como fonte de dados, foi realizado de forma totalmente digital, através do Catálogo de teses e dissertações da CAPES, da Biblioteca Digital Brasileira de Teses e Dissertações (BDTD), e de acervos de currículos da plataforma Lattes. Essas buscas nos retornaram um total de 99 teses e dissertações, defendidas no Brasil no período de maio de 1994 a junho de 2021, que relacionam e articulam a Educação Probabilística na Escola Básica como objeto de estudo. Essas pesquisas foram organizadas no gerenciador de referências Mendeley com a identificação dos seus respectivos metadados, exportadas para o programa de análise de dados qualitativos MAXQDA e codificadas com base nos seguintes elementos presentes na ficha de leitura das pesquisas: ano de defesa, nome do autor, titulação acadêmica, nome do orientador, instituição de ensino, programa de pós-graduação, banca examinadora, objetivo/problema/questão norteadora, conteúdo enfocado, foco temático, sujeitos e contextos investigados, metodologia, procedimentos metodológicos, instrumentos de produção de dados, principais resultados obtidos, contribuições e referencial teórico. Por meio da análise das pesquisas, identificamos sete núcleos temáticos principais. Os mais frequentes: \"TIC e outros recursos didáticos para o ensino e aprendizagem da probabilidade\", com um total de 19 pesquisas; e \"Metodologias de Ensino\", com 20 pesquisas. A partir desses estudos encontrados (78 dissertações e 21 teses) sobre Educação Probabilística na Escola Básica, percebemos um aumento considerável do interesse dos pesquisadores no referido tema, desde 2007. As cinco regiões do Brasil apresentaram trabalhos de pesquisa (com ênfase na região Sudeste) e São Paulo concentrou a maior parte dos trabalhos. 31 universidades brasileiras foram identificadas como produtoras de teses e dissertações sobre Educação Probabilística, com destaque para a PUC/SP. O programa de Educação Matemática apresentou o maior número de trabalhos defendidos, com 55 orientadores identificados e 16 pesquisadores/orientadores centrais na produção nacional. Quanto aos principais resultados dos núcleos temáticos, a categoria \"TIC e outros recursos didáticos para o ensino e a aprendizagem da probabilidade\" investigou o uso de materiais manipulativos e jogos educativos para explorar conceitos de probabilidade em diferentes níveis de ensino. O objetivo desses estudos foi tornar o ensino mais atrativo e interativo, bem como examinar a influência desses recursos na aprendizagem de conceitos de probabilidade e interações entre alunos e materiais. Na subcategoria \"Metodologias de Ensino\", o objetivo foi identificar estratégias e recursos pedagógicos para o ensino de conceitos de probabilidade na Educação Básica, analisando as possibilidades de metodologias ativas e participativas, o papel do professor na construção do conhecimento e o potencial de situações contextualizadas para o ensino de conceitos de probabilidade. No geral, as investigações têm se focado em identificar as principais dificuldades dos alunos em compreender o conceito de probabilidade e em propor estratégias de ensino para melhorar seu aprendizado nessa área.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de probabilidade"
+ ],
+ "ids_duplicados": []
 }

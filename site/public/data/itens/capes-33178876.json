@@ -1,59 +1,59 @@
 {
-  "id": "capes-33178876",
-  "autor": "Flaviane Meireles dos Santos Campeiro",
-  "ano": 2020,
-  "tipo": "Dissertação",
-  "titulo": "Compreendendo os Erros na Resolução de Problemas de Probabilidade por Meio dos Mecanismos de Defesa da Psicanálise",
-  "instituicao": "Universidade Estadual de Mato Grosso do Sul",
-  "cidade": "",
-  "estado": "Mato Grosso do Sul",
-  "regiao": "Centro-Oeste",
-  "orientador": "Sergio Choiti Yamazaki",
-  "programa": "EDUCAÇÃO CIENTÍFICA E MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Ensino de Probabilidade; Mecanismos de Defesa Psicanalíticos; Educação Matemática",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22COMPREENDENDO%20OS%20ERROS%20NA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20DE%20PROBABILIDADE%20POR%20MEIO%20DOS%20MECANISMOS%20DE%20DEFESA%20DA%20PSICAN%C3%81LISE%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=COMPREENDENDO%20OS%20ERROS%20NA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20DE%20PROBABILIDADE%20POR%20MEIO%20DOS%20MECANISMOS%20DE%20DEFESA%20DA%20PSICAN%C3%81LISE&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/33178876"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "33178876",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Ensino de Probabilidade",
-    "Mecanismos de Defesa Psicanalíticos",
-    "Educação Matemática"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-33178876.svg",
-  "resumo": "A discussão sobre o ensino e a aprendizagem de Probabilidade vem ganhando cada vez mais espaço no campo educacional, uma vez que esse conteúdo utiliza como base o raciocínio lógico, desta forma, este conteúdo quando devidamente abordado em sala de aula pode promover reflexões críticas e de relevância social. Mas, para que esta contribuição ocorra de forma efetiva, é necessário que se proporcione aos alunos situações reais em que seja possível o confrontamento dos problemas por meio de estratégias desenvolvidas de acordo com os conhecimentos dos próprios alunos, por isso, é necessário compreender quais fatores estão relacionados ao processo de ensino e aprendizagem, uma vez que tal processo não ocorre somente no campo cognitivo, pois também envolve aspectos do domínio afetivo. Nesse sentido, esta pesquisa tem o objetivo de fazer um levantamento dos mecanismos psíquicos subjetivos, de vieses psicanalíticos, que podem por obstáculos à construção dos elementos subjacentes aos estudos de Probabilidade, dificultando sua correta apreensão - os mecanismos aos quais fazemos referência são conhecidos na literatura por mecanismos de defesa da psicanálise. Entender como estão sendo incorporados pelos alunos e os caminhos utilizados por eles para responder a questões às quais este tema se refere, pode ser um passo importante para aprimorar seu ensino. Desta forma, tomando como ponto de partida o objetivo desta pesquisa decidimos adotar o método de pesquisa qualitativa, considerado o mais adequado para o tipo de análise que se pretende realizar. Assim, este estudo foi dividido em quatro etapas: 1º pesquisa e estudo; 2º preparação e aplicação de um questionário piloto; 3ª reestruturação e aplicação de novo questionário e entrevista; e 4º Análise dos dados. Desta forma, na tentativa de fazermos um levantamento dos mecanismos psíquicos subjetivos, de vieses psicanalíticos, que poderiam por obstáculos à construção dos elementos subjacentes aos estudos de Probabilidade, verificamos que parece haver a manifestação de alguns mecanismos de defesa e que estes por sua vez se manifestam sem a percepção dos alunos. Com as análises, verificamos que as defesas apresentadas se propunham a manter afastados da consciência ideias e sentimentos potencialmente ameaçadores, se caracterizando em alguns momentos por distorções na forma como os alunos buscavam solucionar a situação apresentada.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de probabilidade"
-  ],
-  "ids_duplicados": []
+ "id": "capes-33178876",
+ "autor": "Flaviane Meireles dos Santos Campeiro",
+ "ano": 2020,
+ "tipo": "Dissertação",
+ "titulo": "Compreendendo os Erros na Resolução de Problemas de Probabilidade por Meio dos Mecanismos de Defesa da Psicanálise",
+ "instituicao": "Universidade Estadual de Mato Grosso do Sul",
+ "cidade": "",
+ "estado": "Mato Grosso do Sul",
+ "regiao": "Centro-Oeste",
+ "orientador": "Sergio Choiti Yamazaki",
+ "programa": "EDUCAÇÃO CIENTÍFICA E MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Ensino de Probabilidade; Mecanismos de Defesa Psicanalíticos; Educação Matemática",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22COMPREENDENDO%20OS%20ERROS%20NA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20DE%20PROBABILIDADE%20POR%20MEIO%20DOS%20MECANISMOS%20DE%20DEFESA%20DA%20PSICAN%C3%81LISE%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=COMPREENDENDO%20OS%20ERROS%20NA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20DE%20PROBABILIDADE%20POR%20MEIO%20DOS%20MECANISMOS%20DE%20DEFESA%20DA%20PSICAN%C3%81LISE&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/33178876"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "33178876",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Ensino de Probabilidade",
+  "Mecanismos de Defesa Psicanalíticos",
+  "Educação Matemática"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-33178876.svg",
+ "resumo": "A discussão sobre o ensino e a aprendizagem de Probabilidade vem ganhando cada vez mais espaço no campo educacional, uma vez que esse conteúdo utiliza como base o raciocínio lógico, desta forma, este conteúdo quando devidamente abordado em sala de aula pode promover reflexões críticas e de relevância social. Mas, para que esta contribuição ocorra de forma efetiva, é necessário que se proporcione aos alunos situações reais em que seja possível o confrontamento dos problemas por meio de estratégias desenvolvidas de acordo com os conhecimentos dos próprios alunos, por isso, é necessário compreender quais fatores estão relacionados ao processo de ensino e aprendizagem, uma vez que tal processo não ocorre somente no campo cognitivo, pois também envolve aspectos do domínio afetivo. Nesse sentido, esta pesquisa tem o objetivo de fazer um levantamento dos mecanismos psíquicos subjetivos, de vieses psicanalíticos, que podem por obstáculos à construção dos elementos subjacentes aos estudos de Probabilidade, dificultando sua correta apreensão - os mecanismos aos quais fazemos referência são conhecidos na literatura por mecanismos de defesa da psicanálise. Entender como estão sendo incorporados pelos alunos e os caminhos utilizados por eles para responder a questões às quais este tema se refere, pode ser um passo importante para aprimorar seu ensino. Desta forma, tomando como ponto de partida o objetivo desta pesquisa decidimos adotar o método de pesquisa qualitativa, considerado o mais adequado para o tipo de análise que se pretende realizar. Assim, este estudo foi dividido em quatro etapas: 1º pesquisa e estudo; 2º preparação e aplicação de um questionário piloto; 3ª reestruturação e aplicação de novo questionário e entrevista; e 4º Análise dos dados. Desta forma, na tentativa de fazermos um levantamento dos mecanismos psíquicos subjetivos, de vieses psicanalíticos, que poderiam por obstáculos à construção dos elementos subjacentes aos estudos de Probabilidade, verificamos que parece haver a manifestação de alguns mecanismos de defesa e que estes por sua vez se manifestam sem a percepção dos alunos. Com as análises, verificamos que as defesas apresentadas se propunham a manter afastados da consciência ideias e sentimentos potencialmente ameaçadores, se caracterizando em alguns momentos por distorções na forma como os alunos buscavam solucionar a situação apresentada.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de probabilidade"
+ ],
+ "ids_duplicados": []
 }

@@ -1,59 +1,59 @@
 {
-  "id": "capes-42589760",
-  "autor": "Cassiane Ponse Aguiar",
-  "ano": 2024,
-  "tipo": "Dissertação",
-  "titulo": "Um olhar sob a ótica de aprendizagem significativa de Ausubel para as competências e habilidades no estudo de estatística no novo ensino médio.",
-  "instituicao": "Universidade Estadual de Mato Grosso do Sul",
-  "cidade": "",
-  "estado": "Mato Grosso do Sul",
-  "regiao": "Centro-Oeste",
-  "orientador": "Sonner Arfux de Figueiredo",
-  "programa": "EDUCAÇÃO CIENTÍFICA E MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Estatística; Ensino; Aprendizagem significativa.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Um%20olhar%20sob%20a%20%C3%B3tica%20de%20aprendizagem%20significativa%20de%20Ausubel%20para%20as%20compet%C3%AAncias%20e%20habilidades%20no%20estudo%20de%20estat%C3%ADstica%20no%20novo%20ensino%20m%C3%A9dio.%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Um%20olhar%20sob%20a%20%C3%B3tica%20de%20aprendizagem%20significativa%20de%20Ausubel%20para%20as%20compet%C3%AAncias%20e%20habilidades%20no%20estudo%20de%20estat%C3%ADstica%20no%20novo%20ensino%20m%C3%A9dio.&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42589760"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "42589760",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Estatística",
-    "Ensino",
-    "Aprendizagem significativa."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-42589760.svg",
-  "resumo": "A presente dissertação teve por objetivo investigar como a Teoria da Aprendizagem Significativa de Ausubel pode contribuir para a melhoria do ensino de estatística no contexto do novo ensino médio. A pesquisa, de natureza qualitativa e descritiva, foi realizada em uma turma do terceiro ano do ensino médio de uma escola pública no interior de Mato Grosso do Sul. A partir da análise das matrizes curriculares e ementas dos Itinerários formativos, foi elaborada uma sequência didática, produto educacional deste trabalho, visando promover a aprendizagem significativa dos conceitos estatísticos. A coleta de dados da sequência didática aplicada se deu por meio de registos, anotações de campo e pautas de aulas. Os resultados indicaram que a utilização de conhecimentos prévios dos alunos e a elaboração de materiais potencialmente significativos foram cruciais para a ocorrência da aprendizagem significativa. Os participantes da pesquisa destacaram a importância dos encontros e atividades sequenciadas para o auxílio no aprendizado. Acredita-se que essa pesquisa pode contribuir para o ensino da estatística para o novo ensino médio, já implementado na rede estadual de ensino, aproximando os conteúdos da vida cotidiana dos alunos e fomentando uma aprendizagem mais significativa.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-42589760",
+ "autor": "Cassiane Ponse Aguiar",
+ "ano": 2024,
+ "tipo": "Dissertação",
+ "titulo": "Um olhar sob a ótica de aprendizagem significativa de Ausubel para as competências e habilidades no estudo de estatística no novo ensino médio.",
+ "instituicao": "Universidade Estadual de Mato Grosso do Sul",
+ "cidade": "",
+ "estado": "Mato Grosso do Sul",
+ "regiao": "Centro-Oeste",
+ "orientador": "Sonner Arfux de Figueiredo",
+ "programa": "EDUCAÇÃO CIENTÍFICA E MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Estatística; Ensino; Aprendizagem significativa.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Um%20olhar%20sob%20a%20%C3%B3tica%20de%20aprendizagem%20significativa%20de%20Ausubel%20para%20as%20compet%C3%AAncias%20e%20habilidades%20no%20estudo%20de%20estat%C3%ADstica%20no%20novo%20ensino%20m%C3%A9dio.%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Um%20olhar%20sob%20a%20%C3%B3tica%20de%20aprendizagem%20significativa%20de%20Ausubel%20para%20as%20compet%C3%AAncias%20e%20habilidades%20no%20estudo%20de%20estat%C3%ADstica%20no%20novo%20ensino%20m%C3%A9dio.&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42589760"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "42589760",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Estatística",
+  "Ensino",
+  "Aprendizagem significativa."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-42589760.svg",
+ "resumo": "A presente dissertação teve por objetivo investigar como a Teoria da Aprendizagem Significativa de Ausubel pode contribuir para a melhoria do ensino de estatística no contexto do novo ensino médio. A pesquisa, de natureza qualitativa e descritiva, foi realizada em uma turma do terceiro ano do ensino médio de uma escola pública no interior de Mato Grosso do Sul. A partir da análise das matrizes curriculares e ementas dos Itinerários formativos, foi elaborada uma sequência didática, produto educacional deste trabalho, visando promover a aprendizagem significativa dos conceitos estatísticos. A coleta de dados da sequência didática aplicada se deu por meio de registos, anotações de campo e pautas de aulas. Os resultados indicaram que a utilização de conhecimentos prévios dos alunos e a elaboração de materiais potencialmente significativos foram cruciais para a ocorrência da aprendizagem significativa. Os participantes da pesquisa destacaram a importância dos encontros e atividades sequenciadas para o auxílio no aprendizado. Acredita-se que essa pesquisa pode contribuir para o ensino da estatística para o novo ensino médio, já implementado na rede estadual de ensino, aproximando os conteúdos da vida cotidiana dos alunos e fomentando uma aprendizagem mais significativa.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }
