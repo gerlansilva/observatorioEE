@@ -1,0 +1,58 @@
+{
+  "id": "capes-37306640",
+  "autor": "Geovane Carlos Barbosa",
+  "ano": 2022,
+  "tipo": "Tese",
+  "titulo": "Educadores Estatísticos em Formação Continuada: Indícios de Identidade Docente",
+  "instituicao": "UNIVERSIDADE CRUZEIRO DO SUL",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Celi Aparecida Espasandin Lopes",
+  "programa": "ENSINO DE CIÊNCIAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Formação continuada; Identidade docente; Pesquisa (auto)biográfica; Narrativas; Ensino Médio",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Educadores%20Estat%C3%ADsticos%20em%20Forma%C3%A7%C3%A3o%20Continuada%3A%20Ind%C3%ADcios%20de%20Identidade%20Docente%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educadores%20Estat%C3%ADsticos%20em%20Forma%C3%A7%C3%A3o%20Continuada%3A%20Ind%C3%ADcios%20de%20Identidade%20Docente&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37306640"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37306640",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Formação continuada",
+    "Identidade docente",
+    "Pesquisa (auto)biográfica",
+    "Narrativas",
+    "Ensino Médio"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37306640.svg",
+  "resumo": "A tese está organizada no formato multipaper numa coletânea com três artigos científicos, sendo dois deles produzidos a partir dos resultados de um curso de formação continuada na modalidade à distância (EaD) para professores de Matemática que ensinam probabilidade e estatística no Ensino Médio e outro fruto de um mapeamento realizado com foco na formação de professores na esfera da Educação Estatística. O eixo desse estudo recai sobre os indícios de redimensionamento da identidade do educador estatístico em professores de Matemática que ensinam probabilidade e estatística quando inseridos em um espaço virtual de formação e de práticas compartilhadas. Metodologicamente, a tese tem como lente teórica a metodologia (auto)biográfica e como instrumentos de produção de dados emprega o uso das narrativas escritas, orais, digitais e entrevistas narrativas. A produção dos dados tomou como base um curso de formação continuada intitulado de Práticas Pedagógicas em Educação Estatística para o Ensino Médio. Buscou-se responder à seguinte questão norteadora: “Quais indícios de redimensionamento da identidade docente são revelados por educadores estatísticos que atuam no Ensino Médio a partir da participação em um curso de práticas pedagógicas de probabilidade e estatística?” Estabelecemos um objetivo para cada um dos três artigos para responder à questão norteadora. No primeiro artigo o objetivo foi mapear a produção científica dos pesquisadores vinculados ao grupo de Educação Estatística (GT-12) da SBEM a partir das teses e dissertações disponíveis no banco de teses da CAPES e no Banco Digital de Teses e Dissertações (BDTD) que consideram como objeto de estudo a formação do professor de Matemática no que se refere ao ensino e aprendizagem da estatística e probabilidade. O segundo artigo tem por finalidade analisar as trajetórias formativas e de desenvolvimento profissional de professores de matemática que ensinam probabilidade e estatística no Ensino Médio por meio de suas narrativas (auto)biográficas, e por fim, o terceiro artigo tem como cerne identificar indícios de redimensionamento da identidade profissional de professores de matemática ao produzirem narrativas (auto)biográficas e se assumirem educadores estatísticos em suas aulas no Ensino Médio. Os resultados do primeiro artigo indicam ausências de trabalhos voltados para a compreensão da identidade do educador estatístico, resultando em um ineditismo dessa tese. No segundo artigo os achados apontaram alguns indícios de redimensionamento da identidade do educador estatístico dentre os quais podemos citar: compromisso com o redimensionamento das práticas pedagógicas e compartilhamento das análises reflexivas sobre as experiências obtidas ao longo do processo formativo. Por fim, o terceiro artigo discutirá com maior profundidade características associadas aos indícios de redimensionamento da identidade do educador estatístico com a inserção de mais dois movimentos dessa identidade, além dos já citados no segundo artigo: reconhecimento de novas perspectivas teórico-metodológicas para o ensino da Estatística e a manifestação sobre a importância da colaboração nos espaços formativos em Educação Estatística. Os três artigos apresentados convergem para evidenciar que embora não existam trabalhos voltados para a identidade do educador estatístico a partir do contexto analisado, é possível constatar redimensionamento de identidade do educador estatístico em espaços virtuais a distância que pautem suas ações dentro de um diálogo coletivo com reflexão e criticidade.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

@@ -1,0 +1,54 @@
+{
+  "id": "capes-16625076",
+  "autor": "Maria Aparecida Miranda",
+  "ano": 2015,
+  "tipo": "Dissertação",
+  "titulo": "Prova Brasil de Matemática: o ensino de Estatística para além do Tratamento da Informação",
+  "instituicao": "UNIVERSIDADE DE SÃO PAULO/ RIBEIRÃO PRETO",
+  "cidade": "",
+  "estado": "",
+  "regiao": "",
+  "orientador": "Elaine Sampaio Araujo",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Prova Brasil. Matemática. Tratamento da Informação. Estatística. Atividade Orientadora de Ensino.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Prova%20Brasil%20de%20Matem%C3%A1tica%3A%20o%20ensino%20de%20Estat%C3%ADstica%20para%20al%C3%A9m%20do%20Tratamento%20da%20Informa%C3%A7%C3%A3o%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Prova%20Brasil%20de%20Matem%C3%A1tica%3A%20o%20ensino%20de%20Estat%C3%ADstica%20para%20al%C3%A9m%20do%20Tratamento%20da%20Informa%C3%A7%C3%A3o&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/16625076"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "16625076",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Prova Brasil. Matemática. Tratamento da Informação. Estatística. Atividade Orientadora de Ensino."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-16625076.svg",
+  "resumo": "Essa pesquisa amparou-se na Teoria Histórico-Cultural para analisar itens propostos nos descritores do eixo Tratamento da Informação, da Prova Brasil, bem como suas orientações metodológicas referentes aos conceitos estatísticos. Buscamos, inicialmente, debater as políticas públicas educacionais implementadas pelo Estado na educação básica que culminaram nas avaliações externas. Nesse mesmo sentido, foi realizada uma análise dos objetivos de ensino descortinados pelos Parâmetros Curriculares Nacionais e pela Matriz de Referência da Prova Brasil. Das análises dos modelos de itens da avaliação, apresentados pelo Saeb/Prova Brasil, observou-se que os conteúdos questionados se referem basicamente aos conceitos de números e operações e pouco se relacionam à Estatística, prevalecendo assim a significação aritmética do conhecimento matemático, em consonância com as orientações metodológicas presentes em Matemática: orientações para o professor, Saeb/Prova Brasil, 4ª série/5º ano, ensino fundamental. O estudo aponta a necessidade de novas possibilidades de reorganizar o ensino de Estatística, ultrapassando fins utilitaristas e imediatistas e permitindo superar o caráter reducionista, que restringe as informações à leitura de tabelas e gráficos. Para tanto, faz-se necessário considerar o conhecimento estatístico como uma construção humana e social.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

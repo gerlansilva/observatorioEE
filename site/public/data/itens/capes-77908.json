@@ -1,0 +1,52 @@
+{
+  "id": "capes-77908",
+  "autor": "Ronaldo Seichi Wada",
+  "ano": 1996,
+  "tipo": "",
+  "titulo": "Estatística e ensino: um estudo sobre representações de professores do 3o. grau.",
+  "instituicao": "",
+  "cidade": "",
+  "estado": "",
+  "regiao": "",
+  "orientador": "",
+  "programa": "EDUCACAO",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "",
+  "grau": "",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Estat%C3%ADstica%20e%20ensino%3A%20um%20estudo%20sobre%20representa%C3%A7%C3%B5es%20de%20professores%20do%203o.%20grau.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estat%C3%ADstica%20e%20ensino%3A%20um%20estudo%20sobre%20representa%C3%A7%C3%B5es%20de%20professores%20do%203o.%20grau.&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/77908"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "77908",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/capes-77908.svg",
+  "resumo": "",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

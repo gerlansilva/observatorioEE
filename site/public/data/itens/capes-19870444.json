@@ -1,0 +1,54 @@
+{
+  "id": "capes-19870444",
+  "autor": "Mariele Josiane Fuchs",
+  "ano": 2013,
+  "tipo": "Dissertação",
+  "titulo": "Entendimentos do Ensino da Estatística em Cursos de Licenciatura: Aproximações e Distanciamentos na Formação do Professor de Matemática",
+  "instituicao": "UNIV. REGIONAL DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Catia Maria Nehring",
+  "programa": "EDUCAÇÃO NAS CIÊNCIAS",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino de Estatística. Educação Estatística. Ensino Superior. Formação inicial de professores de Matemática.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ENTENDIMENTOS%20DO%20ENSINO%20DA%20ESTAT%C3%8DSTICA%20EM%20CURSOS%20DE%20LICENCIATURA%3A%20APROXIMA%C3%87%C3%95ES%20E%20DISTANCIAMENTOS%20NA%20FORMA%C3%87%C3%83O%20DO%20PROFESSOR%20DE%20MATEM%C3%81TICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENTENDIMENTOS%20DO%20ENSINO%20DA%20ESTAT%C3%8DSTICA%20EM%20CURSOS%20DE%20LICENCIATURA%3A%20APROXIMA%C3%87%C3%95ES%20E%20DISTANCIAMENTOS%20NA%20FORMA%C3%87%C3%83O%20DO%20PROFESSOR%20DE%20MATEM%C3%81TICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19870444"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "19870444",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino de Estatística. Educação Estatística. Ensino Superior. Formação inicial de professores de Matemática."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-19870444.svg",
+  "resumo": "O presente estudo apresenta discussões acerca da Educação Estatística na formação inicial de professores de Matemática. Teve como objetivo analisar os entendimentos do ensino da Estatística na formação de futuros professores de Matemática, em cursos de licenciatura de universidades públicas e privadas do Rio Grande do Sul, expressos pelos documentos dos cursos, por coordenadores e professores formadores. Para tanto, foi desenvolvida uma pesquisa qualitativa, estando esse processo subdividido em análise documental e pesquisa de campo. Na análise documental, utilizaram-se como fonte de informações os projetos pedagógicos dos cursos e as matrizes curriculares, as ementas e os planos de ensino das disciplinas de Estatística e Probabilidade. A pesquisa de campo consistiu na aplicação de um questionário aos coordenadores dos referidos cursos, bem como um questionário aos professores formadores que ministram as respectivas disciplinas. Em virtude de os instrumentos utilizados para a construção de dados terem concedido um conjunto de textos e/ou documentos como fonte de informação, para discorrer sobre os resultados obtidos adotou-se, como metodologia, a análise textual discursiva, da qual emergiram os seguintes focos de análise: o perfil de formação do futuro professor; as disciplinas de Estatística e Probabilidade nos cursos de licenciatura em Matemática; o ensino de Estatística pelos docentes das universidades para a formação do professor de Matemática. As análises e as reflexões que resultaram dessa investigação evidenciam que os cursos de licenciatura em Matemática estão preocupados em formar professores com um perfil profissional voltado para as demandas do contexto escolar da Educação Básica, no que tange à formação para a cidadania, a partir da ênfase no perfil profissional crítico e reflexivo do futuro professor. Entretanto o enfoque concebido às disciplinas estocásticas e o trabalho docente desenvolvido pelos professores formadores apresenta lacunas em relação à formação do licenciando para trabalhar com a Educação Estatística nos ambientes escolares. Aspectos inerentes ao processo educativo com os saberes estatístico e probabilístico estão sendo desconsiderados, podendo acarretar dificuldades na abordagem desses conceitos por parte dos professores que ensinam Matemática na Educação Básica. Além disso, ainda há muito a ser discutido e investigado para que os respectivos cursos de formação inicial primem por uma Educação Estatística com vistas ao desenvolvimento das competências que possibilitam formar profissionais estatisticamente letrados.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

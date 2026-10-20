@@ -1,0 +1,58 @@
+{
+  "id": "capes-21788212",
+  "autor": "Thiago Campos Magalhaes",
+  "ano": 2016,
+  "tipo": "Dissertação",
+  "titulo": "Análise do Bloco de Conteúdos \"Tratamento da Informação\" no Currículo Básico do Ensino Médio das Escolas Estaduais do Espírito Santo: Um Estudo do Município de Aracruz",
+  "instituicao": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Tania Fernandes Bogutchi",
+  "programa": "ENSINO",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Estatística; Ensino e Aprendizagem; Sequência Didática",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22AN%C3%81LISE%20DO%20BLOCO%20DE%20CONTE%C3%9ADOS%20%22TRATAMENTO%20DA%20INFORMA%C3%87%C3%83O%22%20NO%20CURR%C3%8DCULO%20B%C3%81SICO%20DO%20ENSINO%20M%C3%89DIO%20DAS%20ESCOLAS%20ESTADUAIS%20DO%20ESP%C3%8DRITO%20SANTO%3A%20UM%20ESTUDO%20DO%20MUNIC%C3%8DPIO%20DE%20ARACRUZ%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AN%C3%81LISE%20DO%20BLOCO%20DE%20CONTE%C3%9ADOS%20%22TRATAMENTO%20DA%20INFORMA%C3%87%C3%83O%22%20NO%20CURR%C3%8DCULO%20B%C3%81SICO%20DO%20ENSINO%20M%C3%89DIO%20DAS%20ESCOLAS%20ESTADUAIS%20DO%20ESP%C3%8DRITO%20SANTO%3A%20UM%20ESTUDO%20DO%20MUNIC%C3%8DPIO%20DE%20ARACRUZ&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21788212"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "21788212",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Estatística",
+    "Ensino e Aprendizagem",
+    "Sequência Didática"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-21788212.svg",
+  "resumo": "Este trabalho, fruto de uma pesquisa qualitativa, foi despertado a partir da inquietação do pesquisador, que como docente na graduação em engenharias da Faculdade Pitágoras – Campus Linhares/ES, ao ministrar a disciplina de Estatística e Probabilidade, observou os baixos índices de aprovação e as dificuldades encontradas pelos alunos em sala de aula com relação à disciplina. Buscando sondar a base deste problema no Ensino Médio, objetivou-se neste trabalho verificar e analisar quais conteúdos estatísticos estão presentes no bloco denominado de “Tratamento da Informação”, previsto na Base Curricular Comum das Escolas Estaduais do Espírito Santo, para, a partir daí, organizar uma sequência didática que abordasse teoria e atividades voltadas ao Ensino dos Tópicos de Estatística Descritiva, e analisar sua resolução por grupos de estudantes de uma Escola Estadual e do Instituto Federal do Espírito Santo, situados na cidade de Aracruz. As atividades da sequência didática são apresentadas em um caderno, constitui-se em Produto dessa dissertação e em um material de apoio didático que está disponibilizado no site deste Mestrado para professores e alunos do Ensino Médio, ou para aqueles que se interessam pelo tema. Para a fundamentação da pesquisa, foram utilizados, como metodologia, os pressupostos da Análise da Prática Educativa, segundo Zabala (1998). O resultado desta pesquisa aponta inúmeras dificuldades encontradas pelos alunos participantes na resolução da sequência didática, concluindo-se ser importante promover-se interação entre ensino superior e médio, bem como elaborar materiais de apoio didático para uso de professores e alunos, a exemplo de pesquisas semelhantes a essa.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
+}

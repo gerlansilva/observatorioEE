@@ -1,0 +1,57 @@
+{
+  "id": "capes-21811011",
+  "autor": "Edmeire Aparecida Fontana",
+  "ano": 2016,
+  "tipo": "Dissertação",
+  "titulo": "A Resolução de Problemas e a Estatística nas Avaliações Externas do Nono Ano do Ensino Fundamental: SAEB e SARESP",
+  "instituicao": "Universidade Federal do Triângulo Mineiro",
+  "cidade": "",
+  "estado": "Minas Gerais",
+  "regiao": "Sudeste",
+  "orientador": "Ailton Paulo de Oliveira Junior",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Resolução de Problemas; Ensino de Estatística; Ensino Fundamental; SAEB. SARESP.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20Resolu%C3%A7%C3%A3o%20de%20Problemas%20e%20a%20Estat%C3%ADstica%20nas%20Avalia%C3%A7%C3%B5es%20Externas%20do%20Nono%20Ano%20do%20Ensino%20Fundamental%3A%20SAEB%20e%20SARESP%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20Resolu%C3%A7%C3%A3o%20de%20Problemas%20e%20a%20Estat%C3%ADstica%20nas%20Avalia%C3%A7%C3%B5es%20Externas%20do%20Nono%20Ano%20do%20Ensino%20Fundamental%3A%20SAEB%20e%20SARESP&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21811011"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "21811011",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Resolução de Problemas",
+    "Ensino de Estatística",
+    "Ensino Fundamental",
+    "SAEB. SARESP."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-21811011.svg",
+  "resumo": "FONTANA, Edmeire Aparecida. A Resolução de Problemas e a Estatística nas Avaliações Externas do Nono Ano do Ensino Fundamental: SAEB e SARESP. 2016. 178 f. Dissertação (Mestrado em Educação) – Programa de Pós-Graduação em Educação, Universidade Federal do Triângulo Mineiro, Uberaba, 2016. RESUMO A seguinte pesquisa tem como objetivo realizar uma análise nas provas e nos relatórios pedagógicos do Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (SARESP) e do Sistema de Avaliação da Educação Básica (SAEB) referente ao nono ano do Ensino Fundamental, avalia ções externas e de larga escala utilizadas no Brasil, e verificar se as questões que abordam conteúdos estatísticos são elaboradas utilizando a resolução de problemas e qual abordagem está sendo priorizada nas questões segundo as Orientações para avaliação e ensino em Educação Estatística (GAISE) - Estrutura Curricular para o Ensino Fundamental e Médio. A definição de problema que tomamos como referência deste trabalho é o de Van de Walle (2009), quando o define como qualquer tarefa ou atividade para a qual os estudantes não têm métodos ou regras prescritas ou memorizadas, nem a percepção de que haja um método específico para chegar à solução correta. A relação entre Estatística e Resolução de Problemas se sustenta nas reflexões de Lopes (2008) quando diz que não faz sentido trabalharmos atividades envolvendo conceitos estatísticos que não estejam vinculados a uma problemática. Propor coleta de dados desvinculada de uma situação-problema não levará à possibilidade de uma análise real. Construir gráficos e tabelas, desvinculados de um contexto ou relacionados a situações muito distantes do aluno, pode estimular a elaboração de um pensamento, mas não garante o desenvolvimento de sua criticidade. Para as questões do SAEB/Prova Brasil, não houve um recorte temporal definido devido a não divulgação das questões dessas avaliações para o público. No entanto, para as análises das questões do SARESP, fizemos um recorte temporal de 2007 a 2014, pois, segundo São Paulo (2009), os conteúdos, as competências, habilidades e a Escala de Proficiência adotada pelo SARESP a partir de 2007 são feitas com a mesma métrica usada no SAEB; sendo assim as avaliações são possíveis de comparações. Para a apresentação e análise de cada um das questões das provas do SAEB e SARESP referente ao nono ano do Ensino Fundamental, descrevemos o tipo do raciocínio utilizado na questão bem como o seu gabarito; analisamos a questão segundo a Resolução de Problemas e a Variabilidade proposta pelo documento; e finalmente sugerimos uma nova questão a partir da questão proposta pelo SAEB ou SARESP e que aborda conteúdos estatísticos utilizando a Resolução de Problemas eou a Variabilidade segundo o documento GAISE. Com base nas análises das questões envolvidas na pesquisa, concluímos que as questões analisadas das provas do SAEB e SARESP, não foram elaboradas utilizando resolução de problemas estatísticos e a abordagem da natureza de variabilidade, segundo o GAISE.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

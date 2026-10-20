@@ -1,0 +1,52 @@
+{
+  "id": "capes-470256",
+  "autor": "Admur Severino Pamplona",
+  "ano": 2009,
+  "tipo": "",
+  "titulo": "A formação estatística e pedagógica do professor de matemática em comunidades de prática",
+  "instituicao": "",
+  "cidade": "",
+  "estado": "",
+  "regiao": "",
+  "orientador": "",
+  "programa": "EDUCAÇÃO",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "",
+  "grau": "",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20forma%C3%A7%C3%A3o%20estat%C3%ADstica%20e%20pedag%C3%B3gica%20do%20professor%20de%20matem%C3%A1tica%20em%20comunidades%20de%20pr%C3%A1tica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20forma%C3%A7%C3%A3o%20estat%C3%ADstica%20e%20pedag%C3%B3gica%20do%20professor%20de%20matem%C3%A1tica%20em%20comunidades%20de%20pr%C3%A1tica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/470256"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "470256",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/capes-470256.svg",
+  "resumo": "",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

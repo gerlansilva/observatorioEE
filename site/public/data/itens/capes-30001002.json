@@ -1,0 +1,56 @@
+{
+  "id": "capes-30001002",
+  "autor": "Natalia Dias de Amorim",
+  "ano": 2017,
+  "tipo": "Dissertação",
+  "titulo": "O Pnld e o Currículo de Estatística em Livros Didáticos de Matemática no Ciclo de Alfabetização",
+  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Gilda Lisboa Guimaraes",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Estatística. PNLD; Livro didático; Anos iniciais",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20PNLD%20E%20O%20CURR%C3%8DCULO%20DE%20ESTAT%C3%8DSTICA%20EM%20LIVROS%20DID%C3%81TICOS%20DE%20MATEM%C3%81TICA%20NO%20CICLO%20DE%20ALFABETIZA%C3%87%C3%83O%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20PNLD%20E%20O%20CURR%C3%8DCULO%20DE%20ESTAT%C3%8DSTICA%20EM%20LIVROS%20DID%C3%81TICOS%20DE%20MATEM%C3%81TICA%20NO%20CICLO%20DE%20ALFABETIZA%C3%87%C3%83O&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30001002"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30001002",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Estatística. PNLD",
+    "Livro didático",
+    "Anos iniciais"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30001002.svg",
+  "resumo": "O ensino de estatística foi inserido no currículo brasileiro da educação básica a partir dos Parâmetros Curriculares Nacionais – PCN, no eixo denominado “tratamento da informação” nos anos iniciais. O livro didático é um dos instrumentos mais utilizados pelos professores em sala de aula. O Programa Nacional do Livro Didático – PNLD é um dos mais antigos programas do governo brasileiro se constituindo como uma importante política pública responsável pela avaliação, compra e distribuição dos livros para escolas públicas de todo país. Nesse sentindo é fundamental analisar quais competências/objetivos são utilizados e valorizados pelo governo através dos documentos Guias do PNLD e os currículos de estatística apresentados nos livros didáticos, construindo assim a relação do currículo prescrito e o apresentado. Assim, este estudo tem como objetivo analisar possíveis influências do Guia do PLND sobre o livro didático de matemática referente ao ensino de estatística no ciclo de alfabetização. Para tal analisamos as orientações referentes ao eixo tratamento da informação das 5 (cinco) últimas edições (2004, 2007, 2010, 2013 e 2016) dos Guias de Livros Didáticos de Matemática do PNLD para o ciclo de alfabetização (1º, 2º e 3º ano do Ensino Fundamental) e (quatro) coleções didáticas que foram aprovadas em todas essas edições, realizando a analise do manual do professor (parte geral e especifica) e as atividades ligadas ao ensino de estatística. Os resultados evidenciam que os Guias apresentam dois grandes momentos de modificação. No Guia de 2007, no qual o foco deixa ser a leitura e interpretação de gráficos apresentando a necessidade do trabalho com dados da realidade física e social do aluno, que precisam ser coletados, organizados e apresentados pelos alunos e no Guia de 2016 no qual há uma ampliação no sentido do ensino de estatística voltado para pesquisa e suas etapas desde a construção da questão da pesquisa até a realização de conclusões. Os manuais dos professores se apresentam coerentes em relação ao que é proposto nos Guias ao longo dos anos e apresentam melhoras no sentido de apresentação e detalhamento de atividades. No que se refere às atividades podemos perceber um grande foco ainda nas atividades ligadas a gráficos e tabelas, em detrimento da realização de pesquisas. Todas as coleções apresentam pesquisas, mas pouco é solicitado que o aluno realize pesquisas. Gráficos e tabelas são apresentados prontos ou para serem completados, seguidos de perguntas pontuais em situações em sua maioria fictícias. Algumas fases da pesquisa não são exploradas como a questão da pesquisa, escala ou amostra. Poucas coleções conseguem apresentar atividades que solicitem ao aluno a realização de conclusões. Esperamos que com a publicação do Guia 2016 as próximas edições das coleções possam incorporar todas as fases de uma pesquisa, discutindo a função das mesmas.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

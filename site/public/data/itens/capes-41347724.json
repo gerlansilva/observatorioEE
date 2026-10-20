@@ -1,0 +1,62 @@
+{
+  "id": "capes-41347724",
+  "autor": "Luciano da Silva Ferreira",
+  "ano": 2024,
+  "tipo": "Dissertação",
+  "titulo": "Utilização de Jogos de Cassino e do App Inventor Como Ferramentas de Ensino e Aprendizagem Matemática",
+  "instituicao": "UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO",
+  "cidade": "",
+  "estado": "Rio de Janeiro",
+  "regiao": "Sudeste",
+  "orientador": "Andre Luiz Martins Pereira",
+  "programa": "Matemática em Rede Nacional",
+  "area": "CIÊNCIAS E HUMANIDADES PARA A EDUCAÇÃO BÁSICA",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "análise combinatória; probabilidade; jogos de cassino; aplicativo móvel; App Inventor; planos de aulas; sequência didática",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22UTILIZA%C3%87%C3%83O%20DE%20JOGOS%20DE%20CASSINO%20E%20DO%20APP%20INVENTOR%20COMO%20FERRAMENTAS%20DE%20ENSINO%20E%20APRENDIZAGEM%20MATEM%C3%81TICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UTILIZA%C3%87%C3%83O%20DE%20JOGOS%20DE%20CASSINO%20E%20DO%20APP%20INVENTOR%20COMO%20FERRAMENTAS%20DE%20ENSINO%20E%20APRENDIZAGEM%20MATEM%C3%81TICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41347724"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "41347724",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "análise combinatória",
+    "probabilidade",
+    "jogos de cassino",
+    "aplicativo móvel",
+    "App Inventor",
+    "planos de aulas",
+    "sequência didática"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-41347724.svg",
+  "resumo": "O trabalho proposto tem como finalidade melhorar a compreensão dos conteúdos de análise combinatória e probabilidade por meio de atividades que simulem alguns jogos de cassino, foi desenvolvido um aplicativo para aparelhos móveis com o objetivo de simular situações que envolvem esses jogos. No primeiro momento, serão explicados esses jogos (roleta, poker e blackjack) com suas regras. Após a apresentação desses jogos iremos abordar os conteúdos de análise combinatória e probabilidade necessários para a resolução do problema. Todo conteúdo apresentado na aula será exemplificado utilizando os mais variados jogos de cassino com o objetivo de estimular a curiosidade de todos os alunos. Iremos apresentar um aplicativo chamado Casmath, construído a partir do software App Inventor. Esse jogo consiste num quiz de perguntas e respostas relacionadas a situações que envolvam análise combinatória e probabilidade nos jogos de roleta, poker e blackjack. Para que essa aula possa ser aplicada, foi construída uma sequência didática com oito planos de aulas, onde cada aula tem duração de 1 hora e 40 minutos cada. Com isso, este trabalho mostra que o Casmath pode ser usado para auxiliar no ensino de análise combinatória e probabilidade.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
+}

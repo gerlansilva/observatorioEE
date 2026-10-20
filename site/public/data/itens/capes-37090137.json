@@ -1,0 +1,58 @@
+{
+  "id": "capes-37090137",
+  "autor": "Andre Benito Fentanes Alvarez Marques",
+  "ano": 2022,
+  "tipo": "Dissertação",
+  "titulo": "Introdução ao conceito de probabilidade e o jogo Franc Carreau: uma abordagem pelo enfoque frequentista",
+  "instituicao": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE SÃO PAULO",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Cileda de Queiroz e Silva Coutinho",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Probabilidade; Engenharia didática; Franc Carreau",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Introdu%C3%A7%C3%A3o%20ao%20conceito%20de%20probabilidade%20e%20o%20jogo%20Franc%20Carreau%3A%20uma%20abordagem%20pelo%20enfoque%20frequentista%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Introdu%C3%A7%C3%A3o%20ao%20conceito%20de%20probabilidade%20e%20o%20jogo%20Franc%20Carreau%3A%20uma%20abordagem%20pelo%20enfoque%20frequentista&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37090137"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37090137",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Probabilidade",
+    "Engenharia didática",
+    "Franc Carreau"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37090137.svg",
+  "resumo": "Alunos do ensino fundamental tem contato com situações de caráter aleatório, independente da formação escolar. Por isso quando queremos introduzir o conceito de probabilidade não podemos descartar tais situações. Pensando deste modo nosso trabalho tem como objetivo geral: Analisar os elementos de letramento probabilístico mobilizados pela abordagem da visão frequentista com alunos do sexto ano do Ensino Fundamental, observar possíveis articulações entre estes elementos. Para isso utilizamos uma atividade baseada nos pressupostos da Engenharia Didática, que constituiu em uma simulação do jogo Franc Carreau. Esse jogo consiste em lançar uma moeda em um piso de azulejos de forma quadrada. Os jogadores então apostam na posição final de tal moeda: onde ela pode ficar completamente sobre um único azulejo (posição chamada “Franc-Carreau”), sobre uma junta entre dois azulejos ou sobre mais juntas. Para a execução do jogo foi criado um arquivo manipulativo no Geogebra afim de simular o lançamento da moeda no piso quadriculado. Junto com atividade os alunos preencheram uma tabela no Excel gerando um gráfico de convergência com a frequência acumulado, assim auxiliando na aprendizagem da probabilidade frequentista. A atividade demonstrou que alguns dos letramentos probabilísticos foram mobilizados durante sua aplicação. Demonstrando a importância de trabalhar a probabilidade frequentista com alunos do Ensino Fundamental. Ainda foi possível observar que a presença do fator crença ainda esta muito presente nos alunos do sexto ano",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
+}

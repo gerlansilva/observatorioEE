@@ -1,0 +1,57 @@
+{
+  "id": "capes-41347222",
+  "autor": "Davyd Coutinho Silva",
+  "ano": 2024,
+  "tipo": "Dissertação",
+  "titulo": "Análise de Probabilidades e Padrões Lotéricos na Mega-Sena: simulando estratégias e apresentando alternativas financeiras",
+  "instituicao": "UNIVERSIDADE FEDERAL DO PIAUÍ",
+  "cidade": "",
+  "estado": "Piauí",
+  "regiao": "Nordeste",
+  "orientador": "Kelton Silva Bezerra",
+  "programa": "Matemática em Rede Nacional",
+  "area": "CIÊNCIAS E HUMANIDADES PARA A EDUCAÇÃO BÁSICA",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Mega-sena; Python, Investimentos, Probabilidade",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22An%C3%A1lise%20de%20Probabilidades%20e%20Padr%C3%B5es%20Lot%C3%A9ricos%20na%20Mega-Sena%3A%20simulando%20estrat%C3%A9gias%20e%20apresentando%20alternativas%20financeiras%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=An%C3%A1lise%20de%20Probabilidades%20e%20Padr%C3%B5es%20Lot%C3%A9ricos%20na%20Mega-Sena%3A%20simulando%20estrat%C3%A9gias%20e%20apresentando%20alternativas%20financeiras&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41347222"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "41347222",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Mega-sena",
+    "Python, Investimentos, Probabilidade"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-41347222.svg",
+  "resumo": "A presente dissertação tem como objetivo mostrar alguns conceitos de probabilidade, tais como arranjos, combinações e permutações; conceitos estes que são geralmente trabalhados durante o ensino médio. Para além disso, serão realizados jogos simulados da Mega-sena, a fim de verificar diferentes critérios presentes no jogo da Mega-sena, que podem ser levados em consideração pelos apostadores e que muitas vezes passam despercebidos. Para isso será feito o uso da linguagem de programação Python. No mais, um dos capítulos conterá uma alternativa aos jogos de azar, que são os investimentos financeiros. Verificar-se-á os rendimentos obtidos por diferentes aplicações no mercado, bem como se projetará os rendimentos gerados por esses investimentos para períodos de tempo mais prolongados.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
+}

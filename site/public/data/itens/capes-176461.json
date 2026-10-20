@@ -1,0 +1,52 @@
+{
+  "id": "capes-176461",
+  "autor": "Nelva Maria Zibetti Sganzerla",
+  "ano": 2001,
+  "tipo": "",
+  "titulo": "Aspectos relevantes da estatística e a evasão de estudantes no curso de graduação em Estatística da UFPR.",
+  "instituicao": "",
+  "cidade": "",
+  "estado": "",
+  "regiao": "",
+  "orientador": "",
+  "programa": "EDUCAÇÃO",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "",
+  "grau": "",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Aspectos%20relevantes%20da%20estat%C3%ADstica%20e%20a%20evas%C3%A3o%20de%20estudantes%20no%20curso%20de%20gradua%C3%A7%C3%A3o%20em%20Estat%C3%ADstica%20da%20UFPR.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Aspectos%20relevantes%20da%20estat%C3%ADstica%20e%20a%20evas%C3%A3o%20de%20estudantes%20no%20curso%20de%20gradua%C3%A7%C3%A3o%20em%20Estat%C3%ADstica%20da%20UFPR.&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/176461"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "176461",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/capes-176461.svg",
+  "resumo": "",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

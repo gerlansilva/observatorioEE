@@ -1,0 +1,52 @@
+{
+  "id": "capes-110813",
+  "autor": "Robinson Panaino",
+  "ano": 1998,
+  "tipo": "",
+  "titulo": "Estatística no Ensino Fundamental: Uma Proposta de Inclusão de Conteúdos Matemáticos",
+  "instituicao": "",
+  "cidade": "",
+  "estado": "",
+  "regiao": "",
+  "orientador": "",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "",
+  "grau": "",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ESTAT%C3%8DSTICA%20NO%20ENSINO%20FUNDAMENTAL%3A%20UMA%20PROPOSTA%20DE%20INCLUS%C3%83O%20DE%20CONTE%C3%9ADOS%20MATEM%C3%81TICOS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESTAT%C3%8DSTICA%20NO%20ENSINO%20FUNDAMENTAL%3A%20UMA%20PROPOSTA%20DE%20INCLUS%C3%83O%20DE%20CONTE%C3%9ADOS%20MATEM%C3%81TICOS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/110813"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "110813",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/capes-110813.svg",
+  "resumo": "",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

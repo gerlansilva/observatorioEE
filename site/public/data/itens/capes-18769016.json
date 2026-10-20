@@ -1,0 +1,56 @@
+{
+  "id": "capes-18769016",
+  "autor": "Marcia Alessandra Souza Guimaraes",
+  "ano": 2014,
+  "tipo": "Dissertação",
+  "titulo": "Análise da Interação Entre Estudantes Cegos e Videntes em Aprendizagem de Conceitos Básicos de Probabilidade Mediada por uma Maquete Tátil",
+  "instituicao": "UNIVERSIDADE ESTADUAL DE SANTA CRUZ",
+  "cidade": "",
+  "estado": "Bahia",
+  "regiao": "Nordeste",
+  "orientador": "Aida Carvalho Vita",
+  "programa": "Educação Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Interação. Análise Instrumental. Maquete tátil. Conceitos básicos de Probabilidade. Estudantes cego e vidente.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22AN%C3%81LISE%20DA%20INTERA%C3%87%C3%83O%20ENTRE%20ESTUDANTES%20CEGOS%20E%20VIDENTES%20EM%20APRENDIZAGEM%20DE%20CONCEITOS%20B%C3%81SICOS%20DE%20PROBABILIDADE%20MEDIADA%20POR%20UMA%20MAQUETE%20T%C3%81TIL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AN%C3%81LISE%20DA%20INTERA%C3%87%C3%83O%20ENTRE%20ESTUDANTES%20CEGOS%20E%20VIDENTES%20EM%20APRENDIZAGEM%20DE%20CONCEITOS%20B%C3%81SICOS%20DE%20PROBABILIDADE%20MEDIADA%20POR%20UMA%20MAQUETE%20T%C3%81TIL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/18769016"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "18769016",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Interação. Análise Instrumental. Maquete tátil. Conceitos básicos de Probabilidade. Estudantes cego e vidente."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-18769016.svg",
+  "resumo": "Objetiva-se com esta pesquisa analisar a interação entre estudante cego e vidente na realização de atividades que abordam conceitos básicos de Probabilidade mediadas pela maquete tátil (M). Tem-se como objetivos específicos: investigar a interação entre os estudantes cego e vidente mediada pela (M); analisar a interação dos estudantes cego e vidente com (M); avaliar a relação dos estudantes com os conceitos básicos de Probabilidade mediada por (M); perscrutar a interação entre os estudantes e a pesquisadora. A maquete tátil é composta por um tabuleiro, fichas em emborrachado EVA nas texturas atoalhado e liso, sete colmeias, cem brinquedos, campanhia e as tarefas da sequência de ensino Os passeios aleatórios do Jefferson (SE PAJ). Esta sequência aborda os conceitos evento, diferença entre situação determinística e experimento aleatório, espaço amostral, frequência, estimativa de probabilidades por meio da frequência relativa, cálculo de probabilidade a partir da árvore de possibilidades, análise de padrões esperados e observado, e construção de pictogramas. A pesquisa foi realizada, em duas etapas, numa escola da rede estadual na cidade de Itabuna-BA, numa sala de recurso multifuncional. A primeira, estudo piloto, com dois estudantes videntes, do 3o ano do Ensino Médio, e a segunda, estudo principal, etapa com uma dupla de estudantes, sendo um cego e outro vidente. Utilizamos como referencial teórico o conceito de mediação de Vygotsky e a mediação instrumental proposta por Rabardel. A análise foi desenvolvida por meio do Modelo das Situações de Atividades Coletivas Instrumentadas – S.A.C.I. de Rabardel. Os dados foram coletados por meio de fotos e filmagens. Os resultados evidenciaram que a interação entre as estudantes, colegas de classe e amigas, inicialmente não ocorreu com espontaneidade, mas progressivamente durante a realização das atividades, com a apropriação da maquete tátil, dos conceitos envolvidos, e da intervenção da pesquisadora. Essa interação, tornou-se mais evidente quando as estudantes deram significado lúdico ao experimento. Observamos que a maquete tátil se mostrou eficaz como instrumento mediador da interação entre as estudantes e os conceitos básicos de Probabilidade. Por fim esperamos que esta pesquisa, por utilizar um material adequado a apropriação de conceitos matemáticos e por se voltar para a interação entre estudante cego e vidente, possa contribuir com os estudos que envolvem a Educação Matemática inclusiva em sala de aula regular.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
+}

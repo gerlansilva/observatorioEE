@@ -1,0 +1,57 @@
+{
+  "id": "capes-30001000",
+  "autor": "Dorghisllany Souza Holanda",
+  "ano": 2017,
+  "tipo": "Dissertação",
+  "titulo": "Investigando uma proposta de formação inicial de professores de matemática no interior de Pernambuco: conhecimentos docentes de combinatória",
+  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Rute Elizabete de Souza Rosa Borba",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Licenciatura em Matemática.; Conhecimentos docentes; Formação Inicial de Professores de Matemática; Combinatória",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Investigando%20uma%20proposta%20de%20forma%C3%A7%C3%A3o%20inicial%20de%20professores%20de%20matem%C3%A1tica%20no%20interior%20de%20Pernambuco%3A%20conhecimentos%20docentes%20de%20combinat%C3%B3ria%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Investigando%20uma%20proposta%20de%20forma%C3%A7%C3%A3o%20inicial%20de%20professores%20de%20matem%C3%A1tica%20no%20interior%20de%20Pernambuco%3A%20conhecimentos%20docentes%20de%20combinat%C3%B3ria&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30001000"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30001000",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Licenciatura em Matemática.",
+    "Conhecimentos docentes",
+    "Formação Inicial de Professores de Matemática",
+    "Combinatória"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30001000.svg",
+  "resumo": "A presente dissertação se fundamenta nas ideias de Ball, Thames e Phelps (2008), sobre os conhecimentos docentes, e tem como objetivo geral, analisar como são mobilizados conhecimentos docentes em uma disciplina voltada à Combinatória em um curso de Licenciatura em Matemática. Para alcançar o objetivo traçado, foram observadas 15 aulas da disciplina “Ensino de Combinatória: perspectivas teóricas e práticas”, do Centro Acadêmico do Agreste da UFPE, e foi realizada uma entrevista semiestruturada com a professora que a lecionou. A investigação teve como foco o trabalho da professora formadora, como esta conduziu as situações de aprendizado em sala de aula e como eram por ela abordados os conhecimentos docentes. Observou-se que a professora formadora, em diversos momentos, destacou a importância dos conhecimentos docentes para a atuação em sala de aula, preocupando-se com as necessidades evidenciadas pelos estudantes, tanto no que se refere ao conteúdo específico quanto ao ensino de Combinatória. A formadora possibilitou momentos, junto aos licenciandos, de resolução, análise e elaboração de questões, bem como de análise de erros, destacando nas atividades desenvolvidas o Conhecimento de Combinatória – tanto o Comum, quanto o Especializado, o Conhecimento de Combinatória e Ensino e o Conhecimento de Combinatória e Aluno. O Conhecimento do Horizonte de Combinatória e o Conhecimento do Currículo de Combinatória foram menos abordados, mas se fizeram presentes quando os licenciandos se envolveram na elaboração de um questionário para alunos da Educação Básica e de uma entrevista para o professor. O conjunto de atividades realizadas propiciaram a discussão de vários conhecimentos docentes e a articulação entre os conhecimentos ocorreu por intermédio da mediação da professora dos debates em sala de aula, a qual constantemente questionava os estudantes e gradativamente inseria novos conceitos. No estudo realizado foram identificadas relações importantes entre os conhecimentos docentes, evidenciou-se a possibilidade de trabalho que articule conhecimentos de conteúdo com conhecimentos pedagógicos e mostrou-se a necessidade de disciplinas, na formação inicial, com suficiente carga horária, que discutam a construção dos variados conhecimentos necessários para o trabalho do professor, em particular no que concerne à Combinatória.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

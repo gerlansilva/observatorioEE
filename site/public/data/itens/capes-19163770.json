@@ -1,0 +1,54 @@
+{
+  "id": "capes-19163770",
+  "autor": "Ana Sofia Aparicio Pereda",
+  "ano": 2015,
+  "tipo": "Tese",
+  "titulo": "Avaliação das atitudes no curso de estatística: contextos universitários latino-americanos",
+  "instituicao": "UNIVERSIDADE DE SÃO PAULO",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Oscar Joao Abdounur",
+  "programa": "EDUCAÇÃO",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Atitudes frente à estatística, Comparação transcultural, Ensino universitário, Escala de atitudes, Estudantes universitários",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Avalia%C3%A7%C3%A3o%20das%20atitudes%20no%20curso%20de%20estat%C3%ADstica%3A%20contextos%20universit%C3%A1rios%20latino-americanos%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Avalia%C3%A7%C3%A3o%20das%20atitudes%20no%20curso%20de%20estat%C3%ADstica%3A%20contextos%20universit%C3%A1rios%20latino-americanos&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19163770"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "19163770",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Atitudes frente à estatística, Comparação transcultural, Ensino universitário, Escala de atitudes, Estudantes universitários"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-19163770.svg",
+  "resumo": "O objetivo deste estudo é fornecer uma visão geral e atualizada da pesquisa empírica e transcultural das atitudes dos estudantes universitários em relação à Estatística. A nossa enfases é a avaliação a nivel pessoal, especialmente o estudo do aspecto afetivo através das atitudes frente à Estatística para o qual fazemos uma revisão das escalas propostas assim como propomos uma escala originalmente desenvolvida para professores de escola e adaptada neste estudo. Considerando os resultados, fazemos um longo estudo das caracteristicas psicométricas desta escala em populaçoes de estudantes universitarios de diferentes especialidades e caracteristicas do Perú, Colombia, Chile e Brasil. Antes de fazer a parte avaliativa e comparativa entre os países, fazemos uma proposta metodológica das práticas de avaliação do processo de ensino-aprendizagem em cursos de Estatística para uma instituição superior considerando uma adaptação da proposta do Enfoque Ontosemiotico da cognição e Instrução Matemática (EOS) de Godino et al, 2008. Também fazemos uma aproximação na avaliação institucional dos cursos de graduação e pós graduação em Estatística desenvolvidos pelo governo federal no Brasil e as políticas de avaliação no Peru, Colômbia e Chile. Todos os capítulos são trabalhos a maneira de artigos trabalhados durante o período do doutorado.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

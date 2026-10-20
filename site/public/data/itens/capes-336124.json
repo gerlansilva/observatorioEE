@@ -1,0 +1,52 @@
+{
+  "id": "capes-336124",
+  "autor": "Amilton Braio Ara",
+  "ano": 2006,
+  "tipo": "",
+  "titulo": "O ensino de Estatística e a busca do equilíbrio entre os aspectos determinísticos e aleatórios da realidade",
+  "instituicao": "",
+  "cidade": "",
+  "estado": "",
+  "regiao": "",
+  "orientador": "",
+  "programa": "EDUCAÇÃO",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "",
+  "grau": "",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ensino%20de%20Estat%C3%ADstica%20e%20a%20busca%20do%20equil%C3%ADbrio%20entre%20os%20aspectos%20determin%C3%ADsticos%20e%20aleat%C3%B3rios%20da%20realidade%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ensino%20de%20Estat%C3%ADstica%20e%20a%20busca%20do%20equil%C3%ADbrio%20entre%20os%20aspectos%20determin%C3%ADsticos%20e%20aleat%C3%B3rios%20da%20realidade&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/336124"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "336124",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/capes-336124.svg",
+  "resumo": "",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

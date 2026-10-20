@@ -1,0 +1,58 @@
+{
+  "id": "capes-42551622",
+  "autor": "Anne Cristiny Borges",
+  "ano": 2024,
+  "tipo": "Dissertação",
+  "titulo": "Análise Combinatória, Estatística e Probabilidade na Formação Inicial de Professores de Matemática em Rondônia",
+  "instituicao": "UNIVERSIDADE FEDERAL DE RONDÔNIA",
+  "cidade": "",
+  "estado": "Rondônia",
+  "regiao": "Norte",
+  "orientador": "Eliana Alves Pereira Leite",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Análise Combinatória; Estatística; Probabilidade; formação inicial de professores; Licenciatura em Matemática",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22AN%C3%81LISE%20COMBINAT%C3%93RIA%2C%20ESTAT%C3%8DSTICA%20E%20PROBABILIDADE%20NA%20FORMA%C3%87%C3%83O%20INICIAL%20DE%20PROFESSORES%20DE%20MATEM%C3%81TICA%20EM%20ROND%C3%94NIA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AN%C3%81LISE%20COMBINAT%C3%93RIA%2C%20ESTAT%C3%8DSTICA%20E%20PROBABILIDADE%20NA%20FORMA%C3%87%C3%83O%20INICIAL%20DE%20PROFESSORES%20DE%20MATEM%C3%81TICA%20EM%20ROND%C3%94NIA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42551622"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "42551622",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Análise Combinatória",
+    "Estatística",
+    "Probabilidade",
+    "formação inicial de professores",
+    "Licenciatura em Matemática"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-42551622.svg",
+  "resumo": "Esta pesquisa teve como objetivo analisar quais conhecimentos sobre Análise Combinatória, Estatística e Probabilidade têm sido viabilizados em dois cursos presenciais de Licenciatura em Matemática do interior de Rondônia. Para tanto, na fundamentação teórica, discutiu-se sobre Análise Combinatória, Estatística e Probabilidade (aspectos históricos, definições, discussões expressas no currículo escolar e estratégias de ensino) e formação inicial de professores de Matemática, sendo necessário recorrer a autores como Morgado (2000), Costa (2011), Viali (2010), Pina e Gama (2020), Dellalibera et al (2018), Onuchic e Allevato (2005), Lima e Reali (2010), Leite (2016), Costa e Nacarato (2011), Mizukami (2004), Rocha (2005), entre outros. Metodologicamente, a pesquisa é de abordagem qualitativa do tipo de campo. O contexto da investigação são dois cursos presenciais de Licenciatura em Matemática, sendo um ofertado pela Universidade Federal de Rondônia (UNIR) – Campus de Ji-Paraná e o outro pelo Instituto Federal de Rondônia (IFRO) – Campus de Cacoal. Participaram da pesquisa 11 acadêmicos desses cursos. A produção de dados foi realizada mediante a análise dos Projetos Pedagógicos dos Cursos (PPCs), aplicação do questionário, da entrevista semiestruturada e diário de campo. Os dados foram apresentados e interpretados em três eixos temáticos, a saber: Análise Combinatória, Estatística e Probabilidade nos PPCs de Licenciatura em Matemática da UNIR, Campus de Ji-Paraná, e do IFRO, Campus de Cacoal; Conhecimentos construídos na formação inicial sobre o quê e como ensinar Análise Combinatória, Estatística e Probabilidade na perspectiva dos acadêmicos; e Ensinar Análise Combinatória, Estatística e Probabilidade na Educação Básica: considerações e projeções dos licenciandos. Dentre os resultados, destaca-se que, quanto aos PPCs, foram identificados conteúdos voltados para os três campos de conhecimento, sendo mais abordados os que versam sobre Estatística e o menos contemplados os que se referem a Análise Combinatória e Probabilidade. Quanto aos acadêmicos, notou-se que eles reconhecem contribuições que se referem à aprendizagem dos conteúdos, mas também evidenciam lacunas, sobretudo em relação à forma como foi ensinado Análise Combinatória, Estatística e Probabilidade, sendo privilegiada a perspectiva tradicional. Embora os acadêmicos tenham relatado críticas por não terem vivenciado experiências significativas nos componentes curriculares específicos, relataram aprendizagens oriundas de outros espaços formativos (estágio supervisionado, projeto de extensão, PIBID, PIBIC, PROBEN e Residência Pedagógica). Assim, espera-se que os resultados desta pesquisa viabilizem reflexões e fomentem debates sobre o quê e a forma como os conteúdos de Análise Combinatória, Estatística e Probabilidade têm sido trabalhados na Licenciatura em Matemática e, por conseguinte, quais mudanças precisam ser realizadas para que seja propiciada uma formação coerente com as demandas da sociedade.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

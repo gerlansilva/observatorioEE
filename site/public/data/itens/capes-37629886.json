@@ -1,0 +1,59 @@
+{
+  "id": "capes-37629886",
+  "autor": "Jose Vitor Ramos de Lima",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "Prototipação de uma Versão Digital do Jogo do Nim com Base no Modelo de Processo de Software da Engenharia DIDÁTICO- Informática",
+  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Franck Gilbert Rene Bellemain",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "jogo do nim; jogos combinatórios; jogos digitais; engenharia didático-informática (EDI)",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22PROTOTIPA%C3%87%C3%83O%20DE%20UMA%20VERS%C3%83O%20DIGITAL%20DO%20JOGO%20DO%20NIM%20COM%20BASE%20NO%20MODELO%20DE%20PROCESSO%20DE%20SOFTWARE%20DA%20ENGENHARIA%20DID%C3%81TICO-%20INFORM%C3%81TICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PROTOTIPA%C3%87%C3%83O%20DE%20UMA%20VERS%C3%83O%20DIGITAL%20DO%20JOGO%20DO%20NIM%20COM%20BASE%20NO%20MODELO%20DE%20PROCESSO%20DE%20SOFTWARE%20DA%20ENGENHARIA%20DID%C3%81TICO-%20INFORM%C3%81TICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37629886"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37629886",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "jogo do nim",
+    "jogos combinatórios",
+    "jogos digitais",
+    "engenharia didático-informática (EDI)"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37629886.svg",
+  "resumo": "Esta pesquisa teve como objetivo desenvolver um protótipo de uma versão digital do Jogo do Nim em sua modalidade com Uma Pilha, alinhado metodologicamente pela Engenharia Didático-Informática (EDI). O Jogo do Nim foi um dos primeiros jogos a ser estudado matematicamente e teve sua primeira publicação produzida por Bouton (1901). Trata-se de um jogo simples por meio do qual podem ser trabalhados diversos conhecimentos matemáticos. Para desenvolver sua versão digital, três objetivos específicos foram estabelecidos: (a) Analisar o Jogo do Nim sob a ótica das Dimensões Epistemológica, Cognitiva, Didática e informática de modo a estabelecer funcionalidades para o protótipo; (b) Realizar a prototipação e a validação da versão digital do Jogo do Nim com Uma Pilha, baseadas no modelo de processo de software proposto pela EDI; (c) Identificar as potencialidades e limitações metodológicas da utilização do modelo de processo de software desenvolvido por meio da EDI no Jogo do Nim com Uma Pilha. O percurso metodológico foi realizado a partir dos ciclos “analítico-hipotético” e “hipotético-experimental”, propostos pela EDI, assim como a partir de uma Revisão Sistemática de Literatura relativa à temática do Jogo do Nim. Como resultados desta pesquisa, apresentou-se a caracterização de jogos combinatórios na Educação Matemática apresentando a Teoria dos Jogos Combinatórios com o intuito de reduzir jogos matemáticos ao Nim. Além disso, foi apresentado uma articulação entre a Teoria das Situações Didáticas com os Jogos Combinatórios. Também foi mostrado como resultado o Jogo do Nim digital desenvolvido em duas plataformas – Scratch e Jamboard – a partir da vivência em uma disciplina do mestrado e da aplicação de uma oficina em um evento científico. Com isso, o modelo de processo de software utilizado, a EDI, possibilitou um percurso metodológico satisfatório para a produção de uma versão digital do Jogo do Nim.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
+}

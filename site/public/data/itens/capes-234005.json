@@ -1,0 +1,52 @@
+{
+  "id": "capes-234005",
+  "autor": "Celi Aparecida Espasandin Lopes",
+  "ano": 2003,
+  "tipo": "",
+  "titulo": "'O conhecimento profissional dos professores e suas relações com estatística e probabilidade na educação infantil.'",
+  "instituicao": "",
+  "cidade": "",
+  "estado": "",
+  "regiao": "",
+  "orientador": "",
+  "programa": "EDUCAÇÃO",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "",
+  "grau": "",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22%27O%20conhecimento%20profissional%20dos%20professores%20e%20suas%20rela%C3%A7%C3%B5es%20com%20estat%C3%ADstica%20e%20probabilidade%20na%20educa%C3%A7%C3%A3o%20infantil.%27%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=%27O%20conhecimento%20profissional%20dos%20professores%20e%20suas%20rela%C3%A7%C3%B5es%20com%20estat%C3%ADstica%20e%20probabilidade%20na%20educa%C3%A7%C3%A3o%20infantil.%27&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/234005"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "234005",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/capes-234005.svg",
+  "resumo": "",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

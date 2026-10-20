@@ -1,0 +1,59 @@
+{
+  "id": "capes-37723635",
+  "autor": "Jose Ronaldo Alves Araujo",
+  "ano": 2023,
+  "tipo": "Tese",
+  "titulo": "Contributos de recursos digitais para análise gráfica de dados na disciplina estatística de uma formação inicial de professores",
+  "instituicao": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE SÃO PAULO",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Celina Aparecida Almeida Pereira Abar",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Gapminder; GeoGebra; SPSS; Transnumeração; Visualização de dados; Análise gráfica de dados estatísticos",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Contributos%20de%20recursos%20digitais%20para%20an%C3%A1lise%20gr%C3%A1fica%20de%20dados%20na%20disciplina%20estat%C3%ADstica%20de%20uma%20forma%C3%A7%C3%A3o%20inicial%20de%20professores%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Contributos%20de%20recursos%20digitais%20para%20an%C3%A1lise%20gr%C3%A1fica%20de%20dados%20na%20disciplina%20estat%C3%ADstica%20de%20uma%20forma%C3%A7%C3%A3o%20inicial%20de%20professores&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37723635"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37723635",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Gapminder",
+    "GeoGebra",
+    "SPSS",
+    "Transnumeração",
+    "Visualização de dados",
+    "Análise gráfica de dados estatísticos"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37723635.svg",
+  "resumo": "Esta pesquisa se concentra na discussão sobre recursos digitais na educação estatística, especificamente o Gapminder, o GeoGebra e o SPSS, e seus possíveis benefícios na construção e análise gráfica de dados. O estudo foi realizado durante o estágio de doutorado do pesquisador na Linz School of Education da Johannes Kepler Universität, Áustria, de outubro de 2021 a janeiro de 2022, durante a participação nas aulas da disciplina de Estatística ministrada pelo professor Dr. Zsolt Lavicza aos alunos de geografia, educação física e outros cursos de formação inicial de professores. Durante a disciplina, foram propostas atividades nas quais os futuros professores utilizaram recursos digitais para analisar dados de problemas reais diversos. Pesquisas preliminares indicaram a escassez de estudos sobre o uso de tecnologias digitais no ensino de Estatística. Como referenciais teóricos, foram adotados o conceito de visualização de dados, que permite explorar e comunicar informações relevantes sobre grandes volumes de dados por meio de representações gráficas, e o conceito de transnumeração, que se refere à formação e alteração de representações de dados para um melhor entendimento. As três atividades propostas, baseadas no ciclo investigativo PPDAC (problema, plano, dados, análises e conclusões), foram realizadas com cada um dos recursos digitais, permitindo que os futuros professores delimitassem problemas relevantes, realizassem busca, limpeza e organização dos dados relacionados aos problemas escolhidos. A análise dos relatórios produzidos por cinco duplas de futuros professores possibilitou a seleção dos materiais para esta pesquisa. O corpus de análise consiste nos resultados dos relatórios de dois dos grupos, analisados à luz dos referenciais teóricos da transnumeração e da visualização de dados. Na primeira atividade, utilizando o Gapminder, a organização e a análise gráfica dos dados foram realizadas para contribuir na compreensão das variáveis exploradas. Na segunda atividade, com o GeoGebra, os participantes importaram, organizaram e construíram representações de dados, além de realizar análises relacionadas. Na terceira atividade, com a utilização do SPSS, os participantes executaram análises de correlação entre pelo menos três pares de variáveis e interpretaram os resultados, seguindo as fases do ciclo investigativo. Os resultados obtidos demonstram os benefícios de cada um dos recursos digitais e indicam que sua utilização pode complementar significativamente a aprendizagem de conceitos estatísticos",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

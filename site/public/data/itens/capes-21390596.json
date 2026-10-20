@@ -1,0 +1,56 @@
+{
+  "id": "capes-21390596",
+  "autor": "Rogerio Lopes Craveiro",
+  "ano": 2016,
+  "tipo": "Dissertação",
+  "titulo": "PLATAFORMA ON-LINE PARA O ENSINO DE BIOESTATÍSTICA: Ambiente virtual de aprendizagem e software estatístico como ferramentas de apoio ao ensino. Rio Branco – Ac 2016",
+  "instituicao": "UNIVERSIDADE FEDERAL DO ACRE",
+  "cidade": "",
+  "estado": "Acre",
+  "regiao": "Norte",
+  "orientador": "Edcarlos Miranda de Souza",
+  "programa": "Ensino de Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "moodle; action; bioestatística.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22PLATAFORMA%20ON-LINE%20PARA%20O%20ENSINO%20DE%20BIOESTAT%C3%8DSTICA%3A%20Ambiente%20virtual%20de%20aprendizagem%20e%20software%20estat%C3%ADstico%20como%20ferramentas%20de%20apoio%20ao%20ensino.%20Rio%20Branco%20%E2%80%93%20Ac%202016%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PLATAFORMA%20ON-LINE%20PARA%20O%20ENSINO%20DE%20BIOESTAT%C3%8DSTICA%3A%20Ambiente%20virtual%20de%20aprendizagem%20e%20software%20estat%C3%ADstico%20como%20ferramentas%20de%20apoio%20ao%20ensino.%20Rio%20Branco%20%E2%80%93%20Ac%202016&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21390596"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "21390596",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "moodle",
+    "action",
+    "bioestatística."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-21390596.svg",
+  "resumo": "Este estudo tem como objetivo apresentar uma proposta do uso do software estatístico Action em ambientes virtuais de aprendizagem como a Plataforma Moodle no processo de ensino e aprendizagem sobre a exploração de dados biológicos. O princípio norteador do presente trabalho é a oportunidade de refletir, analisar e lidar com o ensino de Estatística em ambiente mediados por recursos tecnológicos. Buscamos verificar de que maneira o uso de softwares em ambientes virtuais de aprendizagem podem contribuir para o processo de aquisição do conhecimento. Levantamos um referencial teórico focando em especial pesquisadores que abordam mais especificamente a inserção de tecnologias na educação, e em alguns autores que abordam as teorias da aprendizagem. A pesquisa foi desenvolvida tendo como proposta de público alvo os alunos da Universidade Federal do Acre – UFAC, Campus Floresta, na cidade de Cruzeiro do Sul – Acre, em uma disciplina de Bioestatística. A pesquisa resoltou em dois produtos educacionais: Produto I – Tutorial de Utilização da Plataforma Moodle para o Curso de Bioestatística I e Produto II - Livro Análise Exploratória de Dados Biológicos, com recursos de vídeos tutoriais sobre a utilização do software Action 2.5. A pesquisa serviu principalmente para modificar nosso entendimento sobre o processo de aquisição do conhecimento, sobre as ideias que estão sendo apresentadas nos estudos desta área e sobre como podemos modificar nossa postura como professores de uma geração caracterizada pela manipulação tecnológica.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

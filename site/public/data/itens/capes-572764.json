@@ -1,0 +1,52 @@
+{
+  "id": "capes-572764",
+  "autor": "Carlos Eduardo de Campos",
+  "ano": 2011,
+  "tipo": "",
+  "titulo": "\"Análise Combinatória e Proposta Curricular Paulista: um estudo dos problemas de contagem\"",
+  "instituicao": "",
+  "cidade": "",
+  "estado": "",
+  "regiao": "",
+  "orientador": "",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "",
+  "grau": "",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22%22An%C3%A1lise%20Combinat%C3%B3ria%20e%20Proposta%20Curricular%20Paulista%3A%20um%20estudo%20dos%20problemas%20de%20contagem%22%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=%22An%C3%A1lise%20Combinat%C3%B3ria%20e%20Proposta%20Curricular%20Paulista%3A%20um%20estudo%20dos%20problemas%20de%20contagem%22&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/572764"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "572764",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/capes-572764.svg",
+  "resumo": "",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

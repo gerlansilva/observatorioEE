@@ -1,0 +1,60 @@
+{
+  "id": "capes-24232609",
+  "autor": "Marcel Brito Soares",
+  "ano": 2018,
+  "tipo": "Dissertação",
+  "titulo": "O Ensino de Probabilidade por meio de Atividades",
+  "instituicao": "UNIVERSIDADE DO ESTADO DO PARÁ",
+  "cidade": "",
+  "estado": "Pará",
+  "regiao": "Norte",
+  "orientador": "Pedro Franco de Sá",
+  "programa": "ENSINO DE MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino; Engenharia Didática; Ensino de Matemática; Ensino de Matemática por Atividades; Ensino de Probabilidade por Atividades",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20Ensino%20de%20Probabilidade%20por%20meio%20de%20Atividades%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20Ensino%20de%20Probabilidade%20por%20meio%20de%20Atividades&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/24232609"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "24232609",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino",
+    "Engenharia Didática",
+    "Ensino de Matemática",
+    "Ensino de Matemática por Atividades",
+    "Ensino de Probabilidade por Atividades"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-24232609.svg",
+  "resumo": "Este trabalho apresenta os resultados de uma pesquisa que teve como objetivo avaliar os efeitos de uma sequência didática para o ensino de Probabilidade por meio de atividades sobre os aspectos conceituais e desempenho da resolução de questões envolvendo o assunto. A parte experimental da pesquisa foi desenvolvida em uma escola pública federal de Abaetetuba/PA com 20 alunos do 2º ano do Ensino Médio, adotou-se como metodologia de pesquisa a Engenharia Didática. A análise dos resultados se deu pelo registro dos discentes nas atividades, confrontação das análises a priori e a posteriori, pela comparação entre os resultados do pré-teste com o pós-teste, análise dos erros ocorridos no pós-teste, bem como pela aplicação do Coeficiente de Correlação Linear de Pearson e do Teste de Hipótese. Os resultados da comparação apontaram aumento nas notas do pós-teste; o teste de hipótese comprovou que as notas do pós-teste tiveram melhora estatisticamente em relação ao pré-teste e a análise das correlações mostrou que nenhum dos fatores socioeconômicos levantados teve interferência direta nos resultados obtidos, constatando que o bom resultado do experimento deveu-se sobretudo à metodologia utilizada.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
+}

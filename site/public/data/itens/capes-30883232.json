@@ -1,0 +1,58 @@
+{
+  "id": "capes-30883232",
+  "autor": "Ricardo Fernando de Souza",
+  "ano": 2019,
+  "tipo": "Dissertação",
+  "titulo": "Recursos da Tecnologia da Informação e Comunicação no Ensino da Estatística: O Geogebra",
+  "instituicao": "UNIVERSIDADE CRUZEIRO DO SUL",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Laura Marisa Carnielo Calejon",
+  "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Estatística Descritiva; GeoGebra; Aprendizagem Significativa; Tecnologia da Informação e Comunicação; TIC´s",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22RECURSOS%20DA%20TECNOLOGIA%20DA%20INFORMA%C3%87%C3%83O%20E%20COMUNICA%C3%87%C3%83O%20NO%20ENSINO%20DA%20ESTAT%C3%8DSTICA%3A%20O%20GEOGEBRA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=RECURSOS%20DA%20TECNOLOGIA%20DA%20INFORMA%C3%87%C3%83O%20E%20COMUNICA%C3%87%C3%83O%20NO%20ENSINO%20DA%20ESTAT%C3%8DSTICA%3A%20O%20GEOGEBRA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30883232"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30883232",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Estatística Descritiva",
+    "GeoGebra",
+    "Aprendizagem Significativa",
+    "Tecnologia da Informação e Comunicação",
+    "TIC´s"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30883232.svg",
+  "resumo": "O presente estudo demonstra uma análise da utilização dos recursos da tecnologia da informação e comunicação no ensino da estatística para alunos do terceiro ano do ensino médio, de uma instituição de ensino particular, do Estado de São Paulo. Nesse sentido, foi elaborada e analisada uma sequência didática que incluiu o software GeoGebra para a realização de atividades, no ensino e aprendizagem da estatística descritiva. A experiência do pesquisador enquanto docente constatou, que os alunos demonstram dificuldades na interpretação de enunciados e manipulação de equações algébricas para a resolução de problemas matemáticos, além do questionamento sobre a possibilidade de aulas diferenciadas. Como jovens, vivem em um universo inundado pelos recursos das TIC´s, tornando-se necessário compreender as possibilidades pedagógicas destes recursos. O estudo teve como fundamentação a teoria de Ausubel, que sistematizou as condições de organização do ensino para promover uma aprendizagem que seja significativa na educação escolar. A sequência didática organizada sustenta-se na análise crítica dos conteúdos propostos para o ensino médio, pelos documentos que orientam os professores, tais como os PCN´s e pelas reflexões sobre as possíveis contribuições das TIC`s, enquanto ferramentas pedagógicas. A pesquisa caracteriza-se como um estudo de caso, tendo oito alunos do terceiro ano do ensino médio como participantes. Foi elaborada uma avaliação inicial e final, para verificar a eficiência da sequência didática que aconteceu em seis encontros. Os dados da pesquisa apontaram que os alunos nesta etapa de escolarização apresentam apropriação pouco adequada de conceitos da estatística previstos para os anos finais do ensino fundamental II. A sequência didática envolvendo o GeoGebra demonstrou a ampliação da compreensão de conceitos da estatística descritiva previstos também para o ensino médio. Para alguns conceitos como o de desvio padrão a sequência didática proposta mostrou menor eficiência.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

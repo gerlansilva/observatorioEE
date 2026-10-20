@@ -1,0 +1,59 @@
+{
+  "id": "capes-30001674",
+  "autor": "Juliana Azevedo Montenegro",
+  "ano": 2018,
+  "tipo": "Tese",
+  "titulo": "Identificação, Conversão e Tratamento de Registros de Representações Semióticas Auxiliando a Aprendizagem de Situações Combinatórias",
+  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Rute Elizabete de Souza Rosa Borba",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Identificação; Conversão; Tratamento; Situações combinatórias; Representações intermediárias; Ensino Fundamental",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22IDENTIFICA%C3%87%C3%83O%2C%20CONVERS%C3%83O%20E%20TRATAMENTO%20DE%20REGISTROS%20DE%20REPRESENTA%C3%87%C3%95ES%20SEMI%C3%93TICAS%20AUXILIANDO%20A%20APRENDIZAGEM%20DE%20SITUA%C3%87%C3%95ES%20COMBINAT%C3%93RIAS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=IDENTIFICA%C3%87%C3%83O%2C%20CONVERS%C3%83O%20E%20TRATAMENTO%20DE%20REGISTROS%20DE%20REPRESENTA%C3%87%C3%95ES%20SEMI%C3%93TICAS%20AUXILIANDO%20A%20APRENDIZAGEM%20DE%20SITUA%C3%87%C3%95ES%20COMBINAT%C3%93RIAS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30001674"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30001674",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Identificação",
+    "Conversão",
+    "Tratamento",
+    "Situações combinatórias",
+    "Representações intermediárias",
+    "Ensino Fundamental"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30001674.svg",
+  "resumo": "O objetivo desta pesquisa é analisar o papel que a identificação e as transformações de conversão e de tratamento de registros de representação têm na ampliação do conhecimento de Combinatória por parte de estudantes do Ensino Fundamental. Para isso, se faz necessária a discussão das diferentes situações combinatórias e dos seus invariantes prescritivos e em-ação. Dessa forma, a pesquisa se ampara na Teoria dos Registros de Representação Semiótica (DUVAL, 2003) e na Teoria dos Campos Conceituais (VERGNAUD, 1986), bem como em autores que abordam as duas teorias e o ensino da Combinatória no Ensino Fundamental. Na investigação, foram realizados dois estudos. O primeiro de sondagem de conhecimentos sobre a identificação de conversões – da língua natural para árvore de possibilidade ou para listagem e dessas para a expressão numérica – nas diferentes situações combinatórias (arranjos, combinações, permutações e produtos cartesianos); e o segundo estudo de intervenção em que essas situações combinatórias foram trabalhadas por meio de representações auxiliares de transição (árvore de possibilidades e listagem sistematizada), que se caracterizam como uma representação intermediária entre o registro de partida (língua natural) e o registro de chegada (expressão numérica). No primeiro estudo, com estudantes do 5º ano do Ensino Fundamental, foram confirmadas as hipóteses levantadas inicialmente, destacando que a identificação não é igualmente reconhecida em todas as situações combinatórias, tanto que os estudantes mostraram maior dificuldade com uma situação combinatória específica – a combinação. As identificações também são influenciadas pela conversão efetuada, sendo a conversão para expressão numérica a mais difícil de ser identificada. Em função dos resultados do primeiro estudo, no segundo estudo foram propostas distintas intervenções em turmas dos 5º, 7º e 9º anos do Ensino Fundamental. Neste estudo os resultados indicam que ambas as representações intermediárias – árvore de possibilidades e listagem sistematizada – são bons caminhos para o ensino da Combinatória, uma vez que ambos os grupos de intervenção avançaram em seus desempenhos. Apesar disso, quando se analisa por tipo de problema em cada ano de escolarização, percebe-se que no pós-teste o grupo que trabalhou com árvores (G1) apresentou melhores desempenhos em comparação com o grupo que trabalhou com listagens (G2). Também se percebe que no G1 houve maior número de acertos nas situações com maior número de possibilidades e de etapas de escolha do pós-teste, uma vez que o acerto desses problemas estava diretamente relacionado com o uso de uma expressão numérica. Desse modo, conclui-se que é possível desenvolver e ampliar o raciocínio combinatório dos estudantes do Ensino Fundamental por meio do uso de ambas as representações intermediárias utilizadas neste estudo, oportunizando, principalmente com o uso da árvore de possibilidades, um melhor desempenho na apresentação das expressões numéricas correspondentes à resolução das situações. Assim, enfatiza-se que o trabalho com as diferentes situações combinatórias por meio da discussão de seus invariantes e com o uso de representações auxiliares sistemáticas, a partir de um trabalho envolvendo identificações, conversões e tratamentos de registros, deve ser levado em consideração para um mais efetivo ensino e aprendizado da Combinatória na Educação Básica.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

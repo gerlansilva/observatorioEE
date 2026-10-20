@@ -1,0 +1,58 @@
+{
+  "id": "capes-21814982",
+  "autor": "Rita de Cassia Batista da Silva",
+  "ano": 2016,
+  "tipo": "Dissertação",
+  "titulo": "É a Moeda que Diz, Não É a Gente que Quer Não: Conhecimentos Probabilísticos de Crianças em Situações de Jogos",
+  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Rute Elizabete de Souza Rosa Borba",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Probabilidade; Crianças. Anos iniciais; Jogos.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22%C3%89%20A%20MOEDA%20QUE%20DIZ%2C%20N%C3%83O%20%C3%89%20A%20GENTE%20QUE%20QUER%20N%C3%83O%3A%20CONHECIMENTOS%20PROBABIL%C3%8DSTICOS%20DE%20CRIAN%C3%87AS%20EM%20SITUA%C3%87%C3%95ES%20DE%20JOGOS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=%C3%89%20A%20MOEDA%20QUE%20DIZ%2C%20N%C3%83O%20%C3%89%20A%20GENTE%20QUE%20QUER%20N%C3%83O%3A%20CONHECIMENTOS%20PROBABIL%C3%8DSTICOS%20DE%20CRIAN%C3%87AS%20EM%20SITUA%C3%87%C3%95ES%20DE%20JOGOS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21814982"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "21814982",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Probabilidade",
+    "Crianças. Anos iniciais",
+    "Jogos."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-21814982.svg",
+  "resumo": "A partir da apreciação do relatório Children’s understanding of probability, produzido por Bryant e Nunes (2012), surgiu o desenho inicial do presente estudo. Para os referidos autores, a probabilidade é um conceito complexo que envolve o desenvolvimento de quatro exigências cognitivas: compreender a natureza e as consequências da aleatoriedade; formar e categorizar o espaço amostral; comparar e quantificar probabilidades; e entender correlações. No estudo, optou-se por investigar as três primeiras exigências apontadas por Bryant e Nunes (2012), objetivando analisar, em situações de jogos, conhecimentos de estudantes acerca da probabilidade, em particular no que se refere à aleatoriedade, ao espaço amostral e à comparação de probabilidades. Para o estudo, foram selecionados dois jogos: Travessia do Rio (BRASIL, 2014) e uma adaptação do jogo Passeios Aleatórios da Mônica (CAZORLA; KATAOKA; NAGAMIME, 2011), aqui denominado Passeios Aleatórios da Rute. No aporte teórico considerou-se o letramento probabilístico de Gal (2004, 2012) e os significados da probabilidade propostos por Batanero e Diaz (2007), entre outros. Em relação a jogos, considerou-se, principalmente, os autores Kishimoto (1994), Grando (2000) e Muniz (2010). Foram realizadas entrevistas do tipo clínica com 36 crianças do 1º, 3º e 5º anos do Ensino Fundamental. Os resultados apontaram que o significado intuitivo da probabilidade foi evidenciado pelas crianças, que trouxeram à tona uma linguagem natural, baseada em crenças e opiniões. Relacionaram a aleatoriedade à sorte ou ao azar, justificando as respostas a partir de parâmetros particulares e demonstraram melhor compreensão em eventos pouco prováveis e impossíveis. As crianças mais velhas tiveram um desempenho melhor que as mais novas, apesar de também evidenciarem dificuldades. Foram observadas fragilidades na compreensão de eventos independentes, em que as crianças cometeram o erro de recência positiva ou de recência negativa. Em relação ao espaço amostral, a maior dificuldade observada foi a falta de percepção de que eventos, tais como 3 + 5 e 5 + 3, são possibilidades distintas. Poucas crianças refletiram, conscientemente, sobre o espaço amostral para estabelecer a comparação de probabilidades. As justificativas se apoiaram, especialmente, na recente experiência do jogo. Percebeu-se que o uso de jogos possibilitou que as noções intuitivas emergissem com naturalidade, mas que se faz necessário haver instrução, a qual pode também incluir esse recurso, para construção de conhecimentos probabilísticos mais coerentes.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
+}

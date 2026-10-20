@@ -1,0 +1,58 @@
+{
+  "id": "capes-37035270",
+  "autor": "Ewellen Tenorio de Lima",
+  "ano": 2022,
+  "tipo": "Tese",
+  "titulo": "COMBINATÓRIA, PROBABILIDADE E SUAS ARTICULAÇÕES NO CURRÍCULO DOS ANOS FINAIS DO ENSINO FUNDAMENTAL: o que é prescrito, o que é apresentado e o que se pode fazer?",
+  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Rute Elizabete de Souza Rosa Borba",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Combinatória; Probabilidade; Articulações; Anos Finais; Currículo.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22COMBINAT%C3%93RIA%2C%20PROBABILIDADE%20E%20SUAS%20ARTICULA%C3%87%C3%95ES%20NO%20CURR%C3%8DCULO%20DOS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20o%20que%20%C3%A9%20prescrito%2C%20o%20que%20%C3%A9%20apresentado%20e%20o%20que%20se%20pode%20fazer%3F%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=COMBINAT%C3%93RIA%2C%20PROBABILIDADE%20E%20SUAS%20ARTICULA%C3%87%C3%95ES%20NO%20CURR%C3%8DCULO%20DOS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20o%20que%20%C3%A9%20prescrito%2C%20o%20que%20%C3%A9%20apresentado%20e%20o%20que%20se%20pode%20fazer%3F&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37035270"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "37035270",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Combinatória",
+    "Probabilidade",
+    "Articulações",
+    "Anos Finais",
+    "Currículo."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-37035270.svg",
+  "resumo": "A presente pesquisa teve por objetivo investigar Combinatória, Probabilidade e suas articulações em currículos prescritos e apresentados aos Anos Finais do Ensino Fundamental, visando a construção de uma proposta que favoreça o ensino de ambas as temáticas. A mesma foi estruturada em três estudos que envolveram, à luz dos diferentes referenciais teóricos adotados: 1) a análise de documentos oficiais nacionais e do estado de Pernambuco para identificar se e como estão prescritos os trabalhos com as temáticas investigadas e suas articulações; 2) a análise de coleções de livros didáticos de Matemática voltados à etapa da escolarização em questão para analisar como o trabalho com Combinatória e Probabilidade é apresentado ao professor nesse material curricular, além de se e como aparecem articulações entre as mesmas; e 3) a construção de um material direcionado ao professor, sendo este um produto da tese que consiste em orientações gerais e um conjunto de problemas articulados, visando o desenvolvimento dos raciocínios combinatório e probabilístico de estudantes dos Anos Finais do Ensino Fundamental. Os Estudos 1 e 2 apontaram que a Combinatória tem ganhado menos espaço que a Probabilidade, tanto no currículo prescrito quanto no currículo apresentado. No que diz respeito às duas temáticas em questão, foram identificadas lacunas referentes ao trabalho com problemas variados que possibilitem a ampla compreensão dos conceitos, bem como a apropriação e uso de diferentes representações simbólicas que se adequem, também, ao nível de escolarização e de dificuldade dos problemas a serem trabalhados nos Anos Finais. Percebeu-se que os currículos prescrito e apresentado possibilitam articulações a partir de representações em comum e também de contextos aleatórios únicos que exploram situações combinatórias e probabilísticas, ainda que de maneira não intencional. Nesse sentido, o Estudo 3 propõe um conjunto de problemas compostos por oito blocos, visando aprofundar a articulação entre Combinatória e Probabilidade a partir do trabalho com os diferentes tipos de problemas defendidos pelos aportes teóricos adotados, trazendo, ainda, orientações ao professor no sentido de explorar a importância do desenvolvimento dos raciocínios em questão. Dessa maneira, o trabalho de tese pode contribuir tanto para o campo de estudos da Educação Matemática, quanto diretamente para o ensino de Combinatória e de Probabilidade (valorizando as relações e possíveis articulações entre essas áreas da Matemática) na Educação Básica, oferecendo possibilidades para que o professor possa enriquecer sua prática e defendendo, ainda, que, desde os primeiros anos da escolarização e em anos posteriores, os estudantes são capazes de iniciar e ampliar o desenvolvimento de seus raciocínios combinatório e probabilístico.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

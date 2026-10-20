@@ -1,0 +1,52 @@
+{
+  "id": "capes-108808",
+  "autor": "Celi Aparecida Espasandin Lopes",
+  "ano": 1998,
+  "tipo": "",
+  "titulo": "A Probabilidade e a Estatística no Ensino Fundamental: Uma Análise Curricular",
+  "instituicao": "",
+  "cidade": "",
+  "estado": "",
+  "regiao": "",
+  "orientador": "",
+  "programa": "EDUCAÇÃO",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "",
+  "grau": "",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20PROBABILIDADE%20E%20A%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20FUNDAMENTAL%3A%20UMA%20AN%C3%81LISE%20CURRICULAR%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20PROBABILIDADE%20E%20A%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20FUNDAMENTAL%3A%20UMA%20AN%C3%81LISE%20CURRICULAR&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/108808"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "108808",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/capes-108808.svg",
+  "resumo": "",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

@@ -6,7 +6,7 @@ O site é uma publicação estática: os dados são extraídos da planilha de es
 
 - **Repositório:** <https://github.com/gerlansilva/observatorioEE>
 - **Publicação:** Cloudflare Pages, a partir da pasta `site/public`
-- **Recorte:** 662 trabalhos, 1984–2024
+- **Recorte:** 945 trabalhos, 1984–2024
 
 ## Sumário
 
@@ -46,7 +46,7 @@ O site **não hospeda os arquivos das teses e dissertações**. Os links levam a
 
 | Indicador | Total |
 |---|---:|
-| Trabalhos catalogados | 662 |
+| Trabalhos catalogados | 945 |
 | Dissertações | 221 |
 | Teses | 38 |
 | Instituições | 57 |
@@ -56,7 +56,7 @@ O site **não hospeda os arquivos das teses e dissertações**. Os links levam a
 | Registros com link de repositório | 182 |
 | Resumos em português | 189 |
 | Registros com palavras-chave em português | 190 |
-| Miniaturas editoriais | 662 |
+| Miniaturas editoriais | 945 |
 
 Os números do site são gerados a partir de `site/public/data/agregados.json`; não são valores fixos no HTML.
 
@@ -156,14 +156,14 @@ observatorioEE/
 │   │   ├── brand/                       # marca, logo, favicon, OG e tokens
 │   │   ├── fonts/                       # Roboto e TainacanIcons
 │   │   ├── images/
-│   │   │   ├── thumbs/                  # 662 miniaturas SVG
+│   │   │   ├── thumbs/                  # 945 miniaturas SVG
 │   │   │   └── capa-colecao-card.svg
 │   │   └── vendor/                      # Bootstrap e Tainacan Interface
 │   ├── data/
 │   │   ├── indice.json
 │   │   ├── agregados.json
 │   │   ├── mapa-brasil.json
-│   │   └── itens/                       # 662 fichas completas
+│   │   └── itens/                       # 945 fichas completas
 │   └── dados/teses.csv
 ├── functions/api/admin/                 # API do painel no Cloudflare Pages
 │   ├── _utils.js

@@ -1,0 +1,52 @@
+{
+  "id": "capes-487318",
+  "autor": "Rosane Scandolara Zeferino",
+  "ano": 2009,
+  "tipo": "",
+  "titulo": "Ensino de Estatística com e Sem Recursos Tecnológicos: Uma Investigação com Normalistas",
+  "instituicao": "",
+  "cidade": "",
+  "estado": "",
+  "regiao": "",
+  "orientador": "",
+  "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "",
+  "grau": "",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20DE%20ESTAT%C3%8DSTICA%20COM%20E%20SEM%20RECURSOS%20TECNOL%C3%93GICOS%3A%20UMA%20INVESTIGA%C3%87%C3%83O%20COM%20NORMALISTAS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20DE%20ESTAT%C3%8DSTICA%20COM%20E%20SEM%20RECURSOS%20TECNOL%C3%93GICOS%3A%20UMA%20INVESTIGA%C3%87%C3%83O%20COM%20NORMALISTAS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/487318"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "487318",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/capes-487318.svg",
+  "resumo": "",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

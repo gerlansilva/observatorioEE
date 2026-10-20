@@ -1,0 +1,54 @@
+{
+  "id": "capes-15238864",
+  "autor": "Gilneide Maria de Oliveira Lobo",
+  "ano": 2013,
+  "tipo": "Dissertação",
+  "titulo": "O que É Feito dos Dados do Ideb: Um Estudo sobre o Processo de Legitimação das Estatísticas Oficiais",
+  "instituicao": "UNIVERSIDADE DO ESTADO DO RIO GRANDE DO NORTE",
+  "cidade": "",
+  "estado": "Rio Grande do Norte",
+  "regiao": "Nordeste",
+  "orientador": "Gilson Ricardo de Medeiros Pereira",
+  "programa": "Educação",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Estatísticas oficiais da educação. IDEB. Estratégias. Accountability",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20QUE%20%C3%89%20FEITO%20DOS%20DADOS%20DO%20IDEB%3A%20UM%20ESTUDO%20SOBRE%20O%20PROCESSO%20DE%20LEGITIMA%C3%87%C3%83O%20DAS%20ESTAT%C3%8DSTICAS%20OFICIAIS%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20QUE%20%C3%89%20FEITO%20DOS%20DADOS%20DO%20IDEB%3A%20UM%20ESTUDO%20SOBRE%20O%20PROCESSO%20DE%20LEGITIMA%C3%87%C3%83O%20DAS%20ESTAT%C3%8DSTICAS%20OFICIAIS&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/15238864"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "15238864",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Estatísticas oficiais da educação. IDEB. Estratégias. Accountability"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-15238864.svg",
+  "resumo": "O objetivo deste estudo é investigar as estratégias da política educacional do município de Mossoró/RN definidas e executadas com base nos resultados do Índice de Desenvolvimento da Educação Básica (IDEB), no período de 2009 a 2012. Para a construção dos dados, a pesquisa, de cunho qualitativo, fez uso tanto de documentos oficiais e dados estatísticos do INEP, como de entrevistas semiestruturadas. A pesquisa desenvolveu-se em três escolas de ensino fundamental da rede municipal de ensino. A partir da análise dos textos e dos depoimentos foi possível identificar três tipos de estratégias efetivadas: estratégias de normatização; estratégias de recompensa material e simbólica; e estratégias de monitoramento e controle. Pode-se afirmar que as estratégias modelam o comportamento dos profissionais da educação, prescrevem as ações, conferem base legal, estabelecem direitos e deveres e definem sanções e recompensas, colimando, assim, para a configuração de um modelo de política de accountability. O estudo indica, além disso, que a política tem apresentado resultados, visto que as três escolas investigadas melhoraram significativamente o IDEB, ultrapassando em 2011 as metas projetadas pelo INEP; do mesmo modo, o município de Mossoró ultrapassou a média nacional nos anos iniciais, alcançando a segunda melhor média entre os 167 municípios do Rio Grande do Norte que tiveram aferição do IDEB nos anos iniciais, e a 4ª melhor média nos anos finais da rede pública municipal. Constatou-se, ainda, que ao aderirem à crença na legitimidade dos dados do IDEB, as escolas colaboram para a legitimação das estatísticas oficiais da educação.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

@@ -1,0 +1,52 @@
+{
+  "id": "capes-345544",
+  "autor": "Carlos Ricardo Bifi",
+  "ano": 2006,
+  "tipo": "",
+  "titulo": "Estatística em um Curso de Administração de Empresas - Mobilização dos Conceitos Estatísticos de Base",
+  "instituicao": "",
+  "cidade": "",
+  "estado": "",
+  "regiao": "",
+  "orientador": "",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "",
+  "grau": "",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Estat%C3%ADstica%20em%20um%20Curso%20de%20Administra%C3%A7%C3%A3o%20de%20Empresas%20-%20Mobiliza%C3%A7%C3%A3o%20dos%20Conceitos%20Estat%C3%ADsticos%20de%20Base%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estat%C3%ADstica%20em%20um%20Curso%20de%20Administra%C3%A7%C3%A3o%20de%20Empresas%20-%20Mobiliza%C3%A7%C3%A3o%20dos%20Conceitos%20Estat%C3%ADsticos%20de%20Base&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/345544"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "345544",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/capes-345544.svg",
+  "resumo": "",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

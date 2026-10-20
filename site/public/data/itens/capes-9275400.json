@@ -1,0 +1,54 @@
+{
+  "id": "capes-9275400",
+  "autor": "Reinaldo Feio Lima",
+  "ano": 2014,
+  "tipo": "Dissertação",
+  "titulo": "Aprendizagem de Estatística na EJA com Tecnologia: Uma Sequência Didática com Base nos Registros de Representação Semiótica",
+  "instituicao": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Lori Viali",
+  "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Registro de representação semiótica. Engenharia didática. Educação de Jovens e Adultos.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NA%20EJA%20COM%20TECNOLOGIA%3A%20UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20COM%20BASE%20NOS%20REGISTROS%20DE%20REPRESENTA%C3%87%C3%83O%20SEMI%C3%93TICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NA%20EJA%20COM%20TECNOLOGIA%3A%20UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20COM%20BASE%20NOS%20REGISTROS%20DE%20REPRESENTA%C3%87%C3%83O%20SEMI%C3%93TICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/9275400"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "9275400",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Registro de representação semiótica. Engenharia didática. Educação de Jovens e Adultos."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-9275400.svg",
+  "resumo": "Esta pesquisa tem como um dos seus objetivos compreender as contribuições de uma sequência didática sobre representações tabular e gráfica com uso de tecnologias para a aprendizagem de Estatística na EJA. O propósito era responder à seguinte questão: “Que contribuições uma sequência didática, utilizando atividades com tecnologias, que contemplem leitura e interpretação de gráficos e tabelas no microcosmo da sala de aula de matemática, pode oferecer para a aprendizagem de Estatística na EJA?”. Nesse sentido, a metodologia dessa pesquisa foi desenvolvida nos moldes da Engenharia Didática da pesquisadora francesa Michèle Artigue (1995). Como referencial teórico adotou-se a Teoria dos Registros de Representação Semiótica de Duval (2003), bem como os estudos dos níveis de compreensão de leitura e interpretação de gráficos de Curcio (1989) e o de tabelas de Wainer (1995). A coleta de dados se deu por meio de notas de campo (diário do pesquisador), observações diretas, fotografias, gravações em áudio e vídeo de todas as aulas, registros produzidos pelos alunos ao longo das atividades, questionários e testes diagnósticos. Nossos sujeitos de pesquisa foram 15 alunos voluntários da 4ª Etapa (antiga 7ª e 8ª série) do Ensino Fundamental de uma escola pública do município de Tailândia/PA, que participaram das sessões, que ocorreram durante o horário normal de aulas sob autorização dos professores e da direção da escola. Em termos gerais, verificou-se que as atividades de leitura e interpretação de tabelas e gráficos realizados pelos alunos da EJA, possibilitaram a utilização e exploração de diferentes registros de representação semiótica, como a da linguagem natural, da numérica, do tratamento, da conversão e da coordenação entre os registros, além do aprimoramento de ler e interpretar dados. Conclui-se assim que o envolvimento dos alunos durante todas as etapas da investigação bem como o diálogo entre eles e deles com o professor foram aspectos determinantes para o sucesso da investigação e para a promoção da aprendizagem. Em suma, sem ter a pretensão de extrapolar os resultados apresentados para além do universo da pesquisa, uma vez que a amostra investigada foi pequena, acredita-se que o problema de pesquisa foi respondido, pois se constatou que a sequência didática mediada pela tecnologia, particularmente nesse caso a planilha, foi determinante para aprendizagem dos conteúdos de Estatística propostos e, consequentemente, para o sucesso do trabalho.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

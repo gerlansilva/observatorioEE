@@ -1,0 +1,52 @@
+{
+  "id": "capes-385820",
+  "autor": "Cláudia Borim da Silva",
+  "ano": 2007,
+  "tipo": "",
+  "titulo": "Pensamento estatístico e raciocínio sobre variação: um estudo com professores de matemática",
+  "instituicao": "",
+  "cidade": "",
+  "estado": "",
+  "regiao": "",
+  "orientador": "",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "",
+  "grau": "",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Pensamento%20estat%C3%ADstico%20e%20racioc%C3%ADnio%20sobre%20varia%C3%A7%C3%A3o%3A%20um%20estudo%20com%20professores%20de%20matem%C3%A1tica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Pensamento%20estat%C3%ADstico%20e%20racioc%C3%ADnio%20sobre%20varia%C3%A7%C3%A3o%3A%20um%20estudo%20com%20professores%20de%20matem%C3%A1tica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/385820"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "385820",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/capes-385820.svg",
+  "resumo": "",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

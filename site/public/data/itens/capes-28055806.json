@@ -1,0 +1,61 @@
+{
+  "id": "capes-28055806",
+  "autor": "Susana Beatris Oliveira Szewczyk",
+  "ano": 2017,
+  "tipo": "Tese",
+  "titulo": "O Formar e o Qualificar: o PROFMAT e o professor de Matemática em tempos de neoliberalismo",
+  "instituicao": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Rochele de Quadros Loguercio",
+  "programa": "EDUCAÇÃO EM CIÊNCIAS QUÌMICA DA VIDA E SAÚDE ( UFSM - FURG)",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Governamentalidade; Práticas Discursivas; Estatística; Mestrado Profissional; Qualificação; Matemática.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20Formar%20e%20o%20Qualificar%3A%20o%20PROFMAT%20e%20o%20professor%20de%20Matem%C3%A1tica%20em%20tempos%20de%20neoliberalismo%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20Formar%20e%20o%20Qualificar%3A%20o%20PROFMAT%20e%20o%20professor%20de%20Matem%C3%A1tica%20em%20tempos%20de%20neoliberalismo&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28055806"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "28055806",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Governamentalidade",
+    "Práticas Discursivas",
+    "Estatística",
+    "Mestrado Profissional",
+    "Qualificação",
+    "Matemática."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-28055806.svg",
+  "resumo": "presente Tese tem por objeto de estudo o Mestrado Profissional em Matemática em Rede Nacional (PROFMAT). Para a análise realizada, tomamos como referencial teórico os conceitos de governamentalidade e discurso do filósofo francês Michel Foucault. Didaticamente, o texto está organizado em cinco Artigos, onde cada um se constitui em uma das fases da elaboração da Tese. Os trajetos percorridos, metodologicamente, junto as análises privilegiam o uso dos conceitos adotados em detrimento de sua explicação conceitual. No Artigo 1, a partir do entendimento de governamentalidade de Foucault, mostramos que o PROFMAT pode ser entendido como uma tecnologia de governamento, colocado em ação, a partir da racionalidade política contemporânea, caracterizada como neoliberal. No Artigo 2, buscamos nos documentos disponíveis no sítio eletrônico do PROFMAT – enquanto forma de governamento da sociedade contemporânea – informações que tratam da estrutura, dos modos de acesso – e de permanência – além de alguns resultados provenientes das avaliações realizadas pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior e pela Sociedade Brasileira de Matemática, orientado pela concepção de flexibilidade e autogoverno. No Artigo 3, apresentamos os documentos, que em diferentes movimentos, vão da criação do Mestrado Profissional até a constituição dos Mestrados Profissionais em Rede Nacional. Nesse percurso, mostramos como ocorre a implantação dos Mestrados Profissionais na área de Ensino até a instituição dos Mestrados Profissionais em Rede Nacional, especificamente, do PROFMAT e, mostramos que essa modalidade de pós-graduação surge de uma demanda específica, que tem raízes em políticas públicas voltadas à educação. No Artigo 4, apresentamos os movimentos que nos permitiram selecionar os 19 Trabalhos de Conclusão de Curso (TCC) a serem analisados e que tratam da Estatística Descritiva, caminho esse permeado pelo conceito de governamentalidade de Foucault. No quinto – e último Artigo – a partir do entendimento de discurso como prática e do saber estatístico como uma tecnologia de governamento – analisamos as formas de usos do saber estatístico nas produções que sitiam seus discursos na Estatística. A análise desses TCC nos mostrou que o saber estatístico opera ora produzindo, ora reproduzindo saberes que posicionam sujeitos quando da sua relação com números, índices, taxas, gráficos e tabelas. Pensar nas formas de usos do saber estatístico e, na sua veridicção, postas em ação pelo discurso da qualificação docente, nos remete a pensar em como o saber estatístico operou/opera/operará regulando, conduzindo e governando as formas de ser sujeito na sociedade contemporânea.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
+}

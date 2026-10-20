@@ -1,0 +1,57 @@
+{
+  "id": "capes-35713440",
+  "autor": "Sandra Maria Filardo",
+  "ano": 2022,
+  "tipo": "Dissertação",
+  "titulo": "Modelagem Matemática no Estudo de Análise Combinatória",
+  "instituicao": "FUNDACAO VALE DO TAQUARI DE EDUCACAO E DESENVOLVIMENTO SOCIAL - FUVATES",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Maria Madalena Dullius",
+  "programa": "ENSINO DE CIÊNCIAS EXATAS",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Modelagem Matemática; análise combinatória; probabilidade; placas de automóveis",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22MODELAGEM%20MATEM%C3%81TICA%20NO%20ESTUDO%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=MODELAGEM%20MATEM%C3%81TICA%20NO%20ESTUDO%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35713440"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "35713440",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Modelagem Matemática",
+    "análise combinatória",
+    "probabilidade",
+    "placas de automóveis"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-35713440.svg",
+  "resumo": "A presente pesquisa vinculada ao Programa de Pós-Graduação Doutorado e Mestrado Profissional em Ensino de Ciências Exatas (PPGECE) desenvolvida na Universidade do Vale do Taquari - Univates, Lajeado/RS, tem por objetivo explorar as possibilidades e os limites da Modelagem Matemática como metodologia para o ensino de Análise Combinatória, correlacionando os fenômenos do cotidiano com os conceitos matemáticos de uma turma de cerca de trinta alunos de 2o ano do Ensino Médio de uma escola pública. A pesquisa se caracteriza qualitativa e os dados foram coletados através das gravações de áudio e vídeo de encontros em sala de aula, pesquisa de campo e diário de bordo. O referencial teórico fundamenta-se em autores da Modelagem Matemática e o desenvolvimento da prática pedagógica ocorreu pelo “caso 2”, de Barbosa (2000). Para os procedimentos metodológicos seguiu-se os passos de Biembengut e Hein (2021), sendo eles: Interação, Matematização e Modelo Matemático. Trazer a Modelagem como metodologia de ensino proporciona ao aluno uma visão de como a Matemática pode ser útil em sua vida fora do ambiente escolar e como ela interage com as demais áreas do conhecimento. O aluno passa a perceber a importância da Matemática para a compreensão de fenômenos naturais, como é possível “prever” alguns acontecimentos utilizando fórmulas e modelos e isso acaba despertando seu interesse pela ciência. Foi concluído que levar a Modelagem Matemática como metodologia de Ensino possibilita aos alunos a melhor interpretação, compreensão, convivência e cooperação em grupos e a correlação entre os fenômenos do cotidiano com os conceitos de Análise Combinatória, explorando os limites de uma sala de aula.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

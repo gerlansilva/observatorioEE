@@ -1,0 +1,52 @@
+{
+  "id": "capes-341529",
+  "autor": "Jefferson Biajone",
+  "ano": 2006,
+  "tipo": "",
+  "titulo": "Trabalho de projetos: possibilidades e desafios na formação estatística do pedagogo.",
+  "instituicao": "",
+  "cidade": "",
+  "estado": "",
+  "regiao": "",
+  "orientador": "",
+  "programa": "EDUCAÇÃO",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "",
+  "grau": "",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Trabalho%20de%20projetos%3A%20possibilidades%20e%20desafios%20na%20forma%C3%A7%C3%A3o%20estat%C3%ADstica%20do%20pedagogo.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Trabalho%20de%20projetos%3A%20possibilidades%20e%20desafios%20na%20forma%C3%A7%C3%A3o%20estat%C3%ADstica%20do%20pedagogo.&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/341529"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "341529",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/capes-341529.svg",
+  "resumo": "",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

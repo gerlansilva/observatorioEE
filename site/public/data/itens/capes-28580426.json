@@ -1,0 +1,58 @@
+{
+  "id": "capes-28580426",
+  "autor": "Raquel Roberta Bertoldo",
+  "ano": 2019,
+  "tipo": "Tese",
+  "titulo": "Concepções de ciência e tecnologia de estudantes ingressantes da Universidade de São Paulo",
+  "instituicao": "UNIVERSIDADE DE SÃO PAULO",
+  "cidade": "",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "orientador": "Marcelo Giordan Santos",
+  "programa": "ENSINO DE CIÊNCIAS (MODALIDADES FÍSICA, QUÍMICA E BIOLOGIA)",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Concepção de C&T; Modelagem Estatística; Teoria Crítica",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Concep%C3%A7%C3%B5es%20de%20ci%C3%AAncia%20e%20tecnologia%20de%20estudantes%20ingressantes%20da%20Universidade%20de%20S%C3%A3o%20Paulo%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Concep%C3%A7%C3%B5es%20de%20ci%C3%AAncia%20e%20tecnologia%20de%20estudantes%20ingressantes%20da%20Universidade%20de%20S%C3%A3o%20Paulo&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28580426"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "28580426",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Concepção de C&T",
+    "Modelagem Estatística",
+    "Teoria Crítica"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-28580426.svg",
+  "resumo": "Nesta tese, apresentamos as concepções de ciência e tecnologia (C&T) de estudantes ingressantes nos cursos de Ciências Biológicas, Física, Matemática, Pedagogia e Química da Universidade de São Paulo (USP), bem como de uma amostra representativa população brasileira. O referencial teórico foi construído a partir da Teoria Crítica, na qual destacamos os conceitos da Dialética do Esclarecimento e refletimos sobre a relação entre ciência e sociedade e as coerções da indústria cultural e do racionalismo técnico (ADORNO; HORKHEIMER, 1985). Discorremos ainda sobre modelos teóricos que explicam a Cultura Científica e como a escola pode apropriar-se da divulgação científica, produzida a partir de uma ciência comercializada, e utilizá-la de maneira a promover uma educação emancipatória. A partir desses pressupostos, construímos um modelo que analisa tanto as concepções sobre C&T quanto os fatores que as influenciam, como variáveis sociodemográficas, hábitos culturais e fontes de informação. Foram realizadas duas análises de dados: a primeira trata da pesquisa realizada na USP, com um questionário elaborado por questões provenientes das pesquisas de percepção pública da C&T, além de itens específicos de pesquisas destinadas os estudantes (ROSE e o PISA). A segunda analisa os dados provenientes da Pesquisa de Percepção Pública de C&T, realizada no Brasil pelo Ministério de Ciência, Tecnologia e Informação (MCTI), no ano de 2015. O modelo construído a partir do referencial teórico teve suas relações testadas estatisticamente. Além de aplicação de técnicas que permitem a redução da dimensionalidade das variáveis, foram realizados testes estatísticos clássicos (regressão, teste t, regressão categórica, correlação etc.), além de testes de moderação e mediação. Dentre os resultados, destacamos que em ambas as pesquisas as variáveis sociodemográficas tiveram explicações residuais ou não obtiveram efeitos significativos. Outras variáveis, como informação e percepção sobre as aulas de ciências apresentam relações significativas que indicam principalmente concepções positivistas de C&T. Observamos assim a influência da indústria cultural e da racionalidade técnica nas esferas da cultura científica, predominando concepções acríticas. Reconhecendo essa influência, defendemos que a escola deve atuar nesse processo de maneira que não se restrinja a promover o consumo da DC, mas capacitar os estudantes para desenvolver uma visão crítica a fim de reconhecer os aspectos de dominação envolvidos na produção e divulgação da C&T, de modo a promover a emancipação.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
+}

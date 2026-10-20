@@ -1,0 +1,57 @@
+{
+  "id": "capes-33159243",
+  "autor": "Elzilene Maria Lopes de Souza",
+  "ano": 2020,
+  "tipo": "Dissertação",
+  "titulo": "Ensino de Estatística: Análise de uma Proposta Fundamentada na Perspectiva da Teoria do Ensino Desenvolvimental.",
+  "instituicao": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE GOIÁS",
+  "cidade": "",
+  "estado": "",
+  "regiao": "",
+  "orientador": "Duelci Aparecido de Freitas Vaz",
+  "programa": "EDUCAÇÃO",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Ensino-aprendizagem estatística; Ensino desenvolvimental; Anos iniciais; Sistema de conceitos estatísticos",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20DE%20ESTAT%C3%8DSTICA%3A%20AN%C3%81LISE%20DE%20UMA%20PROPOSTA%20FUNDAMENTADA%20NA%20PERSPECTIVA%20DA%20TEORIA%20DO%20ENSINO%20DESENVOLVIMENTAL.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20DE%20ESTAT%C3%8DSTICA%3A%20AN%C3%81LISE%20DE%20UMA%20PROPOSTA%20FUNDAMENTADA%20NA%20PERSPECTIVA%20DA%20TEORIA%20DO%20ENSINO%20DESENVOLVIMENTAL.&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/33159243"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "33159243",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Ensino-aprendizagem estatística",
+    "Ensino desenvolvimental",
+    "Anos iniciais",
+    "Sistema de conceitos estatísticos"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-33159243.svg",
+  "resumo": "Esta investigação de cunho bibliográfico, vinculada à Linha de Pesquisa Educação, Sociedade e Cultura, do Programa de Pós-Graduação em Educação da Pontifícia Universidade Católica de Goiás, fundamenta-se na perspectiva da Teoria Histórico-Cultural e na Teoria do Ensino Desenvolvimental, com tema principal pautado na análise de uma proposta de ensino de estatística em uma coleção de livros de matemática das séries iniciais do Ensino Fundamental. O problema central procurou investigar mudanças na organização do ensino de estatística nas séries iniciais a partir de princípios da teoria de Vygotsky, Davydov, Hedegaard e Leontiev. Consideradas as bases científicas desta pesquisa, o presente trabalho procurou responder quais transformações podem ser inseridas no ensino de estatística básica a partir das contribuições das já citadas teorias. O objetivo geral foi investigar e propor uma organização do ensino da matemática na perspectiva da teoria do ensino desenvolvimental para a educação estatística nos anos iniciais do ensino fundamental. Para isso, partiu-se da seguinte trajetória: a) uma revisão bibliográfica, abrangendo o período de 2012 a 2017, envolvendo o catálogo de teses e dissertações da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior das áreas da Educação e da Educação Matemática, com o acesso, de forma eletrônica, ao texto integral; b) análise da construção do pensamento teórico-científico na lógica da teoria adotada, bem como da concepção e generalização do ensino; c) a atividade conceitual do duplo movimento do ensino na construção do modelo nuclear e a investigação do sistema de conceitos estatísticos no processo de aprendizagem; d) análise do conteúdo de estatística do livro didático de Dante (2017a, 2017b), volumes I, II, III, IV e V; e) a estrutura da atividade de estudo e uma proposta de plano de ensino desenvolvimental, como forma de organização do ensino e dos conteúdos segundo as ações de estudo elencadas através do planejamento do ensino de Estatística, com foco nas Medidas de Tendência Central (média, moda e mediana) para os anos iniciais do ensino fundamental, mais especificamente no 5º ano. Concluiu-se que a apropriação da teoria do ensino desenvolvimental oportuniza uma análise dos fundamentos para o ensino de estatística, tendo como foco a formação dos conceitos como integrados à mediação das relações essenciais entre sujeito e objeto, proporcionando aos alunos um pensamento investigativo e crítico pela análise de dados, além de permitir que o professor associe o ensino de estatística descritiva aos motivos da aprendizagem dos alunos, de modo a possibilitar a apropriação do método de pensamento próprio da estatística pela concepção histórico-cultural no processo de constituição dos conceitos.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

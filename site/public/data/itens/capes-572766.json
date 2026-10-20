@@ -1,0 +1,52 @@
+{
+  "id": "capes-572766",
+  "autor": "Diva Valério Novaes",
+  "ano": 2011,
+  "tipo": "",
+  "titulo": "\"Concepções de Professores da Educação Básica sobre variabilidade Estatística\"",
+  "instituicao": "",
+  "cidade": "",
+  "estado": "",
+  "regiao": "",
+  "orientador": "",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "",
+  "grau": "",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22%22Concep%C3%A7%C3%B5es%20de%20Professores%20da%20Educa%C3%A7%C3%A3o%20B%C3%A1sica%20sobre%20variabilidade%20Estat%C3%ADstica%22%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=%22Concep%C3%A7%C3%B5es%20de%20Professores%20da%20Educa%C3%A7%C3%A3o%20B%C3%A1sica%20sobre%20variabilidade%20Estat%C3%ADstica%22&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/572766"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "572766",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/capes-572766.svg",
+  "resumo": "",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

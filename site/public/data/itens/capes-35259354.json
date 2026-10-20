@@ -1,0 +1,55 @@
+{
+  "id": "capes-35259354",
+  "autor": "Fidelino Cordeiro Dias",
+  "ano": 2021,
+  "tipo": "Dissertação",
+  "titulo": "Práticas Docentes no Ensino da Estatística Aplicadas a um Curso Técnico de Segurança do Trabalho",
+  "instituicao": "UNIVERSIDADE CATOLICA DE PETROPOLIS",
+  "cidade": "",
+  "estado": "",
+  "regiao": "",
+  "orientador": "Pedro Benjamim de Carvalho e Silva Garcia",
+  "programa": "EDUCAÇÃO",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Estatística, Matemática, Etnomatemática; Curso Técnico",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22PR%C3%81TICAS%20DOCENTES%20NO%20ENSINO%20DA%20ESTAT%C3%8DSTICA%20APLICADAS%20A%20UM%20CURSO%20T%C3%89CNICO%20DE%20SEGURAN%C3%87A%20DO%20TRABALHO%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PR%C3%81TICAS%20DOCENTES%20NO%20ENSINO%20DA%20ESTAT%C3%8DSTICA%20APLICADAS%20A%20UM%20CURSO%20T%C3%89CNICO%20DE%20SEGURAN%C3%87A%20DO%20TRABALHO&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35259354"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "35259354",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Estatística, Matemática, Etnomatemática",
+    "Curso Técnico"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-35259354.svg",
+  "resumo": "Esta dissertação tem por objetivo analisar práticas pedagógicas, aplicadas à disciplina de Estatística pelo professor de um curso técnico de segurança do trabalho, considerando a aplicabilidade da matéria na vida profissional do técnico desta área. Como referencial teórico foram utilizados os conceitos educativos de Paulo Freire, bem como a Etnomatemática, segundo Ubiratam D' Ambrósio. Em uma linha de pesquisa qualitativa foram aplicados questionários tanto para o docente responsável quanto para os alunos do referido curso. Concluiu-se constatando o quanto as práticas observadas oferecem possibilidade de aplicação no campo da Pedagogia.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

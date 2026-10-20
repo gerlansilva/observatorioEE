@@ -1,0 +1,52 @@
+{
+  "id": "capes-522411",
+  "autor": "Ricardo Dezso Sabo",
+  "ano": 2010,
+  "tipo": "",
+  "titulo": "Saberes docentes: a análise combinatória no Ensino Médio.",
+  "instituicao": "",
+  "cidade": "",
+  "estado": "",
+  "regiao": "",
+  "orientador": "",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "",
+  "grau": "",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22Saberes%20docentes%3A%20a%20an%C3%A1lise%20combinat%C3%B3ria%20no%20Ensino%20M%C3%A9dio.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Saberes%20docentes%3A%20a%20an%C3%A1lise%20combinat%C3%B3ria%20no%20Ensino%20M%C3%A9dio.&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/522411"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "522411",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [],
+  "thumbnail": "./assets/images/thumbs/capes-522411.svg",
+  "resumo": "",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

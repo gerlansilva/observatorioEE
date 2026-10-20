@@ -1,0 +1,56 @@
+{
+  "id": "capes-21838905",
+  "autor": "Marcelo Teixeira Carneiro",
+  "ano": 2016,
+  "tipo": "Dissertação",
+  "titulo": "Desenvolvimento de Aplicativo Educacional para Dispositivos Móveis no Ensino de Estatística",
+  "instituicao": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Domingos Savio Pereira Salazar",
+  "programa": "TECNOLOGIA E GESTÃO EM EDUCAÇÃO A DISTÂNCIA",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Aplicativo Móvel; Educação à distância; Estatística.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22DESENVOLVIMENTO%20DE%20APLICATIVO%20EDUCACIONAL%20PARA%20DISPOSITIVOS%20M%C3%93VEIS%20NO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=DESENVOLVIMENTO%20DE%20APLICATIVO%20EDUCACIONAL%20PARA%20DISPOSITIVOS%20M%C3%93VEIS%20NO%20ENSINO%20DE%20ESTAT%C3%8DSTICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21838905"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "21838905",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Aplicativo Móvel",
+    "Educação à distância",
+    "Estatística."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-21838905.svg",
+  "resumo": "Nas últimas décadas, têm-se vivenciado uma variedade de fontes de informação e modos de comunicação disponíveis, em especial sob a forma de Tecnologias de Informação e Comunicação. Entre essas novas tecnologias, encontram-se os dispositivos móveis, tais como celulares, que evoluem de maneira cada vez mais rápida quando comparados, por exemplo, aos computadores. Entre os ambientes educacionais passíveis de utilizar dispositivos móveis como ferramentas no processo ensino-aprendizagem encontra-se a Educação a Distância (EAD). Tendo por foco a Estatística, atualmente, diversos recursos pedagógicos para dispositivos móveis estão sendo desenvolvidos. Entende-se, dessa forma, que análises sobre os aplicativos podem contribuir para o desenvolvimento de recursos mais adaptados à proposta da EAD. Com isso, objetivou-se desenvolver um aplicativo educacional para dispositivos móveis que auxilie na resolução de problemas de Estatística Básica na formação de alunos do ensino médio na modalidade EAD. Trata-se de pesquisa aplicada de produção tecnológica, descritiva e quantitativa, com delineamento experimental e embasada pela Engenharia Didática. O aplicativo educacional denominado “Statistik” foi concebido a partir de uma parceria entre o curso de Tecnologia em Análise e Desenvolvimento de Sistemas e o curso de Licenciatura em Matemática, ambos do Instituto Federal do Piauí (IFPI), Campus Floriano, Piauí, Brasil. O local selecionado para realização do estudo foi o IFPI, Campus Floriano. Participaram da pesquisa 60 alunos do segundo ano do ensino médio integrado aos cursos técnicos de Eletromecânica e Edificações, divididos aleatoriamente em dois grupos: controle e experimental. Os procedimentos para consecução do estudo foram desenvolvidos a partir de um Minicurso sobre Estatística Básica e, como técnicas para coleta de dados, a aplicação de um questionário para caracterização educacional dos participantes, um pré-teste e um pós-teste. A análise e discussão dos resultados foram apresentados em gráficos e tabelas e discutidos conforme literatura pertinente. Foi realizada a análise bivariada, utilizando-se o teste de Mann Withney. Os resultados permitiram traçar o perfil educacional dos participantes, e no que diz respeito ao pré-teste, as notas significativamente baixas apontaram a necessidade de desenvolver estratégias que colaborassem para melhoria do trabalho desenvolvido em sala de aula envolvendo a Estatística Básica, não sendo verificada diferença Estatística entre os dois grupos participantes. Com o desenvolvimento do Minicurso em Estatística Básica, verificou-se aumento das médias dos alunos participantes, tanto do grupo experimental como do grupo controle. Na avaliação por grupos, verificou-se diferença significativa entre as médias do grupo controle e grupo experimental, o que implica afirmar que o uso do aplicativo para dispositivo móvel desenvolvido (Statistik) influenciou o desempenho acadêmico dos alunos que o empregaram no estudo da Estatística Básica durante o desenvolvimento do minicurso a distância, melhorando as notas. Por fim, os participantes do grupo experimental apontaram como principais vantagens do uso do Statistik o fato dessa tecnologia facilitar a aprendizagem da Estatística Básica.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

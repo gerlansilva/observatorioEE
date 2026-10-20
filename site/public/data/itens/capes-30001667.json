@@ -1,0 +1,56 @@
+{
+  "id": "capes-30001667",
+  "autor": "Marcos Andre Pereira de Melo",
+  "ano": 2018,
+  "tipo": "Tese",
+  "titulo": "ECOLOGIA DO SABER: o caso da análise combinatória em documentos oficiais e livros didáticos da educação básica",
+  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+  "cidade": "",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "orientador": "Marcelo Camara dos Santos",
+  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Análise Combinatória; Livros didáticos; Teoria Antropológica do Didático",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22ECOLOGIA%20DO%20SABER%3A%20o%20caso%20da%20an%C3%A1lise%20combinat%C3%B3ria%20em%20documentos%20oficiais%20e%20livros%20did%C3%A1ticos%20da%20educa%C3%A7%C3%A3o%20b%C3%A1sica%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ECOLOGIA%20DO%20SABER%3A%20o%20caso%20da%20an%C3%A1lise%20combinat%C3%B3ria%20em%20documentos%20oficiais%20e%20livros%20did%C3%A1ticos%20da%20educa%C3%A7%C3%A3o%20b%C3%A1sica&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30001667"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "30001667",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Análise Combinatória",
+    "Livros didáticos",
+    "Teoria Antropológica do Didático"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-30001667.svg",
+  "resumo": "Essa tese teve por objetivo analisar as possíveis relações entre os documentos oficiais e livros didáticos da Educação Básica sobre Análise Combinatório no período das Reformas Campos e Capanema, dos Programas Mínimos de Simões Filho e dos Movimentos da Matemática Moderna e da Educação Matemática. O saber Análise Combinatória antes dos PCN habitava de forma declarativa o 2º ano do Ensino Médio e após os PCN passou a habitar toda Educação Básica. Isso fez com que levantássemos as seguintes questões de pesquisa: Como vive Análise Combinatória nos livros didáticos e nos documentos curriculares da Educação Básica antes dos PCN? Como vive Análise Combinatória nos livros didáticos e nos documentos curriculares da Educação Básica após os PCN? Quando mudam os documentos curriculares, muda o meio de vida da Análise Combinatória nos livros didáticos? Se sim, de que forma? O aporte teórico para responder esses questionamentos e alcançar nossos objetivos está alicerçado pela Teoria da Transposição Didática, Ecologia do Saber e pela Teoria Antropológica do Didático. A metodologia se baseia em uma pesquisa bibliográfica e documental. O procedimento metodológico se baseou em analisar livros didáticos que correspondesse aos programas vigentes de cada reforma, livros didáticos do período do Movimento da Matemática Moderna e para a vigência do Movimento da Educação Matemática, livros didáticos aprovados pelo PNLD e os documentos oficiais da Educação Básica. Os resultados indicaram que no período das reformas os autores de livros didáticos se assujeitavam aos documentos oficiais. Com o surgimento dos PCN e demais documentos oficiais, o saber Análise Combinatória passou a habitar toda Educação Básica se aproximando das orientações dadas pelos documentos (PCNEF, PCNEM, OCEM e PNLD), e assim, avançando em sua organização didática e nas técnicas, porém a ecologia das tarefas permaneceram as mesmas em todo período analisado.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

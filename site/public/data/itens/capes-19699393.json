@@ -1,0 +1,57 @@
+{
+  "id": "capes-19699393",
+  "autor": "Aline Terra Salles",
+  "ano": 2014,
+  "tipo": "Dissertação",
+  "titulo": "Aprendizagem no VMT-CHAT: Um Estudo de Caso Focado no Raciocínio Combinatório de Licenciandos de Pedagogia",
+  "instituicao": "UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO",
+  "cidade": "",
+  "estado": "Rio de Janeiro",
+  "regiao": "Sudeste",
+  "orientador": "Marcelo Almeida Bairral",
+  "programa": "EDUCAÇÃO, CONTEXTOS CONTEMPORÂNEOS E DEMANDAS POPULARES",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "VMT- Chat; aprendizagem em ambiente virtual; raciocínio combinatório; discentes de Pedagogia.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22APRENDIZAGEM%20NO%20VMT-CHAT%3A%20UM%20ESTUDO%20DE%20CASO%20FOCADO%20NO%20RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO%20DE%20LICENCIANDOS%20DE%20PEDAGOGIA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=APRENDIZAGEM%20NO%20VMT-CHAT%3A%20UM%20ESTUDO%20DE%20CASO%20FOCADO%20NO%20RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO%20DE%20LICENCIANDOS%20DE%20PEDAGOGIA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19699393"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "19699393",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "VMT- Chat",
+    "aprendizagem em ambiente virtual",
+    "raciocínio combinatório",
+    "discentes de Pedagogia."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-19699393.svg",
+  "resumo": "SALLES, Aline Terra. Aprendizagem no VMT-Chat: um estudo de caso focado no raciocínio combinatório de licenciandos de pedagogia. 2014, 99p. Dissertação (Mestrado em Educação). Instituto de Educação/ Instituto Multidisciplinar, Universidade Federal Rural do Rio de Janeiro, Seropédica, RJ, 2014. A aprendizagem matemática dos licenciandos em Pedagogia tem sido alvo de muitas reflexões e estudos. Uma das preocupações relaciona-se ao conteúdo específico que deve ser ensinado aos (as) futuros (as) pedagogos (as). Reconheço que essa preocupação seja pertinente e, por esse motivo, quero apresentar contribuições relacionadas às estratégias de formação inicial que podem auxiliar no desenvolvimento do pensamento matemático dos discentes de Pedagogia. Concretamente, quero investigar possíveis contribuições que a implementação de atividades introdutórias de combinatória em um ambiente virtual (o VMTChat) pode trazer para o desenvolvimento do raciocínio matemático e favorecer heurísticas emergentes nesse processo de aprendizado online. As sessões virtuais foram realizadas em três turmas de um curso de Licenciatura em Pedagogia. Mediante estudo de caso, a análise teve como foco encontrar aspectos do discurso que evidenciaram o desenvolvimento do raciocínio matemático e as estratégias de resolução online adotadas pelos participantes. Como resultados, identifico duas heurísticas utilizadas pelos aprendizes na resolução online de uma atividade de combinatória: a árvore e a listagem de possibilidades. A investigação também ressalta que o VMT- Chat mostrou-se um cenário frutífero para interações e trocas discursivas de diferente natureza.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

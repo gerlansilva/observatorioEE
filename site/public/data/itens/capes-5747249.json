@@ -1,0 +1,56 @@
+{
+  "id": "capes-5747249",
+  "autor": "Claudia Valeria da Silva",
+  "ano": 2013,
+  "tipo": "Dissertação",
+  "titulo": "Leitura e Interpretação de Gráficos e Tabelas: Um Estudo Social de Suas Fragilidades e de Suas Potencialidades com Estudantes da Educação de Jovens e Adultos no Ensino Fundamental",
+  "instituicao": "UNIVERSIDADE SEVERINO SOMBRA",
+  "cidade": "",
+  "estado": "",
+  "regiao": "",
+  "orientador": "Chang Kuo Rodrigues",
+  "programa": "EDUCAÇÃO MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Literacia Estatística. Metodologia freireana. Engenharia Didática.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22LEITURA%20E%20INTERPRETA%C3%87%C3%83O%20DE%20GR%C3%81FICOS%20E%20TABELAS%3A%20UM%20ESTUDO%20SOCIAL%20DE%20SUAS%20FRAGILIDADES%20E%20DE%20SUAS%20POTENCIALIDADES%20COM%20ESTUDANTES%20DA%20EDUCA%C3%87%C3%83O%20DE%20JOVENS%20E%20ADULTOS%20NO%20ENSINO%20FUNDAMENTAL%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LEITURA%20E%20INTERPRETA%C3%87%C3%83O%20DE%20GR%C3%81FICOS%20E%20TABELAS%3A%20UM%20ESTUDO%20SOCIAL%20DE%20SUAS%20FRAGILIDADES%20E%20DE%20SUAS%20POTENCIALIDADES%20COM%20ESTUDANTES%20DA%20EDUCA%C3%87%C3%83O%20DE%20JOVENS%20E%20ADULTOS%20NO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/5747249"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "5747249",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Literacia Estatística. Metodologia freireana. Engenharia Didática."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-5747249.svg",
+  "resumo": "A presente pesquisa investigou como os estudantes da Educação de Jovens e Adultos do Ensino Fundamental, das fases VII e VIII, que correspondem, respectivamente, ao 8º e 9º do ensino regular, leem e interpretam gráficos e tabelas estatísticos presentes em seu cotidiano. O objetivo foi buscar respostas para as seguintes questões, motivadoras da pesquisa: Quais as habilidades matemáticas se fazem presentes nas atividades e são reconhecidas, por meio da leitura de gráficos e tabelas, pelos sujeitos da pesquisa? Eles percebem que há diferentes tipos de leitura, como, por exemplo, a leitura implícita e a explícita em relação às tabelas e/ou aos gráficos? Em caso afirmativo, que tipos de leitura são esses?. Para isso, desenvolvemos e aplicamos seis atividades ligadas ao dia a dia dos estudantes, as quais os proporcionaram, além de ler as informações explícitas nos gráficos e tabelas, identificar, de maneira crítica, as informações implícitas nelas contidas. À luz da teoria da literacia estatística e das concepções metodológicas de Paulo Freire, as atividades foram desenvolvidas e analisadas seguindo os pressupostos da Engenharia Didática de Michèle Artigue. Essa análise mostrou que os estudantes da EJA, apesar das dificuldades apresentadas em sua escrita (distante da língua padrão), de uma maneira geral, conseguem ler e interpretar as informações apresentadas nos gráficos e nas tabelas e, ainda, posicionar-se de maneira crítica diante dos temas apresentados. Como resultado dessa pesquisa, geramos um produto final, que é um encarte, com sugestões de atividades, para professores da Educação de Jovens e Adultos sob o título Tratamento da Informação e Temas Políticos Sociais",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
+}

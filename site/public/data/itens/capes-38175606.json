@@ -1,0 +1,57 @@
+{
+  "id": "capes-38175606",
+  "autor": "Paula Beatriz da Silva Serpa",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "A Formação Estatística nas Licenciaturas em Matemática do Rio Grande do Sul e as Atitudes Frente a Estatística Segundo a Escala SATS-28 dos Futuros Professores de Matemática",
+  "instituicao": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Luciana Neves Nunes",
+  "programa": "ENSINO DE MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "estatística; escala de atitudes; SATS-28; licenciatura em matemática.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20FORMA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20NAS%20LICENCIATURAS%20EM%20MATEM%C3%81TICA%20DO%20RIO%20GRANDE%20DO%20SUL%20E%20AS%20ATITUDES%20FRENTE%20A%20ESTAT%C3%8DSTICA%20SEGUNDO%20A%20ESCALA%20SATS-28%20DOS%20FUTUROS%20PROFESSORES%20DE%20MATEM%C3%81TICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20FORMA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20NAS%20LICENCIATURAS%20EM%20MATEM%C3%81TICA%20DO%20RIO%20GRANDE%20DO%20SUL%20E%20AS%20ATITUDES%20FRENTE%20A%20ESTAT%C3%8DSTICA%20SEGUNDO%20A%20ESCALA%20SATS-28%20DOS%20FUTUROS%20PROFESSORES%20DE%20MATEM%C3%81TICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38175606"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "38175606",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "estatística",
+    "escala de atitudes",
+    "SATS-28",
+    "licenciatura em matemática."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-38175606.svg",
+  "resumo": "Levando em conta a importância da Estatística na tomada de decisões, na compreensão das informações que são oferecidas diariamente, e tendo em vista que os professores de Matemática são os responsáveis por ensinar Estatística para a Escola Básica, este trabalho teve por objetivo investigar a atitude frente à Estatística dos estudantes de Licenciatura de Matemática dos cursos sediados no Rio Grande do Sul e levantar a carga horária dedicada à Estatística nas grades curriculares desses 27 cursos. Foi aplicado o instrumento Survey of Attitudes Toward Statistics (SATS-28), versão validada em português do Brasil, em uma amostra de 91 indivíduos. A dimensão que apresentou a maior média foi Valor, com média igual a 6,07 (DP=0,77), seguida por Competência Cognitiva (média=5,44, DP=1,03), Afetiva (média=4,87, DP=1,28) e Dificuldade (média=3,71, DP=0,93). Encontrou-se forte correlação entre as dimensões Afetiva e Competência Cognitiva (ρ=0,857, p<0,01) indicando que quanto mais se gosta de Estatística, maior o sentimento de capacidade de aprendê-la. A dimensão Dificuldade se mostrou moderadamente correlacionada com as dimensões Afetiva e Competência Cognitiva, ou seja, quanto maior a atitude positiva nestas duas dimensões, menor a dificuldade. A pesquisa indicou que quanto mais confiantes em utilizar a Estatística os estudantes se sentem, mais positiva foi sua atitude nas dimensões Afetiva, Competência Cognitiva e Dificuldade, com correlações moderadas. Na dimensão Valor foi encontrada diferença significativa nos escores médios da atitude entre licenciandos que já frequentaram outro curso superior ou não (p=0,034) e entre os que exercem profissão remunerada ou não (p=0,039), indicando que estudantes com outro curso ou empregados têm atitude mais positiva. Nas grades curriculares dos cursos de Licenciatura em Matemática nas Universidades do Rio Grande do Sul, encontrou-se média de 94,7 horas de carga didática em disciplinas com conteúdos de Estatística, que representam, em média, 2,87% da carga horária total dos cursos. A baixa carga horária em Estatística na formação inicial pode estar associada a atitude pouco positiva encontrada na dimensão Dificuldade. Podemos avaliar que, apesar dos sutis avanços ocorridos no ensino de Estatística nos últimos anos, ainda é necessário mais investimento em pesquisas na área. Termos cenários que favoreçam atitudes positivas em relação à Estatística devem contribuir para o desenvolvimento e aprimoramento do letramento estatístico dos licenciandos em Matemática.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

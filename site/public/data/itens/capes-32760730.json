@@ -1,0 +1,58 @@
+{
+  "id": "capes-32760730",
+  "autor": "Claudio Vitor Santana",
+  "ano": 2020,
+  "tipo": "Dissertação",
+  "titulo": "Relações Entre Variáveis Estatísticas na Contextualização e Apropriação da Função Afim",
+  "instituicao": "UNIVERSIDADE ESTADUAL DE SANTA CRUZ",
+  "cidade": "",
+  "estado": "Bahia",
+  "regiao": "Nordeste",
+  "orientador": "Irene Mauricio Cazorla",
+  "programa": "Educação em Ciências e Matemática",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Variáveis estatísticas; Covariação estatística; Função afim; Mínimos Quadrados; Ensino Médio",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22RELA%C3%87%C3%95ES%20ENTRE%20VARI%C3%81VEIS%20ESTAT%C3%8DSTICAS%20NA%20CONTEXTUALIZA%C3%87%C3%83O%20E%20APROPRIA%C3%87%C3%83O%20DA%20FUN%C3%87%C3%83O%20AFIM%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=RELA%C3%87%C3%95ES%20ENTRE%20VARI%C3%81VEIS%20ESTAT%C3%8DSTICAS%20NA%20CONTEXTUALIZA%C3%87%C3%83O%20E%20APROPRIA%C3%87%C3%83O%20DA%20FUN%C3%87%C3%83O%20AFIM&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/32760730"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "32760730",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Variáveis estatísticas",
+    "Covariação estatística",
+    "Função afim",
+    "Mínimos Quadrados",
+    "Ensino Médio"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-32760730.svg",
+  "resumo": "Neste trabalho investigamos quais são as possíveis contribuições das relações entre as variáveis estatísticas na contextualização e apropriação da função afim. Tradicionalmente, a função afim tem sido apresentada inicialmente no 9º ano do Ensino Fundamental, em geral, a partir de situações problema envolvendo relações determinísticas e com dados predeterminados, o que não tem favorecido a aprendizagem de forma ampla. Diante dessa situação, elaboramos uma Sequência de Ensino denominada “Covariação Estatística na Função Afim - CEFA”, envolvendo variáveis estatísticas, centrada na participação ativa dos estudantes, ancorados no Ciclo Investigativo de Wild e Pfannkuch e no Letramento Estatístico de Gal; para a função afim nas ideias de Caraça, Lima et al. e Stewart e para covariação estatística em Moritz. A pesquisa, do tipo intervencionista, foi implementada em uma turma do 1º ano do Ensino Médio Profissionalizante do curso de Enfermagem, que respondeu um instrumento diagnóstico antes e depois da intervenção de ensino e participou de seis encontros de duas horas/aula. Os estudantes foram apresentados à diversos diagramas de dispersão a fim de reconhecerem a existência ou não de relação e se essa era direta ou inversa, visando o reconhecimento da covariação e estatística. Além disso, os estudantes desenvolveram três atividades, uma envolvendo a covariação numérica ou determinística e duas envolvendo a covariação estatística, sendo que na terceira atividade, percorreram as cinco fases do ciclo investigativo; refletiram sobre a problemática da obesidade, escolheram seus dados antropométricos, representaram as variáveis em diagramas de pontos e de dispersão, escolheram dois pontos e encontraram a função afim. Após esse percurso, discutiram seus achados com relação a função calculada pelo método dos Mínimos Quadrados. Os estudantes conseguiram visualizar a distribuição dos dados das variáveis, de forma univariada e bivariada, todavia não conseguiram formalizar a função afim e a análise das relações entre as variáveis ainda estavam influenciadas pelas suas crenças e não pela evidência dos dados. Os resultados foram muito promissores com relação ao ensino de Estatística e Matemática de forma contextualizada, considerando que os estudantes deram significado aos conceitos e procedimentos e despertaram a consciência sobre o problema da obesidade. Como limitação, verificamos a ausência de conhecimentos prévios para dar suporte à aprendizagem da função afim.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

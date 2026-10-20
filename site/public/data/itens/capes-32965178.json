@@ -1,0 +1,57 @@
+{
+  "id": "capes-32965178",
+  "autor": "Lya Raquel Oliveira dos Santos",
+  "ano": 2020,
+  "tipo": "Tese",
+  "titulo": "FORMAÇÃO REFLEXIVA DO PROFESSOR DE MATEMÁTICA: uma proposta de desenvolvimento do pensamento estatístico.",
+  "instituicao": "FUNDAÇÃO UNIVERSIDADE FEDERAL DO PIAUÍ",
+  "cidade": "",
+  "estado": "",
+  "regiao": "",
+  "orientador": "Antonia Dalva Franca Carvalho",
+  "programa": "EDUCAÇÃO",
+  "area": "Educação",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "DO",
+  "grau": "Doutorado",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "Professor Reflexivo; Pensamento Estatístico; Formação de Professor de Matemática; Conhecimento Pedagógico do Conteúdo",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22FORMA%C3%87%C3%83O%20REFLEXIVA%20DO%20PROFESSOR%20DE%20MATEM%C3%81TICA%3A%20uma%20proposta%20de%20desenvolvimento%20do%20pensamento%20estat%C3%ADstico.%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=FORMA%C3%87%C3%83O%20REFLEXIVA%20DO%20PROFESSOR%20DE%20MATEM%C3%81TICA%3A%20uma%20proposta%20de%20desenvolvimento%20do%20pensamento%20estat%C3%ADstico.&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/32965178"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "32965178",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "Professor Reflexivo",
+    "Pensamento Estatístico",
+    "Formação de Professor de Matemática",
+    "Conhecimento Pedagógico do Conteúdo"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-32965178.svg",
+  "resumo": "A dinamicidade do cotidiano requer do cidadão a capacidade de avaliar, de forma crítica, as informações que o circundam, o que implica no domínio de vários conhecimentos, dentre eles, coletar, resumir dados e associar chances de ocorrência a eventos, ou seja, conhecimentos estatísticos e probabilísticos. Devido à sua relevância, eles foram inseridos na Educação Básica brasileira no currículo da Matemática. Porém, esse conteúdo não costuma ser ensinado pelos professores de Matemática no Ensino Médio ou, quando o fazem, não utilizam a experimentação como metodologia. Nesse contexto, estudos realizados no âmbito do Núcleo Interdisciplinar de Pesquisa em Educação e Epistemologia da Prática Profissional (NIPEEPP), vinculado ao Programa de Pós-graduação em Educação da Universidade Federal do Piauí, aliados à nossa experiência docente, impulsionaram o surgimento de uma proposta de intervenção nesta realidade por meio da oferta de um curso de formação que fomentasse, simultaneamente, o desenvolvimento do profissional reflexivo de Schön (2000), do pensamento estatístico de Wild e Pfannkuch (1999) e do conhecimento pedagógico do conteúdo de Shulman (1986, 1987) nos professores de Matemática que não utilizam experimentos para ensinar Probabilidade e Estatística. Sua natureza foi teórico-prática e a transformação da ação docente foi o centro dessa formação. Foi nessa perspectiva que surgiu o problema de pesquisa: como a formação estatística, prática e reflexiva do professor de Matemática do Ensino Médio, recebida no curso, influencia em sua ação pedagógica? O presente trabalho analisa como a formação do pensamento estatístico do professor de Matemática do Ensino Médio influencia em sua ação pedagógica. Especificamente, caracteriza o perfil de formação dos professores de Matemática; identifica as contribuições da formação estatística reflexiva para o desenvolvimento do conhecimento pedagógico do conteúdo específico e para o desenvolvimento do pensamento estatístico dos professores; descreve a ação do professor no desenvolvimento do pensamento estatístico do seu aluno durante a aplicação de oficinas. Essa pesquisa tem natureza qualitativa de intervenção do tipo pesquisa-ação. A produção dos dados decorre da entrevista coletiva, da observação participante e de grupo focal. A organização dos dados seguiu as indicações de Bardin (2016) e Guerra (2006), através da análise de conteúdo, e a interpretação ancorou-se na hermenêutica de Gadamer (1998, 2002). Os resultados obtidos indicam que a participação do professor no curso de formação oportunizou, por um lado, o desenvolvimento do conhecimento pedagógico do conteúdo de Estatística, do pensamento estatístico. E, por outro lado, possibilitou a formação do profissional reflexivo, autônomo, implicando em uma atuação docente que leva seus alunos a aprenderem através da prática experimental. Isso significa que o curso ofertado a professores de Matemática que não utilizavam experimentos nas aulas de Estatística proporcionou a formação de um professor autônomo que supera as amarras da racionalidade técnica na direção do desenvolvimento profissional fundamentado em teoria, fortalecido pela prática e permeado pela reflexão. A investigação, portanto, traz elementos que aprofundam a discussão sobre a formação estatística reflexiva do professor de Matemática e do desenvolvimento do pensamento estatístico de forma pragmática fornecendo novos elementos para o campo da epistemologia da prática docente.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

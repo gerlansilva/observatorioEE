@@ -1,0 +1,55 @@
+{
+  "id": "capes-16601975",
+  "autor": "Ricardo Rodrigues Chilela",
+  "ano": 2013,
+  "tipo": "Dissertação",
+  "titulo": "O jogo de pôquer: uma situação real para dar sentido aos conceitos de combinatória",
+  "instituicao": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL",
+  "cidade": "",
+  "estado": "Rio Grande do Sul",
+  "regiao": "Sul",
+  "orientador": "Vilmar Trevisan",
+  "programa": "ENSINO DE MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "combinatória; Pôquer",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20jogo%20de%20p%C3%B4quer%3A%20uma%20situa%C3%A7%C3%A3o%20real%20para%20dar%20sentido%20aos%20conceitos%20de%20combinat%C3%B3ria%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20jogo%20de%20p%C3%B4quer%3A%20uma%20situa%C3%A7%C3%A3o%20real%20para%20dar%20sentido%20aos%20conceitos%20de%20combinat%C3%B3ria&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/16601975"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "16601975",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "combinatória",
+    "Pôquer"
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-16601975.svg",
+  "resumo": "A presente pesquisa foi desenvolvida para entender como ocorre o processo de ensino e aprendizagem da Combinatória, no caso particular dos problemas de contagem de agrupamentos de objetos, considerado difícil por professores e alunos; e para elaborar e experimentar uma proposta didática, com potencial para trazer algo novo ao processo. Com base na Teoria dos Campos Conceituais de Vergnaud, delineou-se os esquemas de um grupo de alunos do ensino médio: resolvem problemas de contagem direta, mas não resolvem os que exigem multiplicação e divisão. Com a análise de outros trabalhos correlatos, pode-se concluir que o ensino tem melhores chances de iniciar com a resolução de problemas, e não a partir de formulários e definições. Consequência deste estudo, foi organizada e posta em prática uma sequência didática que parte da vivência do “jogo de pôquer”. Entende-se o baralho (sem coringas) como um conjunto de 52 objetos, a partir do qual devemos formar agrupamentos de 5 objetos (“mãos”). Os problemas propostos gerados pelo jogo podem ser resolvidos com as quatro operações aritméticas. Ao final, constatou-se evolução nos esquemas dos alunos, que passaram a utilizar a multiplicação com significado e a utilizar uma organização gráfica adequada para as soluções. Mas ainda apareceram erros no uso da divisão, que foram analisados para poder-se oferecer ao professor/leitor, compreensão das dificuldades.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": null
+}

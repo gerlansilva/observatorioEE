@@ -1,0 +1,60 @@
+{
+  "id": "capes-38199153",
+  "autor": "Daniele Correia Sampaio",
+  "ano": 2023,
+  "tipo": "Dissertação",
+  "titulo": "Desenvolvimento de Projeto Científico por Alunos do Ensino Médio com Base no Construcionismo e no Uso de Planilha Eletrônica",
+  "instituicao": "UNIVERSIDADE FEDERAL DO CEARÁ",
+  "cidade": "",
+  "estado": "Ceará",
+  "regiao": "Nordeste",
+  "orientador": "Luciana de Lima",
+  "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
+  "area": "Ensino",
+  "nivel_codigo": "",
+  "nivel": "",
+  "foco_codigo": "",
+  "foco": "",
+  "grau_codigo": "MP",
+  "grau": "Mestrado Profissional",
+  "conteudo": "",
+  "problema": "",
+  "metodologia": "",
+  "contribuicoes": "",
+  "palavras_chave": "aprendizagem; construcionismo; tecnologias digitais; estatística; tecnodocência.",
+  "referencial": "",
+  "revisado": false,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22DESENVOLVIMENTO%20DE%20PROJETO%20CIENT%C3%8DFICO%20POR%20ALUNOS%20DO%20ENSINO%20M%C3%89DIO%20COM%20BASE%20NO%20CONSTRUCIONISMO%20E%20NO%20USO%20DE%20PLANILHA%20ELETR%C3%94NICA%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=DESENVOLVIMENTO%20DE%20PROJETO%20CIENT%C3%8DFICO%20POR%20ALUNOS%20DO%20ENSINO%20M%C3%89DIO%20COM%20BASE%20NO%20CONSTRUCIONISMO%20E%20NO%20USO%20DE%20PLANILHA%20ELETR%C3%94NICA&type=AllFields",
+    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38199153"
+  },
+  "bdtd": {
+    "status": "",
+    "score": 0.0,
+    "candidato": null,
+    "consultado_em": "2026-10-20"
+  },
+  "capes": {
+    "status": "ok",
+    "score": 1.0,
+    "candidato": "38199153",
+    "consultado_em": "2026-10-20"
+  },
+  "autor_planilha": "",
+  "enriquecimento_manual": {},
+  "tags": [
+    "aprendizagem",
+    "construcionismo",
+    "tecnologias digitais",
+    "estatística",
+    "tecnodocência."
+  ],
+  "thumbnail": "./assets/images/thumbs/capes-38199153.svg",
+  "resumo": "Ao longo da história, as abordagens pedagógicas utilizadas nas aulas de Matemática, que se estende à área da Estatística, priorizam aulas conteudistas, com a memorização de conceitos e fórmulas, e atividades para a fixação de conteúdo. A justificativa para a realização deste estudo esteve fundamentada na construção de uma metodologia de ensino pautada no Construcionismo, e apoiada pela utilização das Tecnologias Digitais, a fim de contribuir significativamente com o processo de aprendizagem dos estudantes, no campo da Estatística. O objetivo da pesquisa, foi analisar como alunos do Ensino Médio aprendem os conceitos e procedimentos da Estatística diante de uma abordagem baseada no Construcionismo, desenvolvendo projetos científicos em planilhas eletrônicas. A pesquisa caracteriza-se pela realização de uma investigação baseada no Estudo de Caso, com abordagem qualitativa. Os sujeitos participantes deste estudo são dezesseis estudantes do 2º ano do Ensino Médio, provenientes de uma escola pública da rede estadual de Educação do Ceará, localizada na cidade de Fortaleza. A coleta de dados foi dividida em três etapas. Na primeira etapa ocorreu a aplicação do Questionário Inicial para a coleta dos conhecimentos prévios. Na segunda etapa ocorreu a aplicação da Sequência Didática, desenvolvida em 8 aulas. Na terceira etapa ocorreu a aplicação do Questionário Final para a coleta dos conhecimentos a posteriori. A análise dos foi realizada seguindo as cinco etapas da Análise Textual Discursiva (ATD): unitarização, categorização, descrição, interpretação e argumentação. Os resultados da análise dos dados coletados foram comparados utilizando a triangulação metodológica, com base em três categorias predefinidas: Conceitos Iniciais (CI), Medidas de Tendência Central e Dispersão (MTCD) e Tabelas e Gráficos (TG). Os resultados deste estudo evidenciaram o desenvolvimento e aprofundamento significativo das aprendizagens dos estudantes, em relação à compreensão conceitual e procedimental dos elementos estatísticos, população, amostra, variáveis, frequência absoluta e relativa, medidas de tendência central e dispersão, tabelas e gráficos. A aplicação dos pressupostos da teoria do Construcionismo, combinada com o uso de Tecnologias Digitais como metodologia pedagógica baseada nos pressupostos teóricos da Tecnodocência, mostrou-se significativa para o desenvolvimento da aprendizagem Estatística dos sujeitos participantes do presente estudo.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "CAPES",
+  "termos_busca": [
+    "coleta expandida (plural/vocabulário)"
+  ]
+}
