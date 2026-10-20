@@ -1,64 +1,64 @@
 {
- "id": "araujo-2008",
- "autor": "Elizangela Gonçalves de Araújo",
- "ano": 2008,
- "tipo": "Dissertação",
- "titulo": "O Tratamento da Informação nas séries iniciais: uma proposta de formação de professores para o ensino de gráficos e tabelas",
- "instituicao": "Universidade Federal de Santa Catarina",
- "cidade": "Florianópolis",
- "estado": "Santa Catarina",
- "regiao": "Sul",
- "orientador": "Cláudia Flores",
- "programa": "Educação Científica e Tecnológica",
- "area": "Ensino de Ciências e Matemática",
- "nivel_codigo": "2",
- "nivel": "Ensino Fundamental – anos iniciais",
- "foco_codigo": "2",
- "foco": "Formação inicial/continuada e desenvolvimento profissional de professores",
- "grau_codigo": "MA",
- "grau": "Mestrado Acadêmico",
- "conteudo": "Estatística",
- "problema": "Realiza uma investigação na formação de professores pedagogos acerca da problemática do ensino e aprendizagem de gráficos e tabelas nas séries iniciais do ensino fundamental.",
- "metodologia": "desenvolveu-se uma experiência didática, estruturada por oficina e dirigida a professores pedagogos atuantes na Rede Estadual de Ensino de Santa Catarina, mais precisamente na Grande Florianópolis, no período de 02 de maio a 19 de setembro de 2007. A oficina foi elaborada considerando-se as representações gráficas e textuais no âmbito da diversidade das representações semióticas, com especificidades cognitivas e representacionais.",
- "contribuicoes": "Os resultados apontaram para a desenvoltura dos professores frente à leitura, construção e interpretação de gráficos e tabelas, implicando na sugestão de tema para a contínua formação dos professores pedagogos.",
- "palavras_chave": "Representação Semiótica, Representação Gráfica, Tratamento da \nInformação, Formação Continuada.",
- "referencial": "Duval, registros de representação semiótica",
- "revisado": true,
- "links": {
-  "google_scholar": "https://scholar.google.com/scholar?q=%22O+Tratamento+da+Informa%C3%A7%C3%A3o+nas+s%C3%A9ries+iniciais%3A+uma+proposta+de+forma%C3%A7%C3%A3o+de+professores+para+o+ensino+de+gr%C3%A1ficos+e+tabelas%22",
-  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+Tratamento+da+Informa%C3%A7%C3%A3o+nas+s%C3%A9ries+iniciais%3A+uma+proposta+de+forma%C3%A7%C3%A3o+de+professores+para+o+ensino+de+gr%C3%A1ficos+e+tabelas&type=AllFields"
- },
- "autor_planilha": "ARAUJO, E. G.",
- "orientador_planilha": "Cláudia Flores",
- "autor_capes": "Elizangela Gonçalves de Araújo",
- "programa_capes": "Educação Cientifica e Tecnológica",
- "instituicao_capes": "Universidade Federal de Santa Catarina",
- "cidade_capes": "Florianópolis",
- "capes": {
-  "status": "ok",
-  "score": 0.994,
-  "id": "20082141001010050P7",
-  "url": "undefined",
-  "consultado_em": "2026-10-17"
- },
- "bdtd_api": {
-  "status": "nao_encontrado",
-  "score": 0.51
- },
- "tags": [
-  "Representação Semiótica",
-  "Representação Gráfica",
-  "Tratamento da Informação",
-  "Formação Continuada"
- ],
- "thumbnail": "./assets/images/thumbs/araujo-2008.svg",
- "resumo": "A presente pesquisa incide diretamente na formação de professores pedagogos acerca da problemática do ensino e aprendizagem de gráficos e tabelas nas séries iniciais do ensino fundamental. Considera-se a sugestão dos Parâmetros Curriculares Nacionais (PCN) a respeito do Tratamento da Informação, bem como a Proposta Curricular de Santa Catarina, situando o aporte teórico na noção de Registro de Representação Semiótica de Raymond Duval para a aprendizagem em Matemática. A habilidade de leitura, interpretação, análise e leitura, construção e interpretação de gráficos e tabelas, implicando na sugestão de tema para a contínua formação dos professores pedagogos.",
- "resumo_idioma": "por",
- "resumo_fonte": "https://core.ac.uk/download/pdf/30373174.pdf",
- "pesquisa_agente_links": {
-  "status": "ok",
-  "fonte_resumo": "https://core.ac.uk/download/pdf/30373174.pdf",
-  "fonte_palavras": "https://core.ac.uk/download/pdf/30373174.pdf",
-  "confianca": "media"
- }
+  "id": "araujo-2008",
+  "autor": "Elizangela Gonçalves de Araújo",
+  "ano": 2008,
+  "tipo": "Dissertação",
+  "titulo": "O Tratamento da Informação nas séries iniciais: uma proposta de formação de professores para o ensino de gráficos e tabelas",
+  "instituicao": "Universidade Federal de Santa Catarina",
+  "cidade": "Florianópolis",
+  "estado": "Santa Catarina",
+  "regiao": "Sul",
+  "orientador": "Cláudia Flores",
+  "programa": "Educação Científica e Tecnológica",
+  "area": "Ensino de Ciências e Matemática",
+  "nivel_codigo": "2",
+  "nivel": "Ensino Fundamental – anos iniciais",
+  "foco_codigo": "2",
+  "foco": "Formação inicial/continuada e desenvolvimento profissional de professores",
+  "grau_codigo": "MA",
+  "grau": "Mestrado Acadêmico",
+  "conteudo": "Estatística",
+  "problema": "Realiza uma investigação na formação de professores pedagogos acerca da problemática do ensino e aprendizagem de gráficos e tabelas nas séries iniciais do ensino fundamental.",
+  "metodologia": "desenvolveu-se uma experiência didática, estruturada por oficina e dirigida a professores pedagogos atuantes na Rede Estadual de Ensino de Santa Catarina, mais precisamente na Grande Florianópolis, no período de 02 de maio a 19 de setembro de 2007. A oficina foi elaborada considerando-se as representações gráficas e textuais no âmbito da diversidade das representações semióticas, com especificidades cognitivas e representacionais.",
+  "contribuicoes": "Os resultados apontaram para a desenvoltura dos professores frente à leitura, construção e interpretação de gráficos e tabelas, implicando na sugestão de tema para a contínua formação dos professores pedagogos.",
+  "palavras_chave": "Representação Semiótica, Representação Gráfica, Tratamento da \nInformação, Formação Continuada.",
+  "referencial": "Duval, registros de representação semiótica",
+  "revisado": true,
+  "links": {
+    "google_scholar": "https://scholar.google.com/scholar?q=%22O+Tratamento+da+Informa%C3%A7%C3%A3o+nas+s%C3%A9ries+iniciais%3A+uma+proposta+de+forma%C3%A7%C3%A3o+de+professores+para+o+ensino+de+gr%C3%A1ficos+e+tabelas%22",
+    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+Tratamento+da+Informa%C3%A7%C3%A3o+nas+s%C3%A9ries+iniciais%3A+uma+proposta+de+forma%C3%A7%C3%A3o+de+professores+para+o+ensino+de+gr%C3%A1ficos+e+tabelas&type=AllFields"
+  },
+  "autor_planilha": "ARAUJO, E. G.",
+  "orientador_planilha": "Cláudia Flores",
+  "autor_capes": "Elizangela Gonçalves de Araújo",
+  "programa_capes": "Educação Cientifica e Tecnológica",
+  "instituicao_capes": "Universidade Federal de Santa Catarina",
+  "cidade_capes": "Florianópolis",
+  "capes": {
+    "status": "ok",
+    "score": 0.994,
+    "id": "20082141001010050P7",
+    "url": "undefined",
+    "consultado_em": "2026-10-17"
+  },
+  "bdtd_api": {
+    "status": "nao_encontrado",
+    "score": 0.51
+  },
+  "tags": [
+    "Representação Semiótica",
+    "Representação Gráfica",
+    "Tratamento da Informação",
+    "Formação Continuada"
+  ],
+  "thumbnail": "./assets/images/thumbs/araujo-2008.svg",
+  "resumo": "A presente pesquisa incide diretamente na formação de professores pedagogos acerca da problemática do ensino e aprendizagem de gráficos e tabelas nas séries iniciais do ensino fundamental. Considera-se a sugestão dos Parâmetros Curriculares Nacionais (PCN) a respeito do Tratamento da Informação, bem como a Proposta Curricular de Santa Catarina, situando o aporte teórico na noção de Registro de Representação Semiótica de Raymond Duval para a aprendizagem em Matemática. A habilidade de leitura, interpretação, análise e leitura, construção e interpretação de gráficos e tabelas, implicando na sugestão de tema para a contínua formação dos professores pedagogos.",
+  "resumo_idioma": "por",
+  "resumo_fonte": "https://core.ac.uk/download/pdf/30373174.pdf",
+  "pesquisa_agente_links": {
+    "status": "ok",
+    "fonte_resumo": "https://core.ac.uk/download/pdf/30373174.pdf",
+    "fonte_palavras": "https://core.ac.uk/download/pdf/30373174.pdf",
+    "confianca": "media"
+  }
 }
