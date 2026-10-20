@@ -18,7 +18,7 @@
   "grau_codigo": "MA",
   "grau": "Mestrado Acadêmico",
   "conteudo": "Estatística",
-  "problema": "traz para os alunos uma alternativa de como aprender \nanálise de regressão, tendo o computador como seu aliado e desencadeador da \naprendizagem. Este trabalho consiste no planejamento de um módulo Regressão Linear \nSimples (RLS), que pode ser implementado no SEstat.Net, e que propõe uma didática \ndiferenciada para trabalhar os conteúdos de regressão linear simples.",
+  "problema": "traz para os alunos uma alternativa de como aprender análise de regressão, tendo o computador como seu aliado e desencadeador da aprendizagem. Este trabalho consiste no planejamento de um módulo Regressão Linear Simples (RLS), que pode ser implementado no SEstat.Net, e que propõe uma didática diferenciada para trabalhar os conteúdos de regressão linear simples.",
   "metodologia": "Elaboração de uma atividade em software",
   "contribuicoes": "",
   "palavras_chave": "",

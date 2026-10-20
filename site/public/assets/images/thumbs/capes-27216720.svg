@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" width="640" height="480" role="img" aria-label="OBJETO VIRTUAL DE APRENDIZAGEM COLABORATIVA (COLLABORA): ESTUDO NA DISCIPLINA DE">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" width="640" height="480" role="img" aria-label="Objeto Virtual de Aprendizagem Colaborativa (Collabora): Estudo na Disciplina de">
   <rect width="640" height="480" fill="#1B5563"/>
   <g opacity="0.10" stroke="#D7E5E7" stroke-width="1">
     <path d="M0 80H640M0 400H640M40 0V480M600 0V480"/>
@@ -8,7 +8,7 @@
   <text x="600" y="52" text-anchor="end" fill="#D7E5E7" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="20" font-weight="500">2018</text>
   <line x1="40" y1="76" x2="600" y2="76" stroke="#D7E5E7" stroke-width="1" opacity="0.55"/>
   <rect x="40" y="112" width="4" height="100" fill="#D7E5E7" opacity="0.9"/>
-  <text fill="#FFFFFF" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="26" font-weight="500" letter-spacing="0.1"><tspan x="64" y="132">OBJETO VIRTUAL DE APRENDIZAGEM</tspan><tspan x="64" y="164">COLABORATIVA (COLLABORA):</tspan><tspan x="64" y="196">ESTUDO NA DISCIPLINA DE…</tspan></text>
+  <text fill="#FFFFFF" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="26" font-weight="500" letter-spacing="0.1"><tspan x="64" y="132">Objeto Virtual de Aprendizagem</tspan><tspan x="64" y="164">Colaborativa (Collabora):</tspan><tspan x="64" y="196">Estudo na Disciplina de…</tspan></text>
   <line x1="40" y1="360" x2="600" y2="360" stroke="#D7E5E7" stroke-width="1" opacity="0.55"/>
   <text x="40" y="392" fill="#FFFFFF" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="0.4">Ishikawa</text>
   <text fill="#D7E5E7" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="13" opacity="0.92"><tspan x="64" y="414">UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ</tspan></text>

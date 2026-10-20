@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" width="640" height="480" role="img" aria-label="O CONTEXTO ESCOLAR NA APRENDIZAGEM SOBRE GRÁFICOS PARA ESTUDANTES CEGAS DOS ANOS">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" width="640" height="480" role="img" aria-label="O Contexto Escolar na Aprendizagem sobre Gráficos para Estudantes Cegas dos Anos">
   <rect width="640" height="480" fill="#2E7D89"/>
   <g opacity="0.10" stroke="#FFFFFF" stroke-width="1">
     <path d="M0 80H640M0 400H640M40 0V480M600 0V480"/>
@@ -8,7 +8,7 @@
   <text x="600" y="52" text-anchor="end" fill="#FFFFFF" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="20" font-weight="500">2021</text>
   <line x1="40" y1="76" x2="600" y2="76" stroke="#FFFFFF" stroke-width="1" opacity="0.55"/>
   <rect x="40" y="112" width="4" height="112" fill="#FFFFFF" opacity="0.9"/>
-  <text fill="#FFFFFF" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="30" font-weight="500" letter-spacing="0.1"><tspan x="64" y="132">O CONTEXTO ESCOLAR NA</tspan><tspan x="64" y="168">APRENDIZAGEM SOBRE GRÁFICOS</tspan><tspan x="64" y="204">PARA ESTUDANTES CEGAS DOS AN…</tspan></text>
+  <text fill="#FFFFFF" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="30" font-weight="500" letter-spacing="0.1"><tspan x="64" y="132">O Contexto Escolar na</tspan><tspan x="64" y="168">Aprendizagem sobre Gráficos</tspan><tspan x="64" y="204">para Estudantes Cegas dos An…</tspan></text>
   <line x1="40" y1="360" x2="600" y2="360" stroke="#FFFFFF" stroke-width="1" opacity="0.55"/>
   <text x="40" y="392" fill="#FFFFFF" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="0.4">Silva</text>
   <text fill="#FFFFFF" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="13" opacity="0.92"><tspan x="64" y="414">UNIVERSIDADE FEDERAL DE PERNAMBUCO</tspan></text>

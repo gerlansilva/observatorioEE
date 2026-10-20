@@ -1147,7 +1147,9 @@ h1[tabindex="-1"]:focus-visible {
   font-weight: 500;
   line-height: 1.35;
   color: var(--tainacan-text);
-  text-align: left;
+  text-align: justify;
+  text-justify: inter-word;
+  text-align-last: left;
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
@@ -1307,6 +1309,8 @@ h1[tabindex="-1"]:focus-visible {
   font-weight: 700;
   line-height: 1.3;
   color: #000;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .tainacan-filters-head-mobile {
@@ -1323,6 +1327,8 @@ h1[tabindex="-1"]:focus-visible {
   line-height: 1.3;
   margin: 0;
   color: #000;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .tainacan-item-meta {
