@@ -7,7 +7,7 @@
   "instituicoes": 137,
   "estados": 26,
   "regioes": 5,
-  "atualizado_em": "2026-10-20T20:48:41+00:00",
+  "atualizado_em": "2026-10-20T20:51:32+00:00",
   "por_ano": [
     {
       "ano": 1984,
@@ -526,10 +526,6 @@
     {
       "nome": "Pontifícia Universidade Católica de São Paulo",
       "total": 94
-    },
-    {
-      "nome": "",
-      "total": 49
     },
     {
       "nome": "Universidade Cruzeiro do Sul",

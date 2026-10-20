@@ -164,7 +164,9 @@ def main() -> None:
         "por_conteudo": series(by_conteudo, CONTEUDOS),
         "por_nivel": series(by_nivel),
         "top_instituicoes": [
-            {"nome": name, "total": total} for name, total in by_instituicao.most_common(12)
+            {"nome": name, "total": total}
+            for name, total in by_instituicao.most_common(12)
+            if name and name.strip()
         ],
     }
     AGREGADOS.write_text(json.dumps(agregados, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
