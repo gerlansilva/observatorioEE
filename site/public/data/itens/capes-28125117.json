@@ -1,59 +1,59 @@
 {
-  "id": "capes-28125117",
-  "autor": "Paulo Cezar Monteiro Tavares",
-  "ano": 2017,
-  "tipo": "Dissertação",
-  "titulo": "Ensino da Análise Combinatória por Meio de um Aplicativo para Android",
-  "instituicao": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS",
-  "cidade": "",
-  "estado": "Minas Gerais",
-  "regiao": "Sudeste",
-  "orientador": "Tania Fernandes Bogutchi",
-  "programa": "ENSINO",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Análise Combinatória; Jogos; Tecnologia no ensino",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20DA%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20POR%20MEIO%20DE%20UM%20APLICATIVO%20PARA%20ANDROID%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20DA%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20POR%20MEIO%20DE%20UM%20APLICATIVO%20PARA%20ANDROID&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28125117"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "28125117",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Análise Combinatória",
-    "Jogos",
-    "Tecnologia no ensino"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-28125117.svg",
-  "resumo": "O ensino da Análise Combinatória nas escolas brasileiras, no início do século XXI, baseia-se geralmente apenas na utilização de fórmulas matemáticas, podendo, dessa maneira, prejudicar o apendizado do aluno. Diante desse quadro, o presente trabalho se dispõe a propor uma estratégia didática que possa contribuir para o ensino desse conteúdo. O objetivo da pesquisa foi o desenvolvimento de um aplicativo para smartphone, utilizando a plataforma Android Studio na criação de um jogo para o ensino de Análise Combinatória na Educação Básica. Para isso, foi desenvolvida uma pesquisa-ação em conformidade com a revisão bibliográfica realizada. O uso deste aplicativo tem como suporte uma sequência didática elaborada com desafios que envolvem problemas de contagem, atraindo, assim, a atenção os alunos e favorecendo o processo de construção do seu conhecimento. Esse fato pode ser constatado por meio do questionário que os alunos responderam ao final da pesquisa. O jogo foi aplicado nos alunos do segundo ano do ensino médio da Escola Educação Criativa, localizada no município de Ipatinga, MG. Por meio deste estudo foi possível verificar que novas metodologias de ensino aliadas ao uso de tecnologias, podem contribuir para o ensino de Matemática, especialmente para o de Análise Combinatória.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de combinatória"
-  ],
-  "ids_duplicados": []
+ "id": "capes-28125117",
+ "autor": "Paulo Cezar Monteiro Tavares",
+ "ano": 2017,
+ "tipo": "Dissertação",
+ "titulo": "Ensino da Análise Combinatória por Meio de um Aplicativo para Android",
+ "instituicao": "Pontifícia Universidade Católica de Minas Gerais",
+ "cidade": "",
+ "estado": "Minas Gerais",
+ "regiao": "Sudeste",
+ "orientador": "Tania Fernandes Bogutchi",
+ "programa": "ENSINO",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Análise Combinatória; Jogos; Tecnologia no ensino",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20DA%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20POR%20MEIO%20DE%20UM%20APLICATIVO%20PARA%20ANDROID%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20DA%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20POR%20MEIO%20DE%20UM%20APLICATIVO%20PARA%20ANDROID&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28125117"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "28125117",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Análise Combinatória",
+  "Jogos",
+  "Tecnologia no ensino"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-28125117.svg",
+ "resumo": "O ensino da Análise Combinatória nas escolas brasileiras, no início do século XXI, baseia-se geralmente apenas na utilização de fórmulas matemáticas, podendo, dessa maneira, prejudicar o apendizado do aluno. Diante desse quadro, o presente trabalho se dispõe a propor uma estratégia didática que possa contribuir para o ensino desse conteúdo. O objetivo da pesquisa foi o desenvolvimento de um aplicativo para smartphone, utilizando a plataforma Android Studio na criação de um jogo para o ensino de Análise Combinatória na Educação Básica. Para isso, foi desenvolvida uma pesquisa-ação em conformidade com a revisão bibliográfica realizada. O uso deste aplicativo tem como suporte uma sequência didática elaborada com desafios que envolvem problemas de contagem, atraindo, assim, a atenção os alunos e favorecendo o processo de construção do seu conhecimento. Esse fato pode ser constatado por meio do questionário que os alunos responderam ao final da pesquisa. O jogo foi aplicado nos alunos do segundo ano do ensino médio da Escola Educação Criativa, localizada no município de Ipatinga, MG. Por meio deste estudo foi possível verificar que novas metodologias de ensino aliadas ao uso de tecnologias, podem contribuir para o ensino de Matemática, especialmente para o de Análise Combinatória.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de combinatória"
+ ],
+ "ids_duplicados": []
 }

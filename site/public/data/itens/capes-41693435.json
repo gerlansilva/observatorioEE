@@ -1,62 +1,62 @@
 {
-  "id": "capes-41693435",
-  "autor": "Raquel Cristiane de Oliveira",
-  "ano": 2024,
-  "tipo": "Dissertação",
-  "titulo": "Comunicação no Ensino Exploratório: Aspectos Promovidos em Práticas de Ensino de Estatística na Educação Básica",
-  "instituicao": "UNIVERSIDADE ESTADUAL DO PARANÁ",
-  "cidade": "",
-  "estado": "Paraná",
-  "regiao": "Sul",
-  "orientador": "Everton Jose Goldoni Estevam",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Comunicação; Comunicação matemática; Ensino Exploratório de Matemática; Interação; Ensino de Estatística",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22COMUNICA%C3%87%C3%83O%20NO%20ENSINO%20EXPLORAT%C3%93RIO%3A%20ASPECTOS%20PROMOVIDOS%20EM%20PR%C3%81TICAS%20DE%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=COMUNICA%C3%87%C3%83O%20NO%20ENSINO%20EXPLORAT%C3%93RIO%3A%20ASPECTOS%20PROMOVIDOS%20EM%20PR%C3%81TICAS%20DE%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41693435"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "41693435",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Comunicação",
-    "Comunicação matemática",
-    "Ensino Exploratório de Matemática",
-    "Interação",
-    "Ensino de Estatística"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-41693435.svg",
-  "resumo": "Diante da complexidade do mundo moderno e da rápida evolução científica e tecnológica, os processos de ensino e de aprendizagem não podem mais se alicerçarem na mera transmissão de informação/conhecimento pelo professor, mas em abordagens que priorizem aspectos investigativos, colaborativos e reflexivos. Nesse contexto, a comunicação emerge como elemento central a ser considerado e pouco discutido na literatura da área. Assim, a presente pesquisa tem como questão norteadora investigar que ações podem promover a comunicação em aulas de matemática na perspectiva do Ensino Exploratório de Matemática (EEM), com foco no ensino de Estatística. O estudo adota uma abordagem qualitativa, dividida em duas fases. A primeira consiste em um estudo bibliográfico de mapeamento de pesquisas sobre a comunicação matemática em sala de aula, realizado no Portal de Periódicos da Capes. A segunda fase compreende uma pesquisa empírica, seguindo um princípio de intervenção pedagógica, conduzida com uma turma de 34 alunos da 3ª Série do Ensino Médio de uma escola pública no interior do estado do Paraná. A estrutura do trabalho compreende um formato multipaper, composto por três artigos: um teórico e dois empíricos, cada um orientado a aspectos específicos associados à questão geral. Assim, o primeiro artigo trata do mapeamento de pesquisa acerca da comunicação matemática realizada no portal de periódicos da CAPES. Os dois artigos empíricos focam na análise das interações promovidas entre professor e alunos durante o desenvolvimento de uma tarefa desafiadora focada em Estatística, com ênfase em medidas de tendência central, realizada sob a perspectiva do EEM, e nas interações entre os alunos durante a realização da tarefa. Os instrumentos utilizados para a coleta e produção de dados incluem: gravações em áudio e vídeo das aulas, planos de aula elaborados pela professora e transcrições tanto das interações entre a professora e os alunos, como das interações entre os alunos durante a fase de desenvolvimento da tarefa. A análise dos dados coletados foi conduzida de maneira colaborativa, envolvendo a professora/pesquisadora, seu orientador e discussões com outros membros do grupo de pesquisa GEPTEMatE, do qual a professora/pesquisadora faz parte. Essa abordagem colaborativa visou mitigar possíveis vieses e enriquecer as conclusões finais. Desse processo de investigação, as análises destacam a importância da comunicação para promover a aprendizagem e interação efetiva entre professor(es) e alunos. Destaca-se, nesse sentido, a diversidade e interconexão das ações do professor que podem estimular a comunicação em aulas de matemática. Essas ações incluem a adoção de estilos de comunicação reflexivos e instrutivos, a escolha criteriosa de tarefas, a antecipação de respostas dos alunos, o questionamento estratégico das respostas dos alunos, o uso estratégico de perguntas, a escuta atenta, interpretativa e globalizante, a resposta estratégica às perguntas dos alunos, o fomento de analogias e exemplificações, a contraposição de ideias, a transformação de respostas incorretas ou incompletas em oportunidades de discussão e a utilização de representações visuais. Quando integradas, essas ações não apenas fomentam um ambiente participativo e colaborativo de aprendizagem, mas também fortalecem a autonomia dos alunos, incentivam a reflexão sobre conceitos matemáticos e estatísticos e contribuem para a construção coletiva do conhecimento, enriquecendo a experiência de aprendizado. A pesquisa considera a particularidade da prática analisada, destacando influências específicas dessas ações na significação das ideias estatísticas relacionadas às medidas de tendência central e na concretização de práticas orientadas pelo EEM.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-41693435",
+ "autor": "Raquel Cristiane de Oliveira",
+ "ano": 2024,
+ "tipo": "Dissertação",
+ "titulo": "Comunicação no Ensino Exploratório: Aspectos Promovidos em Práticas de Ensino de Estatística na Educação Básica",
+ "instituicao": "Universidade Estadual do Paraná",
+ "cidade": "",
+ "estado": "Paraná",
+ "regiao": "Sul",
+ "orientador": "Everton Jose Goldoni Estevam",
+ "programa": "EDUCAÇÃO MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Comunicação; Comunicação matemática; Ensino Exploratório de Matemática; Interação; Ensino de Estatística",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22COMUNICA%C3%87%C3%83O%20NO%20ENSINO%20EXPLORAT%C3%93RIO%3A%20ASPECTOS%20PROMOVIDOS%20EM%20PR%C3%81TICAS%20DE%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=COMUNICA%C3%87%C3%83O%20NO%20ENSINO%20EXPLORAT%C3%93RIO%3A%20ASPECTOS%20PROMOVIDOS%20EM%20PR%C3%81TICAS%20DE%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41693435"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "41693435",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Comunicação",
+  "Comunicação matemática",
+  "Ensino Exploratório de Matemática",
+  "Interação",
+  "Ensino de Estatística"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-41693435.svg",
+ "resumo": "Diante da complexidade do mundo moderno e da rápida evolução científica e tecnológica, os processos de ensino e de aprendizagem não podem mais se alicerçarem na mera transmissão de informação/conhecimento pelo professor, mas em abordagens que priorizem aspectos investigativos, colaborativos e reflexivos. Nesse contexto, a comunicação emerge como elemento central a ser considerado e pouco discutido na literatura da área. Assim, a presente pesquisa tem como questão norteadora investigar que ações podem promover a comunicação em aulas de matemática na perspectiva do Ensino Exploratório de Matemática (EEM), com foco no ensino de Estatística. O estudo adota uma abordagem qualitativa, dividida em duas fases. A primeira consiste em um estudo bibliográfico de mapeamento de pesquisas sobre a comunicação matemática em sala de aula, realizado no Portal de Periódicos da Capes. A segunda fase compreende uma pesquisa empírica, seguindo um princípio de intervenção pedagógica, conduzida com uma turma de 34 alunos da 3ª Série do Ensino Médio de uma escola pública no interior do estado do Paraná. A estrutura do trabalho compreende um formato multipaper, composto por três artigos: um teórico e dois empíricos, cada um orientado a aspectos específicos associados à questão geral. Assim, o primeiro artigo trata do mapeamento de pesquisa acerca da comunicação matemática realizada no portal de periódicos da CAPES. Os dois artigos empíricos focam na análise das interações promovidas entre professor e alunos durante o desenvolvimento de uma tarefa desafiadora focada em Estatística, com ênfase em medidas de tendência central, realizada sob a perspectiva do EEM, e nas interações entre os alunos durante a realização da tarefa. Os instrumentos utilizados para a coleta e produção de dados incluem: gravações em áudio e vídeo das aulas, planos de aula elaborados pela professora e transcrições tanto das interações entre a professora e os alunos, como das interações entre os alunos durante a fase de desenvolvimento da tarefa. A análise dos dados coletados foi conduzida de maneira colaborativa, envolvendo a professora/pesquisadora, seu orientador e discussões com outros membros do grupo de pesquisa GEPTEMatE, do qual a professora/pesquisadora faz parte. Essa abordagem colaborativa visou mitigar possíveis vieses e enriquecer as conclusões finais. Desse processo de investigação, as análises destacam a importância da comunicação para promover a aprendizagem e interação efetiva entre professor(es) e alunos. Destaca-se, nesse sentido, a diversidade e interconexão das ações do professor que podem estimular a comunicação em aulas de matemática. Essas ações incluem a adoção de estilos de comunicação reflexivos e instrutivos, a escolha criteriosa de tarefas, a antecipação de respostas dos alunos, o questionamento estratégico das respostas dos alunos, o uso estratégico de perguntas, a escuta atenta, interpretativa e globalizante, a resposta estratégica às perguntas dos alunos, o fomento de analogias e exemplificações, a contraposição de ideias, a transformação de respostas incorretas ou incompletas em oportunidades de discussão e a utilização de representações visuais. Quando integradas, essas ações não apenas fomentam um ambiente participativo e colaborativo de aprendizagem, mas também fortalecem a autonomia dos alunos, incentivam a reflexão sobre conceitos matemáticos e estatísticos e contribuem para a construção coletiva do conhecimento, enriquecendo a experiência de aprendizado. A pesquisa considera a particularidade da prática analisada, destacando influências específicas dessas ações na significação das ideias estatísticas relacionadas às medidas de tendência central e na concretização de práticas orientadas pelo EEM.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

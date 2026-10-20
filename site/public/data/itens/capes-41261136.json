@@ -1,60 +1,60 @@
 {
-  "id": "capes-41261136",
-  "autor": "Paulo Marcos Ribeiro da Silva",
-  "ano": 2024,
-  "tipo": "Tese",
-  "titulo": "Formação de professores de matemática dos anos finais do Ensino Fundamental: a pesquisa como eixo estruturador do ensino de Estatística",
-  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Gilda Lisboa Guimaraes",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Estatística; Anos finais do Ensino Fundamental; Formação de professor. Pesquisa.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Forma%C3%A7%C3%A3o%20de%20professores%20de%20matem%C3%A1tica%20dos%20anos%20finais%20do%20Ensino%20Fundamental%3A%20a%20pesquisa%20como%20eixo%20estruturador%20do%20ensino%20de%20Estat%C3%ADstica%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Forma%C3%A7%C3%A3o%20de%20professores%20de%20matem%C3%A1tica%20dos%20anos%20finais%20do%20Ensino%20Fundamental%3A%20a%20pesquisa%20como%20eixo%20estruturador%20do%20ensino%20de%20Estat%C3%ADstica&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41261136"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "41261136",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Estatística",
-    "Anos finais do Ensino Fundamental",
-    "Formação de professor. Pesquisa."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-41261136.svg",
-  "resumo": "Essa pesquisa teve como objetivo investigar as contribuições de um processo formativo de professores de Matemática dos anos finais do Ensino Fundamental no município do Ipojuca/PE considerando os diferentes tipos de conhecimento do professor para o ensino de Estatística, tendo a pesquisa como eixo estruturador do ensino. Para tal, temos como aporte teórico o modelo de Letramento Estatístico proposto por Gal (2002), o modelo de Ciclo Investigativo elaborado por Guimarães e Gitirana (2013) e os diferentes tipos de Conhecimentos apontados por Ball, Thames e Phelps (2008). Foram desenvolvidos três estudos articulados entre si. No estudo 1, foram analisados os documentos normativos (BNCC, currículo de Pernambuco e do município do Ipojuca) e a coleção didática de Matemática utilizada no município. Foi observado que os documentos curriculares valorizam a pesquisa e a função da estatística, aproximando-se do Letramento Estatístico. A coleção de Matemática utilizado no município traz como orientação ao professor apenas descrição das atividades, o que não orienta ou amplia o trabalho do professor. Em relação as atividades de estatísticas observaram-se baixa incidência de atividades envolvendo elaboração da questão, classificação dos dados e conclusão e, infelizmente, a maioria das atividades envolve dados fictícios, o que indica que os alunos serão pouco estimulados a refletirem sobre a realidade. No estudo 2, levantamos o perfil dos professores e investigamos o que sabiam sobre ensino de estatística, a partir de um questionário no google form. Foi observado que a maioria não teve formação para ensino de estatística e apresenta lacunas relacionadas ao Conhecimento Comum de Estatística. No estudo 3, a partir desses dados, ou seja, dos materiais curriculares e didáticos utilizados pelos professores, associado a seus conhecimentos e experiencia com o ensino de estatística, desenvolvemos um processo formativo. Esse processo de formação continuada com todos os professores de matemática do 6º ao 9º ano do município, teve a pesquisa como eixo estruturador e envolvendo os diferentes tipos de conhecimentos do professor. Ficou evidenciado dificuldades relacionadas ao Conhecimento Especializado de Estatística e dificuldades apresentadas em relação ao Conhecimento Horizontal de Estatística que acabam levando a rejeição do currículo prescrito ou o Conhecimento de Estatística e Currículo direcionando o trabalho em sala de aula a partir das atividades propostas apenas com base no livro didático. Ficou notório que existe uma dificuldade apresentada pelos docentes em reconhecer a função da estatística e não apenas os cálculos matemáticos, exigindo dos professores um processo de revisão e ampliação de seu repertório de conhecimento. Apresentam uma postura tradicional em relação ao Conhecimento de Estatística e Alunos, levando-os a acreditar que o aluno só sabe o que eles ensinaram de forma linear e bem dosada. Sobre o Conhecimento do Conteúdo de Estatística e Ensino, pouco percebemos a mobilização da maioria dos docentes na busca de compreender as dificuldades que podem existir entre os estudantes e o conteúdo. Apesar da avaliação bem positiva sobre a formação realizada pelos profissionais, valorizando a aprendizagem sobre o que é pesquisa e como pode ser conduzida em sala de aula, a maioria teve uma participação discreta durante os encontros. Finalmente, foi levantado por eles muitas inseguranças para apresentar seus conhecimentos sobre um determinado conteúdo, de modo a compartilhar com os pares e, por isso, não costumam se envolver nos processos formativos. Assim, é fundamental haver processos formativos que evidenciem para o grupo de professores a pertinência de aprendizagens colaborativas entre eles. Acreditamos que essa pesquisa possibilitará importantes discussões sobre processos de formação de professores referente ao ensino de Estatística, que favoreça uma atitude analítica e crítica do mundo físico e social, ampliando os conhecimentos do grupo sobre o conteúdo e suas formas de ensino.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-41261136",
+ "autor": "Paulo Marcos Ribeiro da Silva",
+ "ano": 2024,
+ "tipo": "Tese",
+ "titulo": "Formação de professores de matemática dos anos finais do Ensino Fundamental: a pesquisa como eixo estruturador do ensino de Estatística",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Gilda Lisboa Guimaraes",
+ "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Estatística; Anos finais do Ensino Fundamental; Formação de professor. Pesquisa.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Forma%C3%A7%C3%A3o%20de%20professores%20de%20matem%C3%A1tica%20dos%20anos%20finais%20do%20Ensino%20Fundamental%3A%20a%20pesquisa%20como%20eixo%20estruturador%20do%20ensino%20de%20Estat%C3%ADstica%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Forma%C3%A7%C3%A3o%20de%20professores%20de%20matem%C3%A1tica%20dos%20anos%20finais%20do%20Ensino%20Fundamental%3A%20a%20pesquisa%20como%20eixo%20estruturador%20do%20ensino%20de%20Estat%C3%ADstica&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41261136"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "41261136",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Estatística",
+  "Anos finais do Ensino Fundamental",
+  "Formação de professor. Pesquisa."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-41261136.svg",
+ "resumo": "Essa pesquisa teve como objetivo investigar as contribuições de um processo formativo de professores de Matemática dos anos finais do Ensino Fundamental no município do Ipojuca/PE considerando os diferentes tipos de conhecimento do professor para o ensino de Estatística, tendo a pesquisa como eixo estruturador do ensino. Para tal, temos como aporte teórico o modelo de Letramento Estatístico proposto por Gal (2002), o modelo de Ciclo Investigativo elaborado por Guimarães e Gitirana (2013) e os diferentes tipos de Conhecimentos apontados por Ball, Thames e Phelps (2008). Foram desenvolvidos três estudos articulados entre si. No estudo 1, foram analisados os documentos normativos (BNCC, currículo de Pernambuco e do município do Ipojuca) e a coleção didática de Matemática utilizada no município. Foi observado que os documentos curriculares valorizam a pesquisa e a função da estatística, aproximando-se do Letramento Estatístico. A coleção de Matemática utilizado no município traz como orientação ao professor apenas descrição das atividades, o que não orienta ou amplia o trabalho do professor. Em relação as atividades de estatísticas observaram-se baixa incidência de atividades envolvendo elaboração da questão, classificação dos dados e conclusão e, infelizmente, a maioria das atividades envolve dados fictícios, o que indica que os alunos serão pouco estimulados a refletirem sobre a realidade. No estudo 2, levantamos o perfil dos professores e investigamos o que sabiam sobre ensino de estatística, a partir de um questionário no google form. Foi observado que a maioria não teve formação para ensino de estatística e apresenta lacunas relacionadas ao Conhecimento Comum de Estatística. No estudo 3, a partir desses dados, ou seja, dos materiais curriculares e didáticos utilizados pelos professores, associado a seus conhecimentos e experiencia com o ensino de estatística, desenvolvemos um processo formativo. Esse processo de formação continuada com todos os professores de matemática do 6º ao 9º ano do município, teve a pesquisa como eixo estruturador e envolvendo os diferentes tipos de conhecimentos do professor. Ficou evidenciado dificuldades relacionadas ao Conhecimento Especializado de Estatística e dificuldades apresentadas em relação ao Conhecimento Horizontal de Estatística que acabam levando a rejeição do currículo prescrito ou o Conhecimento de Estatística e Currículo direcionando o trabalho em sala de aula a partir das atividades propostas apenas com base no livro didático. Ficou notório que existe uma dificuldade apresentada pelos docentes em reconhecer a função da estatística e não apenas os cálculos matemáticos, exigindo dos professores um processo de revisão e ampliação de seu repertório de conhecimento. Apresentam uma postura tradicional em relação ao Conhecimento de Estatística e Alunos, levando-os a acreditar que o aluno só sabe o que eles ensinaram de forma linear e bem dosada. Sobre o Conhecimento do Conteúdo de Estatística e Ensino, pouco percebemos a mobilização da maioria dos docentes na busca de compreender as dificuldades que podem existir entre os estudantes e o conteúdo. Apesar da avaliação bem positiva sobre a formação realizada pelos profissionais, valorizando a aprendizagem sobre o que é pesquisa e como pode ser conduzida em sala de aula, a maioria teve uma participação discreta durante os encontros. Finalmente, foi levantado por eles muitas inseguranças para apresentar seus conhecimentos sobre um determinado conteúdo, de modo a compartilhar com os pares e, por isso, não costumam se envolver nos processos formativos. Assim, é fundamental haver processos formativos que evidenciem para o grupo de professores a pertinência de aprendizagens colaborativas entre eles. Acreditamos que essa pesquisa possibilitará importantes discussões sobre processos de formação de professores referente ao ensino de Estatística, que favoreça uma atitude analítica e crítica do mundo físico e social, ampliando os conhecimentos do grupo sobre o conteúdo e suas formas de ensino.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

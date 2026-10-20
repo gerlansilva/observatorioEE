@@ -1,58 +1,58 @@
 {
-  "id": "capes-30244938",
-  "autor": "Alessandra de Abreu Correa",
-  "ano": 2019,
-  "tipo": "Tese",
-  "titulo": "Educação Estatística e as Possibilidades de Trabalho Transdisciplinar nas Séries Finais do Ensino Fundamental",
-  "instituicao": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL",
-  "cidade": "",
-  "estado": "Rio Grande do Sul",
-  "regiao": "Sul",
-  "orientador": "Joao Bernardes da Rocha Filho",
-  "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação de Estatística. Ensino fundamental anos finais. Transdisciplinaridade. Indicadores transdisciplinares",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20E%20AS%20POSSIBILIDADES%20DE%20TRABALHO%20TRANSDISCIPLINAR%20NAS%20S%C3%89RIES%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20E%20AS%20POSSIBILIDADES%20DE%20TRABALHO%20TRANSDISCIPLINAR%20NAS%20S%C3%89RIES%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30244938"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "30244938",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação de Estatística. Ensino fundamental anos finais. Transdisciplinaridade. Indicadores transdisciplinares"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-30244938.svg",
-  "resumo": "Neste estudo foram analisadas as articulações existentes entre os elementos transdisciplinares e as práticas docentes relacionadas ao ensino de Estatística nos anos finais do ensino fundamental. A Base Nacional Comum Curricular, documento atual, sobre o tema, enfatiza que os conceitos, fatos e procedimentos estatísticos devem estar relacionados a problemas do cotidiano, das ciências e da tecnologia, onde os pressupostos para que a prática pedagógica se consolide são baseados na investigação e na exploração destas situações, buscando a aquisição de conhecimento menos compartimentalizada e voltadas para a formação científica, intelectual e humanizada do aluno. Sendo, a transdisciplinaridade uma das abordagens científicas que tem com objetivo o crescimento e desenvolvimento pessoal, no qual competências e conhecimentos são respeitos e conservados buscou- se uma aproximação entre a transdisciplinaridade, enquanto atitude, frente ao conhecimento, e o campo da Educação Estatística. Com base nessa contextualização, a questão que orientou este estudo expressou-se na seguinte pergunta: como os elementos transdisciplinares e as concepções da Educação Estatística se articulam nas práticas docentes nos anos finais do ensino fundamental? Pois, percebeu-se que os assuntos ligados a elementos transdisciplinares nas práticas docentes tendem a ser secundarizados, assim como há omissão dos indicadores provenientes da transdisciplinaridade produzidos nessas condições. No campo analítico, descreveu-se e analisou-se as possíveis aproximações entre a Educação Estatística e os estudos transdisciplinares, buscando compreender suas potencialidades nas práticas mobilizadas nos anos finais do ensino fundamental. Para fins deste estudo, as articulações entre a transdisciplinaridade e a Educação Estatística emergiram das concepções docentes que foram evidenciadas, na entrevista episódica, respondida por duas participantes graduadas em Matemática e que exercem a docência no ensino fundamental. A análise dos dados foi realizada com base nos pressupostos e procedimentos da Análise Textual Discursiva, e caracteriza uma abordagem qualitativa, analítica e compreensiva. Teoricamente, considerou-se que a Educação Estatística, em particular nos anos finais do Ensino Fundamental, apresenta conteúdos estatísticos cujos objetivos, dentre outros, são os de coletar, organizar e apresentar dados por meio de tabelas e gráficos, além de calcular e interpretar as medidas de tendências centrais. Desenvolvendo a discussão crítica, a argumentação racional e o uso da linguagem estatística adequada para a interpretação e validação de informações. Por fim, nesta tese, apresentaram-se elementos transdisciplinares articulados com o ensino da Estatística, tendo como relevância os indicadores: a docência solidária, os níveis de realidade e pertencimento ao cosmo, como uma primeira categoria. Respeito pelo outro e cooperação, sendo uma segunda categoria, e a última categoria com os indicadores transcendência e aprender a aprender nas práticas docentes do ensino de Estatística nos anos finais do ensino fundamental. As conclusões apontadas sugerem que existem vínculos entre os indicadores de transdisciplinaridade e as práticas docentes que perpassam a dimensão profissional e alcançam uma atitude transdisciplinar.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-30244938",
+ "autor": "Alessandra de Abreu Correa",
+ "ano": 2019,
+ "tipo": "Tese",
+ "titulo": "Educação Estatística e as Possibilidades de Trabalho Transdisciplinar nas Séries Finais do Ensino Fundamental",
+ "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+ "cidade": "",
+ "estado": "Rio Grande do Sul",
+ "regiao": "Sul",
+ "orientador": "Joao Bernardes da Rocha Filho",
+ "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação de Estatística. Ensino fundamental anos finais. Transdisciplinaridade. Indicadores transdisciplinares",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20E%20AS%20POSSIBILIDADES%20DE%20TRABALHO%20TRANSDISCIPLINAR%20NAS%20S%C3%89RIES%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20E%20AS%20POSSIBILIDADES%20DE%20TRABALHO%20TRANSDISCIPLINAR%20NAS%20S%C3%89RIES%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30244938"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "30244938",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação de Estatística. Ensino fundamental anos finais. Transdisciplinaridade. Indicadores transdisciplinares"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-30244938.svg",
+ "resumo": "Neste estudo foram analisadas as articulações existentes entre os elementos transdisciplinares e as práticas docentes relacionadas ao ensino de Estatística nos anos finais do ensino fundamental. A Base Nacional Comum Curricular, documento atual, sobre o tema, enfatiza que os conceitos, fatos e procedimentos estatísticos devem estar relacionados a problemas do cotidiano, das ciências e da tecnologia, onde os pressupostos para que a prática pedagógica se consolide são baseados na investigação e na exploração destas situações, buscando a aquisição de conhecimento menos compartimentalizada e voltadas para a formação científica, intelectual e humanizada do aluno. Sendo, a transdisciplinaridade uma das abordagens científicas que tem com objetivo o crescimento e desenvolvimento pessoal, no qual competências e conhecimentos são respeitos e conservados buscou- se uma aproximação entre a transdisciplinaridade, enquanto atitude, frente ao conhecimento, e o campo da Educação Estatística. Com base nessa contextualização, a questão que orientou este estudo expressou-se na seguinte pergunta: como os elementos transdisciplinares e as concepções da Educação Estatística se articulam nas práticas docentes nos anos finais do ensino fundamental? Pois, percebeu-se que os assuntos ligados a elementos transdisciplinares nas práticas docentes tendem a ser secundarizados, assim como há omissão dos indicadores provenientes da transdisciplinaridade produzidos nessas condições. No campo analítico, descreveu-se e analisou-se as possíveis aproximações entre a Educação Estatística e os estudos transdisciplinares, buscando compreender suas potencialidades nas práticas mobilizadas nos anos finais do ensino fundamental. Para fins deste estudo, as articulações entre a transdisciplinaridade e a Educação Estatística emergiram das concepções docentes que foram evidenciadas, na entrevista episódica, respondida por duas participantes graduadas em Matemática e que exercem a docência no ensino fundamental. A análise dos dados foi realizada com base nos pressupostos e procedimentos da Análise Textual Discursiva, e caracteriza uma abordagem qualitativa, analítica e compreensiva. Teoricamente, considerou-se que a Educação Estatística, em particular nos anos finais do Ensino Fundamental, apresenta conteúdos estatísticos cujos objetivos, dentre outros, são os de coletar, organizar e apresentar dados por meio de tabelas e gráficos, além de calcular e interpretar as medidas de tendências centrais. Desenvolvendo a discussão crítica, a argumentação racional e o uso da linguagem estatística adequada para a interpretação e validação de informações. Por fim, nesta tese, apresentaram-se elementos transdisciplinares articulados com o ensino da Estatística, tendo como relevância os indicadores: a docência solidária, os níveis de realidade e pertencimento ao cosmo, como uma primeira categoria. Respeito pelo outro e cooperação, sendo uma segunda categoria, e a última categoria com os indicadores transcendência e aprender a aprender nas práticas docentes do ensino de Estatística nos anos finais do ensino fundamental. As conclusões apontadas sugerem que existem vínculos entre os indicadores de transdisciplinaridade e as práticas docentes que perpassam a dimensão profissional e alcançam uma atitude transdisciplinar.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

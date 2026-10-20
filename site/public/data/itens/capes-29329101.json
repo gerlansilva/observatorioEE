@@ -1,62 +1,62 @@
 {
-  "id": "capes-29329101",
-  "autor": "Laura Cristina dos Santos",
-  "ano": 2019,
-  "tipo": "Dissertação",
-  "titulo": "Letramento Estatístico nos Livros Didáticos do Ensino Médio",
-  "instituicao": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE SÃO PAULO",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Cileda de Queiroz e Silva Coutinho",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Letramento Estatístico; Educação Estatística; Livros Didáticos; Ensino Médio; Análise Praxeológica",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20ESTAT%C3%8DSTICO%20NOS%20LIVROS%20DID%C3%81TICOS%20DO%20ENSINO%20M%C3%89DIO%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20ESTAT%C3%8DSTICO%20NOS%20LIVROS%20DID%C3%81TICOS%20DO%20ENSINO%20M%C3%89DIO&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29329101"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "29329101",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Letramento Estatístico",
-    "Educação Estatística",
-    "Livros Didáticos",
-    "Ensino Médio",
-    "Análise Praxeológica"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-29329101.svg",
-  "resumo": "Esta pesquisa teve como principal objetivo estudar quais elementos do letramento estatístico podem ser construídos, a partir do uso do livro didático, pelos alunos do 3º ano do ensino médio, buscando identificar, segundo Chevallard, as praxeologias presentes nos livros. Para isso, analisamos os Parâmetros Curriculares Nacionais para o Ensino Médio, Parâmetros Curriculares Nacionais para o Ensino Médio, Orientações Curriculares para o Ensino Médio, Base Nacional Comum Curricular e exercícios dos livros didáticos aprovados no PNLD 2018, por meio da Organização Praxeológica de Yves Chevallard, o que nos proporcionou condições de analisar quais são as propostas da Estatística estabelecidas nos documentos oficiais e identificar as tarefas, técnicas e discurso teórico-tecnológico, presentes nos exercícios dos livros didáticos. Assim, foram selecionados os volumes 3, destinados ao 3º ano do ensino médio, de três coleções. A análise das praxeologias foram feitas à luz do conceito de letramento estatístico e os resultados, comparados com algumas pesquisas produzidas em Educação Matemática que abordam o ensino e aprendizagem da Estatística. Verificou-se que os exercícios seguem uma linha tecnicista, com base nas dimensões teóricas e técnicas, preocupando-se apenas com a parte procedimental, sem se importar com a análise crítica dos resultados. Dos livros didáticos analisados, apenas dois propiciam ao aluno chegar ao nível funcional do letramento estatístico, nos termos de Gal, enquanto o outro apenas ao nível cultural. Sendo assim, os três livros didáticos pouco favorecem a construção do letramento estatístico dos alunos.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "letramento estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-29329101",
+ "autor": "Laura Cristina dos Santos",
+ "ano": 2019,
+ "tipo": "Dissertação",
+ "titulo": "Letramento Estatístico nos Livros Didáticos do Ensino Médio",
+ "instituicao": "Pontifícia Universidade Católica de São Paulo",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Cileda de Queiroz e Silva Coutinho",
+ "programa": "EDUCAÇÃO MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Letramento Estatístico; Educação Estatística; Livros Didáticos; Ensino Médio; Análise Praxeológica",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20ESTAT%C3%8DSTICO%20NOS%20LIVROS%20DID%C3%81TICOS%20DO%20ENSINO%20M%C3%89DIO%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20ESTAT%C3%8DSTICO%20NOS%20LIVROS%20DID%C3%81TICOS%20DO%20ENSINO%20M%C3%89DIO&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29329101"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "29329101",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Letramento Estatístico",
+  "Educação Estatística",
+  "Livros Didáticos",
+  "Ensino Médio",
+  "Análise Praxeológica"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-29329101.svg",
+ "resumo": "Esta pesquisa teve como principal objetivo estudar quais elementos do letramento estatístico podem ser construídos, a partir do uso do livro didático, pelos alunos do 3º ano do ensino médio, buscando identificar, segundo Chevallard, as praxeologias presentes nos livros. Para isso, analisamos os Parâmetros Curriculares Nacionais para o Ensino Médio, Parâmetros Curriculares Nacionais para o Ensino Médio, Orientações Curriculares para o Ensino Médio, Base Nacional Comum Curricular e exercícios dos livros didáticos aprovados no PNLD 2018, por meio da Organização Praxeológica de Yves Chevallard, o que nos proporcionou condições de analisar quais são as propostas da Estatística estabelecidas nos documentos oficiais e identificar as tarefas, técnicas e discurso teórico-tecnológico, presentes nos exercícios dos livros didáticos. Assim, foram selecionados os volumes 3, destinados ao 3º ano do ensino médio, de três coleções. A análise das praxeologias foram feitas à luz do conceito de letramento estatístico e os resultados, comparados com algumas pesquisas produzidas em Educação Matemática que abordam o ensino e aprendizagem da Estatística. Verificou-se que os exercícios seguem uma linha tecnicista, com base nas dimensões teóricas e técnicas, preocupando-se apenas com a parte procedimental, sem se importar com a análise crítica dos resultados. Dos livros didáticos analisados, apenas dois propiciam ao aluno chegar ao nível funcional do letramento estatístico, nos termos de Gal, enquanto o outro apenas ao nível cultural. Sendo assim, os três livros didáticos pouco favorecem a construção do letramento estatístico dos alunos.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "letramento estatístico"
+ ],
+ "ids_duplicados": []
 }

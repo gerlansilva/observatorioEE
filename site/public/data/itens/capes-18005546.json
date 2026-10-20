@@ -1,57 +1,57 @@
 {
-  "id": "capes-18005546",
-  "autor": "Christiano Otavio de Rezende Sena",
-  "ano": 2013,
-  "tipo": "Dissertação",
-  "titulo": "A Exploração das Propriedades do Triângulo de Pascal no Ensino de Análise Combinatória com Atividades Investigativas",
-  "instituicao": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS",
-  "cidade": "",
-  "estado": "Minas Gerais",
-  "regiao": "Sudeste",
-  "orientador": "Joao Bosco Laudares",
-  "programa": "ENSINO",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Análise Combinatória, Triângulo de Pascal, Resolução de Problemas, Atividades Investigativas, Análise de Erros.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20EXPLORA%C3%87%C3%83O%20DAS%20PROPRIEDADES%20DO%20TRI%C3%82NGULO%20DE%20PASCAL%20NO%20ENSINO%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20COM%20ATIVIDADES%20INVESTIGATIVAS%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20EXPLORA%C3%87%C3%83O%20DAS%20PROPRIEDADES%20DO%20TRI%C3%82NGULO%20DE%20PASCAL%20NO%20ENSINO%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20COM%20ATIVIDADES%20INVESTIGATIVAS&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/18005546"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "18005546",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Análise Combinatória, Triângulo de Pascal, Resolução de Problemas, Atividades Investigativas, Análise de Erros."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-18005546.svg",
-  "resumo": "Essa Dissertação apresenta resultados de uma pesquisa sobre como algumas atividades investigativas relativas ao Triângulo de Pascal, suas propriedades e seus padrões podem contribuir no ensino de Análise Combinatória. Uma razão que motivou esse trabalho é a ideia rígida tanto da parte de alunos como de colegas professores de que Análise Combinatória é um tema árido, penoso para se ensinar ou aprender. As atividades elaboradas nessa pesquisa procuram explorar como certas propriedades do Triângulo de Pascal, como por exemplo, a Relação de Stifel, pode ser interpretada em situações-problema e como as observações dos diversos padrões encontrados podem ser declaradas como regras gerais. Os referenciais teóricos que alicerçam essa pesquisa são a Resolução de Problemas como ferramenta metodológica, as Atividades Investigativas e Análises de Erros. O exame das resoluções apresentadas pelos alunos permite verificar que tal conjunto de atividades pode de fato contribuir para o desenvolvimento do processo de aprendizagem de Análise Combinatória.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de combinatória"
-  ],
-  "ids_duplicados": []
+ "id": "capes-18005546",
+ "autor": "Christiano Otavio de Rezende Sena",
+ "ano": 2013,
+ "tipo": "Dissertação",
+ "titulo": "A Exploração das Propriedades do Triângulo de Pascal no Ensino de Análise Combinatória com Atividades Investigativas",
+ "instituicao": "Pontifícia Universidade Católica de Minas Gerais",
+ "cidade": "",
+ "estado": "Minas Gerais",
+ "regiao": "Sudeste",
+ "orientador": "Joao Bosco Laudares",
+ "programa": "ENSINO",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Análise Combinatória, Triângulo de Pascal, Resolução de Problemas, Atividades Investigativas, Análise de Erros.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20EXPLORA%C3%87%C3%83O%20DAS%20PROPRIEDADES%20DO%20TRI%C3%82NGULO%20DE%20PASCAL%20NO%20ENSINO%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20COM%20ATIVIDADES%20INVESTIGATIVAS%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20EXPLORA%C3%87%C3%83O%20DAS%20PROPRIEDADES%20DO%20TRI%C3%82NGULO%20DE%20PASCAL%20NO%20ENSINO%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20COM%20ATIVIDADES%20INVESTIGATIVAS&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/18005546"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "18005546",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Análise Combinatória, Triângulo de Pascal, Resolução de Problemas, Atividades Investigativas, Análise de Erros."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-18005546.svg",
+ "resumo": "Essa Dissertação apresenta resultados de uma pesquisa sobre como algumas atividades investigativas relativas ao Triângulo de Pascal, suas propriedades e seus padrões podem contribuir no ensino de Análise Combinatória. Uma razão que motivou esse trabalho é a ideia rígida tanto da parte de alunos como de colegas professores de que Análise Combinatória é um tema árido, penoso para se ensinar ou aprender. As atividades elaboradas nessa pesquisa procuram explorar como certas propriedades do Triângulo de Pascal, como por exemplo, a Relação de Stifel, pode ser interpretada em situações-problema e como as observações dos diversos padrões encontrados podem ser declaradas como regras gerais. Os referenciais teóricos que alicerçam essa pesquisa são a Resolução de Problemas como ferramenta metodológica, as Atividades Investigativas e Análises de Erros. O exame das resoluções apresentadas pelos alunos permite verificar que tal conjunto de atividades pode de fato contribuir para o desenvolvimento do processo de aprendizagem de Análise Combinatória.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de combinatória"
+ ],
+ "ids_duplicados": []
 }

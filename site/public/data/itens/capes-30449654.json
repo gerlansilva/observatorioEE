@@ -1,61 +1,61 @@
 {
-  "id": "capes-30449654",
-  "autor": "Maria Gracilene de Carvalho Pinheiro",
-  "ano": 2019,
-  "tipo": "Tese",
-  "titulo": "Ensino de Probabilidade nos anos iniciais: um estudo sobre o desenvolvimento profissional do professor",
-  "instituicao": "UNIVERSIDADE ANHANGUERA DE SÃO PAULO",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Angelica da Fontoura Garcia Silva",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Matemática; Formação Continuada de Professores; Ensino de Probabilidade; Anos Iniciais do Ensino Fundamental; Desenvolvimento Profissional Docente",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Ensino%20de%20Probabilidade%20nos%20anos%20iniciais%3A%20um%20estudo%20sobre%20o%20desenvolvimento%20profissional%20do%20professor%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Ensino%20de%20Probabilidade%20nos%20anos%20iniciais%3A%20um%20estudo%20sobre%20o%20desenvolvimento%20profissional%20do%20professor&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30449654"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "30449654",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Matemática",
-    "Formação Continuada de Professores",
-    "Ensino de Probabilidade",
-    "Anos Iniciais do Ensino Fundamental",
-    "Desenvolvimento Profissional Docente"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-30449654.svg",
-  "resumo": "A presente investigação foi desenvolvida em um contexto de formação continuada, sob a perspectiva do Projeto Observatório da Educação, do qual participaram professores da rede estadual de São Paulo que lecionam Matemática para os anos iniciais do Ensino Fundamental. A pertinência deste estudo está associada às inovações curriculares para o ensino de Matemática no Brasil, que orientam a abordagem de ideias associadas às noções de Probabilidade a partir dos anos iniciais do Ensino Fundamental, e às discussões já empreendidas em pesquisas nacionais e internacionais a respeito das oportunidades de desenvolvimento profissional do professor, visto que ele é um ser imprescindível para implementar, no ensino, as propostas curriculares e conduzir o aluno a uma aprendizagem com compreensão. A pesquisa desenvolveu-se em três fases: fase diagnóstica, fase do processo de formação e, após um intervalo de tempo, a fase pós-formação. No planejamento da formação, buscou-se, no Programa Compreensão das Crianças sobre Probabilidade e Risco, fundamentar as discussões sobre questões didáticas referentes ao ensino de Probabilidade nos anos iniciais do Ensino Fundamental e à compreensão dos conceitos envolvidos na temática por crianças em fase inicial de escolarização. Recorrendo a uma investigação qualitativa, procurou-se descrever e interpretar a participação dos professores a partir dos dados coletados nas três fases. Entre os professores participantes da pesquisa, deuse especial atenção a seis professoras que participaram de todas as fases da pesquisa. Para essa coleta, foram utilizados os seguintes instrumentos: um questionário inicial, observações com registros escritos e gravados em vídeos e áudios, protocolos de tarefas e entrevistas. Buscou-se analisar e compreender as implicações de um curso de formação continuada [em que se propôs discutir o ensino de Probabilidade nos anos iniciais do Ensino Fundamental] para e no processo de desenvolvimento profissional dos professores, notadamente das seis professoras. Assim, a análise dos dados, realizada à luz das teorias a respeito do conhecimento, da reflexão e do desenvolvimento profissional, concentrou-se em dois aspectos: o primeiro, Conhecimento do Conteúdo e Conhecimento Pedagógico do Conteúdo, relativo às questões ligadas ao objeto matemático em discussão, e o segundo, Conhecimento, Reflexão sobre a prática e Desenvolvimento Profissional, relativo às discussões sobre a formação de professores. Em termos de resultados, evidenciou-se que o desenvolvimento profissional dos professores (especialmente das seis professoras) foi impulsionado pela participação no processo formativo, que contribuiu, sobremaneira, para o desenvolvimento e a ampliação da capacidade de reflexão e para a aquisição de conhecimentos de noções probabilísticas. As seis professoras investigadas, assim ocorreu com os demais professores, de maneira geral, adquiriram compreensões importantes em relação às ideias associadas ao conceito de Probabilidade e reconheceram a importância de explorar com as crianças ainda em fase inicial de escolaridade a noção da aleatoriedade. Isso as influenciou no planejamento de situações novas de ensino e na escolha de intervenções adequadas à compreensão pelos alunos das ideias probabilísticas exploradas em sala de aula e na proposição de momentos de estudos com seus pares no contexto da escola em que lecionavam. Destaca-se, nesse processo, a relação estabelecida entre as pesquisadoras e as professoras investigadas, durante e após a formação, a qual se configurou um aspecto determinante para o desenvolvimento profissional dessas docentes.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de probabilidade"
-  ],
-  "ids_duplicados": []
+ "id": "capes-30449654",
+ "autor": "Maria Gracilene de Carvalho Pinheiro",
+ "ano": 2019,
+ "tipo": "Tese",
+ "titulo": "Ensino de Probabilidade nos anos iniciais: um estudo sobre o desenvolvimento profissional do professor",
+ "instituicao": "Universidade Anhanguera de São Paulo",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Angelica da Fontoura Garcia Silva",
+ "programa": "EDUCAÇÃO MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Matemática; Formação Continuada de Professores; Ensino de Probabilidade; Anos Iniciais do Ensino Fundamental; Desenvolvimento Profissional Docente",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Ensino%20de%20Probabilidade%20nos%20anos%20iniciais%3A%20um%20estudo%20sobre%20o%20desenvolvimento%20profissional%20do%20professor%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Ensino%20de%20Probabilidade%20nos%20anos%20iniciais%3A%20um%20estudo%20sobre%20o%20desenvolvimento%20profissional%20do%20professor&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30449654"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "30449654",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Matemática",
+  "Formação Continuada de Professores",
+  "Ensino de Probabilidade",
+  "Anos Iniciais do Ensino Fundamental",
+  "Desenvolvimento Profissional Docente"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-30449654.svg",
+ "resumo": "A presente investigação foi desenvolvida em um contexto de formação continuada, sob a perspectiva do Projeto Observatório da Educação, do qual participaram professores da rede estadual de São Paulo que lecionam Matemática para os anos iniciais do Ensino Fundamental. A pertinência deste estudo está associada às inovações curriculares para o ensino de Matemática no Brasil, que orientam a abordagem de ideias associadas às noções de Probabilidade a partir dos anos iniciais do Ensino Fundamental, e às discussões já empreendidas em pesquisas nacionais e internacionais a respeito das oportunidades de desenvolvimento profissional do professor, visto que ele é um ser imprescindível para implementar, no ensino, as propostas curriculares e conduzir o aluno a uma aprendizagem com compreensão. A pesquisa desenvolveu-se em três fases: fase diagnóstica, fase do processo de formação e, após um intervalo de tempo, a fase pós-formação. No planejamento da formação, buscou-se, no Programa Compreensão das Crianças sobre Probabilidade e Risco, fundamentar as discussões sobre questões didáticas referentes ao ensino de Probabilidade nos anos iniciais do Ensino Fundamental e à compreensão dos conceitos envolvidos na temática por crianças em fase inicial de escolarização. Recorrendo a uma investigação qualitativa, procurou-se descrever e interpretar a participação dos professores a partir dos dados coletados nas três fases. Entre os professores participantes da pesquisa, deuse especial atenção a seis professoras que participaram de todas as fases da pesquisa. Para essa coleta, foram utilizados os seguintes instrumentos: um questionário inicial, observações com registros escritos e gravados em vídeos e áudios, protocolos de tarefas e entrevistas. Buscou-se analisar e compreender as implicações de um curso de formação continuada [em que se propôs discutir o ensino de Probabilidade nos anos iniciais do Ensino Fundamental] para e no processo de desenvolvimento profissional dos professores, notadamente das seis professoras. Assim, a análise dos dados, realizada à luz das teorias a respeito do conhecimento, da reflexão e do desenvolvimento profissional, concentrou-se em dois aspectos: o primeiro, Conhecimento do Conteúdo e Conhecimento Pedagógico do Conteúdo, relativo às questões ligadas ao objeto matemático em discussão, e o segundo, Conhecimento, Reflexão sobre a prática e Desenvolvimento Profissional, relativo às discussões sobre a formação de professores. Em termos de resultados, evidenciou-se que o desenvolvimento profissional dos professores (especialmente das seis professoras) foi impulsionado pela participação no processo formativo, que contribuiu, sobremaneira, para o desenvolvimento e a ampliação da capacidade de reflexão e para a aquisição de conhecimentos de noções probabilísticas. As seis professoras investigadas, assim ocorreu com os demais professores, de maneira geral, adquiriram compreensões importantes em relação às ideias associadas ao conceito de Probabilidade e reconheceram a importância de explorar com as crianças ainda em fase inicial de escolaridade a noção da aleatoriedade. Isso as influenciou no planejamento de situações novas de ensino e na escolha de intervenções adequadas à compreensão pelos alunos das ideias probabilísticas exploradas em sala de aula e na proposição de momentos de estudos com seus pares no contexto da escola em que lecionavam. Destaca-se, nesse processo, a relação estabelecida entre as pesquisadoras e as professoras investigadas, durante e após a formação, a qual se configurou um aspecto determinante para o desenvolvimento profissional dessas docentes.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de probabilidade"
+ ],
+ "ids_duplicados": []
 }

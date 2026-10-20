@@ -1,61 +1,61 @@
 {
-  "id": "capes-36960879",
-  "autor": "Vanessa Maciel Mangelot",
-  "ano": 2022,
-  "tipo": "Dissertação",
-  "titulo": "Desenvolvimento de Habilidades Socioemocionais em Aulas de Estatística: Contribuições de uma Sequência Didática para Estudantes do 9° Ano do Ensino Fundamental",
-  "instituicao": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Diva Valerio Novaes",
-  "programa": "Ensino de Ciências e Matemática",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Estatística; Educação Socioemocional",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22DESENVOLVIMENTO%20DE%20HABILIDADES%20SOCIOEMOCIONAIS%20EM%20AULAS%20DE%20ESTAT%C3%8DSTICA%3A%20CONTRIBUI%C3%87%C3%95ES%20DE%20UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20ESTUDANTES%20DO%209%C2%B0%20ANO%20DO%20ENSINO%20FUNDAMENTAL%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=DESENVOLVIMENTO%20DE%20HABILIDADES%20SOCIOEMOCIONAIS%20EM%20AULAS%20DE%20ESTAT%C3%8DSTICA%3A%20CONTRIBUI%C3%87%C3%95ES%20DE%20UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20ESTUDANTES%20DO%209%C2%B0%20ANO%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36960879"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "36960879",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Estatística",
-    "Educação Socioemocional"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-36960879.svg",
-  "resumo": "Mediante o relevante aumento da depressão psicológica dos discentes e da violência nos ambientes escolares, propomos atividades que ofertem vivências e reflexões no que tange às habilidades socioemocionais, as quais são propostas na Base Nacional Comum Curricular (BNCC). Não obstante, um dos desafios é utilizá-las em todas as áreas dos saberes. Acreditamos que todas as disciplinas escolares possam contribuir com essa formação. Nesse contexto, elaboramos uma sequência didática que considera os aspectos físicos, emocionais, cognitivos e intelectuais dos estudantes na formação acadêmica. Tal sequência didática foi desenvolvida para alunos do 9º ano de uma escola pública estadual, localizada na cidade de Guarulhos - SP. É importante ressaltar que a sequência didática poderá ser aplicada em todos os segmentos de ensino. Utilizamos metodologias ativas, especialmente a estratégia da sala de aula invertida, no espaço destinado ao processo de ensino e aprendizagem da Educação Estatística, de acordo com o currículo de Matemática. Para o desenvolvimento deste trabalho, utilizaremos a pesquisa\u0002ação, vide os objetivos nas respectivas etapas: pesquisa do referencial teórico em Educação Socioemocional; Educação Estatística; Análise Exploratória de Dados e Roda de Conversa. Pretendemos, dessarte, contribuir de maneira significativa, por meio da sequência didática elaborada, para o processo de ensino e aprendizagem do conteúdo específico de Estatística e, simultaneamente, com a formação integral dos estudantes, considerando a construção de autonomia, protagonismo, autoconhecimento e identidade dos estudantes. O produto educacional será a sequência didática elaborada para esse fim.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística"
-  ],
-  "ids_duplicados": [
-    "39438480"
-  ]
+ "id": "capes-36960879",
+ "autor": "Vanessa Maciel Mangelot",
+ "ano": 2022,
+ "tipo": "Dissertação",
+ "titulo": "Desenvolvimento de Habilidades Socioemocionais em Aulas de Estatística: Contribuições de uma Sequência Didática para Estudantes do 9° Ano do Ensino Fundamental",
+ "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Diva Valerio Novaes",
+ "programa": "Ensino de Ciências e Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Estatística; Educação Socioemocional",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22DESENVOLVIMENTO%20DE%20HABILIDADES%20SOCIOEMOCIONAIS%20EM%20AULAS%20DE%20ESTAT%C3%8DSTICA%3A%20CONTRIBUI%C3%87%C3%95ES%20DE%20UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20ESTUDANTES%20DO%209%C2%B0%20ANO%20DO%20ENSINO%20FUNDAMENTAL%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=DESENVOLVIMENTO%20DE%20HABILIDADES%20SOCIOEMOCIONAIS%20EM%20AULAS%20DE%20ESTAT%C3%8DSTICA%3A%20CONTRIBUI%C3%87%C3%95ES%20DE%20UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20ESTUDANTES%20DO%209%C2%B0%20ANO%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36960879"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "36960879",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Estatística",
+  "Educação Socioemocional"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-36960879.svg",
+ "resumo": "Mediante o relevante aumento da depressão psicológica dos discentes e da violência nos ambientes escolares, propomos atividades que ofertem vivências e reflexões no que tange às habilidades socioemocionais, as quais são propostas na Base Nacional Comum Curricular (BNCC). Não obstante, um dos desafios é utilizá-las em todas as áreas dos saberes. Acreditamos que todas as disciplinas escolares possam contribuir com essa formação. Nesse contexto, elaboramos uma sequência didática que considera os aspectos físicos, emocionais, cognitivos e intelectuais dos estudantes na formação acadêmica. Tal sequência didática foi desenvolvida para alunos do 9º ano de uma escola pública estadual, localizada na cidade de Guarulhos - SP. É importante ressaltar que a sequência didática poderá ser aplicada em todos os segmentos de ensino. Utilizamos metodologias ativas, especialmente a estratégia da sala de aula invertida, no espaço destinado ao processo de ensino e aprendizagem da Educação Estatística, de acordo com o currículo de Matemática. Para o desenvolvimento deste trabalho, utilizaremos a pesquisa\u0002ação, vide os objetivos nas respectivas etapas: pesquisa do referencial teórico em Educação Socioemocional; Educação Estatística; Análise Exploratória de Dados e Roda de Conversa. Pretendemos, dessarte, contribuir de maneira significativa, por meio da sequência didática elaborada, para o processo de ensino e aprendizagem do conteúdo específico de Estatística e, simultaneamente, com a formação integral dos estudantes, considerando a construção de autonomia, protagonismo, autoconhecimento e identidade dos estudantes. O produto educacional será a sequência didática elaborada para esse fim.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística"
+ ],
+ "ids_duplicados": [
+  "39438480"
+ ]
 }

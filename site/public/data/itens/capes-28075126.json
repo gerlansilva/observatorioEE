@@ -1,61 +1,61 @@
 {
-  "id": "capes-28075126",
-  "autor": "Jader Luiz Henz",
-  "ano": 2018,
-  "tipo": "Dissertação",
-  "titulo": "Evidências do Desenvolvimento de Competências ÉTICO-ESTÉTICAS e Políticas em uma Sequência Didática de Estatística na Rede Marista",
-  "instituicao": "UNIVERSIDADE FEDERAL DO RIO GRANDE",
-  "cidade": "",
-  "estado": "Rio Grande do Sul",
-  "regiao": "Sul",
-  "orientador": "Mauren Porciuncula Moreira da Silva",
-  "programa": "EDUCAÇÃO EM CIÊNCIAS QUÌMICA DA VIDA E SAÚDE ( UFSM - FURG)",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Sequência Didática; Educação Estatística; Competências ético-estéticas; Competências políticas; Rede Marista",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22EVID%C3%8ANCIAS%20DO%20DESENVOLVIMENTO%20DE%20COMPET%C3%8ANCIAS%20%C3%89TICO-EST%C3%89TICAS%20E%20POL%C3%8DTICAS%20EM%20UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20DE%20ESTAT%C3%8DSTICA%20NA%20REDE%20MARISTA%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=EVID%C3%8ANCIAS%20DO%20DESENVOLVIMENTO%20DE%20COMPET%C3%8ANCIAS%20%C3%89TICO-EST%C3%89TICAS%20E%20POL%C3%8DTICAS%20EM%20UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20DE%20ESTAT%C3%8DSTICA%20NA%20REDE%20MARISTA&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28075126"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "28075126",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Sequência Didática",
-    "Educação Estatística",
-    "Competências ético-estéticas",
-    "Competências políticas",
-    "Rede Marista"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-28075126.svg",
-  "resumo": "Os conceitos de Estatística têm indicado, desde a publicação dos Parâmetros Curriculares Nacionais, espaço nos currículos das escolas de Educação Básica. Essa presença é reiterada em 2018, com a publicação da Base Nacional Comum Curricular. Dessa forma, os estudantes têm direito à formação Estatística compreendida, também, como Letramento Estatístico. Para compreender elementos da Educação Estatística, escolhemos uma escola de educação básica, da Rede Marista, localizada na região Sul do Brasil, para a realização da pesquisa. Optamos por analisar o trabalho com turmas do 6º ano do Ensino Fundamental. As escolas desta rede de ensino têm como proposta metodológica o trabalho com sequências didáticas que, segundo as Matrizes Curriculares da Educação Básica do Brasil Marista, visam o desenvolvimento de competências acadêmicas, tecnológicas, ético-estéticas e políticas. Frente a esse cenário, a presente pesquisa, teve como objetivo identificar aspectos que evidenciam a intenção de desenvolver competências ético-estéticas e políticas, a partir da realização de uma Sequência Didática de Estatística, na turma e escola acima referenciada. Utilizamos uma abordagem de pesquisa qualitativa, a partir da contribuição no planejamento da Sequência Didática, do acompanhamento das aulas, na qual se deram a aplicação da proposta, e de uma entrevista semiestruturada, realizada com a professora. O método de análise seguiu a proposta da Análise de Conteúdo (BARDIN, 2016). Disso, emergiram duas categorias: i) Relação professor e estudante na Sequência Didática; e ii) Competências ético-estéticas e políticas. As duas categorias identificadas, a partir das análises das intenções das atividades e dos conteúdos que foram desenvolvidos na proposição da Sequência Didática de Estatística, nos mostram evidências do desenvolvimento dessas competências. Com esta investigação, verificamos a possibilidade das sequências didáticas, enquanto metodologia de ensino para a Rede Marista, no que tange as intenções para o desenvolvimento dessas competências.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-28075126",
+ "autor": "Jader Luiz Henz",
+ "ano": 2018,
+ "tipo": "Dissertação",
+ "titulo": "Evidências do Desenvolvimento de Competências ÉTICO-ESTÉTICAS e Políticas em uma Sequência Didática de Estatística na Rede Marista",
+ "instituicao": "Universidade Federal do Rio Grande",
+ "cidade": "",
+ "estado": "Rio Grande do Sul",
+ "regiao": "Sul",
+ "orientador": "Mauren Porciuncula Moreira da Silva",
+ "programa": "EDUCAÇÃO EM CIÊNCIAS QUÌMICA DA VIDA E SAÚDE ( UFSM - FURG)",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Sequência Didática; Educação Estatística; Competências ético-estéticas; Competências políticas; Rede Marista",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22EVID%C3%8ANCIAS%20DO%20DESENVOLVIMENTO%20DE%20COMPET%C3%8ANCIAS%20%C3%89TICO-EST%C3%89TICAS%20E%20POL%C3%8DTICAS%20EM%20UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20DE%20ESTAT%C3%8DSTICA%20NA%20REDE%20MARISTA%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=EVID%C3%8ANCIAS%20DO%20DESENVOLVIMENTO%20DE%20COMPET%C3%8ANCIAS%20%C3%89TICO-EST%C3%89TICAS%20E%20POL%C3%8DTICAS%20EM%20UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20DE%20ESTAT%C3%8DSTICA%20NA%20REDE%20MARISTA&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28075126"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "28075126",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Sequência Didática",
+  "Educação Estatística",
+  "Competências ético-estéticas",
+  "Competências políticas",
+  "Rede Marista"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-28075126.svg",
+ "resumo": "Os conceitos de Estatística têm indicado, desde a publicação dos Parâmetros Curriculares Nacionais, espaço nos currículos das escolas de Educação Básica. Essa presença é reiterada em 2018, com a publicação da Base Nacional Comum Curricular. Dessa forma, os estudantes têm direito à formação Estatística compreendida, também, como Letramento Estatístico. Para compreender elementos da Educação Estatística, escolhemos uma escola de educação básica, da Rede Marista, localizada na região Sul do Brasil, para a realização da pesquisa. Optamos por analisar o trabalho com turmas do 6º ano do Ensino Fundamental. As escolas desta rede de ensino têm como proposta metodológica o trabalho com sequências didáticas que, segundo as Matrizes Curriculares da Educação Básica do Brasil Marista, visam o desenvolvimento de competências acadêmicas, tecnológicas, ético-estéticas e políticas. Frente a esse cenário, a presente pesquisa, teve como objetivo identificar aspectos que evidenciam a intenção de desenvolver competências ético-estéticas e políticas, a partir da realização de uma Sequência Didática de Estatística, na turma e escola acima referenciada. Utilizamos uma abordagem de pesquisa qualitativa, a partir da contribuição no planejamento da Sequência Didática, do acompanhamento das aulas, na qual se deram a aplicação da proposta, e de uma entrevista semiestruturada, realizada com a professora. O método de análise seguiu a proposta da Análise de Conteúdo (BARDIN, 2016). Disso, emergiram duas categorias: i) Relação professor e estudante na Sequência Didática; e ii) Competências ético-estéticas e políticas. As duas categorias identificadas, a partir das análises das intenções das atividades e dos conteúdos que foram desenvolvidos na proposição da Sequência Didática de Estatística, nos mostram evidências do desenvolvimento dessas competências. Com esta investigação, verificamos a possibilidade das sequências didáticas, enquanto metodologia de ensino para a Rede Marista, no que tange as intenções para o desenvolvimento dessas competências.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": []
 }

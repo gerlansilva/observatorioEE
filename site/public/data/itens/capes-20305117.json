@@ -1,60 +1,60 @@
 {
-  "id": "capes-20305117",
-  "autor": "Claudia Costa dos Santos",
-  "ano": 2014,
-  "tipo": "Dissertação",
-  "titulo": "Possibilidades do Uso do Computador no Ensino de Gráficos: Um Estudo em Escolas do Projovem - Recife",
-  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Liliane Maria Teixeira Lima de Carvalho",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Programa Nacional de Inclusão de Jovens; Tecnologia e cidadania; Letramento estatístico; Ensino de gráficos.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22POSSIBILIDADES%20DO%20USO%20DO%20COMPUTADOR%20NO%20ENSINO%20DE%20GR%C3%81FICOS%3A%20UM%20ESTUDO%20EM%20ESCOLAS%20DO%20PROJOVEM%20-%20RECIFE%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=POSSIBILIDADES%20DO%20USO%20DO%20COMPUTADOR%20NO%20ENSINO%20DE%20GR%C3%81FICOS%3A%20UM%20ESTUDO%20EM%20ESCOLAS%20DO%20PROJOVEM%20-%20RECIFE&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20305117"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "20305117",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Programa Nacional de Inclusão de Jovens",
-    "Tecnologia e cidadania",
-    "Letramento estatístico",
-    "Ensino de gráficos."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-20305117.svg",
-  "resumo": "O programa nacional de inclusão de Jovens - Projovem está fundamentado numa perspectiva de participação cidadã. Carzola e Castro (2008) destacam a importância do letramento estatístico para o desenvolvimento da cidadania. Ser letrado nessa área significa perceber as armadilhas que se põem numa informação veiculada por meio de gráficos, em parte devido a utilização frequente dessas representações em diversos contextos, como o da mídia e o escolar. Carvalho, Monteiro e Campos (2011) destacam que atividades com gráficos precisam ser pensadas na escola como processos de resolução de problemas nos quais diferentes fatores têm influência. Na proposta pedagógica do Projovem, o ensino de gráficos perpassa as unidades formativas. Espera-se também que os conteúdos curriculares sejam desenvolvidos de forma integrada com os meios tecnológicos. Nessa pesquisa, buscamos analisar algumas experiências sobre o ensino de gráficos nas quais o professor usam o computador como recurso. O estudo foi realizado em escolas núcleos do Projovem em Recife. A metodologia consistiu de três etapas: mapeamento das escolas; entrevistas com quatro professores de matemática; e observação de duas aulas de matemática nas quais os professores realizavam o ensino de gráficos com o uso do computador. A maioria das escolas visitadas possui laboratório de informática com computadores funcionando adequadamente. Os docentes entrevistados possuem mais de cinco anos de experiência de ensino no Projovem e apenas dois tem formação inicial em Matemática, os outros dois são graduados em Ciências e Biologia. Seus enfoques sobre gráficos envolveram preocupações com aspectos conceituais e de visualização de dados. Nas aulas de matemática observadas as atividades envolveram a construção de gráficos com papel e lápis em sala de aula e com a ferramenta BrOffice.org no laboratório de informática. Em geral, as atividades contribuíram para os estudantes ampliarem suas percepções sobre a apresentação de dados. Contudo, as situações didáticas exploradas foram conduzidas a partir de algumas práticas tradicionais dos docentes. Além disso, os professores não se envolveram de forma efetiva nas situações de construção de gráficos com o software, ficando essas atividades ao encargo do monitor. Experiências de ensino sobre gráficos envolvendo a proposta de currículo integrado do Projovem são possíveis e necessárias para o letramento estatístico dos jovens, devendo, portanto fazer parte da formação continuada desses docentes. Tal processo pode implicar num maior engajamento dos docentes à apropriação e uso em situações didáticas das ferramentas tecnológicas direcionadas ao ensino de gráficos.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "letramento estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-20305117",
+ "autor": "Claudia Costa dos Santos",
+ "ano": 2014,
+ "tipo": "Dissertação",
+ "titulo": "Possibilidades do Uso do Computador no Ensino de Gráficos: Um Estudo em Escolas do Projovem - Recife",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Liliane Maria Teixeira Lima de Carvalho",
+ "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Programa Nacional de Inclusão de Jovens; Tecnologia e cidadania; Letramento estatístico; Ensino de gráficos.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22POSSIBILIDADES%20DO%20USO%20DO%20COMPUTADOR%20NO%20ENSINO%20DE%20GR%C3%81FICOS%3A%20UM%20ESTUDO%20EM%20ESCOLAS%20DO%20PROJOVEM%20-%20RECIFE%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=POSSIBILIDADES%20DO%20USO%20DO%20COMPUTADOR%20NO%20ENSINO%20DE%20GR%C3%81FICOS%3A%20UM%20ESTUDO%20EM%20ESCOLAS%20DO%20PROJOVEM%20-%20RECIFE&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20305117"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "20305117",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Programa Nacional de Inclusão de Jovens",
+  "Tecnologia e cidadania",
+  "Letramento estatístico",
+  "Ensino de gráficos."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-20305117.svg",
+ "resumo": "O programa nacional de inclusão de Jovens - Projovem está fundamentado numa perspectiva de participação cidadã. Carzola e Castro (2008) destacam a importância do letramento estatístico para o desenvolvimento da cidadania. Ser letrado nessa área significa perceber as armadilhas que se põem numa informação veiculada por meio de gráficos, em parte devido a utilização frequente dessas representações em diversos contextos, como o da mídia e o escolar. Carvalho, Monteiro e Campos (2011) destacam que atividades com gráficos precisam ser pensadas na escola como processos de resolução de problemas nos quais diferentes fatores têm influência. Na proposta pedagógica do Projovem, o ensino de gráficos perpassa as unidades formativas. Espera-se também que os conteúdos curriculares sejam desenvolvidos de forma integrada com os meios tecnológicos. Nessa pesquisa, buscamos analisar algumas experiências sobre o ensino de gráficos nas quais o professor usam o computador como recurso. O estudo foi realizado em escolas núcleos do Projovem em Recife. A metodologia consistiu de três etapas: mapeamento das escolas; entrevistas com quatro professores de matemática; e observação de duas aulas de matemática nas quais os professores realizavam o ensino de gráficos com o uso do computador. A maioria das escolas visitadas possui laboratório de informática com computadores funcionando adequadamente. Os docentes entrevistados possuem mais de cinco anos de experiência de ensino no Projovem e apenas dois tem formação inicial em Matemática, os outros dois são graduados em Ciências e Biologia. Seus enfoques sobre gráficos envolveram preocupações com aspectos conceituais e de visualização de dados. Nas aulas de matemática observadas as atividades envolveram a construção de gráficos com papel e lápis em sala de aula e com a ferramenta BrOffice.org no laboratório de informática. Em geral, as atividades contribuíram para os estudantes ampliarem suas percepções sobre a apresentação de dados. Contudo, as situações didáticas exploradas foram conduzidas a partir de algumas práticas tradicionais dos docentes. Além disso, os professores não se envolveram de forma efetiva nas situações de construção de gráficos com o software, ficando essas atividades ao encargo do monitor. Experiências de ensino sobre gráficos envolvendo a proposta de currículo integrado do Projovem são possíveis e necessárias para o letramento estatístico dos jovens, devendo, portanto fazer parte da formação continuada desses docentes. Tal processo pode implicar num maior engajamento dos docentes à apropriação e uso em situações didáticas das ferramentas tecnológicas direcionadas ao ensino de gráficos.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "letramento estatístico"
+ ],
+ "ids_duplicados": []
 }

@@ -1,55 +1,55 @@
 {
-  "id": "capes-30382641",
-  "autor": "Patricia Azevedo de Oliveira",
-  "ano": 2019,
-  "tipo": "Dissertação",
-  "titulo": "Uma Proposta de Ensino de Estatística Utilizando a Modelagem Matemática no Ensino Médio",
-  "instituicao": "UNIVERSIDADE FEDERAL DO MARANHÃO",
-  "cidade": "",
-  "estado": "Maranhão",
-  "regiao": "Nordeste",
-  "orientador": "Raimundo Luna Neres",
-  "programa": "GESTÃO DE ENSINO DA EDUCAÇÃO BÁSICA",
-  "area": "Educação",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Modelagem Matemática. Estatística. Ensino. Aprendizagem; Ensino Médio.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22UMA%20PROPOSTA%20DE%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20UTILIZANDO%20A%20MODELAGEM%20MATEM%C3%81TICA%20NO%20ENSINO%20M%C3%89DIO%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UMA%20PROPOSTA%20DE%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20UTILIZANDO%20A%20MODELAGEM%20MATEM%C3%81TICA%20NO%20ENSINO%20M%C3%89DIO&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30382641"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "30382641",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Modelagem Matemática. Estatística. Ensino. Aprendizagem",
-    "Ensino Médio."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-30382641.svg",
-  "resumo": "Apresenta-se neste trabalho uma pesquisa com enfoque didático-pedagógico em modelagem matemática, fazendo uso das cinco etapas da modelagem sugeridas por Burak e Aragão (2012), como suporte para a construção de sequências didáticas utilizadas na fase de intervenção por meio da realização de experimentos, cujo objetivo foi analisar o uso didático da modelagem matemática na resolução de problemas de estatística aplicados aos alunos de uma turma do 3º ano do Ensino Médio de uma escola pública de São Luís, MA. Para fundamentar as discussões teóricas sobre o assunto foram utilizados os estudos de Barbosa (2004); Almeida, Silva e Vertuan (2012); Burak e Aragão (2012); Meyer, Caldeira e Malheiros (2013); Bassanezi (2016); Biembengut (2016); Biembengut e Hein (2016); Alencar e Bueno (2017). Foi uma pesquisa qualitativa de intervenção, destinada às reflexões teóricas sobre a apropriação de conceitos sobre as medidas de tendência central e de dispersão, bem como a aplicação dessas medidas na resolução de problemas estatísticos. Os resultados revelaram que os discentes se apropriaram dos conceitos trabalhados, bem como, das atividades estatísticas desenvolvidas em sala de aula. Observou-se também que essa metodologia permitiu-lhes desenvolver novas heurísticas de resolução, promovendo dessa forma, aprendizagem do objeto de estudo. Contudo, a proposta de ensino desencadeou o produto educacional que constituiu um tutorial para o uso da modelagem matemática em experimentos estatísticos na Educação Básica com quatro atividades sobre as medidas estatísticas de centralidade e de dispersão, que foram trabalhadas com os alunos pesquisados. Para isso, foram realizados quatro experimentos: os dois primeiros temas (copa do mundo; eleições 2018 no Brasil) foram apresentados pela pesquisadora e os outros dois temas foram escolhidos pelos alunos, que sugeriram com maior ênfase dois tópicos de discussão: saúde e tecnologia. Dessa forma, os dois últimos experimentos contemplaram a abordagem dos temas (diário alimentar; o uso do GeoGebra no tratamento da informação).",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": null
+ "id": "capes-30382641",
+ "autor": "Patricia Azevedo de Oliveira",
+ "ano": 2019,
+ "tipo": "Dissertação",
+ "titulo": "Uma Proposta de Ensino de Estatística Utilizando a Modelagem Matemática no Ensino Médio",
+ "instituicao": "Universidade Federal do Maranhão",
+ "cidade": "",
+ "estado": "Maranhão",
+ "regiao": "Nordeste",
+ "orientador": "Raimundo Luna Neres",
+ "programa": "GESTÃO DE ENSINO DA EDUCAÇÃO BÁSICA",
+ "area": "Educação",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Modelagem Matemática. Estatística. Ensino. Aprendizagem; Ensino Médio.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22UMA%20PROPOSTA%20DE%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20UTILIZANDO%20A%20MODELAGEM%20MATEM%C3%81TICA%20NO%20ENSINO%20M%C3%89DIO%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UMA%20PROPOSTA%20DE%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20UTILIZANDO%20A%20MODELAGEM%20MATEM%C3%81TICA%20NO%20ENSINO%20M%C3%89DIO&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30382641"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "30382641",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Modelagem Matemática. Estatística. Ensino. Aprendizagem",
+  "Ensino Médio."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-30382641.svg",
+ "resumo": "Apresenta-se neste trabalho uma pesquisa com enfoque didático-pedagógico em modelagem matemática, fazendo uso das cinco etapas da modelagem sugeridas por Burak e Aragão (2012), como suporte para a construção de sequências didáticas utilizadas na fase de intervenção por meio da realização de experimentos, cujo objetivo foi analisar o uso didático da modelagem matemática na resolução de problemas de estatística aplicados aos alunos de uma turma do 3º ano do Ensino Médio de uma escola pública de São Luís, MA. Para fundamentar as discussões teóricas sobre o assunto foram utilizados os estudos de Barbosa (2004); Almeida, Silva e Vertuan (2012); Burak e Aragão (2012); Meyer, Caldeira e Malheiros (2013); Bassanezi (2016); Biembengut (2016); Biembengut e Hein (2016); Alencar e Bueno (2017). Foi uma pesquisa qualitativa de intervenção, destinada às reflexões teóricas sobre a apropriação de conceitos sobre as medidas de tendência central e de dispersão, bem como a aplicação dessas medidas na resolução de problemas estatísticos. Os resultados revelaram que os discentes se apropriaram dos conceitos trabalhados, bem como, das atividades estatísticas desenvolvidas em sala de aula. Observou-se também que essa metodologia permitiu-lhes desenvolver novas heurísticas de resolução, promovendo dessa forma, aprendizagem do objeto de estudo. Contudo, a proposta de ensino desencadeou o produto educacional que constituiu um tutorial para o uso da modelagem matemática em experimentos estatísticos na Educação Básica com quatro atividades sobre as medidas estatísticas de centralidade e de dispersão, que foram trabalhadas com os alunos pesquisados. Para isso, foram realizados quatro experimentos: os dois primeiros temas (copa do mundo; eleições 2018 no Brasil) foram apresentados pela pesquisadora e os outros dois temas foram escolhidos pelos alunos, que sugeriram com maior ênfase dois tópicos de discussão: saúde e tecnologia. Dessa forma, os dois últimos experimentos contemplaram a abordagem dos temas (diário alimentar; o uso do GeoGebra no tratamento da informação).",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": null
 }

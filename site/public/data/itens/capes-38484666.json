@@ -1,60 +1,60 @@
 {
-  "id": "capes-38484666",
-  "autor": "Lucas Eduardo de Siqueira",
-  "ano": 2023,
-  "tipo": "Dissertação",
-  "titulo": "Esculpindo o Conhecimento Tecnológico Didático do Conteúdo de Licenciandos em Física: Uma Prática Formativa à Luz de Metodologias Ativas",
-  "instituicao": "UNIVERSIDADE FEDERAL DO PARANÁ",
-  "cidade": "",
-  "estado": "Paraná",
-  "regiao": "Sul",
-  "orientador": "Everton Bedin",
-  "programa": "Educação em Ciências e em Matemática",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Conhecimento Tecnológico Didático do Conteúdo; Formação Inicial de Professores; Metodologias Ativas; Tecnologias Digitais da Informação e Comunicação; Análise Estatística",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22ESCULPINDO%20O%20CONHECIMENTO%20TECNOL%C3%93GICO%20DID%C3%81TICO%20DO%20CONTE%C3%9ADO%20DE%20LICENCIANDOS%20EM%20F%C3%8DSICA%3A%20UMA%20PR%C3%81TICA%20FORMATIVA%20%C3%80%20LUZ%20DE%20METODOLOGIAS%20ATIVAS%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESCULPINDO%20O%20CONHECIMENTO%20TECNOL%C3%93GICO%20DID%C3%81TICO%20DO%20CONTE%C3%9ADO%20DE%20LICENCIANDOS%20EM%20F%C3%8DSICA%3A%20UMA%20PR%C3%81TICA%20FORMATIVA%20%C3%80%20LUZ%20DE%20METODOLOGIAS%20ATIVAS&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38484666"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "38484666",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Conhecimento Tecnológico Didático do Conteúdo",
-    "Formação Inicial de Professores",
-    "Metodologias Ativas",
-    "Tecnologias Digitais da Informação e Comunicação",
-    "Análise Estatística"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-38484666.svg",
-  "resumo": "No contexto das pesquisas sobre Tecnologias Digitais da Informação e Comunicação (TDIC) no Ensino de Ciências e Matemática, o uso das tecnologias tem demonstrado ser um grande desafio, principalmente para os professores que não possuem formação adequada para lidar com os avanços cada vez mais presentes na realidade escolar. Se por um lado a falta dessa implementação causa disparidades na construção do conhecimento crítico-reflexivo, por outro, o uso deliberado sem intencionalidade educacional e a falta de uma base referencial sólida, fazem com que os processos de ensino e aprendizagem não sejam possibilitados eficazmente. Com o propósito de atender essa demanda, surge o modelo teórico Technological Pedagogical Content Knowledge (TPACK), traduzido como Conhecimento Tecnológico Didático do Conteúdo (CTDC), proposto por Mishra e Koehler (2006), pois ressalta a necessidade de trazer uma abordagem que relacione de forma uníssona os conhecimentos didático, tecnológico e de conteúdo de professores à luz de ser possível alcançar uma prática que valorize integralmente as tecnologias, sendo através das metodologias ativas e das TDIC. No âmbito da formação inicial de professores, essa pesquisa buscou analisar de que maneira 16 licenciandos de Física organizam e avaliam as suas percepções cientificas, tecnológicas e didáticas baseadas no framework do Conhecimento Tecnológico Didático do Conteúdo (CTDC), antes e depois de participarem de uma oficina formativa (OF) à luz do uso das TDIC e de metodologias ativas. A OF foi realizada em 8 encontros e, metodologicamente, a pesquisa se enquadra em uma abordagem quali-quantitativa, com objetivo descritivo, procedimento participante. A constituição dos dados ocorreu em três etapas: análise dos conhecimentos (antes e depois da OF) por meio de um questionário com assertivas, que possuem graus de percepção entre 1 e 4; observações durante os encontros na OF; e, análise do material produzido pelos licenciandos, chamado de Plano de Trabalho de Iniciação à Docência (PTID). Para as interpretações, nas observações, utilizou-se o método indutivo-construtivo, nos PTID, a análise Interpretativa-Construtiva e nos questionários, a Análise Estatística. Os resultados indicam que a aplicação da OF, nesse contexto, promoveu a mobilização dos conhecimentos necessários para o desenvolvimento e a promoção do perfil teórico CTDC nos licenciandos, aumentando seus graus de percepção em quase todas as assertivas, acúmenes que corroboram com as outras formas de análise usadas. Portanto, verificou-se de que maneira ocorrem as mudanças de profundidade ao que se alude o entendimento dos licenciandos sobre os conhecimentos necessários para promover práticas inovadoras, principalmente aquelas embasadas em tecnologias e didática. Observou-se, que anteriormente a intervenção os licenciandos não possuíam níveis mais complexos de entendimento sobre os conhecimentos, principalmente em suas interseções, mostrando-se como um fator limitante as falhas de formação durante a graduação no curso. Com a OF foi possível diminuir essa lacuna existente, explorando os níveis de conhecimentos que acenam ao CTDC para suas práticas, entretanto, elucidá-las não foi possível, visto que elas deveriam ser continuamente trabalhadas ao longo da profissão.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "coleta expandida (plural/vocabulário)"
-  ]
+ "id": "capes-38484666",
+ "autor": "Lucas Eduardo de Siqueira",
+ "ano": 2023,
+ "tipo": "Dissertação",
+ "titulo": "Esculpindo o Conhecimento Tecnológico Didático do Conteúdo de Licenciandos em Física: Uma Prática Formativa à Luz de Metodologias Ativas",
+ "instituicao": "Universidade Federal do Paraná",
+ "cidade": "",
+ "estado": "Paraná",
+ "regiao": "Sul",
+ "orientador": "Everton Bedin",
+ "programa": "Educação em Ciências e em Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Conhecimento Tecnológico Didático do Conteúdo; Formação Inicial de Professores; Metodologias Ativas; Tecnologias Digitais da Informação e Comunicação; Análise Estatística",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22ESCULPINDO%20O%20CONHECIMENTO%20TECNOL%C3%93GICO%20DID%C3%81TICO%20DO%20CONTE%C3%9ADO%20DE%20LICENCIANDOS%20EM%20F%C3%8DSICA%3A%20UMA%20PR%C3%81TICA%20FORMATIVA%20%C3%80%20LUZ%20DE%20METODOLOGIAS%20ATIVAS%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESCULPINDO%20O%20CONHECIMENTO%20TECNOL%C3%93GICO%20DID%C3%81TICO%20DO%20CONTE%C3%9ADO%20DE%20LICENCIANDOS%20EM%20F%C3%8DSICA%3A%20UMA%20PR%C3%81TICA%20FORMATIVA%20%C3%80%20LUZ%20DE%20METODOLOGIAS%20ATIVAS&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38484666"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "38484666",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Conhecimento Tecnológico Didático do Conteúdo",
+  "Formação Inicial de Professores",
+  "Metodologias Ativas",
+  "Tecnologias Digitais da Informação e Comunicação",
+  "Análise Estatística"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-38484666.svg",
+ "resumo": "No contexto das pesquisas sobre Tecnologias Digitais da Informação e Comunicação (TDIC) no Ensino de Ciências e Matemática, o uso das tecnologias tem demonstrado ser um grande desafio, principalmente para os professores que não possuem formação adequada para lidar com os avanços cada vez mais presentes na realidade escolar. Se por um lado a falta dessa implementação causa disparidades na construção do conhecimento crítico-reflexivo, por outro, o uso deliberado sem intencionalidade educacional e a falta de uma base referencial sólida, fazem com que os processos de ensino e aprendizagem não sejam possibilitados eficazmente. Com o propósito de atender essa demanda, surge o modelo teórico Technological Pedagogical Content Knowledge (TPACK), traduzido como Conhecimento Tecnológico Didático do Conteúdo (CTDC), proposto por Mishra e Koehler (2006), pois ressalta a necessidade de trazer uma abordagem que relacione de forma uníssona os conhecimentos didático, tecnológico e de conteúdo de professores à luz de ser possível alcançar uma prática que valorize integralmente as tecnologias, sendo através das metodologias ativas e das TDIC. No âmbito da formação inicial de professores, essa pesquisa buscou analisar de que maneira 16 licenciandos de Física organizam e avaliam as suas percepções cientificas, tecnológicas e didáticas baseadas no framework do Conhecimento Tecnológico Didático do Conteúdo (CTDC), antes e depois de participarem de uma oficina formativa (OF) à luz do uso das TDIC e de metodologias ativas. A OF foi realizada em 8 encontros e, metodologicamente, a pesquisa se enquadra em uma abordagem quali-quantitativa, com objetivo descritivo, procedimento participante. A constituição dos dados ocorreu em três etapas: análise dos conhecimentos (antes e depois da OF) por meio de um questionário com assertivas, que possuem graus de percepção entre 1 e 4; observações durante os encontros na OF; e, análise do material produzido pelos licenciandos, chamado de Plano de Trabalho de Iniciação à Docência (PTID). Para as interpretações, nas observações, utilizou-se o método indutivo-construtivo, nos PTID, a análise Interpretativa-Construtiva e nos questionários, a Análise Estatística. Os resultados indicam que a aplicação da OF, nesse contexto, promoveu a mobilização dos conhecimentos necessários para o desenvolvimento e a promoção do perfil teórico CTDC nos licenciandos, aumentando seus graus de percepção em quase todas as assertivas, acúmenes que corroboram com as outras formas de análise usadas. Portanto, verificou-se de que maneira ocorrem as mudanças de profundidade ao que se alude o entendimento dos licenciandos sobre os conhecimentos necessários para promover práticas inovadoras, principalmente aquelas embasadas em tecnologias e didática. Observou-se, que anteriormente a intervenção os licenciandos não possuíam níveis mais complexos de entendimento sobre os conhecimentos, principalmente em suas interseções, mostrando-se como um fator limitante as falhas de formação durante a graduação no curso. Com a OF foi possível diminuir essa lacuna existente, explorando os níveis de conhecimentos que acenam ao CTDC para suas práticas, entretanto, elucidá-las não foi possível, visto que elas deveriam ser continuamente trabalhadas ao longo da profissão.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "coleta expandida (plural/vocabulário)"
+ ]
 }

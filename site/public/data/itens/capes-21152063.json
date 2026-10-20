@@ -1,60 +1,60 @@
 {
-  "id": "capes-21152063",
-  "autor": "Cassio Cristiano Giordano",
-  "ano": 2016,
-  "tipo": "Dissertação",
-  "titulo": "O Desenvolvimento do Letramento Estatístico por Meio de Projetos: Um Estudo com Alunos do Ensino Médio",
-  "instituicao": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE SÃO PAULO",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Cileda de Queiroz e Silva Coutinho",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação estatística; Letramento estatístico; Ensino Médio",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20DESENVOLVIMENTO%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20POR%20MEIO%20DE%20PROJETOS%3A%20UM%20ESTUDO%20COM%20ALUNOS%20DO%20ENSINO%20M%C3%89DIO%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20DESENVOLVIMENTO%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20POR%20MEIO%20DE%20PROJETOS%3A%20UM%20ESTUDO%20COM%20ALUNOS%20DO%20ENSINO%20M%C3%89DIO&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21152063"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "21152063",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação estatística",
-    "Letramento estatístico",
-    "Ensino Médio"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-21152063.svg",
-  "resumo": "O letramento estatístico é fundamental para a formação acadêmica, para a vida profissional e, sobretudo, para o exercício da cidadania em nossa sociedade, dada a facilidade de acesso a dados estatísticos por meio de diversos veículos de informação. Ler e interpretar tais dados, bem como expressar ideias neles embasadas, tornaram-se essenciais para cada um de nós. No entanto, apesar das orientações curriculares nacionais e estaduais, o ensino e a aprendizagem da Estatística não têm recebido nas escolas da rede estadual de São Paulo o merecido espaço, tanto no Caderno do Aluno (material institucional oferecido pela Secretaria de Educação), quanto pela maioria dos livros didáticos disponíveis para o Ensino Médio. Vemos no ensino e na aprendizagem da Estatística por meio de projetos uma oportunidade para o desenvolvimento do letramento estatístico. Além disso, a abordagem da Estatística por meio de projetos muda, de forma notável, as relações entre professor, aluno e saber, promovendo maior autonomia por parte dos alunos no desenvolvimento de suas pesquisas. Para analisar esses dois fenômenos – o desenvolvimento do letramento e as mudanças no contrato didático – em uma abordagem por meio de projetos, realizamos um estudo de caso. Nossos sujeitos de pesquisa foram 43 alunos com idades de 17 a 20 anos oriundos de duas turmas de terceiro ano do Ensino Médio, divididos em nove grupos de quatro ou cinco integrantes. Eles participaram, durante um bimestre letivo, de todo o processo de desenvolvimento de uma pesquisa estatística, desde a escolha do tema e elaboração da questão de pesquisa até a análise e divulgação dos resultados. Os resultados revelaram que essa abordagem favorece o desenvolvimento do letramento estatístico, bem como gera condições para uma quebra de contrato didático, importante para o desenvolvimento da autonomia dos alunos, preparando-os para os desafios futuros de suas vidas, na universidade, no mercado de trabalho ou em qualquer outra situação",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "letramento estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-21152063",
+ "autor": "Cassio Cristiano Giordano",
+ "ano": 2016,
+ "tipo": "Dissertação",
+ "titulo": "O Desenvolvimento do Letramento Estatístico por Meio de Projetos: Um Estudo com Alunos do Ensino Médio",
+ "instituicao": "Pontifícia Universidade Católica de São Paulo",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Cileda de Queiroz e Silva Coutinho",
+ "programa": "EDUCAÇÃO MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação estatística; Letramento estatístico; Ensino Médio",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20DESENVOLVIMENTO%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20POR%20MEIO%20DE%20PROJETOS%3A%20UM%20ESTUDO%20COM%20ALUNOS%20DO%20ENSINO%20M%C3%89DIO%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20DESENVOLVIMENTO%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20POR%20MEIO%20DE%20PROJETOS%3A%20UM%20ESTUDO%20COM%20ALUNOS%20DO%20ENSINO%20M%C3%89DIO&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21152063"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "21152063",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação estatística",
+  "Letramento estatístico",
+  "Ensino Médio"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-21152063.svg",
+ "resumo": "O letramento estatístico é fundamental para a formação acadêmica, para a vida profissional e, sobretudo, para o exercício da cidadania em nossa sociedade, dada a facilidade de acesso a dados estatísticos por meio de diversos veículos de informação. Ler e interpretar tais dados, bem como expressar ideias neles embasadas, tornaram-se essenciais para cada um de nós. No entanto, apesar das orientações curriculares nacionais e estaduais, o ensino e a aprendizagem da Estatística não têm recebido nas escolas da rede estadual de São Paulo o merecido espaço, tanto no Caderno do Aluno (material institucional oferecido pela Secretaria de Educação), quanto pela maioria dos livros didáticos disponíveis para o Ensino Médio. Vemos no ensino e na aprendizagem da Estatística por meio de projetos uma oportunidade para o desenvolvimento do letramento estatístico. Além disso, a abordagem da Estatística por meio de projetos muda, de forma notável, as relações entre professor, aluno e saber, promovendo maior autonomia por parte dos alunos no desenvolvimento de suas pesquisas. Para analisar esses dois fenômenos – o desenvolvimento do letramento e as mudanças no contrato didático – em uma abordagem por meio de projetos, realizamos um estudo de caso. Nossos sujeitos de pesquisa foram 43 alunos com idades de 17 a 20 anos oriundos de duas turmas de terceiro ano do Ensino Médio, divididos em nove grupos de quatro ou cinco integrantes. Eles participaram, durante um bimestre letivo, de todo o processo de desenvolvimento de uma pesquisa estatística, desde a escolha do tema e elaboração da questão de pesquisa até a análise e divulgação dos resultados. Os resultados revelaram que essa abordagem favorece o desenvolvimento do letramento estatístico, bem como gera condições para uma quebra de contrato didático, importante para o desenvolvimento da autonomia dos alunos, preparando-os para os desafios futuros de suas vidas, na universidade, no mercado de trabalho ou em qualquer outra situação",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "letramento estatístico"
+ ],
+ "ids_duplicados": []
 }

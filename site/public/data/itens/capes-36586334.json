@@ -1,61 +1,61 @@
 {
-  "id": "capes-36586334",
-  "autor": "Claudiane Fossatti Ferri",
-  "ano": 2022,
-  "tipo": "Dissertação",
-  "titulo": "Educação estatística no ensino básico : interpretando dados reais",
-  "instituicao": "UNIVERSIDADE DE CAXIAS DO SUL",
-  "cidade": "",
-  "estado": "Rio Grande do Sul",
-  "regiao": "Sul",
-  "orientador": "Isolda Gianni de Lima",
-  "programa": "Ensino de Ciências e Matemática",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Ensino de Estatística, Sequência didática, Formação crítica, Letramento estatístico",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Educa%C3%A7%C3%A3o%20estat%C3%ADstica%20no%20ensino%20b%C3%A1sico%20%3A%20interpretando%20dados%20reais%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educa%C3%A7%C3%A3o%20estat%C3%ADstica%20no%20ensino%20b%C3%A1sico%20%3A%20interpretando%20dados%20reais&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36586334"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "36586334",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Ensino de Estatística, Sequência didática, Formação crítica, Letramento estatístico"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-36586334.svg",
-  "resumo": "O presente estudo buscou analisar o desenvolvimento de uma proposta de ensino de Estatística para o 9º ano do Ensino Fundamental, aplicada com foco no letramento, raciocínio e pensamento estatístico. Objetivou-se constatar qual a contribuição da Estatística para a aprendizagem de Matemática e para a formação crítica dos estudantes. Para isso, e com base em orientações de Zabala, foi planejada, executada e avaliada uma sequência didática, utilizada como subsídio para uma prática docente que promoveu, dentre outras atividades, a pesquisa, por parte dos estudantes, sobre assuntos de interesse pessoal. A metodologia é a de estudo de caso, que é uma abordagem qualitativa em que há uma preocupação em explorar e descrever o ambiente e os sujeitos envolvidos na pesquisa. O estudo relatado nesta dissertação é, portanto, de natureza aplicada, tendo sido desenvolvido em sala de aula a partir de um planejamento voltado ao ensino e aprendizagem com referência ao cotidiano de estudantes de uma escola de Ensino Básico. Os dados coletados foram categorizados e interpretados conforme a técnica de análise de conteúdos, e examinados à luz dos fundamentos teóricos que sustentam esta pesquisa: o ensino dialógico, de Freire, e o sócio construtivismo, de Vygotsky, bem como contribuições de autores que abordam o ensino de Estatística. O desempenho dos estudantes durante as aulas, o interesse por eles demonstrado, e a participação e compromisso com que realizaram as atividades evidenciam que a proposta é adequada para o ensino de Estatística no Ensino Fundamental. Verificou-se, de fato, que os ambientes de aprendizagem, construídos durante as aulas, contribuíram para uma melhor compreensão dos conceitos matemáticos envolvidos. Concluiu-se, também, que a Estatística, aliada a uma proposta de ensino que tenha como perspectiva desenvolver uma educação para a cidadania, pode contribuir para a formação crítica e social dos estudantes, além de possibilitar a realização de trabalhos interdisciplinares voltados à exploração de temas de relevância social. Deste trabalho, resulta como produto educacional o material didático elaborado e aplicado no estudo, que foi aprimorado com os resultados da pesquisa, e que pode servir para outros professores na realização de atividades semelhantes para o ensino e aprendizagem de Estatística.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística",
-    "letramento estatístico"
-  ],
-  "ids_duplicados": [
-    "39211504"
-  ]
+ "id": "capes-36586334",
+ "autor": "Claudiane Fossatti Ferri",
+ "ano": 2022,
+ "tipo": "Dissertação",
+ "titulo": "Educação estatística no ensino básico : interpretando dados reais",
+ "instituicao": "Universidade de Caxias do Sul",
+ "cidade": "",
+ "estado": "Rio Grande do Sul",
+ "regiao": "Sul",
+ "orientador": "Isolda Gianni de Lima",
+ "programa": "Ensino de Ciências e Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Ensino de Estatística, Sequência didática, Formação crítica, Letramento estatístico",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Educa%C3%A7%C3%A3o%20estat%C3%ADstica%20no%20ensino%20b%C3%A1sico%20%3A%20interpretando%20dados%20reais%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educa%C3%A7%C3%A3o%20estat%C3%ADstica%20no%20ensino%20b%C3%A1sico%20%3A%20interpretando%20dados%20reais&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36586334"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "36586334",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Ensino de Estatística, Sequência didática, Formação crítica, Letramento estatístico"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-36586334.svg",
+ "resumo": "O presente estudo buscou analisar o desenvolvimento de uma proposta de ensino de Estatística para o 9º ano do Ensino Fundamental, aplicada com foco no letramento, raciocínio e pensamento estatístico. Objetivou-se constatar qual a contribuição da Estatística para a aprendizagem de Matemática e para a formação crítica dos estudantes. Para isso, e com base em orientações de Zabala, foi planejada, executada e avaliada uma sequência didática, utilizada como subsídio para uma prática docente que promoveu, dentre outras atividades, a pesquisa, por parte dos estudantes, sobre assuntos de interesse pessoal. A metodologia é a de estudo de caso, que é uma abordagem qualitativa em que há uma preocupação em explorar e descrever o ambiente e os sujeitos envolvidos na pesquisa. O estudo relatado nesta dissertação é, portanto, de natureza aplicada, tendo sido desenvolvido em sala de aula a partir de um planejamento voltado ao ensino e aprendizagem com referência ao cotidiano de estudantes de uma escola de Ensino Básico. Os dados coletados foram categorizados e interpretados conforme a técnica de análise de conteúdos, e examinados à luz dos fundamentos teóricos que sustentam esta pesquisa: o ensino dialógico, de Freire, e o sócio construtivismo, de Vygotsky, bem como contribuições de autores que abordam o ensino de Estatística. O desempenho dos estudantes durante as aulas, o interesse por eles demonstrado, e a participação e compromisso com que realizaram as atividades evidenciam que a proposta é adequada para o ensino de Estatística no Ensino Fundamental. Verificou-se, de fato, que os ambientes de aprendizagem, construídos durante as aulas, contribuíram para uma melhor compreensão dos conceitos matemáticos envolvidos. Concluiu-se, também, que a Estatística, aliada a uma proposta de ensino que tenha como perspectiva desenvolver uma educação para a cidadania, pode contribuir para a formação crítica e social dos estudantes, além de possibilitar a realização de trabalhos interdisciplinares voltados à exploração de temas de relevância social. Deste trabalho, resulta como produto educacional o material didático elaborado e aplicado no estudo, que foi aprimorado com os resultados da pesquisa, e que pode servir para outros professores na realização de atividades semelhantes para o ensino e aprendizagem de Estatística.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística",
+  "letramento estatístico"
+ ],
+ "ids_duplicados": [
+  "39211504"
+ ]
 }

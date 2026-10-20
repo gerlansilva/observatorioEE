@@ -1,61 +1,61 @@
 {
-  "id": "capes-34911285",
-  "autor": "Fabricia Gomes Moreira",
-  "ano": 2021,
-  "tipo": "Dissertação",
-  "titulo": "Análise de Estratégias de Resolução Mobilizadas por Alunos do 9º Ano Frente a Atividades Envolvendo Raciocínio Combinatório",
-  "instituicao": "UNIVERSIDADE FEDERAL DE OURO PRETO",
-  "cidade": "",
-  "estado": "Minas Gerais",
-  "regiao": "Sudeste",
-  "orientador": "Douglas da Silva Tinti",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Combinatória; Raciocínio combinatório; Estratégias de resolução; Princípio Fundamental da Contagem; Estruturas Multiplicativas",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22AN%C3%81LISE%20DE%20ESTRAT%C3%89GIAS%20DE%20RESOLU%C3%87%C3%83O%20MOBILIZADAS%20POR%20ALUNOS%20DO%209%C2%BA%20ANO%20FRENTE%20A%20ATIVIDADES%20ENVOLVENDO%20RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AN%C3%81LISE%20DE%20ESTRAT%C3%89GIAS%20DE%20RESOLU%C3%87%C3%83O%20MOBILIZADAS%20POR%20ALUNOS%20DO%209%C2%BA%20ANO%20FRENTE%20A%20ATIVIDADES%20ENVOLVENDO%20RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34911285"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "34911285",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Combinatória",
-    "Raciocínio combinatório",
-    "Estratégias de resolução",
-    "Princípio Fundamental da Contagem",
-    "Estruturas Multiplicativas"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-34911285.svg",
-  "resumo": "A presente pesquisa teve por objetivo identificar e analisar as diferentes estratégias de estudantes do 9º ano do Ensino Fundamental na resolução de situações/problemas do Campo Conceitual Multiplicativo, especificamente os problemas de Combinatória. Para subsidiar nossa pesquisa, buscamos respaldo teórico na Teoria dos Campos Conceituais (VERGNAUD, 1986; 1996; 2009), especialmente no campo das Estruturas Multiplicativas e no entendimento de Pessoa e Borba (2009) e Borba (2013) acerca de problemas envolvendo o raciocínio combinatório. Participaram da pesquisa 16 alunos do 9º ano do Ensino Fundamental de uma escola da rede pública Municipal do Itabirito/MG. Os dados foram produzidos por meio da aplicação de uma sequência de atividades envolvendo raciocínio combinatório, do diário de campo da pesquisadora e de registros produzidos pelos alunos ao longo do trabalho. A sequência de atividades proposta continha doze questões envolvendo os quatro tipos de problemas combinatórios, defendidos por Pessoa e Borba (2009), ou seja, Produto Cartesiano, Arranjo, Permutação, Combinação. Para a análise, selecionamos quatro problemas, nos quais foram os mais representativos, sendo cada um apresentando um significado da Combinatória. Assim, a análise se estruturou em quatro categorias: a) Análise das estratégias mobilizadas pelos alunos no Problema de Produto Cartesiano; b) Análise das estratégias mobilizadas pelos alunos no Problema de Arranjo; c) Análise das estratégias mobilizadas pelos alunos no Problema de Permutação; e d) Análise das estratégias mobilizadas pelos alunos no Problema de Combinação. Na análise dos resultados verificamos que todos os alunos mobilizaram diversas estratégias ao resolver os problemas propostos, diferentes formas de representação, como: Princípio Fundamental da Contagem, desenhos, esquemas, contagem direta das possibilidades, respostas inconclusivas (sem conexão ao problema proposto), utilização de fórmulas, registro de argumentação pessoal, apenas respostas corretas ou incorretas, princípio aditivo, algoritmos da multiplicação e da divisão. A pesquisa revelou que a estratégia de resolução mais utilizada pelos alunos foi o Princípio Fundamental da Contagem e a estratégia menos usada, o diagrama. Como sugestão para futuras investigações com os mesmos dados, poderia ser feito uma análise relacionada aos erros e acertos praticados pelos alunos nos quatro tipos de problemas de Combinação, no sentido de propor uma discussão teórica e metodológica, quanto a estratégia adotada se pode ou poderá induzir ao erro ou acerto. A partir dos resultados da pesquisa foi elaborado um Produto Educacional, na perspectiva de um dispositivo de formação, voltado à formação de professores de Matemática, com vistas a propiciar um espaço formativo pautado na reflexão acercada dos processos de ensino e de aprendizagem de Combinatória.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "raciocínio combinatório"
-  ],
-  "ids_duplicados": []
+ "id": "capes-34911285",
+ "autor": "Fabricia Gomes Moreira",
+ "ano": 2021,
+ "tipo": "Dissertação",
+ "titulo": "Análise de Estratégias de Resolução Mobilizadas por Alunos do 9º Ano Frente a Atividades Envolvendo Raciocínio Combinatório",
+ "instituicao": "Universidade Federal de Ouro Preto",
+ "cidade": "",
+ "estado": "Minas Gerais",
+ "regiao": "Sudeste",
+ "orientador": "Douglas da Silva Tinti",
+ "programa": "EDUCAÇÃO MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Combinatória; Raciocínio combinatório; Estratégias de resolução; Princípio Fundamental da Contagem; Estruturas Multiplicativas",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22AN%C3%81LISE%20DE%20ESTRAT%C3%89GIAS%20DE%20RESOLU%C3%87%C3%83O%20MOBILIZADAS%20POR%20ALUNOS%20DO%209%C2%BA%20ANO%20FRENTE%20A%20ATIVIDADES%20ENVOLVENDO%20RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AN%C3%81LISE%20DE%20ESTRAT%C3%89GIAS%20DE%20RESOLU%C3%87%C3%83O%20MOBILIZADAS%20POR%20ALUNOS%20DO%209%C2%BA%20ANO%20FRENTE%20A%20ATIVIDADES%20ENVOLVENDO%20RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34911285"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "34911285",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Combinatória",
+  "Raciocínio combinatório",
+  "Estratégias de resolução",
+  "Princípio Fundamental da Contagem",
+  "Estruturas Multiplicativas"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-34911285.svg",
+ "resumo": "A presente pesquisa teve por objetivo identificar e analisar as diferentes estratégias de estudantes do 9º ano do Ensino Fundamental na resolução de situações/problemas do Campo Conceitual Multiplicativo, especificamente os problemas de Combinatória. Para subsidiar nossa pesquisa, buscamos respaldo teórico na Teoria dos Campos Conceituais (VERGNAUD, 1986; 1996; 2009), especialmente no campo das Estruturas Multiplicativas e no entendimento de Pessoa e Borba (2009) e Borba (2013) acerca de problemas envolvendo o raciocínio combinatório. Participaram da pesquisa 16 alunos do 9º ano do Ensino Fundamental de uma escola da rede pública Municipal do Itabirito/MG. Os dados foram produzidos por meio da aplicação de uma sequência de atividades envolvendo raciocínio combinatório, do diário de campo da pesquisadora e de registros produzidos pelos alunos ao longo do trabalho. A sequência de atividades proposta continha doze questões envolvendo os quatro tipos de problemas combinatórios, defendidos por Pessoa e Borba (2009), ou seja, Produto Cartesiano, Arranjo, Permutação, Combinação. Para a análise, selecionamos quatro problemas, nos quais foram os mais representativos, sendo cada um apresentando um significado da Combinatória. Assim, a análise se estruturou em quatro categorias: a) Análise das estratégias mobilizadas pelos alunos no Problema de Produto Cartesiano; b) Análise das estratégias mobilizadas pelos alunos no Problema de Arranjo; c) Análise das estratégias mobilizadas pelos alunos no Problema de Permutação; e d) Análise das estratégias mobilizadas pelos alunos no Problema de Combinação. Na análise dos resultados verificamos que todos os alunos mobilizaram diversas estratégias ao resolver os problemas propostos, diferentes formas de representação, como: Princípio Fundamental da Contagem, desenhos, esquemas, contagem direta das possibilidades, respostas inconclusivas (sem conexão ao problema proposto), utilização de fórmulas, registro de argumentação pessoal, apenas respostas corretas ou incorretas, princípio aditivo, algoritmos da multiplicação e da divisão. A pesquisa revelou que a estratégia de resolução mais utilizada pelos alunos foi o Princípio Fundamental da Contagem e a estratégia menos usada, o diagrama. Como sugestão para futuras investigações com os mesmos dados, poderia ser feito uma análise relacionada aos erros e acertos praticados pelos alunos nos quatro tipos de problemas de Combinação, no sentido de propor uma discussão teórica e metodológica, quanto a estratégia adotada se pode ou poderá induzir ao erro ou acerto. A partir dos resultados da pesquisa foi elaborado um Produto Educacional, na perspectiva de um dispositivo de formação, voltado à formação de professores de Matemática, com vistas a propiciar um espaço formativo pautado na reflexão acercada dos processos de ensino e de aprendizagem de Combinatória.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "raciocínio combinatório"
+ ],
+ "ids_duplicados": []
 }

@@ -1,57 +1,57 @@
 {
-  "id": "capes-8405322",
-  "autor": "Renata da Silva Dessbesel",
-  "ano": 2013,
-  "tipo": "Dissertação",
-  "titulo": "Estatística: Uma Proposta de Formação Continuada para Professores de Matemática do Ensino Fundamental e Médio",
-  "instituicao": "CENTRO UNIVERSITÁRIO FRANCISCANO",
-  "cidade": "",
-  "estado": "Rio Grande do Sul",
-  "regiao": "Sul",
-  "orientador": "Helena Noronha Cury",
-  "programa": "Programa de Pós-Graduação em Ensino de Ciências e Matemática",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Ensino de Estatística. Formação de professores. Ensino Fundamental e Médio.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22ESTAT%C3%8DSTICA%3A%20UMA%20PROPOSTA%20DE%20FORMA%C3%87%C3%83O%20CONTINUADA%20PARA%20PROFESSORES%20DE%20MATEM%C3%81TICA%20DO%20ENSINO%20FUNDAMENTAL%20E%20M%C3%89DIO%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESTAT%C3%8DSTICA%3A%20UMA%20PROPOSTA%20DE%20FORMA%C3%87%C3%83O%20CONTINUADA%20PARA%20PROFESSORES%20DE%20MATEM%C3%81TICA%20DO%20ENSINO%20FUNDAMENTAL%20E%20M%C3%89DIO&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/8405322"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "8405322",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Ensino de Estatística. Formação de professores. Ensino Fundamental e Médio."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-8405322.svg",
-  "resumo": "A presente pesquisa teve como objetivos analisar o Ensino de Estatística ministrado por professores de Matemática do Ensino Fundamental e Médio em escolas públicas de Cruz Alta e avaliar a realização de oficinas de formação continuada para professores de Matemática, abordando conteúdos de Estatística, com uso de material de apoio. Caracterizada como pesquisa de campo, a investigação tem caráter qualitativo e quantitativo, os participantes são professores de 16 escolas públicas da cidade de Cruz Alta. A partir de uma revisão dos documentos legais pertinentes ao Ensino de Estatística e de dissertações que trabalharam com esse tema, planejou-se um questionário, aplicado a 58 professores, cujas respostas são apresentadas e discutidas. Com o propósito de complementar as respostas do questionário, realizaram-se entrevistas com cinco professoras e, ainda, oficinas de formação continuada com docentes que atuam nas escolas públicas do Ensino Fundamental e Médio de Cruz Alta. Pelos dados coletados, percebeu-se que, entre os conteúdos de Estatística do Ensino Fundamental, são abordadas com maior frequência a organização de dados em uma tabela e a construção de gráficos de linhas e barras. No Ensino Médio, os conteúdos mais trabalhados são representação gráfica de dados e medidas de tendência central (média aritmética, mediana e moda). Na análise das respostas aos questionários e entrevistas, percebeu-se que o uso do computador como recurso pedagógico foi citado, em especial o uso da planilha Excel. Também se notou que os professores estão dispostos a participar de cursos de formação continuada, desde que esses contemplem suas necessidades e que sejam práticos. Como produto desta dissertação de mestrado profissional, foi elaborado um Guia de Estudos, disponibilizado em CD-ROM e no site do curso do Mestrado Profissional em Ensino de Física e Matemática da UNIFRA.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-8405322",
+ "autor": "Renata da Silva Dessbesel",
+ "ano": 2013,
+ "tipo": "Dissertação",
+ "titulo": "Estatística: Uma Proposta de Formação Continuada para Professores de Matemática do Ensino Fundamental e Médio",
+ "instituicao": "Centro Universitário Franciscano",
+ "cidade": "",
+ "estado": "Rio Grande do Sul",
+ "regiao": "Sul",
+ "orientador": "Helena Noronha Cury",
+ "programa": "Programa de Pós-Graduação em Ensino de Ciências e Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Ensino de Estatística. Formação de professores. Ensino Fundamental e Médio.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22ESTAT%C3%8DSTICA%3A%20UMA%20PROPOSTA%20DE%20FORMA%C3%87%C3%83O%20CONTINUADA%20PARA%20PROFESSORES%20DE%20MATEM%C3%81TICA%20DO%20ENSINO%20FUNDAMENTAL%20E%20M%C3%89DIO%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESTAT%C3%8DSTICA%3A%20UMA%20PROPOSTA%20DE%20FORMA%C3%87%C3%83O%20CONTINUADA%20PARA%20PROFESSORES%20DE%20MATEM%C3%81TICA%20DO%20ENSINO%20FUNDAMENTAL%20E%20M%C3%89DIO&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/8405322"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "8405322",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Ensino de Estatística. Formação de professores. Ensino Fundamental e Médio."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-8405322.svg",
+ "resumo": "A presente pesquisa teve como objetivos analisar o Ensino de Estatística ministrado por professores de Matemática do Ensino Fundamental e Médio em escolas públicas de Cruz Alta e avaliar a realização de oficinas de formação continuada para professores de Matemática, abordando conteúdos de Estatística, com uso de material de apoio. Caracterizada como pesquisa de campo, a investigação tem caráter qualitativo e quantitativo, os participantes são professores de 16 escolas públicas da cidade de Cruz Alta. A partir de uma revisão dos documentos legais pertinentes ao Ensino de Estatística e de dissertações que trabalharam com esse tema, planejou-se um questionário, aplicado a 58 professores, cujas respostas são apresentadas e discutidas. Com o propósito de complementar as respostas do questionário, realizaram-se entrevistas com cinco professoras e, ainda, oficinas de formação continuada com docentes que atuam nas escolas públicas do Ensino Fundamental e Médio de Cruz Alta. Pelos dados coletados, percebeu-se que, entre os conteúdos de Estatística do Ensino Fundamental, são abordadas com maior frequência a organização de dados em uma tabela e a construção de gráficos de linhas e barras. No Ensino Médio, os conteúdos mais trabalhados são representação gráfica de dados e medidas de tendência central (média aritmética, mediana e moda). Na análise das respostas aos questionários e entrevistas, percebeu-se que o uso do computador como recurso pedagógico foi citado, em especial o uso da planilha Excel. Também se notou que os professores estão dispostos a participar de cursos de formação continuada, desde que esses contemplem suas necessidades e que sejam práticos. Como produto desta dissertação de mestrado profissional, foi elaborado um Guia de Estudos, disponibilizado em CD-ROM e no site do curso do Mestrado Profissional em Ensino de Física e Matemática da UNIFRA.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

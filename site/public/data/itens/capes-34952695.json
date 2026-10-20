@@ -1,57 +1,57 @@
 {
-  "id": "capes-34952695",
-  "autor": "Marcio Matoso de Pontes",
-  "ano": 2021,
-  "tipo": "Dissertação",
-  "titulo": "As Contribuições de uma Sequência de Ensino para Duas Professoras do 5° Ano do Ensino Fundamental no Trabalho com Estatística",
-  "instituicao": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ",
-  "cidade": "",
-  "estado": "Ceará",
-  "regiao": "Nordeste",
-  "orientador": "Juscileide Braga de Castro",
-  "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Sequência didática. PPDAC. Ensino de Estatística. Formação de professores.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22AS%20CONTRIBUI%C3%87%C3%95ES%20DE%20UMA%20SEQU%C3%8ANCIA%20DE%20ENSINO%20PARA%20DUAS%20PROFESSORAS%20DO%205%C2%B0%20ANO%20DO%20ENSINO%20FUNDAMENTAL%20NO%20TRABALHO%20COM%20ESTAT%C3%8DSTICA%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AS%20CONTRIBUI%C3%87%C3%95ES%20DE%20UMA%20SEQU%C3%8ANCIA%20DE%20ENSINO%20PARA%20DUAS%20PROFESSORAS%20DO%205%C2%B0%20ANO%20DO%20ENSINO%20FUNDAMENTAL%20NO%20TRABALHO%20COM%20ESTAT%C3%8DSTICA&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34952695"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "34952695",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Sequência didática. PPDAC. Ensino de Estatística. Formação de professores."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-34952695.svg",
-  "resumo": "Essa pesquisa integra os trabalhos desenvolvidos pelo o grupo D-Estat em parceria com uma escola pública da cidade de Fortaleza-Ce que aconteceu por meio de um processo de formação colaborativa. Em meio ao processo, formulou-se a seguinte questão de pesquisa: Quais experiências de aprendizagem podem ser observadas durante um processo formativo direcionado ao ensino de conceitos estatísticos? Para responder a essa pergunta traçou-se como objetivo geral investigar as experiências de aprendizagem de duas professoras do 5ºano do ensino fundamental em relação ao ensino de conceitos estatísticos tomando como base uma sequência de ensino desenvolvida durante um processo de formação colaborativa destinada a professores que ensinam matemática. Como objetivos específicos, buscou-se mapear os conhecimentos estatísticos de duas professoras do 5º ano do Ensino Fundamental antes do processo formativo, descrever a sequência de ensino, baseada no PPDAC, desenvolvida durante o processo formativo e identificar dificuldades vivenciadas na mediação das professoras durante a execução da sequência de ensino baseada no ciclo investigativo PPDAC. É válido apontar que a metodologia adotada foi o estudo de caso por meio do acompanhamento das atividades da sequência com as docentes. Para a definição das categorias de analise foi realizada a triangulação dos instrumentos de pesquisa: entrevista semiestruturada, questionário e diário de campo. A técnica de análise foi a análise de conteúdo. Ao final, foi realizada uma sessão reflexiva no intuito de perceber as fragilidades e potencialidades apresentadas em meio ao processo de intervenção dos sujeitos. Encontrou-se na pesquisa prática desenvolvida pelo PPDAC, um caminho para se trabalhar estatística na sala de aula de forma contextualizada com a realidade docente, fugindo de um modelo de ensino tradicional. Em relação as experiencias de aprendizagem das professoras, pode-se apontar contribuições como: o desenvolvimento do pensamento e letramento estatístico, a compreensão dos elementos que devem conter em gráficos e tabelas, o conhecimento sobre os diferentes tipos de gráficos e o entendimento sobre qual modelo é mais adequado para cada pesquisa. Além disso, as professoras aprenderam a calcular as medidas de tendência central, como, moda e mediana. Esse percurso revelou em meio ao processo a reflexão sobre a prática docente e a mudança de atitude na forma de ensinar, elementos esses, que apontam para o desenvolvimento profissional docente.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-34952695",
+ "autor": "Marcio Matoso de Pontes",
+ "ano": 2021,
+ "tipo": "Dissertação",
+ "titulo": "As Contribuições de uma Sequência de Ensino para Duas Professoras do 5° Ano do Ensino Fundamental no Trabalho com Estatística",
+ "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará",
+ "cidade": "",
+ "estado": "Ceará",
+ "regiao": "Nordeste",
+ "orientador": "Juscileide Braga de Castro",
+ "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Sequência didática. PPDAC. Ensino de Estatística. Formação de professores.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22AS%20CONTRIBUI%C3%87%C3%95ES%20DE%20UMA%20SEQU%C3%8ANCIA%20DE%20ENSINO%20PARA%20DUAS%20PROFESSORAS%20DO%205%C2%B0%20ANO%20DO%20ENSINO%20FUNDAMENTAL%20NO%20TRABALHO%20COM%20ESTAT%C3%8DSTICA%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AS%20CONTRIBUI%C3%87%C3%95ES%20DE%20UMA%20SEQU%C3%8ANCIA%20DE%20ENSINO%20PARA%20DUAS%20PROFESSORAS%20DO%205%C2%B0%20ANO%20DO%20ENSINO%20FUNDAMENTAL%20NO%20TRABALHO%20COM%20ESTAT%C3%8DSTICA&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34952695"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "34952695",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Sequência didática. PPDAC. Ensino de Estatística. Formação de professores."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-34952695.svg",
+ "resumo": "Essa pesquisa integra os trabalhos desenvolvidos pelo o grupo D-Estat em parceria com uma escola pública da cidade de Fortaleza-Ce que aconteceu por meio de um processo de formação colaborativa. Em meio ao processo, formulou-se a seguinte questão de pesquisa: Quais experiências de aprendizagem podem ser observadas durante um processo formativo direcionado ao ensino de conceitos estatísticos? Para responder a essa pergunta traçou-se como objetivo geral investigar as experiências de aprendizagem de duas professoras do 5ºano do ensino fundamental em relação ao ensino de conceitos estatísticos tomando como base uma sequência de ensino desenvolvida durante um processo de formação colaborativa destinada a professores que ensinam matemática. Como objetivos específicos, buscou-se mapear os conhecimentos estatísticos de duas professoras do 5º ano do Ensino Fundamental antes do processo formativo, descrever a sequência de ensino, baseada no PPDAC, desenvolvida durante o processo formativo e identificar dificuldades vivenciadas na mediação das professoras durante a execução da sequência de ensino baseada no ciclo investigativo PPDAC. É válido apontar que a metodologia adotada foi o estudo de caso por meio do acompanhamento das atividades da sequência com as docentes. Para a definição das categorias de analise foi realizada a triangulação dos instrumentos de pesquisa: entrevista semiestruturada, questionário e diário de campo. A técnica de análise foi a análise de conteúdo. Ao final, foi realizada uma sessão reflexiva no intuito de perceber as fragilidades e potencialidades apresentadas em meio ao processo de intervenção dos sujeitos. Encontrou-se na pesquisa prática desenvolvida pelo PPDAC, um caminho para se trabalhar estatística na sala de aula de forma contextualizada com a realidade docente, fugindo de um modelo de ensino tradicional. Em relação as experiencias de aprendizagem das professoras, pode-se apontar contribuições como: o desenvolvimento do pensamento e letramento estatístico, a compreensão dos elementos que devem conter em gráficos e tabelas, o conhecimento sobre os diferentes tipos de gráficos e o entendimento sobre qual modelo é mais adequado para cada pesquisa. Além disso, as professoras aprenderam a calcular as medidas de tendência central, como, moda e mediana. Esse percurso revelou em meio ao processo a reflexão sobre a prática docente e a mudança de atitude na forma de ensinar, elementos esses, que apontam para o desenvolvimento profissional docente.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

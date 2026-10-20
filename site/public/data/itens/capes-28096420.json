@@ -1,59 +1,59 @@
 {
-  "id": "capes-28096420",
-  "autor": "Giane Correia Silva",
-  "ano": 2018,
-  "tipo": "Dissertação",
-  "titulo": "O ensino de estatística na educação de jovens e adultos: contribuições da metodologia da resolução de problemas para o ensino médio",
-  "instituicao": "UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ",
-  "cidade": "",
-  "estado": "Paraná",
-  "regiao": "Sul",
-  "orientador": "Guatacara dos Santos Junior",
-  "programa": "ENSINO DE CIÊNCIA E TECNOLOGIA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação de Jovens e Adultos; EJA. Estatística. Ensino médio. Metodologia da resolução de problemas.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ensino%20de%20estat%C3%ADstica%20na%20educa%C3%A7%C3%A3o%20de%20jovens%20e%20adultos%3A%20contribui%C3%A7%C3%B5es%20da%20metodologia%20da%20resolu%C3%A7%C3%A3o%20de%20problemas%20para%20o%20ensino%20m%C3%A9dio%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ensino%20de%20estat%C3%ADstica%20na%20educa%C3%A7%C3%A3o%20de%20jovens%20e%20adultos%3A%20contribui%C3%A7%C3%B5es%20da%20metodologia%20da%20resolu%C3%A7%C3%A3o%20de%20problemas%20para%20o%20ensino%20m%C3%A9dio&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28096420"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "28096420",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação de Jovens e Adultos",
-    "EJA. Estatística. Ensino médio. Metodologia da resolução de problemas."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-28096420.svg",
-  "resumo": "O presente trabalho teve como objetivo analisar as possíveis contribuições da metodologia da resolução de problemas para o ensino de Estatística, na Educação de Jovens e Adultos - EJA, voltadas ao ensino de Matemática no Ensino Médio. Ele foi desenvolvido a partir da seguinte questão norteadora: em que medida a metodologia da resolução de problemas pode contribuir para o ensino de Estatística, no Ensino Médio, na modalidade da EJA? A pesquisa qualitativa, do tipo aplicada, foi desenvolvida em 2017 em duas turmas da EJA, de Ensino Médio, em um colégio público estadual do município de Ponta Grossa, Paraná. Os procedimentos de coleta de dados foram a análise documental, o questionário, os registros em diário de campo e a observação. A metodologia da pesquisa foi fundamentada em Moreira e Caleffe (2008), Chizzotti (2003), Moraes e Galiazzi (2016) e Pereira (2017). O referencial teórico foi construído em diálogo com os seguintes autores da Educação Estatística: Lopes (2010a, 2010b), Silva (2013b), Cazorla (2010), Nacarato e Lopes (2005), Brasil (2002a, 2000d, 2006b, 2012), Paraná (2012), dentre outros. A fundamentação teórica sobre resolução de problemas em matemática apoiou-se em Paiva e Rêgo (2010), Zuffi e Onuchic (2007), Polya (1995), Onuchic (1999), Van de Walle (2009), dentre outros. Foram analisados os seguintes documentos sobre a EJA: Brasil (2000a, 2000b, 2000c, 2006), Paraná (2006). Primeiramente foi aplicado um questionário para levantar o perfil socioeducacional dos alunos da EJA. Uma Sequência de Ensino – SE foi elaborada com base no referencial teórico contendo os seguintes conteúdos: a) dado estatístico; b) variáveis qualitativas e quantitativas; c) coleta e organização de dados estatísticos secundários; d) representação tabular: tabelas simples, de dupla entrada; e) análise de gráficos; f) medidas de tendência central: média aritmética, moda e mediana, e a metodologia da resolução de problemas proposta por Onuchic (1999) fundamentou a sua elaboração. Durante a realização das atividades das SE foi possível perceber o interesse e motivação dos alunos para realização das atividades contribuindo para a aprendizagem dos conteúdos propostos. A metodologia da resolução de problemas, utilizada nas SE, proporcionou liberdade aos alunos para construírem os argumentos e as respostas das atividades propostas, o que pode contribuir para o desenvolvimento da autonomia e criticidade dos estudantes. Os resultados da pesquisa indicam que a formalização dos conceitos pelo professor é de extrema relevância, porque juntos, professor e alunos, discutem as tentativas de resolução do problema proposto. Conclui-se que a metodologia da resolução de problemas é uma das possibilidades que o professor de Matemática tem para o desenvolvimento dos processos de ensino e de aprendizagem dos conteúdos curriculares, envolvendo os alunos na construção do conhecimento matemático e estatístico. Devido à especificidade da EJA, cabe ao professor fazer as escolhas mais adequadas ao contexto em que atua. Por isso, acredita-se que a pesquisa desenvolvida pode ser relevante para os professores e gestores da EJA, assim como os pesquisadores em Educação Matemática, em especial sobre o ensino de Estatística.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-28096420",
+ "autor": "Giane Correia Silva",
+ "ano": 2018,
+ "tipo": "Dissertação",
+ "titulo": "O ensino de estatística na educação de jovens e adultos: contribuições da metodologia da resolução de problemas para o ensino médio",
+ "instituicao": "Universidade Tecnológica Federal do Paraná",
+ "cidade": "",
+ "estado": "Paraná",
+ "regiao": "Sul",
+ "orientador": "Guatacara dos Santos Junior",
+ "programa": "ENSINO DE CIÊNCIA E TECNOLOGIA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação de Jovens e Adultos; EJA. Estatística. Ensino médio. Metodologia da resolução de problemas.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ensino%20de%20estat%C3%ADstica%20na%20educa%C3%A7%C3%A3o%20de%20jovens%20e%20adultos%3A%20contribui%C3%A7%C3%B5es%20da%20metodologia%20da%20resolu%C3%A7%C3%A3o%20de%20problemas%20para%20o%20ensino%20m%C3%A9dio%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ensino%20de%20estat%C3%ADstica%20na%20educa%C3%A7%C3%A3o%20de%20jovens%20e%20adultos%3A%20contribui%C3%A7%C3%B5es%20da%20metodologia%20da%20resolu%C3%A7%C3%A3o%20de%20problemas%20para%20o%20ensino%20m%C3%A9dio&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28096420"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "28096420",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação de Jovens e Adultos",
+  "EJA. Estatística. Ensino médio. Metodologia da resolução de problemas."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-28096420.svg",
+ "resumo": "O presente trabalho teve como objetivo analisar as possíveis contribuições da metodologia da resolução de problemas para o ensino de Estatística, na Educação de Jovens e Adultos - EJA, voltadas ao ensino de Matemática no Ensino Médio. Ele foi desenvolvido a partir da seguinte questão norteadora: em que medida a metodologia da resolução de problemas pode contribuir para o ensino de Estatística, no Ensino Médio, na modalidade da EJA? A pesquisa qualitativa, do tipo aplicada, foi desenvolvida em 2017 em duas turmas da EJA, de Ensino Médio, em um colégio público estadual do município de Ponta Grossa, Paraná. Os procedimentos de coleta de dados foram a análise documental, o questionário, os registros em diário de campo e a observação. A metodologia da pesquisa foi fundamentada em Moreira e Caleffe (2008), Chizzotti (2003), Moraes e Galiazzi (2016) e Pereira (2017). O referencial teórico foi construído em diálogo com os seguintes autores da Educação Estatística: Lopes (2010a, 2010b), Silva (2013b), Cazorla (2010), Nacarato e Lopes (2005), Brasil (2002a, 2000d, 2006b, 2012), Paraná (2012), dentre outros. A fundamentação teórica sobre resolução de problemas em matemática apoiou-se em Paiva e Rêgo (2010), Zuffi e Onuchic (2007), Polya (1995), Onuchic (1999), Van de Walle (2009), dentre outros. Foram analisados os seguintes documentos sobre a EJA: Brasil (2000a, 2000b, 2000c, 2006), Paraná (2006). Primeiramente foi aplicado um questionário para levantar o perfil socioeducacional dos alunos da EJA. Uma Sequência de Ensino – SE foi elaborada com base no referencial teórico contendo os seguintes conteúdos: a) dado estatístico; b) variáveis qualitativas e quantitativas; c) coleta e organização de dados estatísticos secundários; d) representação tabular: tabelas simples, de dupla entrada; e) análise de gráficos; f) medidas de tendência central: média aritmética, moda e mediana, e a metodologia da resolução de problemas proposta por Onuchic (1999) fundamentou a sua elaboração. Durante a realização das atividades das SE foi possível perceber o interesse e motivação dos alunos para realização das atividades contribuindo para a aprendizagem dos conteúdos propostos. A metodologia da resolução de problemas, utilizada nas SE, proporcionou liberdade aos alunos para construírem os argumentos e as respostas das atividades propostas, o que pode contribuir para o desenvolvimento da autonomia e criticidade dos estudantes. Os resultados da pesquisa indicam que a formalização dos conceitos pelo professor é de extrema relevância, porque juntos, professor e alunos, discutem as tentativas de resolução do problema proposto. Conclui-se que a metodologia da resolução de problemas é uma das possibilidades que o professor de Matemática tem para o desenvolvimento dos processos de ensino e de aprendizagem dos conteúdos curriculares, envolvendo os alunos na construção do conhecimento matemático e estatístico. Devido à especificidade da EJA, cabe ao professor fazer as escolhas mais adequadas ao contexto em que atua. Por isso, acredita-se que a pesquisa desenvolvida pode ser relevante para os professores e gestores da EJA, assim como os pesquisadores em Educação Matemática, em especial sobre o ensino de Estatística.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

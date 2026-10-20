@@ -1,62 +1,62 @@
 {
-  "id": "capes-34751688",
-  "autor": "Alan Junior Severo",
-  "ano": 2021,
-  "tipo": "Dissertação",
-  "titulo": "Literacia estatística no Ensino Médio: desafios e possibilidades em uma proposta a partir da Resolução de Problemas segundo o GTERP",
-  "instituicao": "UNIVERSIDADE ESTADUAL PAULISTA JÚLIO DE MESQUITA FILHO ( RIO CLARO )",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Lourdes de La Rosa Onuchic",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Ensino-Aprendizagem-Avaliação de Matemática através da Resolução de Problemas; Educação Estatística; Literacia Estatística",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Literacia%20estat%C3%ADstica%20no%20Ensino%20M%C3%A9dio%3A%20desafios%20e%20possibilidades%20em%20uma%20proposta%20a%20partir%20da%20Resolu%C3%A7%C3%A3o%20de%20Problemas%20segundo%20o%20GTERP%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Literacia%20estat%C3%ADstica%20no%20Ensino%20M%C3%A9dio%3A%20desafios%20e%20possibilidades%20em%20uma%20proposta%20a%20partir%20da%20Resolu%C3%A7%C3%A3o%20de%20Problemas%20segundo%20o%20GTERP&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34751688"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "34751688",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Ensino-Aprendizagem-Avaliação de Matemática através da Resolução de Problemas",
-    "Educação Estatística",
-    "Literacia Estatística"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-34751688.svg",
-  "resumo": "Este trabalho tem como objetivo principal apresentar os resultados de uma pesquisa cujo intuito foi o de investigar as possibilidades e os desafios que podem se fazer presentes em uma proposta pedagógica que vise a contribuir com a literacia estatística de estudantes do último ano do Ensino Médio e esteja fundamentada na Metodologia de Ensino-Aprendizagem-Avaliação de Matemática através da Resolução de Problemas. Devido à emergência sanitária causada pela pandemia de Covid-19 durante o desenvolvimento desta pesquisa, a produção de dados foi pautada pelo ensino remoto, o que nos levou a elencar um objetivo específico, qual seja, identificar de que modo poderia se caracterizar a Resolução de Problemas segundo o Grupo de Trabalho e Estudos em Resolução de Problemas (GTERP) no ensino remoto. A atenção voltada à literacia estatística se dá devido à sua importância fundamental em sociedades contemporâneas, em que há crescimento acelerado da propagação de dados que são usados, em muitos casos, para legitimar discursos e posicionamentos de autoridades, nem sempre pautados em fatos. A referida proposta foi desenvolvida possuindo como elemento central problemas de estatística autorais e alguns adaptados de outras pesquisas, sites e livros, de autores nacionais e internacionais, sendo suas traduções também autorais. O curso utilizado como pano de fundo para a produção de dados contou com a participação voluntária de oito alunos de 3º e 4º anos de uma escola pública federal situada no interior de São Paulo. A análise dos dados produzidos com a implementação do trabalho com Estatística através da Resolução de Problemas deu-se a partir das sugestões de resoluções desenvolvidas por esses estudantes para os problemas propostos. Por meio da Análise Textual Discursiva (ATD) foram elaboradas doze unidades de significado que possibilitaram a criação de duas categorias de análise, cada uma relacionada a um dos objetivos da pesquisa desenvolvida. A análise dos dados sugere que a metodologia do GTERP, até então utilizada nas pesquisas do grupo para encontros presenciais, pode ser adaptada de diferentes formas para o contexto do ensino remoto, sem mudanças significativas nos papéis assumidos pelo professor e pelos alunos. Além disso, o uso dessa metodologia se mostrou pertinente para o trabalho fazendo uso de problemas com ênfase em aspectos-chave para o desenvolvimento da literacia estatística. Por outro lado, percebeu-se que os principais desafios estão relacionados à própria natureza do conhecimento estatístico, por vezes exigindo nomenclaturas ainda desconhecidas pelos estudantes, o que exige do professor clareza sobre o que vem a ser um problema e um pouco de criatividade para a sua elaboração.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística"
-  ],
-  "ids_duplicados": [
-    "39878988"
-  ]
+ "id": "capes-34751688",
+ "autor": "Alan Junior Severo",
+ "ano": 2021,
+ "tipo": "Dissertação",
+ "titulo": "Literacia estatística no Ensino Médio: desafios e possibilidades em uma proposta a partir da Resolução de Problemas segundo o GTERP",
+ "instituicao": "Universidade Estadual Paulista Júlio de Mesquita Filho ( Rio Claro )",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Lourdes de La Rosa Onuchic",
+ "programa": "EDUCAÇÃO MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Ensino-Aprendizagem-Avaliação de Matemática através da Resolução de Problemas; Educação Estatística; Literacia Estatística",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Literacia%20estat%C3%ADstica%20no%20Ensino%20M%C3%A9dio%3A%20desafios%20e%20possibilidades%20em%20uma%20proposta%20a%20partir%20da%20Resolu%C3%A7%C3%A3o%20de%20Problemas%20segundo%20o%20GTERP%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Literacia%20estat%C3%ADstica%20no%20Ensino%20M%C3%A9dio%3A%20desafios%20e%20possibilidades%20em%20uma%20proposta%20a%20partir%20da%20Resolu%C3%A7%C3%A3o%20de%20Problemas%20segundo%20o%20GTERP&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34751688"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "34751688",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Ensino-Aprendizagem-Avaliação de Matemática através da Resolução de Problemas",
+  "Educação Estatística",
+  "Literacia Estatística"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-34751688.svg",
+ "resumo": "Este trabalho tem como objetivo principal apresentar os resultados de uma pesquisa cujo intuito foi o de investigar as possibilidades e os desafios que podem se fazer presentes em uma proposta pedagógica que vise a contribuir com a literacia estatística de estudantes do último ano do Ensino Médio e esteja fundamentada na Metodologia de Ensino-Aprendizagem-Avaliação de Matemática através da Resolução de Problemas. Devido à emergência sanitária causada pela pandemia de Covid-19 durante o desenvolvimento desta pesquisa, a produção de dados foi pautada pelo ensino remoto, o que nos levou a elencar um objetivo específico, qual seja, identificar de que modo poderia se caracterizar a Resolução de Problemas segundo o Grupo de Trabalho e Estudos em Resolução de Problemas (GTERP) no ensino remoto. A atenção voltada à literacia estatística se dá devido à sua importância fundamental em sociedades contemporâneas, em que há crescimento acelerado da propagação de dados que são usados, em muitos casos, para legitimar discursos e posicionamentos de autoridades, nem sempre pautados em fatos. A referida proposta foi desenvolvida possuindo como elemento central problemas de estatística autorais e alguns adaptados de outras pesquisas, sites e livros, de autores nacionais e internacionais, sendo suas traduções também autorais. O curso utilizado como pano de fundo para a produção de dados contou com a participação voluntária de oito alunos de 3º e 4º anos de uma escola pública federal situada no interior de São Paulo. A análise dos dados produzidos com a implementação do trabalho com Estatística através da Resolução de Problemas deu-se a partir das sugestões de resoluções desenvolvidas por esses estudantes para os problemas propostos. Por meio da Análise Textual Discursiva (ATD) foram elaboradas doze unidades de significado que possibilitaram a criação de duas categorias de análise, cada uma relacionada a um dos objetivos da pesquisa desenvolvida. A análise dos dados sugere que a metodologia do GTERP, até então utilizada nas pesquisas do grupo para encontros presenciais, pode ser adaptada de diferentes formas para o contexto do ensino remoto, sem mudanças significativas nos papéis assumidos pelo professor e pelos alunos. Além disso, o uso dessa metodologia se mostrou pertinente para o trabalho fazendo uso de problemas com ênfase em aspectos-chave para o desenvolvimento da literacia estatística. Por outro lado, percebeu-se que os principais desafios estão relacionados à própria natureza do conhecimento estatístico, por vezes exigindo nomenclaturas ainda desconhecidas pelos estudantes, o que exige do professor clareza sobre o que vem a ser um problema e um pouco de criatividade para a sua elaboração.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística"
+ ],
+ "ids_duplicados": [
+  "39878988"
+ ]
 }

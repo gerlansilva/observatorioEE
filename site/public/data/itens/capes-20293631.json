@@ -1,57 +1,57 @@
 {
-  "id": "capes-20293631",
-  "autor": "Edilza Maria da Conceicao Silva",
-  "ano": 2013,
-  "tipo": "Dissertação",
-  "titulo": "Como São Propostas Pesquisas em Livros Didáticos de Ciências e Matemática dos Anos Iniciais do Ensino Fundamental",
-  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Gilda Lisboa Guimaraes",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "pesquisa. livro didático. Educação Estatística. Matemática. anos iniciais.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22COMO%20S%C3%83O%20PROPOSTAS%20PESQUISAS%20EM%20LIVROS%20DID%C3%81TICOS%20DE%20CI%C3%8ANCIAS%20E%20MATEM%C3%81TICA%20DOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=COMO%20S%C3%83O%20PROPOSTAS%20PESQUISAS%20EM%20LIVROS%20DID%C3%81TICOS%20DE%20CI%C3%8ANCIAS%20E%20MATEM%C3%81TICA%20DOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20293631"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "20293631",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "pesquisa. livro didático. Educação Estatística. Matemática. anos iniciais."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-20293631.svg",
-  "resumo": "Estudar conceitos estatísticos num processo mais amplo tem se constituído como foco das novas recomendações para aprendizagem da Estatística em diversos países (Reino Unido, Nova Zelândia, Austrália, EUA, África do Sul, Japão, Canadá, Irlanda e Coréia). A pesquisa é apontada como alternativa para articulação entre saberes teóricos e práticos. Este estudo teve por objetivo analisar como coleções didáticas de Matemática e Ciências dos anos iniciais do Ensino Fundamental propõem aos alunos um trabalho com pesquisa, considerando as etapas de definição da questão, levantamento de hipóteses, amostra, coleta, classificação, registro, análise de dados e comunicação dos resultados. Ajuizamos como pesquisa as atividades que envolviam todo o ciclo investigativo ou uma de suas fases. Realizamos a análise de todas as atividades de 8 (oito) coleções didáticas, sendo quatro direcionadas ao ensino de Matemática do 1º ao 5º ano do Ensino Fundamental e quatro designadas para o ensino de Ciências do 2º ao 5º ano do Ensino Fundamental. Foram analisados 36 exemplares de livros didáticos escolhidos entre os mais vendidos em cada área, conforme dados do MEC. Analisamos quantas e quais são as atividades que propõem um trabalho com pesquisa, considerando se a proposição da mesma envolve todo o ciclo investigativo ou suas fases. Analisamos também as orientações ao professor no intuito de ver se os autores propõem um trabalho sistematizado com pesquisa. Constatamos que a pesquisa envolvendo todo o ciclo investigativo raramente é proposta em Ciências e é ausente na área de Matemática, mas várias atividades propõem um trabalho com mais de uma fase. Comparando as áreas observamos que em Ciências mais de 60% das atividades apresentadas nas coleções propõem um trabalho com cinco das fases de uma pesquisa: estabelecer o objetivo ou criar a questão a ser respondida, coletar, registrar e analisar os dados para chegar as conclusões. Em Matemática as atividades, priorizam as representações gráficas com ênfase em análise/interpretação. Todas as coleções de Ciências e nenhuma de Matemática se referem à atividade com pesquisa nas orientações ao professor. Os dados comprovam a grande necessidade de se propor atividades que envolvam todas as fases de uma pesquisa. Ressaltamos como fundamental que os autores das coleções didáticas busquem propor atividades que propiciem, de fato, a vivência de fases do ciclo da pesquisa e paralelamente a pesquisa como um todo para assim proporcionar aos alunos e professores a compreensão da pesquisa, dos conceitos estatísticos e da sua função nas prátic",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-20293631",
+ "autor": "Edilza Maria da Conceicao Silva",
+ "ano": 2013,
+ "tipo": "Dissertação",
+ "titulo": "Como São Propostas Pesquisas em Livros Didáticos de Ciências e Matemática dos Anos Iniciais do Ensino Fundamental",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Gilda Lisboa Guimaraes",
+ "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "pesquisa. livro didático. Educação Estatística. Matemática. anos iniciais.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22COMO%20S%C3%83O%20PROPOSTAS%20PESQUISAS%20EM%20LIVROS%20DID%C3%81TICOS%20DE%20CI%C3%8ANCIAS%20E%20MATEM%C3%81TICA%20DOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=COMO%20S%C3%83O%20PROPOSTAS%20PESQUISAS%20EM%20LIVROS%20DID%C3%81TICOS%20DE%20CI%C3%8ANCIAS%20E%20MATEM%C3%81TICA%20DOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20293631"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "20293631",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "pesquisa. livro didático. Educação Estatística. Matemática. anos iniciais."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-20293631.svg",
+ "resumo": "Estudar conceitos estatísticos num processo mais amplo tem se constituído como foco das novas recomendações para aprendizagem da Estatística em diversos países (Reino Unido, Nova Zelândia, Austrália, EUA, África do Sul, Japão, Canadá, Irlanda e Coréia). A pesquisa é apontada como alternativa para articulação entre saberes teóricos e práticos. Este estudo teve por objetivo analisar como coleções didáticas de Matemática e Ciências dos anos iniciais do Ensino Fundamental propõem aos alunos um trabalho com pesquisa, considerando as etapas de definição da questão, levantamento de hipóteses, amostra, coleta, classificação, registro, análise de dados e comunicação dos resultados. Ajuizamos como pesquisa as atividades que envolviam todo o ciclo investigativo ou uma de suas fases. Realizamos a análise de todas as atividades de 8 (oito) coleções didáticas, sendo quatro direcionadas ao ensino de Matemática do 1º ao 5º ano do Ensino Fundamental e quatro designadas para o ensino de Ciências do 2º ao 5º ano do Ensino Fundamental. Foram analisados 36 exemplares de livros didáticos escolhidos entre os mais vendidos em cada área, conforme dados do MEC. Analisamos quantas e quais são as atividades que propõem um trabalho com pesquisa, considerando se a proposição da mesma envolve todo o ciclo investigativo ou suas fases. Analisamos também as orientações ao professor no intuito de ver se os autores propõem um trabalho sistematizado com pesquisa. Constatamos que a pesquisa envolvendo todo o ciclo investigativo raramente é proposta em Ciências e é ausente na área de Matemática, mas várias atividades propõem um trabalho com mais de uma fase. Comparando as áreas observamos que em Ciências mais de 60% das atividades apresentadas nas coleções propõem um trabalho com cinco das fases de uma pesquisa: estabelecer o objetivo ou criar a questão a ser respondida, coletar, registrar e analisar os dados para chegar as conclusões. Em Matemática as atividades, priorizam as representações gráficas com ênfase em análise/interpretação. Todas as coleções de Ciências e nenhuma de Matemática se referem à atividade com pesquisa nas orientações ao professor. Os dados comprovam a grande necessidade de se propor atividades que envolvam todas as fases de uma pesquisa. Ressaltamos como fundamental que os autores das coleções didáticas busquem propor atividades que propiciem, de fato, a vivência de fases do ciclo da pesquisa e paralelamente a pesquisa como um todo para assim proporcionar aos alunos e professores a compreensão da pesquisa, dos conceitos estatísticos e da sua função nas prátic",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": []
 }

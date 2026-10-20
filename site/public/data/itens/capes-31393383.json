@@ -1,59 +1,59 @@
 {
-  "id": "capes-31393383",
-  "autor": "Michaelle Renata Moraes de Santana",
-  "ano": 2020,
-  "tipo": "Tese",
-  "titulo": "Produções e Usos de Livros Didáticos no Ensino de Probabilidade nos Anos Iniciais",
-  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Rute Elizabete de Souza Rosa Borba",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Livros didáticos; Probabilidade; Currículo; Anos Iniciais.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22PRODU%C3%87%C3%95ES%20E%20USOS%20DE%20LIVROS%20DID%C3%81TICOS%20NO%20ENSINO%20DE%20PROBABILIDADE%20NOS%20ANOS%20INICIAIS%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PRODU%C3%87%C3%95ES%20E%20USOS%20DE%20LIVROS%20DID%C3%81TICOS%20NO%20ENSINO%20DE%20PROBABILIDADE%20NOS%20ANOS%20INICIAIS&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31393383"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "31393383",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Livros didáticos",
-    "Probabilidade",
-    "Currículo",
-    "Anos Iniciais."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-31393383.svg",
-  "resumo": "ão o que os currículos prescritos para os anos iniciais de escolarização apontam para a importância do estudo de conceitos probabilísticos, ressalta-se a necessidade de compreender como esse conteúdo tem sido apresentado em materiais didáticos, em particular os livros didáticos (LD) — que desempenham um papel preponderante nos processos de ensino e aprendizagem. Sendo assim, baseando-se nos pressupostos teóricos da Teoria do Currículo (Sacristán, 2000), do uso de materiais curriculares por professores (Brown, 2009), bem como a compreensão da probabilidade (Bryant e Nunes, 2012), o presente estudo de doutoramento teve como objetivo analisar produções e usos de livros didáticos no ensino de Probabilidade. Para isso, a pesquisa foi dividida em quatro etapas. Na primeira etapa foram examinadas as orientações referentes à Probabilidade nos currículos prescritos, na qual observouse que o documento curricular orientador mais atual (BNCC) aponta um direcionamento no ensino que segue a mesma direção dos estudos realizados por Bryant e Nunes (2012). Na Etapa 2 foram analisadas duas coleções de livros didáticos, identificando tarefas de probabilidade apresentadas a partir dos livros didáticos do 3.º ano, das quais 55,9% envolviam o espaço amostral, 42,6% contemplavam a avaliação de probabilidades e 1,5% a aleatoriedade. Identificou-se, ainda, que 50% das tarefas envolveu a determinação de probabilidades em experiências simples e 50% em experiências compostas; 77,5% dos contextos são de jogos de sorte e azar; havendo um predomínio da atividade matemática aplicar, sendo dessa natureza 56,6% das tarefas na coleção A e 56,3% na coleção B; e houve o predomínio do suporte imagem nas duas coleções. Na segunda etapa ainda, dois editores de livros de didáticos, ao responderem um questionário, apontaram que a Probabilidade deve ser explorada desde os anos iniciais, levando em consideração as orientações presentes nos currículos prescritos. Na Etapa 3 foram entrevistadas quatro professoras que afirmaram alinhar o que o livro didático apresenta com o currículo prescrito e evidenciaram um conhecimento não muito claro de como as demandas cognitivas da probabilidade estavam apresentadas nos LD. Na Etapa 4 foram observadas quatro aulas, uma de cada uma das professoras participantes, verificando modos de utilização do livro didático no ensino deProbabilidade. Percebeu-se que as professoras P1 e P2 apresentaram mais momentos de reprodução do que é proposto pelo LD e P3 e P4 demonstraram um pouco mais de autonomia em relação ao uso do material, realizando adequações — atendendo, assim, às necessidades dos estudantes —, assim como criações ao proporem atividades diferentes do apresentado no LD. Desse modo, a interpretação do que foi apresentado nos livros nem sempre estava suficientemente apreendida pelas professoras. Conclui-se que parece haver uma mais forte articulação entre o que é prescrito em documentos oficiais e o que é apresentado em LD, do que a articulação entre o apresentado nos livros e o que professores modelam /planejam e o que colocam em ação em suas salas de aula. Destaca-se também a importância da probabilidade e a necessidade que nas distintas instâncias curriculares se contemple as diferentes demandas cognitivas, as variadas experiências probabilísticas e tarefas em diferentes contextos, com o auxílio de suportes diversos. Acredita-se, assim, que formações continuadas para professores podem permitir avanços no conhecimento docente em relação aos conceitos da probabilidade para que as práticas possam ir além do que é apresentado nos livros didáticos e se consiga implementar as indicações dos currículos prescritos",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "coleta expandida (plural/vocabulário)"
-  ]
+ "id": "capes-31393383",
+ "autor": "Michaelle Renata Moraes de Santana",
+ "ano": 2020,
+ "tipo": "Tese",
+ "titulo": "Produções e Usos de Livros Didáticos no Ensino de Probabilidade nos Anos Iniciais",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Rute Elizabete de Souza Rosa Borba",
+ "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Livros didáticos; Probabilidade; Currículo; Anos Iniciais.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22PRODU%C3%87%C3%95ES%20E%20USOS%20DE%20LIVROS%20DID%C3%81TICOS%20NO%20ENSINO%20DE%20PROBABILIDADE%20NOS%20ANOS%20INICIAIS%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PRODU%C3%87%C3%95ES%20E%20USOS%20DE%20LIVROS%20DID%C3%81TICOS%20NO%20ENSINO%20DE%20PROBABILIDADE%20NOS%20ANOS%20INICIAIS&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31393383"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "31393383",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Livros didáticos",
+  "Probabilidade",
+  "Currículo",
+  "Anos Iniciais."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-31393383.svg",
+ "resumo": "ão o que os currículos prescritos para os anos iniciais de escolarização apontam para a importância do estudo de conceitos probabilísticos, ressalta-se a necessidade de compreender como esse conteúdo tem sido apresentado em materiais didáticos, em particular os livros didáticos (LD) — que desempenham um papel preponderante nos processos de ensino e aprendizagem. Sendo assim, baseando-se nos pressupostos teóricos da Teoria do Currículo (Sacristán, 2000), do uso de materiais curriculares por professores (Brown, 2009), bem como a compreensão da probabilidade (Bryant e Nunes, 2012), o presente estudo de doutoramento teve como objetivo analisar produções e usos de livros didáticos no ensino de Probabilidade. Para isso, a pesquisa foi dividida em quatro etapas. Na primeira etapa foram examinadas as orientações referentes à Probabilidade nos currículos prescritos, na qual observouse que o documento curricular orientador mais atual (BNCC) aponta um direcionamento no ensino que segue a mesma direção dos estudos realizados por Bryant e Nunes (2012). Na Etapa 2 foram analisadas duas coleções de livros didáticos, identificando tarefas de probabilidade apresentadas a partir dos livros didáticos do 3.º ano, das quais 55,9% envolviam o espaço amostral, 42,6% contemplavam a avaliação de probabilidades e 1,5% a aleatoriedade. Identificou-se, ainda, que 50% das tarefas envolveu a determinação de probabilidades em experiências simples e 50% em experiências compostas; 77,5% dos contextos são de jogos de sorte e azar; havendo um predomínio da atividade matemática aplicar, sendo dessa natureza 56,6% das tarefas na coleção A e 56,3% na coleção B; e houve o predomínio do suporte imagem nas duas coleções. Na segunda etapa ainda, dois editores de livros de didáticos, ao responderem um questionário, apontaram que a Probabilidade deve ser explorada desde os anos iniciais, levando em consideração as orientações presentes nos currículos prescritos. Na Etapa 3 foram entrevistadas quatro professoras que afirmaram alinhar o que o livro didático apresenta com o currículo prescrito e evidenciaram um conhecimento não muito claro de como as demandas cognitivas da probabilidade estavam apresentadas nos LD. Na Etapa 4 foram observadas quatro aulas, uma de cada uma das professoras participantes, verificando modos de utilização do livro didático no ensino deProbabilidade. Percebeu-se que as professoras P1 e P2 apresentaram mais momentos de reprodução do que é proposto pelo LD e P3 e P4 demonstraram um pouco mais de autonomia em relação ao uso do material, realizando adequações — atendendo, assim, às necessidades dos estudantes —, assim como criações ao proporem atividades diferentes do apresentado no LD. Desse modo, a interpretação do que foi apresentado nos livros nem sempre estava suficientemente apreendida pelas professoras. Conclui-se que parece haver uma mais forte articulação entre o que é prescrito em documentos oficiais e o que é apresentado em LD, do que a articulação entre o apresentado nos livros e o que professores modelam /planejam e o que colocam em ação em suas salas de aula. Destaca-se também a importância da probabilidade e a necessidade que nas distintas instâncias curriculares se contemple as diferentes demandas cognitivas, as variadas experiências probabilísticas e tarefas em diferentes contextos, com o auxílio de suportes diversos. Acredita-se, assim, que formações continuadas para professores podem permitir avanços no conhecimento docente em relação aos conceitos da probabilidade para que as práticas possam ir além do que é apresentado nos livros didáticos e se consiga implementar as indicações dos currículos prescritos",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "coleta expandida (plural/vocabulário)"
+ ]
 }

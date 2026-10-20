@@ -1,62 +1,62 @@
 {
-  "id": "capes-31674856",
-  "autor": "Cristimara Rodrigues de Castilho",
-  "ano": 2020,
-  "tipo": "Dissertação",
-  "titulo": "O Ensino de Probabilidade Baseado em uma Sequência Didática para o Exercício de Literacia Probabilística",
-  "instituicao": "UNIVERSIDADE FEDERAL DE JUIZ DE FORA",
-  "cidade": "",
-  "estado": "Minas Gerais",
-  "regiao": "Sudeste",
-  "orientador": "Chang Kuo Rodrigues",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Matemática; Educação Estatística; Engenharia Didática; Literacia Probabilística; Sequência Didática",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ENSINO%20DE%20PROBABILIDADE%20BASEADO%20EM%20UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20O%20EXERC%C3%8DCIO%20DE%20LITERACIA%20PROBABIL%C3%8DSTICA%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ENSINO%20DE%20PROBABILIDADE%20BASEADO%20EM%20UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20O%20EXERC%C3%8DCIO%20DE%20LITERACIA%20PROBABIL%C3%8DSTICA&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31674856"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "31674856",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Matemática",
-    "Educação Estatística",
-    "Engenharia Didática",
-    "Literacia Probabilística",
-    "Sequência Didática"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-31674856.svg",
-  "resumo": "Esta pesquisa apresenta um estudo com sete alunos de uma turma do segundo ano do Ensino Médio, a qual buscou desenvolver atividades com o intuito de leva-los ao exercício da literacia probabilística. A partir da questão de pesquisa: “Que aspectos contribuem para o desenvolvimento da literacia probabilística em alunos do 2º ano do Ensino Médio, usando a Engenharia Didática como dispositivo metodológico mediada por uma sequência didática que leva à tomada de decisões? ”, buscou-se estudar conceitos que indicassem o exercício da literacia probabilística no ensino desse tema por meio de uma sequência didática. O quadro teórico que subsidiou esta pesquisa foi a literacia estatística e probabilística. Esse estudo, de cunho qualitativo, foi desenvolvido utilizando os pressupostos da Engenharia Didática como metodologia de pesquisa e como dispositivo metodológico na sala de aula. Com o objetivo geral de investigar se e como ocorre o desenvolvimento da literacia probabilística por meio de uma sequência didática, a qual leva à tomada de decisão construída gradativamente, por meio da Engenharia Didática como dispositivo metodológico, a pesquisa também buscou validar a hipótese levantada: uma sequência didática apoiada na Engenharia Didática como dispositivo metodológico tratando sobre linguagem, abordagens probabilísticas, discussões sobre espaços equiprováveis ou não, e tomada de decisão pode levar os alunos a desenvolver e exercer aspectos que compõem a literacia probabilística. Após a obtenção e análise dos dados, puderamse verificar os aspectos que contribuíram para o exercício da literacia probabilística, assim como validar a hipótese levantada. Por se tratar de um mestrado profissional, esta sequência didática aliada à uma segunda compôs o Produto Educacional. Os resultados desta pesquisa apontam para a necessidade de trabalhar a temática da Probabilidade desde os Anos Iniciais, aliada à literacia probabilística com vistas à formação do aluno de uma forma crítica.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de probabilidade"
-  ],
-  "ids_duplicados": []
+ "id": "capes-31674856",
+ "autor": "Cristimara Rodrigues de Castilho",
+ "ano": 2020,
+ "tipo": "Dissertação",
+ "titulo": "O Ensino de Probabilidade Baseado em uma Sequência Didática para o Exercício de Literacia Probabilística",
+ "instituicao": "Universidade Federal de Juiz de Fora",
+ "cidade": "",
+ "estado": "Minas Gerais",
+ "regiao": "Sudeste",
+ "orientador": "Chang Kuo Rodrigues",
+ "programa": "EDUCAÇÃO MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Matemática; Educação Estatística; Engenharia Didática; Literacia Probabilística; Sequência Didática",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ENSINO%20DE%20PROBABILIDADE%20BASEADO%20EM%20UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20O%20EXERC%C3%8DCIO%20DE%20LITERACIA%20PROBABIL%C3%8DSTICA%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ENSINO%20DE%20PROBABILIDADE%20BASEADO%20EM%20UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20O%20EXERC%C3%8DCIO%20DE%20LITERACIA%20PROBABIL%C3%8DSTICA&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31674856"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "31674856",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Matemática",
+  "Educação Estatística",
+  "Engenharia Didática",
+  "Literacia Probabilística",
+  "Sequência Didática"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-31674856.svg",
+ "resumo": "Esta pesquisa apresenta um estudo com sete alunos de uma turma do segundo ano do Ensino Médio, a qual buscou desenvolver atividades com o intuito de leva-los ao exercício da literacia probabilística. A partir da questão de pesquisa: “Que aspectos contribuem para o desenvolvimento da literacia probabilística em alunos do 2º ano do Ensino Médio, usando a Engenharia Didática como dispositivo metodológico mediada por uma sequência didática que leva à tomada de decisões? ”, buscou-se estudar conceitos que indicassem o exercício da literacia probabilística no ensino desse tema por meio de uma sequência didática. O quadro teórico que subsidiou esta pesquisa foi a literacia estatística e probabilística. Esse estudo, de cunho qualitativo, foi desenvolvido utilizando os pressupostos da Engenharia Didática como metodologia de pesquisa e como dispositivo metodológico na sala de aula. Com o objetivo geral de investigar se e como ocorre o desenvolvimento da literacia probabilística por meio de uma sequência didática, a qual leva à tomada de decisão construída gradativamente, por meio da Engenharia Didática como dispositivo metodológico, a pesquisa também buscou validar a hipótese levantada: uma sequência didática apoiada na Engenharia Didática como dispositivo metodológico tratando sobre linguagem, abordagens probabilísticas, discussões sobre espaços equiprováveis ou não, e tomada de decisão pode levar os alunos a desenvolver e exercer aspectos que compõem a literacia probabilística. Após a obtenção e análise dos dados, puderamse verificar os aspectos que contribuíram para o exercício da literacia probabilística, assim como validar a hipótese levantada. Por se tratar de um mestrado profissional, esta sequência didática aliada à uma segunda compôs o Produto Educacional. Os resultados desta pesquisa apontam para a necessidade de trabalhar a temática da Probabilidade desde os Anos Iniciais, aliada à literacia probabilística com vistas à formação do aluno de uma forma crítica.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de probabilidade"
+ ],
+ "ids_duplicados": []
 }

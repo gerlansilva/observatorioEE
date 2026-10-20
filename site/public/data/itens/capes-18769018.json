@@ -1,57 +1,57 @@
 {
-  "id": "capes-18769018",
-  "autor": "Flavia Batista Santos",
-  "ano": 2014,
-  "tipo": "Dissertação",
-  "titulo": "Análise dos pictogramas construídos por alunos cegos e videntes no contexto da aprendizagem de probabilidade",
-  "instituicao": "UNIVERSIDADE ESTADUAL DE SANTA CRUZ",
-  "cidade": "",
-  "estado": "Bahia",
-  "regiao": "Nordeste",
-  "orientador": "Veronica Yumi Kataoka",
-  "programa": "Educação Matemática",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Pictogramas 3D. Letramento probabilístico. Maquete tátil. Taxonomia SOLO.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22An%C3%A1lise%20dos%20pictogramas%20constru%C3%ADdos%20por%20alunos%20cegos%20e%20videntes%20no%20contexto%20da%20aprendizagem%20de%20probabilidade%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=An%C3%A1lise%20dos%20pictogramas%20constru%C3%ADdos%20por%20alunos%20cegos%20e%20videntes%20no%20contexto%20da%20aprendizagem%20de%20probabilidade&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/18769018"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "18769018",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Pictogramas 3D. Letramento probabilístico. Maquete tátil. Taxonomia SOLO."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-18769018.svg",
-  "resumo": "O objetivo geral desta pesquisa foi analisar a construção dos Pictogramas 3D construídos por estudantes cegos e videntes no contexto da aprendizagem de Probabilidade utilizando uma maquete tátil (MT). Essa MT é composta por tarefas da sequência de ensino Passeios Aleatórios do Jefferson (SE PAJ) e artefatos (um tabuleiro 3D, formas plásticas com base retangular contendo 54 compartimentos quadrados organizados em 9 linhas e 6 colunas que denominamos por colméia; cartas de 2,5 cm x 2,5 cm em emborrachado EVA com uma face atoalhado e outra face lisa; e brinquedos de cinco tipos, uma campainha, porta copos, copos plásticos). A SE PAJ aborda conceitos básicos de Probabilidade (cbP) no contexto de uma experimentação aleatória para determinar qual amigo Jefferson deve visitar. As tarefas para construção dos Pictogramas fazem parte dessa SE e os artefatos diretamente utilizados são as colmeias, que servem como guia de referência, e os brinquedos que estão associados a cada um dos cinco amigos visitados. Esse gráfico representa tanto as frequências observadas no experimento aleatório, quanto às frequências esperadas na árvore de possibilidades, do número de visitas. Os sujeitos dessa pesquisa foram 3 duplas de estudantes cegos e videntes (denominados D1, D2 e D3) de turmas regulares de escolas públicas dos municípios de Itabuna (BA). Os dados foram coletados por meio de fotos e filmagens da aplicação da SE; e audiogravação. A análise dos pictogramas foi feita de acordo com a classificação proposta por Watson a partir da Taxonomia SOLO - Structure of Observed Learning Outcomes, e poderiam ser categorizados, de acordo com a complexidade estrutural e o número de conceitos exigidos na mesma, em: pré-estrutural (P), uniestrutural (U), multiestrutural (M) ou relacional (R). Os cbP foram avaliados sob a perspectiva do letramento probabilístico proposto por Gal. Quanto aos pictogramas construídos a partir das frequências esperadas e das frequências observadas, os de D1 foram classificados, respectivamente nos níveis U e R, os de D2 nos níveis M e R, e os de D3 ambos no nível R, mostrando assim, um avanço na construção e interpretação desse tipo de gráfico.Numa análise global, avaliou-se que apesar dos estudantes apresentarem justificativas informais, há indicativos que os mesmos entenderam as diferenças entre uma situação determinística e experimento aleatório, e entre as frequências esperadas e as frequências observadas. Os resultados deste estudo indicam que utilizar materiais como MT para abordar cbP se constitui num importante recurso para ser utilizada na aprendizagem de forma compartilhada com estudantes cegos e videntes, e, por conseguinte, pode contribuir com o desenvolvimento do letramento probabilístico dos mesmos.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "letramento probabilístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-18769018",
+ "autor": "Flavia Batista Santos",
+ "ano": 2014,
+ "tipo": "Dissertação",
+ "titulo": "Análise dos pictogramas construídos por alunos cegos e videntes no contexto da aprendizagem de probabilidade",
+ "instituicao": "Universidade Estadual de Santa Cruz",
+ "cidade": "",
+ "estado": "Bahia",
+ "regiao": "Nordeste",
+ "orientador": "Veronica Yumi Kataoka",
+ "programa": "Educação Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Pictogramas 3D. Letramento probabilístico. Maquete tátil. Taxonomia SOLO.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22An%C3%A1lise%20dos%20pictogramas%20constru%C3%ADdos%20por%20alunos%20cegos%20e%20videntes%20no%20contexto%20da%20aprendizagem%20de%20probabilidade%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=An%C3%A1lise%20dos%20pictogramas%20constru%C3%ADdos%20por%20alunos%20cegos%20e%20videntes%20no%20contexto%20da%20aprendizagem%20de%20probabilidade&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/18769018"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "18769018",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Pictogramas 3D. Letramento probabilístico. Maquete tátil. Taxonomia SOLO."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-18769018.svg",
+ "resumo": "O objetivo geral desta pesquisa foi analisar a construção dos Pictogramas 3D construídos por estudantes cegos e videntes no contexto da aprendizagem de Probabilidade utilizando uma maquete tátil (MT). Essa MT é composta por tarefas da sequência de ensino Passeios Aleatórios do Jefferson (SE PAJ) e artefatos (um tabuleiro 3D, formas plásticas com base retangular contendo 54 compartimentos quadrados organizados em 9 linhas e 6 colunas que denominamos por colméia; cartas de 2,5 cm x 2,5 cm em emborrachado EVA com uma face atoalhado e outra face lisa; e brinquedos de cinco tipos, uma campainha, porta copos, copos plásticos). A SE PAJ aborda conceitos básicos de Probabilidade (cbP) no contexto de uma experimentação aleatória para determinar qual amigo Jefferson deve visitar. As tarefas para construção dos Pictogramas fazem parte dessa SE e os artefatos diretamente utilizados são as colmeias, que servem como guia de referência, e os brinquedos que estão associados a cada um dos cinco amigos visitados. Esse gráfico representa tanto as frequências observadas no experimento aleatório, quanto às frequências esperadas na árvore de possibilidades, do número de visitas. Os sujeitos dessa pesquisa foram 3 duplas de estudantes cegos e videntes (denominados D1, D2 e D3) de turmas regulares de escolas públicas dos municípios de Itabuna (BA). Os dados foram coletados por meio de fotos e filmagens da aplicação da SE; e audiogravação. A análise dos pictogramas foi feita de acordo com a classificação proposta por Watson a partir da Taxonomia SOLO - Structure of Observed Learning Outcomes, e poderiam ser categorizados, de acordo com a complexidade estrutural e o número de conceitos exigidos na mesma, em: pré-estrutural (P), uniestrutural (U), multiestrutural (M) ou relacional (R). Os cbP foram avaliados sob a perspectiva do letramento probabilístico proposto por Gal. Quanto aos pictogramas construídos a partir das frequências esperadas e das frequências observadas, os de D1 foram classificados, respectivamente nos níveis U e R, os de D2 nos níveis M e R, e os de D3 ambos no nível R, mostrando assim, um avanço na construção e interpretação desse tipo de gráfico.Numa análise global, avaliou-se que apesar dos estudantes apresentarem justificativas informais, há indicativos que os mesmos entenderam as diferenças entre uma situação determinística e experimento aleatório, e entre as frequências esperadas e as frequências observadas. Os resultados deste estudo indicam que utilizar materiais como MT para abordar cbP se constitui num importante recurso para ser utilizada na aprendizagem de forma compartilhada com estudantes cegos e videntes, e, por conseguinte, pode contribuir com o desenvolvimento do letramento probabilístico dos mesmos.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "letramento probabilístico"
+ ],
+ "ids_duplicados": []
 }

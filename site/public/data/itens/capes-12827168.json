@@ -1,54 +1,54 @@
 {
-  "id": "capes-12827168",
-  "autor": "Marcelo Massahiti Yamauti",
-  "ano": 2013,
-  "tipo": "Dissertação",
-  "titulo": "Regressão linear simples nos livros de estatística para cursos de Administração: um estudo didático",
-  "instituicao": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE SÃO PAULO",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Cileda de Queiroz e Silva Coutinho",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "MATEMATICA",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Regress%C3%A3o%20linear%20simples%20nos%20livros%20de%20estat%C3%ADstica%20para%20cursos%20de%20Administra%C3%A7%C3%A3o%3A%20um%20estudo%20did%C3%A1tico%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Regress%C3%A3o%20linear%20simples%20nos%20livros%20de%20estat%C3%ADstica%20para%20cursos%20de%20Administra%C3%A7%C3%A3o%3A%20um%20estudo%20did%C3%A1tico&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/12827168"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "12827168",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "MATEMATICA"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-12827168.svg",
-  "resumo": "Esta pesquisa insere-se no contexto de um curso de Administração e teve por objetivo analisar como os livros-texto de Estatística para tais cursos organizaram as atividades propostas, referentes ao estudo do tema Regressão Linear Simples, verificando se estas contribuem para o desenvolvimento do Pensamento Estatístico. Com o intuito de atingir tal objetivo, foram analisados seis livros-texto, considerando os exercícios propostos no capítulo referente ao tema em questão. O quadro teórico que fundamentou as análises foi a Teoria Antropológica do Didático, proposta por Yves Chevallard  com o olhar da organização praxeológica. Além deste, buscou-se também a fundamentação no que se define como Pensamento Estatístico, proposto por vários autores da área da Didática da Estatística. Apoiado nessas teorias, as análises foram realizadas com o intuito de responder as duas questões de pesquisa: Quais organizações praxeológicas (Estatística/Matemática) os livros-texto de Estatística para cursos de Administração apresentam em relação ao conteúdo Regressão Linear Simples? Quais características do Pensamento Estatístico são contempladas nessas organizações identificadas? Para isto, foi desenvolvida uma pesquisa qualitativa com enfoque documental. Os resultados das análises dos livrostexto apontaram para o fato de que o professor precisa ser mais criterioso na escolha de uma atividade proposta, se o objetivo a ser alcançado for o desenvolvimento do Pensamento Estatístico dos alunos",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": null
+ "id": "capes-12827168",
+ "autor": "Marcelo Massahiti Yamauti",
+ "ano": 2013,
+ "tipo": "Dissertação",
+ "titulo": "Regressão linear simples nos livros de estatística para cursos de Administração: um estudo didático",
+ "instituicao": "Pontifícia Universidade Católica de São Paulo",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Cileda de Queiroz e Silva Coutinho",
+ "programa": "EDUCAÇÃO MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "MATEMATICA",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Regress%C3%A3o%20linear%20simples%20nos%20livros%20de%20estat%C3%ADstica%20para%20cursos%20de%20Administra%C3%A7%C3%A3o%3A%20um%20estudo%20did%C3%A1tico%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Regress%C3%A3o%20linear%20simples%20nos%20livros%20de%20estat%C3%ADstica%20para%20cursos%20de%20Administra%C3%A7%C3%A3o%3A%20um%20estudo%20did%C3%A1tico&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/12827168"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "12827168",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "MATEMATICA"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-12827168.svg",
+ "resumo": "Esta pesquisa insere-se no contexto de um curso de Administração e teve por objetivo analisar como os livros-texto de Estatística para tais cursos organizaram as atividades propostas, referentes ao estudo do tema Regressão Linear Simples, verificando se estas contribuem para o desenvolvimento do Pensamento Estatístico. Com o intuito de atingir tal objetivo, foram analisados seis livros-texto, considerando os exercícios propostos no capítulo referente ao tema em questão. O quadro teórico que fundamentou as análises foi a Teoria Antropológica do Didático, proposta por Yves Chevallard  com o olhar da organização praxeológica. Além deste, buscou-se também a fundamentação no que se define como Pensamento Estatístico, proposto por vários autores da área da Didática da Estatística. Apoiado nessas teorias, as análises foram realizadas com o intuito de responder as duas questões de pesquisa: Quais organizações praxeológicas (Estatística/Matemática) os livros-texto de Estatística para cursos de Administração apresentam em relação ao conteúdo Regressão Linear Simples? Quais características do Pensamento Estatístico são contempladas nessas organizações identificadas? Para isto, foi desenvolvida uma pesquisa qualitativa com enfoque documental. Os resultados das análises dos livrostexto apontaram para o fato de que o professor precisa ser mais criterioso na escolha de uma atividade proposta, se o objetivo a ser alcançado for o desenvolvimento do Pensamento Estatístico dos alunos",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": null
 }

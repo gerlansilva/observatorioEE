@@ -1,61 +1,61 @@
 {
-  "id": "capes-28651033",
-  "autor": "Augusto Savio Guimaraes do Nascimento",
-  "ano": 2018,
-  "tipo": "Dissertação",
-  "titulo": "Educação Estatística na Perspectiva Cts: Uma Proposta de Sequência Didática para o Ensino de Estatística no Ensino Médio",
-  "instituicao": "INSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DO RIO GRANDE DO NORTE",
-  "cidade": "",
-  "estado": "Rio Grande do Norte",
-  "regiao": "Nordeste",
-  "orientador": "Albino Oliveira Nunes",
-  "programa": "ENSINO",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Ensino de Estatística; Ciência-Tecnologia-Sociedade; Ensino Médio; Sequência Didática",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20NA%20PERSPECTIVA%20CTS%3A%20UMA%20PROPOSTA%20DE%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20NA%20PERSPECTIVA%20CTS%3A%20UMA%20PROPOSTA%20DE%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28651033"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "28651033",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Ensino de Estatística",
-    "Ciência-Tecnologia-Sociedade",
-    "Ensino Médio",
-    "Sequência Didática"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-28651033.svg",
-  "resumo": "Este trabalho tem como objetivo geral apresentar uma proposta de sequência didática numa abordagem Ciência-Tecnologia-Sociedade (CTS) para o ensino de estatística no Ensino Médio. Compreende-se que o produto de ensino adotado é uma alternativa a qual contribui na formação de atitudes crítico-reflexivas em relação à ciência e à tecnologia, permitindo aos alunos elucidar o comprometimento do conhecimento estatístico para com o contexto social. As principais âncoras teóricas relacionas à Educação Estatística, que dão sustentação a esta pesquisa, baseiam-se em Campos, Wodewotzki e Jacobini (2011), Cazorla, Kataoka e Silva (2010), Delmas (2002), Gal (2002), Runsey (2002), Costa e Capovilla (1997), Walton (1990), Nisbett (1993), Garfield (2002), Delmas (2002), entre outros. Os encaminhamentos metodológicos fundamentam-se em uma abordagem de cunho quantitativa-qualitativa de acordo com o paradigma emergente, cujas análises levaram a estruturar a sequência didática para ensinar Estatística com abordagem CTS no Ensino Médio. Os fundamentos metodológicos da natureza da pesquisa estão apoiados nas argumentações de Moreira (1990), Minayo (1993), Santos Filho e Gamboa (1997), Grecca (2002), Günther, 2006, Tozoni-Reis (2009), Gerhardt e Silveira (2009) e Silveira e Córdova (2009). Assim, foi desenvolvido, neste trabalho, na modalidade de estado da arte, a partir de teses e dissertações, um estudo sobre as produções acadêmicas no campo da Educação Estatística no ensino médio em programas brasileiros de pós-graduação. Os dados foram abordados segundo a análise de conteúdo, com categorias que emergiram da leitura dos trabalhos localizados. Os resultados dessa pesquisa mostraram uma descontinuidade das produções na área. Além disso, uma segunda pesquisa buscou Conhecer as atitudes de alunos de ensino médio sobre o Ensino de Estatística. Nessa etapa, foi utilizado um questionário, compostos por questões abertas e uma escala de Likert. A confiabilidade dos dados quantitativos foi estimada pelo método do alfa de Cronbach e os dados tratados segundo a estatística descritiva. Por fim, foi desenvolvido uma proposta de sequência didática a ser usada na disciplina de Matemática no Ensino Médio. O material está estruturado sob o enfoque CTS, a fim de oportunizar um aprendizado dinâmico dos conteúdos de estatística, explorando um tema estruturante e de formação crítico-reflexivo para o aluno.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-28651033",
+ "autor": "Augusto Savio Guimaraes do Nascimento",
+ "ano": 2018,
+ "tipo": "Dissertação",
+ "titulo": "Educação Estatística na Perspectiva Cts: Uma Proposta de Sequência Didática para o Ensino de Estatística no Ensino Médio",
+ "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Norte",
+ "cidade": "",
+ "estado": "Rio Grande do Norte",
+ "regiao": "Nordeste",
+ "orientador": "Albino Oliveira Nunes",
+ "programa": "ENSINO",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Ensino de Estatística; Ciência-Tecnologia-Sociedade; Ensino Médio; Sequência Didática",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20NA%20PERSPECTIVA%20CTS%3A%20UMA%20PROPOSTA%20DE%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20NA%20PERSPECTIVA%20CTS%3A%20UMA%20PROPOSTA%20DE%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28651033"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "28651033",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Ensino de Estatística",
+  "Ciência-Tecnologia-Sociedade",
+  "Ensino Médio",
+  "Sequência Didática"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-28651033.svg",
+ "resumo": "Este trabalho tem como objetivo geral apresentar uma proposta de sequência didática numa abordagem Ciência-Tecnologia-Sociedade (CTS) para o ensino de estatística no Ensino Médio. Compreende-se que o produto de ensino adotado é uma alternativa a qual contribui na formação de atitudes crítico-reflexivas em relação à ciência e à tecnologia, permitindo aos alunos elucidar o comprometimento do conhecimento estatístico para com o contexto social. As principais âncoras teóricas relacionas à Educação Estatística, que dão sustentação a esta pesquisa, baseiam-se em Campos, Wodewotzki e Jacobini (2011), Cazorla, Kataoka e Silva (2010), Delmas (2002), Gal (2002), Runsey (2002), Costa e Capovilla (1997), Walton (1990), Nisbett (1993), Garfield (2002), Delmas (2002), entre outros. Os encaminhamentos metodológicos fundamentam-se em uma abordagem de cunho quantitativa-qualitativa de acordo com o paradigma emergente, cujas análises levaram a estruturar a sequência didática para ensinar Estatística com abordagem CTS no Ensino Médio. Os fundamentos metodológicos da natureza da pesquisa estão apoiados nas argumentações de Moreira (1990), Minayo (1993), Santos Filho e Gamboa (1997), Grecca (2002), Günther, 2006, Tozoni-Reis (2009), Gerhardt e Silveira (2009) e Silveira e Córdova (2009). Assim, foi desenvolvido, neste trabalho, na modalidade de estado da arte, a partir de teses e dissertações, um estudo sobre as produções acadêmicas no campo da Educação Estatística no ensino médio em programas brasileiros de pós-graduação. Os dados foram abordados segundo a análise de conteúdo, com categorias que emergiram da leitura dos trabalhos localizados. Os resultados dessa pesquisa mostraram uma descontinuidade das produções na área. Além disso, uma segunda pesquisa buscou Conhecer as atitudes de alunos de ensino médio sobre o Ensino de Estatística. Nessa etapa, foi utilizado um questionário, compostos por questões abertas e uma escala de Likert. A confiabilidade dos dados quantitativos foi estimada pelo método do alfa de Cronbach e os dados tratados segundo a estatística descritiva. Por fim, foi desenvolvido uma proposta de sequência didática a ser usada na disciplina de Matemática no Ensino Médio. O material está estruturado sob o enfoque CTS, a fim de oportunizar um aprendizado dinâmico dos conteúdos de estatística, explorando um tema estruturante e de formação crítico-reflexivo para o aluno.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

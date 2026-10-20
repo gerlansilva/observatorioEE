@@ -1,57 +1,57 @@
 {
-  "id": "capes-19251976",
-  "autor": "Eliana Gomes de Oliveira",
-  "ano": 2014,
-  "tipo": "Dissertação",
-  "titulo": "Raciocínio combinatório na resolução de problemas nos anos iniciais do ensino fundamental: um estudo com professores",
-  "instituicao": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE SÃO PAULO",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Cileda de Queiroz e Silva Coutinho",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "MATEMATICA, Combinatória, Estudo de caso, Teoria dos campos conceituais, Teoria antropológica do didático, Letramento combinatório",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Racioc%C3%ADnio%20combinat%C3%B3rio%20na%20resolu%C3%A7%C3%A3o%20de%20problemas%20nos%20anos%20iniciais%20do%20ensino%20fundamental%3A%20um%20estudo%20com%20professores%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Racioc%C3%ADnio%20combinat%C3%B3rio%20na%20resolu%C3%A7%C3%A3o%20de%20problemas%20nos%20anos%20iniciais%20do%20ensino%20fundamental%3A%20um%20estudo%20com%20professores&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19251976"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "19251976",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "MATEMATICA, Combinatória, Estudo de caso, Teoria dos campos conceituais, Teoria antropológica do didático, Letramento combinatório"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-19251976.svg",
-  "resumo": "Pesquisas sobre o ensino e a aprendizagem da Matemática têm evidenciado que, em problemas envolvendo raciocínio combinatório, professores e alunos incorrem em erros que já poderiam ter sido superados. Por essa razão, este trabalho objetivou identificar quais invariantes operatórios os professores que lecionam nos anos inicias do Ensino Fundamental mobilizam de forma estável, durante a análise de situações envolvendo combinatória. A investigação se insere em um projeto maior, desenvolvido pelo grupo de pesquisa PEA-MAT, no PEPG Educação Matemática da PUC-SP, em colaboração com o grupo DIMAT, da PUC-Peru. Optou-se pela metodologia qualitativa, adotando-se o estudo de caso. Os dados foram obtidos por meio de questionário e entrevista semiestruturada que visaram a responder à questão norteadora desta pesquisa: Quais invariantes operatórios os professores que lecionam nos anos iniciais do Ensino Fundamental mobilizam de forma estável, durante a análise de situações envolvendo Combinatória? A Teoria dos Campos Conceituais fundamentou as análises dos invariantes operatórios mobilizados. A Teoria Antropológica do Didático embasou a análise dos livros didáticos utilizados pelos sujeitos dessa pesquisa. O trabalho também investigou o conhecimento dos professores-colaboradores sobre Combinatória e Letramento Combinatório. A pesquisa revelou certo desconhecimento dos professores sobre o currículo prescrito do conteúdo de Combinatória. Quanto ao uso do livro didático, os docentes foram unânimes em concordar ser ele um recurso fundamental para suas aulas, mesmo que alguns deles buscassem outras fontes. Quanto aos invariantes operatórios mobilizados pelos docentes, as análises apontaram que eles possuem conceitos restritos sobre Combinatória, porque mobilizaram mais o invariante operatório da enumeração das possibilidades, do que os meios para generalizar o princípio multiplicativo. A investigação apontou que, em situações que envolvam mais de duas etapas, e que tenham um número maior de possibilidades, esse invariante não era válido. Dessas inferências emergiu a necessidade de um curso de formação que contemple a discussão tanto de conhecimentos didáticos quanto m atemáticos (Combinatória), o que deve redundar em reflexão criteriosa sobre prática docente",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "raciocínio combinatório"
-  ],
-  "ids_duplicados": []
+ "id": "capes-19251976",
+ "autor": "Eliana Gomes de Oliveira",
+ "ano": 2014,
+ "tipo": "Dissertação",
+ "titulo": "Raciocínio combinatório na resolução de problemas nos anos iniciais do ensino fundamental: um estudo com professores",
+ "instituicao": "Pontifícia Universidade Católica de São Paulo",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Cileda de Queiroz e Silva Coutinho",
+ "programa": "EDUCAÇÃO MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "MATEMATICA, Combinatória, Estudo de caso, Teoria dos campos conceituais, Teoria antropológica do didático, Letramento combinatório",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Racioc%C3%ADnio%20combinat%C3%B3rio%20na%20resolu%C3%A7%C3%A3o%20de%20problemas%20nos%20anos%20iniciais%20do%20ensino%20fundamental%3A%20um%20estudo%20com%20professores%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Racioc%C3%ADnio%20combinat%C3%B3rio%20na%20resolu%C3%A7%C3%A3o%20de%20problemas%20nos%20anos%20iniciais%20do%20ensino%20fundamental%3A%20um%20estudo%20com%20professores&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19251976"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "19251976",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "MATEMATICA, Combinatória, Estudo de caso, Teoria dos campos conceituais, Teoria antropológica do didático, Letramento combinatório"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-19251976.svg",
+ "resumo": "Pesquisas sobre o ensino e a aprendizagem da Matemática têm evidenciado que, em problemas envolvendo raciocínio combinatório, professores e alunos incorrem em erros que já poderiam ter sido superados. Por essa razão, este trabalho objetivou identificar quais invariantes operatórios os professores que lecionam nos anos inicias do Ensino Fundamental mobilizam de forma estável, durante a análise de situações envolvendo combinatória. A investigação se insere em um projeto maior, desenvolvido pelo grupo de pesquisa PEA-MAT, no PEPG Educação Matemática da PUC-SP, em colaboração com o grupo DIMAT, da PUC-Peru. Optou-se pela metodologia qualitativa, adotando-se o estudo de caso. Os dados foram obtidos por meio de questionário e entrevista semiestruturada que visaram a responder à questão norteadora desta pesquisa: Quais invariantes operatórios os professores que lecionam nos anos iniciais do Ensino Fundamental mobilizam de forma estável, durante a análise de situações envolvendo Combinatória? A Teoria dos Campos Conceituais fundamentou as análises dos invariantes operatórios mobilizados. A Teoria Antropológica do Didático embasou a análise dos livros didáticos utilizados pelos sujeitos dessa pesquisa. O trabalho também investigou o conhecimento dos professores-colaboradores sobre Combinatória e Letramento Combinatório. A pesquisa revelou certo desconhecimento dos professores sobre o currículo prescrito do conteúdo de Combinatória. Quanto ao uso do livro didático, os docentes foram unânimes em concordar ser ele um recurso fundamental para suas aulas, mesmo que alguns deles buscassem outras fontes. Quanto aos invariantes operatórios mobilizados pelos docentes, as análises apontaram que eles possuem conceitos restritos sobre Combinatória, porque mobilizaram mais o invariante operatório da enumeração das possibilidades, do que os meios para generalizar o princípio multiplicativo. A investigação apontou que, em situações que envolvam mais de duas etapas, e que tenham um número maior de possibilidades, esse invariante não era válido. Dessas inferências emergiu a necessidade de um curso de formação que contemple a discussão tanto de conhecimentos didáticos quanto m atemáticos (Combinatória), o que deve redundar em reflexão criteriosa sobre prática docente",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "raciocínio combinatório"
+ ],
+ "ids_duplicados": []
 }

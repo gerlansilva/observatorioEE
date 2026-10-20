@@ -1,61 +1,61 @@
 {
-  "id": "capes-34376825",
-  "autor": "Wilson Monteiro de Albuquerque Maranhao",
-  "ano": 2021,
-  "tipo": "Tese",
-  "titulo": "PRAXEOLOGIAS DA EDUCAÇÃO ESTATÍSTICA NA FORMAÇÃO DE PROFESSORES DOS ANOS INICIAIS: o caso do pensamento transnumerativo",
-  "instituicao": "UNIVERSIDADE FEDERAL DO PARÁ",
-  "cidade": "",
-  "estado": "Pará",
-  "regiao": "Norte",
-  "orientador": "Jose Messildo Viana Nunes",
-  "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA - UFMT - UFPA - UEA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "formação de professores; anos iniciais; ensino remoto; percurso de estudo e pesquisa; pensamento transnumerativo.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22PRAXEOLOGIAS%20DA%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20NA%20FORMA%C3%87%C3%83O%20DE%20PROFESSORES%20DOS%20ANOS%20INICIAIS%3A%20o%20caso%20do%20pensamento%20transnumerativo%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PRAXEOLOGIAS%20DA%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20NA%20FORMA%C3%87%C3%83O%20DE%20PROFESSORES%20DOS%20ANOS%20INICIAIS%3A%20o%20caso%20do%20pensamento%20transnumerativo&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34376825"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "34376825",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "formação de professores",
-    "anos iniciais",
-    "ensino remoto",
-    "percurso de estudo e pesquisa",
-    "pensamento transnumerativo."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-34376825.svg",
-  "resumo": "Em todas as sociedades e gerações, dados sempre foram gerados e informações também foram repassadas a todo momento, mas nunca na história da humanidade as pessoas tiveram acesso tão amplo e imediato a esses dados e informações. Sendo que em certas situações, são intencionalmente distorcidos gerando transtornos informacionais para toda uma comunidade. Estes são os tempos em que vivemos, em que urge a necessidade de os cidadãos serem preparados para questionar os conhecimentos que chegam até eles. Para estes tempos, duas teorias são muito adequadas a Estatística e a Teoria Antropológica do Didático (TAD): a Estatística com seus construtos permite ao indivíduo acolher, trabalhar e tirar conclusões acerca dos dados que lhe estão disponíveis e a TAD com a sua visão de um novo paradigma educacional, o paradigma de questionamento do mundo, contrapõem-se ao paradigma vigente, o paradigma monumentalista. Na pedagogia de questionamento do mundo, o sujeito é incentivado a exercer sua cidadania investigando os fenômenos de qualquer natureza (sociais, físicos etc.), e as ferramentas estatísticas possibilitam o tratamento das respostas obtidas. Porém, essa capacidade de questionamento e análise não se adquire de uma hora para a outra, deve-se edificar uma cultura estatística e de questionamento do mundo. O presente estudo, de metodologia qualitativa, tem como objetivo: Analisar as contribuições de praxeologias que favoreçam desenvolvimento do pensamento transnumerativo no equipamento praxeológico de graduandos do curso de Licenciatura em Pedagogia. E responder à questão: Quais praxeologias podem favorecer o desenvolvimento do pensamento transnumerativo com graduandos do curso de Licenciatura em Pedagogia a partir de um Percurso de Estudo e Pesquisa? Para isso foi realizado um Percurso de Estudo e Pesquisa (PEP) para a formação de professores dos anos iniciais do ensino fundamental, voltado às praxeologias que possibilitam o desenvolvimento do pensamento transnumerativo. Como aponta o seu idealizador, Yves Chevallard, todo PEP é composto de condições e restrições que devem ser administradas no seu decorrer, assim a pandemia da COVID-19 e um apagão de energia no estado do Amapá se mostraram como restrições ao PEP realizado, e as condições impostas por elas foram administradas como, por exemplo, o uso de plataforma de ensino remoto para a realização das sessões. Durante esta pesquisa revelaram-se dois percursos, um relativo à investigação e outro referente à prática, sendo o primeiro com características de um Percurso de Estudo e Pesquisa para a Formação de Professores. A realização do percurso de estudo e pesquisa da prática proporcionou a confirmação da tese: Um Percurso de Estudo e Pesquisa (PEP) aplicado no curso de Licenciatura em Pedagogia desencadeará praxeologias favoráveis ao desenvolvimento do pensamento transnumerativo. Acredita-se que o presente estudo tem grande potencial de contribuição à educação e outras pesquisas que busquem o desenvolvimento e sofisticação do letramento estatístico de nossa sociedade, permitindo assim a formação de cidadãos cada vez mais conscientes da realidade que os cerca.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-34376825",
+ "autor": "Wilson Monteiro de Albuquerque Maranhao",
+ "ano": 2021,
+ "tipo": "Tese",
+ "titulo": "PRAXEOLOGIAS DA EDUCAÇÃO ESTATÍSTICA NA FORMAÇÃO DE PROFESSORES DOS ANOS INICIAIS: o caso do pensamento transnumerativo",
+ "instituicao": "Universidade Federal do Pará",
+ "cidade": "",
+ "estado": "Pará",
+ "regiao": "Norte",
+ "orientador": "Jose Messildo Viana Nunes",
+ "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA - UFMT - UFPA - UEA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "formação de professores; anos iniciais; ensino remoto; percurso de estudo e pesquisa; pensamento transnumerativo.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22PRAXEOLOGIAS%20DA%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20NA%20FORMA%C3%87%C3%83O%20DE%20PROFESSORES%20DOS%20ANOS%20INICIAIS%3A%20o%20caso%20do%20pensamento%20transnumerativo%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PRAXEOLOGIAS%20DA%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20NA%20FORMA%C3%87%C3%83O%20DE%20PROFESSORES%20DOS%20ANOS%20INICIAIS%3A%20o%20caso%20do%20pensamento%20transnumerativo&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34376825"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "34376825",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "formação de professores",
+  "anos iniciais",
+  "ensino remoto",
+  "percurso de estudo e pesquisa",
+  "pensamento transnumerativo."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-34376825.svg",
+ "resumo": "Em todas as sociedades e gerações, dados sempre foram gerados e informações também foram repassadas a todo momento, mas nunca na história da humanidade as pessoas tiveram acesso tão amplo e imediato a esses dados e informações. Sendo que em certas situações, são intencionalmente distorcidos gerando transtornos informacionais para toda uma comunidade. Estes são os tempos em que vivemos, em que urge a necessidade de os cidadãos serem preparados para questionar os conhecimentos que chegam até eles. Para estes tempos, duas teorias são muito adequadas a Estatística e a Teoria Antropológica do Didático (TAD): a Estatística com seus construtos permite ao indivíduo acolher, trabalhar e tirar conclusões acerca dos dados que lhe estão disponíveis e a TAD com a sua visão de um novo paradigma educacional, o paradigma de questionamento do mundo, contrapõem-se ao paradigma vigente, o paradigma monumentalista. Na pedagogia de questionamento do mundo, o sujeito é incentivado a exercer sua cidadania investigando os fenômenos de qualquer natureza (sociais, físicos etc.), e as ferramentas estatísticas possibilitam o tratamento das respostas obtidas. Porém, essa capacidade de questionamento e análise não se adquire de uma hora para a outra, deve-se edificar uma cultura estatística e de questionamento do mundo. O presente estudo, de metodologia qualitativa, tem como objetivo: Analisar as contribuições de praxeologias que favoreçam desenvolvimento do pensamento transnumerativo no equipamento praxeológico de graduandos do curso de Licenciatura em Pedagogia. E responder à questão: Quais praxeologias podem favorecer o desenvolvimento do pensamento transnumerativo com graduandos do curso de Licenciatura em Pedagogia a partir de um Percurso de Estudo e Pesquisa? Para isso foi realizado um Percurso de Estudo e Pesquisa (PEP) para a formação de professores dos anos iniciais do ensino fundamental, voltado às praxeologias que possibilitam o desenvolvimento do pensamento transnumerativo. Como aponta o seu idealizador, Yves Chevallard, todo PEP é composto de condições e restrições que devem ser administradas no seu decorrer, assim a pandemia da COVID-19 e um apagão de energia no estado do Amapá se mostraram como restrições ao PEP realizado, e as condições impostas por elas foram administradas como, por exemplo, o uso de plataforma de ensino remoto para a realização das sessões. Durante esta pesquisa revelaram-se dois percursos, um relativo à investigação e outro referente à prática, sendo o primeiro com características de um Percurso de Estudo e Pesquisa para a Formação de Professores. A realização do percurso de estudo e pesquisa da prática proporcionou a confirmação da tese: Um Percurso de Estudo e Pesquisa (PEP) aplicado no curso de Licenciatura em Pedagogia desencadeará praxeologias favoráveis ao desenvolvimento do pensamento transnumerativo. Acredita-se que o presente estudo tem grande potencial de contribuição à educação e outras pesquisas que busquem o desenvolvimento e sofisticação do letramento estatístico de nossa sociedade, permitindo assim a formação de cidadãos cada vez mais conscientes da realidade que os cerca.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": []
 }

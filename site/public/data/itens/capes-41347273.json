@@ -1,60 +1,60 @@
 {
-  "id": "capes-41347273",
-  "autor": "Douglas Enison Cardoso da Silva",
-  "ano": 2024,
-  "tipo": "Dissertação",
-  "titulo": "Combinação Simples e Probabilidades de Eventos Sucessivos e Independentes: Uma Aplicação da Distribuição Binomial Via Sensemaking na Educação Básica",
-  "instituicao": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PIAUÍ - CAMPUS FLORIANO",
-  "cidade": "",
-  "estado": "Piauí",
-  "regiao": "Nordeste",
-  "orientador": "Igor Ferreira do Nascimento",
-  "programa": "Matemática em Rede Nacional",
-  "area": "CIÊNCIAS E HUMANIDADES PARA A EDUCAÇÃO BÁSICA",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "combinação; probabilidade em eventos sucessivos e independentes; probabilidade; distribuição binomial; sensemaking.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22COMBINA%C3%87%C3%83O%20SIMPLES%20E%20PROBABILIDADES%20DE%20EVENTOS%20SUCESSIVOS%20E%20INDEPENDENTES%3A%20UMA%20APLICA%C3%87%C3%83O%20DA%20DISTRIBUI%C3%87%C3%83O%20BINOMIAL%20VIA%20SENSEMAKING%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=COMBINA%C3%87%C3%83O%20SIMPLES%20E%20PROBABILIDADES%20DE%20EVENTOS%20SUCESSIVOS%20E%20INDEPENDENTES%3A%20UMA%20APLICA%C3%87%C3%83O%20DA%20DISTRIBUI%C3%87%C3%83O%20BINOMIAL%20VIA%20SENSEMAKING%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41347273"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "41347273",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "combinação",
-    "probabilidade em eventos sucessivos e independentes",
-    "probabilidade",
-    "distribuição binomial",
-    "sensemaking."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-41347273.svg",
-  "resumo": "Este trabalho apresenta os passos teóricos para que discentes do ensino básico melhorem o entendimento sobre combinação simples e probabilidade em eventos sucessivos e independentes através da distribuição binomial. Neste estudo foi apresentado conteúdos básicos métodos de contagem e alguns conceitos de estatística. Abordou-se tais conteúdos de duas formas: a primeira através de uma aula ministrada de forma expositiva, e a segunda foi realizada através de uma abordagem prática segundo duas situações do cotidiano dos discentes à qual tinha o objetivo de proporcionar aos discentes sentido e aprimoramento dos conhecimentos. Essa abordagem é conhecida como sensemaking. Na primeira situação foi realizado a interpretação, através da distribuição binomial, das medidas contra a doença COVID-19: restrição de contato social (lockdown), ampliação de leitos e vacinação. Na segunda foi realizado o cálculo da probabilidade de uma etiqueta que transmitia sinal de identificação por rádio frequência (RFID) ser ou não lida ao passar por um portal que possui um leitor de sinal de RFID. Na aplicação relacionada à COVID-19 foi criado uma situação-problema com um dado número de pessoas infectadas e um número reduzido de leitos de UTI, sendo os objetivos a mensuração do risco da fila de espera por leito e as ações para minimizá-lo. Já para a análise da leitura da etiqueta de com RFID, os discentes deveriam se comportar como técnicos(as) dentro de uma empresa que estava diretamente envolvido em melhorar o sistema de RFID fornecido pela mesma e o objetivo era mensurar o risco de uma carteirinha ser lida ou não para que, dependendo do resultado, se pudesse encontrar meios de melhorar o sistema. As referências teóricas forneceram uma base para o desenvolvimento do roteiro do estudo realizado. Foi proposto o uso de aplicativos e planilhas eletrônicas para a aplicação da distribuição binomial subsidiando um elo entre a teoria apresentada e o comportamento digital da aplicação. A apuração dos resultados foi realizada através do desempenho individual na realização das tarefas do trabalho, analisando a desenvoltura nas atividades e questionários. Conforme esperado, no final do trabalho percebeu-se que os alunos aprimoraram o conhecimento sobre combinação simples e probabilidade em eventos sucessivos e independentes",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "coleta expandida (plural/vocabulário)"
-  ]
+ "id": "capes-41347273",
+ "autor": "Douglas Enison Cardoso da Silva",
+ "ano": 2024,
+ "tipo": "Dissertação",
+ "titulo": "Combinação Simples e Probabilidades de Eventos Sucessivos e Independentes: Uma Aplicação da Distribuição Binomial Via Sensemaking na Educação Básica",
+ "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Piauí - Campus Floriano",
+ "cidade": "",
+ "estado": "Piauí",
+ "regiao": "Nordeste",
+ "orientador": "Igor Ferreira do Nascimento",
+ "programa": "Matemática em Rede Nacional",
+ "area": "CIÊNCIAS E HUMANIDADES PARA A EDUCAÇÃO BÁSICA",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "combinação; probabilidade em eventos sucessivos e independentes; probabilidade; distribuição binomial; sensemaking.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22COMBINA%C3%87%C3%83O%20SIMPLES%20E%20PROBABILIDADES%20DE%20EVENTOS%20SUCESSIVOS%20E%20INDEPENDENTES%3A%20UMA%20APLICA%C3%87%C3%83O%20DA%20DISTRIBUI%C3%87%C3%83O%20BINOMIAL%20VIA%20SENSEMAKING%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=COMBINA%C3%87%C3%83O%20SIMPLES%20E%20PROBABILIDADES%20DE%20EVENTOS%20SUCESSIVOS%20E%20INDEPENDENTES%3A%20UMA%20APLICA%C3%87%C3%83O%20DA%20DISTRIBUI%C3%87%C3%83O%20BINOMIAL%20VIA%20SENSEMAKING%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41347273"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "41347273",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "combinação",
+  "probabilidade em eventos sucessivos e independentes",
+  "probabilidade",
+  "distribuição binomial",
+  "sensemaking."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-41347273.svg",
+ "resumo": "Este trabalho apresenta os passos teóricos para que discentes do ensino básico melhorem o entendimento sobre combinação simples e probabilidade em eventos sucessivos e independentes através da distribuição binomial. Neste estudo foi apresentado conteúdos básicos métodos de contagem e alguns conceitos de estatística. Abordou-se tais conteúdos de duas formas: a primeira através de uma aula ministrada de forma expositiva, e a segunda foi realizada através de uma abordagem prática segundo duas situações do cotidiano dos discentes à qual tinha o objetivo de proporcionar aos discentes sentido e aprimoramento dos conhecimentos. Essa abordagem é conhecida como sensemaking. Na primeira situação foi realizado a interpretação, através da distribuição binomial, das medidas contra a doença COVID-19: restrição de contato social (lockdown), ampliação de leitos e vacinação. Na segunda foi realizado o cálculo da probabilidade de uma etiqueta que transmitia sinal de identificação por rádio frequência (RFID) ser ou não lida ao passar por um portal que possui um leitor de sinal de RFID. Na aplicação relacionada à COVID-19 foi criado uma situação-problema com um dado número de pessoas infectadas e um número reduzido de leitos de UTI, sendo os objetivos a mensuração do risco da fila de espera por leito e as ações para minimizá-lo. Já para a análise da leitura da etiqueta de com RFID, os discentes deveriam se comportar como técnicos(as) dentro de uma empresa que estava diretamente envolvido em melhorar o sistema de RFID fornecido pela mesma e o objetivo era mensurar o risco de uma carteirinha ser lida ou não para que, dependendo do resultado, se pudesse encontrar meios de melhorar o sistema. As referências teóricas forneceram uma base para o desenvolvimento do roteiro do estudo realizado. Foi proposto o uso de aplicativos e planilhas eletrônicas para a aplicação da distribuição binomial subsidiando um elo entre a teoria apresentada e o comportamento digital da aplicação. A apuração dos resultados foi realizada através do desempenho individual na realização das tarefas do trabalho, analisando a desenvoltura nas atividades e questionários. Conforme esperado, no final do trabalho percebeu-se que os alunos aprimoraram o conhecimento sobre combinação simples e probabilidade em eventos sucessivos e independentes",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "coleta expandida (plural/vocabulário)"
+ ]
 }

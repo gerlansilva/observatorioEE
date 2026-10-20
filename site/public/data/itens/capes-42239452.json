@@ -1,60 +1,60 @@
 {
-  "id": "capes-42239452",
-  "autor": "Luanne Lima Ferreira",
-  "ano": 2024,
-  "tipo": "Dissertação",
-  "titulo": "Conhecimentos Produzidos por Estudantes do Ensino Médio Envolvendo Pensamento Combinatório, a Partir de Práticas Educativas Investigativas",
-  "instituicao": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO ESPÍRITO SANTO",
-  "cidade": "",
-  "estado": "Espírito Santo",
-  "regiao": "Sudeste",
-  "orientador": "Rodolfo Chaves",
-  "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Produção de Conhecimento; Pensamento Combinatório; Modelo dos Campos Semânticos; Análise Epistemológica",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22CONHECIMENTOS%20PRODUZIDOS%20POR%20ESTUDANTES%20DO%20ENSINO%20M%C3%89DIO%20ENVOLVENDO%20PENSAMENTO%20COMBINAT%C3%93RIO%2C%20A%20PARTIR%20DE%20PR%C3%81TICAS%20EDUCATIVAS%20INVESTIGATIVAS%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CONHECIMENTOS%20PRODUZIDOS%20POR%20ESTUDANTES%20DO%20ENSINO%20M%C3%89DIO%20ENVOLVENDO%20PENSAMENTO%20COMBINAT%C3%93RIO%2C%20A%20PARTIR%20DE%20PR%C3%81TICAS%20EDUCATIVAS%20INVESTIGATIVAS&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42239452"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "42239452",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Produção de Conhecimento",
-    "Pensamento Combinatório",
-    "Modelo dos Campos Semânticos",
-    "Análise Epistemológica"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-42239452.svg",
-  "resumo": "Esta pesquisa, de cunho qualitativo, fundamentada nas ideias do Modelo dos Campos Semânticos (MCS), apresentou como estratégia de pesquisa um estudo de caso e utilizou como método de análise leituras plausíveis com a perspectiva de efetuar uma análise epistemológica a partir do MCS. Esta investigação partiu de inquietações vivenciadas pela pesquisadora durante sua trajetória profissional, como, por exemplo, a demanda de docentes por métodos de memorização de fórmulas e algoritmos. Tais inquietações conduziram à seguinte pergunta-diretriz: Quais conhecimentos são produzidos por estudantes do ensino médio, durante um processo de aprendizagem, pautado em práticas educativas investigativas, envolvendo pensamento combinatório? A partir do referencial teórico e metodológico da pesquisa, estabeleceu-se o seguinte objetivo geral: analisar, à luz do Modelo dos Campos Semânticos, significados e conhecimentos produzidos por estudantes de ensino médio em processos de ensino e de aprendizagem pautados em práticas educativas investigativas, envolvendo pensamento combinatório. Para responder a essa pergunta, propôs-se oferecer um ambiente propício para que os estudantes, participantes da pesquisa, e, portanto, sujeitos do conhecimento, expressassem o que pensavam diante do que foi proposto, uma vez que, para a produção de conhecimento, buscou-se analisar significados produzidos, levando em consideração aquilo que efetivamente foi dito. Os participantes da pesquisa foram os estudantes da segunda série do ensino médio de uma escola pública do Espírito Santo, da qual a pesquisadora era regente de classe. A produção de dados da pesquisa teve como fonte de evidência os textos – no sentido proposto pelo MCS – e como método, os possíveis diálogos e compartilhamento de espaços comunicativos, tal como preconizado pelo MCS, além das observações. Esses registros foram produzidos por meio de gravações de áudio e/ou vídeos com os participantes da pesquisa, observações descritas pela professora-pesquisadora e monitores no diário de bordo e as resoluções das tarefas desenvolvidas pelos participantes. Apresentou-se como produto educacional um material textual em formato de um livro, versão digital (e-book), pela facilidade de elaboração, compartilhamento e possibilidade de adaptação pelos futuros usuários. O referido produto foi validado no âmbito da mobilidade internacional com uma turma da formação inicial de professores – Mestrado em Ensino de Matemática e Ciências Naturais do 2º Ciclo do Ensino Básico (CEB), da Escola Superior de Educação do Instituto Politécnico de Coimbra, em Portugal. Com o intuito de promover a liberdade de uso, alteração e compartilhamento, o e-book foi licenciado de forma aberta, para que pudesse ser considerado um recurso educacional aberto. Como parte das considerações finais foi produzido o conhecimento de, tomar o MCS como aporte epistemológico na pesquisa, não apenas possibilitou as análises, mas ajudou a enxergar o estudante e a sala de aula por outro espectro, permitindo praticar uma educação matemática na qual se procura explicitar na escola os modos de produção de significado da rua e mais ainda, enquanto ato pedagógico e ato político, que visa produzir legitimidade dentro da escola para os modos de produção de significado da rua e assim, poder propor novos modos de produção de significado, juntando os da rua aos da escola.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "pensamento combinatório"
-  ],
-  "ids_duplicados": []
+ "id": "capes-42239452",
+ "autor": "Luanne Lima Ferreira",
+ "ano": 2024,
+ "tipo": "Dissertação",
+ "titulo": "Conhecimentos Produzidos por Estudantes do Ensino Médio Envolvendo Pensamento Combinatório, a Partir de Práticas Educativas Investigativas",
+ "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+ "cidade": "",
+ "estado": "Espírito Santo",
+ "regiao": "Sudeste",
+ "orientador": "Rodolfo Chaves",
+ "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Produção de Conhecimento; Pensamento Combinatório; Modelo dos Campos Semânticos; Análise Epistemológica",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22CONHECIMENTOS%20PRODUZIDOS%20POR%20ESTUDANTES%20DO%20ENSINO%20M%C3%89DIO%20ENVOLVENDO%20PENSAMENTO%20COMBINAT%C3%93RIO%2C%20A%20PARTIR%20DE%20PR%C3%81TICAS%20EDUCATIVAS%20INVESTIGATIVAS%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CONHECIMENTOS%20PRODUZIDOS%20POR%20ESTUDANTES%20DO%20ENSINO%20M%C3%89DIO%20ENVOLVENDO%20PENSAMENTO%20COMBINAT%C3%93RIO%2C%20A%20PARTIR%20DE%20PR%C3%81TICAS%20EDUCATIVAS%20INVESTIGATIVAS&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42239452"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "42239452",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Produção de Conhecimento",
+  "Pensamento Combinatório",
+  "Modelo dos Campos Semânticos",
+  "Análise Epistemológica"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-42239452.svg",
+ "resumo": "Esta pesquisa, de cunho qualitativo, fundamentada nas ideias do Modelo dos Campos Semânticos (MCS), apresentou como estratégia de pesquisa um estudo de caso e utilizou como método de análise leituras plausíveis com a perspectiva de efetuar uma análise epistemológica a partir do MCS. Esta investigação partiu de inquietações vivenciadas pela pesquisadora durante sua trajetória profissional, como, por exemplo, a demanda de docentes por métodos de memorização de fórmulas e algoritmos. Tais inquietações conduziram à seguinte pergunta-diretriz: Quais conhecimentos são produzidos por estudantes do ensino médio, durante um processo de aprendizagem, pautado em práticas educativas investigativas, envolvendo pensamento combinatório? A partir do referencial teórico e metodológico da pesquisa, estabeleceu-se o seguinte objetivo geral: analisar, à luz do Modelo dos Campos Semânticos, significados e conhecimentos produzidos por estudantes de ensino médio em processos de ensino e de aprendizagem pautados em práticas educativas investigativas, envolvendo pensamento combinatório. Para responder a essa pergunta, propôs-se oferecer um ambiente propício para que os estudantes, participantes da pesquisa, e, portanto, sujeitos do conhecimento, expressassem o que pensavam diante do que foi proposto, uma vez que, para a produção de conhecimento, buscou-se analisar significados produzidos, levando em consideração aquilo que efetivamente foi dito. Os participantes da pesquisa foram os estudantes da segunda série do ensino médio de uma escola pública do Espírito Santo, da qual a pesquisadora era regente de classe. A produção de dados da pesquisa teve como fonte de evidência os textos – no sentido proposto pelo MCS – e como método, os possíveis diálogos e compartilhamento de espaços comunicativos, tal como preconizado pelo MCS, além das observações. Esses registros foram produzidos por meio de gravações de áudio e/ou vídeos com os participantes da pesquisa, observações descritas pela professora-pesquisadora e monitores no diário de bordo e as resoluções das tarefas desenvolvidas pelos participantes. Apresentou-se como produto educacional um material textual em formato de um livro, versão digital (e-book), pela facilidade de elaboração, compartilhamento e possibilidade de adaptação pelos futuros usuários. O referido produto foi validado no âmbito da mobilidade internacional com uma turma da formação inicial de professores – Mestrado em Ensino de Matemática e Ciências Naturais do 2º Ciclo do Ensino Básico (CEB), da Escola Superior de Educação do Instituto Politécnico de Coimbra, em Portugal. Com o intuito de promover a liberdade de uso, alteração e compartilhamento, o e-book foi licenciado de forma aberta, para que pudesse ser considerado um recurso educacional aberto. Como parte das considerações finais foi produzido o conhecimento de, tomar o MCS como aporte epistemológico na pesquisa, não apenas possibilitou as análises, mas ajudou a enxergar o estudante e a sala de aula por outro espectro, permitindo praticar uma educação matemática na qual se procura explicitar na escola os modos de produção de significado da rua e mais ainda, enquanto ato pedagógico e ato político, que visa produzir legitimidade dentro da escola para os modos de produção de significado da rua e assim, poder propor novos modos de produção de significado, juntando os da rua aos da escola.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "pensamento combinatório"
+ ],
+ "ids_duplicados": []
 }

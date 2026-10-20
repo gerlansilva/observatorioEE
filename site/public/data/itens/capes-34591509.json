@@ -1,62 +1,62 @@
 {
-  "id": "capes-34591509",
-  "autor": "Luzia Roseli da Silva Santos",
-  "ano": 2021,
-  "tipo": "Dissertação",
-  "titulo": "Elaboração de Livro Paradidático para o Ensino de Estatística: O Trilhar de uma Proposta para os Anos Iniciais do Ensino Fundamental",
-  "instituicao": "UNIVERSIDADE FEDERAL DO ABC",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Ailton Paulo de Oliveira Junior",
-  "programa": "Ensino e História das Ciências e da Matemática",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Livro paradidático; Ensino de estatística; Anos iniciais do Ensino Fundamental; Análise textual Multivariada; Análise de Conteúdo; Teoria Antropológica do Didático.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22ELABORA%C3%87%C3%83O%20DE%20LIVRO%20PARADID%C3%81TICO%20PARA%20O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%3A%20O%20TRILHAR%20DE%20UMA%20PROPOSTA%20PARA%20OS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ELABORA%C3%87%C3%83O%20DE%20LIVRO%20PARADID%C3%81TICO%20PARA%20O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%3A%20O%20TRILHAR%20DE%20UMA%20PROPOSTA%20PARA%20OS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34591509"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "34591509",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Livro paradidático",
-    "Ensino de estatística",
-    "Anos iniciais do Ensino Fundamental",
-    "Análise textual Multivariada",
-    "Análise de Conteúdo",
-    "Teoria Antropológica do Didático."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-34591509.svg",
-  "resumo": "O objetivo deste trabalho foi descrever o processo de elaboração de um livro paradidático para apoiar o ensino de conteúdo estatístico nos anos iniciais do ensino fundamental, estabelecendo a seguinte questão de pesquisa: Como a elaboração do livro paradidático pode contribuir com o ensino de estatística nos anos iniciais do Ensino Fundamental? Assim, foram realizadas análises textuais, por meio do software IRaMuTeQ na qual utilizamos análises multivariadas (classificação hierárquica descendente, análise fatorial e análises de similitude), para avaliar a visão do aluno para a construção do livro paradidático. Na sequência, apresentamos tarefas (atividades) estatísticas tomando como princípio a Teoria Antropológica da Didática - TAD na organização didática e praxeológica matemática (estatística) para indicar àqueles que utilizarão os aspectos didáticos e teóricos. Esta pesquisa é do tipo exploratório, de abordagem qualitativa e quantitativa por meio de questionário disponibilizado por meio do Google Forms e analisado pelo software IRaMuTeQ para identificar a visão do aluno para a construção do livro paradidático e qualitativa quando da apresentação de algumas tarefas que comporão o livro considerando a TAD de Yves Chevallard. Buscamos na elaboração das atividades utilizar o documento americano Diretrizes para Avaliação e Instrução no Ensino de Estatística - GAISE e a Base Nacional Comum Curricular – BNCC e que atendam às necessidades de compreensão e assimilação por parte dos alunos nesse ciclo de estudos. Acredita-se ser necessário investigar e buscar uma compreensão mais ampla e fundamentada sobre o uso de livros paradidáticos, tanto no desenvolvimento da leitura quanto na escrita, e consequentemente, nos conteúdos estatísticos que se ensina nos anos iniciais do Ensino Fundamental. O processo de elaboração de livro paradidático, considerou inicialmente a verificação de como os alunos têm em mente aspectos para a elaboração do paradidático, que será material composto por situações problema ou tarefas, constituídas de uma sequência de subtarefas, que podem ser realizadas utilizando diversas técnicas, justificadas pela tecnologia que utiliza a Estatística como objeto de estudo. A intenção da construção do paradidático não foi substituir o livro didático e sim, complementá-lo, e inserir este material com elemento essencial na formação dos alunos da Educação Básica em relação aos conteúdos estatísticos. É necessário ressaltar a importância de o aluno ter contato com a leitura e interpretação de textos em sua educação inicial, podendo ser auxiliada com o livro paradidático, assim ele trabalhará os conceitos estatísticos de uma forma mais prazerosa.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-34591509",
+ "autor": "Luzia Roseli da Silva Santos",
+ "ano": 2021,
+ "tipo": "Dissertação",
+ "titulo": "Elaboração de Livro Paradidático para o Ensino de Estatística: O Trilhar de uma Proposta para os Anos Iniciais do Ensino Fundamental",
+ "instituicao": "Universidade Federal do Abc",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Ailton Paulo de Oliveira Junior",
+ "programa": "Ensino e História das Ciências e da Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Livro paradidático; Ensino de estatística; Anos iniciais do Ensino Fundamental; Análise textual Multivariada; Análise de Conteúdo; Teoria Antropológica do Didático.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22ELABORA%C3%87%C3%83O%20DE%20LIVRO%20PARADID%C3%81TICO%20PARA%20O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%3A%20O%20TRILHAR%20DE%20UMA%20PROPOSTA%20PARA%20OS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ELABORA%C3%87%C3%83O%20DE%20LIVRO%20PARADID%C3%81TICO%20PARA%20O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%3A%20O%20TRILHAR%20DE%20UMA%20PROPOSTA%20PARA%20OS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34591509"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "34591509",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Livro paradidático",
+  "Ensino de estatística",
+  "Anos iniciais do Ensino Fundamental",
+  "Análise textual Multivariada",
+  "Análise de Conteúdo",
+  "Teoria Antropológica do Didático."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-34591509.svg",
+ "resumo": "O objetivo deste trabalho foi descrever o processo de elaboração de um livro paradidático para apoiar o ensino de conteúdo estatístico nos anos iniciais do ensino fundamental, estabelecendo a seguinte questão de pesquisa: Como a elaboração do livro paradidático pode contribuir com o ensino de estatística nos anos iniciais do Ensino Fundamental? Assim, foram realizadas análises textuais, por meio do software IRaMuTeQ na qual utilizamos análises multivariadas (classificação hierárquica descendente, análise fatorial e análises de similitude), para avaliar a visão do aluno para a construção do livro paradidático. Na sequência, apresentamos tarefas (atividades) estatísticas tomando como princípio a Teoria Antropológica da Didática - TAD na organização didática e praxeológica matemática (estatística) para indicar àqueles que utilizarão os aspectos didáticos e teóricos. Esta pesquisa é do tipo exploratório, de abordagem qualitativa e quantitativa por meio de questionário disponibilizado por meio do Google Forms e analisado pelo software IRaMuTeQ para identificar a visão do aluno para a construção do livro paradidático e qualitativa quando da apresentação de algumas tarefas que comporão o livro considerando a TAD de Yves Chevallard. Buscamos na elaboração das atividades utilizar o documento americano Diretrizes para Avaliação e Instrução no Ensino de Estatística - GAISE e a Base Nacional Comum Curricular – BNCC e que atendam às necessidades de compreensão e assimilação por parte dos alunos nesse ciclo de estudos. Acredita-se ser necessário investigar e buscar uma compreensão mais ampla e fundamentada sobre o uso de livros paradidáticos, tanto no desenvolvimento da leitura quanto na escrita, e consequentemente, nos conteúdos estatísticos que se ensina nos anos iniciais do Ensino Fundamental. O processo de elaboração de livro paradidático, considerou inicialmente a verificação de como os alunos têm em mente aspectos para a elaboração do paradidático, que será material composto por situações problema ou tarefas, constituídas de uma sequência de subtarefas, que podem ser realizadas utilizando diversas técnicas, justificadas pela tecnologia que utiliza a Estatística como objeto de estudo. A intenção da construção do paradidático não foi substituir o livro didático e sim, complementá-lo, e inserir este material com elemento essencial na formação dos alunos da Educação Básica em relação aos conteúdos estatísticos. É necessário ressaltar a importância de o aluno ter contato com a leitura e interpretação de textos em sua educação inicial, podendo ser auxiliada com o livro paradidático, assim ele trabalhará os conceitos estatísticos de uma forma mais prazerosa.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

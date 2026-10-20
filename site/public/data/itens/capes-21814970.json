@@ -1,60 +1,60 @@
 {
-  "id": "capes-21814970",
-  "autor": "Sergia Andrea Pereira de Oliveira",
-  "ano": 2016,
-  "tipo": "Dissertação",
-  "titulo": "Educação Estatística em escolas do povo Xukuru do Ororubá",
-  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Liliane Maria Teixeira Lima de Carvalho",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Indígena; Educação Estatística; Pesquisa Estatística; Grupo Colaborativo.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20em%20escolas%20do%20povo%20Xukuru%20do%20Ororub%C3%A1%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20em%20escolas%20do%20povo%20Xukuru%20do%20Ororub%C3%A1&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21814970"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "21814970",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Indígena",
-    "Educação Estatística",
-    "Pesquisa Estatística",
-    "Grupo Colaborativo."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-21814970.svg",
-  "resumo": "Neste trabalho objetivou-se analisar a Educação Estatística desenvolvida em escolas indígenas do povo Xukuru do Ororubá. Em termos específicos buscou-se identificar se e como conteúdos de estatística são trabalhados por professores dos anos iniciais do Ensino Fundamental de escolas do povo Xukuru do Ororubá e analisar o planejamento e realização de atividades em sala de aula envolvendo etapas do ciclo investigativo para a Educação Estatística, desenvolvidas no âmbito de um grupo colaborativo. A Educação Escolar Indígena conforme definido pela legislação brasileira, deve ser específica e diferenciada mediante as expressões socioculturais de cada povo. Investigações recentes na área da Educação Estatística apontam a importância de fomentar nos processos de ensino e aprendizagem o protagonismo dos estudantes por meio de situações didáticas que incluam as dimensões socioculturais existentes nos diferentes contextos dos indivíduos. Assim, os fios teóricos utilizados neste estudo se baseiam em teorizações vinculadas a discussões sobre a aprendizagem de Estatística em ambientes pluriculturais, uma vez que, quando os sujeitos vivenciam uma aprendizagem na qual suas características individuais e culturais são valorizadas amplia-se uma reflexão crítica e política, de modo a favorecer o entendimento de conteúdos e de sua aplicabilidade na vida cotidiana. A abordagem metodológica se baseou na perspectiva etnográfica e utilizou como instrumentos de pesquisa a observação participante, entrevistas semi-estruturada com três professores indígenas, análise documental em diários de aula de dois professores e formação de um grupo colaborativo com a participação de 11 docentes dos anos iniciais do Ensino Fundamental para discussão, desenvolvimento e análise de conteúdos de Estatística. Identificamos neste estudo que os professores recebem na formação inicial pouca orientação para o trabalho com a Estatística. Os registros das atividades de matemática revelam uma predominância do ensino de número e operações em sala de aula. O registro de atividade com a Estatística, indicou o trabalho com a construção de gráficos e tabelas. O processo do grupo colaborativo foi consolidado em quatro encontros e envolveu discussões sobre ideias e conceitos no âmbito da Educação Estatística, em particular, sobre a importância da pesquisa estatística para desenvolvimento do pensamento crítico. A partir de uma única temática escolhida pelo grupo colaborativo, cada participante elaborou um plano de aula para o Ensino de Estatística. Após a realização do plano de aula em suas respectivas escolas, os professores entregaram relatórios contendo planejamentos, ações desenvolvidas, atividades realizadas pelos alunos e socializaram as ações desenvolvidas com o grupo colaborativo. Os planos de aula apresentaram características interdisciplinares e envolveram o trabalho com a pesquisa estatística. O gráfico de barras consistiu a forma de apresentação de dados mais utilizada para o tratamento dos dados, seguido do gráfico de setores. A proposta de formação do grupo colaborativo contribuiu para potencializar o desenvolvimento da educação estatística em escolas indígenas Xukuru do Ororubá viabilizando o protagonismo dos docentes e a participação ativa destes nos processos de aprendizagem na comunidade indígena.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-21814970",
+ "autor": "Sergia Andrea Pereira de Oliveira",
+ "ano": 2016,
+ "tipo": "Dissertação",
+ "titulo": "Educação Estatística em escolas do povo Xukuru do Ororubá",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Liliane Maria Teixeira Lima de Carvalho",
+ "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Indígena; Educação Estatística; Pesquisa Estatística; Grupo Colaborativo.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20em%20escolas%20do%20povo%20Xukuru%20do%20Ororub%C3%A1%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20em%20escolas%20do%20povo%20Xukuru%20do%20Ororub%C3%A1&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21814970"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "21814970",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Indígena",
+  "Educação Estatística",
+  "Pesquisa Estatística",
+  "Grupo Colaborativo."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-21814970.svg",
+ "resumo": "Neste trabalho objetivou-se analisar a Educação Estatística desenvolvida em escolas indígenas do povo Xukuru do Ororubá. Em termos específicos buscou-se identificar se e como conteúdos de estatística são trabalhados por professores dos anos iniciais do Ensino Fundamental de escolas do povo Xukuru do Ororubá e analisar o planejamento e realização de atividades em sala de aula envolvendo etapas do ciclo investigativo para a Educação Estatística, desenvolvidas no âmbito de um grupo colaborativo. A Educação Escolar Indígena conforme definido pela legislação brasileira, deve ser específica e diferenciada mediante as expressões socioculturais de cada povo. Investigações recentes na área da Educação Estatística apontam a importância de fomentar nos processos de ensino e aprendizagem o protagonismo dos estudantes por meio de situações didáticas que incluam as dimensões socioculturais existentes nos diferentes contextos dos indivíduos. Assim, os fios teóricos utilizados neste estudo se baseiam em teorizações vinculadas a discussões sobre a aprendizagem de Estatística em ambientes pluriculturais, uma vez que, quando os sujeitos vivenciam uma aprendizagem na qual suas características individuais e culturais são valorizadas amplia-se uma reflexão crítica e política, de modo a favorecer o entendimento de conteúdos e de sua aplicabilidade na vida cotidiana. A abordagem metodológica se baseou na perspectiva etnográfica e utilizou como instrumentos de pesquisa a observação participante, entrevistas semi-estruturada com três professores indígenas, análise documental em diários de aula de dois professores e formação de um grupo colaborativo com a participação de 11 docentes dos anos iniciais do Ensino Fundamental para discussão, desenvolvimento e análise de conteúdos de Estatística. Identificamos neste estudo que os professores recebem na formação inicial pouca orientação para o trabalho com a Estatística. Os registros das atividades de matemática revelam uma predominância do ensino de número e operações em sala de aula. O registro de atividade com a Estatística, indicou o trabalho com a construção de gráficos e tabelas. O processo do grupo colaborativo foi consolidado em quatro encontros e envolveu discussões sobre ideias e conceitos no âmbito da Educação Estatística, em particular, sobre a importância da pesquisa estatística para desenvolvimento do pensamento crítico. A partir de uma única temática escolhida pelo grupo colaborativo, cada participante elaborou um plano de aula para o Ensino de Estatística. Após a realização do plano de aula em suas respectivas escolas, os professores entregaram relatórios contendo planejamentos, ações desenvolvidas, atividades realizadas pelos alunos e socializaram as ações desenvolvidas com o grupo colaborativo. Os planos de aula apresentaram características interdisciplinares e envolveram o trabalho com a pesquisa estatística. O gráfico de barras consistiu a forma de apresentação de dados mais utilizada para o tratamento dos dados, seguido do gráfico de setores. A proposta de formação do grupo colaborativo contribuiu para potencializar o desenvolvimento da educação estatística em escolas indígenas Xukuru do Ororubá viabilizando o protagonismo dos docentes e a participação ativa destes nos processos de aprendizagem na comunidade indígena.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": []
 }

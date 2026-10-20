@@ -1,60 +1,60 @@
 {
-  "id": "capes-35582189",
-  "autor": "Marcelene Alves Duarte",
-  "ano": 2021,
-  "tipo": "Dissertação",
-  "titulo": "Desenvolvendo as Competências Estatísticas por Meio do Modelo de Cooperação Investigativa",
-  "instituicao": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO ESPÍRITO SANTO",
-  "cidade": "",
-  "estado": "Espírito Santo",
-  "regiao": "Sudeste",
-  "orientador": "Luciano Lessa Lorenzoni",
-  "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Estatística; Competências Estatísticas. Cooperação Investigativa. Diálogo.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22DESENVOLVENDO%20AS%20COMPET%C3%8ANCIAS%20ESTAT%C3%8DSTICAS%20POR%20MEIO%20DO%20MODELO%20DE%20COOPERA%C3%87%C3%83O%20INVESTIGATIVA%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=DESENVOLVENDO%20AS%20COMPET%C3%8ANCIAS%20ESTAT%C3%8DSTICAS%20POR%20MEIO%20DO%20MODELO%20DE%20COOPERA%C3%87%C3%83O%20INVESTIGATIVA&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35582189"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "35582189",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Estatística",
-    "Competências Estatísticas. Cooperação Investigativa. Diálogo."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-35582189.svg",
-  "resumo": "Competências Estatísticas a saber: Raciocínio, Pensamento e Literacia. Tratando-se de uma pesquisa qualitativa que investigou o desenvolvimento das competências por meio do modelo de Cooperação Investigativa, fazendo uso de atos dialógicos em uma sequência de atividades adaptadas, realizadas por videoconferências destacando reflexões sobre dados estatísticos coletados apontando o crescimento no número de filhotes de tartarugas por ações realizadas pelo Instituto de Pesquisa e Conservação Marinha situado no Município de Anchieta - ES. A proposta validou-se a partir de uma intervenção com alunos do 3º ano do Ensino Fundamental I, da Escola Municipal de Educação Básica Novo Horizonte. Os dados foram analisados por meio de imagens e áudios, observando-se os diálogos construídos no decorrer da investigação. Nas análises foi verificado o desenvolvimento das Competências Estatísticas com as interações dialógicas com os alunos, identificadas durante a execução das atividades, permitindo um aprendizado significativo. Permitindo possibilidades para debates de questões estatísticas presentes no cotidiano por fazer parte do contexto social. Desta forma puderam refletir sobre problemas encontrados, as tomadas de decisões, o desenvolvimento de um olhar crítico e consciente acerca de questões ambientais onde a Educação Estatística encontra-se presente. Como produto educacional desta pesquisa, foi elaborado um guia didático para a aprendizagem das Competências Estatísticas, no qual as atividades foram elaboradas estabelecidas com diálogos ilustrativos dos principais momentos de discussões, ocorridas durante a sequência didática, construída conjuntamente com os alunos, observando-se os pressupostos da Educação Estatística. Este guia poderá oferecer aos alunos a oportunidade de interagir, reformular e construir novos conhecimentos e poderá ser consultado por professores da Educação Básica, servindo de base para adaptações futuras.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": [
-    "40853527"
-  ]
+ "id": "capes-35582189",
+ "autor": "Marcelene Alves Duarte",
+ "ano": 2021,
+ "tipo": "Dissertação",
+ "titulo": "Desenvolvendo as Competências Estatísticas por Meio do Modelo de Cooperação Investigativa",
+ "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+ "cidade": "",
+ "estado": "Espírito Santo",
+ "regiao": "Sudeste",
+ "orientador": "Luciano Lessa Lorenzoni",
+ "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Estatística; Competências Estatísticas. Cooperação Investigativa. Diálogo.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22DESENVOLVENDO%20AS%20COMPET%C3%8ANCIAS%20ESTAT%C3%8DSTICAS%20POR%20MEIO%20DO%20MODELO%20DE%20COOPERA%C3%87%C3%83O%20INVESTIGATIVA%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=DESENVOLVENDO%20AS%20COMPET%C3%8ANCIAS%20ESTAT%C3%8DSTICAS%20POR%20MEIO%20DO%20MODELO%20DE%20COOPERA%C3%87%C3%83O%20INVESTIGATIVA&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35582189"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "35582189",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Estatística",
+  "Competências Estatísticas. Cooperação Investigativa. Diálogo."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-35582189.svg",
+ "resumo": "Competências Estatísticas a saber: Raciocínio, Pensamento e Literacia. Tratando-se de uma pesquisa qualitativa que investigou o desenvolvimento das competências por meio do modelo de Cooperação Investigativa, fazendo uso de atos dialógicos em uma sequência de atividades adaptadas, realizadas por videoconferências destacando reflexões sobre dados estatísticos coletados apontando o crescimento no número de filhotes de tartarugas por ações realizadas pelo Instituto de Pesquisa e Conservação Marinha situado no Município de Anchieta - ES. A proposta validou-se a partir de uma intervenção com alunos do 3º ano do Ensino Fundamental I, da Escola Municipal de Educação Básica Novo Horizonte. Os dados foram analisados por meio de imagens e áudios, observando-se os diálogos construídos no decorrer da investigação. Nas análises foi verificado o desenvolvimento das Competências Estatísticas com as interações dialógicas com os alunos, identificadas durante a execução das atividades, permitindo um aprendizado significativo. Permitindo possibilidades para debates de questões estatísticas presentes no cotidiano por fazer parte do contexto social. Desta forma puderam refletir sobre problemas encontrados, as tomadas de decisões, o desenvolvimento de um olhar crítico e consciente acerca de questões ambientais onde a Educação Estatística encontra-se presente. Como produto educacional desta pesquisa, foi elaborado um guia didático para a aprendizagem das Competências Estatísticas, no qual as atividades foram elaboradas estabelecidas com diálogos ilustrativos dos principais momentos de discussões, ocorridas durante a sequência didática, construída conjuntamente com os alunos, observando-se os pressupostos da Educação Estatística. Este guia poderá oferecer aos alunos a oportunidade de interagir, reformular e construir novos conhecimentos e poderá ser consultado por professores da Educação Básica, servindo de base para adaptações futuras.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": [
+  "40853527"
+ ]
 }

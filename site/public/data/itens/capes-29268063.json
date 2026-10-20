@@ -1,59 +1,59 @@
 {
-  "id": "capes-29268063",
-  "autor": "Marcilio Farias da Silva",
-  "ano": 2017,
-  "tipo": "Tese",
-  "titulo": "Estudo da Aprendizagem sobre Variabilidade Estatística: Uma Experiência de Formação com Futuros Professores dos Anos Iniciais da Educação Básica",
-  "instituicao": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE SÃO PAULO",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Cileda de Queiroz e Silva Coutinho",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Estatística educacional; Estatística - Estudo e ensino; Professores - Formaço profissional",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22ESTUDO%20DA%20APRENDIZAGEM%20SOBRE%20VARIABILIDADE%20ESTAT%C3%8DSTICA%3A%20UMA%20EXPERI%C3%8ANCIA%20DE%20FORMA%C3%87%C3%83O%20COM%20FUTUROS%20PROFESSORES%20DOS%20ANOS%20INICIAIS%20DA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESTUDO%20DA%20APRENDIZAGEM%20SOBRE%20VARIABILIDADE%20ESTAT%C3%8DSTICA%3A%20UMA%20EXPERI%C3%8ANCIA%20DE%20FORMA%C3%87%C3%83O%20COM%20FUTUROS%20PROFESSORES%20DOS%20ANOS%20INICIAIS%20DA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29268063"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "29268063",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Estatística educacional",
-    "Estatística - Estudo e ensino",
-    "Professores - Formaço profissional"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-29268063.svg",
-  "resumo": "Futuros professores de Estatística dos anos iniciais da Educação Básica, de um curso de Licenciatura em Pedagogia de uma instituição de Ensino Superior do estado de São Paulo, têm apresentado dificuldades na compreensão conceitual de conteúdos estatísticos fundamentais ao desenvolvimento do letramento estatístico, incluindo dificuldades na percepção da variabilidade. Esta pesquisa visou identificar e caracterizar, em alunos de um curso de Licenciatura em Pedagogia, indícios dos conhecimentos estatísticos que compõem o letramento estatístico desses futuros professores de Estatística. Tais indícios foram identificados analisando-se mapas conceituais e a resolução de atividades ministradas em uma oficina sobre variabilidade estatística desenvolvida especificamente para esses alunos. Os referenciais teóricos que guiaram a pesquisa foram estudos estatísticos com foco na variabilidade e na construção do letramento estatístico. O progresso alcançado com a participação na oficina foi avaliado considerando os níveis de letramento definidos por Iddo Gal, bem como os tipos de mobilização e níveis de funcionamento dos conhecimentos definidos por Aline Robert e os mapas conceituais propostos por Joseph Novak. Finalizaram a oficina 12 alunos com idades de 21 a 57 anos, seis dos quais frequentavam o 3.º ano de Pedagogia (e já haviam cursado a disciplina ‘Estatística’) e seis do 2.º ano (que não a haviam cursado). Nenhum tivera contato com conteúdos que incluíssem medidas de dispersão, tais como amplitude, intervalo interquartílico e desvio médio. A oficina compôs-se de cinco encontros que focalizaram conceitos básicos de Estatística, incluindo classificação de variáveis e conceitos de média, mediana, desvio médio, amplitude e quartis, complementados com exercícios, de modo a salientar as diversas medidas de variação e explorar o conceito de variabilidade em gráficos de pontos. Identificaram-se indícios de desenvolvimento de noções básicas de conteúdo estatístico que compõem o letramento estatístico (segundo Gal), nos quais se destacaram: raciocínio de variação articulado ao conceito de média e compreensão de termos estatísticos, ressaltando-se os de média, mediana, quartis e desvios como ferramentas de percepção de variação dos dados, as quais ajudam a obter o resultado. Constatou-se como obstáculo ao desenvolvimento do letramento estatístico, sob a ótica de Gal, um elemento do conhecimento matemático: o uso de escala numérica na construção de box-plots. A análise mostrou que o nível de conhecimento de conteúdo estatístico apresentado por esses futuros professores encontra-se em desenvolvimento, não atingindo o nível cultural de letramento estatístico, como definido por Gal, embora revelando indícios de vivência com elementos pertinentes ao conhecimento estatístico",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-29268063",
+ "autor": "Marcilio Farias da Silva",
+ "ano": 2017,
+ "tipo": "Tese",
+ "titulo": "Estudo da Aprendizagem sobre Variabilidade Estatística: Uma Experiência de Formação com Futuros Professores dos Anos Iniciais da Educação Básica",
+ "instituicao": "Pontifícia Universidade Católica de São Paulo",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Cileda de Queiroz e Silva Coutinho",
+ "programa": "EDUCAÇÃO MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Estatística educacional; Estatística - Estudo e ensino; Professores - Formaço profissional",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22ESTUDO%20DA%20APRENDIZAGEM%20SOBRE%20VARIABILIDADE%20ESTAT%C3%8DSTICA%3A%20UMA%20EXPERI%C3%8ANCIA%20DE%20FORMA%C3%87%C3%83O%20COM%20FUTUROS%20PROFESSORES%20DOS%20ANOS%20INICIAIS%20DA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESTUDO%20DA%20APRENDIZAGEM%20SOBRE%20VARIABILIDADE%20ESTAT%C3%8DSTICA%3A%20UMA%20EXPERI%C3%8ANCIA%20DE%20FORMA%C3%87%C3%83O%20COM%20FUTUROS%20PROFESSORES%20DOS%20ANOS%20INICIAIS%20DA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29268063"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "29268063",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Estatística educacional",
+  "Estatística - Estudo e ensino",
+  "Professores - Formaço profissional"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-29268063.svg",
+ "resumo": "Futuros professores de Estatística dos anos iniciais da Educação Básica, de um curso de Licenciatura em Pedagogia de uma instituição de Ensino Superior do estado de São Paulo, têm apresentado dificuldades na compreensão conceitual de conteúdos estatísticos fundamentais ao desenvolvimento do letramento estatístico, incluindo dificuldades na percepção da variabilidade. Esta pesquisa visou identificar e caracterizar, em alunos de um curso de Licenciatura em Pedagogia, indícios dos conhecimentos estatísticos que compõem o letramento estatístico desses futuros professores de Estatística. Tais indícios foram identificados analisando-se mapas conceituais e a resolução de atividades ministradas em uma oficina sobre variabilidade estatística desenvolvida especificamente para esses alunos. Os referenciais teóricos que guiaram a pesquisa foram estudos estatísticos com foco na variabilidade e na construção do letramento estatístico. O progresso alcançado com a participação na oficina foi avaliado considerando os níveis de letramento definidos por Iddo Gal, bem como os tipos de mobilização e níveis de funcionamento dos conhecimentos definidos por Aline Robert e os mapas conceituais propostos por Joseph Novak. Finalizaram a oficina 12 alunos com idades de 21 a 57 anos, seis dos quais frequentavam o 3.º ano de Pedagogia (e já haviam cursado a disciplina ‘Estatística’) e seis do 2.º ano (que não a haviam cursado). Nenhum tivera contato com conteúdos que incluíssem medidas de dispersão, tais como amplitude, intervalo interquartílico e desvio médio. A oficina compôs-se de cinco encontros que focalizaram conceitos básicos de Estatística, incluindo classificação de variáveis e conceitos de média, mediana, desvio médio, amplitude e quartis, complementados com exercícios, de modo a salientar as diversas medidas de variação e explorar o conceito de variabilidade em gráficos de pontos. Identificaram-se indícios de desenvolvimento de noções básicas de conteúdo estatístico que compõem o letramento estatístico (segundo Gal), nos quais se destacaram: raciocínio de variação articulado ao conceito de média e compreensão de termos estatísticos, ressaltando-se os de média, mediana, quartis e desvios como ferramentas de percepção de variação dos dados, as quais ajudam a obter o resultado. Constatou-se como obstáculo ao desenvolvimento do letramento estatístico, sob a ótica de Gal, um elemento do conhecimento matemático: o uso de escala numérica na construção de box-plots. A análise mostrou que o nível de conhecimento de conteúdo estatístico apresentado por esses futuros professores encontra-se em desenvolvimento, não atingindo o nível cultural de letramento estatístico, como definido por Gal, embora revelando indícios de vivência com elementos pertinentes ao conhecimento estatístico",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": []
 }

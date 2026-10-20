@@ -1,61 +1,61 @@
 {
-  "id": "capes-42439220",
-  "autor": "Victor Hugo Quaglia de Araujo",
-  "ano": 2024,
-  "tipo": "Dissertação",
-  "titulo": "Impactos da combinatória no contexto da formação inicial de professores de matemática na prática profissional docente",
-  "instituicao": "UNIVERSIDADE FEDERAL DO RIO DE JANEIRO",
-  "cidade": "",
-  "estado": "Rio de Janeiro",
-  "regiao": "Sudeste",
-  "orientador": "Cleber Dias da Costa Neto",
-  "programa": "ENSINO DE MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Ensino de Matemática; Análise Combinatória; Educação Básica; Resolução de Problemas; Formação Inicial de professores",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Impactos%20da%20combinat%C3%B3ria%20no%20contexto%20da%20forma%C3%A7%C3%A3o%20inicial%20de%20professores%20de%20matem%C3%A1tica%20na%20pr%C3%A1tica%20profissional%20docente%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Impactos%20da%20combinat%C3%B3ria%20no%20contexto%20da%20forma%C3%A7%C3%A3o%20inicial%20de%20professores%20de%20matem%C3%A1tica%20na%20pr%C3%A1tica%20profissional%20docente&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42439220"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "42439220",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Ensino de Matemática",
-    "Análise Combinatória",
-    "Educação Básica",
-    "Resolução de Problemas",
-    "Formação Inicial de professores"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-42439220.svg",
-  "resumo": "Motivado pela minha trajetória pessoal-acadêmica, pelo número pequeno de pesquisas acerca da combinatória na última década, sobretudo ao que tange a formação inicial e continuada de professores, e a preocupação com a ênfase em um ensino de combinatória que privilegie o raciocínio combinatório, este trabalho tem como objetivo principal entender como a formação inicial de professores e professoras de matemática pode impactá-los, especificamente no que se refere ao ensino de combinatória no contexto da escola básica. Para isso, a partir de uma investigação qualitativa, fizemos entrevistas semiestruturadas com professores(as) que atuam na escola básica, acerca da validade ou não de soluções não padronizadas de problemas de contagem e aspectos de sua formação inicial, seguindo alguns poucos critérios específicos para escolha desses sujeitos de pesquisa, obtidos a partir de um estudo-piloto realizado com um professor, sendo o principal deles: o tempo de licenciados(as) – buscando os que não tivessem muito tempo de formação. O percurso metodológico deste trabalho foi elucidado em três etapas: a seleção dos professores, a aplicação do questionário com estes professores e a realização das entrevistas semiestruturadas. Para realizar a análise dos dados, nos debruçamos na Análise de Conteúdo (BARDIN, 2004), elencando três eixos temáticos: Universidade, Professores e Escola. Cada eixo contém categorias que construímos a partir das unidades de registro encontradas nas transcrições, na íntegra, das entrevistas realizadas. Como resultado, concluímos que há um impacto (negativo) e direto das formações iniciais no conhecimento de combinatória e na prática profissional docente dos egressos das respectivas universidades. Os docentes não buscam se referenciar na graduação quando se remetem ao planejamento de aulas de combinatória, sendo sua própria prática docente a principal referência, assim como livros e apostilas didáticas e a troca de saberes entre colegas professores(as). Apontamos para a docência compartilhada para o fortalecimento do elo entre Universidade e Escola, e a necessidade de fincar uma disciplina de combinatória, de cunho obrigatório, que valorize o desenvolvimento do raciocínio combinatório na Universidade. Na perspectiva da escola, indicamos a necessidade de utilização de abordagens problematizadas, no sentido de matemática problematizada, que não se baseiam em “fórmula-aplicação” e decorebas, mas, sim, na construção das propriedades e conceitos combinatórios, que deve ser realizada desde o Ensino Fundamental. Indicamos também a metodologia da Análise de Erro como uma possibilidade para implementação na Educação Básica, podendo contribuir para o processo de ensino-aprendizagem. Verificamos também a necessidade de registrar as soluções de problemas de combinatória de contagem de forma que seja possível reconhecer o raciocínio combinatório intrínseco ao problema, não baseando apenas em soluções numéricas. Espera-se que o trabalho traga contribuições para educadores matemáticos e docentes, articulando o conteúdo matemático de combinatória e a formação de professores e professoras que ensinam matemática, dois eixos centrais dessa pesquisa.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de combinatória"
-  ],
-  "ids_duplicados": []
+ "id": "capes-42439220",
+ "autor": "Victor Hugo Quaglia de Araujo",
+ "ano": 2024,
+ "tipo": "Dissertação",
+ "titulo": "Impactos da combinatória no contexto da formação inicial de professores de matemática na prática profissional docente",
+ "instituicao": "Universidade Federal do Rio de Janeiro",
+ "cidade": "",
+ "estado": "Rio de Janeiro",
+ "regiao": "Sudeste",
+ "orientador": "Cleber Dias da Costa Neto",
+ "programa": "ENSINO DE MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Ensino de Matemática; Análise Combinatória; Educação Básica; Resolução de Problemas; Formação Inicial de professores",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Impactos%20da%20combinat%C3%B3ria%20no%20contexto%20da%20forma%C3%A7%C3%A3o%20inicial%20de%20professores%20de%20matem%C3%A1tica%20na%20pr%C3%A1tica%20profissional%20docente%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Impactos%20da%20combinat%C3%B3ria%20no%20contexto%20da%20forma%C3%A7%C3%A3o%20inicial%20de%20professores%20de%20matem%C3%A1tica%20na%20pr%C3%A1tica%20profissional%20docente&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42439220"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "42439220",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Ensino de Matemática",
+  "Análise Combinatória",
+  "Educação Básica",
+  "Resolução de Problemas",
+  "Formação Inicial de professores"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-42439220.svg",
+ "resumo": "Motivado pela minha trajetória pessoal-acadêmica, pelo número pequeno de pesquisas acerca da combinatória na última década, sobretudo ao que tange a formação inicial e continuada de professores, e a preocupação com a ênfase em um ensino de combinatória que privilegie o raciocínio combinatório, este trabalho tem como objetivo principal entender como a formação inicial de professores e professoras de matemática pode impactá-los, especificamente no que se refere ao ensino de combinatória no contexto da escola básica. Para isso, a partir de uma investigação qualitativa, fizemos entrevistas semiestruturadas com professores(as) que atuam na escola básica, acerca da validade ou não de soluções não padronizadas de problemas de contagem e aspectos de sua formação inicial, seguindo alguns poucos critérios específicos para escolha desses sujeitos de pesquisa, obtidos a partir de um estudo-piloto realizado com um professor, sendo o principal deles: o tempo de licenciados(as) – buscando os que não tivessem muito tempo de formação. O percurso metodológico deste trabalho foi elucidado em três etapas: a seleção dos professores, a aplicação do questionário com estes professores e a realização das entrevistas semiestruturadas. Para realizar a análise dos dados, nos debruçamos na Análise de Conteúdo (BARDIN, 2004), elencando três eixos temáticos: Universidade, Professores e Escola. Cada eixo contém categorias que construímos a partir das unidades de registro encontradas nas transcrições, na íntegra, das entrevistas realizadas. Como resultado, concluímos que há um impacto (negativo) e direto das formações iniciais no conhecimento de combinatória e na prática profissional docente dos egressos das respectivas universidades. Os docentes não buscam se referenciar na graduação quando se remetem ao planejamento de aulas de combinatória, sendo sua própria prática docente a principal referência, assim como livros e apostilas didáticas e a troca de saberes entre colegas professores(as). Apontamos para a docência compartilhada para o fortalecimento do elo entre Universidade e Escola, e a necessidade de fincar uma disciplina de combinatória, de cunho obrigatório, que valorize o desenvolvimento do raciocínio combinatório na Universidade. Na perspectiva da escola, indicamos a necessidade de utilização de abordagens problematizadas, no sentido de matemática problematizada, que não se baseiam em “fórmula-aplicação” e decorebas, mas, sim, na construção das propriedades e conceitos combinatórios, que deve ser realizada desde o Ensino Fundamental. Indicamos também a metodologia da Análise de Erro como uma possibilidade para implementação na Educação Básica, podendo contribuir para o processo de ensino-aprendizagem. Verificamos também a necessidade de registrar as soluções de problemas de combinatória de contagem de forma que seja possível reconhecer o raciocínio combinatório intrínseco ao problema, não baseando apenas em soluções numéricas. Espera-se que o trabalho traga contribuições para educadores matemáticos e docentes, articulando o conteúdo matemático de combinatória e a formação de professores e professoras que ensinam matemática, dois eixos centrais dessa pesquisa.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de combinatória"
+ ],
+ "ids_duplicados": []
 }

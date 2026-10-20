@@ -1,61 +1,61 @@
 {
-  "id": "capes-36724110",
-  "autor": "Silvia Ferreira Bronoski",
-  "ano": 2022,
-  "tipo": "Dissertação",
-  "titulo": "Estratégias para iniciar o desenvolvimento do pensamento estatístico na educação infantil",
-  "instituicao": "UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ",
-  "cidade": "",
-  "estado": "Paraná",
-  "regiao": "Sul",
-  "orientador": "Guatacara dos Santos Junior",
-  "programa": "ENSINO DE CIÊNCIA E TECNOLOGIA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Estatística; Matemática - Estudo e ensino; Educação de crianças",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Estrat%C3%A9gias%20para%20iniciar%20o%20desenvolvimento%20do%20pensamento%20estat%C3%ADstico%20na%20educa%C3%A7%C3%A3o%20infantil%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estrat%C3%A9gias%20para%20iniciar%20o%20desenvolvimento%20do%20pensamento%20estat%C3%ADstico%20na%20educa%C3%A7%C3%A3o%20infantil&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36724110"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "36724110",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Estatística",
-    "Matemática - Estudo e ensino",
-    "Educação de crianças"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-36724110.svg",
-  "resumo": "A presente pesquisa objetivou analisar quais contribuições um ensino pautado em atividades contextualizadas pode trazer para a iniciação ao desenvolvimento do pensamento estatístico na Educação Infantil. Para tanto, utilizou-se uma metodologia com enfoque qualitativo, de cunho interpretativo. Assim, foram propostas quatro estratégias de ensino, aplicadas em uma turma de alunos que apresentam faixa etária entre cinco e seis anos de idade, em um Centro Municipal de Educação Infantil na cidade de Carambeí/PR. A partir da aplicação das estratégias de ensino propostas, buscou-se verificar se o pensamento estatístico estava sendo desenvolvido, ainda que inicialmente. Para realizar a apreciação dos dados coletados durante a pesquisa foi utilizada a Análise de Conteúdo. Assim, procurou-se observar, durante as atividades desenvolvidas e as falas dos alunos, se entre os conteúdos produzidos, o pensamento estatístico se fez presente. Após a aplicação das estratégias de ensino, foi possível verificar que os alunos demonstraram compreender inicialmente, o processo de produção, tabulação e análise dos dados no intuito de auxiliá-los a tomar decisões mais assertivas ou buscar solução para um possível problema ou questionamento. Assim, concluiu-se que as estratégias propostas contribuíram para a iniciação ao desenvolvimento do pensamento estatístico na Educação Infantil. A pesquisa também gerou um material didático pedagógico direcionado a professores que apresentam interesse em iniciar o desenvolvimento do pensamento estatístico desde a Educação Infantil.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística",
-    "pensamento estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-36724110",
+ "autor": "Silvia Ferreira Bronoski",
+ "ano": 2022,
+ "tipo": "Dissertação",
+ "titulo": "Estratégias para iniciar o desenvolvimento do pensamento estatístico na educação infantil",
+ "instituicao": "Universidade Tecnológica Federal do Paraná",
+ "cidade": "",
+ "estado": "Paraná",
+ "regiao": "Sul",
+ "orientador": "Guatacara dos Santos Junior",
+ "programa": "ENSINO DE CIÊNCIA E TECNOLOGIA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Estatística; Matemática - Estudo e ensino; Educação de crianças",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Estrat%C3%A9gias%20para%20iniciar%20o%20desenvolvimento%20do%20pensamento%20estat%C3%ADstico%20na%20educa%C3%A7%C3%A3o%20infantil%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estrat%C3%A9gias%20para%20iniciar%20o%20desenvolvimento%20do%20pensamento%20estat%C3%ADstico%20na%20educa%C3%A7%C3%A3o%20infantil&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36724110"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "36724110",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Estatística",
+  "Matemática - Estudo e ensino",
+  "Educação de crianças"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-36724110.svg",
+ "resumo": "A presente pesquisa objetivou analisar quais contribuições um ensino pautado em atividades contextualizadas pode trazer para a iniciação ao desenvolvimento do pensamento estatístico na Educação Infantil. Para tanto, utilizou-se uma metodologia com enfoque qualitativo, de cunho interpretativo. Assim, foram propostas quatro estratégias de ensino, aplicadas em uma turma de alunos que apresentam faixa etária entre cinco e seis anos de idade, em um Centro Municipal de Educação Infantil na cidade de Carambeí/PR. A partir da aplicação das estratégias de ensino propostas, buscou-se verificar se o pensamento estatístico estava sendo desenvolvido, ainda que inicialmente. Para realizar a apreciação dos dados coletados durante a pesquisa foi utilizada a Análise de Conteúdo. Assim, procurou-se observar, durante as atividades desenvolvidas e as falas dos alunos, se entre os conteúdos produzidos, o pensamento estatístico se fez presente. Após a aplicação das estratégias de ensino, foi possível verificar que os alunos demonstraram compreender inicialmente, o processo de produção, tabulação e análise dos dados no intuito de auxiliá-los a tomar decisões mais assertivas ou buscar solução para um possível problema ou questionamento. Assim, concluiu-se que as estratégias propostas contribuíram para a iniciação ao desenvolvimento do pensamento estatístico na Educação Infantil. A pesquisa também gerou um material didático pedagógico direcionado a professores que apresentam interesse em iniciar o desenvolvimento do pensamento estatístico desde a Educação Infantil.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística",
+  "pensamento estatístico"
+ ],
+ "ids_duplicados": []
 }

@@ -1,60 +1,60 @@
 {
-  "id": "capes-37634535",
-  "autor": "Jose Erliton Santos Santana",
-  "ano": 2023,
-  "tipo": "Dissertação",
-  "titulo": "Para Além dos Números: Uma Sequência de Ensino Interdisciplinar com o Cacau",
-  "instituicao": "UNIVERSIDADE ESTADUAL DE SANTA CRUZ",
-  "cidade": "",
-  "estado": "Bahia",
-  "regiao": "Nordeste",
-  "orientador": "Eurivalda Ribeiro dos Santos Santana",
-  "programa": "Educação em Ciências e Matemática",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Ciclo Investigativo; Teoria da Atividade; Conceitos Estatísticos; Conceitos da Ecologia; Ensino Médio.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22PARA%20AL%C3%89M%20DOS%20N%C3%9AMEROS%3A%20UMA%20SEQU%C3%8ANCIA%20DE%20ENSINO%20INTERDISCIPLINAR%20COM%20O%20CACAU%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PARA%20AL%C3%89M%20DOS%20N%C3%9AMEROS%3A%20UMA%20SEQU%C3%8ANCIA%20DE%20ENSINO%20INTERDISCIPLINAR%20COM%20O%20CACAU&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37634535"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "37634535",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Ciclo Investigativo",
-    "Teoria da Atividade",
-    "Conceitos Estatísticos",
-    "Conceitos da Ecologia",
-    "Ensino Médio."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-37634535.svg",
-  "resumo": "Este estudo tem como objetivo analisar quais as potencialidades de uma sequência de ensino interdisciplinar, para a aprendizagem de estudantes do Ensino Médio no que se refere a conceitos estatísticos e da ecologia. O aporte teórico foi a Teoria da Atividade, com base nos sistemas de atividades proposto por Yrjö Engeström. O tema de pesquisa foi a abordagem interdisciplinar, na perspectiva de Ivani Fazenda. O estudo é de natureza qualitativa intervencionista, com a participação de 20 estudantes do segundo ano do Ensino Médio de um colégio público no sul da Bahia. Para a produção do material empírico, foram utilizados: instrumento de coleta de dados, com o intuito de, durante a aula de campo, registrar as medidas e as doenças presentes no cacau; instrumento para sistematização dos conceitos, com vistas a formalização dos conceitos estatísticos e ecológicos; o questionário a posteriori, que objetivou verificar as possíveis aprendizagens dos estudantes; produção do diário de campo do estudante; observação participante, com diário de campo do pesquisador. A sequência de ensino foi pautada nas cinco fases do Ciclo Investigativo propostas por Wild e Pfannkuch. As atividades elaboradas foram desenvolvidas individualmente, em dupla e em grupos formados por quatro estudantes, o que permitiu uma análise individual e coletiva das resoluções das atividades propostas. O procedimento para a análise tomou como base as cinco fases que compõem o Ciclo Investigativo. As potencialidades identificadas incluem, pontos que perpassam pelos discentes, docentes e suas práticas pedagógicas. Em relação ao discente pode-se destacar: participação dos estudantes como protagonistas; engajamento na ação em comunidade (estudante - estudante); oportunidade para promover a autonomia dos discentes; aprendizagem ativa e participativa; discussão de problemáticas e temáticas inerentes a sua própria realidade; desenvolvimento de habilidades de pensamento crítico; promoção da empatia e compreensão interdisciplinar. As percepções individuais dos educandos enfatizam a importância de considerar suas particularidades no processo de ensino. As sugestões dos discentes para melhorias na atividade ressaltam o envolvimento ativo dos estudantes no aprimoramento da prática pedagógica. Para além do objetivo traçado, foi possível identificar potencialidades que perpassam da aprendizagem dos estudantes, direcionadas para o fazer docente e sua prática pedagógica.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "coleta expandida (plural/vocabulário)"
-  ]
+ "id": "capes-37634535",
+ "autor": "Jose Erliton Santos Santana",
+ "ano": 2023,
+ "tipo": "Dissertação",
+ "titulo": "Para Além dos Números: Uma Sequência de Ensino Interdisciplinar com o Cacau",
+ "instituicao": "Universidade Estadual de Santa Cruz",
+ "cidade": "",
+ "estado": "Bahia",
+ "regiao": "Nordeste",
+ "orientador": "Eurivalda Ribeiro dos Santos Santana",
+ "programa": "Educação em Ciências e Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Ciclo Investigativo; Teoria da Atividade; Conceitos Estatísticos; Conceitos da Ecologia; Ensino Médio.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22PARA%20AL%C3%89M%20DOS%20N%C3%9AMEROS%3A%20UMA%20SEQU%C3%8ANCIA%20DE%20ENSINO%20INTERDISCIPLINAR%20COM%20O%20CACAU%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PARA%20AL%C3%89M%20DOS%20N%C3%9AMEROS%3A%20UMA%20SEQU%C3%8ANCIA%20DE%20ENSINO%20INTERDISCIPLINAR%20COM%20O%20CACAU&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37634535"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "37634535",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Ciclo Investigativo",
+  "Teoria da Atividade",
+  "Conceitos Estatísticos",
+  "Conceitos da Ecologia",
+  "Ensino Médio."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-37634535.svg",
+ "resumo": "Este estudo tem como objetivo analisar quais as potencialidades de uma sequência de ensino interdisciplinar, para a aprendizagem de estudantes do Ensino Médio no que se refere a conceitos estatísticos e da ecologia. O aporte teórico foi a Teoria da Atividade, com base nos sistemas de atividades proposto por Yrjö Engeström. O tema de pesquisa foi a abordagem interdisciplinar, na perspectiva de Ivani Fazenda. O estudo é de natureza qualitativa intervencionista, com a participação de 20 estudantes do segundo ano do Ensino Médio de um colégio público no sul da Bahia. Para a produção do material empírico, foram utilizados: instrumento de coleta de dados, com o intuito de, durante a aula de campo, registrar as medidas e as doenças presentes no cacau; instrumento para sistematização dos conceitos, com vistas a formalização dos conceitos estatísticos e ecológicos; o questionário a posteriori, que objetivou verificar as possíveis aprendizagens dos estudantes; produção do diário de campo do estudante; observação participante, com diário de campo do pesquisador. A sequência de ensino foi pautada nas cinco fases do Ciclo Investigativo propostas por Wild e Pfannkuch. As atividades elaboradas foram desenvolvidas individualmente, em dupla e em grupos formados por quatro estudantes, o que permitiu uma análise individual e coletiva das resoluções das atividades propostas. O procedimento para a análise tomou como base as cinco fases que compõem o Ciclo Investigativo. As potencialidades identificadas incluem, pontos que perpassam pelos discentes, docentes e suas práticas pedagógicas. Em relação ao discente pode-se destacar: participação dos estudantes como protagonistas; engajamento na ação em comunidade (estudante - estudante); oportunidade para promover a autonomia dos discentes; aprendizagem ativa e participativa; discussão de problemáticas e temáticas inerentes a sua própria realidade; desenvolvimento de habilidades de pensamento crítico; promoção da empatia e compreensão interdisciplinar. As percepções individuais dos educandos enfatizam a importância de considerar suas particularidades no processo de ensino. As sugestões dos discentes para melhorias na atividade ressaltam o envolvimento ativo dos estudantes no aprimoramento da prática pedagógica. Para além do objetivo traçado, foi possível identificar potencialidades que perpassam da aprendizagem dos estudantes, direcionadas para o fazer docente e sua prática pedagógica.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "coleta expandida (plural/vocabulário)"
+ ]
 }

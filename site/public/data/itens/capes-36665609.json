@@ -1,62 +1,62 @@
 {
-  "id": "capes-36665609",
-  "autor": "Anderson Jose Gomes Ferreira",
-  "ano": 2022,
-  "tipo": "Dissertação",
-  "titulo": "O Pensamento Estatístico nos Anos Finais do Ensino Fundamental: o Desenvolvimento da Transnumeração e da Construção de Gráficos",
-  "instituicao": "UNIVERSIDADE FEDERAL DE JUIZ DE FORA",
-  "cidade": "",
-  "estado": "Minas Gerais",
-  "regiao": "Sudeste",
-  "orientador": "Chang Kuo Rodrigues",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Matemática; Educação Estatística; Transnumeração; Gráficos estatísticos; Engenharia Didática",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20Pensamento%20Estat%C3%ADstico%20nos%20Anos%20Finais%20do%20Ensino%20Fundamental%3A%20o%20Desenvolvimento%20da%20Transnumera%C3%A7%C3%A3o%20e%20da%20Constru%C3%A7%C3%A3o%20de%20Gr%C3%A1ficos%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20Pensamento%20Estat%C3%ADstico%20nos%20Anos%20Finais%20do%20Ensino%20Fundamental%3A%20o%20Desenvolvimento%20da%20Transnumera%C3%A7%C3%A3o%20e%20da%20Constru%C3%A7%C3%A3o%20de%20Gr%C3%A1ficos&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36665609"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "36665609",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Matemática",
-    "Educação Estatística",
-    "Transnumeração",
-    "Gráficos estatísticos",
-    "Engenharia Didática"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-36665609.svg",
-  "resumo": "Em Estatística, os gráficos cumprem o papel de apresentar os dados de modo a possibilitar ao leitor um entendimento rápido e fácil de algum fenômeno. Assim, eles constituem o principal meio de visualização e divulgação das informações estatísticas. Na sociedade contemporânea, marcada pela supremacia da imagem e de artefatos visuais em detrimento à escrita, a capacidade de síntese e comunicação dos gráficos tem sido cada vez mais valorizada. No entanto, gráficos com informações distorcidas (intencionalmente ou não), mal construídos ou inadequados do ponto de vista científico são frequentemente veiculados na mídia e na literatura. Nesse sentido, faz-se necessário propor e discutir metodologias de ensino que promovam o desenvolvimento da transnumeração e da habilidade de construção de gráficos, sobretudo na Educação Básica. Ao construir um gráfico, um importante elemento do pensamento estatístico é mobilizado: a transnumeração. Nesta pesquisa, o objetivo geral foi propor o desenvolvimento da transnumeração e da habilidade de construção de gráficos por estudantes dos anos finais do Ensino Fundamental, à luz dos pressupostos teóricos e metodológicos da Engenharia Didática. A revisão da literatura evidenciou propostas de trabalho em sala de aula voltadas ao desenvolvimento da transnumeração e da habilidade de construção de gráficos. Alicerçados nos pressupostos metodológicos da Engenharia Didática, desenvolvemos uma sequência didática de modo a contemplar essas propostas. Assim, 17 estudantes do 7o Ano do Ensino Fundamental participaram de um projeto que teve como tema a crescente geração de lixo eletrônico ou Resíduos de Equipamentos Elétricos e Eletrônicos (REEE). As atividades de produção de dados consistiram, inicialmente, no levantamento quantitativo dos produtos eletrônicos a serem descartados nas residências dos estudantes e, posteriormente, no levantamento quantitativo dos produtos eletrônicos a serem descartados pela totalidade da turma. As atividades de tratamento dos dados consistiram na organização dos dados em tabelas e na construção de gráficos com o uso de papel e lápis e com o uso de tecnologias digitais. Ao todo, foram construídos 35 gráficos. Os gráficos produzidos foram apresentados pelos estudantes, individualmente, para toda a turma. Os resultados apontaram que o conjunto de tarefas da sequência didática contribuiu para o desenvolvimento do pensamento estatístico e, mais especificamente, da transnumeração. Todavia, com relação à construção de gráficos, os estudantes apresentaram fragilidades notadamente no que diz respeito à densidade gráfica e à decoração gráfica. Em outras palavras, os aspectos analíticos, decisórios e técnicos envolvidos no processo de construção de gráficos constituíram obstáculos de aprendizagem aos estudantes, principalmente de natureza didática. Assim, constatamos que a construção de gráficos atrativos e cientificamente adequados não é intuitiva, direta e imediata como pode parecer. Pelo contrário, é reflexiva e metódica. E, sendo assim, concluímos que a habilidade de construção de gráficos não é facilmente adquirida pela maioria dos estudantes.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "pensamento estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-36665609",
+ "autor": "Anderson Jose Gomes Ferreira",
+ "ano": 2022,
+ "tipo": "Dissertação",
+ "titulo": "O Pensamento Estatístico nos Anos Finais do Ensino Fundamental: o Desenvolvimento da Transnumeração e da Construção de Gráficos",
+ "instituicao": "Universidade Federal de Juiz de Fora",
+ "cidade": "",
+ "estado": "Minas Gerais",
+ "regiao": "Sudeste",
+ "orientador": "Chang Kuo Rodrigues",
+ "programa": "EDUCAÇÃO MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Matemática; Educação Estatística; Transnumeração; Gráficos estatísticos; Engenharia Didática",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20Pensamento%20Estat%C3%ADstico%20nos%20Anos%20Finais%20do%20Ensino%20Fundamental%3A%20o%20Desenvolvimento%20da%20Transnumera%C3%A7%C3%A3o%20e%20da%20Constru%C3%A7%C3%A3o%20de%20Gr%C3%A1ficos%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20Pensamento%20Estat%C3%ADstico%20nos%20Anos%20Finais%20do%20Ensino%20Fundamental%3A%20o%20Desenvolvimento%20da%20Transnumera%C3%A7%C3%A3o%20e%20da%20Constru%C3%A7%C3%A3o%20de%20Gr%C3%A1ficos&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36665609"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "36665609",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Matemática",
+  "Educação Estatística",
+  "Transnumeração",
+  "Gráficos estatísticos",
+  "Engenharia Didática"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-36665609.svg",
+ "resumo": "Em Estatística, os gráficos cumprem o papel de apresentar os dados de modo a possibilitar ao leitor um entendimento rápido e fácil de algum fenômeno. Assim, eles constituem o principal meio de visualização e divulgação das informações estatísticas. Na sociedade contemporânea, marcada pela supremacia da imagem e de artefatos visuais em detrimento à escrita, a capacidade de síntese e comunicação dos gráficos tem sido cada vez mais valorizada. No entanto, gráficos com informações distorcidas (intencionalmente ou não), mal construídos ou inadequados do ponto de vista científico são frequentemente veiculados na mídia e na literatura. Nesse sentido, faz-se necessário propor e discutir metodologias de ensino que promovam o desenvolvimento da transnumeração e da habilidade de construção de gráficos, sobretudo na Educação Básica. Ao construir um gráfico, um importante elemento do pensamento estatístico é mobilizado: a transnumeração. Nesta pesquisa, o objetivo geral foi propor o desenvolvimento da transnumeração e da habilidade de construção de gráficos por estudantes dos anos finais do Ensino Fundamental, à luz dos pressupostos teóricos e metodológicos da Engenharia Didática. A revisão da literatura evidenciou propostas de trabalho em sala de aula voltadas ao desenvolvimento da transnumeração e da habilidade de construção de gráficos. Alicerçados nos pressupostos metodológicos da Engenharia Didática, desenvolvemos uma sequência didática de modo a contemplar essas propostas. Assim, 17 estudantes do 7o Ano do Ensino Fundamental participaram de um projeto que teve como tema a crescente geração de lixo eletrônico ou Resíduos de Equipamentos Elétricos e Eletrônicos (REEE). As atividades de produção de dados consistiram, inicialmente, no levantamento quantitativo dos produtos eletrônicos a serem descartados nas residências dos estudantes e, posteriormente, no levantamento quantitativo dos produtos eletrônicos a serem descartados pela totalidade da turma. As atividades de tratamento dos dados consistiram na organização dos dados em tabelas e na construção de gráficos com o uso de papel e lápis e com o uso de tecnologias digitais. Ao todo, foram construídos 35 gráficos. Os gráficos produzidos foram apresentados pelos estudantes, individualmente, para toda a turma. Os resultados apontaram que o conjunto de tarefas da sequência didática contribuiu para o desenvolvimento do pensamento estatístico e, mais especificamente, da transnumeração. Todavia, com relação à construção de gráficos, os estudantes apresentaram fragilidades notadamente no que diz respeito à densidade gráfica e à decoração gráfica. Em outras palavras, os aspectos analíticos, decisórios e técnicos envolvidos no processo de construção de gráficos constituíram obstáculos de aprendizagem aos estudantes, principalmente de natureza didática. Assim, constatamos que a construção de gráficos atrativos e cientificamente adequados não é intuitiva, direta e imediata como pode parecer. Pelo contrário, é reflexiva e metódica. E, sendo assim, concluímos que a habilidade de construção de gráficos não é facilmente adquirida pela maioria dos estudantes.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "pensamento estatístico"
+ ],
+ "ids_duplicados": []
 }

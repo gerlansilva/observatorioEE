@@ -1,58 +1,58 @@
 {
-  "id": "capes-30194673",
-  "autor": "Alexandre Carlos Augusto Souza Nascimento",
-  "ano": 2019,
-  "tipo": "Dissertação",
-  "titulo": "Uma Proposta para o Ensino de Probabilidade por Meio de uma Atividade de Modelagem Matemática Baseada no Modelo de Cooperação Investigativa VITÓRIA-ES 2019",
-  "instituicao": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO ESPÍRITO SANTO",
-  "cidade": "",
-  "estado": "Espírito Santo",
-  "regiao": "Sudeste",
-  "orientador": "Oscar Luiz Teixeira de Rezende",
-  "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Modelagem Matemática; Cooperação Investigativa. Probabilidade. Diálogo. Matemática Sociocrítica.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22UMA%20PROPOSTA%20PARA%20O%20ENSINO%20DE%20PROBABILIDADE%20POR%20MEIO%20DE%20UMA%20ATIVIDADE%20DE%20MODELAGEM%20MATEM%C3%81TICA%20BASEADA%20NO%20MODELO%20DE%20COOPERA%C3%87%C3%83O%20INVESTIGATIVA%20VIT%C3%93RIA-ES%202019%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UMA%20PROPOSTA%20PARA%20O%20ENSINO%20DE%20PROBABILIDADE%20POR%20MEIO%20DE%20UMA%20ATIVIDADE%20DE%20MODELAGEM%20MATEM%C3%81TICA%20BASEADA%20NO%20MODELO%20DE%20COOPERA%C3%87%C3%83O%20INVESTIGATIVA%20VIT%C3%93RIA-ES%202019&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30194673"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "30194673",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Modelagem Matemática",
-    "Cooperação Investigativa. Probabilidade. Diálogo. Matemática Sociocrítica."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-30194673.svg",
-  "resumo": "Levando em consideração o ensino de Matemática, nos dias atuais, e todas as suas mudanças, professores e pesquisadores têm pensado sobre como o papel do aluno, enquanto um ser crítico, pode ser importante no processo de ensino-aprendizagem. Por isso, se faz necessário buscar novas metodologias para que os alunos sejam mais criativos e questionadores, onde a Matemática passe a ser vista como um instrumento importante, não somente para a sala de aula, mas como uma ferramenta que seja útil dentro de seu contexto social. Este trabalho trata-se de uma pesquisa de mestrado profissional, e possui natureza qualitativa, cujo objetivo principal é desenvolver o conceito de Probabilidade em uma turma de Educação de Jovens e Adultos (EJA). O trabalho se deu por meio de uma atividade de Modelagem Matemática, na perspectiva sociocrítica, onde a produção de dados ocorreu por meio das gravações das aulas, e foram analisados os diálogos entre os alunos e dos alunos com o professor, de acordo com o Modelo de Cooperação Investigativa. Alguns autores serão essenciais para o embasamento teórico desta pesquisa. Damos destaque para o Modelo de Cooperação Investigativa – Modelo CI, a Educação Sociocrítica na visão de Ole Skovsmose e seu diálogo com a Modelagem Matemática, como aborda Jonei Barbosa. Após as análises dos diálogos, concluiu-se que o conceito de Probabilidade foi desenvolvido levando em consideração o raciocínio crítico e probabilístico, bem como a compreensão da importância dos mesmos para um pensar matemático, que não seja útil somente para a sala de aula. Elaborou-se um guia didático contendo discussões sobre a Modelagem Matemática e como utilizá-la em uma atividade que envolva o ensino de Probabilidade.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de probabilidade"
-  ],
-  "ids_duplicados": []
+ "id": "capes-30194673",
+ "autor": "Alexandre Carlos Augusto Souza Nascimento",
+ "ano": 2019,
+ "tipo": "Dissertação",
+ "titulo": "Uma Proposta para o Ensino de Probabilidade por Meio de uma Atividade de Modelagem Matemática Baseada no Modelo de Cooperação Investigativa VITÓRIA-ES 2019",
+ "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+ "cidade": "",
+ "estado": "Espírito Santo",
+ "regiao": "Sudeste",
+ "orientador": "Oscar Luiz Teixeira de Rezende",
+ "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Modelagem Matemática; Cooperação Investigativa. Probabilidade. Diálogo. Matemática Sociocrítica.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22UMA%20PROPOSTA%20PARA%20O%20ENSINO%20DE%20PROBABILIDADE%20POR%20MEIO%20DE%20UMA%20ATIVIDADE%20DE%20MODELAGEM%20MATEM%C3%81TICA%20BASEADA%20NO%20MODELO%20DE%20COOPERA%C3%87%C3%83O%20INVESTIGATIVA%20VIT%C3%93RIA-ES%202019%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UMA%20PROPOSTA%20PARA%20O%20ENSINO%20DE%20PROBABILIDADE%20POR%20MEIO%20DE%20UMA%20ATIVIDADE%20DE%20MODELAGEM%20MATEM%C3%81TICA%20BASEADA%20NO%20MODELO%20DE%20COOPERA%C3%87%C3%83O%20INVESTIGATIVA%20VIT%C3%93RIA-ES%202019&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30194673"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "30194673",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Modelagem Matemática",
+  "Cooperação Investigativa. Probabilidade. Diálogo. Matemática Sociocrítica."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-30194673.svg",
+ "resumo": "Levando em consideração o ensino de Matemática, nos dias atuais, e todas as suas mudanças, professores e pesquisadores têm pensado sobre como o papel do aluno, enquanto um ser crítico, pode ser importante no processo de ensino-aprendizagem. Por isso, se faz necessário buscar novas metodologias para que os alunos sejam mais criativos e questionadores, onde a Matemática passe a ser vista como um instrumento importante, não somente para a sala de aula, mas como uma ferramenta que seja útil dentro de seu contexto social. Este trabalho trata-se de uma pesquisa de mestrado profissional, e possui natureza qualitativa, cujo objetivo principal é desenvolver o conceito de Probabilidade em uma turma de Educação de Jovens e Adultos (EJA). O trabalho se deu por meio de uma atividade de Modelagem Matemática, na perspectiva sociocrítica, onde a produção de dados ocorreu por meio das gravações das aulas, e foram analisados os diálogos entre os alunos e dos alunos com o professor, de acordo com o Modelo de Cooperação Investigativa. Alguns autores serão essenciais para o embasamento teórico desta pesquisa. Damos destaque para o Modelo de Cooperação Investigativa – Modelo CI, a Educação Sociocrítica na visão de Ole Skovsmose e seu diálogo com a Modelagem Matemática, como aborda Jonei Barbosa. Após as análises dos diálogos, concluiu-se que o conceito de Probabilidade foi desenvolvido levando em consideração o raciocínio crítico e probabilístico, bem como a compreensão da importância dos mesmos para um pensar matemático, que não seja útil somente para a sala de aula. Elaborou-se um guia didático contendo discussões sobre a Modelagem Matemática e como utilizá-la em uma atividade que envolva o ensino de Probabilidade.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de probabilidade"
+ ],
+ "ids_duplicados": []
 }

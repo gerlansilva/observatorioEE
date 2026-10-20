@@ -1,63 +1,63 @@
 {
-  "id": "capes-37629885",
-  "autor": "Anderson Rodrigo Oliveira da Silva",
-  "ano": 2023,
-  "tipo": "Dissertação",
-  "titulo": "PROBABILIDADE SUBJETIVA NO ENSINO MÉDIO: constituição de indicadores epistêmicos e o conhecimento de estudantes",
-  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Jose Ivanildo Felisberto de Carvalho",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "educação estatística; probabilidade; letramento probabilístico; probabilidade subjetiva; ensino médio",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22PROBABILIDADE%20SUBJETIVA%20NO%20ENSINO%20M%C3%89DIO%3A%20constitui%C3%A7%C3%A3o%20de%20indicadores%20epist%C3%AAmicos%20e%20o%20conhecimento%20de%20estudantes%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PROBABILIDADE%20SUBJETIVA%20NO%20ENSINO%20M%C3%89DIO%3A%20constitui%C3%A7%C3%A3o%20de%20indicadores%20epist%C3%AAmicos%20e%20o%20conhecimento%20de%20estudantes&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37629885"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "37629885",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "educação estatística",
-    "probabilidade",
-    "letramento probabilístico",
-    "probabilidade subjetiva",
-    "ensino médio"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-37629885.svg",
-  "resumo": "A probabilidade tem relevante papel social com o auxílio à leitura, interpretação e tomada de decisões em contextos de nossas vidas em sociedade nos quais a aleatoriedade se faz sempre presente. No campo da Educação Probabilística há a orientação para um trabalho em sala de aula que aborde a probabilidade e seus diferentes significados. A literatura atual aponta que estudos sobre as relações entre estudantes e a Probabilidade Subjetiva ainda se encontram raros. Esta pesquisa tem como foco central o Significado Subjetivo de Probabilidade e, como objetivo, investigar os conhecimentos sobre probabilidade subjetiva de estudantes do Ensino Médio à luz de indicadores epistêmicos. O construto teórico Indicadores Epistêmicos se constitui em uma das dimensões abordadas sobre a Teoria da Idoneidade Didática de Juan Godino. Metodologicamente, foram selecionados 10 estudantes do 3º ano do Ensino Médio de uma escola pública situada na cidade de Pesqueira-PE para responder a um instrumento diagnóstico organizado em três fases. A fase inicial, abordando problemas de probabilidade subjetiva; uma segunda fase com uma atividade de simulação, e uma terceira envolvendo todos os indicadores epistêmicos de probabilidade subjetiva elaborados no estudo. Para a categorização dos problemas e a análise dos livros didáticos, foram elaborados indicadores epistêmicos, baseados nos livros didáticos, BNCC e currículo local, para a probabilidade subjetiva. Os resultados apontaram para uma boa compreensão dos estudantes acerca do significado subjetivo, ainda que os livros didáticos tomem o caminho inverso, trabalhando e forma apenas fragmentada os significados de probabilidade e tendo como predominância o significado clássico. As análises apontam ainda que houve dificuldades relativas aos cálculos básicos de probabilidade, ao trabalho com probabilidade condicional, ou saída do espectro da equiprobabilidade. Problemas próximos daqueles encontrados nos livros didáticos apresentaram menores dificuldades de interpretação e manipulação algorítmica. Defendemos que a abordagem do saber probabilidade seja acompanhada de seus diferentes significados, de forma a desenvolver uma visão holística do conceito. Para que o letramento probabilístico seja contemplado em sua totalidade, o desenvolvimento dos conhecimentos de probabilidade deve se fazer presente, no intuito de que uma educação verdadeiramente concreta deixe de ser apenas utopia.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "letramento probabilístico",
-    "ensino de probabilidade"
-  ],
-  "ids_duplicados": []
+ "id": "capes-37629885",
+ "autor": "Anderson Rodrigo Oliveira da Silva",
+ "ano": 2023,
+ "tipo": "Dissertação",
+ "titulo": "PROBABILIDADE SUBJETIVA NO ENSINO MÉDIO: constituição de indicadores epistêmicos e o conhecimento de estudantes",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Jose Ivanildo Felisberto de Carvalho",
+ "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "educação estatística; probabilidade; letramento probabilístico; probabilidade subjetiva; ensino médio",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22PROBABILIDADE%20SUBJETIVA%20NO%20ENSINO%20M%C3%89DIO%3A%20constitui%C3%A7%C3%A3o%20de%20indicadores%20epist%C3%AAmicos%20e%20o%20conhecimento%20de%20estudantes%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PROBABILIDADE%20SUBJETIVA%20NO%20ENSINO%20M%C3%89DIO%3A%20constitui%C3%A7%C3%A3o%20de%20indicadores%20epist%C3%AAmicos%20e%20o%20conhecimento%20de%20estudantes&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37629885"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "37629885",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "educação estatística",
+  "probabilidade",
+  "letramento probabilístico",
+  "probabilidade subjetiva",
+  "ensino médio"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-37629885.svg",
+ "resumo": "A probabilidade tem relevante papel social com o auxílio à leitura, interpretação e tomada de decisões em contextos de nossas vidas em sociedade nos quais a aleatoriedade se faz sempre presente. No campo da Educação Probabilística há a orientação para um trabalho em sala de aula que aborde a probabilidade e seus diferentes significados. A literatura atual aponta que estudos sobre as relações entre estudantes e a Probabilidade Subjetiva ainda se encontram raros. Esta pesquisa tem como foco central o Significado Subjetivo de Probabilidade e, como objetivo, investigar os conhecimentos sobre probabilidade subjetiva de estudantes do Ensino Médio à luz de indicadores epistêmicos. O construto teórico Indicadores Epistêmicos se constitui em uma das dimensões abordadas sobre a Teoria da Idoneidade Didática de Juan Godino. Metodologicamente, foram selecionados 10 estudantes do 3º ano do Ensino Médio de uma escola pública situada na cidade de Pesqueira-PE para responder a um instrumento diagnóstico organizado em três fases. A fase inicial, abordando problemas de probabilidade subjetiva; uma segunda fase com uma atividade de simulação, e uma terceira envolvendo todos os indicadores epistêmicos de probabilidade subjetiva elaborados no estudo. Para a categorização dos problemas e a análise dos livros didáticos, foram elaborados indicadores epistêmicos, baseados nos livros didáticos, BNCC e currículo local, para a probabilidade subjetiva. Os resultados apontaram para uma boa compreensão dos estudantes acerca do significado subjetivo, ainda que os livros didáticos tomem o caminho inverso, trabalhando e forma apenas fragmentada os significados de probabilidade e tendo como predominância o significado clássico. As análises apontam ainda que houve dificuldades relativas aos cálculos básicos de probabilidade, ao trabalho com probabilidade condicional, ou saída do espectro da equiprobabilidade. Problemas próximos daqueles encontrados nos livros didáticos apresentaram menores dificuldades de interpretação e manipulação algorítmica. Defendemos que a abordagem do saber probabilidade seja acompanhada de seus diferentes significados, de forma a desenvolver uma visão holística do conceito. Para que o letramento probabilístico seja contemplado em sua totalidade, o desenvolvimento dos conhecimentos de probabilidade deve se fazer presente, no intuito de que uma educação verdadeiramente concreta deixe de ser apenas utopia.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "letramento probabilístico",
+  "ensino de probabilidade"
+ ],
+ "ids_duplicados": []
 }

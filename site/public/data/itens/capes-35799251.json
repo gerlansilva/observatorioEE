@@ -1,61 +1,61 @@
 {
-  "id": "capes-35799251",
-  "autor": "Maria Betania Evangelista da Silva",
-  "ano": 2021,
-  "tipo": "Tese",
-  "titulo": "Ensino e Aprendizagem de Tabelas nos Anos Iniciais do Ensino Fundamental",
-  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Gilda Lisboa Guimaraes",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Tabela; Ensino e Aprendizagem, Ensino Fundamental; Letramento Estatístico.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20E%20APRENDIZAGEM%20DE%20TABELAS%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20E%20APRENDIZAGEM%20DE%20TABELAS%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35799251"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "35799251",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Tabela",
-    "Ensino e Aprendizagem, Ensino Fundamental",
-    "Letramento Estatístico."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-35799251.svg",
-  "resumo": "A tese contou com o objetivo de analisar o ensino e a aprendizagem de representação em tabelas nos anos iniciais do Ensino Fundamental, na perspectiva do Letramento Estatístico. Para isso, realizamos três estudos. O primeiro analisou as propostas para o ensino de tabelas encontradas em livros didáticos do 1o ao 5o ano do Ensino Fundamental; o segundo analisou quais conhecimentos alunos da mesma escolaridade possuem sobre tabelas; no terceiro, analisou as aprendizagens de alunos do 2o e 5o ano, a partir de uma sequência de atividades sobre tabelas. O Estudo 1 evidencia a identificação de atividades que exploram os três diferentes tipos de representações tabulares: quadro, banco de dados e tabela. Salientamos que quadros e bancos de dados vêm sendo nomeados de tabelas, levando a uma indiferenciação entre eles. As tabelas aparecem com maior ênfase desde o 1o ano, porém há um desequilíbrio entre as habilidades exploradas, apontando uma tendência em preencher e interpretar tabelas simples, em detrimento de construir tabelas. No Estudo 2 foi realizado um teste diagnóstico, contendo questões de interpretação e construção de tabela, envolvendo variáveis diversas. Observou-se uma gradação em relação ao desempenho dos alunos, considerando a escolaridade. Eles conseguem localizar dados específicos nas tabelas, de tal modo que a maioria dos alunos localizam valores de células mínimas. Mas, poucas crianças demonstraram saber realizar tomadas de decisão. Já na construção, a partir do 2o ano, a maioria delas elabora critérios de classificação e quase todos os alunos do 5o ano construíram uma tabela simples incompleta. No Estudo 3 realizamos uma intervenção de ensino sobre tabelas, envolvendo interpretação e construição de tabelas simples e de dupla entrada. Durante os encontros, foram trabalhadas interpretações para tomada de decisão, e atividades de construção de tabelas a partir de dados brutos/bancos de dados. Os grupos que participaram da intervenção apresentaram desempenho significativamente superior aos grupos controle, evidenciando a possibilidade de aprendizagem. Eles deixaram de interpretar com base em vantagens pessoais e passaram a analisar as relações existentes entre os dados da tabela para questionar conclusões e tomar decisões. Ao construírem as tabelas, após a vivência da intervenção, os alunos registraram todos os elementos constituintes delas. As crianças do 2o ano aprenderam a construir tabelas simples. Já as do 5o ano construíram tabelas de dupla entrada. Concluímos que as propostas de atividades encontradas nos livros didáticos são limitadas e prestigiam mais um tipo de habilidade do que outro. Isso reflete, provavelmente, no trabalho do professor e, consequentemente, na aprendizagem de alunos, pois não compreendem a tabela como forma de entender e inferir sobre os dados. Entretanto, quando o ensino de tabelas é realizado de forma intencional e sistemática, podem ser verificadas evoluções significativas na aprendizagem de alunos, de maneira rápida e com reduções consistentes das dificuldades apresentadas. Assim, enfatiza-se que o ensino de tabelas precisa prestigiar propostas de atividades que levam os alunos a refletir sobre contextos reais/significativos, explorando diferentes tipos de habilidades, analisando informações como forma de tomar decisão e confrontar conclusões, além de serem capazes de construir tabelas completas.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "letramento estatístico"
-  ],
-  "ids_duplicados": [
-    "40849278"
-  ]
+ "id": "capes-35799251",
+ "autor": "Maria Betania Evangelista da Silva",
+ "ano": 2021,
+ "tipo": "Tese",
+ "titulo": "Ensino e Aprendizagem de Tabelas nos Anos Iniciais do Ensino Fundamental",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Gilda Lisboa Guimaraes",
+ "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Tabela; Ensino e Aprendizagem, Ensino Fundamental; Letramento Estatístico.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20E%20APRENDIZAGEM%20DE%20TABELAS%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20E%20APRENDIZAGEM%20DE%20TABELAS%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35799251"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "35799251",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Tabela",
+  "Ensino e Aprendizagem, Ensino Fundamental",
+  "Letramento Estatístico."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-35799251.svg",
+ "resumo": "A tese contou com o objetivo de analisar o ensino e a aprendizagem de representação em tabelas nos anos iniciais do Ensino Fundamental, na perspectiva do Letramento Estatístico. Para isso, realizamos três estudos. O primeiro analisou as propostas para o ensino de tabelas encontradas em livros didáticos do 1o ao 5o ano do Ensino Fundamental; o segundo analisou quais conhecimentos alunos da mesma escolaridade possuem sobre tabelas; no terceiro, analisou as aprendizagens de alunos do 2o e 5o ano, a partir de uma sequência de atividades sobre tabelas. O Estudo 1 evidencia a identificação de atividades que exploram os três diferentes tipos de representações tabulares: quadro, banco de dados e tabela. Salientamos que quadros e bancos de dados vêm sendo nomeados de tabelas, levando a uma indiferenciação entre eles. As tabelas aparecem com maior ênfase desde o 1o ano, porém há um desequilíbrio entre as habilidades exploradas, apontando uma tendência em preencher e interpretar tabelas simples, em detrimento de construir tabelas. No Estudo 2 foi realizado um teste diagnóstico, contendo questões de interpretação e construção de tabela, envolvendo variáveis diversas. Observou-se uma gradação em relação ao desempenho dos alunos, considerando a escolaridade. Eles conseguem localizar dados específicos nas tabelas, de tal modo que a maioria dos alunos localizam valores de células mínimas. Mas, poucas crianças demonstraram saber realizar tomadas de decisão. Já na construção, a partir do 2o ano, a maioria delas elabora critérios de classificação e quase todos os alunos do 5o ano construíram uma tabela simples incompleta. No Estudo 3 realizamos uma intervenção de ensino sobre tabelas, envolvendo interpretação e construição de tabelas simples e de dupla entrada. Durante os encontros, foram trabalhadas interpretações para tomada de decisão, e atividades de construção de tabelas a partir de dados brutos/bancos de dados. Os grupos que participaram da intervenção apresentaram desempenho significativamente superior aos grupos controle, evidenciando a possibilidade de aprendizagem. Eles deixaram de interpretar com base em vantagens pessoais e passaram a analisar as relações existentes entre os dados da tabela para questionar conclusões e tomar decisões. Ao construírem as tabelas, após a vivência da intervenção, os alunos registraram todos os elementos constituintes delas. As crianças do 2o ano aprenderam a construir tabelas simples. Já as do 5o ano construíram tabelas de dupla entrada. Concluímos que as propostas de atividades encontradas nos livros didáticos são limitadas e prestigiam mais um tipo de habilidade do que outro. Isso reflete, provavelmente, no trabalho do professor e, consequentemente, na aprendizagem de alunos, pois não compreendem a tabela como forma de entender e inferir sobre os dados. Entretanto, quando o ensino de tabelas é realizado de forma intencional e sistemática, podem ser verificadas evoluções significativas na aprendizagem de alunos, de maneira rápida e com reduções consistentes das dificuldades apresentadas. Assim, enfatiza-se que o ensino de tabelas precisa prestigiar propostas de atividades que levam os alunos a refletir sobre contextos reais/significativos, explorando diferentes tipos de habilidades, analisando informações como forma de tomar decisão e confrontar conclusões, além de serem capazes de construir tabelas completas.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "letramento estatístico"
+ ],
+ "ids_duplicados": [
+  "40849278"
+ ]
 }

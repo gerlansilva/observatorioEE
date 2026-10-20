@@ -1,59 +1,59 @@
 {
-  "id": "capes-37569914",
-  "autor": "Nilceia Datori Barbosa",
-  "ano": 2023,
-  "tipo": "Tese",
-  "titulo": "Probabilidade em Ação com um Jogo Pedagógico e as Relações com os Processos de Ensino e de Aprendizagem nos Anos Iniciais do Ensino Fundamental",
-  "instituicao": "UNIVERSIDADE FEDERAL DO ABC",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Ailton Paulo de Oliveira Junior",
-  "programa": "Ensino e História das Ciências e da Matemática",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Ensino e aprendizagem de Probabilidade; Jogo pedagógico em formato de tabuleiro e digital; Anos iniciais do Ensino Fundamental",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22PROBABILIDADE%20EM%20A%C3%87%C3%83O%20COM%20UM%20JOGO%20PEDAG%C3%93GICO%20E%20AS%20RELA%C3%87%C3%95ES%20COM%20OS%20PROCESSOS%20DE%20ENSINO%20E%20DE%20APRENDIZAGEM%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PROBABILIDADE%20EM%20A%C3%87%C3%83O%20COM%20UM%20JOGO%20PEDAG%C3%93GICO%20E%20AS%20RELA%C3%87%C3%95ES%20COM%20OS%20PROCESSOS%20DE%20ENSINO%20E%20DE%20APRENDIZAGEM%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37569914"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "37569914",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Ensino e aprendizagem de Probabilidade",
-    "Jogo pedagógico em formato de tabuleiro e digital",
-    "Anos iniciais do Ensino Fundamental"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-37569914.svg",
-  "resumo": "O presente trabalho teve como objetivo apresentar o jogo “Probabilidade em Ação”, em suas versões digital e tabuleiro, discutindo aspectos que permeiam os processos de ensino e de aprendizagem da Probabilidade nos anos iniciais do Ensino Fundamental. Considera-se que os jogos, devido à ludicidade e seu efeito motivador, podem servir como ferramenta potencial no desenvolvimento de diversas habilidades, dentre elas, as relacionadas à Probabilidade. Entretanto, ainda é escassa a disponibilidade desse recurso pedagógico para o trabalho com o ensino e a aprendizagem dos conceitos probabilísticos. Tomando como referência a Base Nacional Comum Curricular – BNCC, no que diz respeito aos conteúdos e habilidades a serem trabalhados na unidade temática “Probabilidade e Estatística” para os anos iniciais do Ensino Fundamental, elaborou-se dois tipos de cartas para o jogo: Perguntas (?) e Saiba Mais (!). As cartas “perguntas (?)” são tarefas baseadas em situações problema cujo objetivo é favorecer a apreensão dos conteúdos e o desenvolvimento do conhecimento probabilístico. Para a elaboração dessas cartas, junto à BNCC conectou-se o Programa de Ensino sobre Probabilidade e risco desenvolvido por Peter Bryant e Terezinha Nunes na Inglaterra e o documento norteamericano GAISE II. As cartas “Saiba Mais (!)”, trazem informações relevantes para a formação da criança cujo objetivo é propiciar um trabalho interdisciplinar, mostrando que a Probabilidade está associada à diversas áreas do conhecimento. Por contribuir para a delimitação e a clareza da análise dos dados ao permitir o uso de diferentes metodologias, adotou-se o modelo Multipaper de apresentação dos resultados da pesquisa. Assim, foram gerados onze artigos com objetivos específicos, independentes e interdependentes, baseados nas metodologias: (1) Revisão sistemática de literatura (RSL), para realizar um levantamento sobre o uso de jogos de tabuleiro e digital com foco no ensino de Probabilidade nos anos iniciais no Brasil; (2) Design Iterativo de Eric Zimmerman, para apresentar o processo de construção e prototipagem do jogo; (3) Engenharia de Softwares (modelo MEEGA+), para avaliar/validar o jogo em relação aos seus atributos de qualidade; (4) Observação participante orientada pela Teoria das Situações Didáticas - TSD de Guy Brousseau, para investigar e discutir os aspectos potenciais do jogo que permeiam os processos de ensino e a aprendizagem da Probabilidade. O jogo (em suas duas versões, tabuleiro e digital) foi avaliado por professores, durante a realização de um curso de extensão no formato remoto, e por alunos de duas turmas do 5° ano do ensino fundamental de uma escola do município de Barueri/SP em sala de aula, presencial. Como resultado, os indicativos foram favoráveis em relação aos atributos de qualidade (usabilidade, experiência do jogador e aprendizagem), apresentando características que atenderam às perspectivas dos educadores e dos alunos em relação ao uso do jogo para o ensino de Probabilidade. Ainda, à luz da TSD, quando da aplicação de atividade didática utilizando o jogo e da mediação do professor/pesquisador, foi possível identificar e acompanhar o pensamento probabilístico do aluno durante a sua aplicação, além de atividades de experimentação desenvolvidas em sala de aula (pós-jogo), mostrando-se como recurso potencial no processo de construção do conhecimento probabilístico.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de probabilidade"
-  ],
-  "ids_duplicados": []
+ "id": "capes-37569914",
+ "autor": "Nilceia Datori Barbosa",
+ "ano": 2023,
+ "tipo": "Tese",
+ "titulo": "Probabilidade em Ação com um Jogo Pedagógico e as Relações com os Processos de Ensino e de Aprendizagem nos Anos Iniciais do Ensino Fundamental",
+ "instituicao": "Universidade Federal do Abc",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Ailton Paulo de Oliveira Junior",
+ "programa": "Ensino e História das Ciências e da Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Ensino e aprendizagem de Probabilidade; Jogo pedagógico em formato de tabuleiro e digital; Anos iniciais do Ensino Fundamental",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22PROBABILIDADE%20EM%20A%C3%87%C3%83O%20COM%20UM%20JOGO%20PEDAG%C3%93GICO%20E%20AS%20RELA%C3%87%C3%95ES%20COM%20OS%20PROCESSOS%20DE%20ENSINO%20E%20DE%20APRENDIZAGEM%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PROBABILIDADE%20EM%20A%C3%87%C3%83O%20COM%20UM%20JOGO%20PEDAG%C3%93GICO%20E%20AS%20RELA%C3%87%C3%95ES%20COM%20OS%20PROCESSOS%20DE%20ENSINO%20E%20DE%20APRENDIZAGEM%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37569914"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "37569914",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Ensino e aprendizagem de Probabilidade",
+  "Jogo pedagógico em formato de tabuleiro e digital",
+  "Anos iniciais do Ensino Fundamental"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-37569914.svg",
+ "resumo": "O presente trabalho teve como objetivo apresentar o jogo “Probabilidade em Ação”, em suas versões digital e tabuleiro, discutindo aspectos que permeiam os processos de ensino e de aprendizagem da Probabilidade nos anos iniciais do Ensino Fundamental. Considera-se que os jogos, devido à ludicidade e seu efeito motivador, podem servir como ferramenta potencial no desenvolvimento de diversas habilidades, dentre elas, as relacionadas à Probabilidade. Entretanto, ainda é escassa a disponibilidade desse recurso pedagógico para o trabalho com o ensino e a aprendizagem dos conceitos probabilísticos. Tomando como referência a Base Nacional Comum Curricular – BNCC, no que diz respeito aos conteúdos e habilidades a serem trabalhados na unidade temática “Probabilidade e Estatística” para os anos iniciais do Ensino Fundamental, elaborou-se dois tipos de cartas para o jogo: Perguntas (?) e Saiba Mais (!). As cartas “perguntas (?)” são tarefas baseadas em situações problema cujo objetivo é favorecer a apreensão dos conteúdos e o desenvolvimento do conhecimento probabilístico. Para a elaboração dessas cartas, junto à BNCC conectou-se o Programa de Ensino sobre Probabilidade e risco desenvolvido por Peter Bryant e Terezinha Nunes na Inglaterra e o documento norteamericano GAISE II. As cartas “Saiba Mais (!)”, trazem informações relevantes para a formação da criança cujo objetivo é propiciar um trabalho interdisciplinar, mostrando que a Probabilidade está associada à diversas áreas do conhecimento. Por contribuir para a delimitação e a clareza da análise dos dados ao permitir o uso de diferentes metodologias, adotou-se o modelo Multipaper de apresentação dos resultados da pesquisa. Assim, foram gerados onze artigos com objetivos específicos, independentes e interdependentes, baseados nas metodologias: (1) Revisão sistemática de literatura (RSL), para realizar um levantamento sobre o uso de jogos de tabuleiro e digital com foco no ensino de Probabilidade nos anos iniciais no Brasil; (2) Design Iterativo de Eric Zimmerman, para apresentar o processo de construção e prototipagem do jogo; (3) Engenharia de Softwares (modelo MEEGA+), para avaliar/validar o jogo em relação aos seus atributos de qualidade; (4) Observação participante orientada pela Teoria das Situações Didáticas - TSD de Guy Brousseau, para investigar e discutir os aspectos potenciais do jogo que permeiam os processos de ensino e a aprendizagem da Probabilidade. O jogo (em suas duas versões, tabuleiro e digital) foi avaliado por professores, durante a realização de um curso de extensão no formato remoto, e por alunos de duas turmas do 5° ano do ensino fundamental de uma escola do município de Barueri/SP em sala de aula, presencial. Como resultado, os indicativos foram favoráveis em relação aos atributos de qualidade (usabilidade, experiência do jogador e aprendizagem), apresentando características que atenderam às perspectivas dos educadores e dos alunos em relação ao uso do jogo para o ensino de Probabilidade. Ainda, à luz da TSD, quando da aplicação de atividade didática utilizando o jogo e da mediação do professor/pesquisador, foi possível identificar e acompanhar o pensamento probabilístico do aluno durante a sua aplicação, além de atividades de experimentação desenvolvidas em sala de aula (pós-jogo), mostrando-se como recurso potencial no processo de construção do conhecimento probabilístico.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de probabilidade"
+ ],
+ "ids_duplicados": []
 }

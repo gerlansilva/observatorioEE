@@ -1,59 +1,59 @@
 {
-  "id": "capes-31871964",
-  "autor": "Luis Duarte Vieira",
-  "ano": 2020,
-  "tipo": "Dissertação",
-  "titulo": "O ensino de probabilidade no contexto da BNCC e à luz dos princípios da Teoria da Aprendizagem Significativa Crítica",
-  "instituicao": "FUNDAÇÃO UNIVERSIDADE DE PASSO FUNDO",
-  "cidade": "",
-  "estado": "Rio Grande do Sul",
-  "regiao": "Sul",
-  "orientador": "Luiz Marcelo Darroz",
-  "programa": "Ensino de Ciências e Matemática",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "BNCC; TASC; Probabilidade",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ensino%20de%20probabilidade%20no%20contexto%20da%20BNCC%20e%20%C3%A0%20luz%20dos%20princ%C3%ADpios%20da%20Teoria%20da%20Aprendizagem%20Significativa%20Cr%C3%ADtica%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ensino%20de%20probabilidade%20no%20contexto%20da%20BNCC%20e%20%C3%A0%20luz%20dos%20princ%C3%ADpios%20da%20Teoria%20da%20Aprendizagem%20Significativa%20Cr%C3%ADtica&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31871964"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "31871964",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "BNCC",
-    "TASC",
-    "Probabilidade"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-31871964.svg",
-  "resumo": "O presente texto refere-se à dissertação de mestrado, constituindo-se de um estudo investigativo no curso de mestrado profissional em Ensino de Ciências e Matemática do Programa de Pós-Graduação em Ensino de Ciências e Matemática (PPGECM), da Universidade de Passo Fundo (UPF). A problemática que gerou o presente estudo considera o novo contexto educacional do país, marcado pela BNCC e a orientação de que toda a educação deve organizar-se para desenvolver competências. Esse cenário exige uma crítica por parte dos professores e, mais que nunca, a necessidade de garantir processos de aprendizagem que sejam significativos e críticos é um imperativo. Considerando tal necessidade, buscou-se o aporte teórico na Teoria da Aprendizagem Significativa Crítica (TASC), de Marco Antônio Moreira, a fim de responder o seguinte questionamento: “Quais as potencialidades de uma sequência didática, estruturada à partir da Teoria da Aprendizagem Significativa Crítica, em um contexto de BNCC, na visão de professores de matemática?”. Para responder a esse questionamento, construiu-se um produto educacional, uma sequência didática para abordar os conceitos básicos de probabilidade, para o sexto ano do Ensino Fundamental. A proposta foi elaborada à luz dos princípios da TASC, assumidos como potente caminho metodológico para gerar aprendizagens significativas e críticas, e é constituída de onze encontros. Essa proposta, em virtude da pandemia da COVID-19, foi apresentada a professores de matemática por meio de um minicurso online, efetivando uma pesquisa de natureza qualitativa e classificada como pesquisa-ação, com o objetivo de analisar, a partir da percepção de professores de matemática, uma sequência didática, pautada sob os princípios da Teoria da Aprendizagem Significativa Crítica (TASC), de conceitos de probabilidade para o sexto ano do Ensino Fundamental no contexto de implementação da BNCC. Para tal, analisou-se os dados obtidos por meio de um questionário e das entrevistas parcialmente estruturadas, em quatro categorias de análise: metodologia, aplicabilidade, processos de aprendizagem e considerações diversas sobre o produto educacional. Os resultados obtidos indicam que o produto possui uma metodologia adequada, é aplicável com alunos do Ensino Fundamental, se relaciona com os princípios da TASC e pode gerar aprendizagens significativas e críticas. Por fim, salienta-se que essa dissertação vai acompanhada do produto educacional elaborado, disponibilizado em <https://educapes.capes.gov.br/handle/capes/585143>.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de probabilidade"
-  ],
-  "ids_duplicados": []
+ "id": "capes-31871964",
+ "autor": "Luis Duarte Vieira",
+ "ano": 2020,
+ "tipo": "Dissertação",
+ "titulo": "O ensino de probabilidade no contexto da BNCC e à luz dos princípios da Teoria da Aprendizagem Significativa Crítica",
+ "instituicao": "Fundação Universidade de Passo Fundo",
+ "cidade": "",
+ "estado": "Rio Grande do Sul",
+ "regiao": "Sul",
+ "orientador": "Luiz Marcelo Darroz",
+ "programa": "Ensino de Ciências e Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "BNCC; TASC; Probabilidade",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ensino%20de%20probabilidade%20no%20contexto%20da%20BNCC%20e%20%C3%A0%20luz%20dos%20princ%C3%ADpios%20da%20Teoria%20da%20Aprendizagem%20Significativa%20Cr%C3%ADtica%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ensino%20de%20probabilidade%20no%20contexto%20da%20BNCC%20e%20%C3%A0%20luz%20dos%20princ%C3%ADpios%20da%20Teoria%20da%20Aprendizagem%20Significativa%20Cr%C3%ADtica&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31871964"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "31871964",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "BNCC",
+  "TASC",
+  "Probabilidade"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-31871964.svg",
+ "resumo": "O presente texto refere-se à dissertação de mestrado, constituindo-se de um estudo investigativo no curso de mestrado profissional em Ensino de Ciências e Matemática do Programa de Pós-Graduação em Ensino de Ciências e Matemática (PPGECM), da Universidade de Passo Fundo (UPF). A problemática que gerou o presente estudo considera o novo contexto educacional do país, marcado pela BNCC e a orientação de que toda a educação deve organizar-se para desenvolver competências. Esse cenário exige uma crítica por parte dos professores e, mais que nunca, a necessidade de garantir processos de aprendizagem que sejam significativos e críticos é um imperativo. Considerando tal necessidade, buscou-se o aporte teórico na Teoria da Aprendizagem Significativa Crítica (TASC), de Marco Antônio Moreira, a fim de responder o seguinte questionamento: “Quais as potencialidades de uma sequência didática, estruturada à partir da Teoria da Aprendizagem Significativa Crítica, em um contexto de BNCC, na visão de professores de matemática?”. Para responder a esse questionamento, construiu-se um produto educacional, uma sequência didática para abordar os conceitos básicos de probabilidade, para o sexto ano do Ensino Fundamental. A proposta foi elaborada à luz dos princípios da TASC, assumidos como potente caminho metodológico para gerar aprendizagens significativas e críticas, e é constituída de onze encontros. Essa proposta, em virtude da pandemia da COVID-19, foi apresentada a professores de matemática por meio de um minicurso online, efetivando uma pesquisa de natureza qualitativa e classificada como pesquisa-ação, com o objetivo de analisar, a partir da percepção de professores de matemática, uma sequência didática, pautada sob os princípios da Teoria da Aprendizagem Significativa Crítica (TASC), de conceitos de probabilidade para o sexto ano do Ensino Fundamental no contexto de implementação da BNCC. Para tal, analisou-se os dados obtidos por meio de um questionário e das entrevistas parcialmente estruturadas, em quatro categorias de análise: metodologia, aplicabilidade, processos de aprendizagem e considerações diversas sobre o produto educacional. Os resultados obtidos indicam que o produto possui uma metodologia adequada, é aplicável com alunos do Ensino Fundamental, se relaciona com os princípios da TASC e pode gerar aprendizagens significativas e críticas. Por fim, salienta-se que essa dissertação vai acompanhada do produto educacional elaborado, disponibilizado em <https://educapes.capes.gov.br/handle/capes/585143>.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de probabilidade"
+ ],
+ "ids_duplicados": []
 }

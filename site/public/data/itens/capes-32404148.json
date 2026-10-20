@@ -1,61 +1,61 @@
 {
-  "id": "capes-32404148",
-  "autor": "Lucineide Maria de Souza",
-  "ano": 2020,
-  "tipo": "Dissertação",
-  "titulo": "Educação estatística: interpretando e construindo representações gráficas com alunos do 5° ano do ensino fundamental",
-  "instituicao": "UNIVERSIDADE FEDERAL DE ALAGOAS",
-  "cidade": "",
-  "estado": "Alagoas",
-  "regiao": "Nordeste",
-  "orientador": "Amauri da Silva Barros",
-  "programa": "Ensino de Ciências e Matemática",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Letramento Estatístico; Gráfico; Ciclo da Investigação Científica; Escala",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Educa%C3%A7%C3%A3o%20estat%C3%ADstica%3A%20interpretando%20e%20construindo%20representa%C3%A7%C3%B5es%20gr%C3%A1ficas%20com%20alunos%20do%205%C2%B0%20ano%20do%20ensino%20fundamental%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educa%C3%A7%C3%A3o%20estat%C3%ADstica%3A%20interpretando%20e%20construindo%20representa%C3%A7%C3%B5es%20gr%C3%A1ficas%20com%20alunos%20do%205%C2%B0%20ano%20do%20ensino%20fundamental&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/32404148"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "32404148",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Letramento Estatístico",
-    "Gráfico",
-    "Ciclo da Investigação Científica",
-    "Escala"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-32404148.svg",
-  "resumo": "Diante do avanço tecnológico e das transformações econômicas, ambientais e sociais de uma sociedade cada vez mais informatizada, a Estatística apresenta grande relevância social. Nesta direção, esta pesquisa se propôs a investigar as contribuições de uma Sequência Didática, baseada na perspectiva do ciclo da investigação científica, para o desenvolvimento da aprendizagem sobre leitura, interpretação e construção de gráfico de barra e de linha e do conceito de escala. Como aporte teórico, utilizou-se os seguintes autores: Cazorla (2010), Vergnaud (2014), Gal (2002), Rumsey (2002) e Batanero (2001), entre outros, que explicitam e detalham sobre a importância do letramento estatístico. Empregou-se uma abordagem de pesquisaação-participante com caráter qualitativo que se desenvolveu a partir da aplicação de uma SD para alunos de uma turma do 5° ano do ensino fundamental de uma escola pública da Rede Municipal de Maceió/Alagoas. A presença da Estatística em nosso cotidiano evidencia a importância que, desde os anos iniciais, os conceitos elementares relacionados a esta área sejam abordados em sala de aula visando o desenvolvimento do pensamento estatístico numa perspectiva de letramento estatístico. Desta forma, promove-se um ensino que contribua para a formação cidadã e científica de todos, mais especificamente dos alunos. A coleta dos dados deu-se através de um diário de campo, registros através de fotos, áudios e de materiais produzidos pelos estudantes durante o desenvolvimento da aplicação da Sequência Didática. Todos os alunos participaram da aplicação do pré-teste, da Sequência Didática e do pós-teste. Os resultados obtidos evidenciam que o ensino da Estatística na Educação Básica não pode se limitar ao contexto apenas da leitura, mas é preciso ensinar conceitos e procedimentos estatísticos utilizando o ciclo de investigação científica que permitirá ao estudante problematizar, planejar e executar a pesquisa, promovendo assim o desenvolvimento do letramento estatístico.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "letramento estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-32404148",
+ "autor": "Lucineide Maria de Souza",
+ "ano": 2020,
+ "tipo": "Dissertação",
+ "titulo": "Educação estatística: interpretando e construindo representações gráficas com alunos do 5° ano do ensino fundamental",
+ "instituicao": "Universidade Federal de Alagoas",
+ "cidade": "",
+ "estado": "Alagoas",
+ "regiao": "Nordeste",
+ "orientador": "Amauri da Silva Barros",
+ "programa": "Ensino de Ciências e Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Letramento Estatístico; Gráfico; Ciclo da Investigação Científica; Escala",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Educa%C3%A7%C3%A3o%20estat%C3%ADstica%3A%20interpretando%20e%20construindo%20representa%C3%A7%C3%B5es%20gr%C3%A1ficas%20com%20alunos%20do%205%C2%B0%20ano%20do%20ensino%20fundamental%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educa%C3%A7%C3%A3o%20estat%C3%ADstica%3A%20interpretando%20e%20construindo%20representa%C3%A7%C3%B5es%20gr%C3%A1ficas%20com%20alunos%20do%205%C2%B0%20ano%20do%20ensino%20fundamental&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/32404148"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "32404148",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Letramento Estatístico",
+  "Gráfico",
+  "Ciclo da Investigação Científica",
+  "Escala"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-32404148.svg",
+ "resumo": "Diante do avanço tecnológico e das transformações econômicas, ambientais e sociais de uma sociedade cada vez mais informatizada, a Estatística apresenta grande relevância social. Nesta direção, esta pesquisa se propôs a investigar as contribuições de uma Sequência Didática, baseada na perspectiva do ciclo da investigação científica, para o desenvolvimento da aprendizagem sobre leitura, interpretação e construção de gráfico de barra e de linha e do conceito de escala. Como aporte teórico, utilizou-se os seguintes autores: Cazorla (2010), Vergnaud (2014), Gal (2002), Rumsey (2002) e Batanero (2001), entre outros, que explicitam e detalham sobre a importância do letramento estatístico. Empregou-se uma abordagem de pesquisaação-participante com caráter qualitativo que se desenvolveu a partir da aplicação de uma SD para alunos de uma turma do 5° ano do ensino fundamental de uma escola pública da Rede Municipal de Maceió/Alagoas. A presença da Estatística em nosso cotidiano evidencia a importância que, desde os anos iniciais, os conceitos elementares relacionados a esta área sejam abordados em sala de aula visando o desenvolvimento do pensamento estatístico numa perspectiva de letramento estatístico. Desta forma, promove-se um ensino que contribua para a formação cidadã e científica de todos, mais especificamente dos alunos. A coleta dos dados deu-se através de um diário de campo, registros através de fotos, áudios e de materiais produzidos pelos estudantes durante o desenvolvimento da aplicação da Sequência Didática. Todos os alunos participaram da aplicação do pré-teste, da Sequência Didática e do pós-teste. Os resultados obtidos evidenciam que o ensino da Estatística na Educação Básica não pode se limitar ao contexto apenas da leitura, mas é preciso ensinar conceitos e procedimentos estatísticos utilizando o ciclo de investigação científica que permitirá ao estudante problematizar, planejar e executar a pesquisa, promovendo assim o desenvolvimento do letramento estatístico.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "letramento estatístico"
+ ],
+ "ids_duplicados": []
 }

@@ -1,62 +1,62 @@
 {
-  "id": "capes-35395083",
-  "autor": "Albertino Ribeiro Novaes Netto",
-  "ano": 2021,
-  "tipo": "Dissertação",
-  "titulo": "Educação Estatística no ensino médio: a leitura de gráficos",
-  "instituicao": "UNIVERSIDADE FEDERAL DE JUIZ DE FORA",
-  "cidade": "",
-  "estado": "Minas Gerais",
-  "regiao": "Sudeste",
-  "orientador": "Lupercio Franca Bessegato",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "educação matemática; produção de significados; ensino de estatística; gráficos estatísticos; leitura e análise de gráficos",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20no%20ensino%20m%C3%A9dio%3A%20a%20leitura%20de%20gr%C3%A1ficos%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20no%20ensino%20m%C3%A9dio%3A%20a%20leitura%20de%20gr%C3%A1ficos&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35395083"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "35395083",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "educação matemática",
-    "produção de significados",
-    "ensino de estatística",
-    "gráficos estatísticos",
-    "leitura e análise de gráficos"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-35395083.svg",
-  "resumo": "De cunho qualitativo na área de Educação Matemática, esta pesquisa dá enfoque ao ensino de Estatística, especificamente na elaboração de tarefas referenciadas teoricamente sobre a leitura de gráficos estatísticos que serão aplicadas a alunos do 1º ano do ensino médio de uma escola pública da rede estadual na cidade de Juiz de Fora (MG). Como referencial teórico para a análise de produção de significados dos sujeitos da pesquisa diante das tarefas que serão aplicadas, utilizaremos o Modelo Teórico dos Campos Semânticos, de Romulo Campos Lins. Para o produto educacional, pretendemos desenvolver um material didático com tarefas que envolvam a construção, leitura e interpretação de gráficos e tabelas em forma de livreto com o intuito de auxiliar os professores de Matemática em sua prática pedagógica nas aulas direcionadas para o ensino de Estatística no ensino fundamental e médio.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-35395083",
+ "autor": "Albertino Ribeiro Novaes Netto",
+ "ano": 2021,
+ "tipo": "Dissertação",
+ "titulo": "Educação Estatística no ensino médio: a leitura de gráficos",
+ "instituicao": "Universidade Federal de Juiz de Fora",
+ "cidade": "",
+ "estado": "Minas Gerais",
+ "regiao": "Sudeste",
+ "orientador": "Lupercio Franca Bessegato",
+ "programa": "EDUCAÇÃO MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "educação matemática; produção de significados; ensino de estatística; gráficos estatísticos; leitura e análise de gráficos",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20no%20ensino%20m%C3%A9dio%3A%20a%20leitura%20de%20gr%C3%A1ficos%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20no%20ensino%20m%C3%A9dio%3A%20a%20leitura%20de%20gr%C3%A1ficos&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35395083"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "35395083",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "educação matemática",
+  "produção de significados",
+  "ensino de estatística",
+  "gráficos estatísticos",
+  "leitura e análise de gráficos"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-35395083.svg",
+ "resumo": "De cunho qualitativo na área de Educação Matemática, esta pesquisa dá enfoque ao ensino de Estatística, especificamente na elaboração de tarefas referenciadas teoricamente sobre a leitura de gráficos estatísticos que serão aplicadas a alunos do 1º ano do ensino médio de uma escola pública da rede estadual na cidade de Juiz de Fora (MG). Como referencial teórico para a análise de produção de significados dos sujeitos da pesquisa diante das tarefas que serão aplicadas, utilizaremos o Modelo Teórico dos Campos Semânticos, de Romulo Campos Lins. Para o produto educacional, pretendemos desenvolver um material didático com tarefas que envolvam a construção, leitura e interpretação de gráficos e tabelas em forma de livreto com o intuito de auxiliar os professores de Matemática em sua prática pedagógica nas aulas direcionadas para o ensino de Estatística no ensino fundamental e médio.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

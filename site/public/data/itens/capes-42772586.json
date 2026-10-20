@@ -1,60 +1,60 @@
 {
-  "id": "capes-42772586",
-  "autor": "Laura Satiko Yano Nakano",
-  "ano": 2024,
-  "tipo": "Dissertação",
-  "titulo": "Análise de artigos do EPEM com foco no letramento estatístico no Ensino Fundamental",
-  "instituicao": "UNIVERSIDADE CRUZEIRO DO SUL",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Vera Maria Jarcovis Fernandes",
-  "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Ensino de Estatística; Ensino Fundamental - Anos Iniciais; Letramento Estatístico",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22An%C3%A1lise%20de%20artigos%20do%20EPEM%20com%20foco%20no%20letramento%20estat%C3%ADstico%20no%20Ensino%20Fundamental%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=An%C3%A1lise%20de%20artigos%20do%20EPEM%20com%20foco%20no%20letramento%20estat%C3%ADstico%20no%20Ensino%20Fundamental&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42772586"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "42772586",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Ensino de Estatística",
-    "Ensino Fundamental - Anos Iniciais",
-    "Letramento Estatístico"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-42772586.svg",
-  "resumo": "Esta dissertação foi construída para o Programa de Mestrado Profissional em Ensino de Ciências e Matemática e se vincula à linha de pesquisa Currículo e Formação de Professores que ensinam Ciências e Matemática. O objetivo principal desta pesquisa é refletir sobre a importância de promover o desenvolvimento do letramento estatístico dos alunos do Ensino Fundamental nos anos iniciais. O problema da pesquisa é: Como desenvolver o letramento estatístico nos anos iniciais do Ensino Fundamental? Esta pesquisa é de natureza aplicada, pois busca gerar conhecimentos, reflexões e discussões na perspectiva de promover o raciocínio e o pensamento estatístico. Assim como a Base Nacional Comum Curricular - BNCC (BRASIL, 2018), a diretriz norte-americana, Guidelines for Assessment and Instruction in Statistics Education (GAISE II) tem como meta principal, o letramento estatístico para todos. O procedimento metodológico deste trabalho é bibliográfico, pois foi feito a partir da análise de produções científicas publicadas no Encontro Paulista de Educação Matemática (EPEM) e leva em consideração as recomendações da BNCC (BRASIL, 2018), diretriz GAISE e alguns autores importantes que tratam do letramento estatístico no Ensino Fundamental. Será feita classificação dos problemas estatísticos encontrados nos artigos do EPEM em três níveis (A, B e C) conforme estrutura de recomendações para o desenvolvimento de habilidades fundamentais dos alunos em raciocínio estatístico proposto pelo GAISE II. Os resultados desta pesquisa ao longo dos artigos analisados dos EPEM de 2020 e 2023, revelaram que dos 32 artigos selecionados segundo critérios adotados, 7 são de nível A, 6 de nível B e 4 de nível C, de acordo com a classificação da diretriz GAISE II. Os autores dos artigos que apresentaram problemas do nível A, mencionaram a BNCC (BRASIL, 2018) e o relatório GAISE na construção de questões investigativas. Esta pesquisa é relevante no contexto do desenvolvimento do letramento estatístico nos anos iniciais para formação de futuros cidadãos.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de estatística",
-    "letramento estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-42772586",
+ "autor": "Laura Satiko Yano Nakano",
+ "ano": 2024,
+ "tipo": "Dissertação",
+ "titulo": "Análise de artigos do EPEM com foco no letramento estatístico no Ensino Fundamental",
+ "instituicao": "Universidade Cruzeiro do Sul",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Vera Maria Jarcovis Fernandes",
+ "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Ensino de Estatística; Ensino Fundamental - Anos Iniciais; Letramento Estatístico",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22An%C3%A1lise%20de%20artigos%20do%20EPEM%20com%20foco%20no%20letramento%20estat%C3%ADstico%20no%20Ensino%20Fundamental%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=An%C3%A1lise%20de%20artigos%20do%20EPEM%20com%20foco%20no%20letramento%20estat%C3%ADstico%20no%20Ensino%20Fundamental&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42772586"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "42772586",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Ensino de Estatística",
+  "Ensino Fundamental - Anos Iniciais",
+  "Letramento Estatístico"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-42772586.svg",
+ "resumo": "Esta dissertação foi construída para o Programa de Mestrado Profissional em Ensino de Ciências e Matemática e se vincula à linha de pesquisa Currículo e Formação de Professores que ensinam Ciências e Matemática. O objetivo principal desta pesquisa é refletir sobre a importância de promover o desenvolvimento do letramento estatístico dos alunos do Ensino Fundamental nos anos iniciais. O problema da pesquisa é: Como desenvolver o letramento estatístico nos anos iniciais do Ensino Fundamental? Esta pesquisa é de natureza aplicada, pois busca gerar conhecimentos, reflexões e discussões na perspectiva de promover o raciocínio e o pensamento estatístico. Assim como a Base Nacional Comum Curricular - BNCC (BRASIL, 2018), a diretriz norte-americana, Guidelines for Assessment and Instruction in Statistics Education (GAISE II) tem como meta principal, o letramento estatístico para todos. O procedimento metodológico deste trabalho é bibliográfico, pois foi feito a partir da análise de produções científicas publicadas no Encontro Paulista de Educação Matemática (EPEM) e leva em consideração as recomendações da BNCC (BRASIL, 2018), diretriz GAISE e alguns autores importantes que tratam do letramento estatístico no Ensino Fundamental. Será feita classificação dos problemas estatísticos encontrados nos artigos do EPEM em três níveis (A, B e C) conforme estrutura de recomendações para o desenvolvimento de habilidades fundamentais dos alunos em raciocínio estatístico proposto pelo GAISE II. Os resultados desta pesquisa ao longo dos artigos analisados dos EPEM de 2020 e 2023, revelaram que dos 32 artigos selecionados segundo critérios adotados, 7 são de nível A, 6 de nível B e 4 de nível C, de acordo com a classificação da diretriz GAISE II. Os autores dos artigos que apresentaram problemas do nível A, mencionaram a BNCC (BRASIL, 2018) e o relatório GAISE na construção de questões investigativas. Esta pesquisa é relevante no contexto do desenvolvimento do letramento estatístico nos anos iniciais para formação de futuros cidadãos.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de estatística",
+  "letramento estatístico"
+ ],
+ "ids_duplicados": []
 }

@@ -1,62 +1,62 @@
 {
-  "id": "capes-34578868",
-  "autor": "Adilson Vilson Vieira",
-  "ano": 2021,
-  "tipo": "Dissertação",
-  "titulo": "Cenários para Investigação em Educação Financeira por Meio do Ensino de Estatística no Ensino Médio",
-  "instituicao": "UNIVERSIDADE DO ESTADO DE SANTA CATARINA",
-  "cidade": "",
-  "estado": "Santa Catarina",
-  "regiao": "Sul",
-  "orientador": "Elisa Henning",
-  "programa": "ENSINO DE CIÊNCIAS, MATEMÁTICA E TECNOLOGIAS",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Financeira; Estatística; Educação Matemática Crítica",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22CEN%C3%81RIOS%20PARA%20INVESTIGA%C3%87%C3%83O%20EM%20EDUCA%C3%87%C3%83O%20FINANCEIRA%20POR%20MEIO%20DO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CEN%C3%81RIOS%20PARA%20INVESTIGA%C3%87%C3%83O%20EM%20EDUCA%C3%87%C3%83O%20FINANCEIRA%20POR%20MEIO%20DO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34578868"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "34578868",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Financeira",
-    "Estatística",
-    "Educação Matemática Crítica"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-34578868.svg",
-  "resumo": "Esta dissertação traz uma pesquisa desenvolvida junto ao Programa de Pós-Graduação em Ensino de Ciências, Matemática e Tecnologias (PPGECMT) da Universidade do Estado de Santa Catarina (UDESC), cujo objetivo principal foi a elaboração de um produto educacional em forma de livro contendo Cenários para investigação e o relato de uma experiência realizada com estudantes do 3° ano do ensino médio. A proposta teve como objetivo principal colaborar para o desenvolvimento da Educação Financeira dos estudantes por meio de investigações abordando conceitos estatísticos dentro do paradigma da Educação Matemática Crítica. A pesquisa mostrou que o trabalho com Cenários para Investigação pode contribuir para a Educação Financeira dos estudantes, ao proporcionar atividades que estimulem o seu senso investigativo e reflexivo, dentro de um ambiente de aprendizagem democrático e dialógico, buscando trazer para o cotidiano da sala de aula questões que desenvolvam a criticidade do educando. A aplicação dessa pesquisa ocorreu entre os meses de agosto a dezembro de 2020, durante o período de afastamento social ocasionado pela pandemia da Covid-19.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística"
-  ],
-  "ids_duplicados": [
-    "39111899"
-  ]
+ "id": "capes-34578868",
+ "autor": "Adilson Vilson Vieira",
+ "ano": 2021,
+ "tipo": "Dissertação",
+ "titulo": "Cenários para Investigação em Educação Financeira por Meio do Ensino de Estatística no Ensino Médio",
+ "instituicao": "Universidade do Estado de Santa Catarina",
+ "cidade": "",
+ "estado": "Santa Catarina",
+ "regiao": "Sul",
+ "orientador": "Elisa Henning",
+ "programa": "ENSINO DE CIÊNCIAS, MATEMÁTICA E TECNOLOGIAS",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Financeira; Estatística; Educação Matemática Crítica",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22CEN%C3%81RIOS%20PARA%20INVESTIGA%C3%87%C3%83O%20EM%20EDUCA%C3%87%C3%83O%20FINANCEIRA%20POR%20MEIO%20DO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=CEN%C3%81RIOS%20PARA%20INVESTIGA%C3%87%C3%83O%20EM%20EDUCA%C3%87%C3%83O%20FINANCEIRA%20POR%20MEIO%20DO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20M%C3%89DIO&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34578868"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "34578868",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Financeira",
+  "Estatística",
+  "Educação Matemática Crítica"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-34578868.svg",
+ "resumo": "Esta dissertação traz uma pesquisa desenvolvida junto ao Programa de Pós-Graduação em Ensino de Ciências, Matemática e Tecnologias (PPGECMT) da Universidade do Estado de Santa Catarina (UDESC), cujo objetivo principal foi a elaboração de um produto educacional em forma de livro contendo Cenários para investigação e o relato de uma experiência realizada com estudantes do 3° ano do ensino médio. A proposta teve como objetivo principal colaborar para o desenvolvimento da Educação Financeira dos estudantes por meio de investigações abordando conceitos estatísticos dentro do paradigma da Educação Matemática Crítica. A pesquisa mostrou que o trabalho com Cenários para Investigação pode contribuir para a Educação Financeira dos estudantes, ao proporcionar atividades que estimulem o seu senso investigativo e reflexivo, dentro de um ambiente de aprendizagem democrático e dialógico, buscando trazer para o cotidiano da sala de aula questões que desenvolvam a criticidade do educando. A aplicação dessa pesquisa ocorreu entre os meses de agosto a dezembro de 2020, durante o período de afastamento social ocasionado pela pandemia da Covid-19.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística"
+ ],
+ "ids_duplicados": [
+  "39111899"
+ ]
 }

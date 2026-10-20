@@ -1,60 +1,60 @@
 {
-  "id": "capes-42772589",
-  "autor": "Adriano Amancio de Oliveira",
-  "ano": 2024,
-  "tipo": "Dissertação",
-  "titulo": "Medidas de Tendência Central na Perspectiva do Letramento Estatístico em Livros Didáticos do Ensino Médio.",
-  "instituicao": "UNIVERSIDADE CRUZEIRO DO SUL",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Suzete de Souza Borelli",
-  "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Medidas de Tendência Central; Letramento Estatístico; Níveis de Letramento Estatístico; Livro Didático.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22MEDIDAS%20DE%20TEND%C3%8ANCIA%20CENTRAL%20NA%20PERSPECTIVA%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20EM%20LIVROS%20DID%C3%81TICOS%20DO%20ENSINO%20M%C3%89DIO.%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=MEDIDAS%20DE%20TEND%C3%8ANCIA%20CENTRAL%20NA%20PERSPECTIVA%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20EM%20LIVROS%20DID%C3%81TICOS%20DO%20ENSINO%20M%C3%89DIO.&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42772589"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "42772589",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Medidas de Tendência Central",
-    "Letramento Estatístico",
-    "Níveis de Letramento Estatístico",
-    "Livro Didático."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-42772589.svg",
-  "resumo": "A pesquisa realizada está inserida na linha de pesquisa \"Currículo, Formação e Avaliação\" e tem como objetivo geral analisar as características praxeológicas das atividades relacionadas às medidas de tendência central, com foco nos livros didáticos do Ensino Médio, a fim de verificar se essas atividades possibilitam o desenvolvimento do letramento estatístico. A partir do objetivo geral, foram delineados objetivos específicos: analisar as atividades sobre o tema \"Medidas de Tendência Central\", identificar o nível de letramento dessas atividades e verificar se atendem ao letramento estatístico. A metodologia de pesquisa utilizada foi a qualitativa de cunho documental que permitiu analisar o livro didático a luz dos referenciais teóricos adotados. Após as análises, concluímos que as questões relacionadas às medidas de tendência central presentes nos livros didáticos atendem ao desenvolvimento do letramento estatístico proposto por Gal (2002). Outra conclusão observada é que há uma maior concentração de atividades no nível consistente não crítico, sem deixar de considerar os demais níveis de letramento. O que possibilitou o desenvolvimento de conhecimentos estatísticos e matemáticos, bem como do contexto indicado no referencial, permitindo uma análise mais crítica das situações apresentadas.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "letramento estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-42772589",
+ "autor": "Adriano Amancio de Oliveira",
+ "ano": 2024,
+ "tipo": "Dissertação",
+ "titulo": "Medidas de Tendência Central na Perspectiva do Letramento Estatístico em Livros Didáticos do Ensino Médio.",
+ "instituicao": "Universidade Cruzeiro do Sul",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Suzete de Souza Borelli",
+ "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Medidas de Tendência Central; Letramento Estatístico; Níveis de Letramento Estatístico; Livro Didático.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22MEDIDAS%20DE%20TEND%C3%8ANCIA%20CENTRAL%20NA%20PERSPECTIVA%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20EM%20LIVROS%20DID%C3%81TICOS%20DO%20ENSINO%20M%C3%89DIO.%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=MEDIDAS%20DE%20TEND%C3%8ANCIA%20CENTRAL%20NA%20PERSPECTIVA%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20EM%20LIVROS%20DID%C3%81TICOS%20DO%20ENSINO%20M%C3%89DIO.&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42772589"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "42772589",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Medidas de Tendência Central",
+  "Letramento Estatístico",
+  "Níveis de Letramento Estatístico",
+  "Livro Didático."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-42772589.svg",
+ "resumo": "A pesquisa realizada está inserida na linha de pesquisa \"Currículo, Formação e Avaliação\" e tem como objetivo geral analisar as características praxeológicas das atividades relacionadas às medidas de tendência central, com foco nos livros didáticos do Ensino Médio, a fim de verificar se essas atividades possibilitam o desenvolvimento do letramento estatístico. A partir do objetivo geral, foram delineados objetivos específicos: analisar as atividades sobre o tema \"Medidas de Tendência Central\", identificar o nível de letramento dessas atividades e verificar se atendem ao letramento estatístico. A metodologia de pesquisa utilizada foi a qualitativa de cunho documental que permitiu analisar o livro didático a luz dos referenciais teóricos adotados. Após as análises, concluímos que as questões relacionadas às medidas de tendência central presentes nos livros didáticos atendem ao desenvolvimento do letramento estatístico proposto por Gal (2002). Outra conclusão observada é que há uma maior concentração de atividades no nível consistente não crítico, sem deixar de considerar os demais níveis de letramento. O que possibilitou o desenvolvimento de conhecimentos estatísticos e matemáticos, bem como do contexto indicado no referencial, permitindo uma análise mais crítica das situações apresentadas.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "letramento estatístico"
+ ],
+ "ids_duplicados": []
 }

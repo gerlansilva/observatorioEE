@@ -1,59 +1,59 @@
 {
-  "id": "capes-35875190",
-  "autor": "Adriana Cristina Loli",
-  "ano": 2021,
-  "tipo": "Dissertação",
-  "titulo": "Modelagem Matemática Como Metodologia para o Desenvolvimento do Letramento Estatístico no Ensino Médio",
-  "instituicao": "UNIVERSIDADE ESTADUAL DO CENTRO-OESTE",
-  "cidade": "",
-  "estado": "Paraná",
-  "regiao": "Sul",
-  "orientador": "Marcio Andre Martins",
-  "programa": "Ensino de Ciências Naturais e Matemática",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Modelagem Matemática; Letramento Estatístico; Ensino Médio.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22MODELAGEM%20MATEM%C3%81TICA%20COMO%20METODOLOGIA%20PARA%20O%20DESENVOLVIMENTO%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20NO%20ENSINO%20M%C3%89DIO%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=MODELAGEM%20MATEM%C3%81TICA%20COMO%20METODOLOGIA%20PARA%20O%20DESENVOLVIMENTO%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20NO%20ENSINO%20M%C3%89DIO&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35875190"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "35875190",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Modelagem Matemática",
-    "Letramento Estatístico",
-    "Ensino Médio."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-35875190.svg",
-  "resumo": "Adriana Cristina Loli. Modelagem Matemática como metodologia para o desenvolvimento do Letramento Estatístico no Ensino Médio. Esta pesquisa teve como objetivo investigar de que forma a Modelagem Matemática, como metodologia de ensino, contribuiu para o desenvolvimento do Letramento Estatístico de Gal em estudantes da 3ª série do Ensino Médio. Neste sentido, o presente trabalho envolveu uma experiência de ensino com 51 estudantes de um Colégio Estadual na cidade de Guarapuava – PR. Por três meses, durante as aulas de Matemática, se deu o processo da Modelagem Matemática, segundo Burak (1992), vivenciando todas as suas etapas, desde a escolha do tema e elaboração da questão de pesquisa até a análise, divulgação e crítica dos resultados. A pesquisa se deu de forma qualitativa, abordando as produções dos estudantes em seu ambiente natural, a sala de aula. A análise dos dados, por sua vez, ocorreu segundo as categorias a priori definidas por Gal (2002), sendo elas com relação ao conhecimento estatístico, conhecimento matemático, de contexto, questionamento crítico e elementos de disposição. Foi observado que a Modelagem Matemática se revelou grande motivadora aos estudantes, sendo uma metodologia que favoreceu a interdisciplinaridade, o pensamento crítico, o protagonismo do estudante e o entendimento de que a Estatística tem como finalidade a tomada de decisões e conhecimento da realidade. A partir das atividades experimentadas foi elaborado, como produto educacional associado a este trabalho, um guia com roteiros de atividades, contendo todos os passos comentados para a sua aplicação. Espera-se que esta pesquisa e o produto educacional formulado possam contribuir com os professores do Ensino Básico que desejem inserir a Modelagem Matemática em suas aulas de Estatística.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "letramento estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-35875190",
+ "autor": "Adriana Cristina Loli",
+ "ano": 2021,
+ "tipo": "Dissertação",
+ "titulo": "Modelagem Matemática Como Metodologia para o Desenvolvimento do Letramento Estatístico no Ensino Médio",
+ "instituicao": "Universidade Estadual do Centro-oeste",
+ "cidade": "",
+ "estado": "Paraná",
+ "regiao": "Sul",
+ "orientador": "Marcio Andre Martins",
+ "programa": "Ensino de Ciências Naturais e Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Modelagem Matemática; Letramento Estatístico; Ensino Médio.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22MODELAGEM%20MATEM%C3%81TICA%20COMO%20METODOLOGIA%20PARA%20O%20DESENVOLVIMENTO%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20NO%20ENSINO%20M%C3%89DIO%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=MODELAGEM%20MATEM%C3%81TICA%20COMO%20METODOLOGIA%20PARA%20O%20DESENVOLVIMENTO%20DO%20LETRAMENTO%20ESTAT%C3%8DSTICO%20NO%20ENSINO%20M%C3%89DIO&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35875190"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "35875190",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Modelagem Matemática",
+  "Letramento Estatístico",
+  "Ensino Médio."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-35875190.svg",
+ "resumo": "Adriana Cristina Loli. Modelagem Matemática como metodologia para o desenvolvimento do Letramento Estatístico no Ensino Médio. Esta pesquisa teve como objetivo investigar de que forma a Modelagem Matemática, como metodologia de ensino, contribuiu para o desenvolvimento do Letramento Estatístico de Gal em estudantes da 3ª série do Ensino Médio. Neste sentido, o presente trabalho envolveu uma experiência de ensino com 51 estudantes de um Colégio Estadual na cidade de Guarapuava – PR. Por três meses, durante as aulas de Matemática, se deu o processo da Modelagem Matemática, segundo Burak (1992), vivenciando todas as suas etapas, desde a escolha do tema e elaboração da questão de pesquisa até a análise, divulgação e crítica dos resultados. A pesquisa se deu de forma qualitativa, abordando as produções dos estudantes em seu ambiente natural, a sala de aula. A análise dos dados, por sua vez, ocorreu segundo as categorias a priori definidas por Gal (2002), sendo elas com relação ao conhecimento estatístico, conhecimento matemático, de contexto, questionamento crítico e elementos de disposição. Foi observado que a Modelagem Matemática se revelou grande motivadora aos estudantes, sendo uma metodologia que favoreceu a interdisciplinaridade, o pensamento crítico, o protagonismo do estudante e o entendimento de que a Estatística tem como finalidade a tomada de decisões e conhecimento da realidade. A partir das atividades experimentadas foi elaborado, como produto educacional associado a este trabalho, um guia com roteiros de atividades, contendo todos os passos comentados para a sua aplicação. Espera-se que esta pesquisa e o produto educacional formulado possam contribuir com os professores do Ensino Básico que desejem inserir a Modelagem Matemática em suas aulas de Estatística.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "letramento estatístico"
+ ],
+ "ids_duplicados": []
 }

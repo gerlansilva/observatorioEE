@@ -1,62 +1,62 @@
 {
-  "id": "capes-30004874",
-  "autor": "Josilane Maria Goncalves de Souza",
-  "ano": 2019,
-  "tipo": "Dissertação",
-  "titulo": "INTERPRETAÇÃO DE GRÁFICOS: explorando o Letramento Estatístico dos professores de escolas públicas no campo nos espaços de oficinas de formação continuada",
-  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Carlos Eduardo Ferreira Monteiro",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação do Campo; Educação Estatística; Formação de professores; Letramento estatístico; Senso crítico",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22INTERPRETA%C3%87%C3%83O%20DE%20GR%C3%81FICOS%3A%20explorando%20o%20Letramento%20Estat%C3%ADstico%20dos%20professores%20de%20escolas%20p%C3%BAblicas%20no%20campo%20nos%20espa%C3%A7os%20de%20oficinas%20de%20forma%C3%A7%C3%A3o%20continuada%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=INTERPRETA%C3%87%C3%83O%20DE%20GR%C3%81FICOS%3A%20explorando%20o%20Letramento%20Estat%C3%ADstico%20dos%20professores%20de%20escolas%20p%C3%BAblicas%20no%20campo%20nos%20espa%C3%A7os%20de%20oficinas%20de%20forma%C3%A7%C3%A3o%20continuada&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30004874"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "30004874",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação do Campo",
-    "Educação Estatística",
-    "Formação de professores",
-    "Letramento estatístico",
-    "Senso crítico"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-30004874.svg",
-  "resumo": "O presente estudo objetivou analisar a compreensão de gráficos por professores de Matemática dos anos finais do Ensino Fundamental que trabalham em escolas públicas no campo. De modo específico buscou-se identificar como os professores compreendem as informações em gráficos, suas concepções de letramento estatístico e de Educação do Campo. Em particular discutiu-se em oficinas de formação com um grupo de professores participantes, a relevância do trabalho com a Educação Estatística, com a exploração da interpretação de gráficos na perspectiva do letramento estatístico e a análise de atividades pedagógicas no contexto da Educação do Campo. O referencial teórico desta pesquisa está fundamentado na incorporação das discussões destas temáticas: Educação Estatística, formação de professores que ensinam Matemática nos anos finais do Ensino Fundamental e Educação do Campo. Além disso, embasa-se em uma abordagem com enfoque no modelo do letramento estatístico e no senso crítico. Esta pesquisa é qualitativa e como ponto de partida, utilizou-se a entrevista semiestruturada com cinco professores que ensinam Matemática nos anos finais do Ensino Fundamental das escolas inseridas no campo. Em seguida, foram realizadas oficinas na perspectiva do desenvolvimento de um trabalho no âmbito da Educação Estatística no contexto da Educação do Campo, que tiveram implicações na prática pedagógica dos participantes, inicialmente eles formavam um grupo de cinco professores. Logo após, foram iniciadas as observações da prática pedagógica dos professores. Os resultados das entrevistas indicam que os professores não apresentaram conhecimentos a respeito da proposta de Educação do Campo e que externaram dificuldades quando se pediu que interpretassem os gráficos com a temática do campo. Foram promovidos três encontros em formato de oficinas de formação, que propiciaram aos professores envolvidos momentos de discussões e oportunidades para desenvolvimento do letramento estatístico. As ações propostas para a terceira oficina priorizaram a escolha das temáticas relacionadas ao contexto histórico e cultural do campo e a elaboração do planejamento de aula para o ensino de Estatística. Essas ações objetivaram a construção das atividades de intervenção pedagógica sobre a interpretação de gráficos estatísticos. Os resultados das observações apontam fragilidades na prática pedagógica de sala de aula. Nesse sentido, sinaliza-se a importância do desenvolvimento de propostas para a formação continuada de professores. Com efeito, é preciso promover reflexões sobre a prática do professor e sobre o conhecimento pedagógico do conteúdo bem como fortalecer a proposta de Educação do Campo.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "letramento estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-30004874",
+ "autor": "Josilane Maria Goncalves de Souza",
+ "ano": 2019,
+ "tipo": "Dissertação",
+ "titulo": "INTERPRETAÇÃO DE GRÁFICOS: explorando o Letramento Estatístico dos professores de escolas públicas no campo nos espaços de oficinas de formação continuada",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Carlos Eduardo Ferreira Monteiro",
+ "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação do Campo; Educação Estatística; Formação de professores; Letramento estatístico; Senso crítico",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22INTERPRETA%C3%87%C3%83O%20DE%20GR%C3%81FICOS%3A%20explorando%20o%20Letramento%20Estat%C3%ADstico%20dos%20professores%20de%20escolas%20p%C3%BAblicas%20no%20campo%20nos%20espa%C3%A7os%20de%20oficinas%20de%20forma%C3%A7%C3%A3o%20continuada%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=INTERPRETA%C3%87%C3%83O%20DE%20GR%C3%81FICOS%3A%20explorando%20o%20Letramento%20Estat%C3%ADstico%20dos%20professores%20de%20escolas%20p%C3%BAblicas%20no%20campo%20nos%20espa%C3%A7os%20de%20oficinas%20de%20forma%C3%A7%C3%A3o%20continuada&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30004874"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "30004874",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação do Campo",
+  "Educação Estatística",
+  "Formação de professores",
+  "Letramento estatístico",
+  "Senso crítico"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-30004874.svg",
+ "resumo": "O presente estudo objetivou analisar a compreensão de gráficos por professores de Matemática dos anos finais do Ensino Fundamental que trabalham em escolas públicas no campo. De modo específico buscou-se identificar como os professores compreendem as informações em gráficos, suas concepções de letramento estatístico e de Educação do Campo. Em particular discutiu-se em oficinas de formação com um grupo de professores participantes, a relevância do trabalho com a Educação Estatística, com a exploração da interpretação de gráficos na perspectiva do letramento estatístico e a análise de atividades pedagógicas no contexto da Educação do Campo. O referencial teórico desta pesquisa está fundamentado na incorporação das discussões destas temáticas: Educação Estatística, formação de professores que ensinam Matemática nos anos finais do Ensino Fundamental e Educação do Campo. Além disso, embasa-se em uma abordagem com enfoque no modelo do letramento estatístico e no senso crítico. Esta pesquisa é qualitativa e como ponto de partida, utilizou-se a entrevista semiestruturada com cinco professores que ensinam Matemática nos anos finais do Ensino Fundamental das escolas inseridas no campo. Em seguida, foram realizadas oficinas na perspectiva do desenvolvimento de um trabalho no âmbito da Educação Estatística no contexto da Educação do Campo, que tiveram implicações na prática pedagógica dos participantes, inicialmente eles formavam um grupo de cinco professores. Logo após, foram iniciadas as observações da prática pedagógica dos professores. Os resultados das entrevistas indicam que os professores não apresentaram conhecimentos a respeito da proposta de Educação do Campo e que externaram dificuldades quando se pediu que interpretassem os gráficos com a temática do campo. Foram promovidos três encontros em formato de oficinas de formação, que propiciaram aos professores envolvidos momentos de discussões e oportunidades para desenvolvimento do letramento estatístico. As ações propostas para a terceira oficina priorizaram a escolha das temáticas relacionadas ao contexto histórico e cultural do campo e a elaboração do planejamento de aula para o ensino de Estatística. Essas ações objetivaram a construção das atividades de intervenção pedagógica sobre a interpretação de gráficos estatísticos. Os resultados das observações apontam fragilidades na prática pedagógica de sala de aula. Nesse sentido, sinaliza-se a importância do desenvolvimento de propostas para a formação continuada de professores. Com efeito, é preciso promover reflexões sobre a prática do professor e sobre o conhecimento pedagógico do conteúdo bem como fortalecer a proposta de Educação do Campo.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "letramento estatístico"
+ ],
+ "ids_duplicados": []
 }

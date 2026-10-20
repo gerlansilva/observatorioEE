@@ -1,61 +1,61 @@
 {
-  "id": "capes-36665608",
-  "autor": "Valquiria Dutra Leite",
-  "ano": 2022,
-  "tipo": "Dissertação",
-  "titulo": "Implicações de um projeto sobre o lixo eletrônico na aprendizagem de objetos estatísticos: reflexão e crítica",
-  "instituicao": "UNIVERSIDADE FEDERAL DE JUIZ DE FORA",
-  "cidade": "",
-  "estado": "Minas Gerais",
-  "regiao": "Sudeste",
-  "orientador": "Chang Kuo Rodrigues",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação matemática; Educação estatística; Engenharia didática; Teoria das situações didáticas; Consciência ecológica",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Implica%C3%A7%C3%B5es%20de%20um%20projeto%20sobre%20o%20lixo%20eletr%C3%B4nico%20na%20aprendizagem%20de%20objetos%20estat%C3%ADsticos%3A%20reflex%C3%A3o%20e%20cr%C3%ADtica%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Implica%C3%A7%C3%B5es%20de%20um%20projeto%20sobre%20o%20lixo%20eletr%C3%B4nico%20na%20aprendizagem%20de%20objetos%20estat%C3%ADsticos%3A%20reflex%C3%A3o%20e%20cr%C3%ADtica&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36665608"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "36665608",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação matemática",
-    "Educação estatística",
-    "Engenharia didática",
-    "Teoria das situações didáticas",
-    "Consciência ecológica"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-36665608.svg",
-  "resumo": "Nesta pesquisa, intencionou-se investigar como um projeto com o tema lixo eletrônico circundando o processo de ensino e de aprendizagem, no que tange à produção, organização e informação de dados, pode propiciar oportunidades para desenvolvimento de uma consciência ecológica dos alunos. Sua caracterização é de uma pesquisa qualitativa apoiada na metodologia da engenharia didática e com fundamentação na teoria das situações didáticas. Foi desenvolvida em um cenário de ensino remoto, devido às adequações impostas pela pandemia do novo coronavírus, com alunos do 7° ano do ensino fundamental de uma escola pública federal, dos quais dezenove deles foram participantes efetivos da pesquisa. As produções dos alunos nas fases do projeto compuseram os dados da pesquisa, os quais foram analisados, validando a hipótese de que os conhecimentos assimilados potencializaram a aprendizagem de objetos do conhecimento estatístico e, ao mesmo tempo, agregaram valores com relação à consciência ecológica. Em decorrência da pesquisa, foi elaborado o produto educacional “Lixo eletrônico: da coleta ao descarte” no formato de um guia didático, com orientações para o desenvolvimento de um projeto, cujo objetivo principal é despertar a consciência ecológica pela temática lixo eletrônico por meio da mobilização de objetos do conhecimento estatístico.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-36665608",
+ "autor": "Valquiria Dutra Leite",
+ "ano": 2022,
+ "tipo": "Dissertação",
+ "titulo": "Implicações de um projeto sobre o lixo eletrônico na aprendizagem de objetos estatísticos: reflexão e crítica",
+ "instituicao": "Universidade Federal de Juiz de Fora",
+ "cidade": "",
+ "estado": "Minas Gerais",
+ "regiao": "Sudeste",
+ "orientador": "Chang Kuo Rodrigues",
+ "programa": "EDUCAÇÃO MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação matemática; Educação estatística; Engenharia didática; Teoria das situações didáticas; Consciência ecológica",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Implica%C3%A7%C3%B5es%20de%20um%20projeto%20sobre%20o%20lixo%20eletr%C3%B4nico%20na%20aprendizagem%20de%20objetos%20estat%C3%ADsticos%3A%20reflex%C3%A3o%20e%20cr%C3%ADtica%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Implica%C3%A7%C3%B5es%20de%20um%20projeto%20sobre%20o%20lixo%20eletr%C3%B4nico%20na%20aprendizagem%20de%20objetos%20estat%C3%ADsticos%3A%20reflex%C3%A3o%20e%20cr%C3%ADtica&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36665608"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "36665608",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação matemática",
+  "Educação estatística",
+  "Engenharia didática",
+  "Teoria das situações didáticas",
+  "Consciência ecológica"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-36665608.svg",
+ "resumo": "Nesta pesquisa, intencionou-se investigar como um projeto com o tema lixo eletrônico circundando o processo de ensino e de aprendizagem, no que tange à produção, organização e informação de dados, pode propiciar oportunidades para desenvolvimento de uma consciência ecológica dos alunos. Sua caracterização é de uma pesquisa qualitativa apoiada na metodologia da engenharia didática e com fundamentação na teoria das situações didáticas. Foi desenvolvida em um cenário de ensino remoto, devido às adequações impostas pela pandemia do novo coronavírus, com alunos do 7° ano do ensino fundamental de uma escola pública federal, dos quais dezenove deles foram participantes efetivos da pesquisa. As produções dos alunos nas fases do projeto compuseram os dados da pesquisa, os quais foram analisados, validando a hipótese de que os conhecimentos assimilados potencializaram a aprendizagem de objetos do conhecimento estatístico e, ao mesmo tempo, agregaram valores com relação à consciência ecológica. Em decorrência da pesquisa, foi elaborado o produto educacional “Lixo eletrônico: da coleta ao descarte” no formato de um guia didático, com orientações para o desenvolvimento de um projeto, cujo objetivo principal é despertar a consciência ecológica pela temática lixo eletrônico por meio da mobilização de objetos do conhecimento estatístico.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": []
 }

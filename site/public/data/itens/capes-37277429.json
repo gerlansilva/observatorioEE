@@ -1,61 +1,61 @@
 {
-  "id": "capes-37277429",
-  "autor": "Wallace do Carmo Muniz",
-  "ano": 2022,
-  "tipo": "Dissertação",
-  "titulo": "Ensino de Medidas de Variação com uso de Planilha Eletrônica",
-  "instituicao": "UNIVERSIDADE DO ESTADO DO PARÁ",
-  "cidade": "",
-  "estado": "Pará",
-  "regiao": "Norte",
-  "orientador": "Cinthia Cunha Maradei Pereira",
-  "programa": "ENSINO DE MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Matemática; Educação Estatística; Ensino de Matemática; Medida de Variação",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Ensino%20de%20Medidas%20de%20Varia%C3%A7%C3%A3o%20com%20uso%20de%20Planilha%20Eletr%C3%B4nica%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Ensino%20de%20Medidas%20de%20Varia%C3%A7%C3%A3o%20com%20uso%20de%20Planilha%20Eletr%C3%B4nica&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37277429"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "37277429",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Matemática",
-    "Educação Estatística",
-    "Ensino de Matemática",
-    "Medida de Variação"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-37277429.svg",
-  "resumo": "O presente estudo objetivou investigar as contribuições de uma sequência didática desenvolvida para o ensino de Medidas de Variação com o uso de planilha Eletrônica e construída segundo Teoria dos Registros de Representação Semiótica. A revisão de literatura envolveu estudos que enfatizaram, pelo menos, conceitos como média ou variação, devido à escassez de trabalhos voltados especificamente às medidas de variação. Além disso, estes estudos apoiaram-se na Teoria dos Registros de Representação Semiótica e na metodologia da Engenharia Didática. Desenvolveu-se, em seções de estudo, a insuficiência de dados oficiais acerca das dificuldades de aprendizagem em medidas de variação, bem como as contribuições de alguns dos principais teóricos da Educação Matemática e em especial da Educação Estatística. As competências de letramento, raciocínio e pensamento estatístico foram confrontadas às recomendadas pela BNCC para dar suporte às atividades da sequência didática, tratadas neste trabalho. Com essa mesma finalidade, desenvolvemos o objeto matemático medidas de variação. Enfatizou-se as etapas dos cálculos dessas medidas para serem apenas descritas nos registros das atividades da sequência didática, pois, a principal intenção é que o aluno interprete os dados e resultados. Isso justificou o uso da planilha eletrônica; pois, agilizou e facilitou a visualização dos resultados, permitindo aos sujeitos da pesquisa mais tempo para as interpretações e registros necessários. A validação da sequência didática foi verificada a partir das análises sobre os registros escritos dos educandos e a análise do pós-teste realizado de forma auxiliar. A análise dos resultados de nossa experimentação evidenciou contribuições pedagógicas metodológicas, formativas, epistemológicas, além de indicar possíveis desdobramentos para novas pesquisas nas áreas de ensino e de aprendizagem de Matemática.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-37277429",
+ "autor": "Wallace do Carmo Muniz",
+ "ano": 2022,
+ "tipo": "Dissertação",
+ "titulo": "Ensino de Medidas de Variação com uso de Planilha Eletrônica",
+ "instituicao": "Universidade do Estado do Pará",
+ "cidade": "",
+ "estado": "Pará",
+ "regiao": "Norte",
+ "orientador": "Cinthia Cunha Maradei Pereira",
+ "programa": "ENSINO DE MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Matemática; Educação Estatística; Ensino de Matemática; Medida de Variação",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Ensino%20de%20Medidas%20de%20Varia%C3%A7%C3%A3o%20com%20uso%20de%20Planilha%20Eletr%C3%B4nica%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Ensino%20de%20Medidas%20de%20Varia%C3%A7%C3%A3o%20com%20uso%20de%20Planilha%20Eletr%C3%B4nica&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37277429"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "37277429",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Matemática",
+  "Educação Estatística",
+  "Ensino de Matemática",
+  "Medida de Variação"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-37277429.svg",
+ "resumo": "O presente estudo objetivou investigar as contribuições de uma sequência didática desenvolvida para o ensino de Medidas de Variação com o uso de planilha Eletrônica e construída segundo Teoria dos Registros de Representação Semiótica. A revisão de literatura envolveu estudos que enfatizaram, pelo menos, conceitos como média ou variação, devido à escassez de trabalhos voltados especificamente às medidas de variação. Além disso, estes estudos apoiaram-se na Teoria dos Registros de Representação Semiótica e na metodologia da Engenharia Didática. Desenvolveu-se, em seções de estudo, a insuficiência de dados oficiais acerca das dificuldades de aprendizagem em medidas de variação, bem como as contribuições de alguns dos principais teóricos da Educação Matemática e em especial da Educação Estatística. As competências de letramento, raciocínio e pensamento estatístico foram confrontadas às recomendadas pela BNCC para dar suporte às atividades da sequência didática, tratadas neste trabalho. Com essa mesma finalidade, desenvolvemos o objeto matemático medidas de variação. Enfatizou-se as etapas dos cálculos dessas medidas para serem apenas descritas nos registros das atividades da sequência didática, pois, a principal intenção é que o aluno interprete os dados e resultados. Isso justificou o uso da planilha eletrônica; pois, agilizou e facilitou a visualização dos resultados, permitindo aos sujeitos da pesquisa mais tempo para as interpretações e registros necessários. A validação da sequência didática foi verificada a partir das análises sobre os registros escritos dos educandos e a análise do pós-teste realizado de forma auxiliar. A análise dos resultados de nossa experimentação evidenciou contribuições pedagógicas metodológicas, formativas, epistemológicas, além de indicar possíveis desdobramentos para novas pesquisas nas áreas de ensino e de aprendizagem de Matemática.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

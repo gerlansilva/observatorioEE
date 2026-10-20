@@ -1,58 +1,58 @@
 {
-  "id": "capes-23382476",
-  "autor": "Marleide Campos Santos Costa",
-  "ano": 2017,
-  "tipo": "Dissertação",
-  "titulo": "A Estatística Como Eixo Integrador no Ensino de Conteúdos Disciplinares na Promoção da Interdisciplinaridade e a Transversalidade na Educação Básica",
-  "instituicao": "UNIVERSIDADE ESTADUAL DE SANTA CRUZ",
-  "cidade": "",
-  "estado": "Bahia",
-  "regiao": "Nordeste",
-  "orientador": "Irene Mauricio Cazorla",
-  "programa": "Educação Matemática",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Interdisciplinaridade. Grupos com dimensões colaborativas. Planejamento colaborativo. Ensino de Estatística. Transversalidade",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20ESTAT%C3%8DSTICA%20COMO%20EIXO%20INTEGRADOR%20NO%20ENSINO%20DE%20CONTE%C3%9ADOS%20DISCIPLINARES%20NA%20PROMO%C3%87%C3%83O%20DA%20INTERDISCIPLINARIDADE%20E%20A%20TRANSVERSALIDADE%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20ESTAT%C3%8DSTICA%20COMO%20EIXO%20INTEGRADOR%20NO%20ENSINO%20DE%20CONTE%C3%9ADOS%20DISCIPLINARES%20NA%20PROMO%C3%87%C3%83O%20DA%20INTERDISCIPLINARIDADE%20E%20A%20TRANSVERSALIDADE%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/23382476"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "23382476",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Interdisciplinaridade. Grupos com dimensões colaborativas. Planejamento colaborativo. Ensino de Estatística. Transversalidade"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-23382476.svg",
-  "resumo": "A presente pesquisa tem como objetivo identificar as condições necessárias e o potencial do ensino de Estatística no ensino de conteúdos disciplinares, na promoção da interdisciplinaridade e transversalidade na Educação Básica. A partir do tema gerador “Água, sabendo usar não vai faltar” e utilizando a Estatística como eixo integrador, os professores das diversas disciplinas de uma turma do 9º ano do Ensino Fundamental de uma escola do interior da Bahia, planejaram suas aulas de forma coletiva e colaborativa. Os professores da turma foram convidados a participar, responderam a uma entrevista semiestruturada para captar suas concepções sobre o tema, planejaram e implementaram as aulas de suas disciplinas, sendo que algumas delas foram acompanhadas in loco e, ao final responderam novamente uma entrevista visando verificar a percepção dos mesmos sobre essa experiência. No planejamento das aulas disciplinares, a professora de Matemática apresentou os conteúdos de Estatística; depois os professores elencaram os conteúdos que seriam trabalhados naquele bimestre e, a partir das recomendações dos PCN, do Plano Anual da escola e dos livros didáticos os professores foram sugerindo como eles e os colegas poderiam trabalhar seus conteúdos utilizando tabelas, gráficos e medidas estatísticas. Decidiram junto com a direção e coordenação que a culminância do projeto seria tema da Feira de Ciências da Escola, como parte do PDE. A partir dos resultados, podemos inferir que os professores reconhecem que interagir, compartilhar e sugerir são princípios de um planejamento colaborativo e que isso contribui para a sua formação profissional e produz saberes. A maioria dos professores utilizou tabelas, gráficos de barras, de setores e medidas estatísticas para trabalhar seus conteúdos e teceram reflexões sobre os temas abordados. A produção de textos e experiências apresentadas pelos estudantes na Feira de Ciências é uma prova viva do sucesso do projeto. Dentre os fatores que podem ter contribuído para potencializar a utilização da Estatística no ensino dos conteúdos disciplinares, estão o fator humano, representado pelos professores que participaram de forma ativa, que assumiram formar um grupo com dimensões colaborativas que foi fundamental para o desenvolvimento das atividades, assim como a colaboração da gestão da escola e o papel da coordenação pedagógica; o tema transversal “Água, sabendo usar não vai faltar” foi crucial e envolveu a comunidade pelo sofrimento com a estiagem prolongada da região; os conteúdos da Estatística que permitiram um diálogo entre os conteúdos de quase todas as disciplinas, e, por fim, o respeito à cultura escolar, a utilização do espaço e dos tempos da escola. Desenvolver o projeto não acarretou trabalho extra ao professor e nem exigiu dele tempo fora de sua carga horária, ao contrário, o ajudou a ampliar seus horizontes e a percepção de que é possível trabalhar interdisciplinar e transversalmente, mesmo nas aulas disciplinares.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-23382476",
+ "autor": "Marleide Campos Santos Costa",
+ "ano": 2017,
+ "tipo": "Dissertação",
+ "titulo": "A Estatística Como Eixo Integrador no Ensino de Conteúdos Disciplinares na Promoção da Interdisciplinaridade e a Transversalidade na Educação Básica",
+ "instituicao": "Universidade Estadual de Santa Cruz",
+ "cidade": "",
+ "estado": "Bahia",
+ "regiao": "Nordeste",
+ "orientador": "Irene Mauricio Cazorla",
+ "programa": "Educação Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Interdisciplinaridade. Grupos com dimensões colaborativas. Planejamento colaborativo. Ensino de Estatística. Transversalidade",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20ESTAT%C3%8DSTICA%20COMO%20EIXO%20INTEGRADOR%20NO%20ENSINO%20DE%20CONTE%C3%9ADOS%20DISCIPLINARES%20NA%20PROMO%C3%87%C3%83O%20DA%20INTERDISCIPLINARIDADE%20E%20A%20TRANSVERSALIDADE%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20ESTAT%C3%8DSTICA%20COMO%20EIXO%20INTEGRADOR%20NO%20ENSINO%20DE%20CONTE%C3%9ADOS%20DISCIPLINARES%20NA%20PROMO%C3%87%C3%83O%20DA%20INTERDISCIPLINARIDADE%20E%20A%20TRANSVERSALIDADE%20NA%20EDUCA%C3%87%C3%83O%20B%C3%81SICA&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/23382476"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "23382476",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Interdisciplinaridade. Grupos com dimensões colaborativas. Planejamento colaborativo. Ensino de Estatística. Transversalidade"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-23382476.svg",
+ "resumo": "A presente pesquisa tem como objetivo identificar as condições necessárias e o potencial do ensino de Estatística no ensino de conteúdos disciplinares, na promoção da interdisciplinaridade e transversalidade na Educação Básica. A partir do tema gerador “Água, sabendo usar não vai faltar” e utilizando a Estatística como eixo integrador, os professores das diversas disciplinas de uma turma do 9º ano do Ensino Fundamental de uma escola do interior da Bahia, planejaram suas aulas de forma coletiva e colaborativa. Os professores da turma foram convidados a participar, responderam a uma entrevista semiestruturada para captar suas concepções sobre o tema, planejaram e implementaram as aulas de suas disciplinas, sendo que algumas delas foram acompanhadas in loco e, ao final responderam novamente uma entrevista visando verificar a percepção dos mesmos sobre essa experiência. No planejamento das aulas disciplinares, a professora de Matemática apresentou os conteúdos de Estatística; depois os professores elencaram os conteúdos que seriam trabalhados naquele bimestre e, a partir das recomendações dos PCN, do Plano Anual da escola e dos livros didáticos os professores foram sugerindo como eles e os colegas poderiam trabalhar seus conteúdos utilizando tabelas, gráficos e medidas estatísticas. Decidiram junto com a direção e coordenação que a culminância do projeto seria tema da Feira de Ciências da Escola, como parte do PDE. A partir dos resultados, podemos inferir que os professores reconhecem que interagir, compartilhar e sugerir são princípios de um planejamento colaborativo e que isso contribui para a sua formação profissional e produz saberes. A maioria dos professores utilizou tabelas, gráficos de barras, de setores e medidas estatísticas para trabalhar seus conteúdos e teceram reflexões sobre os temas abordados. A produção de textos e experiências apresentadas pelos estudantes na Feira de Ciências é uma prova viva do sucesso do projeto. Dentre os fatores que podem ter contribuído para potencializar a utilização da Estatística no ensino dos conteúdos disciplinares, estão o fator humano, representado pelos professores que participaram de forma ativa, que assumiram formar um grupo com dimensões colaborativas que foi fundamental para o desenvolvimento das atividades, assim como a colaboração da gestão da escola e o papel da coordenação pedagógica; o tema transversal “Água, sabendo usar não vai faltar” foi crucial e envolveu a comunidade pelo sofrimento com a estiagem prolongada da região; os conteúdos da Estatística que permitiram um diálogo entre os conteúdos de quase todas as disciplinas, e, por fim, o respeito à cultura escolar, a utilização do espaço e dos tempos da escola. Desenvolver o projeto não acarretou trabalho extra ao professor e nem exigiu dele tempo fora de sua carga horária, ao contrário, o ajudou a ampliar seus horizontes e a percepção de que é possível trabalhar interdisciplinar e transversalmente, mesmo nas aulas disciplinares.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

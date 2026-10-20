@@ -1,63 +1,63 @@
 {
-  "id": "capes-35802440",
-  "autor": "Erika Regina Santana da Silva Pereira",
-  "ano": 2021,
-  "tipo": "Dissertação",
-  "titulo": "Tarefas de análise da produção escrita para o ensino de análise combinatória",
-  "instituicao": "UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ",
-  "cidade": "",
-  "estado": "Paraná",
-  "regiao": "Sul",
-  "orientador": "Jader Otavio Dalto",
-  "programa": "ENSINO DE MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Matemática - Estudo e ensino; Matemática - Problemas, questões, exercícios; Estratégias de aprendizagem; Análise combinatória; Comunicação escrita",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Tarefas%20de%20an%C3%A1lise%20da%20produ%C3%A7%C3%A3o%20escrita%20para%20o%20ensino%20de%20an%C3%A1lise%20combinat%C3%B3ria%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Tarefas%20de%20an%C3%A1lise%20da%20produ%C3%A7%C3%A3o%20escrita%20para%20o%20ensino%20de%20an%C3%A1lise%20combinat%C3%B3ria&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35802440"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "35802440",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Matemática - Estudo e ensino",
-    "Matemática - Problemas, questões, exercícios",
-    "Estratégias de aprendizagem",
-    "Análise combinatória",
-    "Comunicação escrita"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-35802440.svg",
-  "resumo": "Este trabalho se refere a uma pesquisa de mestrado em Ensino de Matemática, que teve por objetivo investigar a utilização da Análise da Produção Escrita como estratégia de ensino para aprendizagem do conteúdo de Análise Combinatória para alunos do Ensino Médio. Na pesquisa, a Análise da Produção Escrita foi utilizada enquanto estratégia de ensino do conteúdo de Análise Combinatória para alunos do Ensino Médio a partir de Tarefas de Análise da Produção Escrita. A elaboração e aplicação das tarefas se deram em turmas de alunos que cursam o 2º ano do Ensino Médio de escolas públicas situadas no município de Londrina - 6 turmas. O diário de Campo da pesquisadora e o conjunto de produções dos estudados formam o conjunto de dados a serem analisados. Para o desenvolvimento dessa investigação houve três momentos, o primeiro de coleta de produções escritas de alunos por meio da resolução de listas de tarefas, o segundo momento de elaboração das Tarefas de Análise da Produção Escrita a partir das resoluções coletadas e o terceiro momento de ensinar Análise Combinatória utilizando as tarefas elaboradas. Os resultados da análise mostram que houve aprendizagem dos principais conceitos envolvidos no ensino de Análise combinatória ao utilizar como estratégia de ensino as Tarefas de Análise da Produção Escrita. Esperamos que esse trabalho possa contribuir com professores e alunos no processo de ensino e de aprendizagem de Análise Combinatória e para Educação Matemática.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de combinatória"
-  ],
-  "ids_duplicados": [
-    "40336901"
-  ]
+ "id": "capes-35802440",
+ "autor": "Erika Regina Santana da Silva Pereira",
+ "ano": 2021,
+ "tipo": "Dissertação",
+ "titulo": "Tarefas de análise da produção escrita para o ensino de análise combinatória",
+ "instituicao": "Universidade Tecnológica Federal do Paraná",
+ "cidade": "",
+ "estado": "Paraná",
+ "regiao": "Sul",
+ "orientador": "Jader Otavio Dalto",
+ "programa": "ENSINO DE MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Matemática - Estudo e ensino; Matemática - Problemas, questões, exercícios; Estratégias de aprendizagem; Análise combinatória; Comunicação escrita",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Tarefas%20de%20an%C3%A1lise%20da%20produ%C3%A7%C3%A3o%20escrita%20para%20o%20ensino%20de%20an%C3%A1lise%20combinat%C3%B3ria%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Tarefas%20de%20an%C3%A1lise%20da%20produ%C3%A7%C3%A3o%20escrita%20para%20o%20ensino%20de%20an%C3%A1lise%20combinat%C3%B3ria&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35802440"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "35802440",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Matemática - Estudo e ensino",
+  "Matemática - Problemas, questões, exercícios",
+  "Estratégias de aprendizagem",
+  "Análise combinatória",
+  "Comunicação escrita"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-35802440.svg",
+ "resumo": "Este trabalho se refere a uma pesquisa de mestrado em Ensino de Matemática, que teve por objetivo investigar a utilização da Análise da Produção Escrita como estratégia de ensino para aprendizagem do conteúdo de Análise Combinatória para alunos do Ensino Médio. Na pesquisa, a Análise da Produção Escrita foi utilizada enquanto estratégia de ensino do conteúdo de Análise Combinatória para alunos do Ensino Médio a partir de Tarefas de Análise da Produção Escrita. A elaboração e aplicação das tarefas se deram em turmas de alunos que cursam o 2º ano do Ensino Médio de escolas públicas situadas no município de Londrina - 6 turmas. O diário de Campo da pesquisadora e o conjunto de produções dos estudados formam o conjunto de dados a serem analisados. Para o desenvolvimento dessa investigação houve três momentos, o primeiro de coleta de produções escritas de alunos por meio da resolução de listas de tarefas, o segundo momento de elaboração das Tarefas de Análise da Produção Escrita a partir das resoluções coletadas e o terceiro momento de ensinar Análise Combinatória utilizando as tarefas elaboradas. Os resultados da análise mostram que houve aprendizagem dos principais conceitos envolvidos no ensino de Análise combinatória ao utilizar como estratégia de ensino as Tarefas de Análise da Produção Escrita. Esperamos que esse trabalho possa contribuir com professores e alunos no processo de ensino e de aprendizagem de Análise Combinatória e para Educação Matemática.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de combinatória"
+ ],
+ "ids_duplicados": [
+  "40336901"
+ ]
 }

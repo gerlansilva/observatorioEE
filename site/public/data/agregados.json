@@ -4,10 +4,10 @@
     "inicio": 1984,
     "fim": 2024
   },
-  "instituicoes": 172,
+  "instituicoes": 137,
   "estados": 26,
   "regioes": 5,
-  "atualizado_em": "2026-10-20T20:33:06+00:00",
+  "atualizado_em": "2026-10-20T20:47:59+00:00",
   "por_ano": [
     {
       "ano": 1984,
@@ -520,52 +520,52 @@
   ],
   "top_instituicoes": [
     {
-      "nome": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
-      "total": 81
+      "nome": "Universidade Federal de Pernambuco",
+      "total": 103
     },
     {
       "nome": "Pontifícia Universidade Católica de São Paulo",
-      "total": 68
+      "total": 94
     },
     {
       "nome": "",
       "total": 49
     },
     {
-      "nome": "UNIVERSIDADE CRUZEIRO DO SUL",
-      "total": 33
+      "nome": "Universidade Cruzeiro do Sul",
+      "total": 42
     },
     {
-      "nome": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE SÃO PAULO",
+      "nome": "Universidade Federal do Rio Grande do Sul",
       "total": 26
     },
     {
-      "nome": "UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ",
-      "total": 25
+      "nome": "Universidade Tecnológica Federal do Paraná",
+      "total": 26
     },
     {
-      "nome": "UNIVERSIDADE ESTADUAL DE SANTA CRUZ",
+      "nome": "Universidade Estadual de Santa Cruz",
       "total": 23
     },
     {
-      "nome": "Universidade Federal de Pernambuco",
-      "total": 22
-    },
-    {
-      "nome": "UNIVERSIDADE FEDERAL DE JUIZ DE FORA",
+      "nome": "Universidade Federal de Juiz de Fora",
       "total": 21
     },
     {
-      "nome": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL",
-      "total": 20
-    },
-    {
       "nome": "Universidade Estadual de Campinas",
-      "total": 15
+      "total": 18
     },
     {
-      "nome": "UNIVERSIDADE FEDERAL DO RIO GRANDE",
-      "total": 13
+      "nome": "Universidade Anhanguera de São Paulo",
+      "total": 17
+    },
+    {
+      "nome": "Pontifícia Universidade Católica do Rio Grande do Sul",
+      "total": 16
+    },
+    {
+      "nome": "Pontifícia Universidade Católica de Minas Gerais",
+      "total": 15
     }
   ]
 }

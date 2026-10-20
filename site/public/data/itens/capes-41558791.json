@@ -1,57 +1,57 @@
 {
-  "id": "capes-41558791",
-  "autor": "Luciane Lage Pazito",
-  "ano": 2024,
-  "tipo": "Dissertação",
-  "titulo": "Alfabetização Estatística: O Uso de Material Paradidático nos Anos Iniciais em uma Escola de Comunidade do Rio de Janeiro",
-  "instituicao": "UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO",
-  "cidade": "",
-  "estado": "Rio de Janeiro",
-  "regiao": "Sudeste",
-  "orientador": "Gabriela Felix Briao",
-  "programa": "Ensino em Educação Básica",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Palavras-Chave: Educação Matemática, Letramento Estatístico, Anos iniciais, Ludicidade.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22ALFABETIZA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20O%20USO%20DE%20MATERIAL%20PARADID%C3%81TICO%20NOS%20ANOS%20INICIAIS%20EM%20UMA%20ESCOLA%20DE%20COMUNIDADE%20DO%20RIO%20DE%20JANEIRO%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ALFABETIZA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20O%20USO%20DE%20MATERIAL%20PARADID%C3%81TICO%20NOS%20ANOS%20INICIAIS%20EM%20UMA%20ESCOLA%20DE%20COMUNIDADE%20DO%20RIO%20DE%20JANEIRO&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41558791"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "41558791",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Palavras-Chave: Educação Matemática, Letramento Estatístico, Anos iniciais, Ludicidade."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-41558791.svg",
-  "resumo": "Esta pesquisa de mestrado profissional propôs o desenvolvimento e avaliação do uso de um material paradidático no Ensino de Matemática destinado a alunos do terceiro ano do Ensino Fundamental em uma escola municipal da cidade do Rio de Janeiro localizada em uma área conflagrada. A pesquisa foi submetida à Plataforma Brasil para validação e ao comitê de ética da Prefeitura do Rio de Janeiro e foi devidamente autorizada para o desenvolvimento neste cenário descrito. O produto educacional é um material paradidático interativo e lúdico no qual foi desenvolvida a coleta, organização, análise, interpretação e apresentação de dados estatísticos. A pesquisa aborda uma proposta interdisciplinar aliando conhecimentos estatísticos e o tratamento de resíduos sólidos (descarte e reaproveitamento do lixo). Foi elaborado em consonância com a proposta da Base Nacional Comum Curricular e os descritores que norteiam o ensino de estatística na prefeitura da cidade do Rio de Janeiro. De forma progressiva, o letramento estatístico inicia-se no primeiro ano escolar e desenvolve-se gradualmente nos anos seguintes. O objetivo geral desta pesquisa foi analisar o processo de construção de conceitos matemáticos e, em especial, de letramento estatístico, mediado pela tecnologia e o uso de material paradidático com estudantes do 3º ano do Ensino Fundamental de uma escola pública municipal localizada no morro da Mangueira na cidade do Rio de Janeiro. O material paradidático foi projetado em sua versão e-book para os alunos conhecerem a história da Turma da Manga. Após lhes foi entregue uma versão para colorir, na qual eles também realizariam a coleta dos dados da pesquisa entrevistando um membro da comunidade à sua escolha. Para a organização e apresentação dos dados foi utilizado um site AhaSlides que ao inserirmos os dados gera os gráficos automaticamente. Foi realizada uma análise dos resultados na qual as crianças questionaram a confiabilidade da pesquisa, o que permitiu abordar aspectos que impactam diretamente nisso e sobre como devemos compreender os resultados de outras pesquisas estatísticas. Com base nas devolutivas das crianças acreditamos que conseguimos contribuir para o desenvolvimento do pensamento crítico do uso da estatística e do tratamento do lixo para potencializar a sustentabilidade.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "letramento estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-41558791",
+ "autor": "Luciane Lage Pazito",
+ "ano": 2024,
+ "tipo": "Dissertação",
+ "titulo": "Alfabetização Estatística: O Uso de Material Paradidático nos Anos Iniciais em uma Escola de Comunidade do Rio de Janeiro",
+ "instituicao": "Universidade do Estado do Rio de Janeiro",
+ "cidade": "",
+ "estado": "Rio de Janeiro",
+ "regiao": "Sudeste",
+ "orientador": "Gabriela Felix Briao",
+ "programa": "Ensino em Educação Básica",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Palavras-Chave: Educação Matemática, Letramento Estatístico, Anos iniciais, Ludicidade.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22ALFABETIZA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20O%20USO%20DE%20MATERIAL%20PARADID%C3%81TICO%20NOS%20ANOS%20INICIAIS%20EM%20UMA%20ESCOLA%20DE%20COMUNIDADE%20DO%20RIO%20DE%20JANEIRO%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ALFABETIZA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20O%20USO%20DE%20MATERIAL%20PARADID%C3%81TICO%20NOS%20ANOS%20INICIAIS%20EM%20UMA%20ESCOLA%20DE%20COMUNIDADE%20DO%20RIO%20DE%20JANEIRO&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41558791"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "41558791",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Palavras-Chave: Educação Matemática, Letramento Estatístico, Anos iniciais, Ludicidade."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-41558791.svg",
+ "resumo": "Esta pesquisa de mestrado profissional propôs o desenvolvimento e avaliação do uso de um material paradidático no Ensino de Matemática destinado a alunos do terceiro ano do Ensino Fundamental em uma escola municipal da cidade do Rio de Janeiro localizada em uma área conflagrada. A pesquisa foi submetida à Plataforma Brasil para validação e ao comitê de ética da Prefeitura do Rio de Janeiro e foi devidamente autorizada para o desenvolvimento neste cenário descrito. O produto educacional é um material paradidático interativo e lúdico no qual foi desenvolvida a coleta, organização, análise, interpretação e apresentação de dados estatísticos. A pesquisa aborda uma proposta interdisciplinar aliando conhecimentos estatísticos e o tratamento de resíduos sólidos (descarte e reaproveitamento do lixo). Foi elaborado em consonância com a proposta da Base Nacional Comum Curricular e os descritores que norteiam o ensino de estatística na prefeitura da cidade do Rio de Janeiro. De forma progressiva, o letramento estatístico inicia-se no primeiro ano escolar e desenvolve-se gradualmente nos anos seguintes. O objetivo geral desta pesquisa foi analisar o processo de construção de conceitos matemáticos e, em especial, de letramento estatístico, mediado pela tecnologia e o uso de material paradidático com estudantes do 3º ano do Ensino Fundamental de uma escola pública municipal localizada no morro da Mangueira na cidade do Rio de Janeiro. O material paradidático foi projetado em sua versão e-book para os alunos conhecerem a história da Turma da Manga. Após lhes foi entregue uma versão para colorir, na qual eles também realizariam a coleta dos dados da pesquisa entrevistando um membro da comunidade à sua escolha. Para a organização e apresentação dos dados foi utilizado um site AhaSlides que ao inserirmos os dados gera os gráficos automaticamente. Foi realizada uma análise dos resultados na qual as crianças questionaram a confiabilidade da pesquisa, o que permitiu abordar aspectos que impactam diretamente nisso e sobre como devemos compreender os resultados de outras pesquisas estatísticas. Com base nas devolutivas das crianças acreditamos que conseguimos contribuir para o desenvolvimento do pensamento crítico do uso da estatística e do tratamento do lixo para potencializar a sustentabilidade.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "letramento estatístico"
+ ],
+ "ids_duplicados": []
 }

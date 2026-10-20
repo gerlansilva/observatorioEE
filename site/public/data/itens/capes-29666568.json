@@ -1,54 +1,54 @@
 {
-  "id": "capes-29666568",
-  "autor": "Roberta de Cassia dos Anjos",
-  "ano": 2017,
-  "tipo": "Dissertação",
-  "titulo": "Um estudo sobre a abordagem dos conteúdos estocásticos na Educação Básica no Brasil sob a ótica da Teoria Antropológica do Didático",
-  "instituicao": "UNIVERSIDADE FEDERAL DO TRIÂNGULO MINEIRO",
-  "cidade": "",
-  "estado": "Minas Gerais",
-  "regiao": "Sudeste",
-  "orientador": "Ailton Paulo de Oliveira Junior",
-  "programa": "Educação",
-  "area": "Educação",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Ensino de Estocástica. Educação Básica. Teoria Antropológica do Didático. Documentos curriculares nacionais.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Um%20estudo%20sobre%20a%20abordagem%20dos%20conte%C3%BAdos%20estoc%C3%A1sticos%20na%20Educa%C3%A7%C3%A3o%20B%C3%A1sica%20no%20Brasil%20sob%20a%20%C3%B3tica%20da%20Teoria%20Antropol%C3%B3gica%20do%20Did%C3%A1tico%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Um%20estudo%20sobre%20a%20abordagem%20dos%20conte%C3%BAdos%20estoc%C3%A1sticos%20na%20Educa%C3%A7%C3%A3o%20B%C3%A1sica%20no%20Brasil%20sob%20a%20%C3%B3tica%20da%20Teoria%20Antropol%C3%B3gica%20do%20Did%C3%A1tico&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29666568"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "29666568",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Ensino de Estocástica. Educação Básica. Teoria Antropológica do Didático. Documentos curriculares nacionais."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-29666568.svg",
-  "resumo": "Vivemos em um mundo estocastizado do ponto de vista da incerteza, ou sorte, ou probabilidade. O termo ―Estocástica‖ no Brasil tem sido utilizado com frequência por diversos pesquisadores do ensino de Estatística, Probabilidade e Combinatória referindo-se à interconexão entre os conceitos combinatório, probabilístico e estatístico. Existe uma real carência de pesquisas sobre o tema ―Estocástica‖ por várias razões; uma delas seria a formação de um ciclo em que a disciplina Estatística encontra-se cada vez menos valorizada. A questão orientadora da investigação foi a seguinte: ―Quais as relações que podemos estabelecer entre os documentos públicos norteadores da educação brasileira do Ensino Fundamental, voltados para os alunos e professores, considerando o Ensino de Estocástica na Educação Básica?‖. Assim, o objetivo desse trabalho foi determinar as relações estabelecidas entre os documentos de orientações curriculares no Brasil em nível nacional, estadual e municipal, voltados para os alunos e professores, pensando o Ensino de Estocástica na Educação Básica, especificamente no Ensino Fundamental. A base teórica fundamentou-se na Teoria Antropológica do Didático (TAD) e sua perspectiva Ecológica. Por hipótese, formulamos o ecossistema do Ensino de Estocástica na Educação Básica e, nesta análise, consideramos o documento GAISE – Guidelines for Assessment and Instruction in Statistics Education (FRANKLIN et al., 2005) para o Ensino de Estatística. Para o alcance da proposta, ponderamos aspectos inerentes a determinado saber estocástico, dentre eles, aspectos sociais, ambientais, políticos e econômicos. Dessa forma, consideramos a análise da tríade objeto-pessoa-instituição de acordo com a Teoria Antropológica do Didático (TAD), tendo como base a antecipação da variabilidade para a compreensão e uma boa formulação da questão estatística. Os resultados apontaram que os documentos curriculares, Parâmetros Curriculares Nacionais (PCN) e a Base Nacional Comum Curricular - BNCC (Instituição – I) apostam mais na questão das habilidades, ou seja, a aplicação prática de uma determinada competência para resolver uma determinada situação, sendo que alguns são mais conteudistas, como o Conteúdo Básico Curricular do Estado de Minas Gerais (CBC) e as Diretrizes Curriculares Municipais de Uberaba. Além disso, entendemos que os documentos apresentam elementos importantes para um ensino de Estocástica por meio da contextualização e da Resolução de Problemas. Em contrapartida, não potencializam o ensino de Estocástica de forma adequada, pois não abordam situações reais vivenciadas pelos alunos, ou seja, não avaliam suas origens, suas experiências e que o ensino e a aprendizagem não fazem sentido para esses estudantes. Há um norteamento isolado quanto ao ensino de Estatística, Probabilidade e Análise Combinatória, não havendo a percepção de que estes conteúdos, na solução de problemas do cotidiano, devem ser considerados e utilizados de acordo com as necessidades das soluções, convergindo então para o ensino da Estocástica. Sendo assim, tomando-se por base essas lacunas, acreditamos em uma expectativa da inclusão da Educação Estocástica nos currículos de formação de professores de Matemática e na elaboração de documentos curriculares voltados para a Educação Básica, de modo que realmente oriente o docente que ensina Estocástica, tanto metodologicamente quanto na prática, em conjunto com professores, pesquisadores, órgãos Estaduais, Municipais e Federais, baseados em pesquisas educacionais.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": null
+ "id": "capes-29666568",
+ "autor": "Roberta de Cassia dos Anjos",
+ "ano": 2017,
+ "tipo": "Dissertação",
+ "titulo": "Um estudo sobre a abordagem dos conteúdos estocásticos na Educação Básica no Brasil sob a ótica da Teoria Antropológica do Didático",
+ "instituicao": "Universidade Federal do Triângulo Mineiro",
+ "cidade": "",
+ "estado": "Minas Gerais",
+ "regiao": "Sudeste",
+ "orientador": "Ailton Paulo de Oliveira Junior",
+ "programa": "Educação",
+ "area": "Educação",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Ensino de Estocástica. Educação Básica. Teoria Antropológica do Didático. Documentos curriculares nacionais.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Um%20estudo%20sobre%20a%20abordagem%20dos%20conte%C3%BAdos%20estoc%C3%A1sticos%20na%20Educa%C3%A7%C3%A3o%20B%C3%A1sica%20no%20Brasil%20sob%20a%20%C3%B3tica%20da%20Teoria%20Antropol%C3%B3gica%20do%20Did%C3%A1tico%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Um%20estudo%20sobre%20a%20abordagem%20dos%20conte%C3%BAdos%20estoc%C3%A1sticos%20na%20Educa%C3%A7%C3%A3o%20B%C3%A1sica%20no%20Brasil%20sob%20a%20%C3%B3tica%20da%20Teoria%20Antropol%C3%B3gica%20do%20Did%C3%A1tico&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29666568"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "29666568",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Ensino de Estocástica. Educação Básica. Teoria Antropológica do Didático. Documentos curriculares nacionais."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-29666568.svg",
+ "resumo": "Vivemos em um mundo estocastizado do ponto de vista da incerteza, ou sorte, ou probabilidade. O termo ―Estocástica‖ no Brasil tem sido utilizado com frequência por diversos pesquisadores do ensino de Estatística, Probabilidade e Combinatória referindo-se à interconexão entre os conceitos combinatório, probabilístico e estatístico. Existe uma real carência de pesquisas sobre o tema ―Estocástica‖ por várias razões; uma delas seria a formação de um ciclo em que a disciplina Estatística encontra-se cada vez menos valorizada. A questão orientadora da investigação foi a seguinte: ―Quais as relações que podemos estabelecer entre os documentos públicos norteadores da educação brasileira do Ensino Fundamental, voltados para os alunos e professores, considerando o Ensino de Estocástica na Educação Básica?‖. Assim, o objetivo desse trabalho foi determinar as relações estabelecidas entre os documentos de orientações curriculares no Brasil em nível nacional, estadual e municipal, voltados para os alunos e professores, pensando o Ensino de Estocástica na Educação Básica, especificamente no Ensino Fundamental. A base teórica fundamentou-se na Teoria Antropológica do Didático (TAD) e sua perspectiva Ecológica. Por hipótese, formulamos o ecossistema do Ensino de Estocástica na Educação Básica e, nesta análise, consideramos o documento GAISE – Guidelines for Assessment and Instruction in Statistics Education (FRANKLIN et al., 2005) para o Ensino de Estatística. Para o alcance da proposta, ponderamos aspectos inerentes a determinado saber estocástico, dentre eles, aspectos sociais, ambientais, políticos e econômicos. Dessa forma, consideramos a análise da tríade objeto-pessoa-instituição de acordo com a Teoria Antropológica do Didático (TAD), tendo como base a antecipação da variabilidade para a compreensão e uma boa formulação da questão estatística. Os resultados apontaram que os documentos curriculares, Parâmetros Curriculares Nacionais (PCN) e a Base Nacional Comum Curricular - BNCC (Instituição – I) apostam mais na questão das habilidades, ou seja, a aplicação prática de uma determinada competência para resolver uma determinada situação, sendo que alguns são mais conteudistas, como o Conteúdo Básico Curricular do Estado de Minas Gerais (CBC) e as Diretrizes Curriculares Municipais de Uberaba. Além disso, entendemos que os documentos apresentam elementos importantes para um ensino de Estocástica por meio da contextualização e da Resolução de Problemas. Em contrapartida, não potencializam o ensino de Estocástica de forma adequada, pois não abordam situações reais vivenciadas pelos alunos, ou seja, não avaliam suas origens, suas experiências e que o ensino e a aprendizagem não fazem sentido para esses estudantes. Há um norteamento isolado quanto ao ensino de Estatística, Probabilidade e Análise Combinatória, não havendo a percepção de que estes conteúdos, na solução de problemas do cotidiano, devem ser considerados e utilizados de acordo com as necessidades das soluções, convergindo então para o ensino da Estocástica. Sendo assim, tomando-se por base essas lacunas, acreditamos em uma expectativa da inclusão da Educação Estocástica nos currículos de formação de professores de Matemática e na elaboração de documentos curriculares voltados para a Educação Básica, de modo que realmente oriente o docente que ensina Estocástica, tanto metodologicamente quanto na prática, em conjunto com professores, pesquisadores, órgãos Estaduais, Municipais e Federais, baseados em pesquisas educacionais.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": null
 }

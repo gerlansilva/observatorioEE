@@ -1,60 +1,60 @@
 {
-  "id": "capes-24976569",
-  "autor": "Jean Paixao Oliveira",
-  "ano": 2018,
-  "tipo": "Dissertação",
-  "titulo": "APRENDIZAGEM EM ESTATÍSTICA NUMA PERSPECTIVA TRANSDISCIPLINAR: uma possibilidade?",
-  "instituicao": "UNIVERSIDADE ESTADUAL DE SANTA CRUZ",
-  "cidade": "",
-  "estado": "Bahia",
-  "regiao": "Nordeste",
-  "orientador": "Eurivalda Ribeiro dos Santos Santana",
-  "programa": "Educação Matemática",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Aprendizagem em Estatística; Sequência de Ensino; Transdisciplinaridade; Medidas de tendência central",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22APRENDIZAGEM%20EM%20ESTAT%C3%8DSTICA%20NUMA%20PERSPECTIVA%20TRANSDISCIPLINAR%3A%20uma%20possibilidade%3F%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=APRENDIZAGEM%20EM%20ESTAT%C3%8DSTICA%20NUMA%20PERSPECTIVA%20TRANSDISCIPLINAR%3A%20uma%20possibilidade%3F&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/24976569"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "24976569",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Aprendizagem em Estatística",
-    "Sequência de Ensino",
-    "Transdisciplinaridade",
-    "Medidas de tendência central"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-24976569.svg",
-  "resumo": "A presente pesquisa teve como objetivo analisar as possíveis contribuições de uma sequência de ensino baseada na perspectiva transdisciplinar, para a aprendizagem de estudantes do 9º ano no que tange às medidas de tendência central e à metodologia transdisciplinar. Foi usado o tema integrador – poluição dos rios e preservação da água para a vida no planeta – no ensino dos conceitos de média, moda e mediana. Os participantes da pesquisa foram 21 estudantes do 9º ano de uma escola pública situada no vale do Jiquiriçá, na Bahia. A professora de Matemática forneceu elementos da prática pedagógica desenvolvida nas suas aulas. Os estudantes foram convidados a participar da intervenção de ensino, na qual foram discutidos os conceitos das medidas de tendência central. A professora participou respondendo a uma entrevista semiestruturada. Esta pesquisa mostra as contribuições de uma Sequência de Ensino, baseada na perspectiva transdisciplinar, para a aprendizagem de conceitos estatísticos. Nosso estudo teve uma abordagem qualitativa e justifica-se pelos questionamentos dos pesquisadores acerca do ensino de Estatística em abordagens não disciplinares e por compreendermos que a fragmentação do saber limita o entendimento da realidade para o aluno, não lhe possibilitando o reconhecimento de problemas sociais que surgem diariamente no nosso mundo, além disso, destacamos a necessidade de práticas de uma ética da e para a vida, praticar atividades que desenvolvam as dimensões corporais, emocionais e cognitivas. Os resultados indicam que, ao longo do processo, os estudantes passam a apresentar um discurso com maior compreensão a respeito do tema “água” e da preservação ambiental, refletindo sobre os problemas causados pelo desperdício da água em nível local e global. No que se refere aos conceitos estatísticos trabalhados na Sequência de Ensino, esses foram abordados de forma correta pela maioria dos estudantes. Concluímos, então, que o trabalho com a Transdisciplinaridade possibilitou aos estudantes uma maior compreensão do mundo presente, o respeito ao outro e ao meio ambiente e uma aprendizagem com significado no tocante aos conteúdos disciplinares abordados na Sequência.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-24976569",
+ "autor": "Jean Paixao Oliveira",
+ "ano": 2018,
+ "tipo": "Dissertação",
+ "titulo": "APRENDIZAGEM EM ESTATÍSTICA NUMA PERSPECTIVA TRANSDISCIPLINAR: uma possibilidade?",
+ "instituicao": "Universidade Estadual de Santa Cruz",
+ "cidade": "",
+ "estado": "Bahia",
+ "regiao": "Nordeste",
+ "orientador": "Eurivalda Ribeiro dos Santos Santana",
+ "programa": "Educação Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Aprendizagem em Estatística; Sequência de Ensino; Transdisciplinaridade; Medidas de tendência central",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22APRENDIZAGEM%20EM%20ESTAT%C3%8DSTICA%20NUMA%20PERSPECTIVA%20TRANSDISCIPLINAR%3A%20uma%20possibilidade%3F%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=APRENDIZAGEM%20EM%20ESTAT%C3%8DSTICA%20NUMA%20PERSPECTIVA%20TRANSDISCIPLINAR%3A%20uma%20possibilidade%3F&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/24976569"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "24976569",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Aprendizagem em Estatística",
+  "Sequência de Ensino",
+  "Transdisciplinaridade",
+  "Medidas de tendência central"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-24976569.svg",
+ "resumo": "A presente pesquisa teve como objetivo analisar as possíveis contribuições de uma sequência de ensino baseada na perspectiva transdisciplinar, para a aprendizagem de estudantes do 9º ano no que tange às medidas de tendência central e à metodologia transdisciplinar. Foi usado o tema integrador – poluição dos rios e preservação da água para a vida no planeta – no ensino dos conceitos de média, moda e mediana. Os participantes da pesquisa foram 21 estudantes do 9º ano de uma escola pública situada no vale do Jiquiriçá, na Bahia. A professora de Matemática forneceu elementos da prática pedagógica desenvolvida nas suas aulas. Os estudantes foram convidados a participar da intervenção de ensino, na qual foram discutidos os conceitos das medidas de tendência central. A professora participou respondendo a uma entrevista semiestruturada. Esta pesquisa mostra as contribuições de uma Sequência de Ensino, baseada na perspectiva transdisciplinar, para a aprendizagem de conceitos estatísticos. Nosso estudo teve uma abordagem qualitativa e justifica-se pelos questionamentos dos pesquisadores acerca do ensino de Estatística em abordagens não disciplinares e por compreendermos que a fragmentação do saber limita o entendimento da realidade para o aluno, não lhe possibilitando o reconhecimento de problemas sociais que surgem diariamente no nosso mundo, além disso, destacamos a necessidade de práticas de uma ética da e para a vida, praticar atividades que desenvolvam as dimensões corporais, emocionais e cognitivas. Os resultados indicam que, ao longo do processo, os estudantes passam a apresentar um discurso com maior compreensão a respeito do tema “água” e da preservação ambiental, refletindo sobre os problemas causados pelo desperdício da água em nível local e global. No que se refere aos conceitos estatísticos trabalhados na Sequência de Ensino, esses foram abordados de forma correta pela maioria dos estudantes. Concluímos, então, que o trabalho com a Transdisciplinaridade possibilitou aos estudantes uma maior compreensão do mundo presente, o respeito ao outro e ao meio ambiente e uma aprendizagem com significado no tocante aos conteúdos disciplinares abordados na Sequência.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

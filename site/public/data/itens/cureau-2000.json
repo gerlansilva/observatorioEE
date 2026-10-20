@@ -1,54 +1,54 @@
 {
-  "id": "cureau-2000",
-  "autor": "Denise Cureau Miechuanski",
-  "ano": 2000,
-  "tipo": "Dissertação",
-  "titulo": "O ensino da estatística através de recursos tecnológicos",
-  "instituicao": "Universidade Estadual do Centro-Oeste (UNICENTRO)",
-  "cidade": "",
-  "estado": "Paraná",
-  "regiao": "Sul",
-  "orientador": "Dionisio Burak",
-  "programa": "Mestrado em Educação",
-  "area": "Educação",
-  "nivel_codigo": "",
-  "nivel": "Não informado",
-  "foco_codigo": "",
-  "foco": "Não informado",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "Estatística",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22O+ensino+da+estat%C3%ADstica+atrav%C3%A9s+de+recursos+tecnol%C3%B3gicos%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+ensino+da+estat%C3%ADstica+atrav%C3%A9s+de+recursos+tecnol%C3%B3gicos&type=AllFields"
-  },
-  "capes": {
-    "status": "baixa_confianca",
-    "score": 0.496,
-    "candidato": "https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=10653218",
-    "consultado_em": "2026-10-17"
-  },
-  "autor_planilha": "CUREAU, D.",
-  "orientador_planilha": "Anselmo Chaves Neto",
-  "instituicao_agente": "Universidade Estadual do Centro-Oeste (UNICENTRO)",
-  "programa_agente": "Mestrado em Educação",
-  "enriquecimento_manual": {
-    "fonte": "Currículo Lattes de Dionisio Burak (via Escavador), seção 'Orientações concluídas'",
-    "confianca": "media",
-    "observacao": "O Lattes do orientador registra: 'Denise Cureau Miechuanski — O Ensino da Estatística através de recursos tecnológicos; 2000; Dissertação (Mestrado em Educação) — Universidade Estadual do Centro-Oeste; Orientador: Dionisio Burak'. A instituição 'Faculdades Integradas de Palmas' indicada no registro original não confere com a fonte; provavelmente refere-se à instituição de vínculo profissional da autora. Não localizado no Catálogo CAPES nem em repositório digital."
-  },
-  "instituicao_planilha": "Faculdades Integradas de Palmas",
-  "programa_planilha": "Educação",
-  "bdtd_api": {
-    "status": "nao_encontrado",
-    "score": 0.538
-  },
-  "tags": [],
-  "thumbnail": "./assets/images/thumbs/cureau-2000.svg"
+ "id": "cureau-2000",
+ "autor": "Denise Cureau Miechuanski",
+ "ano": 2000,
+ "tipo": "Dissertação",
+ "titulo": "O ensino da estatística através de recursos tecnológicos",
+ "instituicao": "Universidade Estadual do Centro-Oeste (Unicentro)",
+ "cidade": "",
+ "estado": "Paraná",
+ "regiao": "Sul",
+ "orientador": "Dionisio Burak",
+ "programa": "Mestrado em Educação",
+ "area": "Educação",
+ "nivel_codigo": "",
+ "nivel": "Não informado",
+ "foco_codigo": "",
+ "foco": "Não informado",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "Estatística",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22O+ensino+da+estat%C3%ADstica+atrav%C3%A9s+de+recursos+tecnol%C3%B3gicos%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+ensino+da+estat%C3%ADstica+atrav%C3%A9s+de+recursos+tecnol%C3%B3gicos&type=AllFields"
+ },
+ "capes": {
+  "status": "baixa_confianca",
+  "score": 0.496,
+  "candidato": "https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=10653218",
+  "consultado_em": "2026-10-17"
+ },
+ "autor_planilha": "CUREAU, D.",
+ "orientador_planilha": "Anselmo Chaves Neto",
+ "instituicao_agente": "Universidade Estadual do Centro-Oeste (UNICENTRO)",
+ "programa_agente": "Mestrado em Educação",
+ "enriquecimento_manual": {
+  "fonte": "Currículo Lattes de Dionisio Burak (via Escavador), seção 'Orientações concluídas'",
+  "confianca": "media",
+  "observacao": "O Lattes do orientador registra: 'Denise Cureau Miechuanski — O Ensino da Estatística através de recursos tecnológicos; 2000; Dissertação (Mestrado em Educação) — Universidade Estadual do Centro-Oeste; Orientador: Dionisio Burak'. A instituição 'Faculdades Integradas de Palmas' indicada no registro original não confere com a fonte; provavelmente refere-se à instituição de vínculo profissional da autora. Não localizado no Catálogo CAPES nem em repositório digital."
+ },
+ "instituicao_planilha": "Faculdades Integradas de Palmas",
+ "programa_planilha": "Educação",
+ "bdtd_api": {
+  "status": "nao_encontrado",
+  "score": 0.538
+ },
+ "tags": [],
+ "thumbnail": "./assets/images/thumbs/cureau-2000.svg"
 }

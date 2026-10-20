@@ -1,59 +1,59 @@
 {
-  "id": "capes-37245039",
-  "autor": "Allanderson Leander Souza da Luz",
-  "ano": 2022,
-  "tipo": "Dissertação",
-  "titulo": "Letramento Estatístico por Meio do Trabalho com Projetos à Luz da Educação Matemática Crítica",
-  "instituicao": "UNIVERSIDADE FEDERAL DO RECÔNCAVO DA BAHIA",
-  "cidade": "",
-  "estado": "Bahia",
-  "regiao": "Nordeste",
-  "orientador": "Ana Virginia de Almeida Luna",
-  "programa": "EDUCAÇÃO CIENTÍFICA, INCLUSÃO E DIVERSIDADE",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Letramento Estatístico. Trabalho com Projetos. Educação Matemática Crítica.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20ESTAT%C3%8DSTICO%20POR%20MEIO%20DO%20TRABALHO%20COM%20PROJETOS%20%C3%80%20LUZ%20DA%20EDUCA%C3%87%C3%83O%20MATEM%C3%81TICA%20CR%C3%8DTICA%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20ESTAT%C3%8DSTICO%20POR%20MEIO%20DO%20TRABALHO%20COM%20PROJETOS%20%C3%80%20LUZ%20DA%20EDUCA%C3%87%C3%83O%20MATEM%C3%81TICA%20CR%C3%8DTICA&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37245039"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "37245039",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Letramento Estatístico. Trabalho com Projetos. Educação Matemática Crítica."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-37245039.svg",
-  "resumo": "A pesquisa teve por objetivo analisar como a Educação Estatística tem sido abordada no 9o ano do Ensino Fundamental de uma escola pública estadual de Feira de Santana – BA, com vistas à elaboração de um livro sobre Trabalho com Projetos na perspectiva do desenvolvimento do Letramento Estatístico à luz da Educação Matemática Crítica. Para fundamentá-la, apoiamo-nos nos referenciais teóricos sobre o Letramento Estatístico e sobre a Educação Matemática Crítica, particularmente, sobre os conceitos de Ambientes de Aprendizagem e Trabalhos com Projeto. Para produzir os dados, realizamos uma entrevista semiestruturada com docentes de Matemática de duas turmas do 9o ano da escola selecionada, com a finalidade de compreender o que pensam sobre ensino de Estatística. Em seguida, analisamos o livro didático de Matemática utilizado por essas turmas, identificando quais atividades podem ser utilizadas em um Trabalho com Projetos a partir dos diferentes tipos de Ambientes de Aprendizagem. Assim surgiu o produto desta pesquisa, que é um livro trazendo as principais etapas para elaboração de um Trabalho com Projetos, contendo sugestões de materiais para este tipo de atividade e envolvendo o ensino de conceitos estatísticos e temas sociopolíticos, com foco em temas que sejam do interesse de estudantes. Consideramos que desenvolver Trabalho com Projetos na perspectiva do Letramento Estatístico pode favorecer o protagonismo de estudantes nas aulas de Matemática e proporcionar o domínio de conteúdos estatísticos presentes na vida cotidiana, bem como estabelecer relações sociais e políticas em defesa de uma sociedade justa.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "letramento estatístico"
-  ],
-  "ids_duplicados": [
-    "40812490"
-  ]
+ "id": "capes-37245039",
+ "autor": "Allanderson Leander Souza da Luz",
+ "ano": 2022,
+ "tipo": "Dissertação",
+ "titulo": "Letramento Estatístico por Meio do Trabalho com Projetos à Luz da Educação Matemática Crítica",
+ "instituicao": "Universidade Federal do Recôncavo da Bahia",
+ "cidade": "",
+ "estado": "Bahia",
+ "regiao": "Nordeste",
+ "orientador": "Ana Virginia de Almeida Luna",
+ "programa": "EDUCAÇÃO CIENTÍFICA, INCLUSÃO E DIVERSIDADE",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Letramento Estatístico. Trabalho com Projetos. Educação Matemática Crítica.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20ESTAT%C3%8DSTICO%20POR%20MEIO%20DO%20TRABALHO%20COM%20PROJETOS%20%C3%80%20LUZ%20DA%20EDUCA%C3%87%C3%83O%20MATEM%C3%81TICA%20CR%C3%8DTICA%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20ESTAT%C3%8DSTICO%20POR%20MEIO%20DO%20TRABALHO%20COM%20PROJETOS%20%C3%80%20LUZ%20DA%20EDUCA%C3%87%C3%83O%20MATEM%C3%81TICA%20CR%C3%8DTICA&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37245039"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "37245039",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Letramento Estatístico. Trabalho com Projetos. Educação Matemática Crítica."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-37245039.svg",
+ "resumo": "A pesquisa teve por objetivo analisar como a Educação Estatística tem sido abordada no 9o ano do Ensino Fundamental de uma escola pública estadual de Feira de Santana – BA, com vistas à elaboração de um livro sobre Trabalho com Projetos na perspectiva do desenvolvimento do Letramento Estatístico à luz da Educação Matemática Crítica. Para fundamentá-la, apoiamo-nos nos referenciais teóricos sobre o Letramento Estatístico e sobre a Educação Matemática Crítica, particularmente, sobre os conceitos de Ambientes de Aprendizagem e Trabalhos com Projeto. Para produzir os dados, realizamos uma entrevista semiestruturada com docentes de Matemática de duas turmas do 9o ano da escola selecionada, com a finalidade de compreender o que pensam sobre ensino de Estatística. Em seguida, analisamos o livro didático de Matemática utilizado por essas turmas, identificando quais atividades podem ser utilizadas em um Trabalho com Projetos a partir dos diferentes tipos de Ambientes de Aprendizagem. Assim surgiu o produto desta pesquisa, que é um livro trazendo as principais etapas para elaboração de um Trabalho com Projetos, contendo sugestões de materiais para este tipo de atividade e envolvendo o ensino de conceitos estatísticos e temas sociopolíticos, com foco em temas que sejam do interesse de estudantes. Consideramos que desenvolver Trabalho com Projetos na perspectiva do Letramento Estatístico pode favorecer o protagonismo de estudantes nas aulas de Matemática e proporcionar o domínio de conteúdos estatísticos presentes na vida cotidiana, bem como estabelecer relações sociais e políticas em defesa de uma sociedade justa.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "letramento estatístico"
+ ],
+ "ids_duplicados": [
+  "40812490"
+ ]
 }

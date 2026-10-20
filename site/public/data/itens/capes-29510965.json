@@ -1,58 +1,58 @@
 {
-  "id": "capes-29510965",
-  "autor": "Sandra Paula Almeida Nascimento",
-  "ano": 2019,
-  "tipo": "Dissertação",
-  "titulo": "Desenvolvimento Profissional em Educação Estatística de uma Educadora Matemática",
-  "instituicao": "UNIVERSIDADE ESTADUAL DE SANTA CRUZ",
-  "cidade": "",
-  "estado": "Bahia",
-  "regiao": "Nordeste",
-  "orientador": "Eurivalda Ribeiro dos Santos Santana",
-  "programa": "Educação em Ciências e Matemática",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Desenvolvimento Profissional do Professor, Educação Estatística, Sequência de ensino, Práticas docentes.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Desenvolvimento%20Profissional%20em%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20de%20uma%20Educadora%20Matem%C3%A1tica%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Desenvolvimento%20Profissional%20em%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20de%20uma%20Educadora%20Matem%C3%A1tica&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29510965"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "29510965",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Desenvolvimento Profissional do Professor, Educação Estatística, Sequência de ensino, Práticas docentes."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-29510965.svg",
-  "resumo": "Nos últimos anos, a retórica presente, nos meios profissionais e acadêmicos, é o discurso de que é preciso mudar as práticas dos professores e reconstruir seus conhecimentos, para atender às necessidades da nova sociedade. Para isso, tem que se fazer mudança, o professor precisa então rever, ampliar seus conhecimentos, e, consequentemente, crescer e se desenvolver enquanto profissional. Sendo assim, o objetivo desta pesquisa é analisar o processo de formação de um professor dos anos iniciais em uma construção colaborativa sobre atividade de Educação Estatística, no que pode se reverberar para o desenvolvimento profissional. Uma pesquisa de abordagem qualitativa de caráter descritiva, realizada em uma escola pública da rede municipal de ensino do interior da Bahia e teve como participante uma professora que lecionava no 3º ano do ensino fundamental. Os instrumentos para coleta e produção do material da pesquisa foram: os instrumentos de perfil do professor e diagnóstico sobre os conhecimentos Estatístico, diário de bordo do pesquisador, os vídeos e as audiogravações das observações nas aulas de Matemática e dos encontros do processo formativo. Para atender a esse objetivo, foram realizados sete encontros formativos e desenvolvidas duas sequências de ensino, construídas de forma colaborativa em um projeto de parceria Universidade com Escola Pública. As sequências de ensino foram planejadas e desenvolvidas seguindo os passos do ciclo investigativo, no qual se trabalhou os conceitos de moda, gráfico e tabela. Diante do material empírico produzido, os dados foram analisados a partir da triangulação - o referencial teórico, os dados empíricos – as narrativas, as análises das reflexões individuais da professora Sofia e as realizadas dentro do grupo colaborativo D-Estat. A partir das ações desenvolvidas dentro do grupo colaborativo, os resultados apresentados nesta pesquisa indicam, por meio das reflexões realizadas individualmente e no grupo, e das experiências de aprendizagem vivenciadas na construção colaborativa das sequências de ensino, novas práticas de ensino, sendo possível perceber o progresso no que diz respeito aos conhecimentos pedagógico e do conteúdo, bem como os indícios de mudanças nas ações dos professores e, em especial, da professora pesquisada no contexto escolar, e, consequentemente, o desenvolvimento profissional da professora",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-29510965",
+ "autor": "Sandra Paula Almeida Nascimento",
+ "ano": 2019,
+ "tipo": "Dissertação",
+ "titulo": "Desenvolvimento Profissional em Educação Estatística de uma Educadora Matemática",
+ "instituicao": "Universidade Estadual de Santa Cruz",
+ "cidade": "",
+ "estado": "Bahia",
+ "regiao": "Nordeste",
+ "orientador": "Eurivalda Ribeiro dos Santos Santana",
+ "programa": "Educação em Ciências e Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Desenvolvimento Profissional do Professor, Educação Estatística, Sequência de ensino, Práticas docentes.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Desenvolvimento%20Profissional%20em%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20de%20uma%20Educadora%20Matem%C3%A1tica%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Desenvolvimento%20Profissional%20em%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20de%20uma%20Educadora%20Matem%C3%A1tica&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29510965"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "29510965",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Desenvolvimento Profissional do Professor, Educação Estatística, Sequência de ensino, Práticas docentes."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-29510965.svg",
+ "resumo": "Nos últimos anos, a retórica presente, nos meios profissionais e acadêmicos, é o discurso de que é preciso mudar as práticas dos professores e reconstruir seus conhecimentos, para atender às necessidades da nova sociedade. Para isso, tem que se fazer mudança, o professor precisa então rever, ampliar seus conhecimentos, e, consequentemente, crescer e se desenvolver enquanto profissional. Sendo assim, o objetivo desta pesquisa é analisar o processo de formação de um professor dos anos iniciais em uma construção colaborativa sobre atividade de Educação Estatística, no que pode se reverberar para o desenvolvimento profissional. Uma pesquisa de abordagem qualitativa de caráter descritiva, realizada em uma escola pública da rede municipal de ensino do interior da Bahia e teve como participante uma professora que lecionava no 3º ano do ensino fundamental. Os instrumentos para coleta e produção do material da pesquisa foram: os instrumentos de perfil do professor e diagnóstico sobre os conhecimentos Estatístico, diário de bordo do pesquisador, os vídeos e as audiogravações das observações nas aulas de Matemática e dos encontros do processo formativo. Para atender a esse objetivo, foram realizados sete encontros formativos e desenvolvidas duas sequências de ensino, construídas de forma colaborativa em um projeto de parceria Universidade com Escola Pública. As sequências de ensino foram planejadas e desenvolvidas seguindo os passos do ciclo investigativo, no qual se trabalhou os conceitos de moda, gráfico e tabela. Diante do material empírico produzido, os dados foram analisados a partir da triangulação - o referencial teórico, os dados empíricos – as narrativas, as análises das reflexões individuais da professora Sofia e as realizadas dentro do grupo colaborativo D-Estat. A partir das ações desenvolvidas dentro do grupo colaborativo, os resultados apresentados nesta pesquisa indicam, por meio das reflexões realizadas individualmente e no grupo, e das experiências de aprendizagem vivenciadas na construção colaborativa das sequências de ensino, novas práticas de ensino, sendo possível perceber o progresso no que diz respeito aos conhecimentos pedagógico e do conteúdo, bem como os indícios de mudanças nas ações dos professores e, em especial, da professora pesquisada no contexto escolar, e, consequentemente, o desenvolvimento profissional da professora",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

@@ -1,59 +1,59 @@
 {
-  "id": "capes-28251449",
-  "autor": "Nelson Antonio da Silva",
-  "ano": 2018,
-  "tipo": "Dissertação",
-  "titulo": "Níveis de Letramento Estatístico em um Curso de Formação Continuada",
-  "instituicao": "UNIVERSIDADE PITÁGORAS UNOPAR",
-  "cidade": "",
-  "estado": "Paraná",
-  "regiao": "Sul",
-  "orientador": "Helenara Regina Sampaio Figueiredo",
-  "programa": "Metodologias para o Ensino de Linguagens e suas Tecnologias",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Formação continuada; Letramento Estatístico; Educação a Distância.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22N%C3%8DVEIS%20DE%20LETRAMENTO%20ESTAT%C3%8DSTICO%20EM%20UM%20CURSO%20DE%20FORMA%C3%87%C3%83O%20CONTINUADA%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=N%C3%8DVEIS%20DE%20LETRAMENTO%20ESTAT%C3%8DSTICO%20EM%20UM%20CURSO%20DE%20FORMA%C3%87%C3%83O%20CONTINUADA&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28251449"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "28251449",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Formação continuada",
-    "Letramento Estatístico",
-    "Educação a Distância."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-28251449.svg",
-  "resumo": "O presente trabalho de pesquisa tem o objetivo de apresentar os conteúdos e a abordagem utilizada no AVA do curso de formação continuada de Letramento Estatístico de uma universidade privada, bem como os conteúdos de estatística nos documentos oficiais de Brasil, EUA, França e Espanha, e identificar os níveis de Letramento Estatístico apresentados pelos grupos no Trabalho Final do Curso. Nosso trabalho fez uso de pesquisa exploratória de abordagem qualitativa e descritiva, baseada em Gomes (2004), Gibbs (2009) e Bardin (2011), que fundamentaram cada etapa da análise de conteúdos. Dos 50 trabalhos entregues pelos grupos concluintes do curso, observamos que uma parte, ou seja, 35 grupos não atenderam aos objetivos proposto em nossa pesquisa, onde; 1) os dados deveriam ser coletados na plataforma INEP 2016; 2) os grupos deveriam aplicar conceitos e conteúdos abordado no curso de Letramento Estatístico em seus trabalhos finais de curso. Para analisar o desenvolvimento do Letramento Estatístico foram usados os 15 trabalhos dos grupos que atenderam aos nossos objetivos. Nosso intuito foi o de identificar os níveis gráficos e textuais segundo os referenciais teóricos de Curcio (2001) e de Letramento Estatístico, de acordo com os níveis propostos por Shamos (1995 apud GAL, 2002), que apresenta um modelo com três níveis: o Nível Cultural, o Nível Funcional e o Nível Científico. Concluímos que os resultados foram positivos em relação ao Letramento Estatístico ao afirmarmos que 60% dos trabalhos concluídos encontram-se no Nível Científico logo estão letrados estatisticamente, pois possuem as habilidades de ler, compreender, analisar, avaliar, fazer inferência, bem como comunicar de forma crítica e contextualizada as informações submetidas a tratamento estatístico. Que é preciso aprofundar a formação continuada do Letramento Estatístico a fim de que sua compreensão passe a ser de alcance de todos, para auxiliar na tomada de decisões conscientes e comprometidos com a sociedade. E apenas o uso de materiais adequados, desenvolvidos especificamente para a EAD, não é suficiente para garantir a qualidade do ensino e da aprendizagem.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "letramento estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-28251449",
+ "autor": "Nelson Antonio da Silva",
+ "ano": 2018,
+ "tipo": "Dissertação",
+ "titulo": "Níveis de Letramento Estatístico em um Curso de Formação Continuada",
+ "instituicao": "Universidade Pitágoras Unopar",
+ "cidade": "",
+ "estado": "Paraná",
+ "regiao": "Sul",
+ "orientador": "Helenara Regina Sampaio Figueiredo",
+ "programa": "Metodologias para o Ensino de Linguagens e suas Tecnologias",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Formação continuada; Letramento Estatístico; Educação a Distância.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22N%C3%8DVEIS%20DE%20LETRAMENTO%20ESTAT%C3%8DSTICO%20EM%20UM%20CURSO%20DE%20FORMA%C3%87%C3%83O%20CONTINUADA%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=N%C3%8DVEIS%20DE%20LETRAMENTO%20ESTAT%C3%8DSTICO%20EM%20UM%20CURSO%20DE%20FORMA%C3%87%C3%83O%20CONTINUADA&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28251449"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "28251449",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Formação continuada",
+  "Letramento Estatístico",
+  "Educação a Distância."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-28251449.svg",
+ "resumo": "O presente trabalho de pesquisa tem o objetivo de apresentar os conteúdos e a abordagem utilizada no AVA do curso de formação continuada de Letramento Estatístico de uma universidade privada, bem como os conteúdos de estatística nos documentos oficiais de Brasil, EUA, França e Espanha, e identificar os níveis de Letramento Estatístico apresentados pelos grupos no Trabalho Final do Curso. Nosso trabalho fez uso de pesquisa exploratória de abordagem qualitativa e descritiva, baseada em Gomes (2004), Gibbs (2009) e Bardin (2011), que fundamentaram cada etapa da análise de conteúdos. Dos 50 trabalhos entregues pelos grupos concluintes do curso, observamos que uma parte, ou seja, 35 grupos não atenderam aos objetivos proposto em nossa pesquisa, onde; 1) os dados deveriam ser coletados na plataforma INEP 2016; 2) os grupos deveriam aplicar conceitos e conteúdos abordado no curso de Letramento Estatístico em seus trabalhos finais de curso. Para analisar o desenvolvimento do Letramento Estatístico foram usados os 15 trabalhos dos grupos que atenderam aos nossos objetivos. Nosso intuito foi o de identificar os níveis gráficos e textuais segundo os referenciais teóricos de Curcio (2001) e de Letramento Estatístico, de acordo com os níveis propostos por Shamos (1995 apud GAL, 2002), que apresenta um modelo com três níveis: o Nível Cultural, o Nível Funcional e o Nível Científico. Concluímos que os resultados foram positivos em relação ao Letramento Estatístico ao afirmarmos que 60% dos trabalhos concluídos encontram-se no Nível Científico logo estão letrados estatisticamente, pois possuem as habilidades de ler, compreender, analisar, avaliar, fazer inferência, bem como comunicar de forma crítica e contextualizada as informações submetidas a tratamento estatístico. Que é preciso aprofundar a formação continuada do Letramento Estatístico a fim de que sua compreensão passe a ser de alcance de todos, para auxiliar na tomada de decisões conscientes e comprometidos com a sociedade. E apenas o uso de materiais adequados, desenvolvidos especificamente para a EAD, não é suficiente para garantir a qualidade do ensino e da aprendizagem.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "letramento estatístico"
+ ],
+ "ids_duplicados": []
 }

@@ -1,58 +1,58 @@
 {
-  "id": "capes-38364827",
-  "autor": "Marcela Lima Santos",
-  "ano": 2023,
-  "tipo": "Dissertação",
-  "titulo": "Pensamento e Letramento Estatístico: Uma Investigação a Partir do Desenvolvimento de um Projeto em uma Escola da Zona Rural no Município de Itabaiana/se",
-  "instituicao": "UNIVERSIDADE FEDERAL DE SERGIPE",
-  "cidade": "",
-  "estado": "Sergipe",
-  "regiao": "Nordeste",
-  "orientador": "Denize da Silva Souza",
-  "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "-",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22PENSAMENTO%20E%20LETRAMENTO%20ESTAT%C3%8DSTICO%3A%20UMA%20INVESTIGA%C3%87%C3%83O%20A%20PARTIR%20DO%20DESENVOLVIMENTO%20DE%20UM%20PROJETO%20EM%20UMA%20ESCOLA%20DA%20ZONA%20RURAL%20NO%20MUNIC%C3%8DPIO%20DE%20ITABAIANA/SE%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PENSAMENTO%20E%20LETRAMENTO%20ESTAT%C3%8DSTICO%3A%20UMA%20INVESTIGA%C3%87%C3%83O%20A%20PARTIR%20DO%20DESENVOLVIMENTO%20DE%20UM%20PROJETO%20EM%20UMA%20ESCOLA%20DA%20ZONA%20RURAL%20NO%20MUNIC%C3%8DPIO%20DE%20ITABAIANA/SE&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38364827"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "38364827",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "-"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-38364827.svg",
-  "resumo": "-",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "letramento estatístico",
-    "pensamento estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-38364827",
+ "autor": "Marcela Lima Santos",
+ "ano": 2023,
+ "tipo": "Dissertação",
+ "titulo": "Pensamento e Letramento Estatístico: Uma Investigação a Partir do Desenvolvimento de um Projeto em uma Escola da Zona Rural no Município de Itabaiana/se",
+ "instituicao": "Universidade Federal de Sergipe",
+ "cidade": "",
+ "estado": "Sergipe",
+ "regiao": "Nordeste",
+ "orientador": "Denize da Silva Souza",
+ "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "-",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22PENSAMENTO%20E%20LETRAMENTO%20ESTAT%C3%8DSTICO%3A%20UMA%20INVESTIGA%C3%87%C3%83O%20A%20PARTIR%20DO%20DESENVOLVIMENTO%20DE%20UM%20PROJETO%20EM%20UMA%20ESCOLA%20DA%20ZONA%20RURAL%20NO%20MUNIC%C3%8DPIO%20DE%20ITABAIANA/SE%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PENSAMENTO%20E%20LETRAMENTO%20ESTAT%C3%8DSTICO%3A%20UMA%20INVESTIGA%C3%87%C3%83O%20A%20PARTIR%20DO%20DESENVOLVIMENTO%20DE%20UM%20PROJETO%20EM%20UMA%20ESCOLA%20DA%20ZONA%20RURAL%20NO%20MUNIC%C3%8DPIO%20DE%20ITABAIANA/SE&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38364827"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "38364827",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "-"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-38364827.svg",
+ "resumo": "-",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "letramento estatístico",
+  "pensamento estatístico"
+ ],
+ "ids_duplicados": []
 }

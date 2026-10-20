@@ -1,59 +1,59 @@
 {
-  "id": "capes-28048343",
-  "autor": "Leila Ines Pagliarini de Mello",
-  "ano": 2017,
-  "tipo": "Dissertação",
-  "titulo": "O aprendizado de conceitos de estatística através de um estudo sobre os óbitos dos escravos do Rio Grande do Sul no Séc. XIX : uma experiência interdisciplinar",
-  "instituicao": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL",
-  "cidade": "",
-  "estado": "Rio Grande do Sul",
-  "regiao": "Sul",
-  "orientador": "Luciana Neves Nunes",
-  "programa": "ENSINO DE MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Estatística; Interdisciplinaridade; Matemática e Negritude",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20aprendizado%20de%20conceitos%20de%20estat%C3%ADstica%20atrav%C3%A9s%20de%20um%20estudo%20sobre%20os%20%C3%B3bitos%20dos%20escravos%20do%20Rio%20Grande%20do%20Sul%20no%20S%C3%A9c.%20XIX%20%3A%20uma%20experi%C3%AAncia%20interdisciplinar%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20aprendizado%20de%20conceitos%20de%20estat%C3%ADstica%20atrav%C3%A9s%20de%20um%20estudo%20sobre%20os%20%C3%B3bitos%20dos%20escravos%20do%20Rio%20Grande%20do%20Sul%20no%20S%C3%A9c.%20XIX%20%3A%20uma%20experi%C3%AAncia%20interdisciplinar&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28048343"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "28048343",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Estatística",
-    "Interdisciplinaridade",
-    "Matemática e Negritude"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-28048343.svg",
-  "resumo": "Este trabalho apresenta uma proposta para o ensino de Estatística no Ensino Fundamental em uma perspectiva interdisciplinar. As disciplinas envolvidas foram a Matemática, História e Ciências e os alunos eram de uma turma de sétimo ano de uma escola privada do município de Canoas-RS. A partir da análise de dados dos óbitos dos escravos sepultados no cemitério da Santa Casa de Porto Alegre no século XIX, se buscou a compreensão de conceitos de estatística descritiva, observando a aplicação dessa parte da Matemática nas disciplinas que colaboram nesse trabalho interdisciplinar. Utilizou-se tecnologias, como o uso do Google Forms e também planilhas eletrônicas, que ajudaram na construção de gráficos para avaliar e comparar resultados. O conjunto de dados coletados nessa pesquisa foi composto pelas produções dos alunos; como gravações de momentos de compartilhamento de ideias nas turmas, imagens durante o desenvolvimento do trabalho e anotações sobre as descobertas, necessidades e as falas dos estudantes. A análise dos dados foi baseada em um Estudo de Caso que ocorreu num ambiente de Modelagem Matemática compondo um ambiente investigativo, definido por Skovsmose como cenário para investigação. Foi aplicado um pré-teste e um pós-teste nesse grupo de alunos que permitiu identificar o aprendizado de conceitos estatísticos. Constatou-se que o trabalho interdisciplinar favoreceu o estudo de conceitos de Estatística e desenvolveu a competência para planejar e construir relatórios de pesquisas estatísticas descritivas, diferenciando pesquisa populacional de pesquisa amostral. A aplicação desse trabalho possibilitou aos estudantes refletirem criticamente para responderem seus questionamentos nos aspectos socioculturais, competências fundamentais para o pleno desenvolvimento da cidadania.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-28048343",
+ "autor": "Leila Ines Pagliarini de Mello",
+ "ano": 2017,
+ "tipo": "Dissertação",
+ "titulo": "O aprendizado de conceitos de estatística através de um estudo sobre os óbitos dos escravos do Rio Grande do Sul no Séc. XIX : uma experiência interdisciplinar",
+ "instituicao": "Universidade Federal do Rio Grande do Sul",
+ "cidade": "",
+ "estado": "Rio Grande do Sul",
+ "regiao": "Sul",
+ "orientador": "Luciana Neves Nunes",
+ "programa": "ENSINO DE MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Estatística; Interdisciplinaridade; Matemática e Negritude",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20aprendizado%20de%20conceitos%20de%20estat%C3%ADstica%20atrav%C3%A9s%20de%20um%20estudo%20sobre%20os%20%C3%B3bitos%20dos%20escravos%20do%20Rio%20Grande%20do%20Sul%20no%20S%C3%A9c.%20XIX%20%3A%20uma%20experi%C3%AAncia%20interdisciplinar%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20aprendizado%20de%20conceitos%20de%20estat%C3%ADstica%20atrav%C3%A9s%20de%20um%20estudo%20sobre%20os%20%C3%B3bitos%20dos%20escravos%20do%20Rio%20Grande%20do%20Sul%20no%20S%C3%A9c.%20XIX%20%3A%20uma%20experi%C3%AAncia%20interdisciplinar&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28048343"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "28048343",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Estatística",
+  "Interdisciplinaridade",
+  "Matemática e Negritude"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-28048343.svg",
+ "resumo": "Este trabalho apresenta uma proposta para o ensino de Estatística no Ensino Fundamental em uma perspectiva interdisciplinar. As disciplinas envolvidas foram a Matemática, História e Ciências e os alunos eram de uma turma de sétimo ano de uma escola privada do município de Canoas-RS. A partir da análise de dados dos óbitos dos escravos sepultados no cemitério da Santa Casa de Porto Alegre no século XIX, se buscou a compreensão de conceitos de estatística descritiva, observando a aplicação dessa parte da Matemática nas disciplinas que colaboram nesse trabalho interdisciplinar. Utilizou-se tecnologias, como o uso do Google Forms e também planilhas eletrônicas, que ajudaram na construção de gráficos para avaliar e comparar resultados. O conjunto de dados coletados nessa pesquisa foi composto pelas produções dos alunos; como gravações de momentos de compartilhamento de ideias nas turmas, imagens durante o desenvolvimento do trabalho e anotações sobre as descobertas, necessidades e as falas dos estudantes. A análise dos dados foi baseada em um Estudo de Caso que ocorreu num ambiente de Modelagem Matemática compondo um ambiente investigativo, definido por Skovsmose como cenário para investigação. Foi aplicado um pré-teste e um pós-teste nesse grupo de alunos que permitiu identificar o aprendizado de conceitos estatísticos. Constatou-se que o trabalho interdisciplinar favoreceu o estudo de conceitos de Estatística e desenvolveu a competência para planejar e construir relatórios de pesquisas estatísticas descritivas, diferenciando pesquisa populacional de pesquisa amostral. A aplicação desse trabalho possibilitou aos estudantes refletirem criticamente para responderem seus questionamentos nos aspectos socioculturais, competências fundamentais para o pleno desenvolvimento da cidadania.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": []
 }

@@ -1,61 +1,61 @@
 {
-  "id": "capes-20293642",
-  "autor": "Tamara Marques da Silva Gomes",
-  "ano": 2013,
-  "tipo": "Dissertação",
-  "titulo": "O Todo É a Soma das Partes, Mas uma Parte Representa o Todo? Compreensão de Estudantes do 5º e 9º Ano sobre Amostragem",
-  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Gilda Lisboa Guimaraes",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Estatística; Educação Matemática; Amostra; População; Ensino Fundamental.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20TODO%20%C3%89%20A%20SOMA%20DAS%20PARTES%2C%20MAS%20UMA%20PARTE%20REPRESENTA%20O%20TODO%3F%20COMPREENS%C3%83O%20DE%20ESTUDANTES%20DO%205%C2%BA%20E%209%C2%BA%20ANO%20SOBRE%20AMOSTRAGEM%C2%94%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20TODO%20%C3%89%20A%20SOMA%20DAS%20PARTES%2C%20MAS%20UMA%20PARTE%20REPRESENTA%20O%20TODO%3F%20COMPREENS%C3%83O%20DE%20ESTUDANTES%20DO%205%C2%BA%20E%209%C2%BA%20ANO%20SOBRE%20AMOSTRAGEM%C2%94&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20293642"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "20293642",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Estatística",
-    "Educação Matemática",
-    "Amostra",
-    "População",
-    "Ensino Fundamental."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-20293642.svg",
-  "resumo": "Ser capaz de analisar, elaborar conclusões e tomar decisões a partir de informações estatísticas são habilidades necessárias atualmente. Para realização dessas atividades, entender conceitos básicos de amostragem é essencial. Embora o ensino da Estatística seja recomendado no currículo escolar brasileiro poucos estudos se preocuparam em pesquisar de modo sistemático e abrangente a compreensão de estudantes do Ensino Fundamental quanto aos conceitos sobre amostragem. Assim, o objetivo do presente estudo foi identificar o que estudantes do 5º e 9º ano do Ensino Fundamental compreendem sobre amostragem. Foram realizadas, individualmente, 40 entrevistas semi-estruturadas com alunos do 5º e 9º ano (vinte de cada ano), contendo treze questões que abordaram diferentes aspectos da amostragem: definição, exemplo, finalidade, seleção, tamanho e representatividade da amostra; definição de população; conceito de aleatoriedade, amostra aleatória e sua utilização; realização de inferências informais a partir de uma amostra. Os resultados evidenciaram que não houve diferença significativa entre o desempenho dos estudantes do 5º e do 9º ano, demonstrando que a escolaridade não foi fator determinante para a adequação das respostas. Os participantes mostraram uma maior facilidade nas questões que abordavam o conceito de população como grupo de pessoas, o tamanho da amostra e a realização de inferências informais a partir de uma amostra. A possibilidade de responder a partir de sua experiência de vida foi um fator importante para os estudantes do 5º ano. Notou-se que os alunos do 9º ano tentaram relacionar seus conhecimentos prévios com o conhecimento escolar, buscando apresentar respostas mais formalizadas e estruturadas para as perguntas que envolviam definição de conceitos. Percebeu-se que as questões que envolviam aspectos referentes à aleatoriedade, representatividade e realização de inferências, as quais, de certa forma, estão ligadas à seleção da amostra, apresentaram maior correlação, o que pode indicar que esses conceitos necessitam de habilidades semelhantes para compreensão. Ao contrário do que era esperado, tanto no 5º como no 9º ano, não foram os mesmos estudantes que responderam correta ou incorretamente as questões sobre a definição do conceito de amostra e população. Acreditava-se que, por requerer habilidades semelhantes, haveria uma correlação entre as mesmas. Entretanto, os resultados sugerem que o contexto da questão é determinante. Assim, essa pesquisa evidenciou que, apesar das grandes dificuldades apresentadas pelos alunos para compreender os conceitos ligados à amostragem, estudantes desde o 5º ano de escolaridade já são capazes de compreendê-los. Essa aprendizagem pode ser potencializada se tais conteúdos forem trabalhados de forma sistemática e contextualizada na escola, a partir de vivências e situações de ensino que os desafiem a analisar e refletir sobre informações estatísticas.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-20293642",
+ "autor": "Tamara Marques da Silva Gomes",
+ "ano": 2013,
+ "tipo": "Dissertação",
+ "titulo": "O Todo É a Soma das Partes, Mas uma Parte Representa o Todo? Compreensão de Estudantes do 5º e 9º Ano sobre Amostragem",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Gilda Lisboa Guimaraes",
+ "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Estatística; Educação Matemática; Amostra; População; Ensino Fundamental.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20TODO%20%C3%89%20A%20SOMA%20DAS%20PARTES%2C%20MAS%20UMA%20PARTE%20REPRESENTA%20O%20TODO%3F%20COMPREENS%C3%83O%20DE%20ESTUDANTES%20DO%205%C2%BA%20E%209%C2%BA%20ANO%20SOBRE%20AMOSTRAGEM%C2%94%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20TODO%20%C3%89%20A%20SOMA%20DAS%20PARTES%2C%20MAS%20UMA%20PARTE%20REPRESENTA%20O%20TODO%3F%20COMPREENS%C3%83O%20DE%20ESTUDANTES%20DO%205%C2%BA%20E%209%C2%BA%20ANO%20SOBRE%20AMOSTRAGEM%C2%94&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20293642"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "20293642",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Estatística",
+  "Educação Matemática",
+  "Amostra",
+  "População",
+  "Ensino Fundamental."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-20293642.svg",
+ "resumo": "Ser capaz de analisar, elaborar conclusões e tomar decisões a partir de informações estatísticas são habilidades necessárias atualmente. Para realização dessas atividades, entender conceitos básicos de amostragem é essencial. Embora o ensino da Estatística seja recomendado no currículo escolar brasileiro poucos estudos se preocuparam em pesquisar de modo sistemático e abrangente a compreensão de estudantes do Ensino Fundamental quanto aos conceitos sobre amostragem. Assim, o objetivo do presente estudo foi identificar o que estudantes do 5º e 9º ano do Ensino Fundamental compreendem sobre amostragem. Foram realizadas, individualmente, 40 entrevistas semi-estruturadas com alunos do 5º e 9º ano (vinte de cada ano), contendo treze questões que abordaram diferentes aspectos da amostragem: definição, exemplo, finalidade, seleção, tamanho e representatividade da amostra; definição de população; conceito de aleatoriedade, amostra aleatória e sua utilização; realização de inferências informais a partir de uma amostra. Os resultados evidenciaram que não houve diferença significativa entre o desempenho dos estudantes do 5º e do 9º ano, demonstrando que a escolaridade não foi fator determinante para a adequação das respostas. Os participantes mostraram uma maior facilidade nas questões que abordavam o conceito de população como grupo de pessoas, o tamanho da amostra e a realização de inferências informais a partir de uma amostra. A possibilidade de responder a partir de sua experiência de vida foi um fator importante para os estudantes do 5º ano. Notou-se que os alunos do 9º ano tentaram relacionar seus conhecimentos prévios com o conhecimento escolar, buscando apresentar respostas mais formalizadas e estruturadas para as perguntas que envolviam definição de conceitos. Percebeu-se que as questões que envolviam aspectos referentes à aleatoriedade, representatividade e realização de inferências, as quais, de certa forma, estão ligadas à seleção da amostra, apresentaram maior correlação, o que pode indicar que esses conceitos necessitam de habilidades semelhantes para compreensão. Ao contrário do que era esperado, tanto no 5º como no 9º ano, não foram os mesmos estudantes que responderam correta ou incorretamente as questões sobre a definição do conceito de amostra e população. Acreditava-se que, por requerer habilidades semelhantes, haveria uma correlação entre as mesmas. Entretanto, os resultados sugerem que o contexto da questão é determinante. Assim, essa pesquisa evidenciou que, apesar das grandes dificuldades apresentadas pelos alunos para compreender os conceitos ligados à amostragem, estudantes desde o 5º ano de escolaridade já são capazes de compreendê-los. Essa aprendizagem pode ser potencializada se tais conteúdos forem trabalhados de forma sistemática e contextualizada na escola, a partir de vivências e situações de ensino que os desafiem a analisar e refletir sobre informações estatísticas.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": []
 }

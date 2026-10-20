@@ -1,65 +1,65 @@
 {
-  "id": "capes-30004861",
-  "autor": "Jose Roberto Costa Junior",
-  "ano": 2019,
-  "tipo": "Tese",
-  "titulo": "COMPREENSÕES DE LETRAMENTO ESTATÍSTICO ENTRE LICENCIANDOS DE MATEMÁTICA: explorando dimensões críticas em situação de formação",
-  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Carlos Eduardo Ferreira Monteiro",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Estatística; Letramento Estatístico; Raciocínio Estatístico; Pensamento Estatístico; Formação Inicial de Professores; Licenciatura em Matemática.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22COMPREENS%C3%95ES%20DE%20LETRAMENTO%20ESTAT%C3%8DSTICO%20ENTRE%20LICENCIANDOS%20DE%20MATEM%C3%81TICA%3A%20explorando%20dimens%C3%B5es%20cr%C3%ADticas%20em%20situa%C3%A7%C3%A3o%20de%20forma%C3%A7%C3%A3o%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=COMPREENS%C3%95ES%20DE%20LETRAMENTO%20ESTAT%C3%8DSTICO%20ENTRE%20LICENCIANDOS%20DE%20MATEM%C3%81TICA%3A%20explorando%20dimens%C3%B5es%20cr%C3%ADticas%20em%20situa%C3%A7%C3%A3o%20de%20forma%C3%A7%C3%A3o&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30004861"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "30004861",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Estatística",
-    "Letramento Estatístico",
-    "Raciocínio Estatístico",
-    "Pensamento Estatístico",
-    "Formação Inicial de Professores",
-    "Licenciatura em Matemática."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-30004861.svg",
-  "resumo": "A Estatística é uma importante área de conhecimento para a sociedade, pois atua, principalmente, na produção e análise de dados que têm consequências para a vida das pessoas. O avanço tecnológico tem afetado setores da produção e veiculação de informações estatísticas, algumas dessas repercussões desconsideram, muitas vezes, questões de princípios, valores e ética de respeito à humanidade. Nesse contexto, os professores que ensinam Estatística podem desempenhar um importante papel de transformação, pois podem contribuir para que as pessoas possam interpretar criticamente informações estatísticas veiculadas por diversos meios. As licenciaturas em Matemática, no tocante ao ensino de Estatística, tem como desafio promover o letramento estatístico dos licenciandos de Matemática, mesmo considerando que tais tópicos não são contemplados em todos os cursos. O objetivo desta pesquisa foi analisar compreensões de letramento estatístico de licenciandos de Matemática, no contexto de um curso de formação extracurricular, a partir da exploração de dimensões críticas, na perspectiva teórica de Gal. A abordagem metodológica da pesquisa é essencialmente qualitativa, utilizando-se de uma Revisão Sistemática da Literatura e de uma pesquisa de campo que explorará uma situação de formação entre licenciandos de Matemática. Os resultados da Revisão Sistemática da Literatura indicaram que os estudos na área da Educação Estatística, no âmbito das licenciaturas em Matemática, ainda são escassos, principalmente quando se trata de explorar os aspectos disposicionais que envolvem o letramento estatístico. Em geral, os estudos em Educação Estatística que abordam a temática do letramento estatístico dão ênfase apenas aos aspectos cognitivos do conhecimento. Nossa proposta buscou promover o letramento estatístico entre os licenciandos em Matemática, explorando as dimensões críticas, sob a luz dos aspectos teóricos já consolidados no âmbito da Educação Matemática e da Educação Estatística, quais sejam: letramento, pensamento e raciocínio estatísticos; perspectiva da Educação Matemática Crítica; e teorias relativas à formação do licenciando em Matemática. Os resultados sugerem que, ao lidar com dados relevantes, os participantes se envolvem de maneira eficaz nas interpretações das informações estatísticas, sem se prenderem à necessidade de emitir uma resposta matemática, mas sim, analisam os dados também levando em consideração os seus conhecimentos de outras áreas e experiências prévias com as temáticas. Por outro lado, esses mesmos resultados sugerem a existência de dificuldades relativas a conhecimentos estatísticos e/ou matemáticos que podem limitar, mas não suprimir, a possibilidade de promoção de letramento estatístico. As análises dos dados referentes ao curso de formação indicaram que os licenciandos estavam muito ligados a uma perspectiva da Estatística como parte da Matemática aplicada, apesar das dificuldades relativas a conceitos dessa área. Essas dificuldades talvez expliquem a abertura para a utilização de estratégias alternativas, na interpretação de dados estatísticos. No decorrer dos encontros do curso, percebemos que os licenciandos foram aprimorando a competência de refletir criticamente, demonstrando legitimidade em seus posicionamentos.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "letramento estatístico",
-    "pensamento estatístico",
-    "raciocínio estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-30004861",
+ "autor": "Jose Roberto Costa Junior",
+ "ano": 2019,
+ "tipo": "Tese",
+ "titulo": "COMPREENSÕES DE LETRAMENTO ESTATÍSTICO ENTRE LICENCIANDOS DE MATEMÁTICA: explorando dimensões críticas em situação de formação",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Carlos Eduardo Ferreira Monteiro",
+ "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Estatística; Letramento Estatístico; Raciocínio Estatístico; Pensamento Estatístico; Formação Inicial de Professores; Licenciatura em Matemática.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22COMPREENS%C3%95ES%20DE%20LETRAMENTO%20ESTAT%C3%8DSTICO%20ENTRE%20LICENCIANDOS%20DE%20MATEM%C3%81TICA%3A%20explorando%20dimens%C3%B5es%20cr%C3%ADticas%20em%20situa%C3%A7%C3%A3o%20de%20forma%C3%A7%C3%A3o%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=COMPREENS%C3%95ES%20DE%20LETRAMENTO%20ESTAT%C3%8DSTICO%20ENTRE%20LICENCIANDOS%20DE%20MATEM%C3%81TICA%3A%20explorando%20dimens%C3%B5es%20cr%C3%ADticas%20em%20situa%C3%A7%C3%A3o%20de%20forma%C3%A7%C3%A3o&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30004861"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "30004861",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Estatística",
+  "Letramento Estatístico",
+  "Raciocínio Estatístico",
+  "Pensamento Estatístico",
+  "Formação Inicial de Professores",
+  "Licenciatura em Matemática."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-30004861.svg",
+ "resumo": "A Estatística é uma importante área de conhecimento para a sociedade, pois atua, principalmente, na produção e análise de dados que têm consequências para a vida das pessoas. O avanço tecnológico tem afetado setores da produção e veiculação de informações estatísticas, algumas dessas repercussões desconsideram, muitas vezes, questões de princípios, valores e ética de respeito à humanidade. Nesse contexto, os professores que ensinam Estatística podem desempenhar um importante papel de transformação, pois podem contribuir para que as pessoas possam interpretar criticamente informações estatísticas veiculadas por diversos meios. As licenciaturas em Matemática, no tocante ao ensino de Estatística, tem como desafio promover o letramento estatístico dos licenciandos de Matemática, mesmo considerando que tais tópicos não são contemplados em todos os cursos. O objetivo desta pesquisa foi analisar compreensões de letramento estatístico de licenciandos de Matemática, no contexto de um curso de formação extracurricular, a partir da exploração de dimensões críticas, na perspectiva teórica de Gal. A abordagem metodológica da pesquisa é essencialmente qualitativa, utilizando-se de uma Revisão Sistemática da Literatura e de uma pesquisa de campo que explorará uma situação de formação entre licenciandos de Matemática. Os resultados da Revisão Sistemática da Literatura indicaram que os estudos na área da Educação Estatística, no âmbito das licenciaturas em Matemática, ainda são escassos, principalmente quando se trata de explorar os aspectos disposicionais que envolvem o letramento estatístico. Em geral, os estudos em Educação Estatística que abordam a temática do letramento estatístico dão ênfase apenas aos aspectos cognitivos do conhecimento. Nossa proposta buscou promover o letramento estatístico entre os licenciandos em Matemática, explorando as dimensões críticas, sob a luz dos aspectos teóricos já consolidados no âmbito da Educação Matemática e da Educação Estatística, quais sejam: letramento, pensamento e raciocínio estatísticos; perspectiva da Educação Matemática Crítica; e teorias relativas à formação do licenciando em Matemática. Os resultados sugerem que, ao lidar com dados relevantes, os participantes se envolvem de maneira eficaz nas interpretações das informações estatísticas, sem se prenderem à necessidade de emitir uma resposta matemática, mas sim, analisam os dados também levando em consideração os seus conhecimentos de outras áreas e experiências prévias com as temáticas. Por outro lado, esses mesmos resultados sugerem a existência de dificuldades relativas a conhecimentos estatísticos e/ou matemáticos que podem limitar, mas não suprimir, a possibilidade de promoção de letramento estatístico. As análises dos dados referentes ao curso de formação indicaram que os licenciandos estavam muito ligados a uma perspectiva da Estatística como parte da Matemática aplicada, apesar das dificuldades relativas a conceitos dessa área. Essas dificuldades talvez expliquem a abertura para a utilização de estratégias alternativas, na interpretação de dados estatísticos. No decorrer dos encontros do curso, percebemos que os licenciandos foram aprimorando a competência de refletir criticamente, demonstrando legitimidade em seus posicionamentos.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "letramento estatístico",
+  "pensamento estatístico",
+  "raciocínio estatístico"
+ ],
+ "ids_duplicados": []
 }

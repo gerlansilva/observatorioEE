@@ -1,59 +1,59 @@
 {
-  "id": "capes-38053875",
-  "autor": "Emerson Pereira de Carvalho",
-  "ano": 2023,
-  "tipo": "Dissertação",
-  "titulo": "Estatística no nono ano do Ensino Fundamental a partir de uma abordagem histórico-cultural na perspectiva de Vygotsky",
-  "instituicao": "FUNDAÇÃO UNIVERSIDADE DE PASSO FUNDO",
-  "cidade": "",
-  "estado": "Rio Grande do Sul",
-  "regiao": "Sul",
-  "orientador": "Cleci Teresinha Werner da Rosa",
-  "programa": "Ensino de Ciências e Matemática",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Vygotsky; Produto Educacional; Ensino",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Estat%C3%ADstica%20no%20nono%20ano%20do%20Ensino%20Fundamental%20a%20partir%20de%20uma%20abordagem%20hist%C3%B3rico-cultural%20na%20perspectiva%20de%20Vygotsky%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estat%C3%ADstica%20no%20nono%20ano%20do%20Ensino%20Fundamental%20a%20partir%20de%20uma%20abordagem%20hist%C3%B3rico-cultural%20na%20perspectiva%20de%20Vygotsky&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38053875"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "38053875",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Vygotsky",
-    "Produto Educacional",
-    "Ensino"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-38053875.svg",
-  "resumo": "A presente pesquisa parte da necessidade de um ensino de Estatística voltado a promover à apropriação de significados dos conceitos a partir de uma perspectiva histórico-cultural. Para tanto, toma como referencial teórico a Teoria da Histórico-Cultural em Lev Semenontich Vygotsky e estrutura um conjunto de atividades associadas a apropriação do significado dos conceitos de Estatística. Nesta perspectiva o presente estudo propõe-se responder ao seguinte questionamento: Que contribuições são oportunizadas aos estudantes ao apoiar o ensino de Estatística na abordagem histórico-cultural de Vygotsky? O objetivo está em elaborar, aplicar e avaliar uma sequência didática estruturada na perspectiva vigotskiana para abordar conteúdos de Estatística no nono ano do Ensino Fundamental. A Sequência Didática apresenta conteúdos em consonância com a Base Nacional Comum Curricular (BNCC), com aplicação em 12 períodos de aula – seis encontros de dois períodos. Esses encontros estão estruturados em cinco etapas que buscam favorecer aspectos centrais da perspectiva histórico-cultural em Vygotsky, a saber: resgate dos conhecimentos espontâneos; discussão do conceito em estudo por meio da ação estruturante do professor mediado por estratégias ou ferramentas de ensino; realização de atividades de aplicação do conceito em situações vivenciais e contextualizadas socialmente; realização de atividades de cooperação, compartilhamento e socialização; atividades de aplicação do conhecimento. O lócus de aplicação é um grupo de estudantes integrantes do nono ano do Ensino Fundamental em uma escola de período integral da rede pública de educação do estado de Rondônia. A pesquisa toma como pressuposto a abordagem qualitativa e o entendimento de pesquisa intervenção pedagógica anunciada por Damiani et al. (2012), envolvendo a produção de dados a partir dos registros no diário de bordo do pesquisador que é o próprio professor e os materiais produzidos pelos estudantes durante os encontros. Como resultado o estudo apontou para a viabilidade da proposta em termos didáticos, dando destaque às contribuições para a construção de significados dos conceitos abordados dentro de uma aproximação entre os espontâneos e os científicos; ao processo de interação social marcado pelas trocas e compartilhamentos entre os participantes mediados pelas atividades realizadas, bem como deles com o mundo vivencial e presente em seus contexto familiar; e ao processo de conscientização social e liberdade trazido pela proposta e fortemente marcado pela dialética que guiou os encontros. O produto educacional elaborado refere-se à sequência didática desenvolvida e aplicada no estudo, servindo como material de apoio aos professores de Matemática do Ensino Fundamental – Anos Finais. Esse produto Educacional encontra-se disponível no Portal EduCapes (http://educapes.capes.gov.br/handle/capes/741798).",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-38053875",
+ "autor": "Emerson Pereira de Carvalho",
+ "ano": 2023,
+ "tipo": "Dissertação",
+ "titulo": "Estatística no nono ano do Ensino Fundamental a partir de uma abordagem histórico-cultural na perspectiva de Vygotsky",
+ "instituicao": "Fundação Universidade de Passo Fundo",
+ "cidade": "",
+ "estado": "Rio Grande do Sul",
+ "regiao": "Sul",
+ "orientador": "Cleci Teresinha Werner da Rosa",
+ "programa": "Ensino de Ciências e Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Vygotsky; Produto Educacional; Ensino",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Estat%C3%ADstica%20no%20nono%20ano%20do%20Ensino%20Fundamental%20a%20partir%20de%20uma%20abordagem%20hist%C3%B3rico-cultural%20na%20perspectiva%20de%20Vygotsky%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estat%C3%ADstica%20no%20nono%20ano%20do%20Ensino%20Fundamental%20a%20partir%20de%20uma%20abordagem%20hist%C3%B3rico-cultural%20na%20perspectiva%20de%20Vygotsky&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38053875"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "38053875",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Vygotsky",
+  "Produto Educacional",
+  "Ensino"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-38053875.svg",
+ "resumo": "A presente pesquisa parte da necessidade de um ensino de Estatística voltado a promover à apropriação de significados dos conceitos a partir de uma perspectiva histórico-cultural. Para tanto, toma como referencial teórico a Teoria da Histórico-Cultural em Lev Semenontich Vygotsky e estrutura um conjunto de atividades associadas a apropriação do significado dos conceitos de Estatística. Nesta perspectiva o presente estudo propõe-se responder ao seguinte questionamento: Que contribuições são oportunizadas aos estudantes ao apoiar o ensino de Estatística na abordagem histórico-cultural de Vygotsky? O objetivo está em elaborar, aplicar e avaliar uma sequência didática estruturada na perspectiva vigotskiana para abordar conteúdos de Estatística no nono ano do Ensino Fundamental. A Sequência Didática apresenta conteúdos em consonância com a Base Nacional Comum Curricular (BNCC), com aplicação em 12 períodos de aula – seis encontros de dois períodos. Esses encontros estão estruturados em cinco etapas que buscam favorecer aspectos centrais da perspectiva histórico-cultural em Vygotsky, a saber: resgate dos conhecimentos espontâneos; discussão do conceito em estudo por meio da ação estruturante do professor mediado por estratégias ou ferramentas de ensino; realização de atividades de aplicação do conceito em situações vivenciais e contextualizadas socialmente; realização de atividades de cooperação, compartilhamento e socialização; atividades de aplicação do conhecimento. O lócus de aplicação é um grupo de estudantes integrantes do nono ano do Ensino Fundamental em uma escola de período integral da rede pública de educação do estado de Rondônia. A pesquisa toma como pressuposto a abordagem qualitativa e o entendimento de pesquisa intervenção pedagógica anunciada por Damiani et al. (2012), envolvendo a produção de dados a partir dos registros no diário de bordo do pesquisador que é o próprio professor e os materiais produzidos pelos estudantes durante os encontros. Como resultado o estudo apontou para a viabilidade da proposta em termos didáticos, dando destaque às contribuições para a construção de significados dos conceitos abordados dentro de uma aproximação entre os espontâneos e os científicos; ao processo de interação social marcado pelas trocas e compartilhamentos entre os participantes mediados pelas atividades realizadas, bem como deles com o mundo vivencial e presente em seus contexto familiar; e ao processo de conscientização social e liberdade trazido pela proposta e fortemente marcado pela dialética que guiou os encontros. O produto educacional elaborado refere-se à sequência didática desenvolvida e aplicada no estudo, servindo como material de apoio aos professores de Matemática do Ensino Fundamental – Anos Finais. Esse produto Educacional encontra-se disponível no Portal EduCapes (http://educapes.capes.gov.br/handle/capes/741798).",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

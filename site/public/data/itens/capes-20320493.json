@@ -1,62 +1,62 @@
 {
-  "id": "capes-20320493",
-  "autor": "Sandro Grossi Nascimento",
-  "ano": 2015,
-  "tipo": "Dissertação",
-  "titulo": "Situações Didáticas e Educação Estatística: Uma Proposta de Aprendizagem no Estudo de Centralidade para o Ensino Médio",
-  "instituicao": "UNIVERSIDADE FEDERAL DE JUIZ DE FORA",
-  "cidade": "",
-  "estado": "Minas Gerais",
-  "regiao": "Sudeste",
-  "orientador": "Chang Kuo Rodrigues",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Matemática; Educação Estatística; Medidas de Centralidade; Literacia Estatística; Ensino Médio",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22SITUA%C3%87%C3%95ES%20DID%C3%81TICAS%20E%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20UMA%20PROPOSTA%20DE%20APRENDIZAGEM%20NO%20ESTUDO%20DE%20CENTRALIDADE%20PARA%20O%20ENSINO%20M%C3%89DIO%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=SITUA%C3%87%C3%95ES%20DID%C3%81TICAS%20E%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20UMA%20PROPOSTA%20DE%20APRENDIZAGEM%20NO%20ESTUDO%20DE%20CENTRALIDADE%20PARA%20O%20ENSINO%20M%C3%89DIO&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20320493"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "20320493",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Matemática",
-    "Educação Estatística",
-    "Medidas de Centralidade",
-    "Literacia Estatística",
-    "Ensino Médio"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-20320493.svg",
-  "resumo": "O presente trabalho é uma pesquisa, cujo objetivo é investigar atividades didáticas de estatística para alunos do Ensino Médio. Essas atividades propiciaram a construção e/ou a reconstrução das medidas de centralidade e, assim, obter um olhar mais detalhado para o estudo dessas medidas, com o intuito de preparar os alunos de forma mais eficiente no uso de situações problemas do cotidiano. Concomitantemente, analisar, a partir da Educação Estatística, com o viés da Literacia Estatística, a compreensão dos resultados obtidos na análise dessas medidas. A teoria da Engenharia Didática subsidiou a metodologia desta investigação enquanto as situações didáticas e as situações a-didáticas foram os aportes teóricos na análise das atividades propostas aos estudantes, culminando assim, em uma proposta de sequência didática para o Produto Educacional. Vale salientar que os sujeitos desta pesquisa são os estudantes de uma escola estadual, turma do terceiro ano do Ensino Médio da cidade de Paraíba do Sul, do Estado do Rio de Janeiro.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-20320493",
+ "autor": "Sandro Grossi Nascimento",
+ "ano": 2015,
+ "tipo": "Dissertação",
+ "titulo": "Situações Didáticas e Educação Estatística: Uma Proposta de Aprendizagem no Estudo de Centralidade para o Ensino Médio",
+ "instituicao": "Universidade Federal de Juiz de Fora",
+ "cidade": "",
+ "estado": "Minas Gerais",
+ "regiao": "Sudeste",
+ "orientador": "Chang Kuo Rodrigues",
+ "programa": "EDUCAÇÃO MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Matemática; Educação Estatística; Medidas de Centralidade; Literacia Estatística; Ensino Médio",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22SITUA%C3%87%C3%95ES%20DID%C3%81TICAS%20E%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20UMA%20PROPOSTA%20DE%20APRENDIZAGEM%20NO%20ESTUDO%20DE%20CENTRALIDADE%20PARA%20O%20ENSINO%20M%C3%89DIO%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=SITUA%C3%87%C3%95ES%20DID%C3%81TICAS%20E%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%3A%20UMA%20PROPOSTA%20DE%20APRENDIZAGEM%20NO%20ESTUDO%20DE%20CENTRALIDADE%20PARA%20O%20ENSINO%20M%C3%89DIO&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20320493"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "20320493",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Matemática",
+  "Educação Estatística",
+  "Medidas de Centralidade",
+  "Literacia Estatística",
+  "Ensino Médio"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-20320493.svg",
+ "resumo": "O presente trabalho é uma pesquisa, cujo objetivo é investigar atividades didáticas de estatística para alunos do Ensino Médio. Essas atividades propiciaram a construção e/ou a reconstrução das medidas de centralidade e, assim, obter um olhar mais detalhado para o estudo dessas medidas, com o intuito de preparar os alunos de forma mais eficiente no uso de situações problemas do cotidiano. Concomitantemente, analisar, a partir da Educação Estatística, com o viés da Literacia Estatística, a compreensão dos resultados obtidos na análise dessas medidas. A teoria da Engenharia Didática subsidiou a metodologia desta investigação enquanto as situações didáticas e as situações a-didáticas foram os aportes teóricos na análise das atividades propostas aos estudantes, culminando assim, em uma proposta de sequência didática para o Produto Educacional. Vale salientar que os sujeitos desta pesquisa são os estudantes de uma escola estadual, turma do terceiro ano do Ensino Médio da cidade de Paraíba do Sul, do Estado do Rio de Janeiro.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

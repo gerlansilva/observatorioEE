@@ -1,61 +1,61 @@
 {
-  "id": "capes-42771420",
-  "autor": "Andrielly Costa Queiroz dos Santos",
-  "ano": 2024,
-  "tipo": "Dissertação",
-  "titulo": "O USO DO FORMS COMO FERRAMENTA FACILITADORA NO PROCESSO DE ENSINO DE PROBABILIDADE E ESTATÍSTICA: processos de (auto)formação do professor de matemática em Canaã dos Carajás",
-  "instituicao": "UNIVERSIDADE FEDERAL DO PARÁ",
-  "cidade": "",
-  "estado": "Pará",
-  "regiao": "Norte",
-  "orientador": "Arthur Goncalves Machado Junior",
-  "programa": "Docência em Educação em Ciências e Matemáticas",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Autoformação do Professor; Práticas Reflexivas; Tecnologias Digitais da Informação e Comunicação; Google Forms; Ensino de Matemática",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20USO%20DO%20FORMS%20COMO%20FERRAMENTA%20FACILITADORA%20NO%20PROCESSO%20DE%20ENSINO%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%3A%20processos%20de%20%28auto%29forma%C3%A7%C3%A3o%20do%20professor%20de%20matem%C3%A1tica%20em%20Cana%C3%A3%20dos%20Caraj%C3%A1s%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20USO%20DO%20FORMS%20COMO%20FERRAMENTA%20FACILITADORA%20NO%20PROCESSO%20DE%20ENSINO%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%3A%20processos%20de%20%28auto%29forma%C3%A7%C3%A3o%20do%20professor%20de%20matem%C3%A1tica%20em%20Cana%C3%A3%20dos%20Caraj%C3%A1s&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42771420"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "42771420",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Autoformação do Professor",
-    "Práticas Reflexivas",
-    "Tecnologias Digitais da Informação e Comunicação",
-    "Google Forms",
-    "Ensino de Matemática"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-42771420.svg",
-  "resumo": "A formação autônoma de professores é concebida como resultado da interação de signi-ficados com os 'outros' (formação externa) e dos eventos da vida (experiências pessoais), originando um ambiente de tensão multidimensional na busca da autonomia educacional. Essas conexões podem desencadear a emancipação do indivíduo docente, baseada na re-flexão sobre a autonomia, de acordo com autores como JOSSO e PINEAU. Nesse sentido, um dos propósitos dessa pesquisa é compreender em que termos o Google Forms impac-tam o processo de autoformação de uma professora que ensina matemática no ensino fundamental em Canaã dos Carajás. Pesquisa de caráter qualitativo, que tomará a forma de uma pesquisa-ação, por meio da aplicação de uma sequência didática para alunos do 8 ano A, da Escola Municipal de Educação Básica Ronilton Aridal da Silva - Grilo, na disciplina Matemática, analisando o processo de autoformação de uma professora da SE-MED do Município de Canaã dos Carajás no estado do Pará, cuja base teórica vai seguir os preceitos baseados nas obras de Donald Schön e John Dewey, expressos na Teoria da Prática Reflexiva. Foi organizada em quatro momentos: o primeiro diz respeito à pesquisa bibliográfica, com o propósito de justificar o foco de investigação; o segundo destinado a elaboração de uma sequência didática, para um plano eficaz de acordo com a realidade da turma; o terceiro implica no desenvolvimento da sequência didática em sala de aula, constituída por oito aulas de cinquenta minutos cada uma, para finalizar, a análise refle-xiva da prática a partir da evolução dos alunos e da professora no processo de ensino, com base no que rege habilidades expressas na Base Nacional Comum Curricular (BNCC). Em termos analíticos, faremos uso da “análise qualitativa”, no tratamento das informações advindas dos frutos obtidos através do desenvolvimento da sequência didá-tica. Pretendemos, a partir das análises, organizar e divulgar um Produto Educacional no formato de sequência didática, para auxiliar na percepção dos professores seu processo de autoformação, no que diz respeito as práticas, os paradigmas quanto ao uso das tecno-logias digitais e, o desempenho em relação ao uso das mesmas de acordo com o compo-nente curricular matemática na aprendizagem da probabilidade e estatística escolar ex-presso na BNCC.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-42771420",
+ "autor": "Andrielly Costa Queiroz dos Santos",
+ "ano": 2024,
+ "tipo": "Dissertação",
+ "titulo": "O USO DO FORMS COMO FERRAMENTA FACILITADORA NO PROCESSO DE ENSINO DE PROBABILIDADE E ESTATÍSTICA: processos de (auto)formação do professor de matemática em Canaã dos Carajás",
+ "instituicao": "Universidade Federal do Pará",
+ "cidade": "",
+ "estado": "Pará",
+ "regiao": "Norte",
+ "orientador": "Arthur Goncalves Machado Junior",
+ "programa": "Docência em Educação em Ciências e Matemáticas",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Autoformação do Professor; Práticas Reflexivas; Tecnologias Digitais da Informação e Comunicação; Google Forms; Ensino de Matemática",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20USO%20DO%20FORMS%20COMO%20FERRAMENTA%20FACILITADORA%20NO%20PROCESSO%20DE%20ENSINO%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%3A%20processos%20de%20%28auto%29forma%C3%A7%C3%A3o%20do%20professor%20de%20matem%C3%A1tica%20em%20Cana%C3%A3%20dos%20Caraj%C3%A1s%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20USO%20DO%20FORMS%20COMO%20FERRAMENTA%20FACILITADORA%20NO%20PROCESSO%20DE%20ENSINO%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%3A%20processos%20de%20%28auto%29forma%C3%A7%C3%A3o%20do%20professor%20de%20matem%C3%A1tica%20em%20Cana%C3%A3%20dos%20Caraj%C3%A1s&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42771420"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "42771420",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Autoformação do Professor",
+  "Práticas Reflexivas",
+  "Tecnologias Digitais da Informação e Comunicação",
+  "Google Forms",
+  "Ensino de Matemática"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-42771420.svg",
+ "resumo": "A formação autônoma de professores é concebida como resultado da interação de signi-ficados com os 'outros' (formação externa) e dos eventos da vida (experiências pessoais), originando um ambiente de tensão multidimensional na busca da autonomia educacional. Essas conexões podem desencadear a emancipação do indivíduo docente, baseada na re-flexão sobre a autonomia, de acordo com autores como JOSSO e PINEAU. Nesse sentido, um dos propósitos dessa pesquisa é compreender em que termos o Google Forms impac-tam o processo de autoformação de uma professora que ensina matemática no ensino fundamental em Canaã dos Carajás. Pesquisa de caráter qualitativo, que tomará a forma de uma pesquisa-ação, por meio da aplicação de uma sequência didática para alunos do 8 ano A, da Escola Municipal de Educação Básica Ronilton Aridal da Silva - Grilo, na disciplina Matemática, analisando o processo de autoformação de uma professora da SE-MED do Município de Canaã dos Carajás no estado do Pará, cuja base teórica vai seguir os preceitos baseados nas obras de Donald Schön e John Dewey, expressos na Teoria da Prática Reflexiva. Foi organizada em quatro momentos: o primeiro diz respeito à pesquisa bibliográfica, com o propósito de justificar o foco de investigação; o segundo destinado a elaboração de uma sequência didática, para um plano eficaz de acordo com a realidade da turma; o terceiro implica no desenvolvimento da sequência didática em sala de aula, constituída por oito aulas de cinquenta minutos cada uma, para finalizar, a análise refle-xiva da prática a partir da evolução dos alunos e da professora no processo de ensino, com base no que rege habilidades expressas na Base Nacional Comum Curricular (BNCC). Em termos analíticos, faremos uso da “análise qualitativa”, no tratamento das informações advindas dos frutos obtidos através do desenvolvimento da sequência didá-tica. Pretendemos, a partir das análises, organizar e divulgar um Produto Educacional no formato de sequência didática, para auxiliar na percepção dos professores seu processo de autoformação, no que diz respeito as práticas, os paradigmas quanto ao uso das tecno-logias digitais e, o desempenho em relação ao uso das mesmas de acordo com o compo-nente curricular matemática na aprendizagem da probabilidade e estatística escolar ex-presso na BNCC.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

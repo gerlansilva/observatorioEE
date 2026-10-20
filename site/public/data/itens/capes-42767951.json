@@ -1,61 +1,61 @@
 {
-  "id": "capes-42767951",
-  "autor": "Sezilia Elizabete Rodrigues Garcia Olmo de Toledo",
-  "ano": 2024,
-  "tipo": "Tese",
-  "titulo": "Indícios do Desenvolvimento da Linguagem e do Raciocínio Probabilístico de Crianças do 2.º e 3.º Anos do Ensino Fundamental",
-  "instituicao": "UNIVERSIDADE CRUZEIRO DO SUL",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Marcio Eugen Klingenschmid Lopes dos Santos",
-  "programa": "ENSINO DE CIÊNCIAS",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Probabilidade; Linguagem; Atividades; Infância; Ensino Fundamental",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22IND%C3%8DCIOS%20DO%20DESENVOLVIMENTO%20DA%20LINGUAGEM%20E%20DO%20RACIOC%C3%8DNIO%20PROBABIL%C3%8DSTICO%20DE%20CRIAN%C3%87AS%20DO%202.%C2%BA%20E%203.%C2%BA%20ANOS%20DO%20ENSINO%20FUNDAMENTAL%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=IND%C3%8DCIOS%20DO%20DESENVOLVIMENTO%20DA%20LINGUAGEM%20E%20DO%20RACIOC%C3%8DNIO%20PROBABIL%C3%8DSTICO%20DE%20CRIAN%C3%87AS%20DO%202.%C2%BA%20E%203.%C2%BA%20ANOS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42767951"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "42767951",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Probabilidade",
-    "Linguagem",
-    "Atividades",
-    "Infância",
-    "Ensino Fundamental"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-42767951.svg",
-  "resumo": "Com o intuito de prosseguir um estudo realizado no mestrado, em que se investigou desenvolvimento do raciocínio estocástico de crianças de um segundo ano, este estudo objetiva de modo geral compreender em que condições ocorre o aprendizado da probabilidade por um grupo de crianças cursando o 2.º e 3.º anos do Ensino Fundamental e por objetivos específicos identificar indícios iniciais da linguagem probabilística; ouvir as crianças durante o processo de ensino e aprendizagem; descrever e compreender os indícios do raciocínio probabilístico; analisar as falas e os registros dos alunos na formulação de justificativas e argumentações para a resolução de problemas probabilísticos; analisar avanços em relação à linguagem probabilística apresentada na finalização das atividades realizadas no contexto das aulas de Matemática. Foi utilizada uma abordagem de natureza qualitativa na modalidade Estudo de Caso Longitudinal. Diante disso, para responder quais indícios de raciocínio e linguagem probabilística se manifestam nas narrativas orais e nos registros escritos das crianças pertencentes a um grupo que cursava inicialmente o 2.º ano e, posteriormente, o 3.º ano do Ensino Fundamental nas aulas de matemática foi desenvolvido um conjunto de atividades com um grupo de alunos em dois anos consecutivos em uma escola municipal de Campinas, em que se observou o desenvolvimento do raciocínio probabilístico por meio de um processo de ensino com movimento de escuta aos alunos; das leituras de livros infantis, que abordam a temática da probabilidade; do desenvolvimento de materiais manipulativos e de atividades em que eles foram usados e do registro escrito individual sobre o aprendizado do dia. Os dados foram construídos via observação, videogravados e registrados em um diário de campo, e dos registros escritos das crianças. Para o suporte metodológico, recorreu-se a Piaget e Inhelder (1951), pioneiros no estudo da temática e em Fischbein (1975), Jones et al. (1997), Gal (2002; 2005) e Borovcnik (2016) para interpretar o material coletado. Os resultados revelaram que, quando são desenvolvidas atividades lúdicas que encorajam a participação e expressão dos pensamentos das crianças no contexto da sala de aula, estas, tanto ouvindo como sendo ouvidas, são capazes de refletir probalisticamente, construir conhecimento no decorrer de cada atividade e incorporar o vocabulário probabilístico de modo natural, demonstrando, assim, compreender cada um dos termos utilizados. Suas respostas e julgamentos mostraram-se mais elaborados na finalização das atividades, além de apresentarem construções de conhecimentos elencados para além da etapa escolar que cursavam. A participação das crianças em atividades que estimulem o raciocínio probabilístico e o uso da linguagem adequada propiciam o aprendizado da probabilidade, contribuindo para a formação de cidadãos críticos, capazes de enumerar as consequências para cada escolha realizada e optar por aquela que apresente maiores benefícios para o bem comum.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "raciocínio probabilístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-42767951",
+ "autor": "Sezilia Elizabete Rodrigues Garcia Olmo de Toledo",
+ "ano": 2024,
+ "tipo": "Tese",
+ "titulo": "Indícios do Desenvolvimento da Linguagem e do Raciocínio Probabilístico de Crianças do 2.º e 3.º Anos do Ensino Fundamental",
+ "instituicao": "Universidade Cruzeiro do Sul",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Marcio Eugen Klingenschmid Lopes dos Santos",
+ "programa": "ENSINO DE CIÊNCIAS",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Probabilidade; Linguagem; Atividades; Infância; Ensino Fundamental",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22IND%C3%8DCIOS%20DO%20DESENVOLVIMENTO%20DA%20LINGUAGEM%20E%20DO%20RACIOC%C3%8DNIO%20PROBABIL%C3%8DSTICO%20DE%20CRIAN%C3%87AS%20DO%202.%C2%BA%20E%203.%C2%BA%20ANOS%20DO%20ENSINO%20FUNDAMENTAL%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=IND%C3%8DCIOS%20DO%20DESENVOLVIMENTO%20DA%20LINGUAGEM%20E%20DO%20RACIOC%C3%8DNIO%20PROBABIL%C3%8DSTICO%20DE%20CRIAN%C3%87AS%20DO%202.%C2%BA%20E%203.%C2%BA%20ANOS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42767951"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "42767951",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Probabilidade",
+  "Linguagem",
+  "Atividades",
+  "Infância",
+  "Ensino Fundamental"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-42767951.svg",
+ "resumo": "Com o intuito de prosseguir um estudo realizado no mestrado, em que se investigou desenvolvimento do raciocínio estocástico de crianças de um segundo ano, este estudo objetiva de modo geral compreender em que condições ocorre o aprendizado da probabilidade por um grupo de crianças cursando o 2.º e 3.º anos do Ensino Fundamental e por objetivos específicos identificar indícios iniciais da linguagem probabilística; ouvir as crianças durante o processo de ensino e aprendizagem; descrever e compreender os indícios do raciocínio probabilístico; analisar as falas e os registros dos alunos na formulação de justificativas e argumentações para a resolução de problemas probabilísticos; analisar avanços em relação à linguagem probabilística apresentada na finalização das atividades realizadas no contexto das aulas de Matemática. Foi utilizada uma abordagem de natureza qualitativa na modalidade Estudo de Caso Longitudinal. Diante disso, para responder quais indícios de raciocínio e linguagem probabilística se manifestam nas narrativas orais e nos registros escritos das crianças pertencentes a um grupo que cursava inicialmente o 2.º ano e, posteriormente, o 3.º ano do Ensino Fundamental nas aulas de matemática foi desenvolvido um conjunto de atividades com um grupo de alunos em dois anos consecutivos em uma escola municipal de Campinas, em que se observou o desenvolvimento do raciocínio probabilístico por meio de um processo de ensino com movimento de escuta aos alunos; das leituras de livros infantis, que abordam a temática da probabilidade; do desenvolvimento de materiais manipulativos e de atividades em que eles foram usados e do registro escrito individual sobre o aprendizado do dia. Os dados foram construídos via observação, videogravados e registrados em um diário de campo, e dos registros escritos das crianças. Para o suporte metodológico, recorreu-se a Piaget e Inhelder (1951), pioneiros no estudo da temática e em Fischbein (1975), Jones et al. (1997), Gal (2002; 2005) e Borovcnik (2016) para interpretar o material coletado. Os resultados revelaram que, quando são desenvolvidas atividades lúdicas que encorajam a participação e expressão dos pensamentos das crianças no contexto da sala de aula, estas, tanto ouvindo como sendo ouvidas, são capazes de refletir probalisticamente, construir conhecimento no decorrer de cada atividade e incorporar o vocabulário probabilístico de modo natural, demonstrando, assim, compreender cada um dos termos utilizados. Suas respostas e julgamentos mostraram-se mais elaborados na finalização das atividades, além de apresentarem construções de conhecimentos elencados para além da etapa escolar que cursavam. A participação das crianças em atividades que estimulem o raciocínio probabilístico e o uso da linguagem adequada propiciam o aprendizado da probabilidade, contribuindo para a formação de cidadãos críticos, capazes de enumerar as consequências para cada escolha realizada e optar por aquela que apresente maiores benefícios para o bem comum.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "raciocínio probabilístico"
+ ],
+ "ids_duplicados": []
 }

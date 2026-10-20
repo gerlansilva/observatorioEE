@@ -1,62 +1,62 @@
 {
-  "id": "capes-21927464",
-  "autor": "Patricia Melo Rocha",
-  "ano": 2016,
-  "tipo": "Dissertação",
-  "titulo": "A Resolução de Problemas no Ensino de Estatística: Uma Contribuição na Formação Inicial do Professor de Matemática",
-  "instituicao": "UNIVERSIDADE ESTADUAL DA PARAIBA",
-  "cidade": "",
-  "estado": "Paraíba",
-  "regiao": "Nordeste",
-  "orientador": "Roger Ruben Huaman Huanca",
-  "programa": "ENSINO DE CIÊNCIAS E EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Formação Inicial de Professores; Ensino de Estatística e Probabilidade; Resolução de Problemas; Educação Estatística",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20NO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%3A%20UMA%20CONTRIBUI%C3%87%C3%83O%20NA%20FORMA%C3%87%C3%83O%20INICIAL%20DO%20PROFESSOR%20DE%20MATEM%C3%81TICA%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20NO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%3A%20UMA%20CONTRIBUI%C3%87%C3%83O%20NA%20FORMA%C3%87%C3%83O%20INICIAL%20DO%20PROFESSOR%20DE%20MATEM%C3%81TICA&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21927464"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "21927464",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Formação Inicial de Professores",
-    "Ensino de Estatística e Probabilidade",
-    "Resolução de Problemas",
-    "Educação Estatística"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-21927464.svg",
-  "resumo": "O presente trabalho insere-se no campo da formação inicial docente em nível superior. Tendo como contexto o curso de Licenciatura em Matemática na Universidade Estadual da Paraíba, Campus Monteiro. O objetivo desta pesquisa foi identificar, analisar, compreender e descrever como os alunos desse curso desenvolvem suas habilidades e atitudes para a prática da sala de aula, utilizando a Metodologia de Ensino-Aprendizagem-Avaliação de Matemática através da Resolução de Problemas no contexto da Estatística e da Educação Estatística. Para realização desta pesquisa, foi utilizada como metodologia científica o Esboço de Thomas A. Romberg, em que ele apresenta 10 atividades essenciais a desenvolver em uma pesquisa. O referencial teórico adotado nesta pesquisa foi um entrelaçamento dos seguintes temas: Estatística e Probabilidade; Resolução de Problemas; A Formação Inicial de Professores de Matemática; e Educação Estatística. E com base nesta última temática, conjugou-se o Letramento Estatístico, o Pensamento Crítico e a Compreensão dos Conceitos. O trabalho desenvolveu-se por meio de uma pesquisa qualitativa, tomando como sujeitos os alunos do 9º período matriculados no componente curricular Estatística e Probabilidade durante o segundo semestre de 2016. A produção de dados se deu, além dos registros da pesquisadora no diário de campo, pelas anotações dos alunos, pelas filmagens e gravações feitas durante os encontros, e também por meio de entrevistas com alguns professores da área de Estatística, Educação Estatística e aqueles que trabalham e pesquisam sobre Resolução de Problemas, realizadas pela pesquisadora no decorrer da pesquisa. A partir da análise dos dados obtidos na pesquisa, conclui-se que os alunos ao se envolverem na perspectiva da Resolução de Problemas, desenvolveram sua autonomia, construindo seu próprio conhecimento, favorecendo assim uma aprendizagem mais significativa que contribuiu para a sua formação docente, transformando-os para exercer uma cidadania reflexiva.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística",
-    "ensino de probabilidade"
-  ],
-  "ids_duplicados": []
+ "id": "capes-21927464",
+ "autor": "Patricia Melo Rocha",
+ "ano": 2016,
+ "tipo": "Dissertação",
+ "titulo": "A Resolução de Problemas no Ensino de Estatística: Uma Contribuição na Formação Inicial do Professor de Matemática",
+ "instituicao": "Universidade Estadual da Paraiba",
+ "cidade": "",
+ "estado": "Paraíba",
+ "regiao": "Nordeste",
+ "orientador": "Roger Ruben Huaman Huanca",
+ "programa": "ENSINO DE CIÊNCIAS E EDUCAÇÃO MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Formação Inicial de Professores; Ensino de Estatística e Probabilidade; Resolução de Problemas; Educação Estatística",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20NO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%3A%20UMA%20CONTRIBUI%C3%87%C3%83O%20NA%20FORMA%C3%87%C3%83O%20INICIAL%20DO%20PROFESSOR%20DE%20MATEM%C3%81TICA%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20NO%20ENSINO%20DE%20ESTAT%C3%8DSTICA%3A%20UMA%20CONTRIBUI%C3%87%C3%83O%20NA%20FORMA%C3%87%C3%83O%20INICIAL%20DO%20PROFESSOR%20DE%20MATEM%C3%81TICA&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21927464"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "21927464",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Formação Inicial de Professores",
+  "Ensino de Estatística e Probabilidade",
+  "Resolução de Problemas",
+  "Educação Estatística"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-21927464.svg",
+ "resumo": "O presente trabalho insere-se no campo da formação inicial docente em nível superior. Tendo como contexto o curso de Licenciatura em Matemática na Universidade Estadual da Paraíba, Campus Monteiro. O objetivo desta pesquisa foi identificar, analisar, compreender e descrever como os alunos desse curso desenvolvem suas habilidades e atitudes para a prática da sala de aula, utilizando a Metodologia de Ensino-Aprendizagem-Avaliação de Matemática através da Resolução de Problemas no contexto da Estatística e da Educação Estatística. Para realização desta pesquisa, foi utilizada como metodologia científica o Esboço de Thomas A. Romberg, em que ele apresenta 10 atividades essenciais a desenvolver em uma pesquisa. O referencial teórico adotado nesta pesquisa foi um entrelaçamento dos seguintes temas: Estatística e Probabilidade; Resolução de Problemas; A Formação Inicial de Professores de Matemática; e Educação Estatística. E com base nesta última temática, conjugou-se o Letramento Estatístico, o Pensamento Crítico e a Compreensão dos Conceitos. O trabalho desenvolveu-se por meio de uma pesquisa qualitativa, tomando como sujeitos os alunos do 9º período matriculados no componente curricular Estatística e Probabilidade durante o segundo semestre de 2016. A produção de dados se deu, além dos registros da pesquisadora no diário de campo, pelas anotações dos alunos, pelas filmagens e gravações feitas durante os encontros, e também por meio de entrevistas com alguns professores da área de Estatística, Educação Estatística e aqueles que trabalham e pesquisam sobre Resolução de Problemas, realizadas pela pesquisadora no decorrer da pesquisa. A partir da análise dos dados obtidos na pesquisa, conclui-se que os alunos ao se envolverem na perspectiva da Resolução de Problemas, desenvolveram sua autonomia, construindo seu próprio conhecimento, favorecendo assim uma aprendizagem mais significativa que contribuiu para a sua formação docente, transformando-os para exercer uma cidadania reflexiva.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística",
+  "ensino de probabilidade"
+ ],
+ "ids_duplicados": []
 }

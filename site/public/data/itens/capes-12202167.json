@@ -1,54 +1,54 @@
 {
-  "id": "capes-12202167",
-  "autor": "Rodrigo Medeiros dos Santos",
-  "ano": 2015,
-  "tipo": "Tese",
-  "titulo": "Estado da arte e história da pesquisa em Educação Estatística em programas brasileiros de pós-graduação",
-  "instituicao": "UNIVERSIDADE ESTADUAL DE CAMPINAS",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Dario Fiorentini",
-  "programa": "EDUCAÇÃO",
-  "area": "Educação",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Estatística, Estado da Arte, história da pesquisa",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Estado%20da%20arte%20e%20hist%C3%B3ria%20da%20pesquisa%20em%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20em%20programas%20brasileiros%20de%20p%C3%B3s-gradua%C3%A7%C3%A3o%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estado%20da%20arte%20e%20hist%C3%B3ria%20da%20pesquisa%20em%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20em%20programas%20brasileiros%20de%20p%C3%B3s-gradua%C3%A7%C3%A3o&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/12202167"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "12202167",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Estatística, Estado da Arte, história da pesquisa"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-12202167.svg",
-  "resumo": "O objetivo desta investigação foi, a partir da modalidade de pesquisa do estado da arte, inventariar, sistematizar, descrever e analisar a configuração da pesquisa brasileira em Educação Estatística produzida no âmbito dos programas de pós-graduação stricto sensu, destacando notadamente suas principais linhas temáticas e teórico-metodológicas. Para tanto, compomos um catálogo constituído de 259 pesquisas, entre teses e dissertações, produzidas em programas brasileiros de pós-graduação até o ano de 2012 (inclusive) e que abordavam em seu bojo questões relacionadas ao processo de ensinar e aprender Estatística, Probabilidade e Combinatória nos diversos níveis de ensino. O catálogo geral da produção foi desenvolvido a partir do fichamento de cada pesquisa, tendo por base seus dados bibliográficos e resumos.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": null
+ "id": "capes-12202167",
+ "autor": "Rodrigo Medeiros dos Santos",
+ "ano": 2015,
+ "tipo": "Tese",
+ "titulo": "Estado da arte e história da pesquisa em Educação Estatística em programas brasileiros de pós-graduação",
+ "instituicao": "Universidade Estadual de Campinas",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Dario Fiorentini",
+ "programa": "EDUCAÇÃO",
+ "area": "Educação",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Estatística, Estado da Arte, história da pesquisa",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Estado%20da%20arte%20e%20hist%C3%B3ria%20da%20pesquisa%20em%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20em%20programas%20brasileiros%20de%20p%C3%B3s-gradua%C3%A7%C3%A3o%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estado%20da%20arte%20e%20hist%C3%B3ria%20da%20pesquisa%20em%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20em%20programas%20brasileiros%20de%20p%C3%B3s-gradua%C3%A7%C3%A3o&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/12202167"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "12202167",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Estatística, Estado da Arte, história da pesquisa"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-12202167.svg",
+ "resumo": "O objetivo desta investigação foi, a partir da modalidade de pesquisa do estado da arte, inventariar, sistematizar, descrever e analisar a configuração da pesquisa brasileira em Educação Estatística produzida no âmbito dos programas de pós-graduação stricto sensu, destacando notadamente suas principais linhas temáticas e teórico-metodológicas. Para tanto, compomos um catálogo constituído de 259 pesquisas, entre teses e dissertações, produzidas em programas brasileiros de pós-graduação até o ano de 2012 (inclusive) e que abordavam em seu bojo questões relacionadas ao processo de ensinar e aprender Estatística, Probabilidade e Combinatória nos diversos níveis de ensino. O catálogo geral da produção foi desenvolvido a partir do fichamento de cada pesquisa, tendo por base seus dados bibliográficos e resumos.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": null
 }

@@ -1,59 +1,59 @@
 {
-  "id": "capes-41347212",
-  "autor": "Julio Cesar Wernersbach",
-  "ano": 2024,
-  "tipo": "Dissertação",
-  "titulo": "Além da contagem tradicional: proposta de estudo do Princípio da Casa de Pombos no ensino básico",
-  "instituicao": "UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO",
-  "cidade": "",
-  "estado": "Espírito Santo",
-  "regiao": "Sudeste",
-  "orientador": "Florencio Ferreira Guimaraes Filho",
-  "programa": "Matemática em Rede Nacional",
-  "area": "CIÊNCIAS E HUMANIDADES PARA A EDUCAÇÃO BÁSICA",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "análise combinatória; contagem; Princípio da Casa de Pombos; escola básica.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Al%C3%A9m%20da%20contagem%20tradicional%3A%20proposta%20de%20estudo%20do%20Princ%C3%ADpio%20da%20Casa%20de%20Pombos%20no%20ensino%20b%C3%A1sico%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Al%C3%A9m%20da%20contagem%20tradicional%3A%20proposta%20de%20estudo%20do%20Princ%C3%ADpio%20da%20Casa%20de%20Pombos%20no%20ensino%20b%C3%A1sico&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41347212"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "41347212",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "análise combinatória",
-    "contagem",
-    "Princípio da Casa de Pombos",
-    "escola básica."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-41347212.svg",
-  "resumo": "A análise combinatória é um assunto de suma importância na matemática escolar. O estudo pautado no princípio fundamental da contagem (PFC), transpassando pelos tópicos de permutações, arranjos e combinações, é fundamental para a resolução de problemas cotidianos. Chamando esta prática de “contagem tradicional\", o presente trabalho tem por proposta uma nova visão do processo de contagem, utilizando o Princípio da Casa de Pombos. A ideia desta ferramenta é auxiliar no estabelecimento de limites e condições mínimas de uma variedade de questões envolvendo a contagem. De maneira resumida, o Princípio da Casa de Pombos baseia-se na certeza de que se existirem mais pombos do que casas, haverá ao menos uma casa com mais de um pombo. Esse parece ser um fato de fácil compreensão e observação, contudo, não deve ser menosprezado, afinal, como será visto durante este trabalho, problemas dificílimos podem ser resolvidos com a utilização deste princípio. A partir disso, o banco de questões e o planejamento que serão elaborados visam amparar docentes em uma possível apresentação deste tema alternativo nas escolas de ensino básico.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "coleta expandida (plural/vocabulário)"
-  ]
+ "id": "capes-41347212",
+ "autor": "Julio Cesar Wernersbach",
+ "ano": 2024,
+ "tipo": "Dissertação",
+ "titulo": "Além da contagem tradicional: proposta de estudo do Princípio da Casa de Pombos no ensino básico",
+ "instituicao": "Universidade Federal do Espírito Santo",
+ "cidade": "",
+ "estado": "Espírito Santo",
+ "regiao": "Sudeste",
+ "orientador": "Florencio Ferreira Guimaraes Filho",
+ "programa": "Matemática em Rede Nacional",
+ "area": "CIÊNCIAS E HUMANIDADES PARA A EDUCAÇÃO BÁSICA",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "análise combinatória; contagem; Princípio da Casa de Pombos; escola básica.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Al%C3%A9m%20da%20contagem%20tradicional%3A%20proposta%20de%20estudo%20do%20Princ%C3%ADpio%20da%20Casa%20de%20Pombos%20no%20ensino%20b%C3%A1sico%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Al%C3%A9m%20da%20contagem%20tradicional%3A%20proposta%20de%20estudo%20do%20Princ%C3%ADpio%20da%20Casa%20de%20Pombos%20no%20ensino%20b%C3%A1sico&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41347212"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "41347212",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "análise combinatória",
+  "contagem",
+  "Princípio da Casa de Pombos",
+  "escola básica."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-41347212.svg",
+ "resumo": "A análise combinatória é um assunto de suma importância na matemática escolar. O estudo pautado no princípio fundamental da contagem (PFC), transpassando pelos tópicos de permutações, arranjos e combinações, é fundamental para a resolução de problemas cotidianos. Chamando esta prática de “contagem tradicional\", o presente trabalho tem por proposta uma nova visão do processo de contagem, utilizando o Princípio da Casa de Pombos. A ideia desta ferramenta é auxiliar no estabelecimento de limites e condições mínimas de uma variedade de questões envolvendo a contagem. De maneira resumida, o Princípio da Casa de Pombos baseia-se na certeza de que se existirem mais pombos do que casas, haverá ao menos uma casa com mais de um pombo. Esse parece ser um fato de fácil compreensão e observação, contudo, não deve ser menosprezado, afinal, como será visto durante este trabalho, problemas dificílimos podem ser resolvidos com a utilização deste princípio. A partir disso, o banco de questões e o planejamento que serão elaborados visam amparar docentes em uma possível apresentação deste tema alternativo nas escolas de ensino básico.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "coleta expandida (plural/vocabulário)"
+ ]
 }

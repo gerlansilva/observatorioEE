@@ -1,62 +1,62 @@
 {
-  "id": "capes-20320462",
-  "autor": "Leonardo Bertholdo de Assis",
-  "ano": 2015,
-  "tipo": "Dissertação",
-  "titulo": "A formação do usuário de Estatística pelo desenvolvimento da literacia estatística, do raciocínio estatístico e do pensamento estatístico através de atividades exploratórias",
-  "instituicao": "UNIVERSIDADE FEDERAL DE JUIZ DE FORA",
-  "cidade": "",
-  "estado": "Minas Gerais",
-  "regiao": "Sudeste",
-  "orientador": "Ronaldo Rocha Bastos",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Usuário de Estatística; Competências estatísticas; Ensino de Estatística; Atividades exploratórias.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20forma%C3%A7%C3%A3o%20do%20usu%C3%A1rio%20de%20Estat%C3%ADstica%20pelo%20desenvolvimento%20da%20literacia%20estat%C3%ADstica%2C%20do%20racioc%C3%ADnio%20estat%C3%ADstico%20e%20do%20pensamento%20estat%C3%ADstico%20atrav%C3%A9s%20de%20atividades%20explorat%C3%B3rias%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20forma%C3%A7%C3%A3o%20do%20usu%C3%A1rio%20de%20Estat%C3%ADstica%20pelo%20desenvolvimento%20da%20literacia%20estat%C3%ADstica%2C%20do%20racioc%C3%ADnio%20estat%C3%ADstico%20e%20do%20pensamento%20estat%C3%ADstico%20atrav%C3%A9s%20de%20atividades%20explorat%C3%B3rias&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20320462"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "20320462",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Usuário de Estatística",
-    "Competências estatísticas",
-    "Ensino de Estatística",
-    "Atividades exploratórias."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-20320462.svg",
-  "resumo": "O presente trabalho tem por objetivo observar e analisar como atividades exploratórias podem contribuir para a formação do usuário de Estatística, que deve ser um cidadão crítico e ativo diante de informações estatísticas. O trabalho fundamentou -se teoricamente em aspectos da Educação Estatística, com foco nas competências estatísticas, literacia estatística, raciocínio estatístico e pensamento estatístico. A pesquisa de campo foi realizada com alunos do curso de Administração que já haviam estudado a disciplina Estatística básica anteriormente. Foram aplicadas três atividades para a verificação do desenvolvimento das competências nos alunos através da análise dos registros das resoluções. Os resultados obtidos apontam positivamente para o desenvolvimento, principalmente do pensamento estatístico, que julgamos essencial para a formação do usuário de estatística.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de estatística",
-    "pensamento estatístico",
-    "raciocínio estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-20320462",
+ "autor": "Leonardo Bertholdo de Assis",
+ "ano": 2015,
+ "tipo": "Dissertação",
+ "titulo": "A formação do usuário de Estatística pelo desenvolvimento da literacia estatística, do raciocínio estatístico e do pensamento estatístico através de atividades exploratórias",
+ "instituicao": "Universidade Federal de Juiz de Fora",
+ "cidade": "",
+ "estado": "Minas Gerais",
+ "regiao": "Sudeste",
+ "orientador": "Ronaldo Rocha Bastos",
+ "programa": "EDUCAÇÃO MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Usuário de Estatística; Competências estatísticas; Ensino de Estatística; Atividades exploratórias.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20forma%C3%A7%C3%A3o%20do%20usu%C3%A1rio%20de%20Estat%C3%ADstica%20pelo%20desenvolvimento%20da%20literacia%20estat%C3%ADstica%2C%20do%20racioc%C3%ADnio%20estat%C3%ADstico%20e%20do%20pensamento%20estat%C3%ADstico%20atrav%C3%A9s%20de%20atividades%20explorat%C3%B3rias%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20forma%C3%A7%C3%A3o%20do%20usu%C3%A1rio%20de%20Estat%C3%ADstica%20pelo%20desenvolvimento%20da%20literacia%20estat%C3%ADstica%2C%20do%20racioc%C3%ADnio%20estat%C3%ADstico%20e%20do%20pensamento%20estat%C3%ADstico%20atrav%C3%A9s%20de%20atividades%20explorat%C3%B3rias&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20320462"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "20320462",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Usuário de Estatística",
+  "Competências estatísticas",
+  "Ensino de Estatística",
+  "Atividades exploratórias."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-20320462.svg",
+ "resumo": "O presente trabalho tem por objetivo observar e analisar como atividades exploratórias podem contribuir para a formação do usuário de Estatística, que deve ser um cidadão crítico e ativo diante de informações estatísticas. O trabalho fundamentou -se teoricamente em aspectos da Educação Estatística, com foco nas competências estatísticas, literacia estatística, raciocínio estatístico e pensamento estatístico. A pesquisa de campo foi realizada com alunos do curso de Administração que já haviam estudado a disciplina Estatística básica anteriormente. Foram aplicadas três atividades para a verificação do desenvolvimento das competências nos alunos através da análise dos registros das resoluções. Os resultados obtidos apontam positivamente para o desenvolvimento, principalmente do pensamento estatístico, que julgamos essencial para a formação do usuário de estatística.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de estatística",
+  "pensamento estatístico",
+  "raciocínio estatístico"
+ ],
+ "ids_duplicados": []
 }

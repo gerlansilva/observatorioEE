@@ -1,62 +1,62 @@
 {
-  "id": "capes-35553380",
-  "autor": "Angelita Maria Schimitz Silva",
-  "ano": 2021,
-  "tipo": "Dissertação",
-  "titulo": "O Ensino Híbrido na Aprendizagem Ativa de Probabilidade e Estatística: Um Estudo com Alunos do 5º Ano do Ensino Fundamental em uma Escola Privada de Boa VISTA-RR",
-  "instituicao": "UNIVERSIDADE ESTADUAL DE RORAIMA",
-  "cidade": "",
-  "estado": "Roraima",
-  "regiao": "Norte",
-  "orientador": "Enia Maria Ferst",
-  "programa": "Ensino de Ciências",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Metodologia Ativa; Ensino Híbrido; Matemática.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ENSINO%20H%C3%8DBRIDO%20NA%20APRENDIZAGEM%20ATIVA%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%3A%20UM%20ESTUDO%20COM%20ALUNOS%20DO%205%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%20EM%20UMA%20ESCOLA%20PRIVADA%20DE%20BOA%20VISTA-RR%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ENSINO%20H%C3%8DBRIDO%20NA%20APRENDIZAGEM%20ATIVA%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%3A%20UM%20ESTUDO%20COM%20ALUNOS%20DO%205%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%20EM%20UMA%20ESCOLA%20PRIVADA%20DE%20BOA%20VISTA-RR&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35553380"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "35553380",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Metodologia Ativa",
-    "Ensino Híbrido",
-    "Matemática."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-35553380.svg",
-  "resumo": "Considerando que os tempos mudaram e, com isso, as exigências educacionais também e que existem uma diversidade de desafios educacionais para enfrentarmos rotineiramente, um questionamento surge em meio a essa discussão: Quais as contribuições das metodologias ativas nos modelos rotacionais do Ensino Híbrido como recursos metodológicos de ensino e aprendizagem no desenvolvimento do objeto de conhecimento leitura, coleta, classificação, interpretação e representação de dados em tabelas e gráficos na disciplina de Matemática, com aporte na Base Nacional Comum Curricular – BNCC (BRASIL, 2017), no 5º ano do Ensino Fundamental? Então, nasce a necessidade de pesquisar sobre as temáticas metodologias ativas e ensino híbrido: uso integrado das tecnologias digitais nas práticas pedagógicas do professor do Ensino Fundamental. Este trabalho tem como finalidade propor uma discussão e reflexão acerca das possibilidades do ensino híbrido na aprendizagem de probabilidade e estatística, fundamentado na metodologia ativa que contribui para um maior engajamento dos estudantes e na sua autonomia em busca da aprendizagem. Possibilitando que eles se desenvolvam de maneira integral, aliando a aprendizagem do conteúdo a de outras habilidades, essa metodologia ativa será usada no modelo de rotação do ensino híbrido: Sala de Aula Invertida, com a mediação citada na teoria históricocultural: um estudo no 5º ano do Ensino Fundamental em uma escola privada de Boa Vista-RR. Atendendo aos anseios tecnológicos desta geração de nativos digitais proporcionando aos alunos nos anos iniciais do ensino fundamental a possibilidade de construir seu raciocínio lógico matemático de uma forma diferente, autônoma, personalizada e eficaz. Para atingir tal objetivo, adotou-se uma pesquisa bibliográfica, de cunho qualitativo, que teve como apoio os autores Vygotsky (1896- 1934), Bacich, Tanzi Neto e Trevizani (2015) e Bacich e Moran (2018), para o entendimento da proposta do projeto. São participantes da pesquisa, um professor e 12 alunos do 5º ano do Ensino Fundamental. Plano de aula, questionário e entrevista foram instrumentos de coleta de dados, analisados qualitativamente. Como resultado, constatamos que o ensino híbrido constitui uma promissora metodologia de aprendizagem ativa, que atende essa nova geração nativa digital sendo um aliado dos professores, permitindo criar e recriar diferentes formas de personalização do ensino de Matemática. Observamos colaboração entre os pares e a utilização das Tecnologias Digitais de Informação e Comunicação (TDICs), como recursos auxiliares para aprender, na percepção dos estudantes e do professor e que este, apesar dos desafios de inserção das tecnologias digitais, considerou que o uso integrado ao Ensino Híbrido, promoveu à personalização do ensino e aprendizagem ativa, fornecendo mediações mais eficientes em relação às demandas específicas dos estudantes.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de estatística",
-    "ensino de probabilidade"
-  ],
-  "ids_duplicados": [
-    "39716541"
-  ]
+ "id": "capes-35553380",
+ "autor": "Angelita Maria Schimitz Silva",
+ "ano": 2021,
+ "tipo": "Dissertação",
+ "titulo": "O Ensino Híbrido na Aprendizagem Ativa de Probabilidade e Estatística: Um Estudo com Alunos do 5º Ano do Ensino Fundamental em uma Escola Privada de Boa VISTA-RR",
+ "instituicao": "Universidade Estadual de Roraima",
+ "cidade": "",
+ "estado": "Roraima",
+ "regiao": "Norte",
+ "orientador": "Enia Maria Ferst",
+ "programa": "Ensino de Ciências",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Metodologia Ativa; Ensino Híbrido; Matemática.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ENSINO%20H%C3%8DBRIDO%20NA%20APRENDIZAGEM%20ATIVA%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%3A%20UM%20ESTUDO%20COM%20ALUNOS%20DO%205%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%20EM%20UMA%20ESCOLA%20PRIVADA%20DE%20BOA%20VISTA-RR%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ENSINO%20H%C3%8DBRIDO%20NA%20APRENDIZAGEM%20ATIVA%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%3A%20UM%20ESTUDO%20COM%20ALUNOS%20DO%205%C2%BA%20ANO%20DO%20ENSINO%20FUNDAMENTAL%20EM%20UMA%20ESCOLA%20PRIVADA%20DE%20BOA%20VISTA-RR&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35553380"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "35553380",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Metodologia Ativa",
+  "Ensino Híbrido",
+  "Matemática."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-35553380.svg",
+ "resumo": "Considerando que os tempos mudaram e, com isso, as exigências educacionais também e que existem uma diversidade de desafios educacionais para enfrentarmos rotineiramente, um questionamento surge em meio a essa discussão: Quais as contribuições das metodologias ativas nos modelos rotacionais do Ensino Híbrido como recursos metodológicos de ensino e aprendizagem no desenvolvimento do objeto de conhecimento leitura, coleta, classificação, interpretação e representação de dados em tabelas e gráficos na disciplina de Matemática, com aporte na Base Nacional Comum Curricular – BNCC (BRASIL, 2017), no 5º ano do Ensino Fundamental? Então, nasce a necessidade de pesquisar sobre as temáticas metodologias ativas e ensino híbrido: uso integrado das tecnologias digitais nas práticas pedagógicas do professor do Ensino Fundamental. Este trabalho tem como finalidade propor uma discussão e reflexão acerca das possibilidades do ensino híbrido na aprendizagem de probabilidade e estatística, fundamentado na metodologia ativa que contribui para um maior engajamento dos estudantes e na sua autonomia em busca da aprendizagem. Possibilitando que eles se desenvolvam de maneira integral, aliando a aprendizagem do conteúdo a de outras habilidades, essa metodologia ativa será usada no modelo de rotação do ensino híbrido: Sala de Aula Invertida, com a mediação citada na teoria históricocultural: um estudo no 5º ano do Ensino Fundamental em uma escola privada de Boa Vista-RR. Atendendo aos anseios tecnológicos desta geração de nativos digitais proporcionando aos alunos nos anos iniciais do ensino fundamental a possibilidade de construir seu raciocínio lógico matemático de uma forma diferente, autônoma, personalizada e eficaz. Para atingir tal objetivo, adotou-se uma pesquisa bibliográfica, de cunho qualitativo, que teve como apoio os autores Vygotsky (1896- 1934), Bacich, Tanzi Neto e Trevizani (2015) e Bacich e Moran (2018), para o entendimento da proposta do projeto. São participantes da pesquisa, um professor e 12 alunos do 5º ano do Ensino Fundamental. Plano de aula, questionário e entrevista foram instrumentos de coleta de dados, analisados qualitativamente. Como resultado, constatamos que o ensino híbrido constitui uma promissora metodologia de aprendizagem ativa, que atende essa nova geração nativa digital sendo um aliado dos professores, permitindo criar e recriar diferentes formas de personalização do ensino de Matemática. Observamos colaboração entre os pares e a utilização das Tecnologias Digitais de Informação e Comunicação (TDICs), como recursos auxiliares para aprender, na percepção dos estudantes e do professor e que este, apesar dos desafios de inserção das tecnologias digitais, considerou que o uso integrado ao Ensino Híbrido, promoveu à personalização do ensino e aprendizagem ativa, fornecendo mediações mais eficientes em relação às demandas específicas dos estudantes.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de estatística",
+  "ensino de probabilidade"
+ ],
+ "ids_duplicados": [
+  "39716541"
+ ]
 }

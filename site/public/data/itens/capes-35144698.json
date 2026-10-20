@@ -1,59 +1,59 @@
 {
-  "id": "capes-35144698",
-  "autor": "Cristiane de Fatima Budek Dias",
-  "ano": 2021,
-  "tipo": "Tese",
-  "titulo": "Formação de Professores dos Anos Iniciais do Ensino Fundamental: Base de Conhecimento no Ensino da Estatística",
-  "instituicao": "UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ",
-  "cidade": "",
-  "estado": "Paraná",
-  "regiao": "Sul",
-  "orientador": "Guatacara dos Santos Junior",
-  "programa": "ENSINO DE CIÊNCIA E TECNOLOGIA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "ensino e aprendizagem de Estatística; formação docente; conhecimento docente",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22FORMA%C3%87%C3%83O%20DE%20PROFESSORES%20DOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20BASE%20DE%20CONHECIMENTO%20NO%20ENSINO%20DA%20ESTAT%C3%8DSTICA%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=FORMA%C3%87%C3%83O%20DE%20PROFESSORES%20DOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20BASE%20DE%20CONHECIMENTO%20NO%20ENSINO%20DA%20ESTAT%C3%8DSTICA&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35144698"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "35144698",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "ensino e aprendizagem de Estatística",
-    "formação docente",
-    "conhecimento docente"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-35144698.svg",
-  "resumo": "O presente estudo tem como objetivo conceber a base de conhecimento a ser contemplada numa proposta de formação de professores dos anos iniciais do Ensino Fundamental para o ensino de estatística. Para alcançar esse objetivo, desenvolveu-se uma pesquisa qualitativa, exploratória e explicativa, iniciando-se com revisões sistemáticas da literatura sobre a formação docente para o ensino de estatística, aprofundamento na teoria da Base de Conhecimentos para a Docência, de Lee Shulman e Pamela L. Grossman, e finalizando por meio de entrevistas com professores dos anos iniciais do Ensino Fundamental do estado do Paraná e com pesquisadores brasileiros especialistas da área da Educação Estatística A análise dos dados teve aporte na metodologia da Análise Textual Discursiva (ATD), permitindo a reflexão sobre os conhecimentos, práticas e anseios dos participantes. Os resultados indicam que existe uma gama de conhecimentos específicos para o ensino de estatística, os quais envolvem conteúdo e didática. Entre os conhecimentos basilares para o ensino de estatística, destacam-se: i) conhecimento do conteúdo da estatística, o qual envolve o conteúdo específico, suas estruturas sintáticas e substantivas, e o campo da Educação Estatística; ii) conhecimento pedagógico geral, englobando os componentes alunos e aprendizagem, gestão da sala de aula, currículo e ensino, e avaliação das aprendizagens; iii) conhecimento pedagógico da estatística, incluindo uma gama de conhecimentos próprios da ação de ensino, como dos propósitos para se ensinar estatística, da compreensão dos alunos, do currículo, das estratégias pedagógicas e da avaliação das aprendizagens em Estatística e iv) do contexto, o qual está diretamente relacionado ao conhecimento das compreensões dos alunos, da comunidade, do distrito e da escola onde se exerce a função docente. No que tange às propostas de formação continuada, pode-se dizer que é preciso atenção para: i) cativar os professores; ii) entender como foi a formação básica e profissional do professor; iii) fazer o diagnóstico de seus conhecimentos prévios em relação ao conteúdo; iv) respeitar seus conhecimentos pedagógicos; v) primar pela atividade docente durante as propostas e vi) escolher propostas nas quais o conteúdo seja tratado ao passo que são realizadas investigações por meio de projetos que envolvam o contexto do professor.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-35144698",
+ "autor": "Cristiane de Fatima Budek Dias",
+ "ano": 2021,
+ "tipo": "Tese",
+ "titulo": "Formação de Professores dos Anos Iniciais do Ensino Fundamental: Base de Conhecimento no Ensino da Estatística",
+ "instituicao": "Universidade Tecnológica Federal do Paraná",
+ "cidade": "",
+ "estado": "Paraná",
+ "regiao": "Sul",
+ "orientador": "Guatacara dos Santos Junior",
+ "programa": "ENSINO DE CIÊNCIA E TECNOLOGIA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "ensino e aprendizagem de Estatística; formação docente; conhecimento docente",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22FORMA%C3%87%C3%83O%20DE%20PROFESSORES%20DOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20BASE%20DE%20CONHECIMENTO%20NO%20ENSINO%20DA%20ESTAT%C3%8DSTICA%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=FORMA%C3%87%C3%83O%20DE%20PROFESSORES%20DOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20BASE%20DE%20CONHECIMENTO%20NO%20ENSINO%20DA%20ESTAT%C3%8DSTICA&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35144698"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "35144698",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "ensino e aprendizagem de Estatística",
+  "formação docente",
+  "conhecimento docente"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-35144698.svg",
+ "resumo": "O presente estudo tem como objetivo conceber a base de conhecimento a ser contemplada numa proposta de formação de professores dos anos iniciais do Ensino Fundamental para o ensino de estatística. Para alcançar esse objetivo, desenvolveu-se uma pesquisa qualitativa, exploratória e explicativa, iniciando-se com revisões sistemáticas da literatura sobre a formação docente para o ensino de estatística, aprofundamento na teoria da Base de Conhecimentos para a Docência, de Lee Shulman e Pamela L. Grossman, e finalizando por meio de entrevistas com professores dos anos iniciais do Ensino Fundamental do estado do Paraná e com pesquisadores brasileiros especialistas da área da Educação Estatística A análise dos dados teve aporte na metodologia da Análise Textual Discursiva (ATD), permitindo a reflexão sobre os conhecimentos, práticas e anseios dos participantes. Os resultados indicam que existe uma gama de conhecimentos específicos para o ensino de estatística, os quais envolvem conteúdo e didática. Entre os conhecimentos basilares para o ensino de estatística, destacam-se: i) conhecimento do conteúdo da estatística, o qual envolve o conteúdo específico, suas estruturas sintáticas e substantivas, e o campo da Educação Estatística; ii) conhecimento pedagógico geral, englobando os componentes alunos e aprendizagem, gestão da sala de aula, currículo e ensino, e avaliação das aprendizagens; iii) conhecimento pedagógico da estatística, incluindo uma gama de conhecimentos próprios da ação de ensino, como dos propósitos para se ensinar estatística, da compreensão dos alunos, do currículo, das estratégias pedagógicas e da avaliação das aprendizagens em Estatística e iv) do contexto, o qual está diretamente relacionado ao conhecimento das compreensões dos alunos, da comunidade, do distrito e da escola onde se exerce a função docente. No que tange às propostas de formação continuada, pode-se dizer que é preciso atenção para: i) cativar os professores; ii) entender como foi a formação básica e profissional do professor; iii) fazer o diagnóstico de seus conhecimentos prévios em relação ao conteúdo; iv) respeitar seus conhecimentos pedagógicos; v) primar pela atividade docente durante as propostas e vi) escolher propostas nas quais o conteúdo seja tratado ao passo que são realizadas investigações por meio de projetos que envolvam o contexto do professor.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

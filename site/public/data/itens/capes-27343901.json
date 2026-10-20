@@ -1,58 +1,58 @@
 {
-  "id": "capes-27343901",
-  "autor": "Luiz Ambrozi",
-  "ano": 2017,
-  "tipo": "Dissertação",
-  "titulo": "Jogos em uma Sequência Didática para o Ensino de Análise Combinatória",
-  "instituicao": "UNIVERSIDADE DE CAXIAS DO SUL",
-  "cidade": "",
-  "estado": "Rio Grande do Sul",
-  "regiao": "Sul",
-  "orientador": "Isolda Gianni de Lima",
-  "programa": "Ensino de Ciências e Matemática",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Análise Combinatória. Sequência Didática; Jogos. Fazer e Compreender.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22JOGOS%20EM%20UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20O%20ENSINO%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=JOGOS%20EM%20UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20O%20ENSINO%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27343901"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "27343901",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Análise Combinatória. Sequência Didática",
-    "Jogos. Fazer e Compreender."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-27343901.svg",
-  "resumo": "Neste trabalho desenvolve-se uma proposta de ensino para aprimorar o raciocínio combinatório, através da utilização de jogos no planejamento, na aplicação e avaliação de uma sequência didática inspirada nas orientações de Zabala, para subsidiar a prática docente no ensino de Análise Combinatória. A dissertação relata uma pesquisa que teve o intuito de explorar conceitos combinatórios por meio de atividades diversificadas, envolvendo recursos digitais, jogos e estudos orientados, a fim de fortalecer e diversificar o ensino e a aprendizagem deste conteúdo, procurando tornar as aulas mais atrativas e dinâmicas. Alguns dos jogos utilizados para a criação da sequência didática não são originais, outros já foram aplicados por pesquisadores ou professores, porém, aqui, foram reorganizados, ajustados ou adaptados de modo a adequar e potencializar a sua utilização, no contexto da prática elaborada. As várias atividades, promovidas para a realização dos jogos ou as de etapa posterior, foram planejadas de modo a explorar o raciocínio combinatório. A pesquisa é fundamentada na visão construtivista do fazer e compreender, de Piaget, e resultou como produto deste trabalho uma sequência didática denominada Dinâmica Combinatória, que integra as atividades dinamizadas numa sequência de ensino que envolve ações, direcionadas para a compreensão dos conceitos combinatórios. Juntamente com este processo de compreensão, construiu-se um espaço para os alunos explorarem, com orientação do professor, toda a simbologia que contempla o conteúdo de Análise Combinatória, a fim de que conhecessem as fórmulas que integram as técnicas de contagem. Por fim, faz-se uma avaliação da aprendizagem, com a utilização do Jogo Trilha Combinatória, criado especialmente para a aplicação dos conhecimentos construídos, por meio das ações que constituem as jogadas, verificando se ocorreu aprendizagem. A análise dos dados obtidos com a pesquisa foi qualitativa, e avaliou formulários, diários de anotações, registros fotográficos, entre outros e revelou aprendizagens e envolvimento dos estudantes para além das expectativas do pesquisador. Conclui-se que a Dinâmica Combinatória tornou-se um recurso didático potencial para a aprendizagem e o desenvolvimento do raciocínio combinatório, propiciando um processo de ensino e aprendizagem de Análise Combinatória dinâmico e atrativo.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de combinatória"
-  ],
-  "ids_duplicados": []
+ "id": "capes-27343901",
+ "autor": "Luiz Ambrozi",
+ "ano": 2017,
+ "tipo": "Dissertação",
+ "titulo": "Jogos em uma Sequência Didática para o Ensino de Análise Combinatória",
+ "instituicao": "Universidade de Caxias do Sul",
+ "cidade": "",
+ "estado": "Rio Grande do Sul",
+ "regiao": "Sul",
+ "orientador": "Isolda Gianni de Lima",
+ "programa": "Ensino de Ciências e Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Análise Combinatória. Sequência Didática; Jogos. Fazer e Compreender.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22JOGOS%20EM%20UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20O%20ENSINO%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=JOGOS%20EM%20UMA%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20PARA%20O%20ENSINO%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27343901"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "27343901",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Análise Combinatória. Sequência Didática",
+  "Jogos. Fazer e Compreender."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-27343901.svg",
+ "resumo": "Neste trabalho desenvolve-se uma proposta de ensino para aprimorar o raciocínio combinatório, através da utilização de jogos no planejamento, na aplicação e avaliação de uma sequência didática inspirada nas orientações de Zabala, para subsidiar a prática docente no ensino de Análise Combinatória. A dissertação relata uma pesquisa que teve o intuito de explorar conceitos combinatórios por meio de atividades diversificadas, envolvendo recursos digitais, jogos e estudos orientados, a fim de fortalecer e diversificar o ensino e a aprendizagem deste conteúdo, procurando tornar as aulas mais atrativas e dinâmicas. Alguns dos jogos utilizados para a criação da sequência didática não são originais, outros já foram aplicados por pesquisadores ou professores, porém, aqui, foram reorganizados, ajustados ou adaptados de modo a adequar e potencializar a sua utilização, no contexto da prática elaborada. As várias atividades, promovidas para a realização dos jogos ou as de etapa posterior, foram planejadas de modo a explorar o raciocínio combinatório. A pesquisa é fundamentada na visão construtivista do fazer e compreender, de Piaget, e resultou como produto deste trabalho uma sequência didática denominada Dinâmica Combinatória, que integra as atividades dinamizadas numa sequência de ensino que envolve ações, direcionadas para a compreensão dos conceitos combinatórios. Juntamente com este processo de compreensão, construiu-se um espaço para os alunos explorarem, com orientação do professor, toda a simbologia que contempla o conteúdo de Análise Combinatória, a fim de que conhecessem as fórmulas que integram as técnicas de contagem. Por fim, faz-se uma avaliação da aprendizagem, com a utilização do Jogo Trilha Combinatória, criado especialmente para a aplicação dos conhecimentos construídos, por meio das ações que constituem as jogadas, verificando se ocorreu aprendizagem. A análise dos dados obtidos com a pesquisa foi qualitativa, e avaliou formulários, diários de anotações, registros fotográficos, entre outros e revelou aprendizagens e envolvimento dos estudantes para além das expectativas do pesquisador. Conclui-se que a Dinâmica Combinatória tornou-se um recurso didático potencial para a aprendizagem e o desenvolvimento do raciocínio combinatório, propiciando um processo de ensino e aprendizagem de Análise Combinatória dinâmico e atrativo.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de combinatória"
+ ],
+ "ids_duplicados": []
 }

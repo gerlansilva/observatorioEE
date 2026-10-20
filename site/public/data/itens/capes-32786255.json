@@ -1,59 +1,59 @@
 {
-  "id": "capes-32786255",
-  "autor": "Sergio Aparecido dos Santos",
-  "ano": 2020,
-  "tipo": "Tese",
-  "titulo": "Ambiente Informatizado para Letramento Estatístico–aile: Concepções de Futuros Professores de Educação Básica sobre as Medidas de Tendência Central, Medidas de Dispersão e Variabilidade",
-  "instituicao": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE SÃO PAULO",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Cileda de Queiroz e Silva Coutinho",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Ambiente Informatizado; Concepções; Medidas de tendência Central e Dispersão",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22AMBIENTE%20INFORMATIZADO%20PARA%20LETRAMENTO%20ESTAT%C3%8DSTICO%E2%80%93AILE%3A%20CONCEP%C3%87%C3%95ES%20DE%20FUTUROS%20PROFESSORES%20DE%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%20SOBRE%20AS%20MEDIDAS%20DE%20TEND%C3%8ANCIA%20CENTRAL%2C%20MEDIDAS%20DE%20DISPERS%C3%83O%20E%20VARIABILIDADE%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AMBIENTE%20INFORMATIZADO%20PARA%20LETRAMENTO%20ESTAT%C3%8DSTICO%E2%80%93AILE%3A%20CONCEP%C3%87%C3%95ES%20DE%20FUTUROS%20PROFESSORES%20DE%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%20SOBRE%20AS%20MEDIDAS%20DE%20TEND%C3%8ANCIA%20CENTRAL%2C%20MEDIDAS%20DE%20DISPERS%C3%83O%20E%20VARIABILIDADE&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/32786255"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "32786255",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Ambiente Informatizado",
-    "Concepções",
-    "Medidas de tendência Central e Dispersão"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-32786255.svg",
-  "resumo": "O presente trabalho foi realizado em uma instituição de ensino superior privada, localizada no município de Carapicuíba, estado de São Paulo e teve por objetivo desenvolver um ambiente informatizado voltado para o estudo das concepções de alunos de um curso de licenciatura em matemática, dos conhecimentos relacionados a Educação Estatística, mais precisamente aos conteúdos de medidas de tendência central, medidas de dispersão e variabilidade. Está fundamentado nos princípios da metodologia do Estudo de Casos e, embasada no Modelo de Concepções de Conhecimento e Conceito (ck¢), na Teoria denominada Conhecimento Pedagógico Tecnológico do Conteúdo (TCPK), no pensamento Estatístico e o Letramento Estatístico. Com o auxílio da (TAD), determinamos o Modelo Epistemológico de Referência (MER), utilizando o estudo ecológico do saber para determinar o estudo do objeto, que em nosso caso consideramos a variabilidade. Também buscamos determinar o Modelo Epistemológico Dominante (MED) analisando os documentos oficiais e livros didáticos utilizados em uma escola estadual do município de Carapicuíba para o estudo de Estatística. Propusemos a criação de um Modelo Epistemológico Alternativo (MEA), contido em um ambiente informatizado, desenvolvido em duas fases, a primeira para o levantamento de concepções e a segunda para verificar quais concepções emergem dos sujeitos, ao utilizarem o ambiente informatizado. Os resultados das análises realizadas apontaram algumas concepções encontradas, relacionamos a seguir algumas dessas concepções: A definição de variável observada na disciplina de Álgebra, Considerar a variação de valores como dispersão, o fato de se ocorrer variação existe desvio padrão, a média ser obtida como resultado de uma operação aritmética, reconhecer o cálculo do desvio padrão, reconhecer as medidas de tendência central e a variabilidade, nos exercícios em que foi utilizado applet geogebra contidos no ambiente informatizado. Existiram dificuldades oriundas da falta ou pouco conhecimento matemático e tecnológico por parte dos participantes, mas que foram sanados pelo pesquisador ao longo do desenvolvimento das atividades e utilização do ambiente informatizado. Acreditamos que o ambiente proporcionou a mudança de nível do letramento estatístico dos participantes, do cultural para o funcional além de também permitir o conhecimento de concepções relacionadas às medidas de tendência central e dispersão, uma vez que os sujeitos apesar de reconhecerem a variabilidade presente nos dados e interferindo nas medidas de tendência central e de dispersão, não demonstraram em sua escrita e na resolução a apreensão do conhecimento de variabilidade. Acreditamos que os resultados aqui divulgados, trouxeram um avanço para os processos de ensino e aprendizagem para Letramento Estatístico no tocante da Educação Estatística, porém, gostaríamos de ressaltar que as propostas aqui apresentadas, não são únicas e, acreditamos que há outras vertentes que devem ser estudadas sob a luz de outras teorias e métodos, sempre fomentando uma educação de qualidade e significativa aos nossos estudantes.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "letramento estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-32786255",
+ "autor": "Sergio Aparecido dos Santos",
+ "ano": 2020,
+ "tipo": "Tese",
+ "titulo": "Ambiente Informatizado para Letramento Estatístico–aile: Concepções de Futuros Professores de Educação Básica sobre as Medidas de Tendência Central, Medidas de Dispersão e Variabilidade",
+ "instituicao": "Pontifícia Universidade Católica de São Paulo",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Cileda de Queiroz e Silva Coutinho",
+ "programa": "EDUCAÇÃO MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Ambiente Informatizado; Concepções; Medidas de tendência Central e Dispersão",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22AMBIENTE%20INFORMATIZADO%20PARA%20LETRAMENTO%20ESTAT%C3%8DSTICO%E2%80%93AILE%3A%20CONCEP%C3%87%C3%95ES%20DE%20FUTUROS%20PROFESSORES%20DE%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%20SOBRE%20AS%20MEDIDAS%20DE%20TEND%C3%8ANCIA%20CENTRAL%2C%20MEDIDAS%20DE%20DISPERS%C3%83O%20E%20VARIABILIDADE%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AMBIENTE%20INFORMATIZADO%20PARA%20LETRAMENTO%20ESTAT%C3%8DSTICO%E2%80%93AILE%3A%20CONCEP%C3%87%C3%95ES%20DE%20FUTUROS%20PROFESSORES%20DE%20EDUCA%C3%87%C3%83O%20B%C3%81SICA%20SOBRE%20AS%20MEDIDAS%20DE%20TEND%C3%8ANCIA%20CENTRAL%2C%20MEDIDAS%20DE%20DISPERS%C3%83O%20E%20VARIABILIDADE&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/32786255"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "32786255",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Ambiente Informatizado",
+  "Concepções",
+  "Medidas de tendência Central e Dispersão"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-32786255.svg",
+ "resumo": "O presente trabalho foi realizado em uma instituição de ensino superior privada, localizada no município de Carapicuíba, estado de São Paulo e teve por objetivo desenvolver um ambiente informatizado voltado para o estudo das concepções de alunos de um curso de licenciatura em matemática, dos conhecimentos relacionados a Educação Estatística, mais precisamente aos conteúdos de medidas de tendência central, medidas de dispersão e variabilidade. Está fundamentado nos princípios da metodologia do Estudo de Casos e, embasada no Modelo de Concepções de Conhecimento e Conceito (ck¢), na Teoria denominada Conhecimento Pedagógico Tecnológico do Conteúdo (TCPK), no pensamento Estatístico e o Letramento Estatístico. Com o auxílio da (TAD), determinamos o Modelo Epistemológico de Referência (MER), utilizando o estudo ecológico do saber para determinar o estudo do objeto, que em nosso caso consideramos a variabilidade. Também buscamos determinar o Modelo Epistemológico Dominante (MED) analisando os documentos oficiais e livros didáticos utilizados em uma escola estadual do município de Carapicuíba para o estudo de Estatística. Propusemos a criação de um Modelo Epistemológico Alternativo (MEA), contido em um ambiente informatizado, desenvolvido em duas fases, a primeira para o levantamento de concepções e a segunda para verificar quais concepções emergem dos sujeitos, ao utilizarem o ambiente informatizado. Os resultados das análises realizadas apontaram algumas concepções encontradas, relacionamos a seguir algumas dessas concepções: A definição de variável observada na disciplina de Álgebra, Considerar a variação de valores como dispersão, o fato de se ocorrer variação existe desvio padrão, a média ser obtida como resultado de uma operação aritmética, reconhecer o cálculo do desvio padrão, reconhecer as medidas de tendência central e a variabilidade, nos exercícios em que foi utilizado applet geogebra contidos no ambiente informatizado. Existiram dificuldades oriundas da falta ou pouco conhecimento matemático e tecnológico por parte dos participantes, mas que foram sanados pelo pesquisador ao longo do desenvolvimento das atividades e utilização do ambiente informatizado. Acreditamos que o ambiente proporcionou a mudança de nível do letramento estatístico dos participantes, do cultural para o funcional além de também permitir o conhecimento de concepções relacionadas às medidas de tendência central e dispersão, uma vez que os sujeitos apesar de reconhecerem a variabilidade presente nos dados e interferindo nas medidas de tendência central e de dispersão, não demonstraram em sua escrita e na resolução a apreensão do conhecimento de variabilidade. Acreditamos que os resultados aqui divulgados, trouxeram um avanço para os processos de ensino e aprendizagem para Letramento Estatístico no tocante da Educação Estatística, porém, gostaríamos de ressaltar que as propostas aqui apresentadas, não são únicas e, acreditamos que há outras vertentes que devem ser estudadas sob a luz de outras teorias e métodos, sempre fomentando uma educação de qualidade e significativa aos nossos estudantes.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "letramento estatístico"
+ ],
+ "ids_duplicados": []
 }

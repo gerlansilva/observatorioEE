@@ -1,54 +1,54 @@
 {
-  "id": "capes-16772143",
-  "autor": "Renan Gustavo Araujo de Lima",
-  "ano": 2015,
-  "tipo": "Dissertação",
-  "titulo": "Problemas de Combinatória: Um Estudo de Conhecimentos Mobilizados por Licenciandos em Matemática Campo Grande– Ms 2015",
-  "instituicao": "FUNDAÇÃO UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL",
-  "cidade": "",
-  "estado": "Mato Grosso do Sul",
-  "regiao": "Centro-Oeste",
-  "orientador": "Jose Luiz Magalhaes de Freitas",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Combinatória. Teoremas em ação. Sequência didática. Estratégias. Dificuldades.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22PROBLEMAS%20DE%20COMBINAT%C3%93RIA%3A%20UM%20ESTUDO%20DE%20CONHECIMENTOS%20MOBILIZADOS%20POR%20LICENCIANDOS%20EM%20MATEM%C3%81TICA%20CAMPO%20GRANDE%20%E2%80%93%20MS%202015%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PROBLEMAS%20DE%20COMBINAT%C3%93RIA%3A%20UM%20ESTUDO%20DE%20CONHECIMENTOS%20MOBILIZADOS%20POR%20LICENCIANDOS%20EM%20MATEM%C3%81TICA%20CAMPO%20GRANDE%20%E2%80%93%20MS%202015&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/16772143"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "16772143",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Combinatória. Teoremas em ação. Sequência didática. Estratégias. Dificuldades."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-16772143.svg",
-  "resumo": "A presente pesquisa tem como objetivo geral investigar aspectos da construção do conceito de combinatória de alunos de licenciatura em Matemática, quando resolvem problemas do tema. Para isso, utilizamos como aporte teórico a Teoria dos Campos Conceituais desenvolvida por Vergnaud, que fornece um quadro teórico acerca do desenvolvimento cognitivo do sujeito diante de situações de aprendizagem, e a Teoria das Situações Didáticas proposta por Brousseau, em especial a ideia de situações adidáticas. Além disso, pautamo-nos em pesquisas que abordam metodologias de ensino de combinatória e dificuldades que os alunos apresentam quando trabalham com o tema. Para a elaboração, desenvolvimento e análise da sequência didática, utilizamos como embasamento metodológico a Engenharia Didática, percorrendo as quatro fases que a compõem. Propusemos um curso de extensão para alunos ingressantes de um curso de Licenciatura em Matemática de uma Universidade Federal do Estado de Mato Grosso do Sul, estruturado em oito sessões, compostas por diferentes tipos de situações-problema de combinatória, como apresentam Pessoa e Borba. No desenvolvimento das sessões os alunos foram organizados em grupos, pois acreditamos que tal organização poderia propiciar discussões sobre os problemas. Os dados analisados nesta pesquisa são oriundos dos protocolos dos alunos e das gravações de áudio e vídeo produzidos durante as sessões. Em nossas análises evidenciamos que, de modo geral, os alunos explicitam ter dificuldades sobre o tema de combinatória, em especial na classificação das diferentes situações, e consequentemente, acabam utilizando fórmulas combinatórias inadequadas durante a resolução dos problemas. Em relação aos conhecimentos, destacamos a importância da listagem de possibilidades nas resoluções dos alunos, pois além de ser uma estratégia que mobilizam para resolver o problema, também a utilizam como um meio de validação para outras estratégias, como na conjectura de outras estratégias e na utilização de fórmulas combinatórias. Além disso, evidenciamos que os licenciandos mobilizam com frequência o Princípio Fundamental da Contagem nos problemas de arranjo, permutação e produto cartesiano, enquanto nos problemas de combinação optam por outras estratégias, como a listagem de possibilidades e a utilização de fórmulas. Por fim, no decorrer da sequência didática, percebemos que alguns alunos apresentaram indícios de incorporação de novas estratégias, como a utilização do Princípio Fundamental da Contagem e conjectura de fórmulas.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": null
+ "id": "capes-16772143",
+ "autor": "Renan Gustavo Araujo de Lima",
+ "ano": 2015,
+ "tipo": "Dissertação",
+ "titulo": "Problemas de Combinatória: Um Estudo de Conhecimentos Mobilizados por Licenciandos em Matemática Campo Grande– Ms 2015",
+ "instituicao": "Fundação Universidade Federal de Mato Grosso do Sul",
+ "cidade": "",
+ "estado": "Mato Grosso do Sul",
+ "regiao": "Centro-Oeste",
+ "orientador": "Jose Luiz Magalhaes de Freitas",
+ "programa": "EDUCAÇÃO MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Combinatória. Teoremas em ação. Sequência didática. Estratégias. Dificuldades.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22PROBLEMAS%20DE%20COMBINAT%C3%93RIA%3A%20UM%20ESTUDO%20DE%20CONHECIMENTOS%20MOBILIZADOS%20POR%20LICENCIANDOS%20EM%20MATEM%C3%81TICA%20CAMPO%20GRANDE%20%E2%80%93%20MS%202015%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PROBLEMAS%20DE%20COMBINAT%C3%93RIA%3A%20UM%20ESTUDO%20DE%20CONHECIMENTOS%20MOBILIZADOS%20POR%20LICENCIANDOS%20EM%20MATEM%C3%81TICA%20CAMPO%20GRANDE%20%E2%80%93%20MS%202015&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/16772143"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "16772143",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Combinatória. Teoremas em ação. Sequência didática. Estratégias. Dificuldades."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-16772143.svg",
+ "resumo": "A presente pesquisa tem como objetivo geral investigar aspectos da construção do conceito de combinatória de alunos de licenciatura em Matemática, quando resolvem problemas do tema. Para isso, utilizamos como aporte teórico a Teoria dos Campos Conceituais desenvolvida por Vergnaud, que fornece um quadro teórico acerca do desenvolvimento cognitivo do sujeito diante de situações de aprendizagem, e a Teoria das Situações Didáticas proposta por Brousseau, em especial a ideia de situações adidáticas. Além disso, pautamo-nos em pesquisas que abordam metodologias de ensino de combinatória e dificuldades que os alunos apresentam quando trabalham com o tema. Para a elaboração, desenvolvimento e análise da sequência didática, utilizamos como embasamento metodológico a Engenharia Didática, percorrendo as quatro fases que a compõem. Propusemos um curso de extensão para alunos ingressantes de um curso de Licenciatura em Matemática de uma Universidade Federal do Estado de Mato Grosso do Sul, estruturado em oito sessões, compostas por diferentes tipos de situações-problema de combinatória, como apresentam Pessoa e Borba. No desenvolvimento das sessões os alunos foram organizados em grupos, pois acreditamos que tal organização poderia propiciar discussões sobre os problemas. Os dados analisados nesta pesquisa são oriundos dos protocolos dos alunos e das gravações de áudio e vídeo produzidos durante as sessões. Em nossas análises evidenciamos que, de modo geral, os alunos explicitam ter dificuldades sobre o tema de combinatória, em especial na classificação das diferentes situações, e consequentemente, acabam utilizando fórmulas combinatórias inadequadas durante a resolução dos problemas. Em relação aos conhecimentos, destacamos a importância da listagem de possibilidades nas resoluções dos alunos, pois além de ser uma estratégia que mobilizam para resolver o problema, também a utilizam como um meio de validação para outras estratégias, como na conjectura de outras estratégias e na utilização de fórmulas combinatórias. Além disso, evidenciamos que os licenciandos mobilizam com frequência o Princípio Fundamental da Contagem nos problemas de arranjo, permutação e produto cartesiano, enquanto nos problemas de combinação optam por outras estratégias, como a listagem de possibilidades e a utilização de fórmulas. Por fim, no decorrer da sequência didática, percebemos que alguns alunos apresentaram indícios de incorporação de novas estratégias, como a utilização do Princípio Fundamental da Contagem e conjectura de fórmulas.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": null
 }

@@ -1,61 +1,61 @@
 {
-  "id": "capes-42480840",
-  "autor": "Guilherme Augusto Silvestre de Campos",
-  "ano": 2024,
-  "tipo": "Dissertação",
-  "titulo": "Análise do ENSINO-APRENDIZAGEM de Alunos do Ensino Médio Usando a Sequência Didática os Passeios Aleatórios do Homem de Ferro",
-  "instituicao": "UNIVERSIDADE FEDERAL DE SÃO CARLOS",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Antonio Luis Venezuela",
-  "programa": "ENSINO DE CIÊNCIAS EXATAS",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Ensino médio; Probabilidade; Teste de McNemar; Passeios aleatórios da Mônica; Sequência Didática",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22AN%C3%81LISE%20DO%20ENSINO-APRENDIZAGEM%20DE%20ALUNOS%20DO%20ENSINO%20M%C3%89DIO%20USANDO%20A%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20OS%20PASSEIOS%20ALEAT%C3%93RIOS%20DO%20HOMEM%20DE%20FERRO%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AN%C3%81LISE%20DO%20ENSINO-APRENDIZAGEM%20DE%20ALUNOS%20DO%20ENSINO%20M%C3%89DIO%20USANDO%20A%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20OS%20PASSEIOS%20ALEAT%C3%93RIOS%20DO%20HOMEM%20DE%20FERRO&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42480840"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "42480840",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Ensino médio",
-    "Probabilidade",
-    "Teste de McNemar",
-    "Passeios aleatórios da Mônica",
-    "Sequência Didática"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-42480840.svg",
-  "resumo": "Neste trabalho por meio do Teste de McNemar e pelo teste de proficiência mostramos o nível de aprendizagem do aluno através de uma sequência didática baseada nos “Passeios aleatórios da Mônica” que para nós foi adaptada para “Passeios aleatórios do Homem de Ferro” com alunos do ensino médio de uma escola pública na cidade de Sorocaba. A proposta da sequência didática foi desenvolvida pela fundamentação teórica da engenharia didática, na qual as etapas trabalhas durante o processo foram divididas em experimentações teóricas e práticas, onde os alunos tiveram que responder dois questionários de nove perguntas antes e depois da sequência didática, que foram tabelados e analisados pelo teste de McNemar. O teste trouxe para mim uma mensuração da aprendizagem do aluno, que poderia ser, não se aplica ou se aplica, porém ele deixa uma certa dúvida, pois não considerava baixas variações, por este motivo criamos um teste de proficiência de porcentagem para que fosse possível uma visualização por segmentos e assim tenhamos mais dados e informações para realizar as comparações necessárias. Sendo assim, conseguiria medir através das comparações propostas tanto pelo teste de McNemar e o de proficiência o quanto o aluno foi ou não foi capaz de aprender os conceitos preestabelecido nessa proposta.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de probabilidade"
-  ],
-  "ids_duplicados": []
+ "id": "capes-42480840",
+ "autor": "Guilherme Augusto Silvestre de Campos",
+ "ano": 2024,
+ "tipo": "Dissertação",
+ "titulo": "Análise do ENSINO-APRENDIZAGEM de Alunos do Ensino Médio Usando a Sequência Didática os Passeios Aleatórios do Homem de Ferro",
+ "instituicao": "Universidade Federal de São Carlos",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Antonio Luis Venezuela",
+ "programa": "ENSINO DE CIÊNCIAS EXATAS",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Ensino médio; Probabilidade; Teste de McNemar; Passeios aleatórios da Mônica; Sequência Didática",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22AN%C3%81LISE%20DO%20ENSINO-APRENDIZAGEM%20DE%20ALUNOS%20DO%20ENSINO%20M%C3%89DIO%20USANDO%20A%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20OS%20PASSEIOS%20ALEAT%C3%93RIOS%20DO%20HOMEM%20DE%20FERRO%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AN%C3%81LISE%20DO%20ENSINO-APRENDIZAGEM%20DE%20ALUNOS%20DO%20ENSINO%20M%C3%89DIO%20USANDO%20A%20SEQU%C3%8ANCIA%20DID%C3%81TICA%20OS%20PASSEIOS%20ALEAT%C3%93RIOS%20DO%20HOMEM%20DE%20FERRO&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42480840"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "42480840",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Ensino médio",
+  "Probabilidade",
+  "Teste de McNemar",
+  "Passeios aleatórios da Mônica",
+  "Sequência Didática"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-42480840.svg",
+ "resumo": "Neste trabalho por meio do Teste de McNemar e pelo teste de proficiência mostramos o nível de aprendizagem do aluno através de uma sequência didática baseada nos “Passeios aleatórios da Mônica” que para nós foi adaptada para “Passeios aleatórios do Homem de Ferro” com alunos do ensino médio de uma escola pública na cidade de Sorocaba. A proposta da sequência didática foi desenvolvida pela fundamentação teórica da engenharia didática, na qual as etapas trabalhas durante o processo foram divididas em experimentações teóricas e práticas, onde os alunos tiveram que responder dois questionários de nove perguntas antes e depois da sequência didática, que foram tabelados e analisados pelo teste de McNemar. O teste trouxe para mim uma mensuração da aprendizagem do aluno, que poderia ser, não se aplica ou se aplica, porém ele deixa uma certa dúvida, pois não considerava baixas variações, por este motivo criamos um teste de proficiência de porcentagem para que fosse possível uma visualização por segmentos e assim tenhamos mais dados e informações para realizar as comparações necessárias. Sendo assim, conseguiria medir através das comparações propostas tanto pelo teste de McNemar e o de proficiência o quanto o aluno foi ou não foi capaz de aprender os conceitos preestabelecido nessa proposta.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de probabilidade"
+ ],
+ "ids_duplicados": []
 }

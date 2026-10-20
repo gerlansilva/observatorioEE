@@ -1,64 +1,64 @@
 {
-  "id": "capes-34783048",
-  "autor": "Silvia Caroline Salgado Pena",
-  "ano": 2021,
-  "tipo": "Dissertação",
-  "titulo": "O ENSINO DE ESTATÍSTICA: uma experiência no atendimento pedagógico domiciliar",
-  "instituicao": "UNIVERSIDADE FEDERAL DO PARÁ",
-  "cidade": "",
-  "estado": "Pará",
-  "regiao": "Norte",
-  "orientador": "Elielson Ribeiro de Sales",
-  "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICAS",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Especial; Educação Matemática Crítica; Literacia Estatística; Pensamento Estatístico; Raciocínio Estatístico.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%3A%20uma%20experi%C3%AAncia%20no%20atendimento%20pedag%C3%B3gico%20domiciliar%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%3A%20uma%20experi%C3%AAncia%20no%20atendimento%20pedag%C3%B3gico%20domiciliar&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34783048"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "34783048",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Especial",
-    "Educação Matemática Crítica",
-    "Literacia Estatística",
-    "Pensamento Estatístico",
-    "Raciocínio Estatístico."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-34783048.svg",
-  "resumo": "Este estudo reflete acerca do ensino de matemática, especificamente a Educação Estatística para indivíduos que por motivo de saúde não podem frequentar a escola. O Atendimento Pedagógico Domiciliar é vinculado à Secretaria de Educação do Estado do Pará, no setor de Classes Hospitalares. Neste modelo de educação o professor atende o aluno em domicílio, ou esteja ele em casas de passagem, casas de apoio, casas-lar e/ou outras estruturas de apoio da sociedade, dando continuidade aos conteúdos ministrados nas escolas ou até a terminalidade dos estudos caso o aluno não retorne mais a frequentar a escola. A inspiração para a pesquisa em primeiro lugar foi na Educação Matemática Crítica, que busca no processo dialógico, no ensino como ação e em cenários de investigação uma educação transformadora para uma vida cidadã, em segundo lugar as três competências para o ensino da estatística a literacia, o pensamento, o raciocínio estatístico que também buscam a criticidade e o diálogo para desenvolver este conhecimento. O objetivo é aplicar os cenários de investigação para estimular o desenvolvimento do pensamento estatístico em aluno inserido no Atendimento Pedagógico Domiciliar da rede pública estadual de ensino do Estado do Pará. O método foi um estudo de caso de um Atendimento Pedagógico Domiciliar no ensino da Disciplina de Matemática, no assunto de estatística, que foi ministrado com base nos parâmetros das três competências para este ensino, levando-se em conta um cenário da vida real, o aluno aplicou um levantamento utilizando as redes sociais para maior compreensão do tema Violência na Sociedade com a utilização do aplicativo Google Formulário, a partir do arrolamento, construção do questionário e relatório final, o aluno apropriou-se do conhecimentos como distribuição de frequência, espaço amostral, tipos de gráficos, além de outros conhecimentos estatísticos, desenvolvimento de capacidades críticas e dialógicas.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística",
-    "pensamento estatístico",
-    "raciocínio estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-34783048",
+ "autor": "Silvia Caroline Salgado Pena",
+ "ano": 2021,
+ "tipo": "Dissertação",
+ "titulo": "O ENSINO DE ESTATÍSTICA: uma experiência no atendimento pedagógico domiciliar",
+ "instituicao": "Universidade Federal do Pará",
+ "cidade": "",
+ "estado": "Pará",
+ "regiao": "Norte",
+ "orientador": "Elielson Ribeiro de Sales",
+ "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICAS",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Especial; Educação Matemática Crítica; Literacia Estatística; Pensamento Estatístico; Raciocínio Estatístico.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%3A%20uma%20experi%C3%AAncia%20no%20atendimento%20pedag%C3%B3gico%20domiciliar%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%3A%20uma%20experi%C3%AAncia%20no%20atendimento%20pedag%C3%B3gico%20domiciliar&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34783048"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "34783048",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Especial",
+  "Educação Matemática Crítica",
+  "Literacia Estatística",
+  "Pensamento Estatístico",
+  "Raciocínio Estatístico."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-34783048.svg",
+ "resumo": "Este estudo reflete acerca do ensino de matemática, especificamente a Educação Estatística para indivíduos que por motivo de saúde não podem frequentar a escola. O Atendimento Pedagógico Domiciliar é vinculado à Secretaria de Educação do Estado do Pará, no setor de Classes Hospitalares. Neste modelo de educação o professor atende o aluno em domicílio, ou esteja ele em casas de passagem, casas de apoio, casas-lar e/ou outras estruturas de apoio da sociedade, dando continuidade aos conteúdos ministrados nas escolas ou até a terminalidade dos estudos caso o aluno não retorne mais a frequentar a escola. A inspiração para a pesquisa em primeiro lugar foi na Educação Matemática Crítica, que busca no processo dialógico, no ensino como ação e em cenários de investigação uma educação transformadora para uma vida cidadã, em segundo lugar as três competências para o ensino da estatística a literacia, o pensamento, o raciocínio estatístico que também buscam a criticidade e o diálogo para desenvolver este conhecimento. O objetivo é aplicar os cenários de investigação para estimular o desenvolvimento do pensamento estatístico em aluno inserido no Atendimento Pedagógico Domiciliar da rede pública estadual de ensino do Estado do Pará. O método foi um estudo de caso de um Atendimento Pedagógico Domiciliar no ensino da Disciplina de Matemática, no assunto de estatística, que foi ministrado com base nos parâmetros das três competências para este ensino, levando-se em conta um cenário da vida real, o aluno aplicou um levantamento utilizando as redes sociais para maior compreensão do tema Violência na Sociedade com a utilização do aplicativo Google Formulário, a partir do arrolamento, construção do questionário e relatório final, o aluno apropriou-se do conhecimentos como distribuição de frequência, espaço amostral, tipos de gráficos, além de outros conhecimentos estatísticos, desenvolvimento de capacidades críticas e dialógicas.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística",
+  "pensamento estatístico",
+  "raciocínio estatístico"
+ ],
+ "ids_duplicados": []
 }

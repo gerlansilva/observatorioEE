@@ -1,57 +1,57 @@
 {
-  "id": "capes-24976574",
-  "autor": "Antonio Vital da Silva Junior",
-  "ano": 2018,
-  "tipo": "Dissertação",
-  "titulo": "Efeitos do Ciclo Investigativo Ppdac e das Transformações de Representações Semióticas no Desenvolvimento de Conceitos Estatísticos no Ensino Fundamental",
-  "instituicao": "UNIVERSIDADE ESTADUAL DE SANTA CRUZ",
-  "cidade": "",
-  "estado": "Bahia",
-  "regiao": "Nordeste",
-  "orientador": "Irene Mauricio Cazorla",
-  "programa": "Educação Matemática",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Aprendizagem de Estatística. Registros de Representação Semiótica. Ciclo Investigativo. Sequência de Ensino. Ensino Fundamental",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22EFEITOS%20DO%20CICLO%20INVESTIGATIVO%20PPDAC%20E%20DAS%20TRANSFORMA%C3%87%C3%95ES%20DE%20REPRESENTA%C3%87%C3%95ES%20SEMI%C3%93TICAS%20NO%20DESENVOLVIMENTO%20DE%20CONCEITOS%20ESTAT%C3%8DSTICOS%20NO%20ENSINO%20FUNDAMENTAL%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=EFEITOS%20DO%20CICLO%20INVESTIGATIVO%20PPDAC%20E%20DAS%20TRANSFORMA%C3%87%C3%95ES%20DE%20REPRESENTA%C3%87%C3%95ES%20SEMI%C3%93TICAS%20NO%20DESENVOLVIMENTO%20DE%20CONCEITOS%20ESTAT%C3%8DSTICOS%20NO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/24976574"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "24976574",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Aprendizagem de Estatística. Registros de Representação Semiótica. Ciclo Investigativo. Sequência de Ensino. Ensino Fundamental"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-24976574.svg",
-  "resumo": "Este trabalho teve como objetivo identificar e caracterizar os efeitos do Ciclo Investigativo PPDAC e das transformações de representações semióticas no desenvolvimento de conceitos estatísticos no Ensino Fundamental, na perspectiva do letramento estatístico. Realizamos uma pesquisa intervencionista, com um delineamento quase experimental com dois grupos: experimental (GE) e controle (GC). Foram sujeitos da pesquisa estudantes de duas turmas do 8º ano do Ensino Fundamental de uma escola do interior da Bahia. Elaboramos uma Escala de Hábitos Alimentares Complementares (EHAC), um instrumento diagnóstico e duas sequências de ensino, ambas ancoradas nas diversas transformações de representações estatísticas (dados brutos, língua materna, lista, tabelas, gráficos e medidas resumo), sendo que na do GC utilizamos exemplos e atividades dos livros didáticos de Matemática adotados na escola e na do GE utilizamos os dados sobre os hábitos alimentares dos próprios estudantes, percorrendo as cinco fases do PPDAC. Todas as etapas da intervenção foram iguais para os dois grupos, com a única diferença na intervenção de ensino. Iniciamos aplicando a EHAC e o instrumento diagnóstico; realizamos uma palestra sobre hábitos alimentares; um nivelamento em Estatística; desenvolvemos a intervenção de ensino e, ao final, aplicamos novamente o instrumento diagnóstico. Dentre os principais resultados, podemos elencar o ganho substancial na aprendizagem de ambos os grupos (o GC triplicou seu desempenho médio o GE quadriplicou), embora essa diferença não tenha sido significativa; contudo os estudantes do GE que iniciaram com baixo desempenho, conseguiram melhor desempenho do que os estudantes do GC. Verificamos que a maioria dos estudantes apresentou dificuldades na divisão, no cálculo da porcentagem, com os números decimais e com os negativos. Alguns estudantes utilizaram a ponderação e as somas parciais para calcular a média; mas a maioria listou todos os números, sem necessidade, para encontrar a mediana e a moda. A maioria não questionou os resultados, dando sinais de não apropriação das propriedades dos conceitos. A preferência pela representação dos dados em gráficos ou tabelas depende do leitor e não da representação, e o dotplot permitiu perceber a dispersão. Com relação ao GE, o desafio foi tratar um volume enorme de dados reais, sendo que cada dupla tratou 32 dados, uns com duas casas decimais (altura e IMC), mas conseguimos tratar todos, pois distribuímos as varáveis por duplas e no final do tratamento construímos um painel propiciando uma visão global hábitos alimentares dos estudantes. A interação dos estudantes com o painel permitiu a eles ver como cada variável se comportava, e a comparação da frequência do consumo com a consciência acerca desse consumo de alimentos saudáveis e prejudiciais à saúde despertou neles uma postura crítica, fazendo com que se apropriassem do significado dos conceitos estatísticos em contexto, dando sinais da presença do letramento estatístico.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-24976574",
+ "autor": "Antonio Vital da Silva Junior",
+ "ano": 2018,
+ "tipo": "Dissertação",
+ "titulo": "Efeitos do Ciclo Investigativo Ppdac e das Transformações de Representações Semióticas no Desenvolvimento de Conceitos Estatísticos no Ensino Fundamental",
+ "instituicao": "Universidade Estadual de Santa Cruz",
+ "cidade": "",
+ "estado": "Bahia",
+ "regiao": "Nordeste",
+ "orientador": "Irene Mauricio Cazorla",
+ "programa": "Educação Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Aprendizagem de Estatística. Registros de Representação Semiótica. Ciclo Investigativo. Sequência de Ensino. Ensino Fundamental",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22EFEITOS%20DO%20CICLO%20INVESTIGATIVO%20PPDAC%20E%20DAS%20TRANSFORMA%C3%87%C3%95ES%20DE%20REPRESENTA%C3%87%C3%95ES%20SEMI%C3%93TICAS%20NO%20DESENVOLVIMENTO%20DE%20CONCEITOS%20ESTAT%C3%8DSTICOS%20NO%20ENSINO%20FUNDAMENTAL%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=EFEITOS%20DO%20CICLO%20INVESTIGATIVO%20PPDAC%20E%20DAS%20TRANSFORMA%C3%87%C3%95ES%20DE%20REPRESENTA%C3%87%C3%95ES%20SEMI%C3%93TICAS%20NO%20DESENVOLVIMENTO%20DE%20CONCEITOS%20ESTAT%C3%8DSTICOS%20NO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/24976574"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "24976574",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Aprendizagem de Estatística. Registros de Representação Semiótica. Ciclo Investigativo. Sequência de Ensino. Ensino Fundamental"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-24976574.svg",
+ "resumo": "Este trabalho teve como objetivo identificar e caracterizar os efeitos do Ciclo Investigativo PPDAC e das transformações de representações semióticas no desenvolvimento de conceitos estatísticos no Ensino Fundamental, na perspectiva do letramento estatístico. Realizamos uma pesquisa intervencionista, com um delineamento quase experimental com dois grupos: experimental (GE) e controle (GC). Foram sujeitos da pesquisa estudantes de duas turmas do 8º ano do Ensino Fundamental de uma escola do interior da Bahia. Elaboramos uma Escala de Hábitos Alimentares Complementares (EHAC), um instrumento diagnóstico e duas sequências de ensino, ambas ancoradas nas diversas transformações de representações estatísticas (dados brutos, língua materna, lista, tabelas, gráficos e medidas resumo), sendo que na do GC utilizamos exemplos e atividades dos livros didáticos de Matemática adotados na escola e na do GE utilizamos os dados sobre os hábitos alimentares dos próprios estudantes, percorrendo as cinco fases do PPDAC. Todas as etapas da intervenção foram iguais para os dois grupos, com a única diferença na intervenção de ensino. Iniciamos aplicando a EHAC e o instrumento diagnóstico; realizamos uma palestra sobre hábitos alimentares; um nivelamento em Estatística; desenvolvemos a intervenção de ensino e, ao final, aplicamos novamente o instrumento diagnóstico. Dentre os principais resultados, podemos elencar o ganho substancial na aprendizagem de ambos os grupos (o GC triplicou seu desempenho médio o GE quadriplicou), embora essa diferença não tenha sido significativa; contudo os estudantes do GE que iniciaram com baixo desempenho, conseguiram melhor desempenho do que os estudantes do GC. Verificamos que a maioria dos estudantes apresentou dificuldades na divisão, no cálculo da porcentagem, com os números decimais e com os negativos. Alguns estudantes utilizaram a ponderação e as somas parciais para calcular a média; mas a maioria listou todos os números, sem necessidade, para encontrar a mediana e a moda. A maioria não questionou os resultados, dando sinais de não apropriação das propriedades dos conceitos. A preferência pela representação dos dados em gráficos ou tabelas depende do leitor e não da representação, e o dotplot permitiu perceber a dispersão. Com relação ao GE, o desafio foi tratar um volume enorme de dados reais, sendo que cada dupla tratou 32 dados, uns com duas casas decimais (altura e IMC), mas conseguimos tratar todos, pois distribuímos as varáveis por duplas e no final do tratamento construímos um painel propiciando uma visão global hábitos alimentares dos estudantes. A interação dos estudantes com o painel permitiu a eles ver como cada variável se comportava, e a comparação da frequência do consumo com a consciência acerca desse consumo de alimentos saudáveis e prejudiciais à saúde despertou neles uma postura crítica, fazendo com que se apropriassem do significado dos conceitos estatísticos em contexto, dando sinais da presença do letramento estatístico.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

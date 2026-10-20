@@ -1,58 +1,58 @@
 {
-  "id": "capes-18223727",
-  "autor": "Lemerton Matos Nogueira",
-  "ano": 2015,
-  "tipo": "Dissertação",
-  "titulo": "Análise de Esquemas de Estudantes ao Resolverem Situações Envolvendo Conceitos Básicos de Probabilidade",
-  "instituicao": "UNIVERSIDADE ESTADUAL DE SANTA CRUZ",
-  "cidade": "",
-  "estado": "Bahia",
-  "regiao": "Nordeste",
-  "orientador": "Veronica Yumi Kataoka",
-  "programa": "Educação Matemática",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Esquemas. Letramento probabilístico. Sequência de ensino. Conceitos básicos de probabilidade",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22AN%C3%81LISE%20DE%20ESQUEMAS%20DE%20ESTUDANTES%20AO%20RESOLVEREM%20SITUA%C3%87%C3%95ES%20ENVOLVENDO%20CONCEITOS%20B%C3%81SICOS%20DE%20PROBABILIDADE%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AN%C3%81LISE%20DE%20ESQUEMAS%20DE%20ESTUDANTES%20AO%20RESOLVEREM%20SITUA%C3%87%C3%95ES%20ENVOLVENDO%20CONCEITOS%20B%C3%81SICOS%20DE%20PROBABILIDADE&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/18223727"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "18223727",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Esquemas. Letramento probabilístico. Sequência de ensino. Conceitos básicos de probabilidade"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-18223727.svg",
-  "resumo": "Teve-se como objetivo geral nesta pesquisa, analisar os esquemas de estudantes do 9º ano ao resolver situações envolvendo conceitos básicos de Probabilidade (cbP), presentes na Sequência de Ensino Passeios Aleatórios da Carlinha (SE PAC). Utilizou-se como aportes teóricos a Teoria dos Campos Conceituais (TCC) proposta por Gérard Vergnaud e o modelo de letramento probabilístico proposto por Gal. A SE PAC foi elaborada, seguindo as recomendações para o ensino de Probabilidade, tanto dos Parâmetros Curriculares Nacionais, como do modelo de letramento probabilístico proposto por Gal, para abordar os seguintes conceitos: espaço amostral, eventos simples e compostos, probabilidade de eventos simples e compostos, situação determinística, experimento aleatório, frequência relativa, frequências e padrões observados e esperados. Os sujeitos da pesquisa foram 23 estudantes do 9º ano de uma escola localizada na cidade de São José da Vitória - BA. Partindo de uma abordagem metodológica de cunho qualitativo, coletamos os dados em seis encontros de 2 horas/aulas, na própria sala de aula. Os instrumentos utilizados para a coleta foram um questionário de perfil e as situações da SE PAC. Os dados foram coletados por meio das produções escritas dos estudantes, fotografias, entrevistas e notas do pesquisador. Para classificar os esquemas foram propostas previamente três categorias: (2) Esquemas atrelados aos cbP envolvidos na situação analisada; (1) Esquemas não atrelados aos cbP e (0) Esquemas incompreensíveis, sendo que durante o processo de análise emergiram subcategorias associadas às categorias (2) e (1). Avaliando os resultados verificou-se que os esquemas construídos pelos estudantes enquadrados na categoria (2) estiveram pautados, principalmente em noções intuitivas de probabilidade, a exemplo dos conceitos de chance e de não-equiprobabilidade. Também constatou-se que a maioria dos esquemas concentraram-se na categoria (1), com destaque para as subcategorias em que os grupos associaram o conceito de aleatoriedade à ideia de sorte e a não compreensão dos conceitos de frequência relativa e padrões observados e esperados. Salienta-se também que não foi possível na sua quase totalidade reconhecer a presença de invariantes operatórios (conceitos-em-ação e teoremas-em-ação) nos esquemas analisados, principalmente a utilização intuitiva de propriedades e axiomas relativos ao campo probabilístico. Apesar destes resultados, considerou-se que a variedade de situações trazidas na SE PAC oportunizou a garantia de novas experiências e aprendizagens para os grupos. Por fim, espera-se que os resultados desse estudo possam contribuir com as discussões acerca do ensino e aprendizagem de Probabilidade, mais especificamente, da investigação dos esquemas mobilizados pelos estudantes na resolução de atividades envolvendo os cbP nos ciclos finais do ensino fundamental. Além disso, almeja-se que as aplicações em sala de aula de atividades, a exemplo da SE PAC, possam auxiliar no desenvolvimento do letramento probabilístico dos estudantes, na escola básica.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "letramento probabilístico",
-    "ensino de probabilidade"
-  ],
-  "ids_duplicados": []
+ "id": "capes-18223727",
+ "autor": "Lemerton Matos Nogueira",
+ "ano": 2015,
+ "tipo": "Dissertação",
+ "titulo": "Análise de Esquemas de Estudantes ao Resolverem Situações Envolvendo Conceitos Básicos de Probabilidade",
+ "instituicao": "Universidade Estadual de Santa Cruz",
+ "cidade": "",
+ "estado": "Bahia",
+ "regiao": "Nordeste",
+ "orientador": "Veronica Yumi Kataoka",
+ "programa": "Educação Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Esquemas. Letramento probabilístico. Sequência de ensino. Conceitos básicos de probabilidade",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22AN%C3%81LISE%20DE%20ESQUEMAS%20DE%20ESTUDANTES%20AO%20RESOLVEREM%20SITUA%C3%87%C3%95ES%20ENVOLVENDO%20CONCEITOS%20B%C3%81SICOS%20DE%20PROBABILIDADE%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AN%C3%81LISE%20DE%20ESQUEMAS%20DE%20ESTUDANTES%20AO%20RESOLVEREM%20SITUA%C3%87%C3%95ES%20ENVOLVENDO%20CONCEITOS%20B%C3%81SICOS%20DE%20PROBABILIDADE&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/18223727"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "18223727",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Esquemas. Letramento probabilístico. Sequência de ensino. Conceitos básicos de probabilidade"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-18223727.svg",
+ "resumo": "Teve-se como objetivo geral nesta pesquisa, analisar os esquemas de estudantes do 9º ano ao resolver situações envolvendo conceitos básicos de Probabilidade (cbP), presentes na Sequência de Ensino Passeios Aleatórios da Carlinha (SE PAC). Utilizou-se como aportes teóricos a Teoria dos Campos Conceituais (TCC) proposta por Gérard Vergnaud e o modelo de letramento probabilístico proposto por Gal. A SE PAC foi elaborada, seguindo as recomendações para o ensino de Probabilidade, tanto dos Parâmetros Curriculares Nacionais, como do modelo de letramento probabilístico proposto por Gal, para abordar os seguintes conceitos: espaço amostral, eventos simples e compostos, probabilidade de eventos simples e compostos, situação determinística, experimento aleatório, frequência relativa, frequências e padrões observados e esperados. Os sujeitos da pesquisa foram 23 estudantes do 9º ano de uma escola localizada na cidade de São José da Vitória - BA. Partindo de uma abordagem metodológica de cunho qualitativo, coletamos os dados em seis encontros de 2 horas/aulas, na própria sala de aula. Os instrumentos utilizados para a coleta foram um questionário de perfil e as situações da SE PAC. Os dados foram coletados por meio das produções escritas dos estudantes, fotografias, entrevistas e notas do pesquisador. Para classificar os esquemas foram propostas previamente três categorias: (2) Esquemas atrelados aos cbP envolvidos na situação analisada; (1) Esquemas não atrelados aos cbP e (0) Esquemas incompreensíveis, sendo que durante o processo de análise emergiram subcategorias associadas às categorias (2) e (1). Avaliando os resultados verificou-se que os esquemas construídos pelos estudantes enquadrados na categoria (2) estiveram pautados, principalmente em noções intuitivas de probabilidade, a exemplo dos conceitos de chance e de não-equiprobabilidade. Também constatou-se que a maioria dos esquemas concentraram-se na categoria (1), com destaque para as subcategorias em que os grupos associaram o conceito de aleatoriedade à ideia de sorte e a não compreensão dos conceitos de frequência relativa e padrões observados e esperados. Salienta-se também que não foi possível na sua quase totalidade reconhecer a presença de invariantes operatórios (conceitos-em-ação e teoremas-em-ação) nos esquemas analisados, principalmente a utilização intuitiva de propriedades e axiomas relativos ao campo probabilístico. Apesar destes resultados, considerou-se que a variedade de situações trazidas na SE PAC oportunizou a garantia de novas experiências e aprendizagens para os grupos. Por fim, espera-se que os resultados desse estudo possam contribuir com as discussões acerca do ensino e aprendizagem de Probabilidade, mais especificamente, da investigação dos esquemas mobilizados pelos estudantes na resolução de atividades envolvendo os cbP nos ciclos finais do ensino fundamental. Além disso, almeja-se que as aplicações em sala de aula de atividades, a exemplo da SE PAC, possam auxiliar no desenvolvimento do letramento probabilístico dos estudantes, na escola básica.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "letramento probabilístico",
+  "ensino de probabilidade"
+ ],
+ "ids_duplicados": []
 }

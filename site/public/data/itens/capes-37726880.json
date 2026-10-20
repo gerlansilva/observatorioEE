@@ -1,62 +1,62 @@
 {
-  "id": "capes-37726880",
-  "autor": "Lara Rodrigues Porto",
-  "ano": 2023,
-  "tipo": "Dissertação",
-  "titulo": "Uma Proposta de Utilização da Modelagem Matemática para o Ensino de Probabilidade e Estatística no 5° Ano do Ensino Fundamental",
-  "instituicao": "UNIVERSIDADE FEDERAL DO RIO GRANDE",
-  "cidade": "",
-  "estado": "Rio Grande do Sul",
-  "regiao": "Sul",
-  "orientador": "Lucas Nunes Ogliari",
-  "programa": "ENSINO DE CIÊNCIAS EXATAS",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Modelagem Matemática; Ensino Fundamental; anos iniciais; Probabilidade e Estatística; ensino de matemática.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22UMA%20PROPOSTA%20DE%20UTILIZA%C3%87%C3%83O%20DA%20MODELAGEM%20MATEM%C3%81TICA%20PARA%20O%20ENSINO%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%20NO%205%C2%B0%20ANO%20DO%20ENSINO%20FUNDAMENTAL%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UMA%20PROPOSTA%20DE%20UTILIZA%C3%87%C3%83O%20DA%20MODELAGEM%20MATEM%C3%81TICA%20PARA%20O%20ENSINO%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%20NO%205%C2%B0%20ANO%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37726880"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "37726880",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Modelagem Matemática",
-    "Ensino Fundamental",
-    "anos iniciais",
-    "Probabilidade e Estatística",
-    "ensino de matemática."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-37726880.svg",
-  "resumo": "Ciência, Tecnologia e Inovação: bases para a investigação e para a prática docente em Ciências Exatas. Descrição: O projeto de pesquisa tem como objetivo a produção de conhecimento na área do ensino de Ciências e Matemática a partir das experiências e das realizações acadêmicas dos docentes e discentes que integram os cursos de Licenciatura em Ciências e Exatas e o Programa de Pós-Graduação em Ensino de Ciências Exatas-PPGECE da Universidade Federal do Rio Grade (FURG-SAP). Trazendo como base teórico-metodológica as principais tendências para o Ensino de Matemática e das Ciências, anseia-se, através de uma relação dialógica entre a pesquisa e a prática docente, discutir o currículo das disciplinas que compõem o núcleo das ciências exatas entendendo a Ciência, a Tecnologia e a Inovação como bases para uma educação de qualidade e para o desenvolvimento da comunidade acadêmica e da região.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de estatística",
-    "ensino de probabilidade"
-  ],
-  "ids_duplicados": []
+ "id": "capes-37726880",
+ "autor": "Lara Rodrigues Porto",
+ "ano": 2023,
+ "tipo": "Dissertação",
+ "titulo": "Uma Proposta de Utilização da Modelagem Matemática para o Ensino de Probabilidade e Estatística no 5° Ano do Ensino Fundamental",
+ "instituicao": "Universidade Federal do Rio Grande",
+ "cidade": "",
+ "estado": "Rio Grande do Sul",
+ "regiao": "Sul",
+ "orientador": "Lucas Nunes Ogliari",
+ "programa": "ENSINO DE CIÊNCIAS EXATAS",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Modelagem Matemática; Ensino Fundamental; anos iniciais; Probabilidade e Estatística; ensino de matemática.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22UMA%20PROPOSTA%20DE%20UTILIZA%C3%87%C3%83O%20DA%20MODELAGEM%20MATEM%C3%81TICA%20PARA%20O%20ENSINO%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%20NO%205%C2%B0%20ANO%20DO%20ENSINO%20FUNDAMENTAL%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=UMA%20PROPOSTA%20DE%20UTILIZA%C3%87%C3%83O%20DA%20MODELAGEM%20MATEM%C3%81TICA%20PARA%20O%20ENSINO%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%20NO%205%C2%B0%20ANO%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37726880"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "37726880",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Modelagem Matemática",
+  "Ensino Fundamental",
+  "anos iniciais",
+  "Probabilidade e Estatística",
+  "ensino de matemática."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-37726880.svg",
+ "resumo": "Ciência, Tecnologia e Inovação: bases para a investigação e para a prática docente em Ciências Exatas. Descrição: O projeto de pesquisa tem como objetivo a produção de conhecimento na área do ensino de Ciências e Matemática a partir das experiências e das realizações acadêmicas dos docentes e discentes que integram os cursos de Licenciatura em Ciências e Exatas e o Programa de Pós-Graduação em Ensino de Ciências Exatas-PPGECE da Universidade Federal do Rio Grade (FURG-SAP). Trazendo como base teórico-metodológica as principais tendências para o Ensino de Matemática e das Ciências, anseia-se, através de uma relação dialógica entre a pesquisa e a prática docente, discutir o currículo das disciplinas que compõem o núcleo das ciências exatas entendendo a Ciência, a Tecnologia e a Inovação como bases para uma educação de qualidade e para o desenvolvimento da comunidade acadêmica e da região.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de estatística",
+  "ensino de probabilidade"
+ ],
+ "ids_duplicados": []
 }

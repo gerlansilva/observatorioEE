@@ -1,61 +1,61 @@
 {
-  "id": "capes-28877587",
-  "autor": "Marco Aurelio Peres Lemes",
-  "ano": 2019,
-  "tipo": "Dissertação",
-  "titulo": "O Ensino da Estatística: Uma Proposta para os Anos Finais do Ensino Fundamental",
-  "instituicao": "UNIVERSIDADE FRANCISCANA",
-  "cidade": "",
-  "estado": "Rio Grande do Sul",
-  "regiao": "Sul",
-  "orientador": "Greice Scremin",
-  "programa": "Ensino de Ciências e Matemática",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Matemática; Estatística. Letramento Estatístico. Pensamento Estatístico e Raciocínio Estatístico",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ENSINO%20DA%20ESTAT%C3%8DSTICA%3A%20UMA%20PROPOSTA%20PARA%20OS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ENSINO%20DA%20ESTAT%C3%8DSTICA%3A%20UMA%20PROPOSTA%20PARA%20OS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28877587"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "28877587",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Matemática",
-    "Estatística. Letramento Estatístico. Pensamento Estatístico e Raciocínio Estatístico"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-28877587.svg",
-  "resumo": "O presente estudo, vinculado ao Mestrado Acadêmico em Ensino de Ciências e Matemática da Universidade Franciscana (UFN), objetivou verificar as contribuições de uma proposta de ensino da Estatística para o 9º ano do ensino fundamental, com foco no letramento, raciocínio e pensamento estatístico, a fim de constatar de que forma pode-se colaborar com o ensino da estatística na educação básica. Para tanto, desenvolveu-se uma pesquisa de natureza aplicada, com abordagem do problema de forma quali-quantitativa, através de pesquisa exploratória e com a utilização dos procedimentos técnicos da pesquisa bibliográfica, documental, de mapeamento e de estudo de caso, com a aplicação de um pré-teste, uma sequência didática e um pós-teste. O referencial teórico traz informações relacionadas à educação estatística, os três pilares do ensino: letramento, raciocínio e pensamento estatístico, a Base Comum Curricular e as Diretrizes do Estado do Rio Grande do Sul. Os dados coletados foram categorizados, compilados e tiveram tratamento estatístico por meio do programa SPSS e a ferramenta teste t. Os resultados mostram que a proposta de ensino através de uma sequência didática foi capaz de colaborar com o ensino da estatística na educação básica no caso analisado e, consequentemente, contribuir para o desenvolvimento do letramento, pensamento e raciocínio estatístico.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "letramento estatístico",
-    "pensamento estatístico",
-    "raciocínio estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-28877587",
+ "autor": "Marco Aurelio Peres Lemes",
+ "ano": 2019,
+ "tipo": "Dissertação",
+ "titulo": "O Ensino da Estatística: Uma Proposta para os Anos Finais do Ensino Fundamental",
+ "instituicao": "Universidade Franciscana",
+ "cidade": "",
+ "estado": "Rio Grande do Sul",
+ "regiao": "Sul",
+ "orientador": "Greice Scremin",
+ "programa": "Ensino de Ciências e Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Matemática; Estatística. Letramento Estatístico. Pensamento Estatístico e Raciocínio Estatístico",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ENSINO%20DA%20ESTAT%C3%8DSTICA%3A%20UMA%20PROPOSTA%20PARA%20OS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ENSINO%20DA%20ESTAT%C3%8DSTICA%3A%20UMA%20PROPOSTA%20PARA%20OS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28877587"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "28877587",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Matemática",
+  "Estatística. Letramento Estatístico. Pensamento Estatístico e Raciocínio Estatístico"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-28877587.svg",
+ "resumo": "O presente estudo, vinculado ao Mestrado Acadêmico em Ensino de Ciências e Matemática da Universidade Franciscana (UFN), objetivou verificar as contribuições de uma proposta de ensino da Estatística para o 9º ano do ensino fundamental, com foco no letramento, raciocínio e pensamento estatístico, a fim de constatar de que forma pode-se colaborar com o ensino da estatística na educação básica. Para tanto, desenvolveu-se uma pesquisa de natureza aplicada, com abordagem do problema de forma quali-quantitativa, através de pesquisa exploratória e com a utilização dos procedimentos técnicos da pesquisa bibliográfica, documental, de mapeamento e de estudo de caso, com a aplicação de um pré-teste, uma sequência didática e um pós-teste. O referencial teórico traz informações relacionadas à educação estatística, os três pilares do ensino: letramento, raciocínio e pensamento estatístico, a Base Comum Curricular e as Diretrizes do Estado do Rio Grande do Sul. Os dados coletados foram categorizados, compilados e tiveram tratamento estatístico por meio do programa SPSS e a ferramenta teste t. Os resultados mostram que a proposta de ensino através de uma sequência didática foi capaz de colaborar com o ensino da estatística na educação básica no caso analisado e, consequentemente, contribuir para o desenvolvimento do letramento, pensamento e raciocínio estatístico.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "letramento estatístico",
+  "pensamento estatístico",
+  "raciocínio estatístico"
+ ],
+ "ids_duplicados": []
 }

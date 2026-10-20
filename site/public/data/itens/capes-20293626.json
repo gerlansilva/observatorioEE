@@ -1,56 +1,56 @@
 {
-  "id": "capes-20293626",
-  "autor": "Juliana Azevedo",
-  "ano": 2013,
-  "tipo": "Dissertação",
-  "titulo": "Alunos de Anos Iniciais Construindo Árvores de Possibilidades: É Melhor no Papel ou no Computador?",
-  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Rute Elizabete de Souza Rosa Borba",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Combinatória. Árvores de possibilidades. Software Diagramas de Árbol. Lápis e papel. Anos iniciais d",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22ALUNOS%20DE%20ANOS%20INICIAIS%20CONSTRUINDO%20%C3%81RVORES%20DE%20POSSIBILIDADES%3A%20%C3%89%20MELHOR%20NO%20PAPEL%20OU%20NO%20COMPUTADOR%3F%C2%94%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ALUNOS%20DE%20ANOS%20INICIAIS%20CONSTRUINDO%20%C3%81RVORES%20DE%20POSSIBILIDADES%3A%20%C3%89%20MELHOR%20NO%20PAPEL%20OU%20NO%20COMPUTADOR%3F%C2%94&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20293626"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "20293626",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Combinatória. Árvores de possibilidades. Software Diagramas de Árbol. Lápis e papel. Anos iniciais d"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-20293626.svg",
-  "resumo": "Com o objetivo de analisar a influência da construção de árvores de possibilidades na resolução de problemas combinatórios, com lápis e papel ou com o uso de um software educativo, a presente pesquisa se fundamentou na Teoria dos Campos Conceituais de Vergnaud (1986), que defende a existência de três dimensões fundamentais de conceitos: significados, invariantes e representações simbólicas. A pesquisa também se fundamentou em outros autores, entre eles, Pessoa e Borba (2009), que abordam a Combinatória, Sandoval, Trigueiros e Lozano (2007), que analisam a aplicação do software Diagramas de Árbol com crianças, como também, Borba e Penteado (2010) e Goos (2010), que discutem o uso da tecnologia na sala de aula. Participaram da pesquisa 40 alunos do 5º ano do Ensino Fundamental de duas escolas da rede pública municipal do Recife, divididos em quatro grupos. Os alunos participaram de um pré-teste, de distintas formas de intervenção e de pós-testes (imediato e posterior). O Grupo 1 (G1) construiu árvores de possibilidades fazendo uso do software Diagramas de Árbol; o Grupo 2 (G2) construiu árvores de possibilidades fazendo uso do lápis e papel; o Grupo 3 (3) formou o Grupo Controle Assistido que trabalhou com problemas multiplicativos não combinatórios, por meio de desenhos; e o Grupo 4 (G4) formou o Grupo Controle Desassistido, que participou apenas do pré-teste e dos pós-testes. As intervenções foram realizadas, à luz da teoria de Vergnaud, utilizando situações combinatórias, seus significados, seus invariantes, e uma representação simbólica específica para o ensino e aprendizagem da Combinatória. Com apenas uma sessão de intervenção com árvores de possibilidades, virtual ou escrita, foi possível obter avanços quantitativos e qualitativos significativos, de alunos de anos iniciais dos grupos experimentais. Salienta-se, porém, que, embora não tenha havido diferença estatisticamente significativa entre os desempenhos dos Grupos 1 e 2, o G2 (lápis e papel) demonstrou um maior avanço, apresentando diferenças significativas entre ambos os grupos controle nos dois pós-testes, enquanto o G1 apresentou diferenças apenas com o G4, no pós-teste imediato. Uma possível explicação para o melhor desempenho do G2 pode estar relacionada com a necessidade da transferência da representação virtual para escrita que o G1 possui, ou seja, a aprendizagem com utilização do software e a resolução dos pós-testes em lápis e papel. A pesquisa revelou que os grupos com intervenção em Combinatória demonstraram avanços qualitativos, evidenciando uma maior variedade na utilização de representações simbólicas nos pós-testes, bem como a utilização de estratégias sistemáticas de resolução dos problemas, levando à conclusão que, com as intervenções, se aprendeu a pensar nas situações e não em um método para resolver os problemas. Já estudar problemas multiplicativos não combinatórios ou apenas o passar do tempo, em nada parece facilitar o aprendizado da Combinatória. Verificou-se melhor desempenho nos problemas de produto cartesiano e maior dificuldade nos de permutação, podendo a razão para isso estar relacionada ao número maior de etapas de escolha nos problemas de permutação. Conclui-se que é possível o trabalho com variados tipos de situações combinatórias desde os anos iniciais e por meio de representações simbólicas eficientes, como a árvore de possibilidades. Deseja-se, assim, com essa pesquisa, contribuir para a reflexão sobre melhores possibilidades de ensino da Combinatória nos anos iniciais do Ensino Fundamental.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "coleta expandida (plural/vocabulário)"
-  ]
+ "id": "capes-20293626",
+ "autor": "Juliana Azevedo",
+ "ano": 2013,
+ "tipo": "Dissertação",
+ "titulo": "Alunos de Anos Iniciais Construindo Árvores de Possibilidades: É Melhor no Papel ou no Computador?",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Rute Elizabete de Souza Rosa Borba",
+ "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Combinatória. Árvores de possibilidades. Software Diagramas de Árbol. Lápis e papel. Anos iniciais d",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22ALUNOS%20DE%20ANOS%20INICIAIS%20CONSTRUINDO%20%C3%81RVORES%20DE%20POSSIBILIDADES%3A%20%C3%89%20MELHOR%20NO%20PAPEL%20OU%20NO%20COMPUTADOR%3F%C2%94%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ALUNOS%20DE%20ANOS%20INICIAIS%20CONSTRUINDO%20%C3%81RVORES%20DE%20POSSIBILIDADES%3A%20%C3%89%20MELHOR%20NO%20PAPEL%20OU%20NO%20COMPUTADOR%3F%C2%94&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20293626"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "20293626",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Combinatória. Árvores de possibilidades. Software Diagramas de Árbol. Lápis e papel. Anos iniciais d"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-20293626.svg",
+ "resumo": "Com o objetivo de analisar a influência da construção de árvores de possibilidades na resolução de problemas combinatórios, com lápis e papel ou com o uso de um software educativo, a presente pesquisa se fundamentou na Teoria dos Campos Conceituais de Vergnaud (1986), que defende a existência de três dimensões fundamentais de conceitos: significados, invariantes e representações simbólicas. A pesquisa também se fundamentou em outros autores, entre eles, Pessoa e Borba (2009), que abordam a Combinatória, Sandoval, Trigueiros e Lozano (2007), que analisam a aplicação do software Diagramas de Árbol com crianças, como também, Borba e Penteado (2010) e Goos (2010), que discutem o uso da tecnologia na sala de aula. Participaram da pesquisa 40 alunos do 5º ano do Ensino Fundamental de duas escolas da rede pública municipal do Recife, divididos em quatro grupos. Os alunos participaram de um pré-teste, de distintas formas de intervenção e de pós-testes (imediato e posterior). O Grupo 1 (G1) construiu árvores de possibilidades fazendo uso do software Diagramas de Árbol; o Grupo 2 (G2) construiu árvores de possibilidades fazendo uso do lápis e papel; o Grupo 3 (3) formou o Grupo Controle Assistido que trabalhou com problemas multiplicativos não combinatórios, por meio de desenhos; e o Grupo 4 (G4) formou o Grupo Controle Desassistido, que participou apenas do pré-teste e dos pós-testes. As intervenções foram realizadas, à luz da teoria de Vergnaud, utilizando situações combinatórias, seus significados, seus invariantes, e uma representação simbólica específica para o ensino e aprendizagem da Combinatória. Com apenas uma sessão de intervenção com árvores de possibilidades, virtual ou escrita, foi possível obter avanços quantitativos e qualitativos significativos, de alunos de anos iniciais dos grupos experimentais. Salienta-se, porém, que, embora não tenha havido diferença estatisticamente significativa entre os desempenhos dos Grupos 1 e 2, o G2 (lápis e papel) demonstrou um maior avanço, apresentando diferenças significativas entre ambos os grupos controle nos dois pós-testes, enquanto o G1 apresentou diferenças apenas com o G4, no pós-teste imediato. Uma possível explicação para o melhor desempenho do G2 pode estar relacionada com a necessidade da transferência da representação virtual para escrita que o G1 possui, ou seja, a aprendizagem com utilização do software e a resolução dos pós-testes em lápis e papel. A pesquisa revelou que os grupos com intervenção em Combinatória demonstraram avanços qualitativos, evidenciando uma maior variedade na utilização de representações simbólicas nos pós-testes, bem como a utilização de estratégias sistemáticas de resolução dos problemas, levando à conclusão que, com as intervenções, se aprendeu a pensar nas situações e não em um método para resolver os problemas. Já estudar problemas multiplicativos não combinatórios ou apenas o passar do tempo, em nada parece facilitar o aprendizado da Combinatória. Verificou-se melhor desempenho nos problemas de produto cartesiano e maior dificuldade nos de permutação, podendo a razão para isso estar relacionada ao número maior de etapas de escolha nos problemas de permutação. Conclui-se que é possível o trabalho com variados tipos de situações combinatórias desde os anos iniciais e por meio de representações simbólicas eficientes, como a árvore de possibilidades. Deseja-se, assim, com essa pesquisa, contribuir para a reflexão sobre melhores possibilidades de ensino da Combinatória nos anos iniciais do Ensino Fundamental.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "coleta expandida (plural/vocabulário)"
+ ]
 }

@@ -1,61 +1,61 @@
 {
-  "id": "capes-41261140",
-  "autor": "Maria Joseane Santos Teixeira",
-  "ano": 2024,
-  "tipo": "Tese",
-  "titulo": "LETRAMENTO ESTATÍSTICO E EDUCAÇÃO ESCOLAR QUILOMBOLA: uma pesquisa protagonizada por meninas quilombolas",
-  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Liliane Maria Teixeira Lima de Carvalho",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Meninas quilombolas; Comunidade Quilombola Onze Negras; Letramento Estatístico; Matemática para Justiça social; Educação Quilombola.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20ESTAT%C3%8DSTICO%20E%20EDUCA%C3%87%C3%83O%20ESCOLAR%20QUILOMBOLA%3A%20uma%20pesquisa%20protagonizada%20por%20meninas%20quilombolas%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20ESTAT%C3%8DSTICO%20E%20EDUCA%C3%87%C3%83O%20ESCOLAR%20QUILOMBOLA%3A%20uma%20pesquisa%20protagonizada%20por%20meninas%20quilombolas&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41261140"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "41261140",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Meninas quilombolas",
-    "Comunidade Quilombola Onze Negras",
-    "Letramento Estatístico",
-    "Matemática para Justiça social",
-    "Educação Quilombola."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-41261140.svg",
-  "resumo": "Esta tese aborda questões de pesquisa estatística relacionadas à Educação Escolar Quilombola (EEQ), a qual visa a atender às especificidades étnico-culturais das diferentes comunidades em convergência com os princípios éticos, estéticos e políticos da educação nacional. Enquanto estudo crítico embasado no Modelo de Letramento Estatístico (LE) de Iddo Gal e na Matemática para Justiça Social de Gutstein, lança as seguintes indagações: quais reflexões, na perspectiva do Letramento Estatístico, podem emergir da leitura e da produção de dados realizadas por meninas quilombolas, durante o ciclo investigativo, a partir dos temas designados pelas mulheres de sua comunidade? O que essas reflexões podem evidenciar do ponto de vista crítico? Nesse sentido, a pesquisa objetivou analisar reflexões críticas de meninas quilombolas sobre sua comunidade e a realidade das mulheres, a partir das informações estatísticas produzidas por elas na vivência do ciclo investigativo. A pesquisa envolveu análise de documentos oficiais, efetivação de um questionário com professores, uma Revisão Sistemática da Literatura na Biblioteca Digital de Teses e Dissertações (BDTD) e no Portal de Periódicos da Capes e encontros para rodas de conversa com um grupo de estudantes do quinto ano da Comunidade Quilombola Onze Negras, do município do Cabo de Santo Agostinho. A análise dos dispositivos oficiais do município revelou demandas relacionadas à implementação da modalidade EEQ não contempladas, como: diretrizes curriculares municipais e um referencial curricular específico para a EEQ, programas formativos específicos para professores da escola quilombola, núcleos específicos para acompanhamento dos estudantes em escolas fora do território e dos projetos políticos pedagógicos, assim como falta de infraestrutura na escola quilombola e de professores quilombolas. Na proposta curricular municipal, a EEQ e a Educação do Campo são mencionadas e os temas relacionados aos povos tradicionais aparecem dispersos entre os componentes curriculares. Em relação à Unidade Temática Estatística e Probabilidade do Componente Curricular de Matemática, identifica-se a proposição da pesquisa estatística voltada aos interesses dos/das estudantes e produção de informações para melhor compreensão da realidade. Em respostas ao questionário, os professores corroboraram a ausência de formação continuada específica e demonstraram pouco entendimento da produção de cultura no território e da questão étnico-racial quilombola. Quando se perguntou sobre o trabalho com pesquisa estatística no ensino de Matemática, eles alegaram outras prioridades. Os encontros com as meninas quilombolas resultaram em engajamento, protagonismo, trabalho em grupos e relação positiva com a pesquisa. Quanto ao Letramento Estatístico (LE), elas experimentaram a transnumeração com os dados coletados, refinados e aplicados em dispositivos estatísticos tabulares e gráficos. Por meio deles refletiram sobre as condições de vida das mulheres e as questões que impactam a identidade quilombola, mobilizando aspectos presentes em alguns elementos que compõem o LE. Desse modo, verificouse investimento de esforços das meninas na assunção de ações críticas, em falas e posturas pertinentes, diante dos dados lidos e avaliados, legitimadas pelos próprios argumentos.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "letramento estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-41261140",
+ "autor": "Maria Joseane Santos Teixeira",
+ "ano": 2024,
+ "tipo": "Tese",
+ "titulo": "LETRAMENTO ESTATÍSTICO E EDUCAÇÃO ESCOLAR QUILOMBOLA: uma pesquisa protagonizada por meninas quilombolas",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Liliane Maria Teixeira Lima de Carvalho",
+ "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Meninas quilombolas; Comunidade Quilombola Onze Negras; Letramento Estatístico; Matemática para Justiça social; Educação Quilombola.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20ESTAT%C3%8DSTICO%20E%20EDUCA%C3%87%C3%83O%20ESCOLAR%20QUILOMBOLA%3A%20uma%20pesquisa%20protagonizada%20por%20meninas%20quilombolas%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20ESTAT%C3%8DSTICO%20E%20EDUCA%C3%87%C3%83O%20ESCOLAR%20QUILOMBOLA%3A%20uma%20pesquisa%20protagonizada%20por%20meninas%20quilombolas&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41261140"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "41261140",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Meninas quilombolas",
+  "Comunidade Quilombola Onze Negras",
+  "Letramento Estatístico",
+  "Matemática para Justiça social",
+  "Educação Quilombola."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-41261140.svg",
+ "resumo": "Esta tese aborda questões de pesquisa estatística relacionadas à Educação Escolar Quilombola (EEQ), a qual visa a atender às especificidades étnico-culturais das diferentes comunidades em convergência com os princípios éticos, estéticos e políticos da educação nacional. Enquanto estudo crítico embasado no Modelo de Letramento Estatístico (LE) de Iddo Gal e na Matemática para Justiça Social de Gutstein, lança as seguintes indagações: quais reflexões, na perspectiva do Letramento Estatístico, podem emergir da leitura e da produção de dados realizadas por meninas quilombolas, durante o ciclo investigativo, a partir dos temas designados pelas mulheres de sua comunidade? O que essas reflexões podem evidenciar do ponto de vista crítico? Nesse sentido, a pesquisa objetivou analisar reflexões críticas de meninas quilombolas sobre sua comunidade e a realidade das mulheres, a partir das informações estatísticas produzidas por elas na vivência do ciclo investigativo. A pesquisa envolveu análise de documentos oficiais, efetivação de um questionário com professores, uma Revisão Sistemática da Literatura na Biblioteca Digital de Teses e Dissertações (BDTD) e no Portal de Periódicos da Capes e encontros para rodas de conversa com um grupo de estudantes do quinto ano da Comunidade Quilombola Onze Negras, do município do Cabo de Santo Agostinho. A análise dos dispositivos oficiais do município revelou demandas relacionadas à implementação da modalidade EEQ não contempladas, como: diretrizes curriculares municipais e um referencial curricular específico para a EEQ, programas formativos específicos para professores da escola quilombola, núcleos específicos para acompanhamento dos estudantes em escolas fora do território e dos projetos políticos pedagógicos, assim como falta de infraestrutura na escola quilombola e de professores quilombolas. Na proposta curricular municipal, a EEQ e a Educação do Campo são mencionadas e os temas relacionados aos povos tradicionais aparecem dispersos entre os componentes curriculares. Em relação à Unidade Temática Estatística e Probabilidade do Componente Curricular de Matemática, identifica-se a proposição da pesquisa estatística voltada aos interesses dos/das estudantes e produção de informações para melhor compreensão da realidade. Em respostas ao questionário, os professores corroboraram a ausência de formação continuada específica e demonstraram pouco entendimento da produção de cultura no território e da questão étnico-racial quilombola. Quando se perguntou sobre o trabalho com pesquisa estatística no ensino de Matemática, eles alegaram outras prioridades. Os encontros com as meninas quilombolas resultaram em engajamento, protagonismo, trabalho em grupos e relação positiva com a pesquisa. Quanto ao Letramento Estatístico (LE), elas experimentaram a transnumeração com os dados coletados, refinados e aplicados em dispositivos estatísticos tabulares e gráficos. Por meio deles refletiram sobre as condições de vida das mulheres e as questões que impactam a identidade quilombola, mobilizando aspectos presentes em alguns elementos que compõem o LE. Desse modo, verificouse investimento de esforços das meninas na assunção de ações críticas, em falas e posturas pertinentes, diante dos dados lidos e avaliados, legitimadas pelos próprios argumentos.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "letramento estatístico"
+ ],
+ "ids_duplicados": []
 }

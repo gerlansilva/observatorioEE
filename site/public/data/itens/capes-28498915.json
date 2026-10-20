@@ -1,59 +1,59 @@
 {
-  "id": "capes-28498915",
-  "autor": "Leandro Aparecido Alves Custodio",
-  "ano": 2017,
-  "tipo": "Dissertação",
-  "titulo": "Letramento Probabilístico: Um Olhar sobre as Situações de Aprendizagem do Caderno do Professor",
-  "instituicao": "UNIVERSIDADE FEDERAL DE SÃO CARLOS",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Paulo Cesar Oliveira",
-  "programa": "ENSINO DE CIÊNCIAS EXATAS",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Ensino médio; Caderno do Professor, ensino de probabilidade, letramento, concepção de probabilidade.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20PROBABIL%C3%8DSTICO%3A%20UM%20OLHAR%20SOBRE%20AS%20SITUA%C3%87%C3%95ES%20DE%20APRENDIZAGEM%20DO%20CADERNO%20DO%20PROFESSOR%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20PROBABIL%C3%8DSTICO%3A%20UM%20OLHAR%20SOBRE%20AS%20SITUA%C3%87%C3%95ES%20DE%20APRENDIZAGEM%20DO%20CADERNO%20DO%20PROFESSOR&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28498915"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "28498915",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Ensino médio",
-    "Caderno do Professor, ensino de probabilidade, letramento, concepção de probabilidade."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-28498915.svg",
-  "resumo": "Esta pesquisa teve por objetivo avaliar o conceito de probabilidade por meio da diversidade de registros de representação semiótica dispostos no enunciado das tarefas (situações de aprendizagem) contidas no segundo volume do Caderno do Professor para a segunda série do ensino médio e, suas possíveis contribuições para o desenvolvimento do letramento probabilístico. O estudo fundamentou-se na Teoria dos Registros de Representações Semióticas de Raymond Duval e no Letramento Probabilístico de Iddo Gal. Buscou-se responder as seguintes questões de investigação: Quais e como são articulados os registros de representação semiótica nas situações de aprendizagem propostas no Caderno do professor? Tais registros contribuem para o desenvolvimento do letramento probabilístico? Para o cumprimento dos propósitos do nosso trabalho, recorremos à pesquisa bibliográfica e documental e com base em nossos aportes teóricos, analisamos o conteúdo de quatro situações de aprendizagem. Entre os diversos registros de representação semiótica, o diagrama de árvore foi pouco explorado nas tarefas propostas. A mobilização e coordenação de registros dessa natureza tem a função de contribuir na construção de conceitos, porém, no caso dos problemas de análise combinatória, os mesmos não apresentaram contribuições ao desenvolvimento do letramento probabilístico, devido a ausência de conexões internas entre as noções básicas de combinatória com o cálculo das probabilidades.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "letramento probabilístico",
-    "ensino de probabilidade"
-  ],
-  "ids_duplicados": []
+ "id": "capes-28498915",
+ "autor": "Leandro Aparecido Alves Custodio",
+ "ano": 2017,
+ "tipo": "Dissertação",
+ "titulo": "Letramento Probabilístico: Um Olhar sobre as Situações de Aprendizagem do Caderno do Professor",
+ "instituicao": "Universidade Federal de São Carlos",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Paulo Cesar Oliveira",
+ "programa": "ENSINO DE CIÊNCIAS EXATAS",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Ensino médio; Caderno do Professor, ensino de probabilidade, letramento, concepção de probabilidade.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20PROBABIL%C3%8DSTICO%3A%20UM%20OLHAR%20SOBRE%20AS%20SITUA%C3%87%C3%95ES%20DE%20APRENDIZAGEM%20DO%20CADERNO%20DO%20PROFESSOR%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20PROBABIL%C3%8DSTICO%3A%20UM%20OLHAR%20SOBRE%20AS%20SITUA%C3%87%C3%95ES%20DE%20APRENDIZAGEM%20DO%20CADERNO%20DO%20PROFESSOR&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28498915"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "28498915",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Ensino médio",
+  "Caderno do Professor, ensino de probabilidade, letramento, concepção de probabilidade."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-28498915.svg",
+ "resumo": "Esta pesquisa teve por objetivo avaliar o conceito de probabilidade por meio da diversidade de registros de representação semiótica dispostos no enunciado das tarefas (situações de aprendizagem) contidas no segundo volume do Caderno do Professor para a segunda série do ensino médio e, suas possíveis contribuições para o desenvolvimento do letramento probabilístico. O estudo fundamentou-se na Teoria dos Registros de Representações Semióticas de Raymond Duval e no Letramento Probabilístico de Iddo Gal. Buscou-se responder as seguintes questões de investigação: Quais e como são articulados os registros de representação semiótica nas situações de aprendizagem propostas no Caderno do professor? Tais registros contribuem para o desenvolvimento do letramento probabilístico? Para o cumprimento dos propósitos do nosso trabalho, recorremos à pesquisa bibliográfica e documental e com base em nossos aportes teóricos, analisamos o conteúdo de quatro situações de aprendizagem. Entre os diversos registros de representação semiótica, o diagrama de árvore foi pouco explorado nas tarefas propostas. A mobilização e coordenação de registros dessa natureza tem a função de contribuir na construção de conceitos, porém, no caso dos problemas de análise combinatória, os mesmos não apresentaram contribuições ao desenvolvimento do letramento probabilístico, devido a ausência de conexões internas entre as noções básicas de combinatória com o cálculo das probabilidades.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "letramento probabilístico",
+  "ensino de probabilidade"
+ ],
+ "ids_duplicados": []
 }

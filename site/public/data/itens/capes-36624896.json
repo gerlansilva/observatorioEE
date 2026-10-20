@@ -1,60 +1,60 @@
 {
-  "id": "capes-36624896",
-  "autor": "Marcelo Gomes Ferreira de Moraes",
-  "ano": 2022,
-  "tipo": "Dissertação",
-  "titulo": "Educação financeira: uma investigação estatística de situações reais",
-  "instituicao": "UNIVERSIDADE FEDERAL DE UBERLÂNDIA",
-  "cidade": "",
-  "estado": "Minas Gerais",
-  "regiao": "Sudeste",
-  "orientador": "Leandro de Oliveira Souza",
-  "programa": "Ensino de Ciências e Matemática",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Logística; Ensino Integral; Ensino Médio Integral Técnico; educação financeira",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Educa%C3%A7%C3%A3o%20financeira%3A%20uma%20investiga%C3%A7%C3%A3o%20estat%C3%ADstica%20de%20situa%C3%A7%C3%B5es%20reais%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educa%C3%A7%C3%A3o%20financeira%3A%20uma%20investiga%C3%A7%C3%A3o%20estat%C3%ADstica%20de%20situa%C3%A7%C3%B5es%20reais&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36624896"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "36624896",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Logística",
-    "Ensino Integral",
-    "Ensino Médio Integral Técnico",
-    "educação financeira"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-36624896.svg",
-  "resumo": "Esta pesquisa tem como principal objetivo investigar como a coleta e análise de dados financeiros oriundos de situações cotidianas poderiam auxiliar na Educação Financeira de estudantes do curso Técnico em Logística do primeiro ano do Ensino Médio Integral. Na sociedade, a tomada consciente de decisões financeiras é uma maneira saudável de evitar o consumo compulsivo e o endividamento e aumentar o poder de compra. Para fazer uma boa análise financeira, é imprescindível ter uma base de Educação Estatística. Tendo isso em vista, o objeto de estudo desta pesquisa é o produto educacional, no caso, uma sequência didática com a perspectiva da Educação Financeira embasada na análise de situações reais, foi produzida pelo professor e pesquisador. A sequência didática foi aplicada com cinco estudantes do primeiro ano do Ensino Médio Integral Técnico, no curso de Logística, na disciplina de Matemática Financeira, em uma Escola Estadual em Ituiutaba, Minas Gerais. A investigação tem uma abordagem descritiva no âmbito da parte empírica, relacionada à aplicação das atividades. Trata-se de uma pesquisa de campo. A coleta de dados deu-se por meio da plataforma Google Meet, e a análise se debruça sobre as respostas dos estudantes nas aulas e sobre os registros escritos no material impresso da sequência didática. Os encontros foram videogravados para posterior transcrição das aulas. A pesquisa proporciona o recorte de múltiplos estudos de caso. Os resultados deste estudo sinalizam que as contribuições da formação foram relevantes para os participantes e para os profissionais da Educação envolvidos, já que o tema Educação Financeira é transversal e pode ser usado para ampliar o conhecimento em diversas áreas.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-36624896",
+ "autor": "Marcelo Gomes Ferreira de Moraes",
+ "ano": 2022,
+ "tipo": "Dissertação",
+ "titulo": "Educação financeira: uma investigação estatística de situações reais",
+ "instituicao": "Universidade Federal de Uberlândia",
+ "cidade": "",
+ "estado": "Minas Gerais",
+ "regiao": "Sudeste",
+ "orientador": "Leandro de Oliveira Souza",
+ "programa": "Ensino de Ciências e Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Logística; Ensino Integral; Ensino Médio Integral Técnico; educação financeira",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Educa%C3%A7%C3%A3o%20financeira%3A%20uma%20investiga%C3%A7%C3%A3o%20estat%C3%ADstica%20de%20situa%C3%A7%C3%B5es%20reais%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educa%C3%A7%C3%A3o%20financeira%3A%20uma%20investiga%C3%A7%C3%A3o%20estat%C3%ADstica%20de%20situa%C3%A7%C3%B5es%20reais&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36624896"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "36624896",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Logística",
+  "Ensino Integral",
+  "Ensino Médio Integral Técnico",
+  "educação financeira"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-36624896.svg",
+ "resumo": "Esta pesquisa tem como principal objetivo investigar como a coleta e análise de dados financeiros oriundos de situações cotidianas poderiam auxiliar na Educação Financeira de estudantes do curso Técnico em Logística do primeiro ano do Ensino Médio Integral. Na sociedade, a tomada consciente de decisões financeiras é uma maneira saudável de evitar o consumo compulsivo e o endividamento e aumentar o poder de compra. Para fazer uma boa análise financeira, é imprescindível ter uma base de Educação Estatística. Tendo isso em vista, o objeto de estudo desta pesquisa é o produto educacional, no caso, uma sequência didática com a perspectiva da Educação Financeira embasada na análise de situações reais, foi produzida pelo professor e pesquisador. A sequência didática foi aplicada com cinco estudantes do primeiro ano do Ensino Médio Integral Técnico, no curso de Logística, na disciplina de Matemática Financeira, em uma Escola Estadual em Ituiutaba, Minas Gerais. A investigação tem uma abordagem descritiva no âmbito da parte empírica, relacionada à aplicação das atividades. Trata-se de uma pesquisa de campo. A coleta de dados deu-se por meio da plataforma Google Meet, e a análise se debruça sobre as respostas dos estudantes nas aulas e sobre os registros escritos no material impresso da sequência didática. Os encontros foram videogravados para posterior transcrição das aulas. A pesquisa proporciona o recorte de múltiplos estudos de caso. Os resultados deste estudo sinalizam que as contribuições da formação foram relevantes para os participantes e para os profissionais da Educação envolvidos, já que o tema Educação Financeira é transversal e pode ser usado para ampliar o conhecimento em diversas áreas.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": []
 }

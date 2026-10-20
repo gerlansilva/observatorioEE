@@ -1,60 +1,60 @@
 {
-  "id": "capes-29312071",
-  "autor": "Marcelo Rivelino Rodrigues",
-  "ano": 2018,
-  "tipo": "Tese",
-  "titulo": "Estudo sobre as Concepções de Professores do Ensino Básico em Relação à Aleatoriedade e Probabilidade",
-  "instituicao": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE SÃO PAULO",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Cileda de Queiroz e Silva Coutinho",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Probabilidades; Matemática - Estudo e ensino; Professores de matemática - Formação profissional",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22ESTUDO%20SOBRE%20AS%20CONCEP%C3%87%C3%95ES%20DE%20PROFESSORES%20DO%20ENSINO%20B%C3%81SICO%20EM%20RELA%C3%87%C3%83O%20%C3%80%20ALEATORIEDADE%20E%20PROBABILIDADE%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESTUDO%20SOBRE%20AS%20CONCEP%C3%87%C3%95ES%20DE%20PROFESSORES%20DO%20ENSINO%20B%C3%81SICO%20EM%20RELA%C3%87%C3%83O%20%C3%80%20ALEATORIEDADE%20E%20PROBABILIDADE&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29312071"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "29312071",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Probabilidades",
-    "Matemática - Estudo e ensino",
-    "Professores de matemática - Formação profissional"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-29312071.svg",
-  "resumo": "Os conhecimentos probabilísticos mostram-se relevantes na vida em sociedade, pois cada vez mais as tomadas de decisão criteriosas apresentam-se como um dos diferenciais no mercado de trabalho, bem como em nosso dia a dia. Por esta razão, esta pesquisa teve como objetivo analisar as concepções de probabilidade e aleatoriedade de professores que atuam no ensino básico, quando estes se defrontam com questões que envolvem tais temas. Para a coleta de dados, aplicou-se o instrumento de pesquisa “Questionário de Concepções Probabilísticas”, a 41 professores do ensino fundamental II (6º ao 9º ano), visando identificar as concepções probabilísticas apresentadas por este grupo. Como metodologia, optou-se pela análise de dados multidimensionais, aplicando-se análise implicativa e coesitiva às respostas dos professores, utilizando software de Classificação Hierárquica, Implicativa e Coesitiva (CHIC), que gerou grafos de coesão e de implicação das relações entre as variáveis observadas. Para fundamentar o estudo, apoiamo-nos nas categorizações de concepções probabilísticas de Azcárate e de Cardeñoso e na definição de letramento probabilístico proposta por Gal. No desenvolvimento da pesquisa, foram analisados documentos oficiais como os Parâmetros Curriculares Nacionais (PCN) e Base Nacional Comum Curricular (BNCC) para observação de semelhanças, e possíveis evoluções na passagem do 1º para o 2º documento, no que tange às orientações para a abordagem do tema probabilidade no ensino básico. Também se analisou uma coleção de livros didáticos aprovada pelo Programa Nacional do Livro Didático (PNLD), com o objetivo de identificar, à luz da Teoria Antropológica do Didático, os tipos de tarefas, técnicas, tecnologias e teorias presentes nas atividades propostas na coleção. As análises permitiram identificar as concepções probabilísticas que emergiram dos participantes, nas dimensões aleatoriedade e probabilidade. Na dimensão aleatoriedade seis grupos foram identificados: determinista; causalidade; multiplicidade; incerteza; padrão; indefinidos. A dimensão probabilidade compreendeu cinco grupos: causalidade; determinista; incerteza; contingência; personalista. Destaca-se, ainda, que as análises possibilitaram categorizar os níveis de letramento probabilístico",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de probabilidades",
-    "ensino de probabilidade"
-  ],
-  "ids_duplicados": []
+ "id": "capes-29312071",
+ "autor": "Marcelo Rivelino Rodrigues",
+ "ano": 2018,
+ "tipo": "Tese",
+ "titulo": "Estudo sobre as Concepções de Professores do Ensino Básico em Relação à Aleatoriedade e Probabilidade",
+ "instituicao": "Pontifícia Universidade Católica de São Paulo",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Cileda de Queiroz e Silva Coutinho",
+ "programa": "EDUCAÇÃO MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Probabilidades; Matemática - Estudo e ensino; Professores de matemática - Formação profissional",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22ESTUDO%20SOBRE%20AS%20CONCEP%C3%87%C3%95ES%20DE%20PROFESSORES%20DO%20ENSINO%20B%C3%81SICO%20EM%20RELA%C3%87%C3%83O%20%C3%80%20ALEATORIEDADE%20E%20PROBABILIDADE%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESTUDO%20SOBRE%20AS%20CONCEP%C3%87%C3%95ES%20DE%20PROFESSORES%20DO%20ENSINO%20B%C3%81SICO%20EM%20RELA%C3%87%C3%83O%20%C3%80%20ALEATORIEDADE%20E%20PROBABILIDADE&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29312071"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "29312071",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Probabilidades",
+  "Matemática - Estudo e ensino",
+  "Professores de matemática - Formação profissional"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-29312071.svg",
+ "resumo": "Os conhecimentos probabilísticos mostram-se relevantes na vida em sociedade, pois cada vez mais as tomadas de decisão criteriosas apresentam-se como um dos diferenciais no mercado de trabalho, bem como em nosso dia a dia. Por esta razão, esta pesquisa teve como objetivo analisar as concepções de probabilidade e aleatoriedade de professores que atuam no ensino básico, quando estes se defrontam com questões que envolvem tais temas. Para a coleta de dados, aplicou-se o instrumento de pesquisa “Questionário de Concepções Probabilísticas”, a 41 professores do ensino fundamental II (6º ao 9º ano), visando identificar as concepções probabilísticas apresentadas por este grupo. Como metodologia, optou-se pela análise de dados multidimensionais, aplicando-se análise implicativa e coesitiva às respostas dos professores, utilizando software de Classificação Hierárquica, Implicativa e Coesitiva (CHIC), que gerou grafos de coesão e de implicação das relações entre as variáveis observadas. Para fundamentar o estudo, apoiamo-nos nas categorizações de concepções probabilísticas de Azcárate e de Cardeñoso e na definição de letramento probabilístico proposta por Gal. No desenvolvimento da pesquisa, foram analisados documentos oficiais como os Parâmetros Curriculares Nacionais (PCN) e Base Nacional Comum Curricular (BNCC) para observação de semelhanças, e possíveis evoluções na passagem do 1º para o 2º documento, no que tange às orientações para a abordagem do tema probabilidade no ensino básico. Também se analisou uma coleção de livros didáticos aprovada pelo Programa Nacional do Livro Didático (PNLD), com o objetivo de identificar, à luz da Teoria Antropológica do Didático, os tipos de tarefas, técnicas, tecnologias e teorias presentes nas atividades propostas na coleção. As análises permitiram identificar as concepções probabilísticas que emergiram dos participantes, nas dimensões aleatoriedade e probabilidade. Na dimensão aleatoriedade seis grupos foram identificados: determinista; causalidade; multiplicidade; incerteza; padrão; indefinidos. A dimensão probabilidade compreendeu cinco grupos: causalidade; determinista; incerteza; contingência; personalista. Destaca-se, ainda, que as análises possibilitaram categorizar os níveis de letramento probabilístico",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de probabilidades",
+  "ensino de probabilidade"
+ ],
+ "ids_duplicados": []
 }

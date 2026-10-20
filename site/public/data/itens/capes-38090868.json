@@ -1,60 +1,60 @@
 {
-  "id": "capes-38090868",
-  "autor": "Rubia Ness",
-  "ano": 2023,
-  "tipo": "Dissertação",
-  "titulo": "A docência de professores de matemática do ensino fundamental: a BNCC na prática da unidade temática probabilidade e estatística",
-  "instituicao": "UNIVERSIDADE DE CAXIAS DO SUL",
-  "cidade": "",
-  "estado": "Rio Grande do Sul",
-  "regiao": "Sul",
-  "orientador": "Isolda Gianni de Lima",
-  "programa": "Ensino de Ciências e Matemática",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Probabilidade e Estatística; Base Nacional Comum Curriculuar; Formação continuada",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20doc%C3%AAncia%20de%20professores%20de%20matem%C3%A1tica%20do%20ensino%20fundamental%3A%20a%20BNCC%20na%20pr%C3%A1tica%20da%20unidade%20tem%C3%A1tica%20probabilidade%20e%20estat%C3%ADstica%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20doc%C3%AAncia%20de%20professores%20de%20matem%C3%A1tica%20do%20ensino%20fundamental%3A%20a%20BNCC%20na%20pr%C3%A1tica%20da%20unidade%20tem%C3%A1tica%20probabilidade%20e%20estat%C3%ADstica&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38090868"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "38090868",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Probabilidade e Estatística",
-    "Base Nacional Comum Curriculuar",
-    "Formação continuada"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-38090868.svg",
-  "resumo": "A presente pesquisa aborda a temática da formação de professores, uma das inquietações da pesquisadora enquanto docente, relacionando-a com a Base Nacional Comum Curricular (BNCC). Desde a sua aprovação, a BNCC orienta a organização curricular das escolas brasileiras. Diante dos desafios com a aplicação das normativas desse documento, buscou-se, com esta pesquisa, compreender como a BNCC influencia no ensino e aprendizagem, no sentido de compreender como os professores de Matemática consideram a Base Nacional Comum Curricular no desenvolvimento da sua docência na Educação Básica. A construção deste percurso foi alicerçada pelo planejamento e aplicação de uma formação continuada para problematizar a docência de professores de Matemática de escolas de Educação Básica da cidade de Caxias do Sul, a partir das concepções da Base Nacional Comum Curricular, e focalizando a unidade temática Probabilidade e Estatística. O trabalho é estruturado em seções que versam sobre a formação e atuação de professores, e a importância da formação continuada para a docência; a Base Nacional Comum Curricular, suas diretrizes, organização e marcos legais; a área da Matemática na organização da BNCC; e a Probabilidade e Estatística em um currículo em espiral, que aborda o processo gradual de aprendizado ao longo dos anos. O curso de formação, que ocorreu em formato on-line, oportunizou aos professores participantes refletir sobre a sua prática docente, bem como aprimorar conhecimentos referentes à Base, à Matemática e à própria docência. Os resultados desta pesquisa evidenciam a adaptação dos participantes no curso de formação às orientações da Base, bem como à aplicação das diretrizes nas escolas em que atuam. Os professores demonstraram compreender a relevância de se ter um documento norteador como a BNCC, que orienta o ensino e explicita as aprendizagens essenciais e progressivas que os estudantes devem desenvolver, ao mesmo tempo em que lhes proporciona autonomia para organizar o currículo de acordo com a realidade de cada escola. Essa abordagem profissional e consciente dos educadores é fundamental para almejar uma educação de qualidade e alinhada às necessidades da sociedade.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de estatística",
-    "ensino de probabilidade"
-  ],
-  "ids_duplicados": []
+ "id": "capes-38090868",
+ "autor": "Rubia Ness",
+ "ano": 2023,
+ "tipo": "Dissertação",
+ "titulo": "A docência de professores de matemática do ensino fundamental: a BNCC na prática da unidade temática probabilidade e estatística",
+ "instituicao": "Universidade de Caxias do Sul",
+ "cidade": "",
+ "estado": "Rio Grande do Sul",
+ "regiao": "Sul",
+ "orientador": "Isolda Gianni de Lima",
+ "programa": "Ensino de Ciências e Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Probabilidade e Estatística; Base Nacional Comum Curriculuar; Formação continuada",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20doc%C3%AAncia%20de%20professores%20de%20matem%C3%A1tica%20do%20ensino%20fundamental%3A%20a%20BNCC%20na%20pr%C3%A1tica%20da%20unidade%20tem%C3%A1tica%20probabilidade%20e%20estat%C3%ADstica%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20doc%C3%AAncia%20de%20professores%20de%20matem%C3%A1tica%20do%20ensino%20fundamental%3A%20a%20BNCC%20na%20pr%C3%A1tica%20da%20unidade%20tem%C3%A1tica%20probabilidade%20e%20estat%C3%ADstica&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38090868"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "38090868",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Probabilidade e Estatística",
+  "Base Nacional Comum Curriculuar",
+  "Formação continuada"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-38090868.svg",
+ "resumo": "A presente pesquisa aborda a temática da formação de professores, uma das inquietações da pesquisadora enquanto docente, relacionando-a com a Base Nacional Comum Curricular (BNCC). Desde a sua aprovação, a BNCC orienta a organização curricular das escolas brasileiras. Diante dos desafios com a aplicação das normativas desse documento, buscou-se, com esta pesquisa, compreender como a BNCC influencia no ensino e aprendizagem, no sentido de compreender como os professores de Matemática consideram a Base Nacional Comum Curricular no desenvolvimento da sua docência na Educação Básica. A construção deste percurso foi alicerçada pelo planejamento e aplicação de uma formação continuada para problematizar a docência de professores de Matemática de escolas de Educação Básica da cidade de Caxias do Sul, a partir das concepções da Base Nacional Comum Curricular, e focalizando a unidade temática Probabilidade e Estatística. O trabalho é estruturado em seções que versam sobre a formação e atuação de professores, e a importância da formação continuada para a docência; a Base Nacional Comum Curricular, suas diretrizes, organização e marcos legais; a área da Matemática na organização da BNCC; e a Probabilidade e Estatística em um currículo em espiral, que aborda o processo gradual de aprendizado ao longo dos anos. O curso de formação, que ocorreu em formato on-line, oportunizou aos professores participantes refletir sobre a sua prática docente, bem como aprimorar conhecimentos referentes à Base, à Matemática e à própria docência. Os resultados desta pesquisa evidenciam a adaptação dos participantes no curso de formação às orientações da Base, bem como à aplicação das diretrizes nas escolas em que atuam. Os professores demonstraram compreender a relevância de se ter um documento norteador como a BNCC, que orienta o ensino e explicita as aprendizagens essenciais e progressivas que os estudantes devem desenvolver, ao mesmo tempo em que lhes proporciona autonomia para organizar o currículo de acordo com a realidade de cada escola. Essa abordagem profissional e consciente dos educadores é fundamental para almejar uma educação de qualidade e alinhada às necessidades da sociedade.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de estatística",
+  "ensino de probabilidade"
+ ],
+ "ids_duplicados": []
 }

@@ -1,57 +1,57 @@
 {
-  "id": "capes-20460294",
-  "autor": "Adeilson Pereira da Silva",
-  "ano": 2013,
-  "tipo": "Dissertação",
-  "titulo": "ENSINO-APRENDIZAGEM de Análise Combinatória Através da Resolução de Problemas: Um Olhar para a Sala de Aula",
-  "instituicao": "UNIVERSIDADE ESTADUAL DA PARAIBA",
-  "cidade": "",
-  "estado": "Paraíba",
-  "regiao": "Nordeste",
-  "orientador": "Silvanio de Andrade",
-  "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Ensino-Aprendizagem de Matemática. Análise Combinatória. Cotidiano Escolar. Sala de Aula. Resolução",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO-APRENDIZAGEM%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20ATRAV%C3%89S%20DA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%3A%20UM%20OLHAR%20PARA%20A%20SALA%20DE%20AULA%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO-APRENDIZAGEM%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20ATRAV%C3%89S%20DA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%3A%20UM%20OLHAR%20PARA%20A%20SALA%20DE%20AULA&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20460294"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "20460294",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Ensino-Aprendizagem de Matemática. Análise Combinatória. Cotidiano Escolar. Sala de Aula. Resolução"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-20460294.svg",
-  "resumo": "Essa pesquisa busca traçar um mapeamento do ensino-aprendizagem de Análise Combinatória, através da prática em sala de aula, utilizando como metodologia de ensino-aprendizagem a resolução e exploração de problemas, fruto de um olhar reflexivo para a nossa própria prática como professor-pesquisador. A pesquisa inicia com uma investigação no campo da Educação Matemática com o tema Ensino-Aprendizagem de Análise Combinatória. No desenvolvimento do trabalho, foi possível observar a própria prática de sala de aula refletida nas discussões e nas ideias pertinentes ao conteúdo de Análise Combinatória apontadas pela literatura. Dessa forma, as ideias centrais no processo ensino-aprendizagem dessa matéria foram esclarecidas e expostas as perspectivas metodológicas no uso da exploração e resolução de problemas para o ensino-aprendizagem desse conteúdo, quando desenvolvido em salas de aula reais, não idealizadas. No todo, trazemos um caminhar reflexivo sobre o tema de análise combinatória, resolução de problemas, construtivismo social, filosofia da Matemática e Educação Matemática, tendo como metodologia a pesquisa pedagógica com o cotidiano escolar, fazendo uso de observações, registros das aulas e materiais utilizados pelos alunos. Na intervenção realizada, vivenciamos várias dificuldades pertinentes ao ensino-aprendizagem de Análise Combinatória, como a distinção entre problemas de Arranjo e de Combinação, o que acarreta o fato de não se perceber, na compreensão do problema, por parte dos alunos, se a ordem dos elementos no agrupamento é pertinente ou não na contagem. A pesquisa traz contribuições para o conteúdo de Análise Combinatória e para a melhor compreensão do uso da resolução de problemas em sala de aula, como metodologia de ensino-aprendizagem. No desenvolver da pesquisa, o cotidiano requer a atenção do professor como elemento indispensável ao fazer pedagógico. Surgem então provocações e reflexões quanto à pesquisa com o cotidiano da sala de aula, que implicam em um olhar crítico para a mesma. Essa prática docente enseja uma oportunidade de mudança do status quo e a emancipação dos estudantes. Significa, pois, a busca de uma pedagogia que venha se constituir como resistência à opressão sofrida nas escolas.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de combinatória"
-  ],
-  "ids_duplicados": []
+ "id": "capes-20460294",
+ "autor": "Adeilson Pereira da Silva",
+ "ano": 2013,
+ "tipo": "Dissertação",
+ "titulo": "ENSINO-APRENDIZAGEM de Análise Combinatória Através da Resolução de Problemas: Um Olhar para a Sala de Aula",
+ "instituicao": "Universidade Estadual da Paraiba",
+ "cidade": "",
+ "estado": "Paraíba",
+ "regiao": "Nordeste",
+ "orientador": "Silvanio de Andrade",
+ "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Ensino-Aprendizagem de Matemática. Análise Combinatória. Cotidiano Escolar. Sala de Aula. Resolução",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO-APRENDIZAGEM%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20ATRAV%C3%89S%20DA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%3A%20UM%20OLHAR%20PARA%20A%20SALA%20DE%20AULA%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO-APRENDIZAGEM%20DE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20ATRAV%C3%89S%20DA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%3A%20UM%20OLHAR%20PARA%20A%20SALA%20DE%20AULA&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20460294"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "20460294",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Ensino-Aprendizagem de Matemática. Análise Combinatória. Cotidiano Escolar. Sala de Aula. Resolução"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-20460294.svg",
+ "resumo": "Essa pesquisa busca traçar um mapeamento do ensino-aprendizagem de Análise Combinatória, através da prática em sala de aula, utilizando como metodologia de ensino-aprendizagem a resolução e exploração de problemas, fruto de um olhar reflexivo para a nossa própria prática como professor-pesquisador. A pesquisa inicia com uma investigação no campo da Educação Matemática com o tema Ensino-Aprendizagem de Análise Combinatória. No desenvolvimento do trabalho, foi possível observar a própria prática de sala de aula refletida nas discussões e nas ideias pertinentes ao conteúdo de Análise Combinatória apontadas pela literatura. Dessa forma, as ideias centrais no processo ensino-aprendizagem dessa matéria foram esclarecidas e expostas as perspectivas metodológicas no uso da exploração e resolução de problemas para o ensino-aprendizagem desse conteúdo, quando desenvolvido em salas de aula reais, não idealizadas. No todo, trazemos um caminhar reflexivo sobre o tema de análise combinatória, resolução de problemas, construtivismo social, filosofia da Matemática e Educação Matemática, tendo como metodologia a pesquisa pedagógica com o cotidiano escolar, fazendo uso de observações, registros das aulas e materiais utilizados pelos alunos. Na intervenção realizada, vivenciamos várias dificuldades pertinentes ao ensino-aprendizagem de Análise Combinatória, como a distinção entre problemas de Arranjo e de Combinação, o que acarreta o fato de não se perceber, na compreensão do problema, por parte dos alunos, se a ordem dos elementos no agrupamento é pertinente ou não na contagem. A pesquisa traz contribuições para o conteúdo de Análise Combinatória e para a melhor compreensão do uso da resolução de problemas em sala de aula, como metodologia de ensino-aprendizagem. No desenvolver da pesquisa, o cotidiano requer a atenção do professor como elemento indispensável ao fazer pedagógico. Surgem então provocações e reflexões quanto à pesquisa com o cotidiano da sala de aula, que implicam em um olhar crítico para a mesma. Essa prática docente enseja uma oportunidade de mudança do status quo e a emancipação dos estudantes. Significa, pois, a busca de uma pedagogia que venha se constituir como resistência à opressão sofrida nas escolas.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de combinatória"
+ ],
+ "ids_duplicados": []
 }

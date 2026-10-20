@@ -1,57 +1,57 @@
 {
-  "id": "capes-20312440",
-  "autor": "Paulo Marcos Ribeiro da Silva",
-  "ano": 2015,
-  "tipo": "Dissertação",
-  "titulo": "Aplicativos que Abordam Conceitos Estatísticos em Tablets e Smartphones",
-  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Gilda Lisboa Guimaraes",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Tecnologia Digital Móvel. Educação Estatística. Análise de Software Aplicativo. Educação Básica.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22APLICATIVOS%20QUE%20ABORDAM%20CONCEITOS%20ESTAT%C3%8DSTICOS%20EM%20TABLETS%20E%20SMARTPHONES%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=APLICATIVOS%20QUE%20ABORDAM%20CONCEITOS%20ESTAT%C3%8DSTICOS%20EM%20TABLETS%20E%20SMARTPHONES&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20312440"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "20312440",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Tecnologia Digital Móvel. Educação Estatística. Análise de Software Aplicativo. Educação Básica."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-20312440.svg",
-  "resumo": "A principal motivação para a elaboração desse estudo consistiu no fato da ênfase que se tem hoje em inserir a tecnologia digital na educação, de modo que essa possibilite auxiliar no trabalho do professor e na aprendizagem do estudante. Tablets, smartphones, aplicativos, entre outras tecnologias digitais móveis, estão sendo utilizados como recurso de comunicação ou troca de informações, auxiliando nas diversas atividades da nossa vida social e, aos poucos, estão sendo inseridos no espaço escolar. Existem autores que ressaltam ter aplicativos para tablets e smartphones, que apresentam potencialidades para o processo educativo em diversas áreas. Portanto, para a utilização desses equipamentos de maneira adequada na escola, cabe aos professores escolherem o aplicativo e a didática que melhor proporcionará a aprendizagem de seus alunos diante de seus objetos e objetivos de ensino. Entretanto, essa escolha não é fácil. Assim, esse estudo teve como objetivo elaborar um instrumento e avaliar aplicativos que podem ser utilizados no ensino de Estatística na Educação Básica, considerando os diferentes níveis de ensino: anos iniciais e finais do Ensino Fundamental e Ensino Médio em função de aspectos técnicos, pedagógicos e estatísticos. Após a criação do instrumento considerando as três dimensões, com propostas de apoio na escolha de um aplicativo a ser escolhido para a sala de aula, buscamos analisar aplicativos com sistema Android que pudessem ser utilizados no ensino de Estatística na Educação Básica. Essa busca colocou como condição que os mesmos fossem gratuitos. Assim, foram analisados 9 (nove) aplicativos, dos quais 3 (três) eram no idioma português e os demais em inglês, mas com pouca exigência de compreensão do idioma. A partir da análise, identificamos limitações nos aplicativos nas três dimensões. Apesar de apresentarem alguns recursos de cálculos para auxiliar o usuário, os aplicativos analisados não podem ser considerados absolutamente adequados, por limitações como ausência de informações técnicas ou propostas educacionais, evidenciando que os mesmos não foram construídos como forma de auxiliar o professor no ensino. Além disso, os aplicativos encontrados são semelhantes a calculadoras, sendo que em três deles os dados são associados à construção de gráficos e outros três a representação em tabelas. A pesquisa, portanto, possibilita que os professores tenham um instrumento de avaliação para que o auxilie verificar potencialidades e limitações desses recursos, a serem inseridos na sua prática pedagógica. Assim como no trabalho especificamente no que se refere à Estatística, considerando o uso de aplicativos a serem selecionados para a sua sala de aula.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-20312440",
+ "autor": "Paulo Marcos Ribeiro da Silva",
+ "ano": 2015,
+ "tipo": "Dissertação",
+ "titulo": "Aplicativos que Abordam Conceitos Estatísticos em Tablets e Smartphones",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Gilda Lisboa Guimaraes",
+ "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Tecnologia Digital Móvel. Educação Estatística. Análise de Software Aplicativo. Educação Básica.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22APLICATIVOS%20QUE%20ABORDAM%20CONCEITOS%20ESTAT%C3%8DSTICOS%20EM%20TABLETS%20E%20SMARTPHONES%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=APLICATIVOS%20QUE%20ABORDAM%20CONCEITOS%20ESTAT%C3%8DSTICOS%20EM%20TABLETS%20E%20SMARTPHONES&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20312440"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "20312440",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Tecnologia Digital Móvel. Educação Estatística. Análise de Software Aplicativo. Educação Básica."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-20312440.svg",
+ "resumo": "A principal motivação para a elaboração desse estudo consistiu no fato da ênfase que se tem hoje em inserir a tecnologia digital na educação, de modo que essa possibilite auxiliar no trabalho do professor e na aprendizagem do estudante. Tablets, smartphones, aplicativos, entre outras tecnologias digitais móveis, estão sendo utilizados como recurso de comunicação ou troca de informações, auxiliando nas diversas atividades da nossa vida social e, aos poucos, estão sendo inseridos no espaço escolar. Existem autores que ressaltam ter aplicativos para tablets e smartphones, que apresentam potencialidades para o processo educativo em diversas áreas. Portanto, para a utilização desses equipamentos de maneira adequada na escola, cabe aos professores escolherem o aplicativo e a didática que melhor proporcionará a aprendizagem de seus alunos diante de seus objetos e objetivos de ensino. Entretanto, essa escolha não é fácil. Assim, esse estudo teve como objetivo elaborar um instrumento e avaliar aplicativos que podem ser utilizados no ensino de Estatística na Educação Básica, considerando os diferentes níveis de ensino: anos iniciais e finais do Ensino Fundamental e Ensino Médio em função de aspectos técnicos, pedagógicos e estatísticos. Após a criação do instrumento considerando as três dimensões, com propostas de apoio na escolha de um aplicativo a ser escolhido para a sala de aula, buscamos analisar aplicativos com sistema Android que pudessem ser utilizados no ensino de Estatística na Educação Básica. Essa busca colocou como condição que os mesmos fossem gratuitos. Assim, foram analisados 9 (nove) aplicativos, dos quais 3 (três) eram no idioma português e os demais em inglês, mas com pouca exigência de compreensão do idioma. A partir da análise, identificamos limitações nos aplicativos nas três dimensões. Apesar de apresentarem alguns recursos de cálculos para auxiliar o usuário, os aplicativos analisados não podem ser considerados absolutamente adequados, por limitações como ausência de informações técnicas ou propostas educacionais, evidenciando que os mesmos não foram construídos como forma de auxiliar o professor no ensino. Além disso, os aplicativos encontrados são semelhantes a calculadoras, sendo que em três deles os dados são associados à construção de gráficos e outros três a representação em tabelas. A pesquisa, portanto, possibilita que os professores tenham um instrumento de avaliação para que o auxilie verificar potencialidades e limitações desses recursos, a serem inseridos na sua prática pedagógica. Assim como no trabalho especificamente no que se refere à Estatística, considerando o uso de aplicativos a serem selecionados para a sua sala de aula.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": []
 }

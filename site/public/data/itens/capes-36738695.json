@@ -1,59 +1,59 @@
 {
-  "id": "capes-36738695",
-  "autor": "Genercley Araujo Cruz",
-  "ano": 2022,
-  "tipo": "Dissertação",
-  "titulo": "Teoria das Situações Didáticas e a Compreensão Gráfica de Alunos em uma Escola Ribeirinha no Sul do Amazonas",
-  "instituicao": "UNIVERSIDADE FEDERAL DO AMAZONAS",
-  "cidade": "",
-  "estado": "Amazonas",
-  "regiao": "Norte",
-  "orientador": "Marcos Andre Braz Vaz",
-  "programa": "ENSINO DE CIÊNCIAS E HUMANIDADES",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Literacia Estatística. Sequência Didática. Educação Ribeirinha. Ensino e aprendizagem. Engenharia Didática.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22TEORIA%20DAS%20SITUA%C3%87%C3%95ES%20DID%C3%81TICAS%20E%20A%20COMPREENS%C3%83O%20GR%C3%81FICA%20DE%20ALUNOS%20EM%20UMA%20ESCOLA%20RIBEIRINHA%20NO%20SUL%20DO%20AMAZONAS%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=TEORIA%20DAS%20SITUA%C3%87%C3%95ES%20DID%C3%81TICAS%20E%20A%20COMPREENS%C3%83O%20GR%C3%81FICA%20DE%20ALUNOS%20EM%20UMA%20ESCOLA%20RIBEIRINHA%20NO%20SUL%20DO%20AMAZONAS&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36738695"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "36738695",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Literacia Estatística. Sequência Didática. Educação Ribeirinha. Ensino e aprendizagem. Engenharia Didática."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-36738695.svg",
-  "resumo": "A presente pesquisa tem a pretensão de contribuir positivamente para a mobilização do letramento estatístico na educação ribeirinha amazônica. Essa mobilização se faz necessária, uma vez que grande parte das informações disponíveis, atualmente, são expressas a partir de “ferramentas estatísticas”, tais como os gráficos e as tabelas. Nesta perspectiva, ter o domínio básico das habilidades do letramento estatístico é essencial para que um cidadão exerça sua cidadania plena. Diante disso, apostamos em uma sequência didática, baseada na Teoria das Situações Didática, como “ferramenta” didática capaz de motivar os discentes na mobilização das habilidades da literacia estatística. Com esse pensamento, traçamos o objetivo geral da pesquisa: compreender como a Teoria das Situações Didáticas pode contribuir para a mobilização das habilidades do letramento estatístico a partir da compreensão gráfica, em alunos da 3o série do ensino médio em uma escola do campo ribeirinha em Humaitá, Amazonas. A pesquisa foi desenvolvida com oito estudantes da Escola Ribeirinha São Domingos Sávio, localizada na vila Auxiliadora, as margens do Rio Madeira, zona rural do Município de Humaitá, Sul do Amazonas. Para analisar a parte experimental, utilizamos a Engenharia Didática como metodologia de pesquisa, através do confrontamento entre suas fases: Análises preliminares, concepção e análise a priori, experimentação e análise a posteriori e validação. A fase experimental foi constituída por uma sequência didática compostas de duas atividades que se fundamentam na Teoria das Situações Didáticas. Durante a aplicação das duas atividades, foram notórios o entusiasmo e a motivação dos discentes na busca pela solução das situações-problema que lhes fora proposto. Esses fatores geraram um ambiente propício para a aprendizagem de novas habilidades e novas formas de aprender, partindo da interação, debates e diálogos. Nessa perspectiva, observamos a ocorrência de uma aprendizagem significativa, prazerosa, autônoma e motivadora. Portanto, temos convicção de que a Teoria das Situações Didáticas pode ser uma alternativa para um novo rumo nos processos ensino e aprendizagem de estatística e, de matemática de modo geral, nessa região da Amazônia",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": [
-    "40799061"
-  ]
+ "id": "capes-36738695",
+ "autor": "Genercley Araujo Cruz",
+ "ano": 2022,
+ "tipo": "Dissertação",
+ "titulo": "Teoria das Situações Didáticas e a Compreensão Gráfica de Alunos em uma Escola Ribeirinha no Sul do Amazonas",
+ "instituicao": "Universidade Federal do Amazonas",
+ "cidade": "",
+ "estado": "Amazonas",
+ "regiao": "Norte",
+ "orientador": "Marcos Andre Braz Vaz",
+ "programa": "ENSINO DE CIÊNCIAS E HUMANIDADES",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Literacia Estatística. Sequência Didática. Educação Ribeirinha. Ensino e aprendizagem. Engenharia Didática.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22TEORIA%20DAS%20SITUA%C3%87%C3%95ES%20DID%C3%81TICAS%20E%20A%20COMPREENS%C3%83O%20GR%C3%81FICA%20DE%20ALUNOS%20EM%20UMA%20ESCOLA%20RIBEIRINHA%20NO%20SUL%20DO%20AMAZONAS%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=TEORIA%20DAS%20SITUA%C3%87%C3%95ES%20DID%C3%81TICAS%20E%20A%20COMPREENS%C3%83O%20GR%C3%81FICA%20DE%20ALUNOS%20EM%20UMA%20ESCOLA%20RIBEIRINHA%20NO%20SUL%20DO%20AMAZONAS&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36738695"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "36738695",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Literacia Estatística. Sequência Didática. Educação Ribeirinha. Ensino e aprendizagem. Engenharia Didática."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-36738695.svg",
+ "resumo": "A presente pesquisa tem a pretensão de contribuir positivamente para a mobilização do letramento estatístico na educação ribeirinha amazônica. Essa mobilização se faz necessária, uma vez que grande parte das informações disponíveis, atualmente, são expressas a partir de “ferramentas estatísticas”, tais como os gráficos e as tabelas. Nesta perspectiva, ter o domínio básico das habilidades do letramento estatístico é essencial para que um cidadão exerça sua cidadania plena. Diante disso, apostamos em uma sequência didática, baseada na Teoria das Situações Didática, como “ferramenta” didática capaz de motivar os discentes na mobilização das habilidades da literacia estatística. Com esse pensamento, traçamos o objetivo geral da pesquisa: compreender como a Teoria das Situações Didáticas pode contribuir para a mobilização das habilidades do letramento estatístico a partir da compreensão gráfica, em alunos da 3o série do ensino médio em uma escola do campo ribeirinha em Humaitá, Amazonas. A pesquisa foi desenvolvida com oito estudantes da Escola Ribeirinha São Domingos Sávio, localizada na vila Auxiliadora, as margens do Rio Madeira, zona rural do Município de Humaitá, Sul do Amazonas. Para analisar a parte experimental, utilizamos a Engenharia Didática como metodologia de pesquisa, através do confrontamento entre suas fases: Análises preliminares, concepção e análise a priori, experimentação e análise a posteriori e validação. A fase experimental foi constituída por uma sequência didática compostas de duas atividades que se fundamentam na Teoria das Situações Didáticas. Durante a aplicação das duas atividades, foram notórios o entusiasmo e a motivação dos discentes na busca pela solução das situações-problema que lhes fora proposto. Esses fatores geraram um ambiente propício para a aprendizagem de novas habilidades e novas formas de aprender, partindo da interação, debates e diálogos. Nessa perspectiva, observamos a ocorrência de uma aprendizagem significativa, prazerosa, autônoma e motivadora. Portanto, temos convicção de que a Teoria das Situações Didáticas pode ser uma alternativa para um novo rumo nos processos ensino e aprendizagem de estatística e, de matemática de modo geral, nessa região da Amazônia",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": [
+  "40799061"
+ ]
 }

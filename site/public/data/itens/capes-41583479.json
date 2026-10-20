@@ -1,60 +1,60 @@
 {
-  "id": "capes-41583479",
-  "autor": "Rejane Padilha Quedi",
-  "ano": 2024,
-  "tipo": "Tese",
-  "titulo": "Estatística no Ensino Médio: uma proposta metodológica baseada na Teoria da Aprendizagem Significativa, utilizando a sustentabilidade como tema contextualizador",
-  "instituicao": "UNIVERSIDADE DE PASSO FUNDO",
-  "cidade": "",
-  "estado": "Rio Grande do Sul",
-  "regiao": "Sul",
-  "orientador": "Aline Locatelli",
-  "programa": "Ensino de Ciências e Matemática",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DP",
-  "grau": "Doutorado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Ensino de Estatística; BNCC; Curso on-line; Produto educacional",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Estat%C3%ADstica%20no%20Ensino%20M%C3%A9dio%3A%20uma%20proposta%20metodol%C3%B3gica%20baseada%20na%20Teoria%20da%20Aprendizagem%20Significativa%2C%20utilizando%20a%20sustentabilidade%20como%20tema%20contextualizador%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estat%C3%ADstica%20no%20Ensino%20M%C3%A9dio%3A%20uma%20proposta%20metodol%C3%B3gica%20baseada%20na%20Teoria%20da%20Aprendizagem%20Significativa%2C%20utilizando%20a%20sustentabilidade%20como%20tema%20contextualizador&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41583479"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "41583479",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Ensino de Estatística",
-    "BNCC",
-    "Curso on-line",
-    "Produto educacional"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-41583479.svg",
-  "resumo": "A Estatística desempenha uma importante função na sociedade contemporânea e tem demonstrado ser uma excelente ferramenta para o desenvolvimento de competências essenciais para as tomadas de decisões do mundo moderno. Entretanto, a problemática evidenciada pela professora pesquisadora refere-se ao fato de que estudantes que ingressam no ensino superior apresentam lacunas conceituais, o que proporciona um alto índice de reprovação nas disciplinas da Área de Estatística. Nesse sentido, evidenciou-se a necessidade de desenvolvimento de estratégias e de metodologias de ensino contextualizadas que estejam sobretudo alinhadas à Base Nacional Comum Curricular (BNCC) visando auxiliar o professor a promover aprendizagens significativas aos estudantes da Educação Básica. Diante do exposto, o presente estudo toma por base a questão norteadora: De que forma um material didático contextualizado com a temática da sustentabilidade e apoiado na Teoria da Aprendizagem Significativa, que é composto por três sequências didáticas e por um curso on-line de curta duração, fortalece as práticas pedagógicas de professores de Matemática da Educação Básica na abordagem de conteúdos básicos de Estatística? A investigação tem por objetivo principal desenvolver um material didático, para professores de Matemática do Ensino Médio no que refere à elaboração de tabelas e ao estabelecimento da diferença entre dados em série e agrupados e dos conceitos de população, amostra, coleta de dados, média aritmética, moda, mediana, desvio médio e padrão para dados em série e dados agrupados, de forma significativa, contextualizada e alinhada à BNCC. Metodologicamente, a investigação classifica-se como qualitativa e participante e os instrumentos de produção de dados foram questionários, entrevistas semiestruturadas e o diário de bordo da professora pesquisadora. Após o estudo de viabilidade, que consistiu na aplicação de três sequências didáticas por professores da Educação Básica, constatou-se a necessidade de dar subsídios aos professores com relação à estrutura das sequências didáticas e ao tema contextualizador. Nesse sentido, foi desenvolvida, por meio do Google Classroom®, uma versão inicial de um curso on-line, o qual teve a participação de 20 professores de Matemática do Ensino Médio. O curso on-line apresentou uma carga horária de 30 horas, divididas em três módulos, a saber: O ensino de Estatística na BNCC e sua importância para o desenvolvimento sustentável; A Teoria da Aprendizagem Significativa; e Apresentação das três sequências didáticas. Após a realização do curso, supervisionou-se dois dos professores na implementação das três sequências didáticas em sala de aula. A análise de dados deu-se por meio da Análise Textual Discursiva e os dados produzidos foram analisados nas categorias “a priori: pedagógico – materiais e recursos, predisposição e intervenção e monitoramento” e “emergente: formação de professor”. Os resultados indicaram que o produto educacional elaborado, na forma de um material didático, subsidiou e fortaleceu as práticas pedagógicas dos professores de Matemática do Ensino Médio para a abordagem de conteúdos básicos de Estatística apoiados na Teoria da Aprendizagem Significativa e contextualizados com a temática da sustentabilidade. Desse estudo, emergiu também um curso on-line na modalidade Educação a Distância, ofertado de forma institucional, gratuito, contínuo e ambientado no Moodle. Em conjunto com as três sequências didáticas, o curso refere-se ao produto educacional vinculado a presente tese e está disponível no site do Programa de Pós-Graduação em Ensino de Ciências e Matemática da Universidade de Passo Fundo e no site Educapes no link http://educapes.capes.gov.br/handle/capes/747851.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-41583479",
+ "autor": "Rejane Padilha Quedi",
+ "ano": 2024,
+ "tipo": "Tese",
+ "titulo": "Estatística no Ensino Médio: uma proposta metodológica baseada na Teoria da Aprendizagem Significativa, utilizando a sustentabilidade como tema contextualizador",
+ "instituicao": "Universidade de Passo Fundo",
+ "cidade": "",
+ "estado": "Rio Grande do Sul",
+ "regiao": "Sul",
+ "orientador": "Aline Locatelli",
+ "programa": "Ensino de Ciências e Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DP",
+ "grau": "Doutorado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Ensino de Estatística; BNCC; Curso on-line; Produto educacional",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Estat%C3%ADstica%20no%20Ensino%20M%C3%A9dio%3A%20uma%20proposta%20metodol%C3%B3gica%20baseada%20na%20Teoria%20da%20Aprendizagem%20Significativa%2C%20utilizando%20a%20sustentabilidade%20como%20tema%20contextualizador%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estat%C3%ADstica%20no%20Ensino%20M%C3%A9dio%3A%20uma%20proposta%20metodol%C3%B3gica%20baseada%20na%20Teoria%20da%20Aprendizagem%20Significativa%2C%20utilizando%20a%20sustentabilidade%20como%20tema%20contextualizador&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41583479"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "41583479",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Ensino de Estatística",
+  "BNCC",
+  "Curso on-line",
+  "Produto educacional"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-41583479.svg",
+ "resumo": "A Estatística desempenha uma importante função na sociedade contemporânea e tem demonstrado ser uma excelente ferramenta para o desenvolvimento de competências essenciais para as tomadas de decisões do mundo moderno. Entretanto, a problemática evidenciada pela professora pesquisadora refere-se ao fato de que estudantes que ingressam no ensino superior apresentam lacunas conceituais, o que proporciona um alto índice de reprovação nas disciplinas da Área de Estatística. Nesse sentido, evidenciou-se a necessidade de desenvolvimento de estratégias e de metodologias de ensino contextualizadas que estejam sobretudo alinhadas à Base Nacional Comum Curricular (BNCC) visando auxiliar o professor a promover aprendizagens significativas aos estudantes da Educação Básica. Diante do exposto, o presente estudo toma por base a questão norteadora: De que forma um material didático contextualizado com a temática da sustentabilidade e apoiado na Teoria da Aprendizagem Significativa, que é composto por três sequências didáticas e por um curso on-line de curta duração, fortalece as práticas pedagógicas de professores de Matemática da Educação Básica na abordagem de conteúdos básicos de Estatística? A investigação tem por objetivo principal desenvolver um material didático, para professores de Matemática do Ensino Médio no que refere à elaboração de tabelas e ao estabelecimento da diferença entre dados em série e agrupados e dos conceitos de população, amostra, coleta de dados, média aritmética, moda, mediana, desvio médio e padrão para dados em série e dados agrupados, de forma significativa, contextualizada e alinhada à BNCC. Metodologicamente, a investigação classifica-se como qualitativa e participante e os instrumentos de produção de dados foram questionários, entrevistas semiestruturadas e o diário de bordo da professora pesquisadora. Após o estudo de viabilidade, que consistiu na aplicação de três sequências didáticas por professores da Educação Básica, constatou-se a necessidade de dar subsídios aos professores com relação à estrutura das sequências didáticas e ao tema contextualizador. Nesse sentido, foi desenvolvida, por meio do Google Classroom®, uma versão inicial de um curso on-line, o qual teve a participação de 20 professores de Matemática do Ensino Médio. O curso on-line apresentou uma carga horária de 30 horas, divididas em três módulos, a saber: O ensino de Estatística na BNCC e sua importância para o desenvolvimento sustentável; A Teoria da Aprendizagem Significativa; e Apresentação das três sequências didáticas. Após a realização do curso, supervisionou-se dois dos professores na implementação das três sequências didáticas em sala de aula. A análise de dados deu-se por meio da Análise Textual Discursiva e os dados produzidos foram analisados nas categorias “a priori: pedagógico – materiais e recursos, predisposição e intervenção e monitoramento” e “emergente: formação de professor”. Os resultados indicaram que o produto educacional elaborado, na forma de um material didático, subsidiou e fortaleceu as práticas pedagógicas dos professores de Matemática do Ensino Médio para a abordagem de conteúdos básicos de Estatística apoiados na Teoria da Aprendizagem Significativa e contextualizados com a temática da sustentabilidade. Desse estudo, emergiu também um curso on-line na modalidade Educação a Distância, ofertado de forma institucional, gratuito, contínuo e ambientado no Moodle. Em conjunto com as três sequências didáticas, o curso refere-se ao produto educacional vinculado a presente tese e está disponível no site do Programa de Pós-Graduação em Ensino de Ciências e Matemática da Universidade de Passo Fundo e no site Educapes no link http://educapes.capes.gov.br/handle/capes/747851.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

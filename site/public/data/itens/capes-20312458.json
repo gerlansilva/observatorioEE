@@ -1,54 +1,54 @@
 {
-  "id": "capes-20312458",
-  "autor": "Pablo Egidio Lisboa da Silva",
-  "ano": 2015,
-  "tipo": "Dissertação",
-  "titulo": "Problemas Combinatórios Condicionais: Um Olhar para o Livro Didático do Ensino Médio",
-  "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Cristiane Azevedo dos Santos",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Problema Combinatório Condicional. Livro Didático. Ensino Médio",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22PROBLEMAS%20COMBINAT%C3%93RIOS%20CONDICIONAIS%3A%20UM%20OLHAR%20PARA%20O%20LIVRO%20DID%C3%81TICO%20DO%20ENSINO%20M%C3%89DIO%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PROBLEMAS%20COMBINAT%C3%93RIOS%20CONDICIONAIS%3A%20UM%20OLHAR%20PARA%20O%20LIVRO%20DID%C3%81TICO%20DO%20ENSINO%20M%C3%89DIO&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20312458"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "20312458",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Problema Combinatório Condicional. Livro Didático. Ensino Médio"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-20312458.svg",
-  "resumo": "Esta pesquisa teve como objetivo analisar os livros didáticos de matemática aprovados pelo Programa Nacional do livro didático em 2012, que são voltados ao ensino médio, acerca dos problemas combinatórios condicionais. Para tanto, apoiou-se na categorização elaborada por Borba e Braz, a qual coloca que, além dos invariantes de escolha e ordem, relata a existência também dos invariantes de posicionamento e/ou proximidade e os de explicitação (ou não), todos relacionados aos elementos pertencentes aos conjuntos que se pretende contar e/ou agrupar. A presente pesquisa fundamentou-se na Teoria dos Campos Conceituais de Vergnaud que defende que um conceito é formado por um tripé composto pelas: Situações que dão significado ao conceito, pelos Invariantes que representam as diferentes propriedades do conceito e pelas representações simbólicas. Nesta dissertação defende-se que, quanto maior for o número de situações com que os alunos se deparam, ou seja, quanto maior for a diversidade dos problemas explorados pelos livros didáticos, haverá uma maior probabilidade de êxito na construção dos conceitos que se pretende ensinar. Sendo assim, considera-se que os problemas combinatórios condicionais constituem um arsenal de situações distintas, capazes de estimular os alunos a refletir sobre o problema, pois se este se constitui em um desafio, os alunos, de um modo geral, se sentem motivados a resolvê-lo. Os dados obtidos mostram que os problemas combinatórios estão concentrados nos livros do 2º ano do ensino médio. O levantamento quantitativo que procurou calcular o percentual de problemas combinatórios condicionais, em face aos problemas que não são condicionais, mostra, que as sete coleções analisadas apresentam percentuais que variam de 13,10% a 42,20% de problemas combinatórios condicionais. Desses problemas condicionais, os do tipo permutação, arranjo e combinação foram os mais explorados. Quanto aos tipos de Representações Simbólicas, a Árvore de Possibilidades e a Tabela foram as mais indicadas pelos autores dos livros em questão, embora não haja o incentivo para a utilização das mesmas. De forma geral, os problemas combinatórios condicionais abordaram contextos que faziam menção à organização de objetos em prateleiras, ou construção de anagramas (permutação); à criação de senhas ou de números com determinada quantidade de algarismos (arranjo) e à organização de comissões (combinação). As análises efetuadas no manual destinado especificamente ao professor mostraram a ausência de sugestões específicas que pudessem orientar o trabalho deste profissional em sala de aula ao trabalhar com os problemas combinatórios condicionais. Conclui-se então, que é considerável a quantidade de questões que trazem em seus enunciados, situações contextualizadas com a atividade diária dos alunos, possibilitando a instituição mais eficaz de um ou vários sentidos aos conceitos da combinatória.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": null
+ "id": "capes-20312458",
+ "autor": "Pablo Egidio Lisboa da Silva",
+ "ano": 2015,
+ "tipo": "Dissertação",
+ "titulo": "Problemas Combinatórios Condicionais: Um Olhar para o Livro Didático do Ensino Médio",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Cristiane Azevedo dos Santos",
+ "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Problema Combinatório Condicional. Livro Didático. Ensino Médio",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22PROBLEMAS%20COMBINAT%C3%93RIOS%20CONDICIONAIS%3A%20UM%20OLHAR%20PARA%20O%20LIVRO%20DID%C3%81TICO%20DO%20ENSINO%20M%C3%89DIO%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PROBLEMAS%20COMBINAT%C3%93RIOS%20CONDICIONAIS%3A%20UM%20OLHAR%20PARA%20O%20LIVRO%20DID%C3%81TICO%20DO%20ENSINO%20M%C3%89DIO&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20312458"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "20312458",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Problema Combinatório Condicional. Livro Didático. Ensino Médio"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-20312458.svg",
+ "resumo": "Esta pesquisa teve como objetivo analisar os livros didáticos de matemática aprovados pelo Programa Nacional do livro didático em 2012, que são voltados ao ensino médio, acerca dos problemas combinatórios condicionais. Para tanto, apoiou-se na categorização elaborada por Borba e Braz, a qual coloca que, além dos invariantes de escolha e ordem, relata a existência também dos invariantes de posicionamento e/ou proximidade e os de explicitação (ou não), todos relacionados aos elementos pertencentes aos conjuntos que se pretende contar e/ou agrupar. A presente pesquisa fundamentou-se na Teoria dos Campos Conceituais de Vergnaud que defende que um conceito é formado por um tripé composto pelas: Situações que dão significado ao conceito, pelos Invariantes que representam as diferentes propriedades do conceito e pelas representações simbólicas. Nesta dissertação defende-se que, quanto maior for o número de situações com que os alunos se deparam, ou seja, quanto maior for a diversidade dos problemas explorados pelos livros didáticos, haverá uma maior probabilidade de êxito na construção dos conceitos que se pretende ensinar. Sendo assim, considera-se que os problemas combinatórios condicionais constituem um arsenal de situações distintas, capazes de estimular os alunos a refletir sobre o problema, pois se este se constitui em um desafio, os alunos, de um modo geral, se sentem motivados a resolvê-lo. Os dados obtidos mostram que os problemas combinatórios estão concentrados nos livros do 2º ano do ensino médio. O levantamento quantitativo que procurou calcular o percentual de problemas combinatórios condicionais, em face aos problemas que não são condicionais, mostra, que as sete coleções analisadas apresentam percentuais que variam de 13,10% a 42,20% de problemas combinatórios condicionais. Desses problemas condicionais, os do tipo permutação, arranjo e combinação foram os mais explorados. Quanto aos tipos de Representações Simbólicas, a Árvore de Possibilidades e a Tabela foram as mais indicadas pelos autores dos livros em questão, embora não haja o incentivo para a utilização das mesmas. De forma geral, os problemas combinatórios condicionais abordaram contextos que faziam menção à organização de objetos em prateleiras, ou construção de anagramas (permutação); à criação de senhas ou de números com determinada quantidade de algarismos (arranjo) e à organização de comissões (combinação). As análises efetuadas no manual destinado especificamente ao professor mostraram a ausência de sugestões específicas que pudessem orientar o trabalho deste profissional em sala de aula ao trabalhar com os problemas combinatórios condicionais. Conclui-se então, que é considerável a quantidade de questões que trazem em seus enunciados, situações contextualizadas com a atividade diária dos alunos, possibilitando a instituição mais eficaz de um ou vários sentidos aos conceitos da combinatória.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": null
 }

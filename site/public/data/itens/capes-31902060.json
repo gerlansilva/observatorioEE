@@ -1,60 +1,60 @@
 {
-  "id": "capes-31902060",
-  "autor": "Priscila Germano dos Santos",
-  "ano": 2020,
-  "tipo": "Dissertação",
-  "titulo": "Mapeamento da Utilização de Recursos Tecnológicos Como Contribuição à Educação Estatística no Encontro Nacional de Educação Matemática– ENEM",
-  "instituicao": "UNIVERSIDADE FEDERAL DO ABC",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Vinicius Pazuch",
-  "programa": "Ensino e História das Ciências e da Matemática",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Estatística; Recursos tecnológicos; Estado da Arte; ENEM",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22MAPEAMENTO%20DA%20UTILIZA%C3%87%C3%83O%20DE%20RECURSOS%20TECNOL%C3%93GICOS%20COMO%20CONTRIBUI%C3%87%C3%83O%20%C3%80%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20NO%20ENCONTRO%20NACIONAL%20DE%20EDUCA%C3%87%C3%83O%20MATEM%C3%81TICA%20%E2%80%93%20ENEM%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=MAPEAMENTO%20DA%20UTILIZA%C3%87%C3%83O%20DE%20RECURSOS%20TECNOL%C3%93GICOS%20COMO%20CONTRIBUI%C3%87%C3%83O%20%C3%80%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20NO%20ENCONTRO%20NACIONAL%20DE%20EDUCA%C3%87%C3%83O%20MATEM%C3%81TICA%20%E2%80%93%20ENEM&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31902060"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "31902060",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Estatística",
-    "Recursos tecnológicos",
-    "Estado da Arte",
-    "ENEM"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-31902060.svg",
-  "resumo": "A pesquisa em Educação Estatística tem como objetivo investigar o processo de ensino e aprendizagem de conteúdos da Estatística, da Probabilidade e da Análise Combinatória, em diferentes níveis de ensino. Para atingir seu objetivo, as pesquisas são desenvolvidas com recursos teórico-metodológicos de áreas afins tais como a Educação Matemática, a Psicologia, a Pedagogia, entre outras. Assim, para avaliar a evolução das pesquisas em Educação Estatística nos últimos trinta e três anos, objetivo deste trabalho, foi realizada uma pesquisa documental “estado da arte” para determinar a tendência da produção científica por meio da análise dos anais do Encontro Nacional de Educação Matemática (ENEM) de 1987 a 2019, principal evento da área de Educação Matemática. A produção científica será categorizada de acordo com: (1) Ano de publicação; (2) Conteúdo pesquisado; (3) Participante investigado; (4) Nível de escolaridade dos participantes da pesquisa; (5) Autores que mais publicam no ENEM; (6) Instituições de ensino que são referências no ENEM; (7) Classificação do Enfoque Metodológico segundo Cazorla, Kataoka e Silva, (2015). Ao analisar as publicações presentes nos anais do ENEM no período de 1987 a 2019, no tocante às propostas de aprendizagem que envolve o ensino de Estatística mediadas por recursos tecnológicos, essas foram agrupadas segundo sete tipos de tecnologias: (1) Objetos de aprendizagem; (2) Softwares; (3) Ambientes Virtuais de Aprendizagem; (4) Redes sociais; (5) Internet; (6) Linguagens de programação; (7) Google Drive. A partir deste levantamento, foram destacados alguns pontos para reflexão sobre os rumos da Educação Estatística no Brasil no principal evento nacional de Educação Matemática. As maiores contribuições das pesquisas são de autores que fazem parte do GT 12 (Educação Estatística) da SBEM (Sociedade Brasileira de Educação Matemática). Dos 294 trabalhos identificados com foco na Educação Estatística, encontramos 42 (14,29%) que fazem uso das tecnologias digitais educacionais, a favor do ensino -aprendizagem em sala de aula, que é considerado um índice baixo devido a era da tecnologia digital da qual vivemos hoje. Metade dos 42 trabalhos identificados neste estudo focaram somente em apresentar estratégias para avaliar como alunos dos diversos ciclos de formação educacional se relacionam com os recursos tecnológicos. A maioria dos trabalhos publicados foram desenvolvidos na área de Estatística com 26 (61,90%) trabalhos, correspondendo a mais da metade dos trabalhos publicados, nos mostrando o interesse pela Estatística como objeto de estudo dos pesquisadores. Parte dos trabalhos (17; 40,48%) são voltados exclusivamente ou conjugado a outros ciclos a estudos na Educação Superior sendo voltado a estudantes de Graduação (Ciências Sociais; Psicologia; Engenharia Mecânica, Produção e Agrimensura; Administração ou voltado para a formação de professores (Pedagogia e Matemática). E ainda destacamos que o recurso tecnológico mais utilizado são os softwares, tais como: planilhas eletrônicas (Excel e Calc do BrOffice); SPSS; Statistica; Minitab; Tinkerplots; Geogebra; Árbol; Sisvar; Tabletop. Por fim, consideramos que os resultados indicam que os recursos tecnológicos podem ampliar os limites da Educação Estatística, possibilitando explorações que favorecem a compreensão de conceitos e habilidades que envolvem o processo de análise de dados, em detrimento de aspectos algébricos e/ou puramente estruturais.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-31902060",
+ "autor": "Priscila Germano dos Santos",
+ "ano": 2020,
+ "tipo": "Dissertação",
+ "titulo": "Mapeamento da Utilização de Recursos Tecnológicos Como Contribuição à Educação Estatística no Encontro Nacional de Educação Matemática– ENEM",
+ "instituicao": "Universidade Federal do Abc",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Vinicius Pazuch",
+ "programa": "Ensino e História das Ciências e da Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Estatística; Recursos tecnológicos; Estado da Arte; ENEM",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22MAPEAMENTO%20DA%20UTILIZA%C3%87%C3%83O%20DE%20RECURSOS%20TECNOL%C3%93GICOS%20COMO%20CONTRIBUI%C3%87%C3%83O%20%C3%80%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20NO%20ENCONTRO%20NACIONAL%20DE%20EDUCA%C3%87%C3%83O%20MATEM%C3%81TICA%20%E2%80%93%20ENEM%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=MAPEAMENTO%20DA%20UTILIZA%C3%87%C3%83O%20DE%20RECURSOS%20TECNOL%C3%93GICOS%20COMO%20CONTRIBUI%C3%87%C3%83O%20%C3%80%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20NO%20ENCONTRO%20NACIONAL%20DE%20EDUCA%C3%87%C3%83O%20MATEM%C3%81TICA%20%E2%80%93%20ENEM&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31902060"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "31902060",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Estatística",
+  "Recursos tecnológicos",
+  "Estado da Arte",
+  "ENEM"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-31902060.svg",
+ "resumo": "A pesquisa em Educação Estatística tem como objetivo investigar o processo de ensino e aprendizagem de conteúdos da Estatística, da Probabilidade e da Análise Combinatória, em diferentes níveis de ensino. Para atingir seu objetivo, as pesquisas são desenvolvidas com recursos teórico-metodológicos de áreas afins tais como a Educação Matemática, a Psicologia, a Pedagogia, entre outras. Assim, para avaliar a evolução das pesquisas em Educação Estatística nos últimos trinta e três anos, objetivo deste trabalho, foi realizada uma pesquisa documental “estado da arte” para determinar a tendência da produção científica por meio da análise dos anais do Encontro Nacional de Educação Matemática (ENEM) de 1987 a 2019, principal evento da área de Educação Matemática. A produção científica será categorizada de acordo com: (1) Ano de publicação; (2) Conteúdo pesquisado; (3) Participante investigado; (4) Nível de escolaridade dos participantes da pesquisa; (5) Autores que mais publicam no ENEM; (6) Instituições de ensino que são referências no ENEM; (7) Classificação do Enfoque Metodológico segundo Cazorla, Kataoka e Silva, (2015). Ao analisar as publicações presentes nos anais do ENEM no período de 1987 a 2019, no tocante às propostas de aprendizagem que envolve o ensino de Estatística mediadas por recursos tecnológicos, essas foram agrupadas segundo sete tipos de tecnologias: (1) Objetos de aprendizagem; (2) Softwares; (3) Ambientes Virtuais de Aprendizagem; (4) Redes sociais; (5) Internet; (6) Linguagens de programação; (7) Google Drive. A partir deste levantamento, foram destacados alguns pontos para reflexão sobre os rumos da Educação Estatística no Brasil no principal evento nacional de Educação Matemática. As maiores contribuições das pesquisas são de autores que fazem parte do GT 12 (Educação Estatística) da SBEM (Sociedade Brasileira de Educação Matemática). Dos 294 trabalhos identificados com foco na Educação Estatística, encontramos 42 (14,29%) que fazem uso das tecnologias digitais educacionais, a favor do ensino -aprendizagem em sala de aula, que é considerado um índice baixo devido a era da tecnologia digital da qual vivemos hoje. Metade dos 42 trabalhos identificados neste estudo focaram somente em apresentar estratégias para avaliar como alunos dos diversos ciclos de formação educacional se relacionam com os recursos tecnológicos. A maioria dos trabalhos publicados foram desenvolvidos na área de Estatística com 26 (61,90%) trabalhos, correspondendo a mais da metade dos trabalhos publicados, nos mostrando o interesse pela Estatística como objeto de estudo dos pesquisadores. Parte dos trabalhos (17; 40,48%) são voltados exclusivamente ou conjugado a outros ciclos a estudos na Educação Superior sendo voltado a estudantes de Graduação (Ciências Sociais; Psicologia; Engenharia Mecânica, Produção e Agrimensura; Administração ou voltado para a formação de professores (Pedagogia e Matemática). E ainda destacamos que o recurso tecnológico mais utilizado são os softwares, tais como: planilhas eletrônicas (Excel e Calc do BrOffice); SPSS; Statistica; Minitab; Tinkerplots; Geogebra; Árbol; Sisvar; Tabletop. Por fim, consideramos que os resultados indicam que os recursos tecnológicos podem ampliar os limites da Educação Estatística, possibilitando explorações que favorecem a compreensão de conceitos e habilidades que envolvem o processo de análise de dados, em detrimento de aspectos algébricos e/ou puramente estruturais.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": []
 }
