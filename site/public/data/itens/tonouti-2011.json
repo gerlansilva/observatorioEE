@@ -1,52 +1,53 @@
 {
-  "id": "tonouti-2011",
-  "autor": "Renata Rivas Tonouti",
-  "ano": 2011,
-  "tipo": "Dissertação",
-  "titulo": "Estudo sobre probabilidade e risco no ensino fundamental I",
-  "instituicao": "Universidade Bandeirantes de São Paulo",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Verônica Kataoka",
-  "programa": "Educação Matemática",
-  "area": "Educação Matemática",
-  "nivel_codigo": "",
-  "nivel": "Não informado",
-  "foco_codigo": "",
-  "foco": "Não informado",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "Probabilidade",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Estudo+sobre+probabilidade+e+risco+no+ensino+fundamental+I%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estudo+sobre+probabilidade+e+risco+no+ensino+fundamental+I&type=AllFields"
-  },
-  "capes": {
-    "status": "baixa_confianca",
-    "score": 0.451,
-    "candidato": "undefined",
-    "consultado_em": "2026-10-17"
-  },
-  "autor_planilha": "TONOUTI, R. R.",
-  "bdtd_api": {
-    "status": "nao_encontrado",
-    "score": 0.55
-  },
-  "orientador_planilha": "Verônica Kataoka",
-  "instituicao_agente": "Universidade Bandeirante de São Paulo (UNIBAN)",
-  "programa_agente": "Programa de Pós-Graduação em Educação Matemática",
-  "enriquecimento_manual": {
-    "fonte": "Programação do XI ENEM/SBEM (2013); artigo da Em Teia (2016)",
-    "confianca": "media",
-    "observacao": "Nome completo confirmado na programação do XI ENEM. A dissertação localizada tem título e ano diferentes ('Avaliação de um programa de ensino para a aprendizagem de Probabilidade nos anos iniciais do Ensino Fundamental', 2013); por isso não foram alterados título, ano nem links."
-  },
-  "tags": [],
-  "thumbnail": "./assets/images/thumbs/tonouti-2011.svg"
+ "id": "tonouti-2011",
+ "autor": "Renata Rivas Tonouti",
+ "ano": 2011,
+ "tipo": "Dissertação",
+ "titulo": "Estudo sobre probabilidade e risco no ensino fundamental I",
+ "instituicao": "Universidade Bandeirantes de São Paulo",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Verônica Kataoka",
+ "programa": "Educação Matemática",
+ "area": "Educação Matemática",
+ "nivel_codigo": "",
+ "nivel": "Não informado",
+ "foco_codigo": "",
+ "foco": "Não informado",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "Probabilidade",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Estudo+sobre+probabilidade+e+risco+no+ensino+fundamental+I%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estudo+sobre+probabilidade+e+risco+no+ensino+fundamental+I&type=AllFields",
+  "bdtd_registro": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estudo+sobre+probabilidade+e+risco+no+ensino+fundamental+I&type=AllFields"
+ },
+ "capes": {
+  "status": "baixa_confianca",
+  "score": 0.451,
+  "candidato": "undefined",
+  "consultado_em": "2026-10-17"
+ },
+ "autor_planilha": "TONOUTI, R. R.",
+ "bdtd_api": {
+  "status": "nao_encontrado",
+  "score": 0.55
+ },
+ "orientador_planilha": "Verônica Kataoka",
+ "instituicao_agente": "Universidade Bandeirante de São Paulo (UNIBAN)",
+ "programa_agente": "Programa de Pós-Graduação em Educação Matemática",
+ "enriquecimento_manual": {
+  "fonte": "Programação do XI ENEM/SBEM (2013); artigo da Em Teia (2016)",
+  "confianca": "media",
+  "observacao": "Nome completo confirmado na programação do XI ENEM. A dissertação localizada tem título e ano diferentes ('Avaliação de um programa de ensino para a aprendizagem de Probabilidade nos anos iniciais do Ensino Fundamental', 2013); por isso não foram alterados título, ano nem links."
+ },
+ "tags": [],
+ "thumbnail": "./assets/images/thumbs/tonouti-2011.svg"
 }

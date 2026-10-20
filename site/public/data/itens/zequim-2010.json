@@ -1,44 +1,45 @@
 {
-  "id": "zequim-2010",
-  "autor": "A. M. Zequim",
-  "ano": 2010,
-  "tipo": "Dissertação",
-  "titulo": "Impacto do uso do AVALE para o ensino de estatística na educação básica",
-  "instituicao": "Universidade Bandeirantes de São Paulo",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Verônica Kataoka",
-  "programa": "Educação Matemática",
-  "area": "Educação Matemática",
-  "nivel_codigo": "",
-  "nivel": "Não informado",
-  "foco_codigo": "",
-  "foco": "Não informado",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "Estatística",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Impacto+do+uso+do+AVALE+para+o+ensino+de+estat%C3%ADstica+na+educa%C3%A7%C3%A3o+b%C3%A1sica%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Impacto+do+uso+do+AVALE+para+o+ensino+de+estat%C3%ADstica+na+educa%C3%A7%C3%A3o+b%C3%A1sica&type=AllFields"
-  },
-  "capes": {
-    "status": "baixa_confianca",
-    "score": 0.66,
-    "candidato": "undefined",
-    "consultado_em": "2026-10-17"
-  },
-  "autor_planilha": "ZEQUIM, A. M.",
-  "bdtd_api": {
-    "status": "nao_encontrado",
-    "score": 0.438
-  },
-  "tags": [],
-  "thumbnail": "./assets/images/thumbs/zequim-2010.svg"
+ "id": "zequim-2010",
+ "autor": "A. M. Zequim",
+ "ano": 2010,
+ "tipo": "Dissertação",
+ "titulo": "Impacto do uso do AVALE para o ensino de estatística na educação básica",
+ "instituicao": "Universidade Bandeirantes de São Paulo",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Verônica Kataoka",
+ "programa": "Educação Matemática",
+ "area": "Educação Matemática",
+ "nivel_codigo": "",
+ "nivel": "Não informado",
+ "foco_codigo": "",
+ "foco": "Não informado",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "Estatística",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Impacto+do+uso+do+AVALE+para+o+ensino+de+estat%C3%ADstica+na+educa%C3%A7%C3%A3o+b%C3%A1sica%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Impacto+do+uso+do+AVALE+para+o+ensino+de+estat%C3%ADstica+na+educa%C3%A7%C3%A3o+b%C3%A1sica&type=AllFields",
+  "bdtd_registro": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Impacto+do+uso+do+AVALE+para+o+ensino+de+estat%C3%ADstica+na+educa%C3%A7%C3%A3o+b%C3%A1sica&type=AllFields"
+ },
+ "capes": {
+  "status": "baixa_confianca",
+  "score": 0.66,
+  "candidato": "undefined",
+  "consultado_em": "2026-10-17"
+ },
+ "autor_planilha": "ZEQUIM, A. M.",
+ "bdtd_api": {
+  "status": "nao_encontrado",
+  "score": 0.438
+ },
+ "tags": [],
+ "thumbnail": "./assets/images/thumbs/zequim-2010.svg"
 }

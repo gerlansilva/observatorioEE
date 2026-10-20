@@ -1,44 +1,45 @@
 {
-  "id": "santos-2003",
-  "autor": "F. A. Santos",
-  "ano": 2003,
-  "tipo": "Dissertação",
-  "titulo": "A utilização social da matemática por meio da linguagem estatística no ensino-aprendizagem no ensino fundamental",
-  "instituicao": "Universidade Santa Úrsula",
-  "cidade": "",
-  "estado": "Rio de Janeiro",
-  "regiao": "Sudeste",
-  "orientador": "Maria Lopes",
-  "programa": "Educação Matemática",
-  "area": "Educação Matemática",
-  "nivel_codigo": "",
-  "nivel": "Não informado",
-  "foco_codigo": "",
-  "foco": "Não informado",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "Estatística",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22A+utiliza%C3%A7%C3%A3o+social+da+matem%C3%A1tica+por+meio+da+linguagem+estat%C3%ADstica+no+ensino-aprendizagem+no+ensino+fundamental%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+utiliza%C3%A7%C3%A3o+social+da+matem%C3%A1tica+por+meio+da+linguagem+estat%C3%ADstica+no+ensino-aprendizagem+no+ensino+fundamental&type=AllFields"
-  },
-  "capes": {
-    "status": "baixa_confianca",
-    "score": 0.509,
-    "candidato": "undefined",
-    "consultado_em": "2026-10-17"
-  },
-  "autor_planilha": "SANTOS, F. A.",
-  "bdtd_api": {
-    "status": "nao_encontrado",
-    "score": 0.417
-  },
-  "tags": [],
-  "thumbnail": "./assets/images/thumbs/santos-2003.svg"
+ "id": "santos-2003",
+ "autor": "F. A. Santos",
+ "ano": 2003,
+ "tipo": "Dissertação",
+ "titulo": "A utilização social da matemática por meio da linguagem estatística no ensino-aprendizagem no ensino fundamental",
+ "instituicao": "Universidade Santa Úrsula",
+ "cidade": "",
+ "estado": "Rio de Janeiro",
+ "regiao": "Sudeste",
+ "orientador": "Maria Lopes",
+ "programa": "Educação Matemática",
+ "area": "Educação Matemática",
+ "nivel_codigo": "",
+ "nivel": "Não informado",
+ "foco_codigo": "",
+ "foco": "Não informado",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "Estatística",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22A+utiliza%C3%A7%C3%A3o+social+da+matem%C3%A1tica+por+meio+da+linguagem+estat%C3%ADstica+no+ensino-aprendizagem+no+ensino+fundamental%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+utiliza%C3%A7%C3%A3o+social+da+matem%C3%A1tica+por+meio+da+linguagem+estat%C3%ADstica+no+ensino-aprendizagem+no+ensino+fundamental&type=AllFields",
+  "bdtd_registro": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A+utiliza%C3%A7%C3%A3o+social+da+matem%C3%A1tica+por+meio+da+linguagem+estat%C3%ADstica+no+ensino-aprendizagem+no+ensino+fundamental&type=AllFields"
+ },
+ "capes": {
+  "status": "baixa_confianca",
+  "score": 0.509,
+  "candidato": "undefined",
+  "consultado_em": "2026-10-17"
+ },
+ "autor_planilha": "SANTOS, F. A.",
+ "bdtd_api": {
+  "status": "nao_encontrado",
+  "score": 0.417
+ },
+ "tags": [],
+ "thumbnail": "./assets/images/thumbs/santos-2003.svg"
 }

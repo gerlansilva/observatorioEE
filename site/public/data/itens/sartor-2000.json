@@ -1,54 +1,55 @@
 {
-  "id": "sartor-2000",
-  "autor": "Alessandra Hissa Ferrari Sartor",
-  "ano": 2000,
-  "tipo": "Dissertação",
-  "titulo": "Uma proposta para vencer a resistência à estatística",
-  "instituicao": "Universidade Presbiteriana Mackenzie",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Maria Lucia Marcondes Carvalho Vasconcelos",
-  "programa": "Educação",
-  "area": "Educação",
-  "nivel_codigo": "",
-  "nivel": "Não informado",
-  "foco_codigo": "",
-  "foco": "Não informado",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "Estatística",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Uma+proposta+para+vencer+a+resist%C3%AAncia+%C3%A0+estat%C3%ADstica%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma+proposta+para+vencer+a+resist%C3%AAncia+%C3%A0+estat%C3%ADstica&type=AllFields"
-  },
-  "capes": {
-    "status": "baixa_confianca",
-    "score": 0.462,
-    "candidato": "undefined",
-    "consultado_em": "2026-10-17"
-  },
-  "autor_planilha": "SARTOR, A. H. F.",
-  "orientador_planilha": "Maria Vasconcelos",
-  "instituicao_agente": "Universidade Presbiteriana Mackenzie",
-  "instituicao_planilha": "Universidade Presbiteriana Mackenzie",
-  "programa_agente": "Mestrado em Educação, Arte e História da Cultura",
-  "programa_planilha": "Educação",
-  "enriquecimento_manual": {
-    "fonte": "Currículo Lattes da autora (via Escavador)",
-    "confianca": "alta",
-    "observacao": "Lattes da autora: 'Mestrado em Educação, Arte e História da Cultura, 1998-2000, Universidade Presbiteriana Mackenzie. Título: Uma proposta para vencer a resistência à Estatística, Ano de Obtenção: 2000. Dra. Maria Lucia Marcondes Carvalho Vasconcelos'. Não foi localizado registro digitalizado no repositório do Mackenzie, na BDTD ou no Catálogo CAPES."
-  },
-  "bdtd_api": {
-    "status": "nao_encontrado",
-    "score": 0.391
-  },
-  "tags": [],
-  "thumbnail": "./assets/images/thumbs/sartor-2000.svg"
+ "id": "sartor-2000",
+ "autor": "Alessandra Hissa Ferrari Sartor",
+ "ano": 2000,
+ "tipo": "Dissertação",
+ "titulo": "Uma proposta para vencer a resistência à estatística",
+ "instituicao": "Universidade Presbiteriana Mackenzie",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Maria Lucia Marcondes Carvalho Vasconcelos",
+ "programa": "Educação",
+ "area": "Educação",
+ "nivel_codigo": "",
+ "nivel": "Não informado",
+ "foco_codigo": "",
+ "foco": "Não informado",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "Estatística",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Uma+proposta+para+vencer+a+resist%C3%AAncia+%C3%A0+estat%C3%ADstica%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma+proposta+para+vencer+a+resist%C3%AAncia+%C3%A0+estat%C3%ADstica&type=AllFields",
+  "bdtd_registro": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma+proposta+para+vencer+a+resist%C3%AAncia+%C3%A0+estat%C3%ADstica&type=AllFields"
+ },
+ "capes": {
+  "status": "baixa_confianca",
+  "score": 0.462,
+  "candidato": "undefined",
+  "consultado_em": "2026-10-17"
+ },
+ "autor_planilha": "SARTOR, A. H. F.",
+ "orientador_planilha": "Maria Vasconcelos",
+ "instituicao_agente": "Universidade Presbiteriana Mackenzie",
+ "instituicao_planilha": "Universidade Presbiteriana Mackenzie",
+ "programa_agente": "Mestrado em Educação, Arte e História da Cultura",
+ "programa_planilha": "Educação",
+ "enriquecimento_manual": {
+  "fonte": "Currículo Lattes da autora (via Escavador)",
+  "confianca": "alta",
+  "observacao": "Lattes da autora: 'Mestrado em Educação, Arte e História da Cultura, 1998-2000, Universidade Presbiteriana Mackenzie. Título: Uma proposta para vencer a resistência à Estatística, Ano de Obtenção: 2000. Dra. Maria Lucia Marcondes Carvalho Vasconcelos'. Não foi localizado registro digitalizado no repositório do Mackenzie, na BDTD ou no Catálogo CAPES."
+ },
+ "bdtd_api": {
+  "status": "nao_encontrado",
+  "score": 0.391
+ },
+ "tags": [],
+ "thumbnail": "./assets/images/thumbs/sartor-2000.svg"
 }

@@ -1,44 +1,45 @@
 {
-  "id": "gaiovicz-2007",
-  "autor": "M. J. Gaiovicz",
-  "ano": 2007,
-  "tipo": "Dissertação",
-  "titulo": "Laboratório de ensino de Matemática e estatística: uma proposta de construção",
-  "instituicao": "Faculdades Integradas de Palmas",
-  "cidade": "",
-  "estado": "Paraná",
-  "regiao": "Sul",
-  "orientador": "Anselmo Chaves Neto",
-  "programa": "Matemática",
-  "area": "Estatística e Matemática",
-  "nivel_codigo": "",
-  "nivel": "Não informado",
-  "foco_codigo": "",
-  "foco": "Não informado",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "Estatística",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Laborat%C3%B3rio+de+ensino+de+Matem%C3%A1tica+e+estat%C3%ADstica%3A+uma+proposta+de+constru%C3%A7%C3%A3o%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Laborat%C3%B3rio+de+ensino+de+Matem%C3%A1tica+e+estat%C3%ADstica%3A+uma+proposta+de+constru%C3%A7%C3%A3o&type=AllFields"
-  },
-  "capes": {
-    "status": "baixa_confianca",
-    "score": 0.443,
-    "candidato": "https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=11374342",
-    "consultado_em": "2026-10-17"
-  },
-  "autor_planilha": "GAIOVICZ, M. J.",
-  "bdtd_api": {
-    "status": "nao_encontrado",
-    "score": 0.41
-  },
-  "tags": [],
-  "thumbnail": "./assets/images/thumbs/gaiovicz-2007.svg"
+ "id": "gaiovicz-2007",
+ "autor": "M. J. Gaiovicz",
+ "ano": 2007,
+ "tipo": "Dissertação",
+ "titulo": "Laboratório de ensino de Matemática e estatística: uma proposta de construção",
+ "instituicao": "Faculdades Integradas de Palmas",
+ "cidade": "",
+ "estado": "Paraná",
+ "regiao": "Sul",
+ "orientador": "Anselmo Chaves Neto",
+ "programa": "Matemática",
+ "area": "Estatística e Matemática",
+ "nivel_codigo": "",
+ "nivel": "Não informado",
+ "foco_codigo": "",
+ "foco": "Não informado",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "Estatística",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Laborat%C3%B3rio+de+ensino+de+Matem%C3%A1tica+e+estat%C3%ADstica%3A+uma+proposta+de+constru%C3%A7%C3%A3o%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Laborat%C3%B3rio+de+ensino+de+Matem%C3%A1tica+e+estat%C3%ADstica%3A+uma+proposta+de+constru%C3%A7%C3%A3o&type=AllFields",
+  "bdtd_registro": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Laborat%C3%B3rio+de+ensino+de+Matem%C3%A1tica+e+estat%C3%ADstica%3A+uma+proposta+de+constru%C3%A7%C3%A3o&type=AllFields"
+ },
+ "capes": {
+  "status": "baixa_confianca",
+  "score": 0.443,
+  "candidato": "https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=11374342",
+  "consultado_em": "2026-10-17"
+ },
+ "autor_planilha": "GAIOVICZ, M. J.",
+ "bdtd_api": {
+  "status": "nao_encontrado",
+  "score": 0.41
+ },
+ "tags": [],
+ "thumbnail": "./assets/images/thumbs/gaiovicz-2007.svg"
 }

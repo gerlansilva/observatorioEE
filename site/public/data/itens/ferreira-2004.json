@@ -1,44 +1,45 @@
 {
-  "id": "ferreira-2004",
-  "autor": "J. Z. Ferreira",
-  "ano": 2004,
-  "tipo": "Dissertação",
-  "titulo": "Investigando uma metodologia de trabalho para a aprendizagem de estatística",
-  "instituicao": "Universidade do Estado de Santa Catarina",
-  "cidade": "",
-  "estado": "Santa Catarina",
-  "regiao": "Sul",
-  "orientador": "Silvana Rosa",
-  "programa": "Educação",
-  "area": "Educação",
-  "nivel_codigo": "",
-  "nivel": "Não informado",
-  "foco_codigo": "",
-  "foco": "Não informado",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "Estatística",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Investigando+uma+metodologia+de+trabalho+para+a+aprendizagem+de+estat%C3%ADstica%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Investigando+uma+metodologia+de+trabalho+para+a+aprendizagem+de+estat%C3%ADstica&type=AllFields"
-  },
-  "capes": {
-    "status": "baixa_confianca",
-    "score": 0.481,
-    "candidato": "https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=11372074",
-    "consultado_em": "2026-10-17"
-  },
-  "autor_planilha": "FERREIRA, J. Z.",
-  "bdtd_api": {
-    "status": "nao_encontrado",
-    "score": 0.646
-  },
-  "tags": [],
-  "thumbnail": "./assets/images/thumbs/ferreira-2004.svg"
+ "id": "ferreira-2004",
+ "autor": "J. Z. Ferreira",
+ "ano": 2004,
+ "tipo": "Dissertação",
+ "titulo": "Investigando uma metodologia de trabalho para a aprendizagem de estatística",
+ "instituicao": "Universidade do Estado de Santa Catarina",
+ "cidade": "",
+ "estado": "Santa Catarina",
+ "regiao": "Sul",
+ "orientador": "Silvana Rosa",
+ "programa": "Educação",
+ "area": "Educação",
+ "nivel_codigo": "",
+ "nivel": "Não informado",
+ "foco_codigo": "",
+ "foco": "Não informado",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "Estatística",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Investigando+uma+metodologia+de+trabalho+para+a+aprendizagem+de+estat%C3%ADstica%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Investigando+uma+metodologia+de+trabalho+para+a+aprendizagem+de+estat%C3%ADstica&type=AllFields",
+  "bdtd_registro": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Investigando+uma+metodologia+de+trabalho+para+a+aprendizagem+de+estat%C3%ADstica&type=AllFields"
+ },
+ "capes": {
+  "status": "baixa_confianca",
+  "score": 0.481,
+  "candidato": "https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=11372074",
+  "consultado_em": "2026-10-17"
+ },
+ "autor_planilha": "FERREIRA, J. Z.",
+ "bdtd_api": {
+  "status": "nao_encontrado",
+  "score": 0.646
+ },
+ "tags": [],
+ "thumbnail": "./assets/images/thumbs/ferreira-2004.svg"
 }

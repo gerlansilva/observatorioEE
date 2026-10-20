@@ -1,44 +1,45 @@
 {
-  "id": "silva-2001",
-  "autor": "E. A. Silva",
-  "ano": 2001,
-  "tipo": "Dissertação",
-  "titulo": "O ensino de estatística no curso de pedagogia usando o excel como instrumento facilitador da aprendizagem",
-  "instituicao": "Universidade Guarulhos",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Domingos Chorfi",
-  "programa": "Matemática",
-  "area": "Estatística e Matemática",
-  "nivel_codigo": "",
-  "nivel": "Não informado",
-  "foco_codigo": "3",
-  "foco": "TICs, materiais e recursos didáticos",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "Estatística",
-  "problema": "Este trabalho demonstra os aspectos que alteram formas de atuação nessa área do ensino, buscando construir novas alternativas que mostram o comprometimento com o novo significado do trabalho no contexto da globalização.",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "",
-  "referencial": "",
-  "revisado": true,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22O+ensino+de+estat%C3%ADstica+no+curso+de+pedagogia+usando+o+excel+como+instrumento+facilitador+da+aprendizagem%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+ensino+de+estat%C3%ADstica+no+curso+de+pedagogia+usando+o+excel+como+instrumento+facilitador+da+aprendizagem&type=AllFields"
-  },
-  "capes": {
-    "status": "baixa_confianca",
-    "score": 0.555,
-    "candidato": "undefined",
-    "consultado_em": "2026-10-17"
-  },
-  "autor_planilha": "SILVA, E. A.",
-  "bdtd_api": {
-    "status": "nao_encontrado",
-    "score": 0.512
-  },
-  "tags": [],
-  "thumbnail": "./assets/images/thumbs/silva-2001.svg"
+ "id": "silva-2001",
+ "autor": "E. A. Silva",
+ "ano": 2001,
+ "tipo": "Dissertação",
+ "titulo": "O ensino de estatística no curso de pedagogia usando o excel como instrumento facilitador da aprendizagem",
+ "instituicao": "Universidade Guarulhos",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Domingos Chorfi",
+ "programa": "Matemática",
+ "area": "Estatística e Matemática",
+ "nivel_codigo": "",
+ "nivel": "Não informado",
+ "foco_codigo": "3",
+ "foco": "TICs, materiais e recursos didáticos",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "Estatística",
+ "problema": "Este trabalho demonstra os aspectos que alteram formas de atuação nessa área do ensino, buscando construir novas alternativas que mostram o comprometimento com o novo significado do trabalho no contexto da globalização.",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "",
+ "referencial": "",
+ "revisado": true,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22O+ensino+de+estat%C3%ADstica+no+curso+de+pedagogia+usando+o+excel+como+instrumento+facilitador+da+aprendizagem%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+ensino+de+estat%C3%ADstica+no+curso+de+pedagogia+usando+o+excel+como+instrumento+facilitador+da+aprendizagem&type=AllFields",
+  "bdtd_registro": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+ensino+de+estat%C3%ADstica+no+curso+de+pedagogia+usando+o+excel+como+instrumento+facilitador+da+aprendizagem&type=AllFields"
+ },
+ "capes": {
+  "status": "baixa_confianca",
+  "score": 0.555,
+  "candidato": "undefined",
+  "consultado_em": "2026-10-17"
+ },
+ "autor_planilha": "SILVA, E. A.",
+ "bdtd_api": {
+  "status": "nao_encontrado",
+  "score": 0.512
+ },
+ "tags": [],
+ "thumbnail": "./assets/images/thumbs/silva-2001.svg"
 }

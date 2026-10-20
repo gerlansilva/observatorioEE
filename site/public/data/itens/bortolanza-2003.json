@@ -1,44 +1,45 @@
 {
-  "id": "bortolanza-2003",
-  "autor": "C. Bortolanza",
-  "ano": 2003,
-  "tipo": "Dissertação",
-  "titulo": "Tratamento da informação no ensino fundamental de matemática",
-  "instituicao": "Faculdades Integradas de Palmas",
-  "cidade": "",
-  "estado": "Paraná",
-  "regiao": "Sul",
-  "orientador": "Nelson Hein",
-  "programa": "Educação",
-  "area": "Educação",
-  "nivel_codigo": "",
-  "nivel": "Não informado",
-  "foco_codigo": "",
-  "foco": "Não informado",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "Estatística",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Tratamento+da+informa%C3%A7%C3%A3o+no+ensino+fundamental+de+matem%C3%A1tica%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Tratamento+da+informa%C3%A7%C3%A3o+no+ensino+fundamental+de+matem%C3%A1tica&type=AllFields"
-  },
-  "capes": {
-    "status": "baixa_confianca",
-    "score": 0.495,
-    "candidato": "undefined",
-    "consultado_em": "2026-10-17"
-  },
-  "autor_planilha": "BORTOLANZA, C.",
-  "bdtd_api": {
-    "status": "nao_encontrado",
-    "score": 0.566
-  },
-  "tags": [],
-  "thumbnail": "./assets/images/thumbs/bortolanza-2003.svg"
+ "id": "bortolanza-2003",
+ "autor": "C. Bortolanza",
+ "ano": 2003,
+ "tipo": "Dissertação",
+ "titulo": "Tratamento da informação no ensino fundamental de matemática",
+ "instituicao": "Faculdades Integradas de Palmas",
+ "cidade": "",
+ "estado": "Paraná",
+ "regiao": "Sul",
+ "orientador": "Nelson Hein",
+ "programa": "Educação",
+ "area": "Educação",
+ "nivel_codigo": "",
+ "nivel": "Não informado",
+ "foco_codigo": "",
+ "foco": "Não informado",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "Estatística",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Tratamento+da+informa%C3%A7%C3%A3o+no+ensino+fundamental+de+matem%C3%A1tica%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Tratamento+da+informa%C3%A7%C3%A3o+no+ensino+fundamental+de+matem%C3%A1tica&type=AllFields",
+  "bdtd_registro": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Tratamento+da+informa%C3%A7%C3%A3o+no+ensino+fundamental+de+matem%C3%A1tica&type=AllFields"
+ },
+ "capes": {
+  "status": "baixa_confianca",
+  "score": 0.495,
+  "candidato": "undefined",
+  "consultado_em": "2026-10-17"
+ },
+ "autor_planilha": "BORTOLANZA, C.",
+ "bdtd_api": {
+  "status": "nao_encontrado",
+  "score": 0.566
+ },
+ "tags": [],
+ "thumbnail": "./assets/images/thumbs/bortolanza-2003.svg"
 }

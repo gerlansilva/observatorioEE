@@ -1,60 +1,61 @@
 {
-  "id": "amancio-2012",
-  "autor": "Juliana Ramos Amâncio",
-  "ano": 2012,
-  "tipo": "Dissertação",
-  "titulo": "Planejamento e aplicação de uma sequência didática para o ensino de probabilidade no âmbito do PIBID",
-  "instituicao": "Universidade Federal do Rio de Janeiro",
-  "cidade": "Rio de Janeiro",
-  "estado": "Rio de Janeiro",
-  "regiao": "Sudeste",
-  "orientador": "Claudia Coelho de Segadas Vianna",
-  "programa": "Ensino de Matemática",
-  "area": "Ensino de Matemática",
-  "nivel_codigo": "4",
-  "nivel": "Ensino Médio",
-  "foco_codigo": "1",
-  "foco": "Processo de ensino e aprendizagem da Estocástica",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "Probabilidade",
-  "problema": "elaborar uma sequência didática em que fossem propostas situações que favorecessem a construção dos conceitos probabilísticos, em um nível introdutório, e que evitassem os equívocos conceituais sobre probabilidade descritos na literatura",
-  "metodologia": "Engenharia didática (ARTIGUE, 1992). O estudo foi realizado em duas vertentes, a primeira refere-se à análise da sequência didática que propõe inserir os conceitos da probabilidade identificados em um estudo teórico e os que julgamos adequados para serem trabalhados no Ensino Médio. Utilizamos a primeira vertente como pano de fundo para segunda que foi a identificação de conhecimentos adquiridos ou explorados pelos licenciandos que aplicaram a sequência didática no âmbito do PIBID. Para isso, utilizamos os estudos de Shulman (1986, 1987) referentes ao conhecimento de conteúdo, conhecimento pedagógico de conteúdo e conhecimento curricular",
-  "contribuicoes": "Acreditamos que a sequência didática proposta neste trabalho (acrescida das sugestões finais) possa ser um guia na construção do raciocínio probabilístico e na elaboração de planos de aula sobre o conteúdo de Probabilidade. Além disso, esperamos que ela possa servir também como exemplo de base para a criação de outras sequências didáticas destinadas à introdução de outro conteúdo, ou até mesmo desse conteúdo aprimorando a nossa proposta inicial.",
-  "palavras_chave": "Probabilidade, engenharia didática, PIBID, conhecimentos docentes",
-  "referencial": "Engenharia didática, Artigue; Shulman (conhecimento de conteúdo, conhecimento pedagógico de conteúdo e conhecimento curricular)",
-  "revisado": true,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Planejamento+e+aplica%C3%A7%C3%A3o+de+uma+sequ%C3%AAncia+did%C3%A1tica+para+o+ensino+de+probabilidade+no+%C3%A2mbito+do+PIBID%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Planejamento+e+aplica%C3%A7%C3%A3o+de+uma+sequ%C3%AAncia+did%C3%A1tica+para+o+ensino+de+probabilidade+no+%C3%A2mbito+do+PIBID&type=AllFields"
-  },
-  "bdtd": {
-    "status": "nao_encontrado",
-    "consultado_em": "2026-10-17"
-  },
-  "autor_planilha": "AMANCIO, J. R.",
-  "orientador_planilha": "Claudia Vianna",
-  "autor_capes": "JULIANA RAMOS AMÂNCIO",
-  "programa_capes": "Ensino de Matemática",
-  "instituicao_capes": "Universidade Federal do Rio de Janeiro",
-  "cidade_capes": "Rio de Janeiro",
-  "orientador_capes": "Claudia Coelho de Segadas Vianna",
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "id": "2012931001017122P6",
-    "url": "undefined",
-    "consultado_em": "2026-10-17"
-  },
-  "bdtd_api": {
-    "status": "nao_encontrado",
-    "score": 0.467
-  },
-  "tags": [
-    "Probabilidade",
-    "engenharia didática",
-    "PIBID",
-    "conhecimentos docentes"
-  ],
-  "thumbnail": "./assets/images/thumbs/amancio-2012.svg"
+ "id": "amancio-2012",
+ "autor": "Juliana Ramos Amâncio",
+ "ano": 2012,
+ "tipo": "Dissertação",
+ "titulo": "Planejamento e aplicação de uma sequência didática para o ensino de probabilidade no âmbito do PIBID",
+ "instituicao": "Universidade Federal do Rio de Janeiro",
+ "cidade": "Rio de Janeiro",
+ "estado": "Rio de Janeiro",
+ "regiao": "Sudeste",
+ "orientador": "Claudia Coelho de Segadas Vianna",
+ "programa": "Ensino de Matemática",
+ "area": "Ensino de Matemática",
+ "nivel_codigo": "4",
+ "nivel": "Ensino Médio",
+ "foco_codigo": "1",
+ "foco": "Processo de ensino e aprendizagem da Estocástica",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "Probabilidade",
+ "problema": "elaborar uma sequência didática em que fossem propostas situações que favorecessem a construção dos conceitos probabilísticos, em um nível introdutório, e que evitassem os equívocos conceituais sobre probabilidade descritos na literatura",
+ "metodologia": "Engenharia didática (ARTIGUE, 1992). O estudo foi realizado em duas vertentes, a primeira refere-se à análise da sequência didática que propõe inserir os conceitos da probabilidade identificados em um estudo teórico e os que julgamos adequados para serem trabalhados no Ensino Médio. Utilizamos a primeira vertente como pano de fundo para segunda que foi a identificação de conhecimentos adquiridos ou explorados pelos licenciandos que aplicaram a sequência didática no âmbito do PIBID. Para isso, utilizamos os estudos de Shulman (1986, 1987) referentes ao conhecimento de conteúdo, conhecimento pedagógico de conteúdo e conhecimento curricular",
+ "contribuicoes": "Acreditamos que a sequência didática proposta neste trabalho (acrescida das sugestões finais) possa ser um guia na construção do raciocínio probabilístico e na elaboração de planos de aula sobre o conteúdo de Probabilidade. Além disso, esperamos que ela possa servir também como exemplo de base para a criação de outras sequências didáticas destinadas à introdução de outro conteúdo, ou até mesmo desse conteúdo aprimorando a nossa proposta inicial.",
+ "palavras_chave": "Probabilidade, engenharia didática, PIBID, conhecimentos docentes",
+ "referencial": "Engenharia didática, Artigue; Shulman (conhecimento de conteúdo, conhecimento pedagógico de conteúdo e conhecimento curricular)",
+ "revisado": true,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Planejamento+e+aplica%C3%A7%C3%A3o+de+uma+sequ%C3%AAncia+did%C3%A1tica+para+o+ensino+de+probabilidade+no+%C3%A2mbito+do+PIBID%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Planejamento+e+aplica%C3%A7%C3%A3o+de+uma+sequ%C3%AAncia+did%C3%A1tica+para+o+ensino+de+probabilidade+no+%C3%A2mbito+do+PIBID&type=AllFields",
+  "bdtd_registro": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Planejamento+e+aplica%C3%A7%C3%A3o+de+uma+sequ%C3%AAncia+did%C3%A1tica+para+o+ensino+de+probabilidade+no+%C3%A2mbito+do+PIBID&type=AllFields"
+ },
+ "bdtd": {
+  "status": "nao_encontrado",
+  "consultado_em": "2026-10-17"
+ },
+ "autor_planilha": "AMANCIO, J. R.",
+ "orientador_planilha": "Claudia Vianna",
+ "autor_capes": "JULIANA RAMOS AMÂNCIO",
+ "programa_capes": "Ensino de Matemática",
+ "instituicao_capes": "Universidade Federal do Rio de Janeiro",
+ "cidade_capes": "Rio de Janeiro",
+ "orientador_capes": "Claudia Coelho de Segadas Vianna",
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "id": "2012931001017122P6",
+  "url": "undefined",
+  "consultado_em": "2026-10-17"
+ },
+ "bdtd_api": {
+  "status": "nao_encontrado",
+  "score": 0.467
+ },
+ "tags": [
+  "Probabilidade",
+  "engenharia didática",
+  "PIBID",
+  "conhecimentos docentes"
+ ],
+ "thumbnail": "./assets/images/thumbs/amancio-2012.svg"
 }

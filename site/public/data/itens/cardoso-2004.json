@@ -1,44 +1,45 @@
 {
-  "id": "cardoso-2004",
-  "autor": "J. C. Cardoso",
-  "ano": 2004,
-  "tipo": "Dissertação",
-  "titulo": "O uso da estatística na pré-escola e nas séries iniciais do ensino fundamental nas escolas do município de imbituba-SC",
-  "instituicao": "Universidade do Sul de Santa Catarina",
-  "cidade": "",
-  "estado": "Santa Catarina",
-  "regiao": "Sul",
-  "orientador": "Diva Flemming",
-  "programa": "Educação",
-  "area": "Educação",
-  "nivel_codigo": "",
-  "nivel": "Não informado",
-  "foco_codigo": "",
-  "foco": "Não informado",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "Estatística",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22O+uso+da+estat%C3%ADstica+na+pr%C3%A9-escola+e+nas+s%C3%A9ries+iniciais+do+ensino+fundamental+nas+escolas+do+munic%C3%ADpio+de+imbituba-SC%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+uso+da+estat%C3%ADstica+na+pr%C3%A9-escola+e+nas+s%C3%A9ries+iniciais+do+ensino+fundamental+nas+escolas+do+munic%C3%ADpio+de+imbituba-SC&type=AllFields"
-  },
-  "capes": {
-    "status": "baixa_confianca",
-    "score": 0.358,
-    "candidato": "https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=9592180",
-    "consultado_em": "2026-10-17"
-  },
-  "autor_planilha": "CARDOSO, J. C.",
-  "bdtd_api": {
-    "status": "nao_encontrado",
-    "score": 0.315
-  },
-  "tags": [],
-  "thumbnail": "./assets/images/thumbs/cardoso-2004.svg"
+ "id": "cardoso-2004",
+ "autor": "J. C. Cardoso",
+ "ano": 2004,
+ "tipo": "Dissertação",
+ "titulo": "O uso da estatística na pré-escola e nas séries iniciais do ensino fundamental nas escolas do município de imbituba-SC",
+ "instituicao": "Universidade do Sul de Santa Catarina",
+ "cidade": "",
+ "estado": "Santa Catarina",
+ "regiao": "Sul",
+ "orientador": "Diva Flemming",
+ "programa": "Educação",
+ "area": "Educação",
+ "nivel_codigo": "",
+ "nivel": "Não informado",
+ "foco_codigo": "",
+ "foco": "Não informado",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "Estatística",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22O+uso+da+estat%C3%ADstica+na+pr%C3%A9-escola+e+nas+s%C3%A9ries+iniciais+do+ensino+fundamental+nas+escolas+do+munic%C3%ADpio+de+imbituba-SC%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+uso+da+estat%C3%ADstica+na+pr%C3%A9-escola+e+nas+s%C3%A9ries+iniciais+do+ensino+fundamental+nas+escolas+do+munic%C3%ADpio+de+imbituba-SC&type=AllFields",
+  "bdtd_registro": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+uso+da+estat%C3%ADstica+na+pr%C3%A9-escola+e+nas+s%C3%A9ries+iniciais+do+ensino+fundamental+nas+escolas+do+munic%C3%ADpio+de+imbituba-SC&type=AllFields"
+ },
+ "capes": {
+  "status": "baixa_confianca",
+  "score": 0.358,
+  "candidato": "https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=9592180",
+  "consultado_em": "2026-10-17"
+ },
+ "autor_planilha": "CARDOSO, J. C.",
+ "bdtd_api": {
+  "status": "nao_encontrado",
+  "score": 0.315
+ },
+ "tags": [],
+ "thumbnail": "./assets/images/thumbs/cardoso-2004.svg"
 }

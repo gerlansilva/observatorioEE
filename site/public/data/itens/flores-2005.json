@@ -1,44 +1,45 @@
 {
-  "id": "flores-2005",
-  "autor": "A. A. N. Flores",
-  "ano": 2005,
-  "tipo": "Dissertação",
-  "titulo": "O ensino de probabilidade na 2ª série do ensino médio",
-  "instituicao": "Universidade do Oeste Paulista",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Adriano Ruiz",
-  "programa": "Educação",
-  "area": "Educação",
-  "nivel_codigo": "4",
-  "nivel": "Ensino Médio",
-  "foco_codigo": "1",
-  "foco": "Processo de ensino e aprendizagem da Estocástica",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "Probabilidade",
-  "problema": "avaliar as concepções prévias dos alunos sobre probabilidades antes de estes receberem o conteúdo formal e realizar uma intervenção pedagógica",
-  "metodologia": "propusemos a um grupo de alunos algumas questões que exigiam noções qualitativas de probabilidades. os resultados indicaram que a maioria deles tinha concepções bem ingênuas de probabilidades. A partir dessa análise, desenvolvemos uma breve intervenção pedagógica.",
-  "contribuicoes": "",
-  "palavras_chave": "",
-  "referencial": "",
-  "revisado": true,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22O+ensino+de+probabilidade+na+2%C2%AA+s%C3%A9rie+do+ensino+m%C3%A9dio%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+ensino+de+probabilidade+na+2%C2%AA+s%C3%A9rie+do+ensino+m%C3%A9dio&type=AllFields"
-  },
-  "capes": {
-    "status": "baixa_confianca",
-    "score": 0.563,
-    "candidato": "undefined",
-    "consultado_em": "2026-10-17"
-  },
-  "autor_planilha": "FLORES, A. A. N.",
-  "bdtd_api": {
-    "status": "nao_encontrado",
-    "score": 0.647
-  },
-  "tags": [],
-  "thumbnail": "./assets/images/thumbs/flores-2005.svg"
+ "id": "flores-2005",
+ "autor": "A. A. N. Flores",
+ "ano": 2005,
+ "tipo": "Dissertação",
+ "titulo": "O ensino de probabilidade na 2ª série do ensino médio",
+ "instituicao": "Universidade do Oeste Paulista",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Adriano Ruiz",
+ "programa": "Educação",
+ "area": "Educação",
+ "nivel_codigo": "4",
+ "nivel": "Ensino Médio",
+ "foco_codigo": "1",
+ "foco": "Processo de ensino e aprendizagem da Estocástica",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "Probabilidade",
+ "problema": "avaliar as concepções prévias dos alunos sobre probabilidades antes de estes receberem o conteúdo formal e realizar uma intervenção pedagógica",
+ "metodologia": "propusemos a um grupo de alunos algumas questões que exigiam noções qualitativas de probabilidades. os resultados indicaram que a maioria deles tinha concepções bem ingênuas de probabilidades. A partir dessa análise, desenvolvemos uma breve intervenção pedagógica.",
+ "contribuicoes": "",
+ "palavras_chave": "",
+ "referencial": "",
+ "revisado": true,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22O+ensino+de+probabilidade+na+2%C2%AA+s%C3%A9rie+do+ensino+m%C3%A9dio%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+ensino+de+probabilidade+na+2%C2%AA+s%C3%A9rie+do+ensino+m%C3%A9dio&type=AllFields",
+  "bdtd_registro": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O+ensino+de+probabilidade+na+2%C2%AA+s%C3%A9rie+do+ensino+m%C3%A9dio&type=AllFields"
+ },
+ "capes": {
+  "status": "baixa_confianca",
+  "score": 0.563,
+  "candidato": "undefined",
+  "consultado_em": "2026-10-17"
+ },
+ "autor_planilha": "FLORES, A. A. N.",
+ "bdtd_api": {
+  "status": "nao_encontrado",
+  "score": 0.647
+ },
+ "tags": [],
+ "thumbnail": "./assets/images/thumbs/flores-2005.svg"
 }

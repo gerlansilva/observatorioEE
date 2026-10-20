@@ -1,44 +1,45 @@
 {
-  "id": "rodrigues-2008",
-  "autor": "G. M. Rodrigues",
-  "ano": 2008,
-  "tipo": "Dissertação",
-  "titulo": "Uma proposta interdisciplinar para o ensino de estatística no curso de pedagogia",
-  "instituicao": "Universidade Federal de Pernambuco",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "",
-  "programa": "Educação Matemática e Tecnológica",
-  "area": "Educação Matemática",
-  "nivel_codigo": "",
-  "nivel": "Não informado",
-  "foco_codigo": "",
-  "foco": "Não informado",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "Estatística",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Uma+proposta+interdisciplinar+para+o+ensino+de+estat%C3%ADstica+no+curso+de+pedagogia%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma+proposta+interdisciplinar+para+o+ensino+de+estat%C3%ADstica+no+curso+de+pedagogia&type=AllFields"
-  },
-  "capes": {
-    "status": "baixa_confianca",
-    "score": 0.468,
-    "candidato": "undefined",
-    "consultado_em": "2026-10-17"
-  },
-  "autor_planilha": "RODRIGUES, G. M.",
-  "bdtd_api": {
-    "status": "nao_encontrado",
-    "score": 0.671
-  },
-  "tags": [],
-  "thumbnail": "./assets/images/thumbs/rodrigues-2008.svg"
+ "id": "rodrigues-2008",
+ "autor": "G. M. Rodrigues",
+ "ano": 2008,
+ "tipo": "Dissertação",
+ "titulo": "Uma proposta interdisciplinar para o ensino de estatística no curso de pedagogia",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "",
+ "programa": "Educação Matemática e Tecnológica",
+ "area": "Educação Matemática",
+ "nivel_codigo": "",
+ "nivel": "Não informado",
+ "foco_codigo": "",
+ "foco": "Não informado",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "Estatística",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Uma+proposta+interdisciplinar+para+o+ensino+de+estat%C3%ADstica+no+curso+de+pedagogia%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma+proposta+interdisciplinar+para+o+ensino+de+estat%C3%ADstica+no+curso+de+pedagogia&type=AllFields",
+  "bdtd_registro": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma+proposta+interdisciplinar+para+o+ensino+de+estat%C3%ADstica+no+curso+de+pedagogia&type=AllFields"
+ },
+ "capes": {
+  "status": "baixa_confianca",
+  "score": 0.468,
+  "candidato": "undefined",
+  "consultado_em": "2026-10-17"
+ },
+ "autor_planilha": "RODRIGUES, G. M.",
+ "bdtd_api": {
+  "status": "nao_encontrado",
+  "score": 0.671
+ },
+ "tags": [],
+ "thumbnail": "./assets/images/thumbs/rodrigues-2008.svg"
 }

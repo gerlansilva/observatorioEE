@@ -67,6 +67,7 @@ def main() -> None:
             links.get("texto_completo")
             or links.get("registro_institucional")
             or links.get("bdtd_registro")
+            or links.get("capes")
             or ""
         )
         resumo = clean(
