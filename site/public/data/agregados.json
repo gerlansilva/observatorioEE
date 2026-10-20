@@ -7,11 +7,7 @@
   "instituicoes": 135,
   "estados": 22,
   "regioes": 5,
-<<<<<<< HEAD
-  "atualizado_em": "2026-10-20T18:36:48+00:00",
-=======
-  "atualizado_em": "2026-10-20T18:41:49+00:00",
->>>>>>> f671360 (Homogeneíza títulos (retira caixa alta das fichas novas) e justifica títulos no acervo e nas fichas)
+  "atualizado_em": "2026-10-20T18:43:17+00:00",
   "por_ano": [
     {
       "ano": 1984,
