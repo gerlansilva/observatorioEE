@@ -833,7 +833,7 @@ function renderTable(items) {
             <th class="col-hide-mobile">Autor</th>
             <th class="col-year">Ano</th>
             <th class="col-hide-mobile">Instituição</th>
-            <th class="col-hide-mobile">Área</th>
+            <th class="col-hide-mobile">PPG</th>
             <th class="col-link col-hide-mobile">Acesso</th>
           </tr>
         </thead>
@@ -847,7 +847,7 @@ function renderTable(items) {
                   <td class="col-hide-mobile">${esc(item.autor)}</td>
                   <td class="col-year">${item.ano || '—'}</td>
                   <td class="col-hide-mobile">${esc(item.instituicao)}</td>
-                  <td class="col-hide-mobile">${esc(item.area)}</td>
+                  <td class="col-hide-mobile">${esc(item.programa)}</td>
                   <td class="col-link col-hide-mobile">
                     <a
                       class="record-link${item.link ? '' : ' record-link--search'}"
