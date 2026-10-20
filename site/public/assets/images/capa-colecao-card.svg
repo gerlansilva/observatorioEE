@@ -10,8 +10,8 @@
   <text x="44" y="264" fill="#FFFFFF" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="20" font-weight="500" letter-spacing="1">TRABALHOS</text>
   <line x1="40" y1="300" x2="560" y2="300" stroke="#D7E5E7" stroke-width="1" opacity="0.6"/>
   <text x="40" y="338" fill="#C9DADC" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="16">1984–2024</text>
-  <text x="560" y="338" text-anchor="end" fill="#D7E5E7" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="13">57 INSTITUIÇÕES</text>
+  <text x="560" y="338" text-anchor="end" fill="#D7E5E7" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="13">138 INSTITUIÇÕES</text>
   <text x="40" y="400" fill="#FFFFFF" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="22" font-weight="500">Teses e dissertações</text>
-  <text x="560" y="400" text-anchor="end" fill="#D7E5E7" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="13">1984 — 2013</text>
+  <text x="560" y="400" text-anchor="end" fill="#D7E5E7" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="13">1984 — 2024</text>
   <circle cx="548" cy="54" r="7" fill="#D96A3A"/>
 </svg>

@@ -1,62 +1,62 @@
 {
-  "id": "capes-35657652",
-  "autor": "Diogili Vicente da Silva",
-  "ano": 2021,
-  "tipo": "Dissertação",
-  "titulo": "PROBABILIDADE EM LIVROS DIDÁTICOS DOS ANOS FINAIS DO ENSINO FUNDAMENTAL: uma análise com os critérios de idoneidade epistêmica",
-  "instituicao": "Universidade Federal de Pernambuco",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Jose Ivanildo Felisberto de Carvalho",
-  "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "livro didático; significados de probabilidade; idoneidade epistêmica; ensino e aprendizagem de probabilidade.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22PROBABILIDADE%20EM%20LIVROS%20DID%C3%81TICOS%20DOS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20uma%20an%C3%A1lise%20com%20os%20crit%C3%A9rios%20de%20idoneidade%20epist%C3%AAmica%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PROBABILIDADE%20EM%20LIVROS%20DID%C3%81TICOS%20DOS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20uma%20an%C3%A1lise%20com%20os%20crit%C3%A9rios%20de%20idoneidade%20epist%C3%AAmica&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35657652"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "35657652",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "livro didático",
-    "significados de probabilidade",
-    "idoneidade epistêmica",
-    "ensino e aprendizagem de probabilidade."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-35657652.svg",
-  "resumo": "Um ponto relevante em nossa proposta de estudo se dá pelo fato de que o livro didático é uma das principais ferramentas de auxílio ao trabalho do professor e esse recurso reflete no ensino do conteúdo que está sendo trabalhado. Em nosso trabalho, abordaremos como os conceitos probabilísticos são discutidos nos livros didáticos voltados ao Ensino Fundamental anos finais. Neste estudo tivemos como objetivo analisar à luz dos indicadores de idoneidade epistêmica as abordagens do ensino da Probabilidade em coleções de livros didáticos nos anos finais do ensino fundamental. Como marco teórico assumimos a Teoria da Idoneidade Didática subjacente ao modelo teórico do Enfoque Ontossemiótico do Conhecimento e da Instrução Matemática – EOS. Metodologicamente, selecionamos três coleções de livros didáticos de Matemática do Ensino Fundamental anos finais (6º ano ao 9º ano), na qual mapeamos as atividades de Probabilidade trazidas pelos livros, e a partir disso a análise destas atividades se deu por meio dos indicadores de Idoneidade Epistêmica, tais como contextos e linguagens, considerando inclusive os diferentes significados deste conceito. Analisamos 160 atividades das referidas coleções. Com a produção e análise de dados, notamos que, de maneira geral, concernente aos significados, temos que as coleções analisadas apresentam em sua maioria o significado clássico em 86,25% do total das 160 atividades mapeadas e assim os demais significados são pouco explorados. Em relação ao contexto e a linguagem abordada nessas atividades, percebemos que a maioria das atividades abordam contextos de “jogos de sorte/ azar” não explorando situações do cotidiano, tais como: saúde, questões financeiras, tomadas de decisão articulado com dados estatísticos. Com relação a linguagem, podemos analisar que há uma grande utilização de uma linguagem verbal-simbólica nas atividades, na qual a utilização de uma linguagem gráfica e tabular é muito pouco utilizada. Portanto, chegamos a conclusão que as coleções analisadas não contemplam de forma satisfatória o trabalho com a probabilidade em relação ao diferentes significados deste conceito, sua linguagem e seus contextos.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de probabilidade"
-  ],
-  "ids_duplicados": [
-    "40042354"
-  ]
+ "id": "capes-35657652",
+ "autor": "Diogili Vicente da Silva",
+ "ano": 2021,
+ "tipo": "Dissertação",
+ "titulo": "PROBABILIDADE EM LIVROS DIDÁTICOS DOS ANOS FINAIS DO ENSINO FUNDAMENTAL: uma análise com os critérios de idoneidade epistêmica",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Jose Ivanildo Felisberto de Carvalho",
+ "programa": "Educação em Ciências e Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "livro didático; significados de probabilidade; idoneidade epistêmica; ensino e aprendizagem de probabilidade.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22PROBABILIDADE%20EM%20LIVROS%20DID%C3%81TICOS%20DOS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20uma%20an%C3%A1lise%20com%20os%20crit%C3%A9rios%20de%20idoneidade%20epist%C3%AAmica%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=PROBABILIDADE%20EM%20LIVROS%20DID%C3%81TICOS%20DOS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20uma%20an%C3%A1lise%20com%20os%20crit%C3%A9rios%20de%20idoneidade%20epist%C3%AAmica&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35657652"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "35657652",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "livro didático",
+  "significados de probabilidade",
+  "idoneidade epistêmica",
+  "ensino e aprendizagem de probabilidade."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-35657652.svg",
+ "resumo": "Um ponto relevante em nossa proposta de estudo se dá pelo fato de que o livro didático é uma das principais ferramentas de auxílio ao trabalho do professor e esse recurso reflete no ensino do conteúdo que está sendo trabalhado. Em nosso trabalho, abordaremos como os conceitos probabilísticos são discutidos nos livros didáticos voltados ao Ensino Fundamental anos finais. Neste estudo tivemos como objetivo analisar à luz dos indicadores de idoneidade epistêmica as abordagens do ensino da Probabilidade em coleções de livros didáticos nos anos finais do ensino fundamental. Como marco teórico assumimos a Teoria da Idoneidade Didática subjacente ao modelo teórico do Enfoque Ontossemiótico do Conhecimento e da Instrução Matemática – EOS. Metodologicamente, selecionamos três coleções de livros didáticos de Matemática do Ensino Fundamental anos finais (6º ano ao 9º ano), na qual mapeamos as atividades de Probabilidade trazidas pelos livros, e a partir disso a análise destas atividades se deu por meio dos indicadores de Idoneidade Epistêmica, tais como contextos e linguagens, considerando inclusive os diferentes significados deste conceito. Analisamos 160 atividades das referidas coleções. Com a produção e análise de dados, notamos que, de maneira geral, concernente aos significados, temos que as coleções analisadas apresentam em sua maioria o significado clássico em 86,25% do total das 160 atividades mapeadas e assim os demais significados são pouco explorados. Em relação ao contexto e a linguagem abordada nessas atividades, percebemos que a maioria das atividades abordam contextos de “jogos de sorte/ azar” não explorando situações do cotidiano, tais como: saúde, questões financeiras, tomadas de decisão articulado com dados estatísticos. Com relação a linguagem, podemos analisar que há uma grande utilização de uma linguagem verbal-simbólica nas atividades, na qual a utilização de uma linguagem gráfica e tabular é muito pouco utilizada. Portanto, chegamos a conclusão que as coleções analisadas não contemplam de forma satisfatória o trabalho com a probabilidade em relação ao diferentes significados deste conceito, sua linguagem e seus contextos.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de probabilidade"
+ ],
+ "ids_duplicados": [
+  "40042354"
+ ]
 }

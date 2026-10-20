@@ -1,61 +1,61 @@
 {
-  "id": "capes-34557399",
-  "autor": "Samia Mota da Silva",
-  "ano": 2021,
-  "tipo": "Dissertação",
-  "titulo": "O Ensino e Aprendizagem de Estatística nos Anos Iniciais do Ensino Fundamental: O Uso da Ferramenta Scratch na Formação do Pedagogo",
-  "instituicao": "Universidade Federal do Pará",
-  "cidade": "",
-  "estado": "Pará",
-  "regiao": "Norte",
-  "orientador": "Marcio Lima do Nascimento",
-  "programa": "CRIATIVIDADE E INOVAÇÃO EM METODOLOGIAS DE ENSINO SUPERIOR",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Ensino e aprendizagem de Estatística; Scratch; Formação do pedagogo",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ENSINO%20E%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20O%20USO%20DA%20FERRAMENTA%20SCRATCH%20NA%20FORMA%C3%87%C3%83O%20DO%20PEDAGOGO%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ENSINO%20E%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20O%20USO%20DA%20FERRAMENTA%20SCRATCH%20NA%20FORMA%C3%87%C3%83O%20DO%20PEDAGOGO&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34557399"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "34557399",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Ensino e aprendizagem de Estatística",
-    "Scratch",
-    "Formação do pedagogo"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-34557399.svg",
-  "resumo": "Os Parâmetros Curriculares Nacionais (PCN) publicados em 1997 e incorporados à Base Nacional Comum Curricular (BNCC) em 2017, preconizam que a Estatística deve ser ensinada durante toda a Educação Básica, desde os anos iniciais. Porém, estudos apontam que os professores dos anos iniciais não recebem a formação adequada uma vez que, quando prevista na grade curricular do curso, a Estatística é voltada, geralmente, para a administração escolar, ou seja, não apresenta conteúdos para o ensino da mesma. Nesse sentido, esta pesquisa partiu da seguinte questão-foco: Como o Scratch pode contribuir para a melhoria das práxis pedagógicas do Pedagogo para o ensino de Estatística nos anos iniciais do Ensino Fundamental? O objetivo principal desta pesquisa é desenvolver um produto educacional com orientações para construção de animações/jogos, utilizando a ferramenta computacional Scratch, que possam auxiliar os estudantes de Pedagogia no processo de ensino e aprendizagem de conteúdos de Estatística previstos na BNCC para os anos iniciais do Ensino Fundamental. O Produto desenvolvido é um material no formato PDF intitulado “Guia rápido de introdução ao Scratch para estudantes de Pedagogia”. A pesquisa apresenta abordagem qualitativa de natureza aplicada, o instrumento de pesquisa utilizado para coleta de dados foi o questionário. O produto foi testado por quinze discentes do curso de Pedagogia de instituições públicas e validado por um Painel de Especialistas composto por três professores: dois Pedagogos e um Estatístico. Os resultados apresentados revelam que o produto educacional atende ao objetivo proposto, tendo em vista que a validação do painel de especialistas e a testagem dos discentes de pedagogia foram consideradas satisfatórias, apontando que o produto será de grande contribuição ao público para o qual se destina.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de estatística"
-  ],
-  "ids_duplicados": [
-    "40191886"
-  ]
+ "id": "capes-34557399",
+ "autor": "Samia Mota da Silva",
+ "ano": 2021,
+ "tipo": "Dissertação",
+ "titulo": "O Ensino e Aprendizagem de Estatística nos Anos Iniciais do Ensino Fundamental: O Uso da Ferramenta Scratch na Formação do Pedagogo",
+ "instituicao": "Universidade Federal do Pará",
+ "cidade": "",
+ "estado": "Pará",
+ "regiao": "Norte",
+ "orientador": "Marcio Lima do Nascimento",
+ "programa": "Criatividade e Inovação em Metodologias de Ensino Superior",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Ensino e aprendizagem de Estatística; Scratch; Formação do pedagogo",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ENSINO%20E%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20O%20USO%20DA%20FERRAMENTA%20SCRATCH%20NA%20FORMA%C3%87%C3%83O%20DO%20PEDAGOGO%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ENSINO%20E%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20O%20USO%20DA%20FERRAMENTA%20SCRATCH%20NA%20FORMA%C3%87%C3%83O%20DO%20PEDAGOGO&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/34557399"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "34557399",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Ensino e aprendizagem de Estatística",
+  "Scratch",
+  "Formação do pedagogo"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-34557399.svg",
+ "resumo": "Os Parâmetros Curriculares Nacionais (PCN) publicados em 1997 e incorporados à Base Nacional Comum Curricular (BNCC) em 2017, preconizam que a Estatística deve ser ensinada durante toda a Educação Básica, desde os anos iniciais. Porém, estudos apontam que os professores dos anos iniciais não recebem a formação adequada uma vez que, quando prevista na grade curricular do curso, a Estatística é voltada, geralmente, para a administração escolar, ou seja, não apresenta conteúdos para o ensino da mesma. Nesse sentido, esta pesquisa partiu da seguinte questão-foco: Como o Scratch pode contribuir para a melhoria das práxis pedagógicas do Pedagogo para o ensino de Estatística nos anos iniciais do Ensino Fundamental? O objetivo principal desta pesquisa é desenvolver um produto educacional com orientações para construção de animações/jogos, utilizando a ferramenta computacional Scratch, que possam auxiliar os estudantes de Pedagogia no processo de ensino e aprendizagem de conteúdos de Estatística previstos na BNCC para os anos iniciais do Ensino Fundamental. O Produto desenvolvido é um material no formato PDF intitulado “Guia rápido de introdução ao Scratch para estudantes de Pedagogia”. A pesquisa apresenta abordagem qualitativa de natureza aplicada, o instrumento de pesquisa utilizado para coleta de dados foi o questionário. O produto foi testado por quinze discentes do curso de Pedagogia de instituições públicas e validado por um Painel de Especialistas composto por três professores: dois Pedagogos e um Estatístico. Os resultados apresentados revelam que o produto educacional atende ao objetivo proposto, tendo em vista que a validação do painel de especialistas e a testagem dos discentes de pedagogia foram consideradas satisfatórias, apontando que o produto será de grande contribuição ao público para o qual se destina.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de estatística"
+ ],
+ "ids_duplicados": [
+  "40191886"
+ ]
 }

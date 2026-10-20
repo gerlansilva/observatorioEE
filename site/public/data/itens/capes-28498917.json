@@ -1,59 +1,59 @@
 {
-  "id": "capes-28498917",
-  "autor": "Carlos Afonso Silveira Moraes",
-  "ano": 2017,
-  "tipo": "Dissertação",
-  "titulo": "REGISTROS DE REPRESENTAÇÃO SEMIÓTICA: CONTRIBUIÇÕES PARA O LETRAMENTO PROBABILÍSTICO NO 9o ANO DO ENSINO FUNDAMENTAL.",
-  "instituicao": "Universidade Federal de São Carlos",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Paulo Cesar Oliveira",
-  "programa": "ENSINO DE CIÊNCIAS EXATAS",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "ensino fundamental; registros letramento probabilistico; prática pedagógica.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22REGISTROS%20DE%20REPRESENTA%C3%87%C3%83O%20SEMI%C3%93TICA%3A%20CONTRIBUI%C3%87%C3%95ES%20PARA%20O%20LETRAMENTO%20PROBABIL%C3%8DSTICO%20NO%209o%20ANO%20DO%20ENSINO%20FUNDAMENTAL.%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=REGISTROS%20DE%20REPRESENTA%C3%87%C3%83O%20SEMI%C3%93TICA%3A%20CONTRIBUI%C3%87%C3%95ES%20PARA%20O%20LETRAMENTO%20PROBABIL%C3%8DSTICO%20NO%209o%20ANO%20DO%20ENSINO%20FUNDAMENTAL.&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28498917"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "28498917",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "ensino fundamental",
-    "registros letramento probabilistico",
-    "prática pedagógica."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-28498917.svg",
-  "resumo": "Esta pesquisa teve por objetivo descrever e analisar um cenário de ensino-aprendizagem do conceito de Probabilidade em duas classes do nono ano do Ensino Fundamental, em uma escola pública da rede municipal de ensino do município de Salto de Pirapora, interior do Estado de São Paulo. A aquisição da linguagem probabilística na aprendizagem de conceitos relativos à probabilidade foi um elemento motivador para o projeto de pesquisa. Os aportes teóricos dessa pesquisa envolveu os registros de representação semiótica por Raymond Duval e o letramento probabilístico na perspectiva de Iddo Gal. A questão orientadora da investigação foi: “Como os registros de representação semiótica são mobilizados e coordenados em tarefas envolvendo o contexto probabilístico?” Foi elaborado um trabalho de campo com atividades envolvendo a probabilidade clássica e frequentista, processos de contagem e estatística e uma sequência didática que utiliza experimentos aleatórios, espaço amostral, probabilidade de eventos simples, eventos compostos, gráficos de barra, frequência relativa, tabela de distribuição de frequência e o diagrama da árvore. Na condição de professor-pesquisador, a produção de informações foi oriunda de atividades desenvolvidas pelos alunos na forma de protocolos escritos, além de registros em áudio de diálogos ocorridos na correção das atividades e registros elaborados no diário de bordo. Os resultados da análise do material empírico da pesquisa revelaram nessa pesquisa de que os alunos utilizaram diferentes registros de representação semiótica na resolução das tarefas. A mobilização e coordenação desses registros favoreceram o desenvolvimento do letramento probabilístico dos alunos. Como este trabalho foi oriundo da análise de uma prática pedagógica, espera-se que haja contribuições para a prática docente em conteúdos envolvendo combinatória, estatística e probabilidade para o Ensino Fundamental.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "letramento probabilístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-28498917",
+ "autor": "Carlos Afonso Silveira Moraes",
+ "ano": 2017,
+ "tipo": "Dissertação",
+ "titulo": "REGISTROS DE REPRESENTAÇÃO SEMIÓTICA: CONTRIBUIÇÕES PARA O LETRAMENTO PROBABILÍSTICO NO 9o ANO DO ENSINO FUNDAMENTAL.",
+ "instituicao": "Universidade Federal de São Carlos",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Paulo Cesar Oliveira",
+ "programa": "Ensino de Ciências Exatas",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "ensino fundamental; registros letramento probabilistico; prática pedagógica.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22REGISTROS%20DE%20REPRESENTA%C3%87%C3%83O%20SEMI%C3%93TICA%3A%20CONTRIBUI%C3%87%C3%95ES%20PARA%20O%20LETRAMENTO%20PROBABIL%C3%8DSTICO%20NO%209o%20ANO%20DO%20ENSINO%20FUNDAMENTAL.%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=REGISTROS%20DE%20REPRESENTA%C3%87%C3%83O%20SEMI%C3%93TICA%3A%20CONTRIBUI%C3%87%C3%95ES%20PARA%20O%20LETRAMENTO%20PROBABIL%C3%8DSTICO%20NO%209o%20ANO%20DO%20ENSINO%20FUNDAMENTAL.&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28498917"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "28498917",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "ensino fundamental",
+  "registros letramento probabilistico",
+  "prática pedagógica."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-28498917.svg",
+ "resumo": "Esta pesquisa teve por objetivo descrever e analisar um cenário de ensino-aprendizagem do conceito de Probabilidade em duas classes do nono ano do Ensino Fundamental, em uma escola pública da rede municipal de ensino do município de Salto de Pirapora, interior do Estado de São Paulo. A aquisição da linguagem probabilística na aprendizagem de conceitos relativos à probabilidade foi um elemento motivador para o projeto de pesquisa. Os aportes teóricos dessa pesquisa envolveu os registros de representação semiótica por Raymond Duval e o letramento probabilístico na perspectiva de Iddo Gal. A questão orientadora da investigação foi: “Como os registros de representação semiótica são mobilizados e coordenados em tarefas envolvendo o contexto probabilístico?” Foi elaborado um trabalho de campo com atividades envolvendo a probabilidade clássica e frequentista, processos de contagem e estatística e uma sequência didática que utiliza experimentos aleatórios, espaço amostral, probabilidade de eventos simples, eventos compostos, gráficos de barra, frequência relativa, tabela de distribuição de frequência e o diagrama da árvore. Na condição de professor-pesquisador, a produção de informações foi oriunda de atividades desenvolvidas pelos alunos na forma de protocolos escritos, além de registros em áudio de diálogos ocorridos na correção das atividades e registros elaborados no diário de bordo. Os resultados da análise do material empírico da pesquisa revelaram nessa pesquisa de que os alunos utilizaram diferentes registros de representação semiótica na resolução das tarefas. A mobilização e coordenação desses registros favoreceram o desenvolvimento do letramento probabilístico dos alunos. Como este trabalho foi oriundo da análise de uma prática pedagógica, espera-se que haja contribuições para a prática docente em conteúdos envolvendo combinatória, estatística e probabilidade para o Ensino Fundamental.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "letramento probabilístico"
+ ],
+ "ids_duplicados": []
 }

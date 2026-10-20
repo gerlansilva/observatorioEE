@@ -1,59 +1,59 @@
 {
-  "id": "capes-38528977",
-  "autor": "Marcio Antoniassi",
-  "ano": 2023,
-  "tipo": "Dissertação",
-  "titulo": "O letramento estatístico na educação superior: uma investigação no programa de iniciação científica e tecnológica a distância",
-  "instituicao": "Centro Universitário Anhanguera de São Paulo",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Fatima Aparecida da Silva Dias",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Letramento Estatístico; Educação Superior; Educação a Distância",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20letramento%20estat%C3%ADstico%20na%20educa%C3%A7%C3%A3o%20superior%3A%20uma%20investiga%C3%A7%C3%A3o%20no%20programa%20de%20inicia%C3%A7%C3%A3o%20cient%C3%ADfica%20e%20tecnol%C3%B3gica%20a%20dist%C3%A2ncia%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20letramento%20estat%C3%ADstico%20na%20educa%C3%A7%C3%A3o%20superior%3A%20uma%20investiga%C3%A7%C3%A3o%20no%20programa%20de%20inicia%C3%A7%C3%A3o%20cient%C3%ADfica%20e%20tecnol%C3%B3gica%20a%20dist%C3%A2ncia&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38528977"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "38528977",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Letramento Estatístico",
-    "Educação Superior",
-    "Educação a Distância"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-38528977.svg",
-  "resumo": "A crescente geração de dados e a demanda por novos negócios, responsáveis por intervenções positivas nas áreas sociais, tal como economia, educação e saúde, exigem a compreensão de mensagens baseadas em informações estatísticas e, em outras situações, a tomada de decisão fundamentada em dados estatísticos. Assim, é necessário possuir a competência do letramento estatístico para uma cidadania crítica e participativa. A era da informação propiciou novas formas de ensino e aprendizagem, favorecendo a formação pessoal e profissional por meio de Tecnologias Digitais da Informação e Comunicação. Dentre as muitas possibilidades, a Educação Superior na modalidade de ensino a distância apresenta crescimento contínuo, com metodologias inovadoras para o desenvolvimento humano. O Programa de Iniciação Científica e Tecnológica da Cogna Educacional oferece a seus alunos de graduação uma formação inicial ao método científico, preparando-os para a continuidade de seus estudos e pesquisa em nível de pós-graduação. Com o objetivo de compreender o letramento estatístico dos alunos de graduação na modalidade de ensino a distância, foi realizada uma revisão de literatura com artigos publicados em inglês e disponíveis no banco de dados ERIC. Essa busca inicial complementou o referencial teórico e modelo de letramento estatístico proposto por Gal. Os dados analisados foram coletados por meio da atividade chamada Vivenciando a Coleta de Dados. Nessa atividade, os participantes responderam a um questionário contendo nove questões de múltipla escolha, similares às aplicadas no Exame Nacional do Ensino Médio, que apresentavam conceitos relacionados à estatística. Houve três diferentes grupos de participantes da pesquisa: o primeiro grupo formado por 39 monitores, o segundo grupo com 124 futuros pesquisadores e um terceiro grupo com 257 convidados. Duas abordagens foram feitas para analisar os dados. De forma quantitativa, utilizou-se a análise descritiva em cada grupo separadamente, e posteriormente, foi efetuado um comparativo entre os três grupos. Os resultados foram apresentados por meio de gráficos e tabelas, adicionais ao texto discursivo. A análise interpretativa foi escolhida para olhar as questões aplicadas na coleta de dados. Essas questões foram agrupadas pelos elementos de conhecimento, relacionados ao letramento estatístico. Além do conhecimento de alguns conceitos em estatística, as questões demandavam conhecimentos básicos em Matemática e principalmente habilidades de letramento em leitura. Há indícios de que os participantes do Programa de Iniciação Científica e Tecnológica destacaram-se em comparação aos demais participantes. Esse resultado pode ter relação com crenças e atitudes dos participantes, o que nos leva a sugerir investigações futuras. A competência do letramento estatístico é importante e necessária em nossa sociedade e pode ser essencial entre os participantes de um programa de iniciação científica e tecnológica em sua trajetória de desenvolvimento profissional como um pesquisador e produtor de conhecimento.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "letramento estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-38528977",
+ "autor": "Marcio Antoniassi",
+ "ano": 2023,
+ "tipo": "Dissertação",
+ "titulo": "O letramento estatístico na educação superior: uma investigação no programa de iniciação científica e tecnológica a distância",
+ "instituicao": "Centro Universitário Anhanguera de São Paulo",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Fatima Aparecida da Silva Dias",
+ "programa": "Educação Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Letramento Estatístico; Educação Superior; Educação a Distância",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20letramento%20estat%C3%ADstico%20na%20educa%C3%A7%C3%A3o%20superior%3A%20uma%20investiga%C3%A7%C3%A3o%20no%20programa%20de%20inicia%C3%A7%C3%A3o%20cient%C3%ADfica%20e%20tecnol%C3%B3gica%20a%20dist%C3%A2ncia%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20letramento%20estat%C3%ADstico%20na%20educa%C3%A7%C3%A3o%20superior%3A%20uma%20investiga%C3%A7%C3%A3o%20no%20programa%20de%20inicia%C3%A7%C3%A3o%20cient%C3%ADfica%20e%20tecnol%C3%B3gica%20a%20dist%C3%A2ncia&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38528977"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "38528977",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Letramento Estatístico",
+  "Educação Superior",
+  "Educação a Distância"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-38528977.svg",
+ "resumo": "A crescente geração de dados e a demanda por novos negócios, responsáveis por intervenções positivas nas áreas sociais, tal como economia, educação e saúde, exigem a compreensão de mensagens baseadas em informações estatísticas e, em outras situações, a tomada de decisão fundamentada em dados estatísticos. Assim, é necessário possuir a competência do letramento estatístico para uma cidadania crítica e participativa. A era da informação propiciou novas formas de ensino e aprendizagem, favorecendo a formação pessoal e profissional por meio de Tecnologias Digitais da Informação e Comunicação. Dentre as muitas possibilidades, a Educação Superior na modalidade de ensino a distância apresenta crescimento contínuo, com metodologias inovadoras para o desenvolvimento humano. O Programa de Iniciação Científica e Tecnológica da Cogna Educacional oferece a seus alunos de graduação uma formação inicial ao método científico, preparando-os para a continuidade de seus estudos e pesquisa em nível de pós-graduação. Com o objetivo de compreender o letramento estatístico dos alunos de graduação na modalidade de ensino a distância, foi realizada uma revisão de literatura com artigos publicados em inglês e disponíveis no banco de dados ERIC. Essa busca inicial complementou o referencial teórico e modelo de letramento estatístico proposto por Gal. Os dados analisados foram coletados por meio da atividade chamada Vivenciando a Coleta de Dados. Nessa atividade, os participantes responderam a um questionário contendo nove questões de múltipla escolha, similares às aplicadas no Exame Nacional do Ensino Médio, que apresentavam conceitos relacionados à estatística. Houve três diferentes grupos de participantes da pesquisa: o primeiro grupo formado por 39 monitores, o segundo grupo com 124 futuros pesquisadores e um terceiro grupo com 257 convidados. Duas abordagens foram feitas para analisar os dados. De forma quantitativa, utilizou-se a análise descritiva em cada grupo separadamente, e posteriormente, foi efetuado um comparativo entre os três grupos. Os resultados foram apresentados por meio de gráficos e tabelas, adicionais ao texto discursivo. A análise interpretativa foi escolhida para olhar as questões aplicadas na coleta de dados. Essas questões foram agrupadas pelos elementos de conhecimento, relacionados ao letramento estatístico. Além do conhecimento de alguns conceitos em estatística, as questões demandavam conhecimentos básicos em Matemática e principalmente habilidades de letramento em leitura. Há indícios de que os participantes do Programa de Iniciação Científica e Tecnológica destacaram-se em comparação aos demais participantes. Esse resultado pode ter relação com crenças e atitudes dos participantes, o que nos leva a sugerir investigações futuras. A competência do letramento estatístico é importante e necessária em nossa sociedade e pode ser essencial entre os participantes de um programa de iniciação científica e tecnológica em sua trajetória de desenvolvimento profissional como um pesquisador e produtor de conhecimento.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "letramento estatístico"
+ ],
+ "ids_duplicados": []
 }

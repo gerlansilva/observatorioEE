@@ -1,59 +1,59 @@
 {
-  "id": "capes-29268059",
-  "autor": "Franco Deyvis Lima de Sena",
-  "ano": 2017,
-  "tipo": "Dissertação",
-  "titulo": "Educação financeira e estatística: estudo de estruturas de letramento e pensamento",
-  "instituicao": "Pontifícia Universidade Católica de São Paulo",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Cileda de Queiroz e Silva Coutinho",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação matemática; Educação financeira; Estatística",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Educa%C3%A7%C3%A3o%20financeira%20e%20estat%C3%ADstica%3A%20estudo%20de%20estruturas%20de%20letramento%20e%20pensamento%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educa%C3%A7%C3%A3o%20financeira%20e%20estat%C3%ADstica%3A%20estudo%20de%20estruturas%20de%20letramento%20e%20pensamento&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29268059"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "29268059",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação matemática",
-    "Educação financeira",
-    "Estatística"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-29268059.svg",
-  "resumo": "Com base em experiências pessoais, ou das quais tivemos conhecimento via leitura de trabalhos acadêmicas, iniciamos esta pesquisa após perceber possíveis semelhanças entre Letramento Financeiro e estruturas do Pensamento Estatístico e Letramento Estatístico. Estabelecemos então a seguinte questão: Que elementos do Pensamento e Letramento Estatístico podem ser identificados na mobilização de conhecimentos relacionados ao Letramento Financeiro? Com intuito de respondê-la, apresentamos como objetivos: investigar definições e principais parâmetros adotados ao trabalhar a educação e letramento financeiro no Brasil; investigar possíveis relações do letramento financeiro com elementos do pensamento e letramento estatístico; e identificar elementos estruturais do pensamento e letramento estatístico presentes na mobilização de conhecimentos relativos ao letramento financeiro. Para isso, anunciamos no capítulo 1, além da problemática e objetivos da pesquisa, pressupostos de uma Engenharia Didática como método escolhido para subsidiar a busca por respostas satisfatórias às indagações que norteiam nosso trabalho. No capítulo 2 apresentamos como está situada e o que adotamos como educação financeira, sua relevância e implementação no cenário brasileiro, por intermédio dos documentos oficiais apresentados. Ainda neste capítulo, delineamos o que adotamos por Letramento e Letramento Financeiro. Em seguida, no capítulo 3, exibimos nossa revisão de literatura, com intuito de situar como alguns elementos de nosso trabalho foram abordados em diferentes pesquisas acadêmicas, assim como salientar aspectos de ineditismo. No capítulo 4 buscamos fundamentação almejando compreender e descrever definições acerca das estruturas do Pensamento Estatístico e Letramento Estatístico, para dessa forma analisar possíveis semelhanças com elementos presentes/necessários ao Letramento Financeiro. No capítulo 5, descrevemos nossa análise a priori, que aborda uma proposta de sequência didática, visando prover informações e validar as conjecturas levantadas, exibindo como ocorreu o experimento, assim como nossa análise a posteriori. Por fim, no capítulo 6, expomos nossas considerações finais acerca da pesquisa e dos resultados obtidos em seu decorrer",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-29268059",
+ "autor": "Franco Deyvis Lima de Sena",
+ "ano": 2017,
+ "tipo": "Dissertação",
+ "titulo": "Educação financeira e estatística: estudo de estruturas de letramento e pensamento",
+ "instituicao": "Pontifícia Universidade Católica de São Paulo",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Cileda de Queiroz e Silva Coutinho",
+ "programa": "Educação Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação matemática; Educação financeira; Estatística",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Educa%C3%A7%C3%A3o%20financeira%20e%20estat%C3%ADstica%3A%20estudo%20de%20estruturas%20de%20letramento%20e%20pensamento%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educa%C3%A7%C3%A3o%20financeira%20e%20estat%C3%ADstica%3A%20estudo%20de%20estruturas%20de%20letramento%20e%20pensamento&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29268059"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "29268059",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação matemática",
+  "Educação financeira",
+  "Estatística"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-29268059.svg",
+ "resumo": "Com base em experiências pessoais, ou das quais tivemos conhecimento via leitura de trabalhos acadêmicas, iniciamos esta pesquisa após perceber possíveis semelhanças entre Letramento Financeiro e estruturas do Pensamento Estatístico e Letramento Estatístico. Estabelecemos então a seguinte questão: Que elementos do Pensamento e Letramento Estatístico podem ser identificados na mobilização de conhecimentos relacionados ao Letramento Financeiro? Com intuito de respondê-la, apresentamos como objetivos: investigar definições e principais parâmetros adotados ao trabalhar a educação e letramento financeiro no Brasil; investigar possíveis relações do letramento financeiro com elementos do pensamento e letramento estatístico; e identificar elementos estruturais do pensamento e letramento estatístico presentes na mobilização de conhecimentos relativos ao letramento financeiro. Para isso, anunciamos no capítulo 1, além da problemática e objetivos da pesquisa, pressupostos de uma Engenharia Didática como método escolhido para subsidiar a busca por respostas satisfatórias às indagações que norteiam nosso trabalho. No capítulo 2 apresentamos como está situada e o que adotamos como educação financeira, sua relevância e implementação no cenário brasileiro, por intermédio dos documentos oficiais apresentados. Ainda neste capítulo, delineamos o que adotamos por Letramento e Letramento Financeiro. Em seguida, no capítulo 3, exibimos nossa revisão de literatura, com intuito de situar como alguns elementos de nosso trabalho foram abordados em diferentes pesquisas acadêmicas, assim como salientar aspectos de ineditismo. No capítulo 4 buscamos fundamentação almejando compreender e descrever definições acerca das estruturas do Pensamento Estatístico e Letramento Estatístico, para dessa forma analisar possíveis semelhanças com elementos presentes/necessários ao Letramento Financeiro. No capítulo 5, descrevemos nossa análise a priori, que aborda uma proposta de sequência didática, visando prover informações e validar as conjecturas levantadas, exibindo como ocorreu o experimento, assim como nossa análise a posteriori. Por fim, no capítulo 6, expomos nossas considerações finais acerca da pesquisa e dos resultados obtidos em seu decorrer",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": []
 }

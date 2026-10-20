@@ -1,64 +1,64 @@
 {
-  "id": "capes-37035279",
-  "autor": "Waleska Stefany Moura Diniz",
-  "ano": 2022,
-  "tipo": "Dissertação",
-  "titulo": "Interpretação de Infográficos Estatísticos por Estudantes dos Anos Iniciais do Ensino Fundamental",
-  "instituicao": "Universidade Federal de Pernambuco",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Gilda Lisboa Guimaraes",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Estatística; Letramento Estatístico; Infográficos; Ensino Fundamental; Anos Iniciais.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22INTERPRETA%C3%87%C3%83O%20DE%20INFOGR%C3%81FICOS%20ESTAT%C3%8DSTICOS%20POR%20ESTUDANTES%20DOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=INTERPRETA%C3%87%C3%83O%20DE%20INFOGR%C3%81FICOS%20ESTAT%C3%8DSTICOS%20POR%20ESTUDANTES%20DOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37035279"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "37035279",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Estatística",
-    "Letramento Estatístico",
-    "Infográficos",
-    "Ensino Fundamental",
-    "Anos Iniciais."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-37035279.svg",
-  "resumo": "Atualmente observamos o uso de infográficos nos mais variados meios de informação. Entretanto, estudos que abordem se e como crianças compreendem essas representações são bem escassos. Assim, este estudo tem como objetivo investigar como estudantes de 3º e 5º anos do Ensino Fundamental interpretam infográficos estatísticos, buscando, especificamente, investigar a forma como os alunos fazem a leitura dos infográficos estatísticos, observando a ordem e os elementos que se destacam; verificar se o ano escolar tem influência sobre a interpretação dos infográficos; identificar os elementos facilitadores e dificultadores da interpretação dos dados nos infográficos e discutir os elementos cognitivos e disposicionais mobilizados pelos estudantes ao interpretar infográficos estatísticos, na perspectiva do Letramento Estatístico. Para o desenvolvimento da pesquisa, foram realizadas entrevistas semiestruturadas com aproximação do método clínico-piagetiano com 20 estudantes de 3º e 5º anos de cidades da Região Metropolitana de Recife. As entrevistas envolveram questões de interpretação de dois infográficos estatísticos retirados de revistas destinadas ao público infantojuvenil. Os resultados apontaram que alguns alunos, principalmente do 3º ano, realizaram uma leitura não linear, a partir dos elementos que os chamavam atenção, enquanto vários alunos do 5º ano realizaram uma leitura linear, como em texto convencional. Porém, independentemente do ano escolar, a ordem de leitura não interferiu na interpretação dos infográficos. Estudantes de ambos os anos, em sua maioria, mostraram ser capazes de ler e compreender os dados apresentados em texto e em diferentes tipos de gráficos, bem como reconhecer porcentagens e compreender grandes quantidades e números decimais. Além disso, avaliaram de forma crítica e elaboraram suas próprias conclusões sobre os dados, tomando decisões para resolver a situação do desperdício de comida e da produção do lixo e do seu descarte incorreto. Porém, os estudantes do 5º ano interpretaram mais e demonstraram mais autonomia durante as análises dos dados. Para compreender as mensagens estatísticas dos infográficos, os estudantes mobilizaram elementos cognitivos, como as habilidades de letramento e os conhecimentos estatísticos, matemáticos e de contexto/mundo. Para avaliar criticamente as informações, concluir sobre os dados e tomar decisões, demonstraram mobilizar além de elementos cognitivos como o conhecimento de mundo e as habilidades críticas, também demonstraram elementos disposicionais como postura crítica e suas crenças e atitudes. Alguns conhecimentos matemáticos foram elementos dificultadores da compreensão, como as ordens de grandeza de milhões e bilhões, unidades de medida da grandeza área em hectares e massa em toneladas e os números decimais. Entretanto, apesar de dificultarem a compreensão não impossibilitaram a mesma. Dessa forma, defendemos que eles sejam trabalhados nas salas de aulas dos anos iniciais como forma de desenvolver aprendizagens em relação aos conceitos de diferentes áreas de conhecimento de forma interdisciplinar. Consideramos fundamental que os estudantes sejam letrados estatisticamente, para que possam compreender e refletir criticamente a respeito das informações veiculadas através de infográficos.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "letramento estatístico"
-  ],
-  "ids_duplicados": [
-    "39997195"
-  ]
+ "id": "capes-37035279",
+ "autor": "Waleska Stefany Moura Diniz",
+ "ano": 2022,
+ "tipo": "Dissertação",
+ "titulo": "Interpretação de Infográficos Estatísticos por Estudantes dos Anos Iniciais do Ensino Fundamental",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Gilda Lisboa Guimaraes",
+ "programa": "Educação Matemática e Tecnológica",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Estatística; Letramento Estatístico; Infográficos; Ensino Fundamental; Anos Iniciais.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22INTERPRETA%C3%87%C3%83O%20DE%20INFOGR%C3%81FICOS%20ESTAT%C3%8DSTICOS%20POR%20ESTUDANTES%20DOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=INTERPRETA%C3%87%C3%83O%20DE%20INFOGR%C3%81FICOS%20ESTAT%C3%8DSTICOS%20POR%20ESTUDANTES%20DOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37035279"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "37035279",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Estatística",
+  "Letramento Estatístico",
+  "Infográficos",
+  "Ensino Fundamental",
+  "Anos Iniciais."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-37035279.svg",
+ "resumo": "Atualmente observamos o uso de infográficos nos mais variados meios de informação. Entretanto, estudos que abordem se e como crianças compreendem essas representações são bem escassos. Assim, este estudo tem como objetivo investigar como estudantes de 3º e 5º anos do Ensino Fundamental interpretam infográficos estatísticos, buscando, especificamente, investigar a forma como os alunos fazem a leitura dos infográficos estatísticos, observando a ordem e os elementos que se destacam; verificar se o ano escolar tem influência sobre a interpretação dos infográficos; identificar os elementos facilitadores e dificultadores da interpretação dos dados nos infográficos e discutir os elementos cognitivos e disposicionais mobilizados pelos estudantes ao interpretar infográficos estatísticos, na perspectiva do Letramento Estatístico. Para o desenvolvimento da pesquisa, foram realizadas entrevistas semiestruturadas com aproximação do método clínico-piagetiano com 20 estudantes de 3º e 5º anos de cidades da Região Metropolitana de Recife. As entrevistas envolveram questões de interpretação de dois infográficos estatísticos retirados de revistas destinadas ao público infantojuvenil. Os resultados apontaram que alguns alunos, principalmente do 3º ano, realizaram uma leitura não linear, a partir dos elementos que os chamavam atenção, enquanto vários alunos do 5º ano realizaram uma leitura linear, como em texto convencional. Porém, independentemente do ano escolar, a ordem de leitura não interferiu na interpretação dos infográficos. Estudantes de ambos os anos, em sua maioria, mostraram ser capazes de ler e compreender os dados apresentados em texto e em diferentes tipos de gráficos, bem como reconhecer porcentagens e compreender grandes quantidades e números decimais. Além disso, avaliaram de forma crítica e elaboraram suas próprias conclusões sobre os dados, tomando decisões para resolver a situação do desperdício de comida e da produção do lixo e do seu descarte incorreto. Porém, os estudantes do 5º ano interpretaram mais e demonstraram mais autonomia durante as análises dos dados. Para compreender as mensagens estatísticas dos infográficos, os estudantes mobilizaram elementos cognitivos, como as habilidades de letramento e os conhecimentos estatísticos, matemáticos e de contexto/mundo. Para avaliar criticamente as informações, concluir sobre os dados e tomar decisões, demonstraram mobilizar além de elementos cognitivos como o conhecimento de mundo e as habilidades críticas, também demonstraram elementos disposicionais como postura crítica e suas crenças e atitudes. Alguns conhecimentos matemáticos foram elementos dificultadores da compreensão, como as ordens de grandeza de milhões e bilhões, unidades de medida da grandeza área em hectares e massa em toneladas e os números decimais. Entretanto, apesar de dificultarem a compreensão não impossibilitaram a mesma. Dessa forma, defendemos que eles sejam trabalhados nas salas de aulas dos anos iniciais como forma de desenvolver aprendizagens em relação aos conceitos de diferentes áreas de conhecimento de forma interdisciplinar. Consideramos fundamental que os estudantes sejam letrados estatisticamente, para que possam compreender e refletir criticamente a respeito das informações veiculadas através de infográficos.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "letramento estatístico"
+ ],
+ "ids_duplicados": [
+  "39997195"
+ ]
 }

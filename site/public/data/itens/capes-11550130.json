@@ -1,58 +1,58 @@
 {
-  "id": "capes-11550130",
-  "autor": "Karine Machado Fraga de Melo",
-  "ano": 2013,
-  "tipo": "Dissertação",
-  "titulo": "A Estatística nos Anos Finais do Ensino Fundamental: Uma Experiência com o Tema Transversal Meio Ambiente",
-  "instituicao": "Universidade Luterana do Brasil",
-  "cidade": "",
-  "estado": "Rio Grande do Sul",
-  "regiao": "Sul",
-  "orientador": "Claudia Lisete Oliveira Groenwald",
-  "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Matemática. Ensino de Estatística. Temas Transversais. Meio Ambiente. Sistema Integrado de Ensino Aprendizagem SIENA.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20UMA%20EXPERI%C3%8ANCIA%20COM%20O%20TEMA%20TRANSVERSAL%20MEIO%20AMBIENTE%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20UMA%20EXPERI%C3%8ANCIA%20COM%20O%20TEMA%20TRANSVERSAL%20MEIO%20AMBIENTE&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/11550130"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "11550130",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Matemática. Ensino de Estatística. Temas Transversais. Meio Ambiente. Sistema Integrado de Ensino Aprendizagem SIENA."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-11550130.svg",
-  "resumo": "Uma proposta relevante ao processo de ensino e aprendizagem de Matemática, que hoje permeia os Parâmetros Curriculares Nacionais (BRASIL, 1998), é a busca por articular temas transversais e a concepção de interdisciplinaridade. Este trabalho apresenta a implementação (desenvolvimento, aplicação e avaliação) de uma sequência didática eletrônica com conceitos estatísticos integrados a o tema transversal Meio Ambiente. Esta investigação faz parte da pesquisa conjunta entre o Grupo de Estudos Curriculares de Educação Matemática (GECEM), da Universidade Luterana do Brasil (ULBRA) em Canoas, Rio Grande do Sul e o Grupo de Tecnologias Educativas da Universidade de La Laguna (ULL), em Tenerife, Espanha. Este convênio está firmado desde 2005 e, como um dos resultados, está o desenvolvimento do Sistema Integrado de Ensino e Aprendizagem (SIENA), que é um sistema inteligente para apoiar o desenvolvimento do processo de ensino e aprendizagem, permitindo estudo, avaliação e recuperação de conteúdos escolares. A presente pesquisa busca investigar como a implementação de uma sequência didática eletrônica contextualizada com questões ambientais contribui para o processo de ensino e aprendizagem de conceitos estatísticos a serem desenvolvidos nos anos finais do Ensino Fundamental. O ambiente de investigação, na plataforma SIENA, foi desenvolvido, com as seguintes ações: criação do mapa conceitual com o tema estudado; a partir do mapa conceitual criou-se o grafo, composto por seis nodos com os conceitos de: população e amostra, estatística descritiva e inferencial, variáveis qualitativas e quantitativas, tabela, gráficos, medidas de tendência central (média aritmética, moda e mediana). Para cada nodo foi desenvolvida uma sequência didática com os conceitos de Estatística integrados ao tema transversal Meio Ambiente fundamentada na metodologia de Resoluçã o de problemas e no uso de atividades lúdicas (jogos online e do software JClic).Também foi desenvolvido um banco de questões para os testes adaptativos composto de 30 questões para cada nodo do grafo, consideradas 10 fáceis, 10 médias e 10 difíceis para o aluno, sendo que cada questão possui cinco alternativas de respostas e um tempo, em segundos, para a sua resolução. Adotou-se como metodologia da investigação a abordagem qualitativa, com ênfase no método de estudo de caso e foram utilizados como instrumentos de coleta de dados: dois questionários um para determinar o perfil dos alunos e o outro para avaliação da sequência desenvolvida ; os bancos de dados fornecidos pelo SIENA; os registros dos alunos; observações; filmagens. A investigação abrangeu um grupo de trinta e três alunos de uma Escola 8 de Ensino Fundamental, localizada no munícipio de Porto Alegre, Rio Grande do Sul. Os resultados apontam que a aplicação da sequência didática eletrônica contextualizada com questões ambientais contribui para o processo de ensino e aprendizagem de conceitos estatísticos desenvolvidos na 8ª série do Ensino Fundamental, visto que: proporcionou aos alunos a revisão e o aprofundamento dos conceitos estatísticos que já haviam sido estudados em sala de aula e o acréscimo de novos conceitos; favoreceu um ambiente de cooperação e construção do conhecimento entre os alunos, onde o professor desempenhou o papel de facilitador e mediador do processo de ensino e aprendizagem. Verificou-se que as dificuldades dos grupos concentraram-se no primeiro nodo Introdução a Estatística. Os resultados positivos foram obtidos no nodo Gráficos, no qual identificou-se nos grupos os três níveis de compreensão, descritos por Curcio (1989), que podem ser aplicados em gráficos . Dos doze grupos que realizaram a experiência, dez atingiram os objetivos propostos e dois atingiram parcialmente. Percebe-se que os grupos que não atingiram um desempenho satisfatório nos primeiros testes, foram direcionados pelo SIENA, para a realização de estudos de recuperação e após a revisão dos conceitos e atividades, apresentaram uma melhora em seu desempenho, observada pelos resultados obtidos na realização do segundo teste, embora suas dificuldades não fossem totalmente sanadas. Portanto, entende-se que o objetivo geral desta investigação foi alcançado, e para futuras investigações sugere -se o acréscimo de uma sequência didática eletrônica específica para os estudos de recuperação para cada nodo do grafo, a fim de melhor contribuir para sanar as dificuldades apresentadas pelos grupos pesquisados.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-11550130",
+ "autor": "Karine Machado Fraga de Melo",
+ "ano": 2013,
+ "tipo": "Dissertação",
+ "titulo": "A Estatística nos Anos Finais do Ensino Fundamental: Uma Experiência com o Tema Transversal Meio Ambiente",
+ "instituicao": "Universidade Luterana do Brasil",
+ "cidade": "",
+ "estado": "Rio Grande do Sul",
+ "regiao": "Sul",
+ "orientador": "Claudia Lisete Oliveira Groenwald",
+ "programa": "Ensino de Ciências e Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Matemática. Ensino de Estatística. Temas Transversais. Meio Ambiente. Sistema Integrado de Ensino Aprendizagem SIENA.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20UMA%20EXPERI%C3%8ANCIA%20COM%20O%20TEMA%20TRANSVERSAL%20MEIO%20AMBIENTE%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20FINAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20UMA%20EXPERI%C3%8ANCIA%20COM%20O%20TEMA%20TRANSVERSAL%20MEIO%20AMBIENTE&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/11550130"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "11550130",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Matemática. Ensino de Estatística. Temas Transversais. Meio Ambiente. Sistema Integrado de Ensino Aprendizagem SIENA."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-11550130.svg",
+ "resumo": "Uma proposta relevante ao processo de ensino e aprendizagem de Matemática, que hoje permeia os Parâmetros Curriculares Nacionais (BRASIL, 1998), é a busca por articular temas transversais e a concepção de interdisciplinaridade. Este trabalho apresenta a implementação (desenvolvimento, aplicação e avaliação) de uma sequência didática eletrônica com conceitos estatísticos integrados a o tema transversal Meio Ambiente. Esta investigação faz parte da pesquisa conjunta entre o Grupo de Estudos Curriculares de Educação Matemática (GECEM), da Universidade Luterana do Brasil (ULBRA) em Canoas, Rio Grande do Sul e o Grupo de Tecnologias Educativas da Universidade de La Laguna (ULL), em Tenerife, Espanha. Este convênio está firmado desde 2005 e, como um dos resultados, está o desenvolvimento do Sistema Integrado de Ensino e Aprendizagem (SIENA), que é um sistema inteligente para apoiar o desenvolvimento do processo de ensino e aprendizagem, permitindo estudo, avaliação e recuperação de conteúdos escolares. A presente pesquisa busca investigar como a implementação de uma sequência didática eletrônica contextualizada com questões ambientais contribui para o processo de ensino e aprendizagem de conceitos estatísticos a serem desenvolvidos nos anos finais do Ensino Fundamental. O ambiente de investigação, na plataforma SIENA, foi desenvolvido, com as seguintes ações: criação do mapa conceitual com o tema estudado; a partir do mapa conceitual criou-se o grafo, composto por seis nodos com os conceitos de: população e amostra, estatística descritiva e inferencial, variáveis qualitativas e quantitativas, tabela, gráficos, medidas de tendência central (média aritmética, moda e mediana). Para cada nodo foi desenvolvida uma sequência didática com os conceitos de Estatística integrados ao tema transversal Meio Ambiente fundamentada na metodologia de Resoluçã o de problemas e no uso de atividades lúdicas (jogos online e do software JClic).Também foi desenvolvido um banco de questões para os testes adaptativos composto de 30 questões para cada nodo do grafo, consideradas 10 fáceis, 10 médias e 10 difíceis para o aluno, sendo que cada questão possui cinco alternativas de respostas e um tempo, em segundos, para a sua resolução. Adotou-se como metodologia da investigação a abordagem qualitativa, com ênfase no método de estudo de caso e foram utilizados como instrumentos de coleta de dados: dois questionários um para determinar o perfil dos alunos e o outro para avaliação da sequência desenvolvida ; os bancos de dados fornecidos pelo SIENA; os registros dos alunos; observações; filmagens. A investigação abrangeu um grupo de trinta e três alunos de uma Escola 8 de Ensino Fundamental, localizada no munícipio de Porto Alegre, Rio Grande do Sul. Os resultados apontam que a aplicação da sequência didática eletrônica contextualizada com questões ambientais contribui para o processo de ensino e aprendizagem de conceitos estatísticos desenvolvidos na 8ª série do Ensino Fundamental, visto que: proporcionou aos alunos a revisão e o aprofundamento dos conceitos estatísticos que já haviam sido estudados em sala de aula e o acréscimo de novos conceitos; favoreceu um ambiente de cooperação e construção do conhecimento entre os alunos, onde o professor desempenhou o papel de facilitador e mediador do processo de ensino e aprendizagem. Verificou-se que as dificuldades dos grupos concentraram-se no primeiro nodo Introdução a Estatística. Os resultados positivos foram obtidos no nodo Gráficos, no qual identificou-se nos grupos os três níveis de compreensão, descritos por Curcio (1989), que podem ser aplicados em gráficos . Dos doze grupos que realizaram a experiência, dez atingiram os objetivos propostos e dois atingiram parcialmente. Percebe-se que os grupos que não atingiram um desempenho satisfatório nos primeiros testes, foram direcionados pelo SIENA, para a realização de estudos de recuperação e após a revisão dos conceitos e atividades, apresentaram uma melhora em seu desempenho, observada pelos resultados obtidos na realização do segundo teste, embora suas dificuldades não fossem totalmente sanadas. Portanto, entende-se que o objetivo geral desta investigação foi alcançado, e para futuras investigações sugere -se o acréscimo de uma sequência didática eletrônica específica para os estudos de recuperação para cada nodo do grafo, a fim de melhor contribuir para sanar as dificuldades apresentadas pelos grupos pesquisados.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

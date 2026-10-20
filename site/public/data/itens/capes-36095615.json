@@ -1,62 +1,62 @@
 {
-  "id": "capes-36095615",
-  "autor": "Agnaldo Batista Nunes",
-  "ano": 2022,
-  "tipo": "Dissertação",
-  "titulo": "Desenvolvimento das Competências Estatísticas a Partir da Educação Estatística Crítica: Investigação de Atividades no Ensino Superior",
-  "instituicao": "Universidade Estadual do Norte do Paraná",
-  "cidade": "",
-  "estado": "Paraná",
-  "regiao": "Sul",
-  "orientador": "Rudolph dos Santos Gomes Pereira",
-  "programa": "ENSINO",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Estatística; Competências Estatísticas; Educação Estatística Crítica",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22DESENVOLVIMENTO%20DAS%20COMPET%C3%8ANCIAS%20ESTAT%C3%8DSTICAS%20A%20PARTIR%20DA%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20CR%C3%8DTICA%3A%20INVESTIGA%C3%87%C3%83O%20DE%20ATIVIDADES%20NO%20ENSINO%20SUPERIOR%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=DESENVOLVIMENTO%20DAS%20COMPET%C3%8ANCIAS%20ESTAT%C3%8DSTICAS%20A%20PARTIR%20DA%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20CR%C3%8DTICA%3A%20INVESTIGA%C3%87%C3%83O%20DE%20ATIVIDADES%20NO%20ENSINO%20SUPERIOR&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36095615"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "36095615",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Estatística",
-    "Competências Estatísticas",
-    "Educação Estatística Crítica"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-36095615.svg",
-  "resumo": "De modo geral, a aprendizagem de Estatística no Ensino Superior enfatiza aspectos mais técnicos e operacionais desvinculados do cotidiano dos alunos. A Educação Estatística traz uma aprendizagem centrada numa postura investigativa, reflexiva e crítica, focada em três importantes competências: a literacia, o raciocínio e o pensamento estatístico. Esta pesquisa teve como objetivo investigar o desenvolvimento de competências da Educação Estatística, a saber o Letramento, Raciocínio e o Pensamento a partir da perspectiva da Educação Estatística Crítica, por meio de um caderno de atividades. Por conta da Pandemia, as atividades foram inseridas no ambiente virtual de aprendizagem (AVA) Moodle®. Priorizamos atividades dentro da perspectiva da Educação Estatística Crítica por entender que, ao propor ações voltadas a essa vertente, o aluno cria possibilidades para o desenvolvimento da competência crítica, pois valoriza o diálogo e a reflexão a partir das situações apresentadas em contextos reais da sociedade. As atividades foram desenvolvidas através de um curso de extensão com os alunos do Ensino Superior, oriundos de diversos cursos de uma faculdade particular da cidade de Cornélio Procópio, Paraná. O curso foi constituído de 30 horas, sendo 5 horas de encontros síncronos (Google Meet®) para a explanação, reflexão e diálogo entre alunos e 25 horas assíncronos (AVA) para a realização das atividades. Nossa pesquisa está dentro do contexto qualitativo, pois os registros escritos na plataforma AVA Moodle® foram analisados e interpretados, utilizando-se como metodologia a análise a partir da intepretação dos registros apresentados pelos alunos no desenvolvimento das atividades disponibilizadas no ambiente virtual, apoiando-se nas dimensões letramento, pensamento e raciocínio estatístico. Nos encontros síncronos, praticamente não houve registro com relação aos diálogos e discussões das atividades realizadas. As análises demonstraram que o caderno da atividade contribuiu para o desenvolvimento do letramento, pensamento e raciocínio, pois os estudantes trabalharam com dados reais os conceitos básicos de Estatística dentro de um contexto próprio onde estavam inseridos, puderam criticar as informações e os dados apresentados, interpretar, analisar e emitir considerações acerca deles.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística"
-  ],
-  "ids_duplicados": [
-    "39676242"
-  ]
+ "id": "capes-36095615",
+ "autor": "Agnaldo Batista Nunes",
+ "ano": 2022,
+ "tipo": "Dissertação",
+ "titulo": "Desenvolvimento das Competências Estatísticas a Partir da Educação Estatística Crítica: Investigação de Atividades no Ensino Superior",
+ "instituicao": "Universidade Estadual do Norte do Paraná",
+ "cidade": "",
+ "estado": "Paraná",
+ "regiao": "Sul",
+ "orientador": "Rudolph dos Santos Gomes Pereira",
+ "programa": "Ensino",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Estatística; Competências Estatísticas; Educação Estatística Crítica",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22DESENVOLVIMENTO%20DAS%20COMPET%C3%8ANCIAS%20ESTAT%C3%8DSTICAS%20A%20PARTIR%20DA%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20CR%C3%8DTICA%3A%20INVESTIGA%C3%87%C3%83O%20DE%20ATIVIDADES%20NO%20ENSINO%20SUPERIOR%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=DESENVOLVIMENTO%20DAS%20COMPET%C3%8ANCIAS%20ESTAT%C3%8DSTICAS%20A%20PARTIR%20DA%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20CR%C3%8DTICA%3A%20INVESTIGA%C3%87%C3%83O%20DE%20ATIVIDADES%20NO%20ENSINO%20SUPERIOR&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36095615"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "36095615",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Estatística",
+  "Competências Estatísticas",
+  "Educação Estatística Crítica"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-36095615.svg",
+ "resumo": "De modo geral, a aprendizagem de Estatística no Ensino Superior enfatiza aspectos mais técnicos e operacionais desvinculados do cotidiano dos alunos. A Educação Estatística traz uma aprendizagem centrada numa postura investigativa, reflexiva e crítica, focada em três importantes competências: a literacia, o raciocínio e o pensamento estatístico. Esta pesquisa teve como objetivo investigar o desenvolvimento de competências da Educação Estatística, a saber o Letramento, Raciocínio e o Pensamento a partir da perspectiva da Educação Estatística Crítica, por meio de um caderno de atividades. Por conta da Pandemia, as atividades foram inseridas no ambiente virtual de aprendizagem (AVA) Moodle®. Priorizamos atividades dentro da perspectiva da Educação Estatística Crítica por entender que, ao propor ações voltadas a essa vertente, o aluno cria possibilidades para o desenvolvimento da competência crítica, pois valoriza o diálogo e a reflexão a partir das situações apresentadas em contextos reais da sociedade. As atividades foram desenvolvidas através de um curso de extensão com os alunos do Ensino Superior, oriundos de diversos cursos de uma faculdade particular da cidade de Cornélio Procópio, Paraná. O curso foi constituído de 30 horas, sendo 5 horas de encontros síncronos (Google Meet®) para a explanação, reflexão e diálogo entre alunos e 25 horas assíncronos (AVA) para a realização das atividades. Nossa pesquisa está dentro do contexto qualitativo, pois os registros escritos na plataforma AVA Moodle® foram analisados e interpretados, utilizando-se como metodologia a análise a partir da intepretação dos registros apresentados pelos alunos no desenvolvimento das atividades disponibilizadas no ambiente virtual, apoiando-se nas dimensões letramento, pensamento e raciocínio estatístico. Nos encontros síncronos, praticamente não houve registro com relação aos diálogos e discussões das atividades realizadas. As análises demonstraram que o caderno da atividade contribuiu para o desenvolvimento do letramento, pensamento e raciocínio, pois os estudantes trabalharam com dados reais os conceitos básicos de Estatística dentro de um contexto próprio onde estavam inseridos, puderam criticar as informações e os dados apresentados, interpretar, analisar e emitir considerações acerca deles.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística"
+ ],
+ "ids_duplicados": [
+  "39676242"
+ ]
 }

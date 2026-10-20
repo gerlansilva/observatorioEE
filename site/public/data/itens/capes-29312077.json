@@ -1,61 +1,61 @@
 {
-  "id": "capes-29312077",
-  "autor": "Danilo Saes Correa da Silva",
-  "ano": 2018,
-  "tipo": "Dissertação",
-  "titulo": "Letramento Estocástico: Uma Possível Articulação Entre os Letramentos Estatístico e Probabilístico",
-  "instituicao": "Pontifícia Universidade Católica de São Paulo",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Cileda de Queiroz e Silva Coutinho",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Letramento; Estatística - Estudo e ensino; Processo estocástico; Probabilidades",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20ESTOC%C3%81STICO%3A%20UMA%20POSS%C3%8DVEL%20ARTICULA%C3%87%C3%83O%20ENTRE%20OS%20LETRAMENTOS%20ESTAT%C3%8DSTICO%20E%20PROBABIL%C3%8DSTICO%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20ESTOC%C3%81STICO%3A%20UMA%20POSS%C3%8DVEL%20ARTICULA%C3%87%C3%83O%20ENTRE%20OS%20LETRAMENTOS%20ESTAT%C3%8DSTICO%20E%20PROBABIL%C3%8DSTICO&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29312077"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "29312077",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Letramento",
-    "Estatística - Estudo e ensino",
-    "Processo estocástico",
-    "Probabilidades"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-29312077.svg",
-  "resumo": "A crescente divulgação de notícias, impulsionada pelas redes sociais, faz com que a sociedade necessite ser cada vez mais crítica. E é dentro desse contexto que A Educação Estatística pode ter papel importante na formação dessa sociedade, visto que há a possibilidade dessa Educação facilitar na formação de uma sociedade mais crítica, já que os Letramentos Estatístico e Probabilístico auxiliam nessa construção. Nosso objetivo geral é analisar quais elementos do Letramento Estatístico e do Letramento Probabilístico são trabalhados com alunos do sexto ano do ensino fundamental e estudar a possível articulação entre eles por meio de atividades que envolvam postura crítica para análise de dados. Durante nossos estudos indicamos de que forma pontos consonantes podem promover um novo Letramento, o Letramento Estocástico. Para analisar a forma como esses dois Letramentos interagem e se articulam com os alunos, realizamos uma atividade, baseada em pressupostos da Engenharia Didática, que consistiu no lançamento de dados cúbicos e construção de gráficos para a verificação da frequência relativa associada à cada uma das faces, para assim auxiliar na aprendizagem da Probabilidade Frequentista. Para a verificação da postura crítica dos alunos foram inseridos na atividade alguns dados viciados, resultando em lançamentos não equiprováveis. Os resultados da atividade apontaram para alguns pontos em comum nos Letramentos Estatístico e Probabilístico, como a importância de se trabalhar a Estatística e a Probabilidade de forma concomitante, e a relevância de se trabalhar com dados, que são elementos do convívio dos alunos, aprimorando levantamentos que são do contexto dos estudantes, indicamos também algumas dificuldades encontradas, como a ausência da verificação da não-equiprobabilidade",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "letramento estatístico",
-    "letramento probabilístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-29312077",
+ "autor": "Danilo Saes Correa da Silva",
+ "ano": 2018,
+ "tipo": "Dissertação",
+ "titulo": "Letramento Estocástico: Uma Possível Articulação Entre os Letramentos Estatístico e Probabilístico",
+ "instituicao": "Pontifícia Universidade Católica de São Paulo",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Cileda de Queiroz e Silva Coutinho",
+ "programa": "Educação Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Letramento; Estatística - Estudo e ensino; Processo estocástico; Probabilidades",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20ESTOC%C3%81STICO%3A%20UMA%20POSS%C3%8DVEL%20ARTICULA%C3%87%C3%83O%20ENTRE%20OS%20LETRAMENTOS%20ESTAT%C3%8DSTICO%20E%20PROBABIL%C3%8DSTICO%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20ESTOC%C3%81STICO%3A%20UMA%20POSS%C3%8DVEL%20ARTICULA%C3%87%C3%83O%20ENTRE%20OS%20LETRAMENTOS%20ESTAT%C3%8DSTICO%20E%20PROBABIL%C3%8DSTICO&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29312077"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "29312077",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Letramento",
+  "Estatística - Estudo e ensino",
+  "Processo estocástico",
+  "Probabilidades"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-29312077.svg",
+ "resumo": "A crescente divulgação de notícias, impulsionada pelas redes sociais, faz com que a sociedade necessite ser cada vez mais crítica. E é dentro desse contexto que A Educação Estatística pode ter papel importante na formação dessa sociedade, visto que há a possibilidade dessa Educação facilitar na formação de uma sociedade mais crítica, já que os Letramentos Estatístico e Probabilístico auxiliam nessa construção. Nosso objetivo geral é analisar quais elementos do Letramento Estatístico e do Letramento Probabilístico são trabalhados com alunos do sexto ano do ensino fundamental e estudar a possível articulação entre eles por meio de atividades que envolvam postura crítica para análise de dados. Durante nossos estudos indicamos de que forma pontos consonantes podem promover um novo Letramento, o Letramento Estocástico. Para analisar a forma como esses dois Letramentos interagem e se articulam com os alunos, realizamos uma atividade, baseada em pressupostos da Engenharia Didática, que consistiu no lançamento de dados cúbicos e construção de gráficos para a verificação da frequência relativa associada à cada uma das faces, para assim auxiliar na aprendizagem da Probabilidade Frequentista. Para a verificação da postura crítica dos alunos foram inseridos na atividade alguns dados viciados, resultando em lançamentos não equiprováveis. Os resultados da atividade apontaram para alguns pontos em comum nos Letramentos Estatístico e Probabilístico, como a importância de se trabalhar a Estatística e a Probabilidade de forma concomitante, e a relevância de se trabalhar com dados, que são elementos do convívio dos alunos, aprimorando levantamentos que são do contexto dos estudantes, indicamos também algumas dificuldades encontradas, como a ausência da verificação da não-equiprobabilidade",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "letramento estatístico",
+  "letramento probabilístico"
+ ],
+ "ids_duplicados": []
 }

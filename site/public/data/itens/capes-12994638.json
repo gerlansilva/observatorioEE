@@ -1,57 +1,57 @@
 {
-  "id": "capes-12994638",
-  "autor": "Cristiane Candido Luz",
-  "ano": 2015,
-  "tipo": "Dissertação",
-  "titulo": "Letramento Probabilístico no Ensino Médio: Um Estudo de Invariantes Operatórios Mobilizados por Alunos",
-  "instituicao": "Pontifícia Universidade Católica de São Paulo",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Cileda de Queiroz e Silva Coutinho",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Matemática, Probabilidade, Enfoque clássico, Enfoque frequentista, Teoria dos Campos Conceituais, Letramento probabilístico",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20PROBABIL%C3%8DSTICO%20NO%20ENSINO%20M%C3%89DIO%3A%20UM%20ESTUDO%20DE%20INVARIANTES%20OPERAT%C3%93RIOS%20MOBILIZADOS%20POR%20ALUNOS%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20PROBABIL%C3%8DSTICO%20NO%20ENSINO%20M%C3%89DIO%3A%20UM%20ESTUDO%20DE%20INVARIANTES%20OPERAT%C3%93RIOS%20MOBILIZADOS%20POR%20ALUNOS&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/12994638"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "12994638",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Matemática, Probabilidade, Enfoque clássico, Enfoque frequentista, Teoria dos Campos Conceituais, Letramento probabilístico"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-12994638.svg",
-  "resumo": "O tema no qual esta pesquisa se desenvolveu é o desenvolvimento do processo de aprendizagem da probabilidade. Para tal, buscamos primeiramente os conteúdos de documentos oficiais e pesquisas que abordaram o ensino ou a aprendizagem da probabilidade, e percebemos o seu crescimento dentro do campo da Educação Matemática, confirmando nossas hipóteses sobre a relevância de se desenvolver uma pesquisa nesse tema. Neste contexto, formulamos nosso objetivo que é diagnosticar invariantes operatórios mobilizados pelos alunos em situação de resolução de problemas, para que busquemos elementos que permitam uma proposta de modelo de construção de conceito (modelo de evolução de aprendizagem). O trabalho se desenvolveu buscando relacionar os invariantes operatórios identificados com os elementos do letramento probabilístico quando a aprendizagem da probabilidade mobiliza elementos da probabilidade geométrica, articulando o enfoque clássico e o enfoque frequentista da probabilidade. Para alcançarmos tal objetivo, formulamos a seguinte questão de pesquisa: Que elementos do letramento probabilístico identificamos na mobilização de invariantes operatórios por alunos do 3º ano do Ensino Médio ao resolver problemas que articulam o enfoque clássico e frequentista do conceito de probabilidade? Almejando responder a essa questão, utilizaremos a Teoria dos Campos Conceituais articulando-a com os princípios do letramento probabilístico. Como metodologia de pesquisa escolhemos o estudo de caso. Nossa sequência é composta por três situações didáticas adaptadas de pesquisa anterior desenvolvida em nosso grupo de pesquisa, denominadas “A-Urna de Bernoulli”, “B-Urna de Pixels” e “C-O jogo Franc-Carreau” e estas situações foram aplicadas a um grupo de alunos voluntários, cursando o terceiro ano do Ensino Médio de uma escola da rede privada da cidade de São Paulo. A análise dos protocolos construídos nos permitiu identificar que os alunos mobilizaram invariantes operatórios que permitiam estimar a probabilidade, articulando o enfoque clássico e frequentista, confirmando hipótese de desenvolvimento do letramento probabilístico. Descreveram proporções e por meio de um discurso próprio, transitando pelos domínios concreto e pseudoconcreto. Nenhum aluno atingiu o letramento probabilístico pleno, que supunha a resolução de problemas no domínio abstrato, segundo o esquema proposto para um processo de abstração a ser percorrido durante a aprendizagem",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "letramento probabilístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-12994638",
+ "autor": "Cristiane Candido Luz",
+ "ano": 2015,
+ "tipo": "Dissertação",
+ "titulo": "Letramento Probabilístico no Ensino Médio: Um Estudo de Invariantes Operatórios Mobilizados por Alunos",
+ "instituicao": "Pontifícia Universidade Católica de São Paulo",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Cileda de Queiroz e Silva Coutinho",
+ "programa": "Educação Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Matemática, Probabilidade, Enfoque clássico, Enfoque frequentista, Teoria dos Campos Conceituais, Letramento probabilístico",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22LETRAMENTO%20PROBABIL%C3%8DSTICO%20NO%20ENSINO%20M%C3%89DIO%3A%20UM%20ESTUDO%20DE%20INVARIANTES%20OPERAT%C3%93RIOS%20MOBILIZADOS%20POR%20ALUNOS%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=LETRAMENTO%20PROBABIL%C3%8DSTICO%20NO%20ENSINO%20M%C3%89DIO%3A%20UM%20ESTUDO%20DE%20INVARIANTES%20OPERAT%C3%93RIOS%20MOBILIZADOS%20POR%20ALUNOS&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/12994638"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "12994638",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Matemática, Probabilidade, Enfoque clássico, Enfoque frequentista, Teoria dos Campos Conceituais, Letramento probabilístico"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-12994638.svg",
+ "resumo": "O tema no qual esta pesquisa se desenvolveu é o desenvolvimento do processo de aprendizagem da probabilidade. Para tal, buscamos primeiramente os conteúdos de documentos oficiais e pesquisas que abordaram o ensino ou a aprendizagem da probabilidade, e percebemos o seu crescimento dentro do campo da Educação Matemática, confirmando nossas hipóteses sobre a relevância de se desenvolver uma pesquisa nesse tema. Neste contexto, formulamos nosso objetivo que é diagnosticar invariantes operatórios mobilizados pelos alunos em situação de resolução de problemas, para que busquemos elementos que permitam uma proposta de modelo de construção de conceito (modelo de evolução de aprendizagem). O trabalho se desenvolveu buscando relacionar os invariantes operatórios identificados com os elementos do letramento probabilístico quando a aprendizagem da probabilidade mobiliza elementos da probabilidade geométrica, articulando o enfoque clássico e o enfoque frequentista da probabilidade. Para alcançarmos tal objetivo, formulamos a seguinte questão de pesquisa: Que elementos do letramento probabilístico identificamos na mobilização de invariantes operatórios por alunos do 3º ano do Ensino Médio ao resolver problemas que articulam o enfoque clássico e frequentista do conceito de probabilidade? Almejando responder a essa questão, utilizaremos a Teoria dos Campos Conceituais articulando-a com os princípios do letramento probabilístico. Como metodologia de pesquisa escolhemos o estudo de caso. Nossa sequência é composta por três situações didáticas adaptadas de pesquisa anterior desenvolvida em nosso grupo de pesquisa, denominadas “A-Urna de Bernoulli”, “B-Urna de Pixels” e “C-O jogo Franc-Carreau” e estas situações foram aplicadas a um grupo de alunos voluntários, cursando o terceiro ano do Ensino Médio de uma escola da rede privada da cidade de São Paulo. A análise dos protocolos construídos nos permitiu identificar que os alunos mobilizaram invariantes operatórios que permitiam estimar a probabilidade, articulando o enfoque clássico e frequentista, confirmando hipótese de desenvolvimento do letramento probabilístico. Descreveram proporções e por meio de um discurso próprio, transitando pelos domínios concreto e pseudoconcreto. Nenhum aluno atingiu o letramento probabilístico pleno, que supunha a resolução de problemas no domínio abstrato, segundo o esquema proposto para um processo de abstração a ser percorrido durante a aprendizagem",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "letramento probabilístico"
+ ],
+ "ids_duplicados": []
 }

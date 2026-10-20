@@ -1,58 +1,58 @@
 {
-  "id": "capes-19251958",
-  "autor": "Carlos Ricardo Bifi",
-  "ano": 2014,
-  "tipo": "Tese",
-  "titulo": "Conhecimentos estatísticos no Ciclo I do Ensino Fundamental: um estudo diagnóstico com professores em exercício",
-  "instituicao": "Pontifícia Universidade Católica de São Paulo",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Cileda de Queiroz e Silva Coutinho",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "MATEMATICA, Educação estatística, Estatística nas séries iniciais, Formação de professores, Letramento estatístico",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Conhecimentos%20estat%C3%ADsticos%20no%20Ciclo%20I%20do%20Ensino%20Fundamental%3A%20um%20estudo%20diagn%C3%B3stico%20com%20professores%20em%20exerc%C3%ADcio%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Conhecimentos%20estat%C3%ADsticos%20no%20Ciclo%20I%20do%20Ensino%20Fundamental%3A%20um%20estudo%20diagn%C3%B3stico%20com%20professores%20em%20exerc%C3%ADcio&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19251958"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "19251958",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "MATEMATICA, Educação estatística, Estatística nas séries iniciais, Formação de professores, Letramento estatístico"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-19251958.svg",
-  "resumo": "Esta pesquisa teve como principal objetivo diagnosticar o tipo de funcionamento dos conhecimentos didáticos e matemáticos por meio da observação de atividades relacionadas à prática de um grupo de professores do Ciclo I do Ensino Fundamental. Buscamos identificar elementos que sinalizassem a percepção desses professores sobre seus conhecimentos em Estatística, Probabilidade e Combinatória, relativos ao nível de escolaridade no qual esses docentes estavam em exercício. Com isso, buscamos responder à seguinte questão: Que conhecimentos estatísticos – didáticos e específicos – são mobilizados em situação de concepção e gestão de aula por um grupo de professores em suas práticas docentes? Participaram do estudo nove professoras, dentre as quais destacou-se espontaneamente uma líder que dispunha de formação específica (licenciatura em Matemática) e mestrado em Ciências e Ensino de Matemática. Este estudo de caso foi desenvolvido em três etapas, com os seguintes procedimentos metodológicos: observação das reuniões em Horário de Trabalho Pedagógico Coletivo (HTPC), observação da prática das professoras durante as aulas que tratavam de conteúdos do bloco ‘Tratamento da informação’ e, por fim, entrevistas. As duas primeiras etapas nortearam a construção de um conjunto de atividades que serviu de base para as entrevistas. As análises do material coletado diagnosticaram no grupo estudado um conhecimento pedagógico e especifico do bloco ‘Tratamento da informação’ insuficiente para atender às necessidades dos alunos, convergindo com resultados de pesquisas em Educação Estatística. Pudemos observar que o fato de a professora-líder promover uma espécie de formação continuada nos encontros suscitou nas demais professoras a consciência de um trabalho colaborativo, com socialização de conhecimentos. Em alguns momentos, o grupo verbalizou a ausência de conhecimento sobre temas propostos para debate – por exemplo, Probabilidade e frações. Os resultados obtidos apontam a importância do trabalho coletivo de professores e do investimento em formações ou assessorias não limitadas ao HTPC, visando a construção de conhecimentos didáticos e específicos relacionados aos conteúdos de Estatística, Probabilidade e Combinatória. Também se identificou a necessidade de formações que permitam ao professor a construção da autonomia (pela construção de conhecimento) na utilização e complementação de materiais didáticos, livros-textos e outros materiais disponíveis na escola. Os resultados também apontam a necessidade de pesquisas específicas sobre a compreensão do tipo de funcionamento dos conhecimentos identificados, visto que apresentaram características importantes e específicas não inteiramente descritas pelos referenciais utilizados. Análises mais aprofundadas poderão permitir que tais características inéditas dos níveis de funcionamento dos conhecimentos sejam adequadamente mapeadas",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "letramento estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-19251958",
+ "autor": "Carlos Ricardo Bifi",
+ "ano": 2014,
+ "tipo": "Tese",
+ "titulo": "Conhecimentos estatísticos no Ciclo I do Ensino Fundamental: um estudo diagnóstico com professores em exercício",
+ "instituicao": "Pontifícia Universidade Católica de São Paulo",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Cileda de Queiroz e Silva Coutinho",
+ "programa": "Educação Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "MATEMATICA, Educação estatística, Estatística nas séries iniciais, Formação de professores, Letramento estatístico",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Conhecimentos%20estat%C3%ADsticos%20no%20Ciclo%20I%20do%20Ensino%20Fundamental%3A%20um%20estudo%20diagn%C3%B3stico%20com%20professores%20em%20exerc%C3%ADcio%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Conhecimentos%20estat%C3%ADsticos%20no%20Ciclo%20I%20do%20Ensino%20Fundamental%3A%20um%20estudo%20diagn%C3%B3stico%20com%20professores%20em%20exerc%C3%ADcio&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19251958"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "19251958",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "MATEMATICA, Educação estatística, Estatística nas séries iniciais, Formação de professores, Letramento estatístico"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-19251958.svg",
+ "resumo": "Esta pesquisa teve como principal objetivo diagnosticar o tipo de funcionamento dos conhecimentos didáticos e matemáticos por meio da observação de atividades relacionadas à prática de um grupo de professores do Ciclo I do Ensino Fundamental. Buscamos identificar elementos que sinalizassem a percepção desses professores sobre seus conhecimentos em Estatística, Probabilidade e Combinatória, relativos ao nível de escolaridade no qual esses docentes estavam em exercício. Com isso, buscamos responder à seguinte questão: Que conhecimentos estatísticos – didáticos e específicos – são mobilizados em situação de concepção e gestão de aula por um grupo de professores em suas práticas docentes? Participaram do estudo nove professoras, dentre as quais destacou-se espontaneamente uma líder que dispunha de formação específica (licenciatura em Matemática) e mestrado em Ciências e Ensino de Matemática. Este estudo de caso foi desenvolvido em três etapas, com os seguintes procedimentos metodológicos: observação das reuniões em Horário de Trabalho Pedagógico Coletivo (HTPC), observação da prática das professoras durante as aulas que tratavam de conteúdos do bloco ‘Tratamento da informação’ e, por fim, entrevistas. As duas primeiras etapas nortearam a construção de um conjunto de atividades que serviu de base para as entrevistas. As análises do material coletado diagnosticaram no grupo estudado um conhecimento pedagógico e especifico do bloco ‘Tratamento da informação’ insuficiente para atender às necessidades dos alunos, convergindo com resultados de pesquisas em Educação Estatística. Pudemos observar que o fato de a professora-líder promover uma espécie de formação continuada nos encontros suscitou nas demais professoras a consciência de um trabalho colaborativo, com socialização de conhecimentos. Em alguns momentos, o grupo verbalizou a ausência de conhecimento sobre temas propostos para debate – por exemplo, Probabilidade e frações. Os resultados obtidos apontam a importância do trabalho coletivo de professores e do investimento em formações ou assessorias não limitadas ao HTPC, visando a construção de conhecimentos didáticos e específicos relacionados aos conteúdos de Estatística, Probabilidade e Combinatória. Também se identificou a necessidade de formações que permitam ao professor a construção da autonomia (pela construção de conhecimento) na utilização e complementação de materiais didáticos, livros-textos e outros materiais disponíveis na escola. Os resultados também apontam a necessidade de pesquisas específicas sobre a compreensão do tipo de funcionamento dos conhecimentos identificados, visto que apresentaram características importantes e específicas não inteiramente descritas pelos referenciais utilizados. Análises mais aprofundadas poderão permitir que tais características inéditas dos níveis de funcionamento dos conhecimentos sejam adequadamente mapeadas",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "letramento estatístico"
+ ],
+ "ids_duplicados": []
 }

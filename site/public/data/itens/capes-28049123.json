@@ -1,62 +1,62 @@
 {
-  "id": "capes-28049123",
-  "autor": "Jessica Carolini da Silva Laurindo",
-  "ano": 2019,
-  "tipo": "Dissertação",
-  "titulo": "ESTATÍSTICA NO GEOGEBRA: uma análise dos processos de Abstração Reflexionante sobre conceitos de medidas de tendência central",
-  "instituicao": "Universidade Federal do Rio Grande do Sul",
-  "cidade": "",
-  "estado": "Rio Grande do Sul",
-  "regiao": "Sul",
-  "orientador": "Marcus Vinicius de Azevedo Basso",
-  "programa": "ENSINO DE MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Estatística; GeoGebra; Abstração Reflexionante; Raciocínio Estatístico; Medidas de Tendência Central",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22ESTAT%C3%8DSTICA%20NO%20GEOGEBRA%3A%20uma%20an%C3%A1lise%20dos%20processos%20de%20Abstra%C3%A7%C3%A3o%20Reflexionante%20sobre%20conceitos%20de%20medidas%20de%20tend%C3%AAncia%20central%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESTAT%C3%8DSTICA%20NO%20GEOGEBRA%3A%20uma%20an%C3%A1lise%20dos%20processos%20de%20Abstra%C3%A7%C3%A3o%20Reflexionante%20sobre%20conceitos%20de%20medidas%20de%20tend%C3%AAncia%20central&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28049123"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "28049123",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Estatística",
-    "GeoGebra",
-    "Abstração Reflexionante",
-    "Raciocínio Estatístico",
-    "Medidas de Tendência Central"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-28049123.svg",
-  "resumo": "Esta pesquisa tem o objetivo de investigar como a aprendizagem de conceitos estatísticos pode ser potencializada no ambiente do software GeoGebra. Para a realização desse estudo foi tomado como referencial teórico as ideias sobre Abstração Reflexionante e o processo de Tomada de Consciência de Jean Piaget. De acordo com o autor, a construção do conhecimento é resultante da interação entre sujeito e objeto cujo foco está no processo de aprendizagem. Nessa perspectiva, esta pesquisa caracteriza-se como qualitativa de caráter exploratório, visto que os procedimentos metodológicos consistem na realização de um conjunto de atividades com estudantes do Ensino Médio visando a investigação do processo de aprendizagem dos conceitos estatísticos com o apoio do software. Para a produção dos dados foram utilizados os registros e as falas dos alunos durante a realização das atividades, assim como os vídeos, as fotos, o diário de campo do pesquisador e as entrevistas com os estudantes inspiradas no Método Clínico de Piaget. Em caráter experimental, foi realizado um estudo piloto com quatro estudantes do Ensino Médio cujos resultados serviram de inspiração para reavaliar a proposta metodológica utilizada. No experimento final, foram descritas e analisadas as entrevistas de outros quatro estudantes buscando tecer relações com a base teórica assumida. Entre os resultados produzidos, destaca-se que o “arrastar” dinâmico do GeoGebra proporcionou a abstração e (re)construção dos conceitos estatísticos mediante ao manuseio nos dados expostos no software. Observou-se ainda que os estudantes costumam confundir média, mediana e moda. No entanto, foi no patamar das comparações entre as medidas e das suas ações no GeoGebra que os estudantes tiveram a oportunidade de expor suas ideias, experimentar diferentes distribuições, reorganizar suas estruturas, refletir e abstrair conceitos.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "raciocínio estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-28049123",
+ "autor": "Jessica Carolini da Silva Laurindo",
+ "ano": 2019,
+ "tipo": "Dissertação",
+ "titulo": "ESTATÍSTICA NO GEOGEBRA: uma análise dos processos de Abstração Reflexionante sobre conceitos de medidas de tendência central",
+ "instituicao": "Universidade Federal do Rio Grande do Sul",
+ "cidade": "",
+ "estado": "Rio Grande do Sul",
+ "regiao": "Sul",
+ "orientador": "Marcus Vinicius de Azevedo Basso",
+ "programa": "Ensino de Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Estatística; GeoGebra; Abstração Reflexionante; Raciocínio Estatístico; Medidas de Tendência Central",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22ESTAT%C3%8DSTICA%20NO%20GEOGEBRA%3A%20uma%20an%C3%A1lise%20dos%20processos%20de%20Abstra%C3%A7%C3%A3o%20Reflexionante%20sobre%20conceitos%20de%20medidas%20de%20tend%C3%AAncia%20central%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESTAT%C3%8DSTICA%20NO%20GEOGEBRA%3A%20uma%20an%C3%A1lise%20dos%20processos%20de%20Abstra%C3%A7%C3%A3o%20Reflexionante%20sobre%20conceitos%20de%20medidas%20de%20tend%C3%AAncia%20central&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28049123"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "28049123",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Estatística",
+  "GeoGebra",
+  "Abstração Reflexionante",
+  "Raciocínio Estatístico",
+  "Medidas de Tendência Central"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-28049123.svg",
+ "resumo": "Esta pesquisa tem o objetivo de investigar como a aprendizagem de conceitos estatísticos pode ser potencializada no ambiente do software GeoGebra. Para a realização desse estudo foi tomado como referencial teórico as ideias sobre Abstração Reflexionante e o processo de Tomada de Consciência de Jean Piaget. De acordo com o autor, a construção do conhecimento é resultante da interação entre sujeito e objeto cujo foco está no processo de aprendizagem. Nessa perspectiva, esta pesquisa caracteriza-se como qualitativa de caráter exploratório, visto que os procedimentos metodológicos consistem na realização de um conjunto de atividades com estudantes do Ensino Médio visando a investigação do processo de aprendizagem dos conceitos estatísticos com o apoio do software. Para a produção dos dados foram utilizados os registros e as falas dos alunos durante a realização das atividades, assim como os vídeos, as fotos, o diário de campo do pesquisador e as entrevistas com os estudantes inspiradas no Método Clínico de Piaget. Em caráter experimental, foi realizado um estudo piloto com quatro estudantes do Ensino Médio cujos resultados serviram de inspiração para reavaliar a proposta metodológica utilizada. No experimento final, foram descritas e analisadas as entrevistas de outros quatro estudantes buscando tecer relações com a base teórica assumida. Entre os resultados produzidos, destaca-se que o “arrastar” dinâmico do GeoGebra proporcionou a abstração e (re)construção dos conceitos estatísticos mediante ao manuseio nos dados expostos no software. Observou-se ainda que os estudantes costumam confundir média, mediana e moda. No entanto, foi no patamar das comparações entre as medidas e das suas ações no GeoGebra que os estudantes tiveram a oportunidade de expor suas ideias, experimentar diferentes distribuições, reorganizar suas estruturas, refletir e abstrair conceitos.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "raciocínio estatístico"
+ ],
+ "ids_duplicados": []
 }

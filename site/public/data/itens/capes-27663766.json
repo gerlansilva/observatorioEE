@@ -1,59 +1,59 @@
 {
-  "id": "capes-27663766",
-  "autor": "Andrea Pavan Perin",
-  "ano": 2019,
-  "tipo": "Tese",
-  "titulo": "Educação Estatística Crítica: um estudo das práticas discentes em um curso de tecnologia",
-  "instituicao": "Universidade Estadual Paulista Júlio de Mesquita Filho ( Rio Claro )",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Maria Lucia Lorenzetti Wodewotzki",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Estatística; Educação Crítica; Modelagem Matemática",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20Cr%C3%ADtica%3A%20um%20estudo%20das%20pr%C3%A1ticas%20discentes%20em%20um%20curso%20de%20tecnologia%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20Cr%C3%ADtica%3A%20um%20estudo%20das%20pr%C3%A1ticas%20discentes%20em%20um%20curso%20de%20tecnologia&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27663766"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "27663766",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Estatística",
-    "Educação Crítica",
-    "Modelagem Matemática"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-27663766.svg",
-  "resumo": "Esta pesquisa investiga as contribuições do ambiente de Modelagem Matemática para o desenvolvimento das competências da Educação Estatística visando a formação de sujeitos críticos. De modo geral, professores enfatizam apenas aspectos técnicos e operacionais da Estatística, propondo atividades desvinculadas da realidade, interesses e problemáticas cotidianas dos estudantes. Esse fato impede que o aluno perceba a forte presença dela na sociedade e explore o desenvolvimento das competências (literacia, raciocínio e pensamento) relacionadas ao ensino dessa ciência. Tais competências centram-se na capacidade do indivíduo ler, interpretar e argumentar criticamente uma informação; trabalhar com as ferramentas estatísticas e perceber relações entre suas ideias ao fazer a leitura de um conjunto de dados; associar dados quantitativos a situações concretas, explicitando seus significados, e conectar modelos matemáticos à natureza contextual em que se inserem. Com base nessas competências e suas características, investiga-se a contribuição da Modelagem Matemática para o desenvolvimento de uma Educação Estatística Crítica. É uma pesquisa qualitativa, de caráter exploratório e descritivo, realizada entre discentes do terceiro ciclo do curso de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São Paulo (FATEC-SP), na cidade de Itapetininga. Os dados foram obtidos no momento da apresentação final dos trabalhos desenvolvidos pelos alunos durante o semestre na disciplina de Estatística Aplicada, a qual foi gravada e transcrita na íntegra. Para organização, interpretação, análise e teorização do material coletado, utilizou-se como metodologia a Análise de Conteúdo. Conclui-se que o ambiente proposto, ao permitir que o estudante vivencie as diferentes fases de uma investigação estatística, contribuiu significativamente para o desenvolvimento das competências relacionadas à Educação Estatística e à Educação Crítica. Ademais, observou-se que as competências da Educação Estatística contêm subjacentes os elementos pertencentes à Educação Crítica. Assim, entendemos que pensar o processo de ensino-aprendizagem com foco no desenvolvimento da literacia, raciocínio e pensamento tem, por sua natureza, implicações no desenvolvimento da competência crítica.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-27663766",
+ "autor": "Andrea Pavan Perin",
+ "ano": 2019,
+ "tipo": "Tese",
+ "titulo": "Educação Estatística Crítica: um estudo das práticas discentes em um curso de tecnologia",
+ "instituicao": "Universidade Estadual Paulista Júlio de Mesquita Filho ( Rio Claro )",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Maria Lucia Lorenzetti Wodewotzki",
+ "programa": "Educação Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Estatística; Educação Crítica; Modelagem Matemática",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20Cr%C3%ADtica%3A%20um%20estudo%20das%20pr%C3%A1ticas%20discentes%20em%20um%20curso%20de%20tecnologia%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20Cr%C3%ADtica%3A%20um%20estudo%20das%20pr%C3%A1ticas%20discentes%20em%20um%20curso%20de%20tecnologia&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27663766"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "27663766",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Estatística",
+  "Educação Crítica",
+  "Modelagem Matemática"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-27663766.svg",
+ "resumo": "Esta pesquisa investiga as contribuições do ambiente de Modelagem Matemática para o desenvolvimento das competências da Educação Estatística visando a formação de sujeitos críticos. De modo geral, professores enfatizam apenas aspectos técnicos e operacionais da Estatística, propondo atividades desvinculadas da realidade, interesses e problemáticas cotidianas dos estudantes. Esse fato impede que o aluno perceba a forte presença dela na sociedade e explore o desenvolvimento das competências (literacia, raciocínio e pensamento) relacionadas ao ensino dessa ciência. Tais competências centram-se na capacidade do indivíduo ler, interpretar e argumentar criticamente uma informação; trabalhar com as ferramentas estatísticas e perceber relações entre suas ideias ao fazer a leitura de um conjunto de dados; associar dados quantitativos a situações concretas, explicitando seus significados, e conectar modelos matemáticos à natureza contextual em que se inserem. Com base nessas competências e suas características, investiga-se a contribuição da Modelagem Matemática para o desenvolvimento de uma Educação Estatística Crítica. É uma pesquisa qualitativa, de caráter exploratório e descritivo, realizada entre discentes do terceiro ciclo do curso de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São Paulo (FATEC-SP), na cidade de Itapetininga. Os dados foram obtidos no momento da apresentação final dos trabalhos desenvolvidos pelos alunos durante o semestre na disciplina de Estatística Aplicada, a qual foi gravada e transcrita na íntegra. Para organização, interpretação, análise e teorização do material coletado, utilizou-se como metodologia a Análise de Conteúdo. Conclui-se que o ambiente proposto, ao permitir que o estudante vivencie as diferentes fases de uma investigação estatística, contribuiu significativamente para o desenvolvimento das competências relacionadas à Educação Estatística e à Educação Crítica. Ademais, observou-se que as competências da Educação Estatística contêm subjacentes os elementos pertencentes à Educação Crítica. Assim, entendemos que pensar o processo de ensino-aprendizagem com foco no desenvolvimento da literacia, raciocínio e pensamento tem, por sua natureza, implicações no desenvolvimento da competência crítica.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": []
 }

@@ -1,61 +1,61 @@
 {
-  "id": "capes-27415200",
-  "autor": "Juliano Turmina",
-  "ano": 2019,
-  "tipo": "Dissertação",
-  "titulo": "A utilização de planilhas eletrônicas no Ensino de probabilidade e estatística no Ensino Fundamental",
-  "instituicao": "Universidade do Estado de Santa Catarina",
-  "cidade": "",
-  "estado": "Santa Catarina",
-  "regiao": "Sul",
-  "orientador": "Elisa Henning",
-  "programa": "ENSINO DE CIÊNCIAS, MATEMÁTICA E TECNOLOGIAS",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Estatística; Planilhas eletrônicas; Ensino Fundamental",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20utiliza%C3%A7%C3%A3o%20de%20planilhas%20eletr%C3%B4nicas%20no%20Ensino%20de%20probabilidade%20e%20estat%C3%ADstica%20no%20Ensino%20Fundamental%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20utiliza%C3%A7%C3%A3o%20de%20planilhas%20eletr%C3%B4nicas%20no%20Ensino%20de%20probabilidade%20e%20estat%C3%ADstica%20no%20Ensino%20Fundamental&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27415200"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "27415200",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Estatística",
-    "Planilhas eletrônicas",
-    "Ensino Fundamental"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-27415200.svg",
-  "resumo": "A Estatística nos dias de hoje é fundamental. Inúmeras são as informações que as mídias digitais e tecnológicas propagam nas redes socias, web sites, jornais, meios de comunicação e plataformas de notícias. As pessoas estão cada vez mais sendo instigadas a utilizarem as mais diversas tecnologias para auxiliar a tomada de decisões. Logo, os sistemas educacionais buscam acompanhar tal desenvolvimento e demanda. No ensino de Estatística as TICs têm se mostrado agradáveis ferramentas de apoio a professores e alunos no processo de ensino aprendizagem. Neste sentido, segundo as vivências do autor e pesquisa realizada na rede municipal de Joinville, desenvolveu-se uma coletânea de atividades para ensino de Probabilidade e Estatística no Ensino Fundamental, envolvendo planilhas eletrônicas. O referencial teórico utilizado foi baseado na Educação Estatística, uso de tecnologias e planilhas eletrônicas em ambientes educacionais. O público alvo foi uma amostra composta de sessenta e um alunos de duas turmas do sétimo ano do Ensino Fundamental. A metodologia utilizada segue os pressupostos de pesquisa ação, na forma qualitativa e quantitativa de cunho interpretativo com auxílio das observações de atividades e processos de ensino, os testes estatísticos exato de Fisher, McNemar e Wilcoxon foram utilizados para análise dos resultados finais. As atividades foram desenvolvidas inicialmente de forma tradicional, através do uso de lápis, borracha, cadernos, livros e, posteriormente, com a utilização do software planilhas eletrônicas, em consonância com uma sequência de procedimentos que facilitassem a aplicação tanto por parte do professor quanto dos alunos. No processo de aplicação do pré-teste percebeu-se que os alunos não possuíam os conhecimentos necessários pertinentes ao cálculo de média aritmética, análise de dados em tabelas e gráficos, além de não conseguirem desenvolver com êxito a representação gráfica de dados. Conforme seu nível de ensino, era de se esperar que os alunos não tivessem todos esses conhecimentos, pois no currículo alguns destes conteúdos são trabalhados a partir do 7º ano do Ensino Fundamental. A moda foi o conceito estatístico mais bem desenvolvido pelos alunos no início das atividades. No decorrer das aplicações, os alunos começaram a compreender o processo de coleta, organização e apresentação de dados em pesquisas diversas. Em seguida, foram instigados a determinar de forma manual e através das planilhas eletrônicas os cálculos pertinentes às medidas de tendência central. Aprenderam a realizar a construção de gráficos, tabelas e percentuais nas planilhas eletrônicas, além de desenvolverem em grupos pesquisas de campo na unidade escolar para aplicação dos conhecimentos adquiridos. A aplicação da coletânea de atividades envolvendo planilhas eletrônica contribuiu para o despertar dos alunos, sua motivação e participação nas aulas de matemática foram notórias, todos queriam aprender Estatística com as planilhas eletrônicas. Na análise de dados, percebeu-se que os alunos obtiveram melhoras em seu rendimento sobre os temas trabalhados. As planilhas eletrônicas se mostram excelentes ferramentas tecnológicas para o ensino de Estatística no Ensino Fundamental, porém apenas a sua utilização não poderá garantir a aprendizagem necessária alusiva aos temas trabalhados. Ao final desta dissertação, o produto educacional estará disponível, os interessados poderão utilizar estas atividades como estratégias de ensino e aprendizagem ou como forma de intervenção e avaliação formativa na prática pedagógica.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística",
-    "ensino de probabilidade"
-  ],
-  "ids_duplicados": []
+ "id": "capes-27415200",
+ "autor": "Juliano Turmina",
+ "ano": 2019,
+ "tipo": "Dissertação",
+ "titulo": "A utilização de planilhas eletrônicas no Ensino de probabilidade e estatística no Ensino Fundamental",
+ "instituicao": "Universidade do Estado de Santa Catarina",
+ "cidade": "",
+ "estado": "Santa Catarina",
+ "regiao": "Sul",
+ "orientador": "Elisa Henning",
+ "programa": "Ensino de Ciências, Matemática e Tecnologias",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Estatística; Planilhas eletrônicas; Ensino Fundamental",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20utiliza%C3%A7%C3%A3o%20de%20planilhas%20eletr%C3%B4nicas%20no%20Ensino%20de%20probabilidade%20e%20estat%C3%ADstica%20no%20Ensino%20Fundamental%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20utiliza%C3%A7%C3%A3o%20de%20planilhas%20eletr%C3%B4nicas%20no%20Ensino%20de%20probabilidade%20e%20estat%C3%ADstica%20no%20Ensino%20Fundamental&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27415200"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "27415200",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Estatística",
+  "Planilhas eletrônicas",
+  "Ensino Fundamental"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-27415200.svg",
+ "resumo": "A Estatística nos dias de hoje é fundamental. Inúmeras são as informações que as mídias digitais e tecnológicas propagam nas redes socias, web sites, jornais, meios de comunicação e plataformas de notícias. As pessoas estão cada vez mais sendo instigadas a utilizarem as mais diversas tecnologias para auxiliar a tomada de decisões. Logo, os sistemas educacionais buscam acompanhar tal desenvolvimento e demanda. No ensino de Estatística as TICs têm se mostrado agradáveis ferramentas de apoio a professores e alunos no processo de ensino aprendizagem. Neste sentido, segundo as vivências do autor e pesquisa realizada na rede municipal de Joinville, desenvolveu-se uma coletânea de atividades para ensino de Probabilidade e Estatística no Ensino Fundamental, envolvendo planilhas eletrônicas. O referencial teórico utilizado foi baseado na Educação Estatística, uso de tecnologias e planilhas eletrônicas em ambientes educacionais. O público alvo foi uma amostra composta de sessenta e um alunos de duas turmas do sétimo ano do Ensino Fundamental. A metodologia utilizada segue os pressupostos de pesquisa ação, na forma qualitativa e quantitativa de cunho interpretativo com auxílio das observações de atividades e processos de ensino, os testes estatísticos exato de Fisher, McNemar e Wilcoxon foram utilizados para análise dos resultados finais. As atividades foram desenvolvidas inicialmente de forma tradicional, através do uso de lápis, borracha, cadernos, livros e, posteriormente, com a utilização do software planilhas eletrônicas, em consonância com uma sequência de procedimentos que facilitassem a aplicação tanto por parte do professor quanto dos alunos. No processo de aplicação do pré-teste percebeu-se que os alunos não possuíam os conhecimentos necessários pertinentes ao cálculo de média aritmética, análise de dados em tabelas e gráficos, além de não conseguirem desenvolver com êxito a representação gráfica de dados. Conforme seu nível de ensino, era de se esperar que os alunos não tivessem todos esses conhecimentos, pois no currículo alguns destes conteúdos são trabalhados a partir do 7º ano do Ensino Fundamental. A moda foi o conceito estatístico mais bem desenvolvido pelos alunos no início das atividades. No decorrer das aplicações, os alunos começaram a compreender o processo de coleta, organização e apresentação de dados em pesquisas diversas. Em seguida, foram instigados a determinar de forma manual e através das planilhas eletrônicas os cálculos pertinentes às medidas de tendência central. Aprenderam a realizar a construção de gráficos, tabelas e percentuais nas planilhas eletrônicas, além de desenvolverem em grupos pesquisas de campo na unidade escolar para aplicação dos conhecimentos adquiridos. A aplicação da coletânea de atividades envolvendo planilhas eletrônica contribuiu para o despertar dos alunos, sua motivação e participação nas aulas de matemática foram notórias, todos queriam aprender Estatística com as planilhas eletrônicas. Na análise de dados, percebeu-se que os alunos obtiveram melhoras em seu rendimento sobre os temas trabalhados. As planilhas eletrônicas se mostram excelentes ferramentas tecnológicas para o ensino de Estatística no Ensino Fundamental, porém apenas a sua utilização não poderá garantir a aprendizagem necessária alusiva aos temas trabalhados. Ao final desta dissertação, o produto educacional estará disponível, os interessados poderão utilizar estas atividades como estratégias de ensino e aprendizagem ou como forma de intervenção e avaliação formativa na prática pedagógica.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística",
+  "ensino de probabilidade"
+ ],
+ "ids_duplicados": []
 }

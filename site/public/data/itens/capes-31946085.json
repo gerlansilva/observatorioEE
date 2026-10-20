@@ -1,61 +1,61 @@
 {
-  "id": "capes-31946085",
-  "autor": "Rubia Juliana Gomes Fernandes",
-  "ano": 2020,
-  "tipo": "Tese",
-  "titulo": "Articulação Entre o Letramento Estatístico de Gal e a Compreensão Gráfica de Curcio para a Formação de Professores no Âmbito da Educação Estatística",
-  "instituicao": "Universidade Tecnológica Federal do Paraná",
-  "cidade": "",
-  "estado": "Paraná",
-  "regiao": "Sul",
-  "orientador": "Guatacara dos Santos Junior",
-  "programa": "ENSINO DE CIÊNCIA E TECNOLOGIA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Estratégia pedagógica; Letramento Estatístico de Gal; Compreensão Gráfica de Curcio; Formação continuada de professores",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22ARTICULA%C3%87%C3%83O%20ENTRE%20O%20LETRAMENTO%20ESTAT%C3%8DSTICO%20DE%20GAL%20E%20A%20COMPREENS%C3%83O%20GR%C3%81FICA%20DE%20CURCIO%20PARA%20A%20FORMA%C3%87%C3%83O%20DE%20PROFESSORES%20NO%20%C3%82MBITO%20DA%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ARTICULA%C3%87%C3%83O%20ENTRE%20O%20LETRAMENTO%20ESTAT%C3%8DSTICO%20DE%20GAL%20E%20A%20COMPREENS%C3%83O%20GR%C3%81FICA%20DE%20CURCIO%20PARA%20A%20FORMA%C3%87%C3%83O%20DE%20PROFESSORES%20NO%20%C3%82MBITO%20DA%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31946085"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "31946085",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Estratégia pedagógica",
-    "Letramento Estatístico de Gal",
-    "Compreensão Gráfica de Curcio",
-    "Formação continuada de professores"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-31946085.svg",
-  "resumo": "Esta tese está vinculada ao Programa de Pós-Graduação em Ensino de Ciência e Tecnologia (PPGECT), da Universidade Tecnológica Federal do Paraná (UTFPR), atrelada ao grupo de pesquisa Material Didático para o Ensino de Probabilidade e Estatística na Educação Básica e Superior. A pesquisa objetiva investigar se a participação de professores dos Anos Finais Fundamental em um curso de formação continuada que articule a Compreensão Gráfica de Curcio (1989) e o Letramento Estatístico de Gal (2002) pode contribuir para o desenvolvimento de uma Educação Estatística mais efetiva. Para atingir o objetivo proposto, as bases teóricas que fundamentam o estudo versam sobre a formação docente na disciplina de Matemática; as diretrizes curriculares nacionais para a formação de professores; os saberes docentes; a Educação Estatística, Compreensão Gráfica e as Competências Estatísticas. Os procedimentos metodológicos utilizados foram sustentados nos conceitos da pesquisa qualitativa. Foi elaborado e implementado um curso de aperfeiçoamento profissional direcionado à Educação Estatística, composto por tarefas de Estatística e Probabilidade, leitura e discussão de artigos científicos, investigação estatística, cuja atividade final foi elaborarem uma atividade de ensino. Os 12 (doze) professores da Rede Pública de Ensino do Estado do Paraná, Brasil, que participaram do curso, são habilitados em Matemática. O curso teve duração de 15 (quinze encontros), de (4) quatro horas cada um. Como instrumento para coleta dos dados, usaram-se as tarefas de Estatística e Probabilidade, as narrativas de aprendizagem e os memoriais descritivos. A análise dos dados coletados foi efetivada à luz da teoria da Análise Textual Discursiva que permitiu a interpretação e compreensão dos registros produzidos pelos professores cursistas. Dentre alguns dos resultados encontrados, destacam-se: a articulação entre o Letramento Estatístico e a Compreensão Gráfica; a relação intrínseca das Competências Estatísticas com a Compreensão Gráfica, vislumbrando o processo de ensino e aprendizagem, pois o curso de aperfeiçoamento profissional realizado permitiu identificar as Competências Estatísticas e gráficas como saberes disciplinares e específicos; a atuação da formadora pode modificar as relações dos professores cursistas com o saber; a discussão reflexiva da importância da aproximação e articulação entre Educação Estatística e a Educação Básica; o desenvolvimento e a manifestação dos saberes profissionais indispensáveis à docência. O desenvolvimento da pesquisa promoveu a elaboração e produção de proposta pedagógica como um produto educacional, que visa a colaborar com o processo de formação continuada dos professores que lecionam a disciplina de Matemática.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "letramento estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-31946085",
+ "autor": "Rubia Juliana Gomes Fernandes",
+ "ano": 2020,
+ "tipo": "Tese",
+ "titulo": "Articulação Entre o Letramento Estatístico de Gal e a Compreensão Gráfica de Curcio para a Formação de Professores no Âmbito da Educação Estatística",
+ "instituicao": "Universidade Tecnológica Federal do Paraná",
+ "cidade": "",
+ "estado": "Paraná",
+ "regiao": "Sul",
+ "orientador": "Guatacara dos Santos Junior",
+ "programa": "Ensino de Ciência e Tecnologia",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Estratégia pedagógica; Letramento Estatístico de Gal; Compreensão Gráfica de Curcio; Formação continuada de professores",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22ARTICULA%C3%87%C3%83O%20ENTRE%20O%20LETRAMENTO%20ESTAT%C3%8DSTICO%20DE%20GAL%20E%20A%20COMPREENS%C3%83O%20GR%C3%81FICA%20DE%20CURCIO%20PARA%20A%20FORMA%C3%87%C3%83O%20DE%20PROFESSORES%20NO%20%C3%82MBITO%20DA%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ARTICULA%C3%87%C3%83O%20ENTRE%20O%20LETRAMENTO%20ESTAT%C3%8DSTICO%20DE%20GAL%20E%20A%20COMPREENS%C3%83O%20GR%C3%81FICA%20DE%20CURCIO%20PARA%20A%20FORMA%C3%87%C3%83O%20DE%20PROFESSORES%20NO%20%C3%82MBITO%20DA%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31946085"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "31946085",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Estratégia pedagógica",
+  "Letramento Estatístico de Gal",
+  "Compreensão Gráfica de Curcio",
+  "Formação continuada de professores"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-31946085.svg",
+ "resumo": "Esta tese está vinculada ao Programa de Pós-Graduação em Ensino de Ciência e Tecnologia (PPGECT), da Universidade Tecnológica Federal do Paraná (UTFPR), atrelada ao grupo de pesquisa Material Didático para o Ensino de Probabilidade e Estatística na Educação Básica e Superior. A pesquisa objetiva investigar se a participação de professores dos Anos Finais Fundamental em um curso de formação continuada que articule a Compreensão Gráfica de Curcio (1989) e o Letramento Estatístico de Gal (2002) pode contribuir para o desenvolvimento de uma Educação Estatística mais efetiva. Para atingir o objetivo proposto, as bases teóricas que fundamentam o estudo versam sobre a formação docente na disciplina de Matemática; as diretrizes curriculares nacionais para a formação de professores; os saberes docentes; a Educação Estatística, Compreensão Gráfica e as Competências Estatísticas. Os procedimentos metodológicos utilizados foram sustentados nos conceitos da pesquisa qualitativa. Foi elaborado e implementado um curso de aperfeiçoamento profissional direcionado à Educação Estatística, composto por tarefas de Estatística e Probabilidade, leitura e discussão de artigos científicos, investigação estatística, cuja atividade final foi elaborarem uma atividade de ensino. Os 12 (doze) professores da Rede Pública de Ensino do Estado do Paraná, Brasil, que participaram do curso, são habilitados em Matemática. O curso teve duração de 15 (quinze encontros), de (4) quatro horas cada um. Como instrumento para coleta dos dados, usaram-se as tarefas de Estatística e Probabilidade, as narrativas de aprendizagem e os memoriais descritivos. A análise dos dados coletados foi efetivada à luz da teoria da Análise Textual Discursiva que permitiu a interpretação e compreensão dos registros produzidos pelos professores cursistas. Dentre alguns dos resultados encontrados, destacam-se: a articulação entre o Letramento Estatístico e a Compreensão Gráfica; a relação intrínseca das Competências Estatísticas com a Compreensão Gráfica, vislumbrando o processo de ensino e aprendizagem, pois o curso de aperfeiçoamento profissional realizado permitiu identificar as Competências Estatísticas e gráficas como saberes disciplinares e específicos; a atuação da formadora pode modificar as relações dos professores cursistas com o saber; a discussão reflexiva da importância da aproximação e articulação entre Educação Estatística e a Educação Básica; o desenvolvimento e a manifestação dos saberes profissionais indispensáveis à docência. O desenvolvimento da pesquisa promoveu a elaboração e produção de proposta pedagógica como um produto educacional, que visa a colaborar com o processo de formação continuada dos professores que lecionam a disciplina de Matemática.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "letramento estatístico"
+ ],
+ "ids_duplicados": []
 }

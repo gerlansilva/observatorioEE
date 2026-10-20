@@ -1,62 +1,62 @@
 {
-  "id": "capes-30001682",
-  "autor": "Ewellen Tenorio de Lima",
-  "ano": 2018,
-  "tipo": "Dissertação",
-  "titulo": "Raciocínios combinatório e probabilístico na EJA: investigando relações",
-  "instituicao": "Universidade Federal de Pernambuco",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Rute Elizabete de Souza Rosa Borba",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Combinatória; Probabilidade; Raciocínio combinatório; Raciocínio probabilístico; Educação de Jovens e Adultos",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Racioc%C3%ADnios%20combinat%C3%B3rio%20e%20probabil%C3%ADstico%20na%20EJA%3A%20investigando%20rela%C3%A7%C3%B5es%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Racioc%C3%ADnios%20combinat%C3%B3rio%20e%20probabil%C3%ADstico%20na%20EJA%3A%20investigando%20rela%C3%A7%C3%B5es&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30001682"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "30001682",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Combinatória",
-    "Probabilidade",
-    "Raciocínio combinatório",
-    "Raciocínio probabilístico",
-    "Educação de Jovens e Adultos"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-30001682.svg",
-  "resumo": "O presente estudo buscou investigar as contribuições que a exploração de problemas combinatórios pode trazer para o raciocínio probabilístico e vice-versa, tendo como foco as relações que se estabelecem entre os conhecimentos da Combinatória e da Probabilidade. O olhar para tais relações foi a principal contribuição do estudo à medida que conceitos referentes a tais áreas da Matemática inserem-se no campo conceitual das estruturas multiplicativas e destaca-se que conceitos de um mesmo campo conceitual possuem estreitas conexões entre si. Dada a incipiência de estudos na área da Educação Matemática voltados para a EJA e as características próprias de seus estudantes, optou-se por realizar a coleta de dados com 24 adultos em diferentes momentos de escolarização: Módulos II, IV e EJA Médio 3. A coleta de dados consistiu na proposição de quatro problemas combinatórios e 16 probabilísticos referentes, respectivamente, às diferentes situações combinatórias e às exigências cognitivas da Probabilidade. Tais problemas foram resolvidos durante entrevistas clínicas individuais e foram organizados em dois tipos de teste, em função da ordem de apresentação desses problemas. O desempenho dos participantes foi diretamente influenciado pelo nível de escolaridade dos mesmos. Destaca-se, no entanto, que tal efeito parece ter sido geral, não sendo, necessariamente, uma consequência do ensino específico de Combinatória e de Probabilidade. O problema combinatório de produto cartesiano foi aquele no qual os participantes obtiveram melhor desempenho, enquanto no problema de combinação o menor desempenho foi observado. As principais dificuldades enfrentadas pelos participantes na resolução dos problemas combinatórios estiveram pautadas na compreensão dos invariantes das distintas situações abordadas, bem como no esgotamento das possibilidades. No que diz respeito aos problemas probabilísticos, o desempenho nos problemas de espaço amostral esteve estreitamente relacionado ao tipo de situação combinatória correspondente, enquanto o desempenho nos problemas que abordaram as demais exigências cognitivas consideradas não foi influenciado pelo tipo de situação combinatória abordada. Dentre esses outros tipos de problema, os de correlação obtiveram melhor desempenho, enquanto as maiores dificuldades foram apresentadas nos problemas de comparação de probabilidades diferentes, pois o caráter proporcional, muitas vezes, não foi levado em consideração pelos participantes. No geral, ao resolver os problemas probabilísticos os participantes do estudo apresentaram dificuldades em justificar adequadamente suas respostas, o que revelou uma compreensão superficial da Probabilidade. A partir das análises realizadas, foi possível perceber, ainda, a existência de contribuições que surgem da resolução de problemas que relacionam Combinatória e Probabilidade. A articulação entre problemas combinatórios e probabilísticos mostrou-se uma abordagem que pode levar os estudantes a reavaliarem as representações simbólicas e estratégias utilizadas, bem como os invariantes dos problemas propostos, articulação que se mostrou mais promissora no teste no qual os problemas combinatórios foram revisitados sob o olhar da Probabilidade. Defende-se, assim, que a articulação entre Combinatória e Probabilidade pode beneficiar o desenvolvimento de ambos os raciocínios em questão na EJA.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "raciocínio combinatório",
-    "raciocínio probabilístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-30001682",
+ "autor": "Ewellen Tenorio de Lima",
+ "ano": 2018,
+ "tipo": "Dissertação",
+ "titulo": "Raciocínios combinatório e probabilístico na EJA: investigando relações",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Rute Elizabete de Souza Rosa Borba",
+ "programa": "Educação Matemática e Tecnológica",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Combinatória; Probabilidade; Raciocínio combinatório; Raciocínio probabilístico; Educação de Jovens e Adultos",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Racioc%C3%ADnios%20combinat%C3%B3rio%20e%20probabil%C3%ADstico%20na%20EJA%3A%20investigando%20rela%C3%A7%C3%B5es%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Racioc%C3%ADnios%20combinat%C3%B3rio%20e%20probabil%C3%ADstico%20na%20EJA%3A%20investigando%20rela%C3%A7%C3%B5es&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30001682"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "30001682",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Combinatória",
+  "Probabilidade",
+  "Raciocínio combinatório",
+  "Raciocínio probabilístico",
+  "Educação de Jovens e Adultos"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-30001682.svg",
+ "resumo": "O presente estudo buscou investigar as contribuições que a exploração de problemas combinatórios pode trazer para o raciocínio probabilístico e vice-versa, tendo como foco as relações que se estabelecem entre os conhecimentos da Combinatória e da Probabilidade. O olhar para tais relações foi a principal contribuição do estudo à medida que conceitos referentes a tais áreas da Matemática inserem-se no campo conceitual das estruturas multiplicativas e destaca-se que conceitos de um mesmo campo conceitual possuem estreitas conexões entre si. Dada a incipiência de estudos na área da Educação Matemática voltados para a EJA e as características próprias de seus estudantes, optou-se por realizar a coleta de dados com 24 adultos em diferentes momentos de escolarização: Módulos II, IV e EJA Médio 3. A coleta de dados consistiu na proposição de quatro problemas combinatórios e 16 probabilísticos referentes, respectivamente, às diferentes situações combinatórias e às exigências cognitivas da Probabilidade. Tais problemas foram resolvidos durante entrevistas clínicas individuais e foram organizados em dois tipos de teste, em função da ordem de apresentação desses problemas. O desempenho dos participantes foi diretamente influenciado pelo nível de escolaridade dos mesmos. Destaca-se, no entanto, que tal efeito parece ter sido geral, não sendo, necessariamente, uma consequência do ensino específico de Combinatória e de Probabilidade. O problema combinatório de produto cartesiano foi aquele no qual os participantes obtiveram melhor desempenho, enquanto no problema de combinação o menor desempenho foi observado. As principais dificuldades enfrentadas pelos participantes na resolução dos problemas combinatórios estiveram pautadas na compreensão dos invariantes das distintas situações abordadas, bem como no esgotamento das possibilidades. No que diz respeito aos problemas probabilísticos, o desempenho nos problemas de espaço amostral esteve estreitamente relacionado ao tipo de situação combinatória correspondente, enquanto o desempenho nos problemas que abordaram as demais exigências cognitivas consideradas não foi influenciado pelo tipo de situação combinatória abordada. Dentre esses outros tipos de problema, os de correlação obtiveram melhor desempenho, enquanto as maiores dificuldades foram apresentadas nos problemas de comparação de probabilidades diferentes, pois o caráter proporcional, muitas vezes, não foi levado em consideração pelos participantes. No geral, ao resolver os problemas probabilísticos os participantes do estudo apresentaram dificuldades em justificar adequadamente suas respostas, o que revelou uma compreensão superficial da Probabilidade. A partir das análises realizadas, foi possível perceber, ainda, a existência de contribuições que surgem da resolução de problemas que relacionam Combinatória e Probabilidade. A articulação entre problemas combinatórios e probabilísticos mostrou-se uma abordagem que pode levar os estudantes a reavaliarem as representações simbólicas e estratégias utilizadas, bem como os invariantes dos problemas propostos, articulação que se mostrou mais promissora no teste no qual os problemas combinatórios foram revisitados sob o olhar da Probabilidade. Defende-se, assim, que a articulação entre Combinatória e Probabilidade pode beneficiar o desenvolvimento de ambos os raciocínios em questão na EJA.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "raciocínio combinatório",
+  "raciocínio probabilístico"
+ ],
+ "ids_duplicados": []
 }

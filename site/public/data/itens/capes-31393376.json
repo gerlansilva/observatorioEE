@@ -1,59 +1,59 @@
 {
-  "id": "capes-31393376",
-  "autor": "Flavia Luiza de Lira",
-  "ano": 2020,
-  "tipo": "Dissertação",
-  "titulo": "Letramento Estatístico na Educação Infantil: analisando possibilidades pedagógicas para o trabalho docente",
-  "instituicao": "Universidade Federal de Pernambuco",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Liliane Maria Teixeira Lima de Carvalho",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Infantil; Letramento Estatístico; Ciclo investigativo",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Letramento%20Estat%C3%ADstico%20na%20Educa%C3%A7%C3%A3o%20Infantil%3A%20analisando%20possibilidades%20pedag%C3%B3gicas%20para%20o%20trabalho%20docente%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Letramento%20Estat%C3%ADstico%20na%20Educa%C3%A7%C3%A3o%20Infantil%3A%20analisando%20possibilidades%20pedag%C3%B3gicas%20para%20o%20trabalho%20docente&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31393376"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "31393376",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Infantil",
-    "Letramento Estatístico",
-    "Ciclo investigativo"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-31393376.svg",
-  "resumo": "A pesquisa objetiva em termos gerais analisar a ampliação de possibilidades pedagógicas para o Letramento Estatístico, por professoras da Educação Infantil, na perspectiva do ciclo investigativo. Em termos específicos busca-se: examinar as orientações referentes ao ensino de Estatística na Educação Infantil nos documentos oficiais do Jaboatão dos Guararapes; identificar como o ensino de Estatística é abordado nas atividades propostas e nas orientações de vivências do livro didático utilizado por professores dessa rede municipal; analisar como professoras da Educação Infantil do Jaboatão dos Guararapes inserem atividades de Estatística em seus planejamentos e vivências com as crianças; promover encontros de formação com as professoras, buscando refletir sobre possibilidades pedagógicas para o Letramento Estatístico na Educação Infantil na perspectiva do ciclo investigativo; e analisar relatos orais e escritos das vivências das professoras com as crianças, após os encontros de formação com reflexões sobre o Letramento Estatístico. O percurso metodológico envolveu análise de documentos que orientam a prática pedagógica no município; entrevista semiestruturada com quatro professoras que trabalham com crianças de 5 anos; e encontros de formação no modelo de oficinas realizadas em contexto de colaboração. Os documentos oficiais do município apresentam limitações quanto à inserção de aspectos relacionados ao Letramento Estatístico. Com relação ao livro didático encontramos trinta atividades associadas a conhecimentos de Estatística, sendo vinte e quatro sobre classificação e seis sobre representação de dados. As professoras possuíam conhecimentos elementares sobre Estatística e não haviam participado de formações continuadas sobre o tema. Os encontros de formação proporcionaram reflexões sobre a importância de ser considerado o universo da criança tanto na escolha da problemática como na recolha, organização, análise e apresentação dos dados. Abordagens interdisciplinares se configuraram como possibilidade pedagógica para o letramento estatístico na Educação Infantil. Concluímos que os encontros de formação ampliaram possibilidades pedagógicas para o Letramento Estatístico na Educação Infantil, na medida em que as professoras promoveram novas aprendizagens e possibilitaram vivências significativas com as crianças no âmbito escolar.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "letramento estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-31393376",
+ "autor": "Flavia Luiza de Lira",
+ "ano": 2020,
+ "tipo": "Dissertação",
+ "titulo": "Letramento Estatístico na Educação Infantil: analisando possibilidades pedagógicas para o trabalho docente",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Liliane Maria Teixeira Lima de Carvalho",
+ "programa": "Educação Matemática e Tecnológica",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Infantil; Letramento Estatístico; Ciclo investigativo",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Letramento%20Estat%C3%ADstico%20na%20Educa%C3%A7%C3%A3o%20Infantil%3A%20analisando%20possibilidades%20pedag%C3%B3gicas%20para%20o%20trabalho%20docente%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Letramento%20Estat%C3%ADstico%20na%20Educa%C3%A7%C3%A3o%20Infantil%3A%20analisando%20possibilidades%20pedag%C3%B3gicas%20para%20o%20trabalho%20docente&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31393376"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "31393376",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Infantil",
+  "Letramento Estatístico",
+  "Ciclo investigativo"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-31393376.svg",
+ "resumo": "A pesquisa objetiva em termos gerais analisar a ampliação de possibilidades pedagógicas para o Letramento Estatístico, por professoras da Educação Infantil, na perspectiva do ciclo investigativo. Em termos específicos busca-se: examinar as orientações referentes ao ensino de Estatística na Educação Infantil nos documentos oficiais do Jaboatão dos Guararapes; identificar como o ensino de Estatística é abordado nas atividades propostas e nas orientações de vivências do livro didático utilizado por professores dessa rede municipal; analisar como professoras da Educação Infantil do Jaboatão dos Guararapes inserem atividades de Estatística em seus planejamentos e vivências com as crianças; promover encontros de formação com as professoras, buscando refletir sobre possibilidades pedagógicas para o Letramento Estatístico na Educação Infantil na perspectiva do ciclo investigativo; e analisar relatos orais e escritos das vivências das professoras com as crianças, após os encontros de formação com reflexões sobre o Letramento Estatístico. O percurso metodológico envolveu análise de documentos que orientam a prática pedagógica no município; entrevista semiestruturada com quatro professoras que trabalham com crianças de 5 anos; e encontros de formação no modelo de oficinas realizadas em contexto de colaboração. Os documentos oficiais do município apresentam limitações quanto à inserção de aspectos relacionados ao Letramento Estatístico. Com relação ao livro didático encontramos trinta atividades associadas a conhecimentos de Estatística, sendo vinte e quatro sobre classificação e seis sobre representação de dados. As professoras possuíam conhecimentos elementares sobre Estatística e não haviam participado de formações continuadas sobre o tema. Os encontros de formação proporcionaram reflexões sobre a importância de ser considerado o universo da criança tanto na escolha da problemática como na recolha, organização, análise e apresentação dos dados. Abordagens interdisciplinares se configuraram como possibilidade pedagógica para o letramento estatístico na Educação Infantil. Concluímos que os encontros de formação ampliaram possibilidades pedagógicas para o Letramento Estatístico na Educação Infantil, na medida em que as professoras promoveram novas aprendizagens e possibilitaram vivências significativas com as crianças no âmbito escolar.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "letramento estatístico"
+ ],
+ "ids_duplicados": []
 }

@@ -1,61 +1,61 @@
 {
-  "id": "capes-37556819",
-  "autor": "Tathiane Goncalves Rodrigues Souza",
-  "ano": 2023,
-  "tipo": "Dissertação",
-  "titulo": "Ensino de Estatística no Ensino Fundamental: Uma Proposta Envolvendo a Educação Matemática Crítica e o Acidente Vascular Cerebral",
-  "instituicao": "Universidade do Estado de Santa Catarina",
-  "cidade": "",
-  "estado": "Santa Catarina",
-  "regiao": "Sul",
-  "orientador": "Rogerio de Aguiar",
-  "programa": "ENSINO DE CIÊNCIAS, MATEMÁTICA E TECNOLOGIAS",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Estatística; Educação Matemática Crítica; AVC; Caderno Pedagógico",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20DE%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20FUNDAMENTAL%3A%20UMA%20PROPOSTA%20ENVOLVENDO%20A%20EDUCA%C3%87%C3%83O%20MATEM%C3%81TICA%20CR%C3%8DTICA%20E%20O%20ACIDENTE%20VASCULAR%20CEREBRAL%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20DE%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20FUNDAMENTAL%3A%20UMA%20PROPOSTA%20ENVOLVENDO%20A%20EDUCA%C3%87%C3%83O%20MATEM%C3%81TICA%20CR%C3%8DTICA%20E%20O%20ACIDENTE%20VASCULAR%20CEREBRAL&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37556819"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "37556819",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Estatística",
-    "Educação Matemática Crítica",
-    "AVC",
-    "Caderno Pedagógico"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-37556819.svg",
-  "resumo": "A presente dissertação aborda uma pesquisa realizada na Universidade do Estado de Santa Catarina, junto ao Programa de Pós-Graduação em Ensino de Ciências, Matemática e Tecnologias, cujo objetivo foi elaborar e aplicar um caderno pedagógico para o ensino de Estatística por meio de Cenários para Investigação abordando o tema AVC e promovendo Educação Estatística articulada com Educação Matemática Crítica. O caderno pedagógico apresentará Cenários para Investigação, especificamente a proposta consiste em desenvolver as habilidades da unidade temática Probabilidade e Estatística com textos informativos sobre acidente vascular cerebral e Estatística. A pesquisa possui natureza qualitativa-exploratória e seguirá os seguintes procedimentos: estabelecimento do referencial teórico, mapeamento de trabalhos relacionados a Educação Estatística e a Educação Matemática Crítica, pesquisa e criação de atividades para o nono ano do ensino fundamental envolvendo dados do acidente vascular cerebral e tratamento estatístico, aplicação do caderno pedagógico em uma sala de aula do ensino regular, coleta e análise de dados. O desenvolvimento junto com os estudantes em sala de aula seguiu o referencial da Educação Matemática Crítica de modo a conscientizar os alunos sobre os danos causados pelo acidente vascular cerebral e as maneiras de se prevenir dessa patologia. No que diz respeito aos conceitos e procedimentos, percebe-se que a estratégia metodológica aplicada, por meio do Produto Educacional, pode beneficiar significativamente o processo de ensino e aprendizagem, quanto à apropriação, desenvolvimento e ampliação dos conteúdos essenciais de Estatística e Probabilidade nos anos finais do Ensino Fundamental. Diante do cenário descrito, o produto educacional é um caderno pedagógico que poderá servir como recurso didático para que outros professores o utilizem em sala de aula, além de proporcionar um material diferenciado para o ensino da Estatística com dados referentes ao acidente vascular cerebral na perspectiva da Educação Matemática Crítica.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-37556819",
+ "autor": "Tathiane Goncalves Rodrigues Souza",
+ "ano": 2023,
+ "tipo": "Dissertação",
+ "titulo": "Ensino de Estatística no Ensino Fundamental: Uma Proposta Envolvendo a Educação Matemática Crítica e o Acidente Vascular Cerebral",
+ "instituicao": "Universidade do Estado de Santa Catarina",
+ "cidade": "",
+ "estado": "Santa Catarina",
+ "regiao": "Sul",
+ "orientador": "Rogerio de Aguiar",
+ "programa": "Ensino de Ciências, Matemática e Tecnologias",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Estatística; Educação Matemática Crítica; AVC; Caderno Pedagógico",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20DE%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20FUNDAMENTAL%3A%20UMA%20PROPOSTA%20ENVOLVENDO%20A%20EDUCA%C3%87%C3%83O%20MATEM%C3%81TICA%20CR%C3%8DTICA%20E%20O%20ACIDENTE%20VASCULAR%20CEREBRAL%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20DE%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20FUNDAMENTAL%3A%20UMA%20PROPOSTA%20ENVOLVENDO%20A%20EDUCA%C3%87%C3%83O%20MATEM%C3%81TICA%20CR%C3%8DTICA%20E%20O%20ACIDENTE%20VASCULAR%20CEREBRAL&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37556819"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "37556819",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Estatística",
+  "Educação Matemática Crítica",
+  "AVC",
+  "Caderno Pedagógico"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-37556819.svg",
+ "resumo": "A presente dissertação aborda uma pesquisa realizada na Universidade do Estado de Santa Catarina, junto ao Programa de Pós-Graduação em Ensino de Ciências, Matemática e Tecnologias, cujo objetivo foi elaborar e aplicar um caderno pedagógico para o ensino de Estatística por meio de Cenários para Investigação abordando o tema AVC e promovendo Educação Estatística articulada com Educação Matemática Crítica. O caderno pedagógico apresentará Cenários para Investigação, especificamente a proposta consiste em desenvolver as habilidades da unidade temática Probabilidade e Estatística com textos informativos sobre acidente vascular cerebral e Estatística. A pesquisa possui natureza qualitativa-exploratória e seguirá os seguintes procedimentos: estabelecimento do referencial teórico, mapeamento de trabalhos relacionados a Educação Estatística e a Educação Matemática Crítica, pesquisa e criação de atividades para o nono ano do ensino fundamental envolvendo dados do acidente vascular cerebral e tratamento estatístico, aplicação do caderno pedagógico em uma sala de aula do ensino regular, coleta e análise de dados. O desenvolvimento junto com os estudantes em sala de aula seguiu o referencial da Educação Matemática Crítica de modo a conscientizar os alunos sobre os danos causados pelo acidente vascular cerebral e as maneiras de se prevenir dessa patologia. No que diz respeito aos conceitos e procedimentos, percebe-se que a estratégia metodológica aplicada, por meio do Produto Educacional, pode beneficiar significativamente o processo de ensino e aprendizagem, quanto à apropriação, desenvolvimento e ampliação dos conteúdos essenciais de Estatística e Probabilidade nos anos finais do Ensino Fundamental. Diante do cenário descrito, o produto educacional é um caderno pedagógico que poderá servir como recurso didático para que outros professores o utilizem em sala de aula, além de proporcionar um material diferenciado para o ensino da Estatística com dados referentes ao acidente vascular cerebral na perspectiva da Educação Matemática Crítica.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

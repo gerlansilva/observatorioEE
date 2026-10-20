@@ -1,62 +1,62 @@
 {
-  "id": "capes-35802435",
-  "autor": "Paulo Jorge Dias Filho",
-  "ano": 2021,
-  "tipo": "Dissertação",
-  "titulo": "Mobile learning como instrumento para o processo de ensino de estatística nos anos finais do ensino fundamental",
-  "instituicao": "Universidade Tecnológica Federal do Paraná",
-  "cidade": "",
-  "estado": "Paraná",
-  "regiao": "Sul",
-  "orientador": "Leonardo Sturion",
-  "programa": "ENSINO DE MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Tecnologia educacional; Aplicativos móveis; Smartphones; Estatística - Estudo e ensino",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Mobile%20learning%20como%20instrumento%20para%20o%20processo%20de%20ensino%20de%20estat%C3%ADstica%20nos%20anos%20finais%20do%20ensino%20fundamental%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Mobile%20learning%20como%20instrumento%20para%20o%20processo%20de%20ensino%20de%20estat%C3%ADstica%20nos%20anos%20finais%20do%20ensino%20fundamental&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35802435"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "35802435",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Tecnologia educacional",
-    "Aplicativos móveis",
-    "Smartphones",
-    "Estatística - Estudo e ensino"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-35802435.svg",
-  "resumo": "A geração atual tem vivenciado um contexto em que as tecnologias ocupam um vasto espaço no âmbito social, acadêmico e profissional do ser humano, independentemente de idade e classe. Desta forma, é preciso repensar na ação docente, sendo papel do professor aproximar tais instrumentos tecnológicos ao cotidiano escolar do aluno, para que de fato, aconteça a sua inserção em sala de aula, oportunizando assim, a promoção de um ensino com a utilização das Tecnologias Educacionais Digitais (TEDs) aos estudantes. Pensando nisso, este trabalho tem por objetivo investigar práticas educacionais para o ensino de estatística nos anos finais do ensino fundamental mediante a utilização de aplicativos para dispositivos móveis caracterizados pelo método Mobile Learning (M­Learning). O estudo trata­se de uma pesquisa quanti/qualitativa de cunho descritivo dividida em quanto etapas. Inicialmente, foi realizado um levantamento bibliográfico de obras na literatura que buscam evidenciar a importância do ensino de estatística, a utilização das Tecnologias Educacionais Digitais na ação docente e o método de ensino Mobile Learning (Aprendizagem Móvel). Foram desenvolvidos estudos e pesquisas com estudantes de três turmas de 6º ano do ensino fundamental da rede pública via Formulário Google sobre a Acessibilidade às Tecnologias Digitais e suas experiências com o ensino remoto. Para a inserção das TEDs, foram realizadas aplicações de atividades de estatística por meio da plataforma de jogo online Kahoot! utilizando o serviço de comunicação por vídeo Google Meet. Como proposta final desta pesquisa, foi desenvolvido um Produto Educacional sendo um aplicativo para smartphones denominado “Estatística Divertida”, elaborado a partir do mapeamento sistemático dos aplicativos para dispositivos móveis disponíveis para downloads a partir da palavra de busca “Estatística” na loja online Google Play Store direcionado ao sistema operacional Android, a fim de analisar as ferramentas já existentes que tenham como objetivo auxiliar no processo de ensino de estatística nos anos finais do ensino fundamental. A partir das práticas desenvolvidas, observou­-se que essas podem auxiliar no processo de ensino dos alunos ao facilitar as abordagens de conceitos, retomada de conteúdos e desenvolvimento de atividades de uma forma dinâmica, buscando promover um aprendizado significativo aos estudantes.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de estatística"
-  ],
-  "ids_duplicados": [
-    "40336895"
-  ]
+ "id": "capes-35802435",
+ "autor": "Paulo Jorge Dias Filho",
+ "ano": 2021,
+ "tipo": "Dissertação",
+ "titulo": "Mobile learning como instrumento para o processo de ensino de estatística nos anos finais do ensino fundamental",
+ "instituicao": "Universidade Tecnológica Federal do Paraná",
+ "cidade": "",
+ "estado": "Paraná",
+ "regiao": "Sul",
+ "orientador": "Leonardo Sturion",
+ "programa": "Ensino de Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Tecnologia educacional; Aplicativos móveis; Smartphones; Estatística - Estudo e ensino",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Mobile%20learning%20como%20instrumento%20para%20o%20processo%20de%20ensino%20de%20estat%C3%ADstica%20nos%20anos%20finais%20do%20ensino%20fundamental%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Mobile%20learning%20como%20instrumento%20para%20o%20processo%20de%20ensino%20de%20estat%C3%ADstica%20nos%20anos%20finais%20do%20ensino%20fundamental&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/35802435"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "35802435",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Tecnologia educacional",
+  "Aplicativos móveis",
+  "Smartphones",
+  "Estatística - Estudo e ensino"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-35802435.svg",
+ "resumo": "A geração atual tem vivenciado um contexto em que as tecnologias ocupam um vasto espaço no âmbito social, acadêmico e profissional do ser humano, independentemente de idade e classe. Desta forma, é preciso repensar na ação docente, sendo papel do professor aproximar tais instrumentos tecnológicos ao cotidiano escolar do aluno, para que de fato, aconteça a sua inserção em sala de aula, oportunizando assim, a promoção de um ensino com a utilização das Tecnologias Educacionais Digitais (TEDs) aos estudantes. Pensando nisso, este trabalho tem por objetivo investigar práticas educacionais para o ensino de estatística nos anos finais do ensino fundamental mediante a utilização de aplicativos para dispositivos móveis caracterizados pelo método Mobile Learning (M­Learning). O estudo trata­se de uma pesquisa quanti/qualitativa de cunho descritivo dividida em quanto etapas. Inicialmente, foi realizado um levantamento bibliográfico de obras na literatura que buscam evidenciar a importância do ensino de estatística, a utilização das Tecnologias Educacionais Digitais na ação docente e o método de ensino Mobile Learning (Aprendizagem Móvel). Foram desenvolvidos estudos e pesquisas com estudantes de três turmas de 6º ano do ensino fundamental da rede pública via Formulário Google sobre a Acessibilidade às Tecnologias Digitais e suas experiências com o ensino remoto. Para a inserção das TEDs, foram realizadas aplicações de atividades de estatística por meio da plataforma de jogo online Kahoot! utilizando o serviço de comunicação por vídeo Google Meet. Como proposta final desta pesquisa, foi desenvolvido um Produto Educacional sendo um aplicativo para smartphones denominado “Estatística Divertida”, elaborado a partir do mapeamento sistemático dos aplicativos para dispositivos móveis disponíveis para downloads a partir da palavra de busca “Estatística” na loja online Google Play Store direcionado ao sistema operacional Android, a fim de analisar as ferramentas já existentes que tenham como objetivo auxiliar no processo de ensino de estatística nos anos finais do ensino fundamental. A partir das práticas desenvolvidas, observou­-se que essas podem auxiliar no processo de ensino dos alunos ao facilitar as abordagens de conceitos, retomada de conteúdos e desenvolvimento de atividades de uma forma dinâmica, buscando promover um aprendizado significativo aos estudantes.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de estatística"
+ ],
+ "ids_duplicados": [
+  "40336895"
+ ]
 }

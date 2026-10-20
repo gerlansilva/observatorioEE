@@ -1,59 +1,59 @@
 {
-  "id": "capes-31393365",
-  "autor": "Marcilia Elane do Nascimento Pontes",
-  "ano": 2020,
-  "tipo": "Dissertação",
-  "titulo": "Aprendizagem de Gráficos com e Sem Uso do Excel por Alunos do 5º Ano Ensino Fundamental",
-  "instituicao": "Universidade Federal de Pernambuco",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Gilda Lisboa Guimaraes",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "estatística; anos iniciais de escolarização; Excel; gráficos de barras",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22APRENDIZAGEM%20DE%20GR%C3%81FICOS%20COM%20E%20SEM%20USO%20DO%20EXCEL%20POR%20ALUNOS%20DO%205%C2%BA%20ANO%20ENSINO%20FUNDAMENTAL%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=APRENDIZAGEM%20DE%20GR%C3%81FICOS%20COM%20E%20SEM%20USO%20DO%20EXCEL%20POR%20ALUNOS%20DO%205%C2%BA%20ANO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31393365"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "31393365",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "estatística",
-    "anos iniciais de escolarização",
-    "Excel",
-    "gráficos de barras"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-31393365.svg",
-  "resumo": "Esta pesquisa teve como objetivo investigar a aprendizagem de alunos do 5º ano do Ensino Fundamental em relação à compreensão na construção de gráficos a partir de tabelas com auxílio ou não do programa Excel. Com a intenção de alcançar o objetivo proposto, foi desenvolvida uma pesquisa experimental com um estudo de intervenção, com quatro turmas de alunos do 5º ano do Ensino Fundamental de duas escolas do município do Paulista, Pernambuco. A fundamentação teórica baseia-se em autores que abordam o ensino da Estatística tendo como perspectiva o Letramento Estatístico (Gal, 2002). Além disso, nas orientações propostas pela Base Nacional Comum Curricular (BNCC, 2018) em relação a aprendizagem da Estatística nos anos iniciais do Ensino Fundamental. Para compreender o uso das tecnologias da informação e comunicação no ensino da Estatística, desenvolver a compreensão dos conceitos e a análise dos dados utilizou-se as perspectivas de Ben-Zvi e Garfield (2004) e Borba (2014). Inicialmente os alunos participaram de um pré-teste com duas questões contendo tabelas para a representação dos dados em um gráfico de barras, utilizando como recurso o lápis e papel. Na intervenção de ensino, dividimos as turmas em dois grupo, o Grupo 1 (G1) construiu a representação gráfica utilizando como recurso o lápis e papel; o Grupo 2 (G2) construiu a representação gráfica utilizando o software Excel. A intervenção de ensino foi desenvolvida utilizando atividades que apresentavam tabelas com entrada simples e dupla entrada para o registro do gráfico de barras simples e de barras duplas. Analisando o desempenho dos alunos no pós-teste, foi possível obter avanços quantitativos e qualitativos em relação a representação dos dados em um gráfico de barras. O G1 (lápis e papel) demonstrou um maior avanço em relação ao G2 (Excel). Uma possível explicação para o melhor desempenho do G1 pode estar relacionada com a necessidade do Grupo 2 ter realizado a intervenção de ensino com o software Excel e o pós-teste com lápis e papel, esta transferência da representação em meio eletrônico para a representação escrita pode ter dificultado o desempenho do G2, ou seja, a aprendizagem com utilização do software e a resolução do pós-teste em lápis e papel. Conclui-se que é possível o trabalho com a construção de gráficos a partir dos dados apresentados em tabelas desde os anos iniciais como promoção do Letramento Estatístico tanto com lápis e papel como utilizando o Excel. Além disso, essa pesquisa poderá contribuir para a reflexão sobre como mediar o ensino de Estatística e suas diferentes representações nos anos iniciais do Ensino Fundamental.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "coleta expandida (plural/vocabulário)"
-  ]
+ "id": "capes-31393365",
+ "autor": "Marcilia Elane do Nascimento Pontes",
+ "ano": 2020,
+ "tipo": "Dissertação",
+ "titulo": "Aprendizagem de Gráficos com e Sem Uso do Excel por Alunos do 5º Ano Ensino Fundamental",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Gilda Lisboa Guimaraes",
+ "programa": "Educação Matemática e Tecnológica",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "estatística; anos iniciais de escolarização; Excel; gráficos de barras",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22APRENDIZAGEM%20DE%20GR%C3%81FICOS%20COM%20E%20SEM%20USO%20DO%20EXCEL%20POR%20ALUNOS%20DO%205%C2%BA%20ANO%20ENSINO%20FUNDAMENTAL%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=APRENDIZAGEM%20DE%20GR%C3%81FICOS%20COM%20E%20SEM%20USO%20DO%20EXCEL%20POR%20ALUNOS%20DO%205%C2%BA%20ANO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/31393365"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "31393365",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "estatística",
+  "anos iniciais de escolarização",
+  "Excel",
+  "gráficos de barras"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-31393365.svg",
+ "resumo": "Esta pesquisa teve como objetivo investigar a aprendizagem de alunos do 5º ano do Ensino Fundamental em relação à compreensão na construção de gráficos a partir de tabelas com auxílio ou não do programa Excel. Com a intenção de alcançar o objetivo proposto, foi desenvolvida uma pesquisa experimental com um estudo de intervenção, com quatro turmas de alunos do 5º ano do Ensino Fundamental de duas escolas do município do Paulista, Pernambuco. A fundamentação teórica baseia-se em autores que abordam o ensino da Estatística tendo como perspectiva o Letramento Estatístico (Gal, 2002). Além disso, nas orientações propostas pela Base Nacional Comum Curricular (BNCC, 2018) em relação a aprendizagem da Estatística nos anos iniciais do Ensino Fundamental. Para compreender o uso das tecnologias da informação e comunicação no ensino da Estatística, desenvolver a compreensão dos conceitos e a análise dos dados utilizou-se as perspectivas de Ben-Zvi e Garfield (2004) e Borba (2014). Inicialmente os alunos participaram de um pré-teste com duas questões contendo tabelas para a representação dos dados em um gráfico de barras, utilizando como recurso o lápis e papel. Na intervenção de ensino, dividimos as turmas em dois grupo, o Grupo 1 (G1) construiu a representação gráfica utilizando como recurso o lápis e papel; o Grupo 2 (G2) construiu a representação gráfica utilizando o software Excel. A intervenção de ensino foi desenvolvida utilizando atividades que apresentavam tabelas com entrada simples e dupla entrada para o registro do gráfico de barras simples e de barras duplas. Analisando o desempenho dos alunos no pós-teste, foi possível obter avanços quantitativos e qualitativos em relação a representação dos dados em um gráfico de barras. O G1 (lápis e papel) demonstrou um maior avanço em relação ao G2 (Excel). Uma possível explicação para o melhor desempenho do G1 pode estar relacionada com a necessidade do Grupo 2 ter realizado a intervenção de ensino com o software Excel e o pós-teste com lápis e papel, esta transferência da representação em meio eletrônico para a representação escrita pode ter dificultado o desempenho do G2, ou seja, a aprendizagem com utilização do software e a resolução do pós-teste em lápis e papel. Conclui-se que é possível o trabalho com a construção de gráficos a partir dos dados apresentados em tabelas desde os anos iniciais como promoção do Letramento Estatístico tanto com lápis e papel como utilizando o Excel. Além disso, essa pesquisa poderá contribuir para a reflexão sobre como mediar o ensino de Estatística e suas diferentes representações nos anos iniciais do Ensino Fundamental.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "coleta expandida (plural/vocabulário)"
+ ]
 }

@@ -1,62 +1,62 @@
 {
-  "id": "capes-27406412",
-  "autor": "Linimar Aguiar Fernandes",
-  "ano": 2017,
-  "tipo": "Dissertação",
-  "titulo": "Um Estudo sobre o Ensino de Estatística nas Prisões",
-  "instituicao": "Universidade Tecnológica Federal do Paraná",
-  "cidade": "",
-  "estado": "Paraná",
-  "regiao": "Sul",
-  "orientador": "Zenaide de Fatima Dante Correia Rocha",
-  "programa": "ENSINO DE MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Ensino; Estatística; Educação; Prisões; Produto Educacional",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Um%20Estudo%20sobre%20o%20Ensino%20de%20Estat%C3%ADstica%20nas%20Pris%C3%B5es%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Um%20Estudo%20sobre%20o%20Ensino%20de%20Estat%C3%ADstica%20nas%20Pris%C3%B5es&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27406412"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "27406412",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Ensino",
-    "Estatística",
-    "Educação",
-    "Prisões",
-    "Produto Educacional"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-27406412.svg",
-  "resumo": "É fato que o sistema prisional brasileiro se encontra com inúmeras dificuldades, dentre elas a superlotação, falta de efetivo, estruturas precárias e o não cumprimento com efetividade de algumas das leis de execução penal como, por exemplo, a de número 7.210 de 11 de julho de 1984, que, em seu art. IV, trata do direito à educação ao preso. Com uma população carcerária crescendo 7% ao ano, segundo o último censo realizado em 2014 pelo Departamento Penitenciário Nacional e Conselho Nacional de Justiça, o Brasil ocupa a 4º posição no mundo em número de pessoas aprisionadas atingindo um montante de 622.202 presos. Porém, apenas 13% têm algum acesso à educação básica. Diante dessa perspectiva, este trabalho tomou como objetivo aplicar e validar um produto educacional tendo como proposta o ensino de estatística básica com o intuito de minimizar a demanda da educação nos presídios e proporcionar acesso ao ensino para os apenados por meio de estudos dentro da própria cela. De natureza qualitativa, a pesquisa iniciou-se com a participação de seis presos de Ensino Médio e, em seguida, com mais 36 presos de Ensino Fundamental, totalizando 42. O local da pesquisa foi o interior de 6 celas compartilhadas por 7 detentos cada, localizadas na Penitenciária Estadual de Londrina II, em cada cela foi escolhido um preso com a função de tutor das atividades apresentas. Utilizou-se como aporte teórico Charlot, Bondía, Foucault, Freire, Ribeiro e Silva; com foco nas especificidades de ensino em uma realidade prisional e no cotidiano do preso, a fim de elucidar a questão de pesquisa que investigou como um estudo de estatística básica pode contribuir para a disseminação do ensino de Matemática nas unidades prisionais. Para balizar à análise dos dados referente ao planejamento, aplicação e validação de uma proposta, que configura o produto educacional desta pesquisa de mestrado profissional, elencam-se três eixos organizacionais: qual o interesse dos alunos em aprender estatística nos presídios, quem são esses alunos e como ensinar estatística básica na própria cela. A análise dos resultados mostrou que é possível tanto expandir o acesso ao ensino nos presídios como propor um material que estimule a reflexão e o planejamento da própria vida do aluno. Da validação do produto educacional é possível inferir que há potencial para o ensino de Matemática no espaço prisional, tendo em vista o respeito às especificidades do presídio e a contextualização do conteúdo de estatística, em consideração às multifaces identitárias que ali se encontram, somando-se às oportunidades de acesso ao preso de estudarem dentro de suas celas, o que configurou na situação em foco um processo educativo promissor que poderá ter continuidade face ao tempo de pena desses alunos.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-27406412",
+ "autor": "Linimar Aguiar Fernandes",
+ "ano": 2017,
+ "tipo": "Dissertação",
+ "titulo": "Um Estudo sobre o Ensino de Estatística nas Prisões",
+ "instituicao": "Universidade Tecnológica Federal do Paraná",
+ "cidade": "",
+ "estado": "Paraná",
+ "regiao": "Sul",
+ "orientador": "Zenaide de Fatima Dante Correia Rocha",
+ "programa": "Ensino de Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Ensino; Estatística; Educação; Prisões; Produto Educacional",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Um%20Estudo%20sobre%20o%20Ensino%20de%20Estat%C3%ADstica%20nas%20Pris%C3%B5es%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Um%20Estudo%20sobre%20o%20Ensino%20de%20Estat%C3%ADstica%20nas%20Pris%C3%B5es&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27406412"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "27406412",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Ensino",
+  "Estatística",
+  "Educação",
+  "Prisões",
+  "Produto Educacional"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-27406412.svg",
+ "resumo": "É fato que o sistema prisional brasileiro se encontra com inúmeras dificuldades, dentre elas a superlotação, falta de efetivo, estruturas precárias e o não cumprimento com efetividade de algumas das leis de execução penal como, por exemplo, a de número 7.210 de 11 de julho de 1984, que, em seu art. IV, trata do direito à educação ao preso. Com uma população carcerária crescendo 7% ao ano, segundo o último censo realizado em 2014 pelo Departamento Penitenciário Nacional e Conselho Nacional de Justiça, o Brasil ocupa a 4º posição no mundo em número de pessoas aprisionadas atingindo um montante de 622.202 presos. Porém, apenas 13% têm algum acesso à educação básica. Diante dessa perspectiva, este trabalho tomou como objetivo aplicar e validar um produto educacional tendo como proposta o ensino de estatística básica com o intuito de minimizar a demanda da educação nos presídios e proporcionar acesso ao ensino para os apenados por meio de estudos dentro da própria cela. De natureza qualitativa, a pesquisa iniciou-se com a participação de seis presos de Ensino Médio e, em seguida, com mais 36 presos de Ensino Fundamental, totalizando 42. O local da pesquisa foi o interior de 6 celas compartilhadas por 7 detentos cada, localizadas na Penitenciária Estadual de Londrina II, em cada cela foi escolhido um preso com a função de tutor das atividades apresentas. Utilizou-se como aporte teórico Charlot, Bondía, Foucault, Freire, Ribeiro e Silva; com foco nas especificidades de ensino em uma realidade prisional e no cotidiano do preso, a fim de elucidar a questão de pesquisa que investigou como um estudo de estatística básica pode contribuir para a disseminação do ensino de Matemática nas unidades prisionais. Para balizar à análise dos dados referente ao planejamento, aplicação e validação de uma proposta, que configura o produto educacional desta pesquisa de mestrado profissional, elencam-se três eixos organizacionais: qual o interesse dos alunos em aprender estatística nos presídios, quem são esses alunos e como ensinar estatística básica na própria cela. A análise dos resultados mostrou que é possível tanto expandir o acesso ao ensino nos presídios como propor um material que estimule a reflexão e o planejamento da própria vida do aluno. Da validação do produto educacional é possível inferir que há potencial para o ensino de Matemática no espaço prisional, tendo em vista o respeito às especificidades do presídio e a contextualização do conteúdo de estatística, em consideração às multifaces identitárias que ali se encontram, somando-se às oportunidades de acesso ao preso de estudarem dentro de suas celas, o que configurou na situação em foco um processo educativo promissor que poderá ter continuidade face ao tempo de pena desses alunos.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

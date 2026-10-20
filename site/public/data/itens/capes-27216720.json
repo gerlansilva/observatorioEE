@@ -1,61 +1,61 @@
 {
-  "id": "capes-27216720",
-  "autor": "Eliana Claudia Mayumi Ishikawa",
-  "ano": 2018,
-  "tipo": "Tese",
-  "titulo": "Objeto Virtual de Aprendizagem Colaborativa (Collabora): Estudo na Disciplina de Probabilidade e Estatística no Ensino Superior",
-  "instituicao": "Universidade Tecnológica Federal do Paraná",
-  "cidade": "",
-  "estado": "Paraná",
-  "regiao": "Sul",
-  "orientador": "Guatacara dos Santos Junior",
-  "programa": "ENSINO DE CIÊNCIA E TECNOLOGIA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Aprendizagem Colaborativa Apoiada por Computador (CSCL); Objetos de Aprendizagem; Probabilidade e Estatística; Tecnologia da Informação e Comunicação (TIC)",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22OBJETO%20VIRTUAL%20DE%20APRENDIZAGEM%20COLABORATIVA%20%28COLLABORA%29%3A%20ESTUDO%20NA%20DISCIPLINA%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20SUPERIOR%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=OBJETO%20VIRTUAL%20DE%20APRENDIZAGEM%20COLABORATIVA%20%28COLLABORA%29%3A%20ESTUDO%20NA%20DISCIPLINA%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20SUPERIOR&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27216720"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "27216720",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Aprendizagem Colaborativa Apoiada por Computador (CSCL)",
-    "Objetos de Aprendizagem",
-    "Probabilidade e Estatística",
-    "Tecnologia da Informação e Comunicação (TIC)"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-27216720.svg",
-  "resumo": "Esta tese analisou as contribuições que o objeto virtual de aprendizagem colaborativa, denominado Collabora, pode trazer no processo de ensino e aprendizagem na disciplina de Probabilidade e Estatística no Ensino Superior. O objeto foi desenvolvido usando o FrameVOC, que é um framework criado neste trabalho com a finalidade de permitir o desenvolvimento de objetos virtuais de aprendizagem colaborativa. A base para a análise foi obtida por meio dos registros dos alunos no chat do Collabora, das observações e anotações realizadas durante as aulas e nas atividades presenciais (diário de bordo e atividades presenciais em grupo). Para análise dos dados coletados, utilizou-se a Análise Textual Discursiva (ATD) com o auxílio da ferramenta MAXQDA para apoiar o processo de categorização e unitarização. Foram criadas duas categorias: Aprendizagem Colaborativa (CG1) e Aprendizagem na disciplina de Probabilidade e Estatística (CG2). Com a análise da CG1, conclui-se que o objeto educacional proposto atendeu as principias áreas-chaves da CSCL. Foi possível constatar que houve troca de ideias por meio do Collabora, os alunos demonstraram formação de equipe, definição e planejamento dos objetivos, acompanhamento das atividades e verificação de: resultados, prazo, escopo e recursos, além de demonstração de negociação entre os pares e votação de propostas. Em relação à CG2, observou-se que o Collabora apoiou e estendeu a aprendizagem das aulas da disciplina de Probabilidade e Estatística à medida que os alunos participaram e realizaram intercâmbio de informações e saberes a respeito dos conteúdos estatísticos e probabilísticos. Os alunos se mostraram capazes de questionar a validade de representações e interpretações elaboradas por outros, estimulando uma participação mais investigativa, reflexiva e crítica, corroborando com a importância e efetividade da aprendizagem colaborativa e da CSCL como estratégias de aprendizado.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de estatística",
-    "ensino de probabilidade"
-  ],
-  "ids_duplicados": []
+ "id": "capes-27216720",
+ "autor": "Eliana Claudia Mayumi Ishikawa",
+ "ano": 2018,
+ "tipo": "Tese",
+ "titulo": "Objeto Virtual de Aprendizagem Colaborativa (Collabora): Estudo na Disciplina de Probabilidade e Estatística no Ensino Superior",
+ "instituicao": "Universidade Tecnológica Federal do Paraná",
+ "cidade": "",
+ "estado": "Paraná",
+ "regiao": "Sul",
+ "orientador": "Guatacara dos Santos Junior",
+ "programa": "Ensino de Ciência e Tecnologia",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Aprendizagem Colaborativa Apoiada por Computador (CSCL); Objetos de Aprendizagem; Probabilidade e Estatística; Tecnologia da Informação e Comunicação (TIC)",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22OBJETO%20VIRTUAL%20DE%20APRENDIZAGEM%20COLABORATIVA%20%28COLLABORA%29%3A%20ESTUDO%20NA%20DISCIPLINA%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20SUPERIOR%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=OBJETO%20VIRTUAL%20DE%20APRENDIZAGEM%20COLABORATIVA%20%28COLLABORA%29%3A%20ESTUDO%20NA%20DISCIPLINA%20DE%20PROBABILIDADE%20E%20ESTAT%C3%8DSTICA%20NO%20ENSINO%20SUPERIOR&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27216720"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "27216720",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Aprendizagem Colaborativa Apoiada por Computador (CSCL)",
+  "Objetos de Aprendizagem",
+  "Probabilidade e Estatística",
+  "Tecnologia da Informação e Comunicação (TIC)"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-27216720.svg",
+ "resumo": "Esta tese analisou as contribuições que o objeto virtual de aprendizagem colaborativa, denominado Collabora, pode trazer no processo de ensino e aprendizagem na disciplina de Probabilidade e Estatística no Ensino Superior. O objeto foi desenvolvido usando o FrameVOC, que é um framework criado neste trabalho com a finalidade de permitir o desenvolvimento de objetos virtuais de aprendizagem colaborativa. A base para a análise foi obtida por meio dos registros dos alunos no chat do Collabora, das observações e anotações realizadas durante as aulas e nas atividades presenciais (diário de bordo e atividades presenciais em grupo). Para análise dos dados coletados, utilizou-se a Análise Textual Discursiva (ATD) com o auxílio da ferramenta MAXQDA para apoiar o processo de categorização e unitarização. Foram criadas duas categorias: Aprendizagem Colaborativa (CG1) e Aprendizagem na disciplina de Probabilidade e Estatística (CG2). Com a análise da CG1, conclui-se que o objeto educacional proposto atendeu as principias áreas-chaves da CSCL. Foi possível constatar que houve troca de ideias por meio do Collabora, os alunos demonstraram formação de equipe, definição e planejamento dos objetivos, acompanhamento das atividades e verificação de: resultados, prazo, escopo e recursos, além de demonstração de negociação entre os pares e votação de propostas. Em relação à CG2, observou-se que o Collabora apoiou e estendeu a aprendizagem das aulas da disciplina de Probabilidade e Estatística à medida que os alunos participaram e realizaram intercâmbio de informações e saberes a respeito dos conteúdos estatísticos e probabilísticos. Os alunos se mostraram capazes de questionar a validade de representações e interpretações elaboradas por outros, estimulando uma participação mais investigativa, reflexiva e crítica, corroborando com a importância e efetividade da aprendizagem colaborativa e da CSCL como estratégias de aprendizado.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de estatística",
+  "ensino de probabilidade"
+ ],
+ "ids_duplicados": []
 }

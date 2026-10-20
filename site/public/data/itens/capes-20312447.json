@@ -1,57 +1,57 @@
 {
-  "id": "capes-20312447",
-  "autor": "Maria de Jesus Gomes da Cunha",
-  "ano": 2015,
-  "tipo": "Dissertação",
-  "titulo": "Elaboração de Problemas Combinatórios por Professores de Matemática do Ensino Médio",
-  "instituicao": "Universidade Federal de Pernambuco",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Cristiane Azevedo dos Santos",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "de problemas. Combinatória. Situações. Invariantes. Ensino Médio.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22ELABORA%C3%87%C3%83O%20DE%20PROBLEMAS%20COMBINAT%C3%93RIOS%20POR%20PROFESSORES%20DE%20MATEM%C3%81TICA%20DO%20ENSINO%20M%C3%89DIO%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ELABORA%C3%87%C3%83O%20DE%20PROBLEMAS%20COMBINAT%C3%93RIOS%20POR%20PROFESSORES%20DE%20MATEM%C3%81TICA%20DO%20ENSINO%20M%C3%89DIO&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20312447"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "20312447",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "de problemas. Combinatória. Situações. Invariantes. Ensino Médio."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-20312447.svg",
-  "resumo": "O presente estudo buscou analisar o domínio conceitual de professores sobre os invariantes de problemas combinatórios a partir da elaboração de problemas e teve como objetivos específicos: identificar dificuldades e possibilidades de professores ao elaborarem problemas envolvendo o raciocínio combinatório e verificar se os professores aplicam os invariantes presentes nos problemas de permutação, arranjo, combinação e produto cartesiano. Como aporte teórico utilizamos a Teoria dos Campos Conceituais, defendida por Vergnaud e o domínio dos conhecimentos necessários ao professor de Matemática, segundo Ball, Thames e Phelps. Participaram desse estudo sete professores licenciados em Matemática, que lecionam na rede Estadual de Pernambuco. Os professores responderam individualmente uma entrevista semiestruturada que foi audiogravada e durou em média 80 minutos. Na entrevista solicitamos informações para traçarmos o perfil dos professores, pedimos que os mesmos elaborassem problemas a partir das situações de cada tipo de problema combinatório e a partir dos invariantes do conceito. Buscamos, a partir dos problemas elaborados, informações sobre os conhecimentos dos professores em relação ao ensino, à aprendizagem, ao currículo e solicitamos que eles transformassem um tipo de problema em outro. Em relação à análise do perfil, foi evidenciado que todos participaram de cursos de formação continuada, tais como Especialização ou Mestrado, porém este aspecto não influenciou para que houvesse uma equivalência nos acertos, ou seja, as dificuldades e possibilidades apresentadas pelos docentes parecem não ter relação com o tipo de curso na formação continuada. Quanto ao processo de elaboração de problemas combinatórios, os professores elaboraram corretamente mais a partir das situações do que dos invariantes do conceito, exceto nos problemas de combinação. Parece-nos que os invariantes do conceito apresentados não foram suficientemente claros para a elaboração de problemas combinatórios, pois alguns professores fizeram relação com conceitos diferentes da Combinatória. Além disso, percebemos que os problemas elaborados são parecidos com os encontrados nos livros didáticos. Tiveram também dificuldade em diferenciar os invariantes de ordenação e escolha de elementos, de contextualizar e de estruturar os problemas combinatórios. Os problemas de permutação e arranjo foram o que os professores mais elaboraram corretamente, seguidos de combinação e produto cartesiano. Em relação aos conhecimentos dos professores sobre as semelhanças entre os problemas, constatamos que alguns indicaram serem problemas de contagem, conjuntos e subconjuntos, agrupamento e multiplicação. Sobre as diferenças, indicaram as particularidades, a forma de agrupar os elementos, de estrutura de cada tipo de problema e a ordenação e repetição de elementos. Quanto ao conhecimento relacionado ao currículo, a maioria dos professores reconheceu o 2º ano do Ensino Médio como ano oficial para trabalhar a Combinatória, mas também indicaram que o raciocínio combinatório pode ser trabalhado nos anos iniciais e finais do Ensino Fundamental. Indicaram que elaborar problemas combinatórios é mais difícil do que resolver, devido aos aspectos conceituais e pedagógicos, apenas um participante discordou. Evidenciaram que nos problemas combinatórios os alunos deveriam saber: interpretar, perceber as particularidades de cada tipo de problema e saber usar a fórmula adequada. Por fim, ao refletirmos sobre as transformações, ficou evidente que os professores que tiveram dificuldade de elaborar as transformações de problemas combinatórios foram os que não perceberam os invariantes do conceito e as particularidades de cada tipo de problema. Concluímos que o processo de elaboração de problemas combinatórios ajuda o professor a refletir sobre os conceitos envolvidos nas diferentes situações relacionadas à Combinatória, sobre os aspectos pedagógicos e a respeito do currículo",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de combinatória"
-  ],
-  "ids_duplicados": []
+ "id": "capes-20312447",
+ "autor": "Maria de Jesus Gomes da Cunha",
+ "ano": 2015,
+ "tipo": "Dissertação",
+ "titulo": "Elaboração de Problemas Combinatórios por Professores de Matemática do Ensino Médio",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Cristiane Azevedo dos Santos",
+ "programa": "Educação Matemática e Tecnológica",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "de problemas. Combinatória. Situações. Invariantes. Ensino Médio.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22ELABORA%C3%87%C3%83O%20DE%20PROBLEMAS%20COMBINAT%C3%93RIOS%20POR%20PROFESSORES%20DE%20MATEM%C3%81TICA%20DO%20ENSINO%20M%C3%89DIO%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ELABORA%C3%87%C3%83O%20DE%20PROBLEMAS%20COMBINAT%C3%93RIOS%20POR%20PROFESSORES%20DE%20MATEM%C3%81TICA%20DO%20ENSINO%20M%C3%89DIO&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20312447"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "20312447",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "de problemas. Combinatória. Situações. Invariantes. Ensino Médio."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-20312447.svg",
+ "resumo": "O presente estudo buscou analisar o domínio conceitual de professores sobre os invariantes de problemas combinatórios a partir da elaboração de problemas e teve como objetivos específicos: identificar dificuldades e possibilidades de professores ao elaborarem problemas envolvendo o raciocínio combinatório e verificar se os professores aplicam os invariantes presentes nos problemas de permutação, arranjo, combinação e produto cartesiano. Como aporte teórico utilizamos a Teoria dos Campos Conceituais, defendida por Vergnaud e o domínio dos conhecimentos necessários ao professor de Matemática, segundo Ball, Thames e Phelps. Participaram desse estudo sete professores licenciados em Matemática, que lecionam na rede Estadual de Pernambuco. Os professores responderam individualmente uma entrevista semiestruturada que foi audiogravada e durou em média 80 minutos. Na entrevista solicitamos informações para traçarmos o perfil dos professores, pedimos que os mesmos elaborassem problemas a partir das situações de cada tipo de problema combinatório e a partir dos invariantes do conceito. Buscamos, a partir dos problemas elaborados, informações sobre os conhecimentos dos professores em relação ao ensino, à aprendizagem, ao currículo e solicitamos que eles transformassem um tipo de problema em outro. Em relação à análise do perfil, foi evidenciado que todos participaram de cursos de formação continuada, tais como Especialização ou Mestrado, porém este aspecto não influenciou para que houvesse uma equivalência nos acertos, ou seja, as dificuldades e possibilidades apresentadas pelos docentes parecem não ter relação com o tipo de curso na formação continuada. Quanto ao processo de elaboração de problemas combinatórios, os professores elaboraram corretamente mais a partir das situações do que dos invariantes do conceito, exceto nos problemas de combinação. Parece-nos que os invariantes do conceito apresentados não foram suficientemente claros para a elaboração de problemas combinatórios, pois alguns professores fizeram relação com conceitos diferentes da Combinatória. Além disso, percebemos que os problemas elaborados são parecidos com os encontrados nos livros didáticos. Tiveram também dificuldade em diferenciar os invariantes de ordenação e escolha de elementos, de contextualizar e de estruturar os problemas combinatórios. Os problemas de permutação e arranjo foram o que os professores mais elaboraram corretamente, seguidos de combinação e produto cartesiano. Em relação aos conhecimentos dos professores sobre as semelhanças entre os problemas, constatamos que alguns indicaram serem problemas de contagem, conjuntos e subconjuntos, agrupamento e multiplicação. Sobre as diferenças, indicaram as particularidades, a forma de agrupar os elementos, de estrutura de cada tipo de problema e a ordenação e repetição de elementos. Quanto ao conhecimento relacionado ao currículo, a maioria dos professores reconheceu o 2º ano do Ensino Médio como ano oficial para trabalhar a Combinatória, mas também indicaram que o raciocínio combinatório pode ser trabalhado nos anos iniciais e finais do Ensino Fundamental. Indicaram que elaborar problemas combinatórios é mais difícil do que resolver, devido aos aspectos conceituais e pedagógicos, apenas um participante discordou. Evidenciaram que nos problemas combinatórios os alunos deveriam saber: interpretar, perceber as particularidades de cada tipo de problema e saber usar a fórmula adequada. Por fim, ao refletirmos sobre as transformações, ficou evidente que os professores que tiveram dificuldade de elaborar as transformações de problemas combinatórios foram os que não perceberam os invariantes do conceito e as particularidades de cada tipo de problema. Concluímos que o processo de elaboração de problemas combinatórios ajuda o professor a refletir sobre os conceitos envolvidos nas diferentes situações relacionadas à Combinatória, sobre os aspectos pedagógicos e a respeito do currículo",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de combinatória"
+ ],
+ "ids_duplicados": []
 }

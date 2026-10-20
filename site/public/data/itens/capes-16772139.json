@@ -1,56 +1,56 @@
 {
-  "id": "capes-16772139",
-  "autor": "Julio Cesar G de Oliveira",
-  "ano": 2015,
-  "tipo": "Dissertação",
-  "titulo": "Currículos de Matemática no Ensino Médio: Significados que professores atribuem a uma Trajetória Hipotética de Aprendizagem desenvolvida à luz da Educação Matemática Crítica",
-  "instituicao": "Fundação Universidade Federal de Mato Grosso do Sul",
-  "cidade": "",
-  "estado": "Mato Grosso do Sul",
-  "regiao": "Centro-Oeste",
-  "orientador": "Marcio Antonio da Silva",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Matemática. Formação de Professores. Sequência de Ensino. Livro Didático. Medidas Estatísticas.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Curr%C3%ADculos%20de%20Matem%C3%A1tica%20no%20Ensino%20M%C3%A9dio%3A%20Significados%20que%20professores%20atribuem%20a%20uma%20Trajet%C3%B3ria%20Hipot%C3%A9tica%20de%20Aprendizagem%20desenvolvida%20%C3%A0%20luz%20da%20Educa%C3%A7%C3%A3o%20Matem%C3%A1tica%20Cr%C3%ADtica%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Curr%C3%ADculos%20de%20Matem%C3%A1tica%20no%20Ensino%20M%C3%A9dio%3A%20Significados%20que%20professores%20atribuem%20a%20uma%20Trajet%C3%B3ria%20Hipot%C3%A9tica%20de%20Aprendizagem%20desenvolvida%20%C3%A0%20luz%20da%20Educa%C3%A7%C3%A3o%20Matem%C3%A1tica%20Cr%C3%ADtica&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/16772139"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "16772139",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Matemática. Formação de Professores. Sequência de Ensino. Livro Didático. Medidas Estatísticas."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-16772139.svg",
-  "resumo": "Esta pesquisa foi desenvolvida na linha de Formação de Professores do Programa de Pós-Graduação em Educação Matemática da Universidade Federal do Mato Grosso do Sul (UFMS). Teve por objetivo investigar significados que professores de Matemática do Ensino Médio atribuem a uma proposta desenvolvida à luz da Educação Matemática Crítica (EMC), ao se engajarem no desenvolvimento, aplicação e avaliação de uma Trajetória Hipotética de Aprendizagem (THA) de Medidas Estatísticas. Trata-se de um estudo de cunho estritamente qualitativo, no qual, para a produção dos dados, recorremos à: entrevistas, filmagens e observação de aulas de duas professoras que se engajaram no desenvolvimento da proposta de ensino. Para nossas análises, nos inspiramos em alguns pressupostos da análise de vídeo, proposta por Powell, Francisco e Maher (2004). A pesquisa possui como base teórica discussões acerca do que vem a ser significado na perspectiva dos Estudos Culturais. Apresenta, ainda, algumas reflexões quanto aos pressupostos da EMC, além disso, adotamos, para a formulação da nossa proposta de ensino, a concepção de Trajetória Hipotética de Aprendizagem de Martin Simon (1995). Construímos, a partir das análises dos eventos críticos das professoras, três códigos, enfatizando a relação das docentes com a proposta de ensino, quais sejam: (i) preocupação com o tempo, (ii) valorização das técnicas e (iii) estranhamento. Por intermédio deles, inferimos que as professoras atribuíram alguns significados para a proposta desenvolvida à luz da EMC, a saber: é uma atividade estranha, que incomoda, que gera angústia, que estressa, que necessita de vários conhecimentos para ser realizada. Este estudo aponta para dois grandes e importantes fatores que estariam relacionados com a produção destes significados, quais sejam: a formação do professor que, em geral, diverge do que propõe a EMC e a demanda da organização curricular proposta para o Ensino Médio, que segue um modelo enciclopédico em relação aos conteúdos. Concluímos, então, que é preciso pensar em novas possibilidades para formar o professor, assim como apresentar uma nova maneira de organizar o currículo prescrito, quando consideramos o desenvolvimento de trabalhos na perspectiva da EMC.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "coleta expandida (plural/vocabulário)"
-  ]
+ "id": "capes-16772139",
+ "autor": "Julio Cesar G de Oliveira",
+ "ano": 2015,
+ "tipo": "Dissertação",
+ "titulo": "Currículos de Matemática no Ensino Médio: Significados que professores atribuem a uma Trajetória Hipotética de Aprendizagem desenvolvida à luz da Educação Matemática Crítica",
+ "instituicao": "Fundação Universidade Federal de Mato Grosso do Sul",
+ "cidade": "",
+ "estado": "Mato Grosso do Sul",
+ "regiao": "Centro-Oeste",
+ "orientador": "Marcio Antonio da Silva",
+ "programa": "Educação Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Matemática. Formação de Professores. Sequência de Ensino. Livro Didático. Medidas Estatísticas.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Curr%C3%ADculos%20de%20Matem%C3%A1tica%20no%20Ensino%20M%C3%A9dio%3A%20Significados%20que%20professores%20atribuem%20a%20uma%20Trajet%C3%B3ria%20Hipot%C3%A9tica%20de%20Aprendizagem%20desenvolvida%20%C3%A0%20luz%20da%20Educa%C3%A7%C3%A3o%20Matem%C3%A1tica%20Cr%C3%ADtica%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Curr%C3%ADculos%20de%20Matem%C3%A1tica%20no%20Ensino%20M%C3%A9dio%3A%20Significados%20que%20professores%20atribuem%20a%20uma%20Trajet%C3%B3ria%20Hipot%C3%A9tica%20de%20Aprendizagem%20desenvolvida%20%C3%A0%20luz%20da%20Educa%C3%A7%C3%A3o%20Matem%C3%A1tica%20Cr%C3%ADtica&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/16772139"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "16772139",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Matemática. Formação de Professores. Sequência de Ensino. Livro Didático. Medidas Estatísticas."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-16772139.svg",
+ "resumo": "Esta pesquisa foi desenvolvida na linha de Formação de Professores do Programa de Pós-Graduação em Educação Matemática da Universidade Federal do Mato Grosso do Sul (UFMS). Teve por objetivo investigar significados que professores de Matemática do Ensino Médio atribuem a uma proposta desenvolvida à luz da Educação Matemática Crítica (EMC), ao se engajarem no desenvolvimento, aplicação e avaliação de uma Trajetória Hipotética de Aprendizagem (THA) de Medidas Estatísticas. Trata-se de um estudo de cunho estritamente qualitativo, no qual, para a produção dos dados, recorremos à: entrevistas, filmagens e observação de aulas de duas professoras que se engajaram no desenvolvimento da proposta de ensino. Para nossas análises, nos inspiramos em alguns pressupostos da análise de vídeo, proposta por Powell, Francisco e Maher (2004). A pesquisa possui como base teórica discussões acerca do que vem a ser significado na perspectiva dos Estudos Culturais. Apresenta, ainda, algumas reflexões quanto aos pressupostos da EMC, além disso, adotamos, para a formulação da nossa proposta de ensino, a concepção de Trajetória Hipotética de Aprendizagem de Martin Simon (1995). Construímos, a partir das análises dos eventos críticos das professoras, três códigos, enfatizando a relação das docentes com a proposta de ensino, quais sejam: (i) preocupação com o tempo, (ii) valorização das técnicas e (iii) estranhamento. Por intermédio deles, inferimos que as professoras atribuíram alguns significados para a proposta desenvolvida à luz da EMC, a saber: é uma atividade estranha, que incomoda, que gera angústia, que estressa, que necessita de vários conhecimentos para ser realizada. Este estudo aponta para dois grandes e importantes fatores que estariam relacionados com a produção destes significados, quais sejam: a formação do professor que, em geral, diverge do que propõe a EMC e a demanda da organização curricular proposta para o Ensino Médio, que segue um modelo enciclopédico em relação aos conteúdos. Concluímos, então, que é preciso pensar em novas possibilidades para formar o professor, assim como apresentar uma nova maneira de organizar o currículo prescrito, quando consideramos o desenvolvimento de trabalhos na perspectiva da EMC.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "coleta expandida (plural/vocabulário)"
+ ]
 }

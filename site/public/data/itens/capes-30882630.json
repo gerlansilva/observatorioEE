@@ -1,62 +1,62 @@
 {
-  "id": "capes-30882630",
-  "autor": "Sezilia Elizabete Rodrigues Garcia Olmo de Toledo",
-  "ano": 2018,
-  "tipo": "Dissertação",
-  "titulo": "Desenvolvimento do raciocínio estocástico de crianças de um segundo ano do ensino fundamental",
-  "instituicao": "Universidade Cruzeiro do Sul",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Celi Aparecida Espasandin Lopes",
-  "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Matemática; Infância; Educação Estatística; Estocástica; Probabilidade; Jogos.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Desenvolvimento%20do%20racioc%C3%ADnio%20estoc%C3%A1stico%20de%20crian%C3%A7as%20de%20um%20segundo%20ano%20do%20ensino%20fundamental%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Desenvolvimento%20do%20racioc%C3%ADnio%20estoc%C3%A1stico%20de%20crian%C3%A7as%20de%20um%20segundo%20ano%20do%20ensino%20fundamental&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30882630"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "30882630",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Matemática",
-    "Infância",
-    "Educação Estatística",
-    "Estocástica",
-    "Probabilidade",
-    "Jogos."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-30882630.svg",
-  "resumo": "Este estudo busca compreender como ocorre o aprendizado da Estocástica em uma turma do segundo ano do Ensino Fundamental. Para tanto, visa-se: verificar os indícios do desenvolvimento do raciocínio estocástico; dar voz às crianças e ouvi-las durante o processo de ensino e aprendizagem da Estocástica; descrever e compreender os indícios de constituição das distintas formas de raciocínio combinatório, probabilístico e estatístico apresentadas pelas crianças; e analisar os procedimentos dos alunos na resolução de um problema matemático. Diante de tais intenções, buscamos responder à seguinte questão: quais indícios do raciocínio estocástico são expressos nas narrativas orais e nos registros escritos das crianças de uma turma do segundo ano do Ensino Fundamental? Para tanto, utiliza-se uma abordagem de natureza qualitativa na modalidade de Estudo de Caso. Com essa perspectiva, desenvolveu-se um conjunto de atividades em uma classe de uma escola municipal de Campinas. Procurou-se observar o desenvolvimento dos raciocínios probabilísticos, combinatórios e estatísticos por meio de um processo de ensino em que se deu voz aos alunos. A construção de dados aconteceu por meio da observação, da escrita de diário de campo, da filmagem e dos registros escritos e orais das crianças sobre as atividades desenvolvidas. Analisou-se os procedimentos dos alunos na resolução de problemas matemáticos a partir de uma coletânea com quatro jogos: Corrida de cavalos, Travessia do rio, Sorteio de tampinhas e Jogo de boliche. Posteriormente, tais atividades foram organizadas e publicadas como produto educacional decorrente desta dissertação. Os resultados revelaram que as crianças passaram a ter um olhar mais atento para as apostas em jogos com dados, a reconhecer gráfico de colunas e a usar termos pertinentes à Estatística, como chance, probabilidade, impossível, provável.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-30882630",
+ "autor": "Sezilia Elizabete Rodrigues Garcia Olmo de Toledo",
+ "ano": 2018,
+ "tipo": "Dissertação",
+ "titulo": "Desenvolvimento do raciocínio estocástico de crianças de um segundo ano do ensino fundamental",
+ "instituicao": "Universidade Cruzeiro do Sul",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Celi Aparecida Espasandin Lopes",
+ "programa": "Ensino de Ciências e Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Matemática; Infância; Educação Estatística; Estocástica; Probabilidade; Jogos.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Desenvolvimento%20do%20racioc%C3%ADnio%20estoc%C3%A1stico%20de%20crian%C3%A7as%20de%20um%20segundo%20ano%20do%20ensino%20fundamental%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Desenvolvimento%20do%20racioc%C3%ADnio%20estoc%C3%A1stico%20de%20crian%C3%A7as%20de%20um%20segundo%20ano%20do%20ensino%20fundamental&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30882630"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "30882630",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Matemática",
+  "Infância",
+  "Educação Estatística",
+  "Estocástica",
+  "Probabilidade",
+  "Jogos."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-30882630.svg",
+ "resumo": "Este estudo busca compreender como ocorre o aprendizado da Estocástica em uma turma do segundo ano do Ensino Fundamental. Para tanto, visa-se: verificar os indícios do desenvolvimento do raciocínio estocástico; dar voz às crianças e ouvi-las durante o processo de ensino e aprendizagem da Estocástica; descrever e compreender os indícios de constituição das distintas formas de raciocínio combinatório, probabilístico e estatístico apresentadas pelas crianças; e analisar os procedimentos dos alunos na resolução de um problema matemático. Diante de tais intenções, buscamos responder à seguinte questão: quais indícios do raciocínio estocástico são expressos nas narrativas orais e nos registros escritos das crianças de uma turma do segundo ano do Ensino Fundamental? Para tanto, utiliza-se uma abordagem de natureza qualitativa na modalidade de Estudo de Caso. Com essa perspectiva, desenvolveu-se um conjunto de atividades em uma classe de uma escola municipal de Campinas. Procurou-se observar o desenvolvimento dos raciocínios probabilísticos, combinatórios e estatísticos por meio de um processo de ensino em que se deu voz aos alunos. A construção de dados aconteceu por meio da observação, da escrita de diário de campo, da filmagem e dos registros escritos e orais das crianças sobre as atividades desenvolvidas. Analisou-se os procedimentos dos alunos na resolução de problemas matemáticos a partir de uma coletânea com quatro jogos: Corrida de cavalos, Travessia do rio, Sorteio de tampinhas e Jogo de boliche. Posteriormente, tais atividades foram organizadas e publicadas como produto educacional decorrente desta dissertação. Os resultados revelaram que as crianças passaram a ter um olhar mais atento para as apostas em jogos com dados, a reconhecer gráfico de colunas e a usar termos pertinentes à Estatística, como chance, probabilidade, impossível, provável.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": []
 }

@@ -1,62 +1,62 @@
 {
-  "id": "capes-21343780",
-  "autor": "Juliana Maria Schivani Alves",
-  "ano": 2016,
-  "tipo": "Dissertação",
-  "titulo": "Dos Mínimos Quadrados à Regressão Linear: Atividades Históricas sobre Função Afim e Estatística Usando Planilhas Eletrônicas",
-  "instituicao": "Universidade Federal do Rio Grande do Norte",
-  "cidade": "",
-  "estado": "Rio Grande do Norte",
-  "regiao": "Nordeste",
-  "orientador": "Giselle Costa de Sousa",
-  "programa": "ENSINO DE CIÊNCIAS NATURAIS E MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Atividades Históricas; Ensino de Estatística; Ensino de Função Afim; História da Matemática; Informática para a Educação Básica.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22DOS%20M%C3%8DNIMOS%20QUADRADOS%20%C3%80%20REGRESS%C3%83O%20LINEAR%3A%20ATIVIDADES%20HIST%C3%93RICAS%20SOBRE%20FUN%C3%87%C3%83O%20AFIM%20E%20ESTAT%C3%8DSTICA%20USANDO%20PLANILHAS%20ELETR%C3%94NICAS%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=DOS%20M%C3%8DNIMOS%20QUADRADOS%20%C3%80%20REGRESS%C3%83O%20LINEAR%3A%20ATIVIDADES%20HIST%C3%93RICAS%20SOBRE%20FUN%C3%87%C3%83O%20AFIM%20E%20ESTAT%C3%8DSTICA%20USANDO%20PLANILHAS%20ELETR%C3%94NICAS&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21343780"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "21343780",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Atividades Históricas",
-    "Ensino de Estatística",
-    "Ensino de Função Afim",
-    "História da Matemática",
-    "Informática para a Educação Básica."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-21343780.svg",
-  "resumo": "Esta pesquisa tem o objetivo de construir atividades pautadas na História da Matemática, executadas por meio da Investigação Matemática e das Tecnologias de Informação e Comunicação para abordar, de forma contextualizada, os conceitos de Função Afim e Estatística no Ensino Médio. Para tanto, fundamenta-se no contexto histórico de Adrien-Marie Legendre (1752-1833), sua criação do Método dos Mínimos Quadrados (1805); Francis Galton (1822-1911) e seus experimentos que originaram a Regressão Linear (1875). A partir desta pesquisa bibliográfica, dos momentos históricos selecionados e dos resultados alcançados, este trabalho propõe e valida uma sequência de atividades para ser usada na primeira série do Ensino Médio. Esta sequência é composta de duas atividades históricas investigativas auxiliadas por um software de planilhas eletrônicas. A primeira atividade proposta recria, com os alunos, o experimento de Galton acerca do estudo comparativo das estaturas de pais e filhos. Os estudantes coletaram dados e os analisaram à medida que foram diferenciando função de relação, tipos de variáveis, coeficientes linear e angular, crescimento da função e, aprendendo alguns conceitos de Estatística básica, explorando o software. A segunda atividade objetiva aplicar os conceitos históricos abordados anteriormente para fazer um estudo comparativo das medidas corporais e de roupas, calçados e acessórios. Nesta última atividade, os alunos investigaram, em seus dados reais, situações de Funções Injetoras, Sobrejetoras e Bijetoras, além de diferenciarem domínio de imagem, variáveis de coeficientes numéricos e fazerem estimativas das funções encontradas. O uso do recurso tecnológico provocou mais motivação em estudar os conceitos matemáticos abordados. Além disso, reduziu o tempo da construção dos gráficos, proporcionando mais espaço para os alunos investigarem as questões apresentadas. Aliado à História da Matemática, estimulou o interesse e criatividade dos alunos em realizarem as atividades investigativas propostas. Toda essa pesquisa qualitativa obteve como resultado o produto educacional constituído das atividades realizadas, com sugestões e dicas para o professor que deseje aplicá-lo em suas aulas.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-21343780",
+ "autor": "Juliana Maria Schivani Alves",
+ "ano": 2016,
+ "tipo": "Dissertação",
+ "titulo": "Dos Mínimos Quadrados à Regressão Linear: Atividades Históricas sobre Função Afim e Estatística Usando Planilhas Eletrônicas",
+ "instituicao": "Universidade Federal do Rio Grande do Norte",
+ "cidade": "",
+ "estado": "Rio Grande do Norte",
+ "regiao": "Nordeste",
+ "orientador": "Giselle Costa de Sousa",
+ "programa": "Ensino de Ciências Naturais e Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Atividades Históricas; Ensino de Estatística; Ensino de Função Afim; História da Matemática; Informática para a Educação Básica.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22DOS%20M%C3%8DNIMOS%20QUADRADOS%20%C3%80%20REGRESS%C3%83O%20LINEAR%3A%20ATIVIDADES%20HIST%C3%93RICAS%20SOBRE%20FUN%C3%87%C3%83O%20AFIM%20E%20ESTAT%C3%8DSTICA%20USANDO%20PLANILHAS%20ELETR%C3%94NICAS%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=DOS%20M%C3%8DNIMOS%20QUADRADOS%20%C3%80%20REGRESS%C3%83O%20LINEAR%3A%20ATIVIDADES%20HIST%C3%93RICAS%20SOBRE%20FUN%C3%87%C3%83O%20AFIM%20E%20ESTAT%C3%8DSTICA%20USANDO%20PLANILHAS%20ELETR%C3%94NICAS&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21343780"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "21343780",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Atividades Históricas",
+  "Ensino de Estatística",
+  "Ensino de Função Afim",
+  "História da Matemática",
+  "Informática para a Educação Básica."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-21343780.svg",
+ "resumo": "Esta pesquisa tem o objetivo de construir atividades pautadas na História da Matemática, executadas por meio da Investigação Matemática e das Tecnologias de Informação e Comunicação para abordar, de forma contextualizada, os conceitos de Função Afim e Estatística no Ensino Médio. Para tanto, fundamenta-se no contexto histórico de Adrien-Marie Legendre (1752-1833), sua criação do Método dos Mínimos Quadrados (1805); Francis Galton (1822-1911) e seus experimentos que originaram a Regressão Linear (1875). A partir desta pesquisa bibliográfica, dos momentos históricos selecionados e dos resultados alcançados, este trabalho propõe e valida uma sequência de atividades para ser usada na primeira série do Ensino Médio. Esta sequência é composta de duas atividades históricas investigativas auxiliadas por um software de planilhas eletrônicas. A primeira atividade proposta recria, com os alunos, o experimento de Galton acerca do estudo comparativo das estaturas de pais e filhos. Os estudantes coletaram dados e os analisaram à medida que foram diferenciando função de relação, tipos de variáveis, coeficientes linear e angular, crescimento da função e, aprendendo alguns conceitos de Estatística básica, explorando o software. A segunda atividade objetiva aplicar os conceitos históricos abordados anteriormente para fazer um estudo comparativo das medidas corporais e de roupas, calçados e acessórios. Nesta última atividade, os alunos investigaram, em seus dados reais, situações de Funções Injetoras, Sobrejetoras e Bijetoras, além de diferenciarem domínio de imagem, variáveis de coeficientes numéricos e fazerem estimativas das funções encontradas. O uso do recurso tecnológico provocou mais motivação em estudar os conceitos matemáticos abordados. Além disso, reduziu o tempo da construção dos gráficos, proporcionando mais espaço para os alunos investigarem as questões apresentadas. Aliado à História da Matemática, estimulou o interesse e criatividade dos alunos em realizarem as atividades investigativas propostas. Toda essa pesquisa qualitativa obteve como resultado o produto educacional constituído das atividades realizadas, com sugestões e dicas para o professor que deseje aplicá-lo em suas aulas.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

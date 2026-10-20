@@ -1,62 +1,62 @@
 {
-  "id": "capes-42843997",
-  "autor": "Eslome Gando Citanela Bicicleta",
-  "ano": 2024,
-  "tipo": "Tese",
-  "titulo": "Estatística no Ensino Primário de Angola no período de 2002 a 2020: saberes do ensino e da formação",
-  "instituicao": "Universidade Federal de Mato Grosso do Sul",
-  "cidade": "",
-  "estado": "Mato Grosso do Sul",
-  "regiao": "Centro-Oeste",
-  "orientador": "Edilene Simoes Costa dos Santos",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "História da Educação Matemática; Saberes a ensinar e para ensinar; Ensino Primário de Angola; Estatística; Livros didáticos",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Estat%C3%ADstica%20no%20Ensino%20Prim%C3%A1rio%20de%20Angola%20no%20per%C3%ADodo%20de%202002%20a%202020%3A%20saberes%20do%20ensino%20e%20da%20forma%C3%A7%C3%A3o%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estat%C3%ADstica%20no%20Ensino%20Prim%C3%A1rio%20de%20Angola%20no%20per%C3%ADodo%20de%202002%20a%202020%3A%20saberes%20do%20ensino%20e%20da%20forma%C3%A7%C3%A3o&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42843997"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "42843997",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "História da Educação Matemática",
-    "Saberes a ensinar e para ensinar",
-    "Ensino Primário de Angola",
-    "Estatística",
-    "Livros didáticos"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-42843997.svg",
-  "resumo": "Esta pesquisa tem como objetivo caracterizar os saberes a ensinar e os saberes para ensinar Estatística no Ensino Primário de Angola no período de 2002 a 2020. Teve como fonte documental as legislações do sistema de educação e ensino, currículos do Ensino Primário, programas e livros didáticos da 5ª e 6ª classes da disciplina de Matemática do período em estudo. A questão central da pesquisa é: Que Estatística a ensinar e para ensinar esteve presente no Ensino Primário de Angola no período de 2002 a 2020? A mesma esteve revestida de fundamentos teóricos – metodológicos na perspectiva sociocultural, considerando autores que evidenciam o saber objetivado no centro do estudo da formação profissional do professor, representados pelo saber a ensinar e saber para ensinar articulados entre si, segundo (Hofstetter; Schneuwly), conjecturados por hipótese em matemática a ensinar e matemática para ensinar, presentes na formação profissional do professor que ensina matemática (Valente; Bertini; Morais). E, para o processo de transformação da informação em saber científico a análise, baseou-se nos quatro estágios de Burke, coleta, análise, disseminação e utilização, na qual Valente, reconfigura-os em três etapas, que são a recompilação de experiências docentes, a análise comparativa dos conhecimentos dos docentes, e a sistematização e análise do uso dos conhecimentos como saberes. A pesquisa contou com elementos dos conceitos de cultura escolar segundo Julia, História das disciplinas escolares conforme Chervel, História dos livros e edições didáticas segundo Choppin. Os resultados do estudo indicam que os sistemas educativos estiveram sempre atrelados às finalidades sociopolíticas e culturais das diferentes etapas que o país viveu. O papel da escola não se limitou ao exercício escolar. A educação ministrada e recebida é a imagem das finalidades correspondentes às legislações do respectivo sistema educativo, em que os propósitos traçados para a escola primária alteravam significativamente sua função, buscando trazer uma atualização na forma de ensinar, cujas orientações nos documentos oficiais apontavam uma maior articulação da disciplina com as situações do dia a dia dos alunos. Essas reformas foram trazendo um novo espaço e uma nova relação de ensino e aprendizagem que alterou lentamente conceitos e práticas sociais que foram transformando os saberes tanto na formação quanto no ensino. Os programas e livros didáticos analisados como produto cultural de uma determinada sociedade, responderam às finalidades educativas da sua época, reuniram e sistematizaram saberes a ensinar e para ensinar estatística, articulados em mútua dependência e mobilizados para a formação profissional do professor de Matemática no período em estudo, podendo ser caracterizado como Estatística do ensino. As análises mostram que os saberes a ensinar e para ensinar estatística no ensino primário é caracterizado por meio da produção, sistematização e organização dos conteúdos que tendem a ser elementares e práticos, mobilizando nesse processo a aritmética e os objetos comuns aos alunos.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-42843997",
+ "autor": "Eslome Gando Citanela Bicicleta",
+ "ano": 2024,
+ "tipo": "Tese",
+ "titulo": "Estatística no Ensino Primário de Angola no período de 2002 a 2020: saberes do ensino e da formação",
+ "instituicao": "Universidade Federal de Mato Grosso do Sul",
+ "cidade": "",
+ "estado": "Mato Grosso do Sul",
+ "regiao": "Centro-Oeste",
+ "orientador": "Edilene Simoes Costa dos Santos",
+ "programa": "Educação Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "História da Educação Matemática; Saberes a ensinar e para ensinar; Ensino Primário de Angola; Estatística; Livros didáticos",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Estat%C3%ADstica%20no%20Ensino%20Prim%C3%A1rio%20de%20Angola%20no%20per%C3%ADodo%20de%202002%20a%202020%3A%20saberes%20do%20ensino%20e%20da%20forma%C3%A7%C3%A3o%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estat%C3%ADstica%20no%20Ensino%20Prim%C3%A1rio%20de%20Angola%20no%20per%C3%ADodo%20de%202002%20a%202020%3A%20saberes%20do%20ensino%20e%20da%20forma%C3%A7%C3%A3o&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42843997"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "42843997",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "História da Educação Matemática",
+  "Saberes a ensinar e para ensinar",
+  "Ensino Primário de Angola",
+  "Estatística",
+  "Livros didáticos"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-42843997.svg",
+ "resumo": "Esta pesquisa tem como objetivo caracterizar os saberes a ensinar e os saberes para ensinar Estatística no Ensino Primário de Angola no período de 2002 a 2020. Teve como fonte documental as legislações do sistema de educação e ensino, currículos do Ensino Primário, programas e livros didáticos da 5ª e 6ª classes da disciplina de Matemática do período em estudo. A questão central da pesquisa é: Que Estatística a ensinar e para ensinar esteve presente no Ensino Primário de Angola no período de 2002 a 2020? A mesma esteve revestida de fundamentos teóricos – metodológicos na perspectiva sociocultural, considerando autores que evidenciam o saber objetivado no centro do estudo da formação profissional do professor, representados pelo saber a ensinar e saber para ensinar articulados entre si, segundo (Hofstetter; Schneuwly), conjecturados por hipótese em matemática a ensinar e matemática para ensinar, presentes na formação profissional do professor que ensina matemática (Valente; Bertini; Morais). E, para o processo de transformação da informação em saber científico a análise, baseou-se nos quatro estágios de Burke, coleta, análise, disseminação e utilização, na qual Valente, reconfigura-os em três etapas, que são a recompilação de experiências docentes, a análise comparativa dos conhecimentos dos docentes, e a sistematização e análise do uso dos conhecimentos como saberes. A pesquisa contou com elementos dos conceitos de cultura escolar segundo Julia, História das disciplinas escolares conforme Chervel, História dos livros e edições didáticas segundo Choppin. Os resultados do estudo indicam que os sistemas educativos estiveram sempre atrelados às finalidades sociopolíticas e culturais das diferentes etapas que o país viveu. O papel da escola não se limitou ao exercício escolar. A educação ministrada e recebida é a imagem das finalidades correspondentes às legislações do respectivo sistema educativo, em que os propósitos traçados para a escola primária alteravam significativamente sua função, buscando trazer uma atualização na forma de ensinar, cujas orientações nos documentos oficiais apontavam uma maior articulação da disciplina com as situações do dia a dia dos alunos. Essas reformas foram trazendo um novo espaço e uma nova relação de ensino e aprendizagem que alterou lentamente conceitos e práticas sociais que foram transformando os saberes tanto na formação quanto no ensino. Os programas e livros didáticos analisados como produto cultural de uma determinada sociedade, responderam às finalidades educativas da sua época, reuniram e sistematizaram saberes a ensinar e para ensinar estatística, articulados em mútua dependência e mobilizados para a formação profissional do professor de Matemática no período em estudo, podendo ser caracterizado como Estatística do ensino. As análises mostram que os saberes a ensinar e para ensinar estatística no ensino primário é caracterizado por meio da produção, sistematização e organização dos conteúdos que tendem a ser elementares e práticos, mobilizando nesse processo a aritmética e os objetos comuns aos alunos.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

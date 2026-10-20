@@ -1,62 +1,62 @@
 {
-  "id": "capes-28039401",
-  "autor": "Vilma Gisele Karsburg",
-  "ano": 2019,
-  "tipo": "Dissertação",
-  "titulo": "O Ensino de Teste de Hipóteses com o Auxílio do Software Scilab",
-  "instituicao": "Universidade Federal do Rio Grande do Sul",
-  "cidade": "",
-  "estado": "Rio Grande do Sul",
-  "regiao": "Sul",
-  "orientador": "Luciana Neves Nunes",
-  "programa": "ENSINO DE MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Estatística; Teste de Hipóteses; Tecnologias no ensino; Ensino Superior; Programação",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ENSINO%20DE%20TESTE%20DE%20HIP%C3%93TESES%20COM%20O%20AUX%C3%8DLIO%20DO%20SOFTWARE%20SCILAB%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ENSINO%20DE%20TESTE%20DE%20HIP%C3%93TESES%20COM%20O%20AUX%C3%8DLIO%20DO%20SOFTWARE%20SCILAB&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28039401"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "28039401",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Estatística",
-    "Teste de Hipóteses",
-    "Tecnologias no ensino",
-    "Ensino Superior",
-    "Programação"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-28039401.svg",
-  "resumo": "O número de pesquisas em educação estatística no Brasil vem crescendo nos últimos anos. Atualmente, é produzido um grande volume de dados e o uso de tecnologias para analisá-los pode ser uma grande aliada. Esta pesquisa teve como objetivo geral avaliar a contribuição do uso de tecnologias, em particular do software Scilab, na ampliação do letramento estatístico de um grupo de discentes. Com o intuito de avaliar o objetivo desta pesquisa utilizamos a metodologia de pesquisa denominada pesquisa qualitativa e a atividade pedagógica proposta foi realizada na disciplina de Estatística e Probabilidade da quinta fase do Curso de Ciência da Computação, no Instituto Federal Santa Catarina – Campus Lages, no primeiro semestre de 2018. Durante a pesquisa apresentou-se exemplos de como realizar a interpretação de testes de hipóteses manualmente, sem a utilização do software e posteriormente, os alunos foram incentivados a desenvolver códigos no Scilab que resolvessem as mesmas atividades. Durante a investigação foi realizada uma avaliação após a utilização do Scilab que consistiu na resolução de exercícios sobre testes de hipóteses, cujas respostas foram avaliadas para identificar os erros cometidos e o letramento estatístico dos sujeitos. Ao final da prática pedagógica, os alunos foram convidados a responder um questionário sobre a avaliação do uso do software no ensino de estatística. Foi possível se observar que o software auxiliou na resolução das atividades, no quesito tempo e também contribuiu na ampliação do letramento estatístico dos discentes, pois grande parte deles fez corretamente a interpretação dos dados e melhorou a habilidade de comunicação das ideias em relação às informações. Porém houve erros no momento de reportar os resultados ao contexto dos problemas. Após o desenvolvimento da prática pedagógica foi construído um site onde podemos ver definições referentes a cada um dos tipos de testes estudados na pesquisa, bem como fazer o download da sequência didática utilizada para a prática.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-28039401",
+ "autor": "Vilma Gisele Karsburg",
+ "ano": 2019,
+ "tipo": "Dissertação",
+ "titulo": "O Ensino de Teste de Hipóteses com o Auxílio do Software Scilab",
+ "instituicao": "Universidade Federal do Rio Grande do Sul",
+ "cidade": "",
+ "estado": "Rio Grande do Sul",
+ "regiao": "Sul",
+ "orientador": "Luciana Neves Nunes",
+ "programa": "Ensino de Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Estatística; Teste de Hipóteses; Tecnologias no ensino; Ensino Superior; Programação",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ENSINO%20DE%20TESTE%20DE%20HIP%C3%93TESES%20COM%20O%20AUX%C3%8DLIO%20DO%20SOFTWARE%20SCILAB%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ENSINO%20DE%20TESTE%20DE%20HIP%C3%93TESES%20COM%20O%20AUX%C3%8DLIO%20DO%20SOFTWARE%20SCILAB&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28039401"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "28039401",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Estatística",
+  "Teste de Hipóteses",
+  "Tecnologias no ensino",
+  "Ensino Superior",
+  "Programação"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-28039401.svg",
+ "resumo": "O número de pesquisas em educação estatística no Brasil vem crescendo nos últimos anos. Atualmente, é produzido um grande volume de dados e o uso de tecnologias para analisá-los pode ser uma grande aliada. Esta pesquisa teve como objetivo geral avaliar a contribuição do uso de tecnologias, em particular do software Scilab, na ampliação do letramento estatístico de um grupo de discentes. Com o intuito de avaliar o objetivo desta pesquisa utilizamos a metodologia de pesquisa denominada pesquisa qualitativa e a atividade pedagógica proposta foi realizada na disciplina de Estatística e Probabilidade da quinta fase do Curso de Ciência da Computação, no Instituto Federal Santa Catarina – Campus Lages, no primeiro semestre de 2018. Durante a pesquisa apresentou-se exemplos de como realizar a interpretação de testes de hipóteses manualmente, sem a utilização do software e posteriormente, os alunos foram incentivados a desenvolver códigos no Scilab que resolvessem as mesmas atividades. Durante a investigação foi realizada uma avaliação após a utilização do Scilab que consistiu na resolução de exercícios sobre testes de hipóteses, cujas respostas foram avaliadas para identificar os erros cometidos e o letramento estatístico dos sujeitos. Ao final da prática pedagógica, os alunos foram convidados a responder um questionário sobre a avaliação do uso do software no ensino de estatística. Foi possível se observar que o software auxiliou na resolução das atividades, no quesito tempo e também contribuiu na ampliação do letramento estatístico dos discentes, pois grande parte deles fez corretamente a interpretação dos dados e melhorou a habilidade de comunicação das ideias em relação às informações. Porém houve erros no momento de reportar os resultados ao contexto dos problemas. Após o desenvolvimento da prática pedagógica foi construído um site onde podemos ver definições referentes a cada um dos tipos de testes estudados na pesquisa, bem como fazer o download da sequência didática utilizada para a prática.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

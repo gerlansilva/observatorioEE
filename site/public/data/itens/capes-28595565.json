@@ -1,62 +1,62 @@
 {
-  "id": "capes-28595565",
-  "autor": "Thiago Vasconcellos Batalha",
-  "ano": 2017,
-  "tipo": "Dissertação",
-  "titulo": "Contribuições à Construção do Raciocínio Estatístico via Lei Forte dos Grandes Números e Teorema Central do Limite",
-  "instituicao": "Universidade Federal do Rio de Janeiro",
-  "cidade": "",
-  "estado": "Rio de Janeiro",
-  "regiao": "Sudeste",
-  "orientador": "Gerard Emile Grimberg",
-  "programa": "ENSINO DE MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Probabilidade; Estatística, Teoremas limite da probabilidade; Raciocínio estatístico; Ensino de Estatística",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Contribui%C3%A7%C3%B5es%20%C3%A0%20Constru%C3%A7%C3%A3o%20do%20Racioc%C3%ADnio%20Estat%C3%ADstico%20via%20Lei%20Forte%20dos%20Grandes%20N%C3%BAmeros%20e%20Teorema%20Central%20do%20Limite%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Contribui%C3%A7%C3%B5es%20%C3%A0%20Constru%C3%A7%C3%A3o%20do%20Racioc%C3%ADnio%20Estat%C3%ADstico%20via%20Lei%20Forte%20dos%20Grandes%20N%C3%BAmeros%20e%20Teorema%20Central%20do%20Limite&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28595565"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "28595565",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Probabilidade",
-    "Estatística, Teoremas limite da probabilidade",
-    "Raciocínio estatístico",
-    "Ensino de Estatística"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-28595565.svg",
-  "resumo": "A Estatística é frequentemente tratada no Ensino Médio de forma protocolar, se restringindo a um conjunto de fórmulas que devem ser aplicadas para a obtenção de um valor numérico. A partir de uma perspectiva histórica observa-se uma crescente necessidade no desenvolvimento de ferramentas para se estudar e compreender os diversos tipos de populações com vias a tomadas de decisão sob incerteza. Nesse sentido, a Estatística é um campo fundamental para se compreender os fenômenos aleatórios, cada vez mais perceptíveis aos membros de qualquer sociedade. A urgência em compreender fenômenos regidos pelo acaso estabelece que as teorias probabilísticas e estatísticas não sejam estudadas separadamente; pelo contrário, evidencia a necessidade de se utilizar a Probabilidade dentro da área de atuação da Estatística, pois aquela traz em sua estrutura elementos fundamentais para a construção desta. Certamente, dessa união derivam-se ferramentas bastante sofisticadas, sendo necessária a compreensão de conceitos advindos do Cálculo Diferencial e Integral, bem como da Análise. Contudo, as ideias principais de muitas dessas ferramentas estatísticas podem ser compreendidas mesmo por estudantes do Ensino Básico. Para isso é importante que aquele que pretende estudar Estatística compreenda as principais ideias dos teoremas e os conceitos que constituem a formação dessas ferramentas estatísticas, donde se destacam os teoremas limite da Probabilidade que, embora sua plena compreensão exija um conhecimento matemático avançado, seu núcleo pode ser tornado inteligível através de experimentações simuladas ou mesmo intuição. É a partir desses teoremas que pretendemos fornecer nossa contribuição para a promoção do raciocínio estatístico. A proposta desta dissertação é dual: discutir o manancial teórico que visa auxiliar a compreensão e o desenvolvimento do raciocínio estatístico através dos Teoremas Limite da Probabilidade e propor atividades por meio de tecnologias diversas (simulações reais ou computacionais) para que seja alcançada a especificidade do raciocínio estatístico.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de estatística",
-    "raciocínio estatístico",
-    "ensino de probabilidade"
-  ],
-  "ids_duplicados": []
+ "id": "capes-28595565",
+ "autor": "Thiago Vasconcellos Batalha",
+ "ano": 2017,
+ "tipo": "Dissertação",
+ "titulo": "Contribuições à Construção do Raciocínio Estatístico via Lei Forte dos Grandes Números e Teorema Central do Limite",
+ "instituicao": "Universidade Federal do Rio de Janeiro",
+ "cidade": "",
+ "estado": "Rio de Janeiro",
+ "regiao": "Sudeste",
+ "orientador": "Gerard Emile Grimberg",
+ "programa": "Ensino de Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Probabilidade; Estatística, Teoremas limite da probabilidade; Raciocínio estatístico; Ensino de Estatística",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Contribui%C3%A7%C3%B5es%20%C3%A0%20Constru%C3%A7%C3%A3o%20do%20Racioc%C3%ADnio%20Estat%C3%ADstico%20via%20Lei%20Forte%20dos%20Grandes%20N%C3%BAmeros%20e%20Teorema%20Central%20do%20Limite%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Contribui%C3%A7%C3%B5es%20%C3%A0%20Constru%C3%A7%C3%A3o%20do%20Racioc%C3%ADnio%20Estat%C3%ADstico%20via%20Lei%20Forte%20dos%20Grandes%20N%C3%BAmeros%20e%20Teorema%20Central%20do%20Limite&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28595565"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "28595565",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Probabilidade",
+  "Estatística, Teoremas limite da probabilidade",
+  "Raciocínio estatístico",
+  "Ensino de Estatística"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-28595565.svg",
+ "resumo": "A Estatística é frequentemente tratada no Ensino Médio de forma protocolar, se restringindo a um conjunto de fórmulas que devem ser aplicadas para a obtenção de um valor numérico. A partir de uma perspectiva histórica observa-se uma crescente necessidade no desenvolvimento de ferramentas para se estudar e compreender os diversos tipos de populações com vias a tomadas de decisão sob incerteza. Nesse sentido, a Estatística é um campo fundamental para se compreender os fenômenos aleatórios, cada vez mais perceptíveis aos membros de qualquer sociedade. A urgência em compreender fenômenos regidos pelo acaso estabelece que as teorias probabilísticas e estatísticas não sejam estudadas separadamente; pelo contrário, evidencia a necessidade de se utilizar a Probabilidade dentro da área de atuação da Estatística, pois aquela traz em sua estrutura elementos fundamentais para a construção desta. Certamente, dessa união derivam-se ferramentas bastante sofisticadas, sendo necessária a compreensão de conceitos advindos do Cálculo Diferencial e Integral, bem como da Análise. Contudo, as ideias principais de muitas dessas ferramentas estatísticas podem ser compreendidas mesmo por estudantes do Ensino Básico. Para isso é importante que aquele que pretende estudar Estatística compreenda as principais ideias dos teoremas e os conceitos que constituem a formação dessas ferramentas estatísticas, donde se destacam os teoremas limite da Probabilidade que, embora sua plena compreensão exija um conhecimento matemático avançado, seu núcleo pode ser tornado inteligível através de experimentações simuladas ou mesmo intuição. É a partir desses teoremas que pretendemos fornecer nossa contribuição para a promoção do raciocínio estatístico. A proposta desta dissertação é dual: discutir o manancial teórico que visa auxiliar a compreensão e o desenvolvimento do raciocínio estatístico através dos Teoremas Limite da Probabilidade e propor atividades por meio de tecnologias diversas (simulações reais ou computacionais) para que seja alcançada a especificidade do raciocínio estatístico.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de estatística",
+  "raciocínio estatístico",
+  "ensino de probabilidade"
+ ],
+ "ids_duplicados": []
 }

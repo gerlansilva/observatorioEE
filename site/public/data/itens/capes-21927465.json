@@ -1,60 +1,60 @@
 {
-  "id": "capes-21927465",
-  "autor": "Adriano Alves da Silveira",
-  "ano": 2016,
-  "tipo": "Dissertação",
-  "titulo": "Análise Combinatória em Sala de Aula: Uma Proposta de ENSINO-APRENDIZAGEM Via Resolução, Exploração e Proposição de Problemas",
-  "instituicao": "Universidade Estadual da Paraiba",
-  "cidade": "",
-  "estado": "Paraíba",
-  "regiao": "Nordeste",
-  "orientador": "Silvanio de Andrade",
-  "programa": "ENSINO DE CIÊNCIAS E EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Ensino-Aprendizagem de Matemática; Análise Combinatória; Sala de Aula; Resolução, Exploração e Proposição de Problemas",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22AN%C3%81LISE%20COMBINAT%C3%93RIA%20EM%20SALA%20DE%20AULA%3A%20UMA%20PROPOSTA%20DE%20ENSINO-APRENDIZAGEM%20VIA%20RESOLU%C3%87%C3%83O%2C%20EXPLORA%C3%87%C3%83O%20E%20PROPOSI%C3%87%C3%83O%20DE%20PROBLEMAS%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AN%C3%81LISE%20COMBINAT%C3%93RIA%20EM%20SALA%20DE%20AULA%3A%20UMA%20PROPOSTA%20DE%20ENSINO-APRENDIZAGEM%20VIA%20RESOLU%C3%87%C3%83O%2C%20EXPLORA%C3%87%C3%83O%20E%20PROPOSI%C3%87%C3%83O%20DE%20PROBLEMAS&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21927465"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "21927465",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Ensino-Aprendizagem de Matemática",
-    "Análise Combinatória",
-    "Sala de Aula",
-    "Resolução, Exploração e Proposição de Problemas"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-21927465.svg",
-  "resumo": "A presente pesquisa analisa como uma abordagem em sala de aula via Resolução, Exploração e Proposição de problemas pode contribuir/potencializar com o ensino-aprendizagem de Análise Combinatória. Foi realizada uma revisão de literatura com o intuito de compreender as contribuições de outros pesquisadores acerca do tema pesquisado, para que se pudesse perceber o que é possível aprofundar e acrescentar para a comunidade científica, no que diz respeito ao processo de ensino-aprendizagem da Análise Combinatória. Além disso, foi realizada uma entrevista com professores de Matemática, com o intuito de conhecer as suas ideias acerca do ensino-aprendizagem de Combinatória e, posteriormente, perscrutar até que ponto elas poderiam colaborar a planejar uma sequência de atividades. A pesquisa foi empreendida segundo uma abordagem qualitativa, visando buscar significados, interpretar e compreender as informações obtidas. A modalidade de pesquisa pode ser caracterizada como pedagógica, segundo a qual o professor é o pesquisador de sua própria sala de aula (LANKSHEAR E KNOBEL, 2008). A Metodologia de ensino-aprendizagem escolhida para trabalhar em sala de aula foi a de resolução, exploração e proposição de problemas, desenvolvida com uma sequência de atividades em uma turma do 2ª ano do Ensino Médio de uma escola pública na cidade de Alagoinha-PB. Durante a intervenção, o presente pesquisador agiu como professor-pesquisador, trabalhando em sala de aula como professor regente, dando autonomia aos alunos na construção das ideias essenciais de Combinatória, de modo que o autor agiu como mediador e incentivador. Os dados foram levantados durante as aulas através das observações e registros dos materiais utilizados pelos alunos, bem como de gravação sonora. Foram realizados 21 encontros, totalizando 25 aulas, cada aula com duração de, no máximo, 45 minutos. A sala foi organizada em grupos de três alunos e, em alguns casos, em duplas, com o intuito de se realizar um trabalho cooperativo e colaborativo, onde se considerou importante, nesse processo, o respeito mútuo entre eles, respeitando as ideias levantadas na busca da solução dos problemas. Os resultados da pesquisa evidenciaram que através da abordagem via Resolução, Exploração e Proposição de problemas foi possível acompanhar o crescimento dos alunos, que criaram suas próprias ideias para resolver os problemas, e, consequentemente, encontraram múltiplas estratégias de resolução deles; posteriormente, justificam suas soluções, participando efetivamente da construção do seu conhecimento. Além disso, os alunos engajaram-se em atividades de exploração matemática que lhes possibilitaram a apreensão de ideias essenciais de Análise Combinatória, como também assumiram o papel de investigadores em sala de aula, fazendo generalizações, formulando novos problemas e, em seguida, os resolvendo. De onde se conclui que tal metodologia permitiu um aprendizado com mais compreensão, potencializando o aluno para resolver problemas de Análise Combinatória com foco não apenas na busca da solução do problema, mas no processo da resolução e podendo ir muito além, como a realização de um trabalho de proposição e exploração de problemas.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de combinatória"
-  ],
-  "ids_duplicados": []
+ "id": "capes-21927465",
+ "autor": "Adriano Alves da Silveira",
+ "ano": 2016,
+ "tipo": "Dissertação",
+ "titulo": "Análise Combinatória em Sala de Aula: Uma Proposta de ENSINO-APRENDIZAGEM Via Resolução, Exploração e Proposição de Problemas",
+ "instituicao": "Universidade Estadual da Paraiba",
+ "cidade": "",
+ "estado": "Paraíba",
+ "regiao": "Nordeste",
+ "orientador": "Silvanio de Andrade",
+ "programa": "Ensino de Ciências e Educação Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Ensino-Aprendizagem de Matemática; Análise Combinatória; Sala de Aula; Resolução, Exploração e Proposição de Problemas",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22AN%C3%81LISE%20COMBINAT%C3%93RIA%20EM%20SALA%20DE%20AULA%3A%20UMA%20PROPOSTA%20DE%20ENSINO-APRENDIZAGEM%20VIA%20RESOLU%C3%87%C3%83O%2C%20EXPLORA%C3%87%C3%83O%20E%20PROPOSI%C3%87%C3%83O%20DE%20PROBLEMAS%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AN%C3%81LISE%20COMBINAT%C3%93RIA%20EM%20SALA%20DE%20AULA%3A%20UMA%20PROPOSTA%20DE%20ENSINO-APRENDIZAGEM%20VIA%20RESOLU%C3%87%C3%83O%2C%20EXPLORA%C3%87%C3%83O%20E%20PROPOSI%C3%87%C3%83O%20DE%20PROBLEMAS&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21927465"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "21927465",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Ensino-Aprendizagem de Matemática",
+  "Análise Combinatória",
+  "Sala de Aula",
+  "Resolução, Exploração e Proposição de Problemas"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-21927465.svg",
+ "resumo": "A presente pesquisa analisa como uma abordagem em sala de aula via Resolução, Exploração e Proposição de problemas pode contribuir/potencializar com o ensino-aprendizagem de Análise Combinatória. Foi realizada uma revisão de literatura com o intuito de compreender as contribuições de outros pesquisadores acerca do tema pesquisado, para que se pudesse perceber o que é possível aprofundar e acrescentar para a comunidade científica, no que diz respeito ao processo de ensino-aprendizagem da Análise Combinatória. Além disso, foi realizada uma entrevista com professores de Matemática, com o intuito de conhecer as suas ideias acerca do ensino-aprendizagem de Combinatória e, posteriormente, perscrutar até que ponto elas poderiam colaborar a planejar uma sequência de atividades. A pesquisa foi empreendida segundo uma abordagem qualitativa, visando buscar significados, interpretar e compreender as informações obtidas. A modalidade de pesquisa pode ser caracterizada como pedagógica, segundo a qual o professor é o pesquisador de sua própria sala de aula (LANKSHEAR E KNOBEL, 2008). A Metodologia de ensino-aprendizagem escolhida para trabalhar em sala de aula foi a de resolução, exploração e proposição de problemas, desenvolvida com uma sequência de atividades em uma turma do 2ª ano do Ensino Médio de uma escola pública na cidade de Alagoinha-PB. Durante a intervenção, o presente pesquisador agiu como professor-pesquisador, trabalhando em sala de aula como professor regente, dando autonomia aos alunos na construção das ideias essenciais de Combinatória, de modo que o autor agiu como mediador e incentivador. Os dados foram levantados durante as aulas através das observações e registros dos materiais utilizados pelos alunos, bem como de gravação sonora. Foram realizados 21 encontros, totalizando 25 aulas, cada aula com duração de, no máximo, 45 minutos. A sala foi organizada em grupos de três alunos e, em alguns casos, em duplas, com o intuito de se realizar um trabalho cooperativo e colaborativo, onde se considerou importante, nesse processo, o respeito mútuo entre eles, respeitando as ideias levantadas na busca da solução dos problemas. Os resultados da pesquisa evidenciaram que através da abordagem via Resolução, Exploração e Proposição de problemas foi possível acompanhar o crescimento dos alunos, que criaram suas próprias ideias para resolver os problemas, e, consequentemente, encontraram múltiplas estratégias de resolução deles; posteriormente, justificam suas soluções, participando efetivamente da construção do seu conhecimento. Além disso, os alunos engajaram-se em atividades de exploração matemática que lhes possibilitaram a apreensão de ideias essenciais de Análise Combinatória, como também assumiram o papel de investigadores em sala de aula, fazendo generalizações, formulando novos problemas e, em seguida, os resolvendo. De onde se conclui que tal metodologia permitiu um aprendizado com mais compreensão, potencializando o aluno para resolver problemas de Análise Combinatória com foco não apenas na busca da solução do problema, mas no processo da resolução e podendo ir muito além, como a realização de um trabalho de proposição e exploração de problemas.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de combinatória"
+ ],
+ "ids_duplicados": []
 }

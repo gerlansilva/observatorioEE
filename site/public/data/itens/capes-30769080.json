@@ -1,64 +1,64 @@
 {
-  "id": "capes-30769080",
-  "autor": "Laiana Meneguelli",
-  "ano": 2017,
-  "tipo": "Dissertação",
-  "titulo": "Desenvolvimento de Competências Estatísticas no Ensino Médio por Meio da Modelagem Matemática: Analisando as Diferentes Representações",
-  "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
-  "cidade": "",
-  "estado": "Espírito Santo",
-  "regiao": "Sudeste",
-  "orientador": "Oscar Luiz Teixeira de Rezende",
-  "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação estatística; Modelagem matemática; Representação semiótica; educação matemática; matemática; raciocínio; literacia; pensamento",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22DESENVOLVIMENTO%20DE%20COMPET%C3%8ANCIAS%20ESTAT%C3%8DSTICAS%20NO%20ENSINO%20M%C3%89DIO%20POR%20MEIO%20DA%20MODELAGEM%20MATEM%C3%81TICA%3A%20ANALISANDO%20AS%20DIFERENTES%20REPRESENTA%C3%87%C3%95ES%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=DESENVOLVIMENTO%20DE%20COMPET%C3%8ANCIAS%20ESTAT%C3%8DSTICAS%20NO%20ENSINO%20M%C3%89DIO%20POR%20MEIO%20DA%20MODELAGEM%20MATEM%C3%81TICA%3A%20ANALISANDO%20AS%20DIFERENTES%20REPRESENTA%C3%87%C3%95ES&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30769080"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "30769080",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação estatística",
-    "Modelagem matemática",
-    "Representação semiótica",
-    "educação matemática",
-    "matemática",
-    "raciocínio",
-    "literacia",
-    "pensamento"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-30769080.svg",
-  "resumo": "Este trabalho é consequência de uma preocupação quanto ao ensino e aprendizagem de estatística em um curso técnico integrado ao ensino médio. Esporadicamente, o professor enfatiza os aspectos técnicos e operacionais da disciplina, desvinculando as atividades propostas em sala de aula da realidade do aluno. Nesse cenário, o objetivo da pesquisa é analisar o desenvolvimento das competências estatísticas, com alunos do ensino médio, por meio de uma atividade de Modelagem Matemática, tendo como instrumento de análise a Teoria das Representações Semióticas. Como desdobramento, identificamos possíveis registros de representação semiótica que contribuem para o desenvolvimento das competências estatísticas; elaborar um conjunto de atividades que possibilite a coordenação de diversos registros de representação semiótica do objeto matemático: estatística descritiva; identificar o desenvolvimento das competências estatísticas: literacia, pensamento e raciocínio, tendo por apoio teórico os registros de representação semiótica; e elaborar um guia didático que apresente aos professores as possibilidades do ensino de estatística, tendo a Modelagem Matemática como aporte metodológico. Para alcançar esses objetivos, procedeu-se a uma revisão de literatura, em que se busca fundamentar e delinear a concepção da Educação Estatística, de acordo com Campos, Wodewostzki e Jacobini; a de Modelagem Matemática, tendo-se como referências os trabalhos de Bassanezi e Biembengut, que desenvolvem práticas de Modelagem Matemática; e a da Teoria dos Registros de Representações Semióticas, de Raymond Duval, devido à relevância da conversão de registros para abordar o ensino de estatística. A pesquisa é de cunho qualitativo, cujos instrumentos metodológicos são as observações (registros de aulas e fotografias), as atividades dos alunos, diário de bordo e entrevistas coletivas. A análise desses aspectos ocorreu segundo abordagens metodológicas propostas por Duval.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-30769080",
+ "autor": "Laiana Meneguelli",
+ "ano": 2017,
+ "tipo": "Dissertação",
+ "titulo": "Desenvolvimento de Competências Estatísticas no Ensino Médio por Meio da Modelagem Matemática: Analisando as Diferentes Representações",
+ "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+ "cidade": "",
+ "estado": "Espírito Santo",
+ "regiao": "Sudeste",
+ "orientador": "Oscar Luiz Teixeira de Rezende",
+ "programa": "Educação em Ciências e Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação estatística; Modelagem matemática; Representação semiótica; educação matemática; matemática; raciocínio; literacia; pensamento",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22DESENVOLVIMENTO%20DE%20COMPET%C3%8ANCIAS%20ESTAT%C3%8DSTICAS%20NO%20ENSINO%20M%C3%89DIO%20POR%20MEIO%20DA%20MODELAGEM%20MATEM%C3%81TICA%3A%20ANALISANDO%20AS%20DIFERENTES%20REPRESENTA%C3%87%C3%95ES%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=DESENVOLVIMENTO%20DE%20COMPET%C3%8ANCIAS%20ESTAT%C3%8DSTICAS%20NO%20ENSINO%20M%C3%89DIO%20POR%20MEIO%20DA%20MODELAGEM%20MATEM%C3%81TICA%3A%20ANALISANDO%20AS%20DIFERENTES%20REPRESENTA%C3%87%C3%95ES&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30769080"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "30769080",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação estatística",
+  "Modelagem matemática",
+  "Representação semiótica",
+  "educação matemática",
+  "matemática",
+  "raciocínio",
+  "literacia",
+  "pensamento"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-30769080.svg",
+ "resumo": "Este trabalho é consequência de uma preocupação quanto ao ensino e aprendizagem de estatística em um curso técnico integrado ao ensino médio. Esporadicamente, o professor enfatiza os aspectos técnicos e operacionais da disciplina, desvinculando as atividades propostas em sala de aula da realidade do aluno. Nesse cenário, o objetivo da pesquisa é analisar o desenvolvimento das competências estatísticas, com alunos do ensino médio, por meio de uma atividade de Modelagem Matemática, tendo como instrumento de análise a Teoria das Representações Semióticas. Como desdobramento, identificamos possíveis registros de representação semiótica que contribuem para o desenvolvimento das competências estatísticas; elaborar um conjunto de atividades que possibilite a coordenação de diversos registros de representação semiótica do objeto matemático: estatística descritiva; identificar o desenvolvimento das competências estatísticas: literacia, pensamento e raciocínio, tendo por apoio teórico os registros de representação semiótica; e elaborar um guia didático que apresente aos professores as possibilidades do ensino de estatística, tendo a Modelagem Matemática como aporte metodológico. Para alcançar esses objetivos, procedeu-se a uma revisão de literatura, em que se busca fundamentar e delinear a concepção da Educação Estatística, de acordo com Campos, Wodewostzki e Jacobini; a de Modelagem Matemática, tendo-se como referências os trabalhos de Bassanezi e Biembengut, que desenvolvem práticas de Modelagem Matemática; e a da Teoria dos Registros de Representações Semióticas, de Raymond Duval, devido à relevância da conversão de registros para abordar o ensino de estatística. A pesquisa é de cunho qualitativo, cujos instrumentos metodológicos são as observações (registros de aulas e fotografias), as atividades dos alunos, diário de bordo e entrevistas coletivas. A análise desses aspectos ocorreu segundo abordagens metodológicas propostas por Duval.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": []
 }

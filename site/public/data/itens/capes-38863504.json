@@ -1,63 +1,63 @@
 {
-  "id": "capes-38863504",
-  "autor": "Maria Joseane de Souza Alves Sabino da Silva",
-  "ano": 2023,
-  "tipo": "Dissertação",
-  "titulo": "A Educação Estatística nos Documentos Curriculares do Ensino Médio e Secundário de Brasil e Portugal",
-  "instituicao": "Universidade Cruzeiro do Sul",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Marcio Eugen Klingenschmid Lopes dos Santos",
-  "programa": "ENSINO DE CIÊNCIAS",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Estatística; Letramento Estatístico; Estatística; Ensino Médio; Diretrizes Curriculares",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20NOS%20DOCUMENTOS%20CURRICULARES%20DO%20ENSINO%20M%C3%89DIO%20E%20SECUND%C3%81RIO%20DE%20BRASIL%20E%20PORTUGAL%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20NOS%20DOCUMENTOS%20CURRICULARES%20DO%20ENSINO%20M%C3%89DIO%20E%20SECUND%C3%81RIO%20DE%20BRASIL%20E%20PORTUGAL&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38863504"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "38863504",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Estatística",
-    "Letramento Estatístico",
-    "Estatística",
-    "Ensino Médio",
-    "Diretrizes Curriculares"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-38863504.svg",
-  "resumo": "Neste trabalho, investigou-se as Diretrizes Curriculares de Brasil e Portugal no componente de Matemática para o Ensino Médio e Secundário. Para isso, esta pesquisa teve como norteadora esta questão: como os conteúdos propostos para o ensino da Probabilidade e da Estatística no Ensino Médio e Secundário se apresentam nos documentos curriculares de Brasil e Portugal? Este estudo de documentos curriculares pautou-se em alguns aspectos: as semelhanças entre as propostas de ensino dos dois países e sua proximidade cultural, os avanços nas pesquisas em Educação Estatística, os poucos trabalhos acerca do tema pesquisa e a maneira como cada país propõe e recomenda o ensino da Educação Estatística e Probabilística. Assim, verificou-se e apresentou-se as recomendações das diretrizes curriculares brasileiras e portuguesas acerca do ensino e aprendizagem da Probabilidade e da Estatística para o Ensino Médio e Secundário. Também se analisou os aspectos teórico-metodológicos apresentados nos dois documentos oficiais e sua aplicação em cada um desses cursos. Para tanto, utilizou-se uma abordagem qualitativa, tendo como método a Análise Documental, visando à coleta e análise dos dados adquiridos. Para isso, pautou-se em três fases de análise. Na primeira, selecionou-se documentos que seriam o objeto de análise. Para essa finalidade, utilizou-se as diretrizes curriculares de Brasil e Portugal e as produções acadêmicas (dissertações e artigos) acerca da Educação Estatística e Probabilística no Ensino Médio. Na segunda fase, trabalhou-se na coleta dos dados ( temas, conteúdos, habilidades e competências relacionados à Probabilidade e à Estatística) provenientes dos documentos curriculares e das considerações das produções acadêmicas. Com base nesses dados, realizou-se a análise dos resultados na terceira fase. Pôde-se apontar que as diretrizes curriculares brasileiras e portuguesas contemplam recomendações quanto ao ensino e aprendizagem da Educação Estatística e Probabilística no Ensino Médio e Secundário; porém, quanto aos aspectos teórico-metodológicos, não há uma orientação didática específica. Dessa forma, pauta-se nas produções acadêmicas, estas, por sua vez, orientam quanto à “ensinagem”1 das temáticas presentes nas diretrizes curriculares. Acredita-se que o currículo não seja apenas um regulador de conteúdo a ser trabalhado em sua totalidade, mas que possibilite mudanças consideráveis no aprendizado do Ensino da Estatística e da Probabilidade. Dessa forma, considera-se relevante uma reestruturação nas atuais Diretrizes Curriculares.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística",
-    "letramento estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-38863504",
+ "autor": "Maria Joseane de Souza Alves Sabino da Silva",
+ "ano": 2023,
+ "tipo": "Dissertação",
+ "titulo": "A Educação Estatística nos Documentos Curriculares do Ensino Médio e Secundário de Brasil e Portugal",
+ "instituicao": "Universidade Cruzeiro do Sul",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Marcio Eugen Klingenschmid Lopes dos Santos",
+ "programa": "Ensino de Ciências",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Estatística; Letramento Estatístico; Estatística; Ensino Médio; Diretrizes Curriculares",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20NOS%20DOCUMENTOS%20CURRICULARES%20DO%20ENSINO%20M%C3%89DIO%20E%20SECUND%C3%81RIO%20DE%20BRASIL%20E%20PORTUGAL%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20NOS%20DOCUMENTOS%20CURRICULARES%20DO%20ENSINO%20M%C3%89DIO%20E%20SECUND%C3%81RIO%20DE%20BRASIL%20E%20PORTUGAL&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38863504"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "38863504",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Estatística",
+  "Letramento Estatístico",
+  "Estatística",
+  "Ensino Médio",
+  "Diretrizes Curriculares"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-38863504.svg",
+ "resumo": "Neste trabalho, investigou-se as Diretrizes Curriculares de Brasil e Portugal no componente de Matemática para o Ensino Médio e Secundário. Para isso, esta pesquisa teve como norteadora esta questão: como os conteúdos propostos para o ensino da Probabilidade e da Estatística no Ensino Médio e Secundário se apresentam nos documentos curriculares de Brasil e Portugal? Este estudo de documentos curriculares pautou-se em alguns aspectos: as semelhanças entre as propostas de ensino dos dois países e sua proximidade cultural, os avanços nas pesquisas em Educação Estatística, os poucos trabalhos acerca do tema pesquisa e a maneira como cada país propõe e recomenda o ensino da Educação Estatística e Probabilística. Assim, verificou-se e apresentou-se as recomendações das diretrizes curriculares brasileiras e portuguesas acerca do ensino e aprendizagem da Probabilidade e da Estatística para o Ensino Médio e Secundário. Também se analisou os aspectos teórico-metodológicos apresentados nos dois documentos oficiais e sua aplicação em cada um desses cursos. Para tanto, utilizou-se uma abordagem qualitativa, tendo como método a Análise Documental, visando à coleta e análise dos dados adquiridos. Para isso, pautou-se em três fases de análise. Na primeira, selecionou-se documentos que seriam o objeto de análise. Para essa finalidade, utilizou-se as diretrizes curriculares de Brasil e Portugal e as produções acadêmicas (dissertações e artigos) acerca da Educação Estatística e Probabilística no Ensino Médio. Na segunda fase, trabalhou-se na coleta dos dados ( temas, conteúdos, habilidades e competências relacionados à Probabilidade e à Estatística) provenientes dos documentos curriculares e das considerações das produções acadêmicas. Com base nesses dados, realizou-se a análise dos resultados na terceira fase. Pôde-se apontar que as diretrizes curriculares brasileiras e portuguesas contemplam recomendações quanto ao ensino e aprendizagem da Educação Estatística e Probabilística no Ensino Médio e Secundário; porém, quanto aos aspectos teórico-metodológicos, não há uma orientação didática específica. Dessa forma, pauta-se nas produções acadêmicas, estas, por sua vez, orientam quanto à “ensinagem”1 das temáticas presentes nas diretrizes curriculares. Acredita-se que o currículo não seja apenas um regulador de conteúdo a ser trabalhado em sua totalidade, mas que possibilite mudanças consideráveis no aprendizado do Ensino da Estatística e da Probabilidade. Dessa forma, considera-se relevante uma reestruturação nas atuais Diretrizes Curriculares.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística",
+  "letramento estatístico"
+ ],
+ "ids_duplicados": []
 }

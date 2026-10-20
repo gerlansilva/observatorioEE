@@ -1,59 +1,59 @@
 {
-  "id": "capes-37629874",
-  "autor": "Mayra Darly da Silva",
-  "ano": 2023,
-  "tipo": "Tese",
-  "titulo": "ESTUDANTES CEGOS INTERPRETANDO GRÁFICOS: relações entre aspectos visuais e conceituais e adequações para o ensino",
-  "instituicao": "Universidade Federal de Pernambuco",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Liliane Maria Teixeira Lima de Carvalho",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "letramento estatístico; interpretação de gráficos; estudantes cegos.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22ESTUDANTES%20CEGOS%20INTERPRETANDO%20GR%C3%81FICOS%3A%20rela%C3%A7%C3%B5es%20entre%20aspectos%20visuais%20e%20conceituais%20e%20adequa%C3%A7%C3%B5es%20para%20o%20ensino%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESTUDANTES%20CEGOS%20INTERPRETANDO%20GR%C3%81FICOS%3A%20rela%C3%A7%C3%B5es%20entre%20aspectos%20visuais%20e%20conceituais%20e%20adequa%C3%A7%C3%B5es%20para%20o%20ensino&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37629874"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "37629874",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "letramento estatístico",
-    "interpretação de gráficos",
-    "estudantes cegos."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-37629874.svg",
-  "resumo": "O objetivo geral desta tese é analisar desafios e possibilidades para estudante(s) cego(s) estabelecer(em) relações entre aspectos visuais e conceituais na interpretação de gráficos na perspectiva do Letramento Estatístico. Em termos específicos busca-se: investigar desafios e possibilidades na adequação de gráficos estatísticos para o trabalho com alunos cegos a partir do contexto do Instituto Benjamin Constant (IBC); identificar e analisar tarefas envolvendo gráficos que favorecem o estabelecimento de relações entre aspectos visuais e conceituais na perspectiva do Letramento Estatístico em livros didáticos dos anos finais em tinta e adaptados; caracterizar o contexto educacional em relação ao atendimento das necessidades educacionais de um aluno cego; e analisar como o aluno cego estabelece relações entre aspectos visuais e conceituais ao trabalhar com gráficos na perspectiva do Letramento Estatístico. A pesquisa, de cunho qualitativo, iniciou com uma Revisão Sistemática da Literatura (RSL) e mais quatro etapas, incluindo pesquisa documental e empírica, alinhadas aos objetivos específicos. A RSL evidenciou serem escassas teses e dissertações nacionais sobre o ensino e a aprendizagem de estatística para estudantes cegos. Em âmbito internacional destacam-se artigos que avaliam de forma técnica alguns recursos destinados à leitura e interpretação de gráficos por estudantes/pessoas cegas, mas sem enfatizar a importância dos contextos das atividades e questionamentos críticos. Na etapa 1 realizou-se entrevista semiestruturada com um professor do Instituto Benjamim Constant cujos resultados agregaram informações importantes para o trabalho com gráficos com estudantes cegos. Na etapa 2 realizou-se mapeamento e análise de tarefas sobre gráficos em coleções de livros didáticos dos anos finais, em tinta e adaptados em braille. Identificou-se, também, algumas tarefas sobre gráficos estatísticos para compor a entrevista com o estudante cego. Na escola campo de pesquisa, identificada na etapa 3, realizou-se os seguintes procedimentos metodológicos: análise do Projeto Político Pedagógico, entrevista semiestruturada com a gestora escolar, sondagem com a profissional da sala de Atendimento Educacional Especializado (AEE) e estabelecimento de contato inicial com o estudante cego e sua genitora. O estudante cego, chamado ficticiamente José, não domina o braille e não teve acesso à educação durante a pandemia (em 2020 e 2021). A sondagem com a profissional do AEE foi crucial para adaptar as tarefas tornando-as acessíveis para as intervenções realizadascom José. Por fim, na etapa 4 foi realizada entrevista semiestruturada com José, utilizando tarefas identificadas na etapa 2 devido ao potencial delas para o alcance dos objetivos propostos no estudo. A leitura e interpretação do gráfico por José se deu em função da sua compreensão, sobretudo, dos elementos do conhecimento (contexto, escala unitária e representação) e da linguagem envolvendo aspectos conceituais dos gráficos. As mediações da pesquisadora durante as intervenções foram fundamentais para mobilizar compreensões do estudante. Concluímos que para que o estudante cego estabelecesse relações entre aspectos visuais e conceituais a partir de gráficos, na perspectiva do Letramento Estatístico, foram necessárias adaptações e adequações que consideraram sua subjetividade, utilizando tarefas que possibilitaram articulações entre dimensões cognitivas e disposicionais e processos de mediação sistematizados.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "letramento estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-37629874",
+ "autor": "Mayra Darly da Silva",
+ "ano": 2023,
+ "tipo": "Tese",
+ "titulo": "ESTUDANTES CEGOS INTERPRETANDO GRÁFICOS: relações entre aspectos visuais e conceituais e adequações para o ensino",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Liliane Maria Teixeira Lima de Carvalho",
+ "programa": "Educação Matemática e Tecnológica",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "letramento estatístico; interpretação de gráficos; estudantes cegos.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22ESTUDANTES%20CEGOS%20INTERPRETANDO%20GR%C3%81FICOS%3A%20rela%C3%A7%C3%B5es%20entre%20aspectos%20visuais%20e%20conceituais%20e%20adequa%C3%A7%C3%B5es%20para%20o%20ensino%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESTUDANTES%20CEGOS%20INTERPRETANDO%20GR%C3%81FICOS%3A%20rela%C3%A7%C3%B5es%20entre%20aspectos%20visuais%20e%20conceituais%20e%20adequa%C3%A7%C3%B5es%20para%20o%20ensino&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37629874"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "37629874",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "letramento estatístico",
+  "interpretação de gráficos",
+  "estudantes cegos."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-37629874.svg",
+ "resumo": "O objetivo geral desta tese é analisar desafios e possibilidades para estudante(s) cego(s) estabelecer(em) relações entre aspectos visuais e conceituais na interpretação de gráficos na perspectiva do Letramento Estatístico. Em termos específicos busca-se: investigar desafios e possibilidades na adequação de gráficos estatísticos para o trabalho com alunos cegos a partir do contexto do Instituto Benjamin Constant (IBC); identificar e analisar tarefas envolvendo gráficos que favorecem o estabelecimento de relações entre aspectos visuais e conceituais na perspectiva do Letramento Estatístico em livros didáticos dos anos finais em tinta e adaptados; caracterizar o contexto educacional em relação ao atendimento das necessidades educacionais de um aluno cego; e analisar como o aluno cego estabelece relações entre aspectos visuais e conceituais ao trabalhar com gráficos na perspectiva do Letramento Estatístico. A pesquisa, de cunho qualitativo, iniciou com uma Revisão Sistemática da Literatura (RSL) e mais quatro etapas, incluindo pesquisa documental e empírica, alinhadas aos objetivos específicos. A RSL evidenciou serem escassas teses e dissertações nacionais sobre o ensino e a aprendizagem de estatística para estudantes cegos. Em âmbito internacional destacam-se artigos que avaliam de forma técnica alguns recursos destinados à leitura e interpretação de gráficos por estudantes/pessoas cegas, mas sem enfatizar a importância dos contextos das atividades e questionamentos críticos. Na etapa 1 realizou-se entrevista semiestruturada com um professor do Instituto Benjamim Constant cujos resultados agregaram informações importantes para o trabalho com gráficos com estudantes cegos. Na etapa 2 realizou-se mapeamento e análise de tarefas sobre gráficos em coleções de livros didáticos dos anos finais, em tinta e adaptados em braille. Identificou-se, também, algumas tarefas sobre gráficos estatísticos para compor a entrevista com o estudante cego. Na escola campo de pesquisa, identificada na etapa 3, realizou-se os seguintes procedimentos metodológicos: análise do Projeto Político Pedagógico, entrevista semiestruturada com a gestora escolar, sondagem com a profissional da sala de Atendimento Educacional Especializado (AEE) e estabelecimento de contato inicial com o estudante cego e sua genitora. O estudante cego, chamado ficticiamente José, não domina o braille e não teve acesso à educação durante a pandemia (em 2020 e 2021). A sondagem com a profissional do AEE foi crucial para adaptar as tarefas tornando-as acessíveis para as intervenções realizadascom José. Por fim, na etapa 4 foi realizada entrevista semiestruturada com José, utilizando tarefas identificadas na etapa 2 devido ao potencial delas para o alcance dos objetivos propostos no estudo. A leitura e interpretação do gráfico por José se deu em função da sua compreensão, sobretudo, dos elementos do conhecimento (contexto, escala unitária e representação) e da linguagem envolvendo aspectos conceituais dos gráficos. As mediações da pesquisadora durante as intervenções foram fundamentais para mobilizar compreensões do estudante. Concluímos que para que o estudante cego estabelecesse relações entre aspectos visuais e conceituais a partir de gráficos, na perspectiva do Letramento Estatístico, foram necessárias adaptações e adequações que consideraram sua subjetividade, utilizando tarefas que possibilitaram articulações entre dimensões cognitivas e disposicionais e processos de mediação sistematizados.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "letramento estatístico"
+ ],
+ "ids_duplicados": []
 }

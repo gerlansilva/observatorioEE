@@ -1,57 +1,57 @@
 {
-  "id": "capes-41456309",
-  "autor": "Amanda Cristina de Sousa",
-  "ano": 2024,
-  "tipo": "Dissertação",
-  "titulo": "ENSINO DE MEDIDAS DE TENDÊNCIA CENTRAL VIA RESOLUÇÃO DE PROBLEMAS: análise da compreensão de alunos do 1º ano do Ensino Médio",
-  "instituicao": "Universidade Estadual de Maringá",
-  "cidade": "",
-  "estado": "Paraná",
-  "regiao": "Sul",
-  "orientador": "Marcelo Carlos de Proenca",
-  "programa": "EDUCAÇÃO PARA A CIÊNCIA E A MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Resolução de Problemas. Sala de Aula. Matemática. Estatística. Proposta de Ensino.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20DE%20MEDIDAS%20DE%20TEND%C3%8ANCIA%20CENTRAL%20VIA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%3A%20an%C3%A1lise%20da%20compreens%C3%A3o%20de%20alunos%20do%201%C2%BA%20ano%20do%20Ensino%20M%C3%A9dio%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20DE%20MEDIDAS%20DE%20TEND%C3%8ANCIA%20CENTRAL%20VIA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%3A%20an%C3%A1lise%20da%20compreens%C3%A3o%20de%20alunos%20do%201%C2%BA%20ano%20do%20Ensino%20M%C3%A9dio&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41456309"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "41456309",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Resolução de Problemas. Sala de Aula. Matemática. Estatística. Proposta de Ensino."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-41456309.svg",
-  "resumo": "A Resolução de Problemas em matemática pode ser debatida em uma abordagem de ensino que ultrapassa a mera manipulação de fórmulas e algoritmos, sendo essencial para o desenvolvimento do pensamento matemático e da capacidade analítica. O objetivo do estudo é analisar a contribuição de uma proposta de ensino via Resolução de Problemas para favorecer a compreensão do conteúdo de medidas de tendência central. Para tal, elaboramos uma proposta de ensino do conteúdo de tendência de medidas central na abordagem do Ensino-Aprendizagem de Matemática via Resolução de Problemas (EAMvRP). O estudo classifica-se como uma pesquisa de campo, a qual faz observações diretas das atividades do grupo estudado e conduz entrevistas com informantes para captar as suas explicações e interpretações dos eventos dentro do grupo. Os participantes foram 32 alunos do primeiro ano do Ensino Médio, de um colégio estadual localizado em uma cidade do norte do Paraná. A análise dos dados buscou descrever quais estratégias foram empregadas por cada aluno ou grupo ao enfrentar os desafios propostos; para as dificuldades nas etapas de Resolução de Problemas, foi elaborado um quadro detalhado, identificando e destacando as dificuldades encontradas em cada etapa do processo de resolução, bem como para cada problema específico; a participação e motivação dos alunos/grupos foi abordada por meio da elaboração de quadros distintos para resumir tanto a participação ativa quanto a motivação evidenciada pelos alunos ou grupos ao longo do processo de resolução; para analisar as compreensões dos alunos sobre as medidas e tendência central, foi elaborado um questionário aplicado após o fim da sequência didática. Os resultados mostraram que houve uma compreensão quando os alunos foram envolvidos na busca de estratégias de resolução, nos debates de ideias e uso de seus conhecimentos, e, sobretudo, na compreensão das ideias das medidas de tendência central a partir da estratégia tomada como referência. Apesar das variações no desempenho dos grupos, é evidente que o auxílio e as ações da professora desempenharam um papel importante na condução das aprendizagens. Enfim, realizar aulas na abordagem do EAMvRP contribuiu para o entendimento dos conceitos estatísticos, tendo em vista o envolvimento dos alunos no processo de Resolução de Problemas o que ajudou a superar dificuldades e a promover uma aprendizagem significativa em relação às medidas de tendência central.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-41456309",
+ "autor": "Amanda Cristina de Sousa",
+ "ano": 2024,
+ "tipo": "Dissertação",
+ "titulo": "ENSINO DE MEDIDAS DE TENDÊNCIA CENTRAL VIA RESOLUÇÃO DE PROBLEMAS: análise da compreensão de alunos do 1º ano do Ensino Médio",
+ "instituicao": "Universidade Estadual de Maringá",
+ "cidade": "",
+ "estado": "Paraná",
+ "regiao": "Sul",
+ "orientador": "Marcelo Carlos de Proenca",
+ "programa": "Educação para A Ciência e A Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Resolução de Problemas. Sala de Aula. Matemática. Estatística. Proposta de Ensino.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20DE%20MEDIDAS%20DE%20TEND%C3%8ANCIA%20CENTRAL%20VIA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%3A%20an%C3%A1lise%20da%20compreens%C3%A3o%20de%20alunos%20do%201%C2%BA%20ano%20do%20Ensino%20M%C3%A9dio%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20DE%20MEDIDAS%20DE%20TEND%C3%8ANCIA%20CENTRAL%20VIA%20RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%3A%20an%C3%A1lise%20da%20compreens%C3%A3o%20de%20alunos%20do%201%C2%BA%20ano%20do%20Ensino%20M%C3%A9dio&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41456309"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "41456309",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Resolução de Problemas. Sala de Aula. Matemática. Estatística. Proposta de Ensino."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-41456309.svg",
+ "resumo": "A Resolução de Problemas em matemática pode ser debatida em uma abordagem de ensino que ultrapassa a mera manipulação de fórmulas e algoritmos, sendo essencial para o desenvolvimento do pensamento matemático e da capacidade analítica. O objetivo do estudo é analisar a contribuição de uma proposta de ensino via Resolução de Problemas para favorecer a compreensão do conteúdo de medidas de tendência central. Para tal, elaboramos uma proposta de ensino do conteúdo de tendência de medidas central na abordagem do Ensino-Aprendizagem de Matemática via Resolução de Problemas (EAMvRP). O estudo classifica-se como uma pesquisa de campo, a qual faz observações diretas das atividades do grupo estudado e conduz entrevistas com informantes para captar as suas explicações e interpretações dos eventos dentro do grupo. Os participantes foram 32 alunos do primeiro ano do Ensino Médio, de um colégio estadual localizado em uma cidade do norte do Paraná. A análise dos dados buscou descrever quais estratégias foram empregadas por cada aluno ou grupo ao enfrentar os desafios propostos; para as dificuldades nas etapas de Resolução de Problemas, foi elaborado um quadro detalhado, identificando e destacando as dificuldades encontradas em cada etapa do processo de resolução, bem como para cada problema específico; a participação e motivação dos alunos/grupos foi abordada por meio da elaboração de quadros distintos para resumir tanto a participação ativa quanto a motivação evidenciada pelos alunos ou grupos ao longo do processo de resolução; para analisar as compreensões dos alunos sobre as medidas e tendência central, foi elaborado um questionário aplicado após o fim da sequência didática. Os resultados mostraram que houve uma compreensão quando os alunos foram envolvidos na busca de estratégias de resolução, nos debates de ideias e uso de seus conhecimentos, e, sobretudo, na compreensão das ideias das medidas de tendência central a partir da estratégia tomada como referência. Apesar das variações no desempenho dos grupos, é evidente que o auxílio e as ações da professora desempenharam um papel importante na condução das aprendizagens. Enfim, realizar aulas na abordagem do EAMvRP contribuiu para o entendimento dos conceitos estatísticos, tendo em vista o envolvimento dos alunos no processo de Resolução de Problemas o que ajudou a superar dificuldades e a promover uma aprendizagem significativa em relação às medidas de tendência central.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

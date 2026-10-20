@@ -1,60 +1,60 @@
 {
-  "id": "capes-21814966",
-  "autor": "Itatiane Borges Lima",
-  "ano": 2016,
-  "tipo": "Dissertação",
-  "titulo": "Aulas de Combinatória no Ensino Médio: Como Estão Ocorrendo",
-  "instituicao": "Universidade Federal de Pernambuco",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Cristiane Azevedo dos Santos",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Ensino Médio; Combinatória; Aulas; Prática docente.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22AULAS%20DE%20COMBINAT%C3%93RIA%20NO%20ENSINO%20M%C3%89DIO%3A%20COMO%20EST%C3%83O%20OCORRENDO%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AULAS%20DE%20COMBINAT%C3%93RIA%20NO%20ENSINO%20M%C3%89DIO%3A%20COMO%20EST%C3%83O%20OCORRENDO&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21814966"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "21814966",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Ensino Médio",
-    "Combinatória",
-    "Aulas",
-    "Prática docente."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-21814966.svg",
-  "resumo": "O presente trabalho teve o objetivo de analisar o ensino de Combinatória pelos docentes em turmas de 2º ano de Ensino Médio. Para tanto, apoiou-se na Teoria dos Campos Conceituais de Vergnaud (1986) e na Teoria dos Conhecimentos Docentes de Professores que Ensinam Matemática, de Ball, Thames e Phelps (2008). O estudo foi realizado com dois professores formados em Licenciatura em Matemática, com o intuito de analisar os tipos de situações trabalhadas, os invariantes explicitados ao ensinar, as representações utilizadas e estimuladas durante as aulas e investigar o Conhecimento Pedagógicos do Conteúdo dos professores. Foram realizadas entrevistas iniciais, observações e videografias das aulas e entrevista final. As observações e videografias se deram durante todo o planejamento/aulas executadas pelos professores. Também foram solicitadas na entrevista final possibilidades de trabalhos com o conteúdo de Combinatória em diferentes anos e de que forma. Os resultados apontam que há dificuldades dos professores quanto ao trabalho com as situações e com os invariantes. Os professores não trabalham os invariantes de forma explícita, há dificuldades quanto à explicação e organização das características dos problemas, pouco exploram diferentes representações e as tentativas que fizeram não foram esgotadas, não possibilitando encontrar os resultados dos problemas, assim a resolução do problema era direcionada à utilização da fórmula. Identificamos que houve priorização das fórmulas pelos professores. Em relação aos Conhecimentos Pedagógicos dos Conteúdos, podemos afirmar que os professores, em certa instância, possuem esses conhecimentos, mesmo que algumas vezes não estejam esquematizados, metodologicamente falando, para a utilização em sala, ou seja, parece que precisa de um investimento maior por parte dos professores em relação aos seus conhecimentos. Há evidências da necessidade de perceber sobre a importância do trabalho com a Combinatória a partir de diferentes significados, representações e invariantes. Percebe-se que para que o professor possa superar suas dificuldades relativas a seu trabalho, deve buscar atualizações quanto à evolução de determinados conteúdos e sobre as mudanças pedagógicas.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de combinatória"
-  ],
-  "ids_duplicados": []
+ "id": "capes-21814966",
+ "autor": "Itatiane Borges Lima",
+ "ano": 2016,
+ "tipo": "Dissertação",
+ "titulo": "Aulas de Combinatória no Ensino Médio: Como Estão Ocorrendo",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Cristiane Azevedo dos Santos",
+ "programa": "Educação Matemática e Tecnológica",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Ensino Médio; Combinatória; Aulas; Prática docente.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22AULAS%20DE%20COMBINAT%C3%93RIA%20NO%20ENSINO%20M%C3%89DIO%3A%20COMO%20EST%C3%83O%20OCORRENDO%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=AULAS%20DE%20COMBINAT%C3%93RIA%20NO%20ENSINO%20M%C3%89DIO%3A%20COMO%20EST%C3%83O%20OCORRENDO&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21814966"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "21814966",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Ensino Médio",
+  "Combinatória",
+  "Aulas",
+  "Prática docente."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-21814966.svg",
+ "resumo": "O presente trabalho teve o objetivo de analisar o ensino de Combinatória pelos docentes em turmas de 2º ano de Ensino Médio. Para tanto, apoiou-se na Teoria dos Campos Conceituais de Vergnaud (1986) e na Teoria dos Conhecimentos Docentes de Professores que Ensinam Matemática, de Ball, Thames e Phelps (2008). O estudo foi realizado com dois professores formados em Licenciatura em Matemática, com o intuito de analisar os tipos de situações trabalhadas, os invariantes explicitados ao ensinar, as representações utilizadas e estimuladas durante as aulas e investigar o Conhecimento Pedagógicos do Conteúdo dos professores. Foram realizadas entrevistas iniciais, observações e videografias das aulas e entrevista final. As observações e videografias se deram durante todo o planejamento/aulas executadas pelos professores. Também foram solicitadas na entrevista final possibilidades de trabalhos com o conteúdo de Combinatória em diferentes anos e de que forma. Os resultados apontam que há dificuldades dos professores quanto ao trabalho com as situações e com os invariantes. Os professores não trabalham os invariantes de forma explícita, há dificuldades quanto à explicação e organização das características dos problemas, pouco exploram diferentes representações e as tentativas que fizeram não foram esgotadas, não possibilitando encontrar os resultados dos problemas, assim a resolução do problema era direcionada à utilização da fórmula. Identificamos que houve priorização das fórmulas pelos professores. Em relação aos Conhecimentos Pedagógicos dos Conteúdos, podemos afirmar que os professores, em certa instância, possuem esses conhecimentos, mesmo que algumas vezes não estejam esquematizados, metodologicamente falando, para a utilização em sala, ou seja, parece que precisa de um investimento maior por parte dos professores em relação aos seus conhecimentos. Há evidências da necessidade de perceber sobre a importância do trabalho com a Combinatória a partir de diferentes significados, representações e invariantes. Percebe-se que para que o professor possa superar suas dificuldades relativas a seu trabalho, deve buscar atualizações quanto à evolução de determinados conteúdos e sobre as mudanças pedagógicas.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de combinatória"
+ ],
+ "ids_duplicados": []
 }

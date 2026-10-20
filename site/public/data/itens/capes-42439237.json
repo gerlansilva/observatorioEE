@@ -1,59 +1,59 @@
 {
-  "id": "capes-42439237",
-  "autor": "Vanessa Matos Leal",
-  "ano": 2024,
-  "tipo": "Dissertação",
-  "titulo": "Propostas didáticas com apoio de recursos tecnológicos no ensino de estatística na licenciatura em matemática",
-  "instituicao": "Universidade Federal do Rio de Janeiro",
-  "cidade": "",
-  "estado": "Rio de Janeiro",
-  "regiao": "Sudeste",
-  "orientador": "Luciane de Souza Velasque",
-  "programa": "ENSINO DE MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Ensino da Estatística; Recursos tecnológicos; Formação docente",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Propostas%20did%C3%A1ticas%20com%20apoio%20de%20recursos%20tecnol%C3%B3gicos%20no%20ensino%20de%20estat%C3%ADstica%20na%20licenciatura%20em%20matem%C3%A1tica%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Propostas%20did%C3%A1ticas%20com%20apoio%20de%20recursos%20tecnol%C3%B3gicos%20no%20ensino%20de%20estat%C3%ADstica%20na%20licenciatura%20em%20matem%C3%A1tica&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42439237"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "42439237",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Ensino da Estatística",
-    "Recursos tecnológicos",
-    "Formação docente"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-42439237.svg",
-  "resumo": "O ensino de Estatística na Educação Básica é essencial e deve incluir habilidades e competências, alinhando-se à Base Nacional Comum Curricular (BNCC). A cada ano, as escolas recebem estudantes cada vez mais imersos em um ambiente tecnológico. Além disso, a cultura digital e a ampla disponibilidade de tecnologias impulsionam a inclusão de ferramentas digitais no ensino de Estatística, como planilhas eletrônicas e softwares estatísticos. Com isso, é necessário investir na formação inicial dos professores de matemática, incorporando recursos tecnológicos que ampliem a compreensão estatística e possibilitem análises de dados mais complexas. Isso também incentiva uma abordagem mais prática e integrada da Estatística no ensino da Educação Básica. Esta pesquisa, de abordagem quali-quanti, visa explorar propostas didáticas que amparadas por uso de recursos tecnológicos, podem potencializar a formação inicial do professor de matemática para o Ensino de Estatística na Educação Básica. O estudo foi realizado em 2022, na Universidade Federal do Estado do Rio de Janeiro (UNIRIO), com licenciandos em matemática. Os instrumentos de coleta de dados da pesquisa foram questionário, propostas didáticas desenvolvidas em uma disciplina introdutória de Estatística, planos de aulas apresentados pelos estudantes e o material de uma roda de conversa ocorrida ao final do curso. Como resultado, a pesquisa revelou a necessidade de diversificar ferramentas tecnológicas, indo além do GeoGebra, que foi identificado como a ferramenta mais conhecida e utilizada pelos licenciandos na resolução de atividades. Apesar disso, os participantes destacaram a importância de adotar ferramentas mais sofisticadas para análises complexas, especialmente no que diz respeito à gestão de dados. Além disso, ao integrar recursos tecnológicos de forma estratégica no ensino de Estatística durante a formação inicial de professores de matemática, observou-se um empoderamento dos futuros docentes, preparando-os para enfrentar os desafios do mundo contemporâneo orientado por dados.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-42439237",
+ "autor": "Vanessa Matos Leal",
+ "ano": 2024,
+ "tipo": "Dissertação",
+ "titulo": "Propostas didáticas com apoio de recursos tecnológicos no ensino de estatística na licenciatura em matemática",
+ "instituicao": "Universidade Federal do Rio de Janeiro",
+ "cidade": "",
+ "estado": "Rio de Janeiro",
+ "regiao": "Sudeste",
+ "orientador": "Luciane de Souza Velasque",
+ "programa": "Ensino de Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Ensino da Estatística; Recursos tecnológicos; Formação docente",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Propostas%20did%C3%A1ticas%20com%20apoio%20de%20recursos%20tecnol%C3%B3gicos%20no%20ensino%20de%20estat%C3%ADstica%20na%20licenciatura%20em%20matem%C3%A1tica%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Propostas%20did%C3%A1ticas%20com%20apoio%20de%20recursos%20tecnol%C3%B3gicos%20no%20ensino%20de%20estat%C3%ADstica%20na%20licenciatura%20em%20matem%C3%A1tica&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42439237"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "42439237",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Ensino da Estatística",
+  "Recursos tecnológicos",
+  "Formação docente"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-42439237.svg",
+ "resumo": "O ensino de Estatística na Educação Básica é essencial e deve incluir habilidades e competências, alinhando-se à Base Nacional Comum Curricular (BNCC). A cada ano, as escolas recebem estudantes cada vez mais imersos em um ambiente tecnológico. Além disso, a cultura digital e a ampla disponibilidade de tecnologias impulsionam a inclusão de ferramentas digitais no ensino de Estatística, como planilhas eletrônicas e softwares estatísticos. Com isso, é necessário investir na formação inicial dos professores de matemática, incorporando recursos tecnológicos que ampliem a compreensão estatística e possibilitem análises de dados mais complexas. Isso também incentiva uma abordagem mais prática e integrada da Estatística no ensino da Educação Básica. Esta pesquisa, de abordagem quali-quanti, visa explorar propostas didáticas que amparadas por uso de recursos tecnológicos, podem potencializar a formação inicial do professor de matemática para o Ensino de Estatística na Educação Básica. O estudo foi realizado em 2022, na Universidade Federal do Estado do Rio de Janeiro (UNIRIO), com licenciandos em matemática. Os instrumentos de coleta de dados da pesquisa foram questionário, propostas didáticas desenvolvidas em uma disciplina introdutória de Estatística, planos de aulas apresentados pelos estudantes e o material de uma roda de conversa ocorrida ao final do curso. Como resultado, a pesquisa revelou a necessidade de diversificar ferramentas tecnológicas, indo além do GeoGebra, que foi identificado como a ferramenta mais conhecida e utilizada pelos licenciandos na resolução de atividades. Apesar disso, os participantes destacaram a importância de adotar ferramentas mais sofisticadas para análises complexas, especialmente no que diz respeito à gestão de dados. Além disso, ao integrar recursos tecnológicos de forma estratégica no ensino de Estatística durante a formação inicial de professores de matemática, observou-se um empoderamento dos futuros docentes, preparando-os para enfrentar os desafios do mundo contemporâneo orientado por dados.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

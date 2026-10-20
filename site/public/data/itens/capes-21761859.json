@@ -1,60 +1,60 @@
 {
-  "id": "capes-21761859",
-  "autor": "Wanderlei Aparecida Grenchi",
-  "ano": 2016,
-  "tipo": "Tese",
-  "titulo": "Contribuições de um Programa de Ensino para o Letramento Probabilístico na Educação Básica",
-  "instituicao": "Universidade Anhanguera de São Paulo",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Maria Elisabette Brisola Brito Prado",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Matemática; Letramento Probabilístico; Programa de Ensino sobre Probabilidade e Risco; Formação de Professores",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Contribui%C3%A7%C3%B5es%20de%20um%20Programa%20de%20Ensino%20para%20o%20Letramento%20Probabil%C3%ADstico%20na%20Educa%C3%A7%C3%A3o%20B%C3%A1sica%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Contribui%C3%A7%C3%B5es%20de%20um%20Programa%20de%20Ensino%20para%20o%20Letramento%20Probabil%C3%ADstico%20na%20Educa%C3%A7%C3%A3o%20B%C3%A1sica&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21761859"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "21761859",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Matemática",
-    "Letramento Probabilístico",
-    "Programa de Ensino sobre Probabilidade e Risco",
-    "Formação de Professores"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-21761859.svg",
-  "resumo": "A presente tese possui como objeto de estudo um programa de ensino concebido originalmente por uma equipe de pesquisadores do Departamento de Educação da Universidade de Oxford visando o ensino e a aprendizagem de probabilidade e risco, principalmente, quanto a quatro demandas cognitivas, a saber: aleatoriedade; espaço amostral; quantificação de probabilidades; e compreensão do risco. O referido programa foi adaptado pelo Observatório da Educação da Universidade Anhanguera de São Paulo (OBEDUC – UNIAN) num projeto intitulado “Investigações sobre o processo de ensino e de aprendizagem de conceitos concernentes à probabilidade e estatística”. O objetivo da pesquisa consistiu em analisar, identificar e compreender as possíveis contribuições do programa de ensino sobre probabilidade e risco para a aprendizagem significativa de alunos do 9º ano do Ensino Fundamental, como também, para a prática letiva dos professores de Matemática que lecionam para estes alunos. Os principais aportes teóricos da pesquisa são: Nunes, Bryant, Piaget, Inhelder, Heitele, Garfield, Ahlgrem, Borovcnik, Batanero, Watson, Ireland, Gal, Gigerenzer, Hoffrage, Evans e Brant. A metodologia utilizada na pesquisa abrangeu duas etapas: Na primeira etapa contamos com a participação de 319 alunos do 9º ano do Ensino Fundamental oriundos de 5 unidades escolares distintas, para os quais foram preparadas e desenvolvidas atividades didáticas que culminaram num processo de intervenção pedagógica. Como fonte de coleta de dados, esses alunos também realizaram atividades de pré e pós-teste. A segunda etapa envolveu 5 professores de Matemática pertencentes a rede estadual de educação paulista e que lecionavam para os alunos participantes da pesquisa. Valemo-nos de entrevistas semiestruturadas para identificar as percepções dos professores acerca da contribuição do programa de ensino sobre probabilidade e risco para sua prática letiva. Os dados foram analisados qualitativa e quantitativamente. Os principais resultados da pesquisa apontam que o programa de ensino sobre probabilidade e risco ofereceu contribuições significativas para que os alunos compreendessem melhor os conceitos de aleatoriedade, espaço amostral e quantificação de probabilidades. Todavia, quanto à compreensão do risco, os alunos demonstraram possuir conhecimentos prévios ou intuitivos sobre assunto. Quanto aos professores investigados, identificamos que o programa de ensino contribuiu para melhorar suas práticas letivas, sobretudo, por meio da utilização de materiais concretos e de atividades específicas para o ensino probabilístico. Os resultados da pesquisa possibilitaram concluir que, mediante as intervenções e testes realizados com os alunos e as entrevistas com os professores, há evidências de que o programa de ensino sobre probabilidade e risco configura-se como um importante meio didático para o letramento probabilístico na educação básica.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "letramento probabilístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-21761859",
+ "autor": "Wanderlei Aparecida Grenchi",
+ "ano": 2016,
+ "tipo": "Tese",
+ "titulo": "Contribuições de um Programa de Ensino para o Letramento Probabilístico na Educação Básica",
+ "instituicao": "Universidade Anhanguera de São Paulo",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Maria Elisabette Brisola Brito Prado",
+ "programa": "Educação Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Matemática; Letramento Probabilístico; Programa de Ensino sobre Probabilidade e Risco; Formação de Professores",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Contribui%C3%A7%C3%B5es%20de%20um%20Programa%20de%20Ensino%20para%20o%20Letramento%20Probabil%C3%ADstico%20na%20Educa%C3%A7%C3%A3o%20B%C3%A1sica%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Contribui%C3%A7%C3%B5es%20de%20um%20Programa%20de%20Ensino%20para%20o%20Letramento%20Probabil%C3%ADstico%20na%20Educa%C3%A7%C3%A3o%20B%C3%A1sica&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21761859"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "21761859",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Matemática",
+  "Letramento Probabilístico",
+  "Programa de Ensino sobre Probabilidade e Risco",
+  "Formação de Professores"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-21761859.svg",
+ "resumo": "A presente tese possui como objeto de estudo um programa de ensino concebido originalmente por uma equipe de pesquisadores do Departamento de Educação da Universidade de Oxford visando o ensino e a aprendizagem de probabilidade e risco, principalmente, quanto a quatro demandas cognitivas, a saber: aleatoriedade; espaço amostral; quantificação de probabilidades; e compreensão do risco. O referido programa foi adaptado pelo Observatório da Educação da Universidade Anhanguera de São Paulo (OBEDUC – UNIAN) num projeto intitulado “Investigações sobre o processo de ensino e de aprendizagem de conceitos concernentes à probabilidade e estatística”. O objetivo da pesquisa consistiu em analisar, identificar e compreender as possíveis contribuições do programa de ensino sobre probabilidade e risco para a aprendizagem significativa de alunos do 9º ano do Ensino Fundamental, como também, para a prática letiva dos professores de Matemática que lecionam para estes alunos. Os principais aportes teóricos da pesquisa são: Nunes, Bryant, Piaget, Inhelder, Heitele, Garfield, Ahlgrem, Borovcnik, Batanero, Watson, Ireland, Gal, Gigerenzer, Hoffrage, Evans e Brant. A metodologia utilizada na pesquisa abrangeu duas etapas: Na primeira etapa contamos com a participação de 319 alunos do 9º ano do Ensino Fundamental oriundos de 5 unidades escolares distintas, para os quais foram preparadas e desenvolvidas atividades didáticas que culminaram num processo de intervenção pedagógica. Como fonte de coleta de dados, esses alunos também realizaram atividades de pré e pós-teste. A segunda etapa envolveu 5 professores de Matemática pertencentes a rede estadual de educação paulista e que lecionavam para os alunos participantes da pesquisa. Valemo-nos de entrevistas semiestruturadas para identificar as percepções dos professores acerca da contribuição do programa de ensino sobre probabilidade e risco para sua prática letiva. Os dados foram analisados qualitativa e quantitativamente. Os principais resultados da pesquisa apontam que o programa de ensino sobre probabilidade e risco ofereceu contribuições significativas para que os alunos compreendessem melhor os conceitos de aleatoriedade, espaço amostral e quantificação de probabilidades. Todavia, quanto à compreensão do risco, os alunos demonstraram possuir conhecimentos prévios ou intuitivos sobre assunto. Quanto aos professores investigados, identificamos que o programa de ensino contribuiu para melhorar suas práticas letivas, sobretudo, por meio da utilização de materiais concretos e de atividades específicas para o ensino probabilístico. Os resultados da pesquisa possibilitaram concluir que, mediante as intervenções e testes realizados com os alunos e as entrevistas com os professores, há evidências de que o programa de ensino sobre probabilidade e risco configura-se como um importante meio didático para o letramento probabilístico na educação básica.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "letramento probabilístico"
+ ],
+ "ids_duplicados": []
 }

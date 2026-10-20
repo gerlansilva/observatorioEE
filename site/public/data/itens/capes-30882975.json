@@ -1,61 +1,61 @@
 {
-  "id": "capes-30882975",
-  "autor": "Solange Aparecida Correa",
-  "ano": 2019,
-  "tipo": "Dissertação",
-  "titulo": "A isubordinação criativa e o processo dialógico na educação estatística na infância",
-  "instituicao": "Universidade Cruzeiro do Sul",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Celi Aparecida Espasandin Lopes",
-  "programa": "ENSINO DE CIÊNCIAS",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Narrativas; Insubordinação criativa; Processo argumentativo; Infância; Educação Estatística",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20isubordina%C3%A7%C3%A3o%20criativa%20e%20o%20processo%20dial%C3%B3gico%20na%20educa%C3%A7%C3%A3o%20estat%C3%ADstica%20na%20inf%C3%A2ncia%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20isubordina%C3%A7%C3%A3o%20criativa%20e%20o%20processo%20dial%C3%B3gico%20na%20educa%C3%A7%C3%A3o%20estat%C3%ADstica%20na%20inf%C3%A2ncia&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30882975"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "30882975",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Narrativas",
-    "Insubordinação criativa",
-    "Processo argumentativo",
-    "Infância",
-    "Educação Estatística"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-30882975.svg",
-  "resumo": "Esta é uma pesquisa qualitativa do tipo pesquisa-formação, que utiliza as narrativas autobiográficas como fonte de coleta de dados, com o objetivo de analisar os elementos argumentativos e identificar ações de insubordinação criativa dos alunos às propostas de atividades com estatística oferecidas pelo professor. O propósito do estudo sobre a insubordinação criativa e sobre o processo argumentativo na educação estatística na infância é investigar se e como as ações de insubordinação criativa, expressas nas narrativas orais, escritas e audiogravadas das crianças, favorecem o processo argumentativo durante o trabalho com a metodologia de Projetos de Classe, especificamente na área de estatística. Analisam-se narrativas de crianças de 7 anos, a fim de mostrar indícios de insubordinação criativa às propostas e aos questionamentos explicitados pela pesquisadora. Os dados foram coletados numa classe de 25 alunos de 2.º ano do Ensino Fundamental numa escola de ensino particular na cidade de Campinas no interior do estado de São Paulo. Procurou-se investigar a seguinte questão central: “Quais indícios de insubordinação criativa e de desenvolvimento do processo argumentativo no estudo de estatística emergem das narrativas das crianças?”. Ações insubordinadas criativamente revelaram-se em argumentos orais, escritos e videogravados quando em situações de questionamento, elaboração de questões e análise interpretativa de situações diversas. Assim, este trabalho mostrou a reflexividade narrativa das crianças de 7 anos e a potencialidade de pensamento crítico desde essa idade. E expôs também, através da narrativa da criança e do seu processo argumentativo, possíveis contribuições desta pesquisa para a produção de conhecimento na Educação Estatística e Matemática na Infância.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-30882975",
+ "autor": "Solange Aparecida Correa",
+ "ano": 2019,
+ "tipo": "Dissertação",
+ "titulo": "A isubordinação criativa e o processo dialógico na educação estatística na infância",
+ "instituicao": "Universidade Cruzeiro do Sul",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Celi Aparecida Espasandin Lopes",
+ "programa": "Ensino de Ciências",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Narrativas; Insubordinação criativa; Processo argumentativo; Infância; Educação Estatística",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20isubordina%C3%A7%C3%A3o%20criativa%20e%20o%20processo%20dial%C3%B3gico%20na%20educa%C3%A7%C3%A3o%20estat%C3%ADstica%20na%20inf%C3%A2ncia%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20isubordina%C3%A7%C3%A3o%20criativa%20e%20o%20processo%20dial%C3%B3gico%20na%20educa%C3%A7%C3%A3o%20estat%C3%ADstica%20na%20inf%C3%A2ncia&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30882975"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "30882975",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Narrativas",
+  "Insubordinação criativa",
+  "Processo argumentativo",
+  "Infância",
+  "Educação Estatística"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-30882975.svg",
+ "resumo": "Esta é uma pesquisa qualitativa do tipo pesquisa-formação, que utiliza as narrativas autobiográficas como fonte de coleta de dados, com o objetivo de analisar os elementos argumentativos e identificar ações de insubordinação criativa dos alunos às propostas de atividades com estatística oferecidas pelo professor. O propósito do estudo sobre a insubordinação criativa e sobre o processo argumentativo na educação estatística na infância é investigar se e como as ações de insubordinação criativa, expressas nas narrativas orais, escritas e audiogravadas das crianças, favorecem o processo argumentativo durante o trabalho com a metodologia de Projetos de Classe, especificamente na área de estatística. Analisam-se narrativas de crianças de 7 anos, a fim de mostrar indícios de insubordinação criativa às propostas e aos questionamentos explicitados pela pesquisadora. Os dados foram coletados numa classe de 25 alunos de 2.º ano do Ensino Fundamental numa escola de ensino particular na cidade de Campinas no interior do estado de São Paulo. Procurou-se investigar a seguinte questão central: “Quais indícios de insubordinação criativa e de desenvolvimento do processo argumentativo no estudo de estatística emergem das narrativas das crianças?”. Ações insubordinadas criativamente revelaram-se em argumentos orais, escritos e videogravados quando em situações de questionamento, elaboração de questões e análise interpretativa de situações diversas. Assim, este trabalho mostrou a reflexividade narrativa das crianças de 7 anos e a potencialidade de pensamento crítico desde essa idade. E expôs também, através da narrativa da criança e do seu processo argumentativo, possíveis contribuições desta pesquisa para a produção de conhecimento na Educação Estatística e Matemática na Infância.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": []
 }

@@ -1,61 +1,61 @@
 {
-  "id": "capes-21763774",
-  "autor": "Elvys Wagner Ferreira da Silva",
-  "ano": 2016,
-  "tipo": "Dissertação",
-  "titulo": "Saberes Estatísticos Mobilizados na Formação Docente de Professores dos Anos Iniciais do Ensino Fundamental",
-  "instituicao": "Universidade Federal do Pará",
-  "cidade": "",
-  "estado": "Pará",
-  "regiao": "Norte",
-  "orientador": "Elizabeth Gomes Souza",
-  "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICAS",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Campo da Prática Pedagógica; Saberes Docentes; Saberes Disciplinares; Educação Estatística; Campo da Formação",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22SABERES%20ESTAT%C3%8DSTICOS%20MOBILIZADOS%20NA%20FORMA%C3%87%C3%83O%20DOCENTE%20DE%20PROFESSORES%20DOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=SABERES%20ESTAT%C3%8DSTICOS%20MOBILIZADOS%20NA%20FORMA%C3%87%C3%83O%20DOCENTE%20DE%20PROFESSORES%20DOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21763774"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "21763774",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Campo da Prática Pedagógica",
-    "Saberes Docentes",
-    "Saberes Disciplinares",
-    "Educação Estatística",
-    "Campo da Formação"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-21763774.svg",
-  "resumo": "Este estudo, desenvolvido no Mestrado em Educação em Ciências e Matemáticas do Instituto de Educação Matemática e Científica/IEMCI (UFPA), tem por objetivo investigar, a partir da experiência formativa em Estatística no âmbito da formação inicial, que Saberes Disciplinares são mobilizados no campo da formação para o campo da prática pedagógica para a docência nos anos iniciais do Ensino Fundamental. A partir da literatura de saberes profissionais docentes à luz de Shulman (1986), Gauthier et. al. (1998) e Tardif (2002) indago que saberes disciplinares são mobilizados dentro da experiência formativa e como se expressam no campo formativo e repercutem na prática docente de futuros professores dos anos iniciais. Em consonância com as leituras relacionadas aos saberes docentes, tem-se como aporte teórico a literatura voltada à Educação Estatística no cenário internacional Batanero e Diaz (2010) e Garfield e Gal (1999) e, no Brasil, os estudos de Lopes (1998; 2003), Cazorla (2002; 2004), Cazorla et. al. (2010), Campos (2007), Campos et. al. (2011), Guimarães (2009) dentre outros autores que tem contribuído para a relevância das pesquisas nessa área. Para a realização do estudo, contou-se com a participação de licenciandos do curso de Licenciatura Integrada em Educação em Ciências, Matemática e Linguagens que se disponibilizaram a participar da pesquisa. A investigação apresenta como campo de pesquisa dois contextos, a sala de aula do curso de formação inicial de professores dos anos iniciais (Licenciatura Integrada) e a sala de aula dos anos iniciais (03 escolas das redes públicas e 02 privadas de Belém). O material de análise foi produzido no campo de formação proveniente do Encontro Formativo e no campo da prática pedagógica através de atividades ministradas pelos licenciandos. O conteúdo analítico foi constituído por transcrições dos eventos vivenciados no trabalho de campo concernente a áudios e vídeos de todo o processo formativo e desenvolvimento de atividades, bem como a compilação de registros de atividades dos licenciados no Encontro Formativo e de registros das produções de construções de gráficos dos alunos dos anos iniciais durante as atividades. Nesta investigação, pautou-se a análise dos saberes mobilizados no campo da formação para o campo da prática pedagógica para a docência nos anos iniciais ao ensinarem Estatística, dando ênfase aos Saberes Disciplinares, por entender que esses conteúdos precisam ser investidos na formação do futuro professor dos anos iniciais. No que tange aos Saberes Disciplinares concernentes aos Saberes Estatísticos, identifiquei cinco categorias de saberes que sobressaíram das análises: saber relacionado aos conceitos iniciais da Estatística, saber relacionado à construção de gráficos, saber da leitura e interpretação dos dados, saber relativo aos elementos que compõe um gráfico e saber relativo à porcentagem. Esses saberes profissionais voltados à disciplina, ao conteúdo, à matéria, se manifestaram e se ampliaram durante a prática pedagógica dos licenciandos. Nesse processo, alguns dos saberes elencados nas análises foram aprimorados, tópicos de Matemática foram inseridos nas atividades no campo da prática pedagógica, bem como, aproximações de atividades contextualizadas. Enfim, os Saberes Disciplinares mobilizados no movimento do processo formativo, ou seja, nos dois campos de pesquisa desta investigação compreenderam a formação profissional dos licenciandos para ensinar Estatística nos anos iniciais de escolarização ancorados na prática profissional dos professores.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-21763774",
+ "autor": "Elvys Wagner Ferreira da Silva",
+ "ano": 2016,
+ "tipo": "Dissertação",
+ "titulo": "Saberes Estatísticos Mobilizados na Formação Docente de Professores dos Anos Iniciais do Ensino Fundamental",
+ "instituicao": "Universidade Federal do Pará",
+ "cidade": "",
+ "estado": "Pará",
+ "regiao": "Norte",
+ "orientador": "Elizabeth Gomes Souza",
+ "programa": "Educação em Ciências e Matemáticas",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Campo da Prática Pedagógica; Saberes Docentes; Saberes Disciplinares; Educação Estatística; Campo da Formação",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22SABERES%20ESTAT%C3%8DSTICOS%20MOBILIZADOS%20NA%20FORMA%C3%87%C3%83O%20DOCENTE%20DE%20PROFESSORES%20DOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=SABERES%20ESTAT%C3%8DSTICOS%20MOBILIZADOS%20NA%20FORMA%C3%87%C3%83O%20DOCENTE%20DE%20PROFESSORES%20DOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21763774"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "21763774",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Campo da Prática Pedagógica",
+  "Saberes Docentes",
+  "Saberes Disciplinares",
+  "Educação Estatística",
+  "Campo da Formação"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-21763774.svg",
+ "resumo": "Este estudo, desenvolvido no Mestrado em Educação em Ciências e Matemáticas do Instituto de Educação Matemática e Científica/IEMCI (UFPA), tem por objetivo investigar, a partir da experiência formativa em Estatística no âmbito da formação inicial, que Saberes Disciplinares são mobilizados no campo da formação para o campo da prática pedagógica para a docência nos anos iniciais do Ensino Fundamental. A partir da literatura de saberes profissionais docentes à luz de Shulman (1986), Gauthier et. al. (1998) e Tardif (2002) indago que saberes disciplinares são mobilizados dentro da experiência formativa e como se expressam no campo formativo e repercutem na prática docente de futuros professores dos anos iniciais. Em consonância com as leituras relacionadas aos saberes docentes, tem-se como aporte teórico a literatura voltada à Educação Estatística no cenário internacional Batanero e Diaz (2010) e Garfield e Gal (1999) e, no Brasil, os estudos de Lopes (1998; 2003), Cazorla (2002; 2004), Cazorla et. al. (2010), Campos (2007), Campos et. al. (2011), Guimarães (2009) dentre outros autores que tem contribuído para a relevância das pesquisas nessa área. Para a realização do estudo, contou-se com a participação de licenciandos do curso de Licenciatura Integrada em Educação em Ciências, Matemática e Linguagens que se disponibilizaram a participar da pesquisa. A investigação apresenta como campo de pesquisa dois contextos, a sala de aula do curso de formação inicial de professores dos anos iniciais (Licenciatura Integrada) e a sala de aula dos anos iniciais (03 escolas das redes públicas e 02 privadas de Belém). O material de análise foi produzido no campo de formação proveniente do Encontro Formativo e no campo da prática pedagógica através de atividades ministradas pelos licenciandos. O conteúdo analítico foi constituído por transcrições dos eventos vivenciados no trabalho de campo concernente a áudios e vídeos de todo o processo formativo e desenvolvimento de atividades, bem como a compilação de registros de atividades dos licenciados no Encontro Formativo e de registros das produções de construções de gráficos dos alunos dos anos iniciais durante as atividades. Nesta investigação, pautou-se a análise dos saberes mobilizados no campo da formação para o campo da prática pedagógica para a docência nos anos iniciais ao ensinarem Estatística, dando ênfase aos Saberes Disciplinares, por entender que esses conteúdos precisam ser investidos na formação do futuro professor dos anos iniciais. No que tange aos Saberes Disciplinares concernentes aos Saberes Estatísticos, identifiquei cinco categorias de saberes que sobressaíram das análises: saber relacionado aos conceitos iniciais da Estatística, saber relacionado à construção de gráficos, saber da leitura e interpretação dos dados, saber relativo aos elementos que compõe um gráfico e saber relativo à porcentagem. Esses saberes profissionais voltados à disciplina, ao conteúdo, à matéria, se manifestaram e se ampliaram durante a prática pedagógica dos licenciandos. Nesse processo, alguns dos saberes elencados nas análises foram aprimorados, tópicos de Matemática foram inseridos nas atividades no campo da prática pedagógica, bem como, aproximações de atividades contextualizadas. Enfim, os Saberes Disciplinares mobilizados no movimento do processo formativo, ou seja, nos dois campos de pesquisa desta investigação compreenderam a formação profissional dos licenciandos para ensinar Estatística nos anos iniciais de escolarização ancorados na prática profissional dos professores.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": []
 }

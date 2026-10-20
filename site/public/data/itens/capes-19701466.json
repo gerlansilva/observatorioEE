@@ -1,57 +1,57 @@
 {
-  "id": "capes-19701466",
-  "autor": "Gisele Aparecida Massuela Gerdenits",
-  "ano": 2014,
-  "tipo": "Dissertação",
-  "titulo": "Raciocínio combinatório: uma proposta para professores de matemática do ensino fundamental – anos finais",
-  "instituicao": "Universidade Federal de São Carlos",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Magda da Silva Peixoto",
-  "programa": "ENSINO DE CIÊNCIAS EXATAS",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Raciocínio Combinatório . Princípio Multiplicativo. Diagrama de Árvore. E numeraç ão das Possibilidades. Materiais Manipulativos.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Racioc%C3%ADnio%20combinat%C3%B3rio%3A%20uma%20proposta%20para%20professores%20de%20matem%C3%A1tica%20do%20ensino%20fundamental%20%E2%80%93%20anos%20finais%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Racioc%C3%ADnio%20combinat%C3%B3rio%3A%20uma%20proposta%20para%20professores%20de%20matem%C3%A1tica%20do%20ensino%20fundamental%20%E2%80%93%20anos%20finais&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19701466"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "19701466",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Raciocínio Combinatório . Princípio Multiplicativo. Diagrama de Árvore. E numeraç ão das Possibilidades. Materiais Manipulativos."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-19701466.svg",
-  "resumo": "A presente pesquisa tem como objetivo principal a confecção de material manipulável para trabalhar sequências de atividades introduzindo de maneira intuitiva e natural a noção de Análise Combinatória no Ensino Fundamental – Anos Finais sem a utilização de fórmulas, incentivando o uso do Princípio Multiplicativo, do diagrama de árvore e da enumeração das possibilidades como uma ferramenta importante para a resolução de vários problemas. Iniciamos a pesquisa fazendo uma descrição dos documentos curriculares vigentes na Secretaria da Educação do Estado de São de São Paulo, seguida por um panorama histórico e fundamentação teórica. A pesquisa foi desenvolvida com a aplicação de três atividades com alunos da 5ª série/6º ano a 8ª série/9º ano do Ensino Fundamental de uma Escola Pública Estadual da cidade de Sorocaba/SP. Essas atividades foram elaboradas com o objetivo de constatar as dificuldades dos alunos no desenvolvimento de problemas que envolvam o raciocínio combinatório e propor materiais manipulativos, de baixo custo, que auxiliem na construção e compreensão desse conteúdo, considerados de difícil entendimento por grande parte de alunos e professores. Esses materiais manipulativos representam o produto final dessa pesquisa e espera-se que os professores o utilizem em suas salas de aulas para tornar suas aulas mais ricas e dinâmicas despertando o interesse dos alunos.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "raciocínio combinatório"
-  ],
-  "ids_duplicados": []
+ "id": "capes-19701466",
+ "autor": "Gisele Aparecida Massuela Gerdenits",
+ "ano": 2014,
+ "tipo": "Dissertação",
+ "titulo": "Raciocínio combinatório: uma proposta para professores de matemática do ensino fundamental – anos finais",
+ "instituicao": "Universidade Federal de São Carlos",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Magda da Silva Peixoto",
+ "programa": "Ensino de Ciências Exatas",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Raciocínio Combinatório . Princípio Multiplicativo. Diagrama de Árvore. E numeraç ão das Possibilidades. Materiais Manipulativos.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Racioc%C3%ADnio%20combinat%C3%B3rio%3A%20uma%20proposta%20para%20professores%20de%20matem%C3%A1tica%20do%20ensino%20fundamental%20%E2%80%93%20anos%20finais%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Racioc%C3%ADnio%20combinat%C3%B3rio%3A%20uma%20proposta%20para%20professores%20de%20matem%C3%A1tica%20do%20ensino%20fundamental%20%E2%80%93%20anos%20finais&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19701466"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "19701466",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Raciocínio Combinatório . Princípio Multiplicativo. Diagrama de Árvore. E numeraç ão das Possibilidades. Materiais Manipulativos."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-19701466.svg",
+ "resumo": "A presente pesquisa tem como objetivo principal a confecção de material manipulável para trabalhar sequências de atividades introduzindo de maneira intuitiva e natural a noção de Análise Combinatória no Ensino Fundamental – Anos Finais sem a utilização de fórmulas, incentivando o uso do Princípio Multiplicativo, do diagrama de árvore e da enumeração das possibilidades como uma ferramenta importante para a resolução de vários problemas. Iniciamos a pesquisa fazendo uma descrição dos documentos curriculares vigentes na Secretaria da Educação do Estado de São de São Paulo, seguida por um panorama histórico e fundamentação teórica. A pesquisa foi desenvolvida com a aplicação de três atividades com alunos da 5ª série/6º ano a 8ª série/9º ano do Ensino Fundamental de uma Escola Pública Estadual da cidade de Sorocaba/SP. Essas atividades foram elaboradas com o objetivo de constatar as dificuldades dos alunos no desenvolvimento de problemas que envolvam o raciocínio combinatório e propor materiais manipulativos, de baixo custo, que auxiliem na construção e compreensão desse conteúdo, considerados de difícil entendimento por grande parte de alunos e professores. Esses materiais manipulativos representam o produto final dessa pesquisa e espera-se que os professores o utilizem em suas salas de aulas para tornar suas aulas mais ricas e dinâmicas despertando o interesse dos alunos.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "raciocínio combinatório"
+ ],
+ "ids_duplicados": []
 }

@@ -1,62 +1,62 @@
 {
-  "id": "capes-29596148",
-  "autor": "Isabel Cristina Pereira dos Santos Coelho",
-  "ano": 2019,
-  "tipo": "Dissertação",
-  "titulo": "Educação a Distância: uma análise do processo de ensino-aprendizagem em disciplina de Probabilidade e Estatística",
-  "instituicao": "Universidade Federal de Juiz de Fora",
-  "cidade": "",
-  "estado": "Minas Gerais",
-  "regiao": "Sudeste",
-  "orientador": "Ronaldo Rocha Bastos",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Estatística; Ensino de Estatística; Ensino Superior; Educação a Distância",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Educa%C3%A7%C3%A3o%20a%20Dist%C3%A2ncia%3A%20uma%20an%C3%A1lise%20do%20processo%20de%20ensino-aprendizagem%20em%20disciplina%20de%20Probabilidade%20e%20Estat%C3%ADstica%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educa%C3%A7%C3%A3o%20a%20Dist%C3%A2ncia%3A%20uma%20an%C3%A1lise%20do%20processo%20de%20ensino-aprendizagem%20em%20disciplina%20de%20Probabilidade%20e%20Estat%C3%ADstica&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29596148"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "29596148",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Estatística",
-    "Ensino de Estatística",
-    "Ensino Superior",
-    "Educação a Distância"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-29596148.svg",
-  "resumo": "Os conteúdos de estatística no Ensino Fundamental II e Médio são abordados por professores de Matemática e, por isso, faz-se necessário analisar, se e como, o Ensino de Estatística nos cursos de Licenciatura em Matemática abordam os princípios estatísticos. Neste trabalho, foi desenvolvida uma pesquisa sobre o Ensino de Estatística no Curso de Licenciatura em Matemática a Distância, oferecido conjuntamente pela Universidade Federal Fluminense (UFF) e pela Universidade Federal do Estado do Rio de Janeiro (UNIRIO), por meio do Centro de Educação Superior a Distância do Estado do Rio de Janeiro, o Consórcio CEDERJ. Portanto, esse trabalho visou analisar o Ensino de Probabilidade e Estatística no Ensino Superior com a especificidade de ser um curso a distância. Foram usados como aportes teóricos os estágios de literacia propostos por Watson (1997), os níveis de raciocínio estatístico propostos por Garfield (2002) e as dimensões do pensamento estatístico desenvolvidas por Wild e Pfannkuch (1999). A pesquisa foi realizada na disciplina Probabilidade e Estatística, que faz parte da grade do terceiro período do curso mencionado acima. A pergunta que norteou esse trabalho foi: como se dá o processo de ensino- aprendizagem na disciplina Probabilidade e Estatística dos alunos do curso de Licenciatura em Matemática a Distância da UFF/UNIRIO? Realizou a análise do desempenho dos alunos de 2019/1 de forma qualitativa, buscando verificar quais e como foram abordadas as competências estatísticas nas questões propostas, tanto nas Avaliações a Distância, quanto nas Avaliações Presenciais. E de forma qualitativa, através da exploração das notas disponibilizadas no sistema acadêmico (sistema onde as notas são disponibilizadas. Analisou-se também, o material didático impresso e os Exercícios Programados (exercícios que são propostos semanalmente a fim de que o aluno tenha mais materiais disponíveis). Essa análise foi feita com base nos autores já citados. E por fim, foi feita uma análise da sala da disciplina Probabilidade e Estatística, objetivando verificar quais e que tipos de interações aconteciam, bem como verificar se eram disponibilizadas ferramentas como chats, applets, fóruns. Os resultados obtidos guiaram a construção do produto educacional que foi fruto dessa dissertação. O mesmo trata-se de um roteiro de atividades utilizando a análise gráfica para a construção das competências estatísticas. Percebeu-se que no processo de ensino-aprendizagem na disciplina Probabilidade e Estatística oferecido pela UFF/UNIRIO há a busca bem clara pela construção da literacia estatística e do raciocínio estatístico. Isso aparece no material didático impresso e nos Exercícios Programados.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística",
-    "ensino de probabilidade"
-  ],
-  "ids_duplicados": []
+ "id": "capes-29596148",
+ "autor": "Isabel Cristina Pereira dos Santos Coelho",
+ "ano": 2019,
+ "tipo": "Dissertação",
+ "titulo": "Educação a Distância: uma análise do processo de ensino-aprendizagem em disciplina de Probabilidade e Estatística",
+ "instituicao": "Universidade Federal de Juiz de Fora",
+ "cidade": "",
+ "estado": "Minas Gerais",
+ "regiao": "Sudeste",
+ "orientador": "Ronaldo Rocha Bastos",
+ "programa": "Educação Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Estatística; Ensino de Estatística; Ensino Superior; Educação a Distância",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Educa%C3%A7%C3%A3o%20a%20Dist%C3%A2ncia%3A%20uma%20an%C3%A1lise%20do%20processo%20de%20ensino-aprendizagem%20em%20disciplina%20de%20Probabilidade%20e%20Estat%C3%ADstica%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educa%C3%A7%C3%A3o%20a%20Dist%C3%A2ncia%3A%20uma%20an%C3%A1lise%20do%20processo%20de%20ensino-aprendizagem%20em%20disciplina%20de%20Probabilidade%20e%20Estat%C3%ADstica&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/29596148"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "29596148",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Estatística",
+  "Ensino de Estatística",
+  "Ensino Superior",
+  "Educação a Distância"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-29596148.svg",
+ "resumo": "Os conteúdos de estatística no Ensino Fundamental II e Médio são abordados por professores de Matemática e, por isso, faz-se necessário analisar, se e como, o Ensino de Estatística nos cursos de Licenciatura em Matemática abordam os princípios estatísticos. Neste trabalho, foi desenvolvida uma pesquisa sobre o Ensino de Estatística no Curso de Licenciatura em Matemática a Distância, oferecido conjuntamente pela Universidade Federal Fluminense (UFF) e pela Universidade Federal do Estado do Rio de Janeiro (UNIRIO), por meio do Centro de Educação Superior a Distância do Estado do Rio de Janeiro, o Consórcio CEDERJ. Portanto, esse trabalho visou analisar o Ensino de Probabilidade e Estatística no Ensino Superior com a especificidade de ser um curso a distância. Foram usados como aportes teóricos os estágios de literacia propostos por Watson (1997), os níveis de raciocínio estatístico propostos por Garfield (2002) e as dimensões do pensamento estatístico desenvolvidas por Wild e Pfannkuch (1999). A pesquisa foi realizada na disciplina Probabilidade e Estatística, que faz parte da grade do terceiro período do curso mencionado acima. A pergunta que norteou esse trabalho foi: como se dá o processo de ensino- aprendizagem na disciplina Probabilidade e Estatística dos alunos do curso de Licenciatura em Matemática a Distância da UFF/UNIRIO? Realizou a análise do desempenho dos alunos de 2019/1 de forma qualitativa, buscando verificar quais e como foram abordadas as competências estatísticas nas questões propostas, tanto nas Avaliações a Distância, quanto nas Avaliações Presenciais. E de forma qualitativa, através da exploração das notas disponibilizadas no sistema acadêmico (sistema onde as notas são disponibilizadas. Analisou-se também, o material didático impresso e os Exercícios Programados (exercícios que são propostos semanalmente a fim de que o aluno tenha mais materiais disponíveis). Essa análise foi feita com base nos autores já citados. E por fim, foi feita uma análise da sala da disciplina Probabilidade e Estatística, objetivando verificar quais e que tipos de interações aconteciam, bem como verificar se eram disponibilizadas ferramentas como chats, applets, fóruns. Os resultados obtidos guiaram a construção do produto educacional que foi fruto dessa dissertação. O mesmo trata-se de um roteiro de atividades utilizando a análise gráfica para a construção das competências estatísticas. Percebeu-se que no processo de ensino-aprendizagem na disciplina Probabilidade e Estatística oferecido pela UFF/UNIRIO há a busca bem clara pela construção da literacia estatística e do raciocínio estatístico. Isso aparece no material didático impresso e nos Exercícios Programados.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística",
+  "ensino de probabilidade"
+ ],
+ "ids_duplicados": []
 }

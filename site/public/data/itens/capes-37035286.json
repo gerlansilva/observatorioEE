@@ -1,63 +1,63 @@
 {
-  "id": "capes-37035286",
-  "autor": "Alissa Mariane Garcia Grymuza",
-  "ano": 2022,
-  "tipo": "Tese",
-  "titulo": "O que Pode Influenciar o Currículo Moldado Pelos Professores para Ensinar Estatística nos Anos Iniciais?",
-  "instituicao": "Universidade Federal de Pernambuco",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Gilda Lisboa Guimaraes",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Currículo; Educação Estatística; Anos Iniciais; Livro Didático; Conhecimentos do Professor",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20QUE%20PODE%20INFLUENCIAR%20O%20CURR%C3%8DCULO%20MOLDADO%20PELOS%20PROFESSORES%20PARA%20ENSINAR%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%3F%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20QUE%20PODE%20INFLUENCIAR%20O%20CURR%C3%8DCULO%20MOLDADO%20PELOS%20PROFESSORES%20PARA%20ENSINAR%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%3F&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37035286"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "37035286",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Currículo",
-    "Educação Estatística",
-    "Anos Iniciais",
-    "Livro Didático",
-    "Conhecimentos do Professor"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-37035286.svg",
-  "resumo": "Essa pesquisa investigou a influência do currículo prescrito e do currículo apresentado no currículo moldado pelos professores para ensinar Estatística nos anos iniciais. Como aporte teórico, foram utilizados os tipos de currículos de Sacristán (1998); os tipos de conhecimento para o ensino, Thames e Phelps (2008); o letramento estatístico de Gal (2002) e o ciclo investigativo de Guimarães e Gitirana (2013). Foram realizados dois estudos articulados entre si. O Estudo 1 investigou o currículo prescrito BNCC, Proposta Curricular do Estado da Paraíba e Edital e Guia do PNLD 2019 e o currículo apresentado, a partir da análise do manual de orientação de livros didáticos dos 1º e 5º anos do Ensino Fundamental sobre conteúdos de Estatística. O Estudo 2 investigou o currículo moldado pelo professor a partir de entrevistas com 20 professores de escolas públicas. Com relação ao currículo prescrito, os resultados mostraram que há consonância entre os documentos curriculares, sendo a BNCC o estruturador dos critérios exigidos para os demais. Sobre conteúdos de Estatística, a estrutura da BNCC ainda fica aquém do que está sendo proposto na área de Educação Estatística. Foram identificadas poucas atividades de Estatística propostas nos livros didáticos que levassem os alunos a realizar pesquisas, havendo uma concentração em atividades com interpretação de dados. Quanto ao currículo apresentado ao professor nos livros didáticos, as orientações continuam bem gerais. Já as orientações em formato de U, são distribuídas ao longo do livro do professor e refletem uma maior preocupação no direcionamento das atividades, apresentando objetivos e orientações específicas. Porém, foi observado que os professores demonstraram que não as leem, mesmo diante da pouca clareza quanto à compreensão dos objetivos propostos nas atividades, uma vez que não dominam os conteúdos de Estatística. Os professores apresentaram um conhecimento comum com muitas lacunas; um conhecimento especializado superficial; um desconhecimento de conteúdo e alunos que os impossibilita a alcançar as dúvidas e incompletudes apresentadas na aprendizagem dos alunos; o conhecimento de ensino é muito mais pela prática escolar; e um conhecimento de horizonte e currículo que é parcial e pouco utilizado no direcionamento das aulas. Assim, o currículo prescrito influencia na estrutura posta no currículo apresentado na forma de livro didático que, por sua vez, estabelece os conteúdos de Estatística que serão trabalhados em sala de aula. No entanto, a ausência de clareza quanto às especificidades nos conteúdos de Estatística, resulta em um ensino sem compreensão e aprofundamento na temática. É necessário que o professor tenha uma compreensão mínima dos tipos de conhecimento para ensinar Estatística para ter condições de criar seu currículo moldado e, de fato, ensinar. A ausência de tais conhecimentos faz com que o professor continue reproduzindo sem domínio o que está posto no currículo apresentad",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": [
-    "39997202"
-  ]
+ "id": "capes-37035286",
+ "autor": "Alissa Mariane Garcia Grymuza",
+ "ano": 2022,
+ "tipo": "Tese",
+ "titulo": "O que Pode Influenciar o Currículo Moldado Pelos Professores para Ensinar Estatística nos Anos Iniciais?",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Gilda Lisboa Guimaraes",
+ "programa": "Educação Matemática e Tecnológica",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Currículo; Educação Estatística; Anos Iniciais; Livro Didático; Conhecimentos do Professor",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20QUE%20PODE%20INFLUENCIAR%20O%20CURR%C3%8DCULO%20MOLDADO%20PELOS%20PROFESSORES%20PARA%20ENSINAR%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%3F%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20QUE%20PODE%20INFLUENCIAR%20O%20CURR%C3%8DCULO%20MOLDADO%20PELOS%20PROFESSORES%20PARA%20ENSINAR%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%3F&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37035286"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "37035286",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Currículo",
+  "Educação Estatística",
+  "Anos Iniciais",
+  "Livro Didático",
+  "Conhecimentos do Professor"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-37035286.svg",
+ "resumo": "Essa pesquisa investigou a influência do currículo prescrito e do currículo apresentado no currículo moldado pelos professores para ensinar Estatística nos anos iniciais. Como aporte teórico, foram utilizados os tipos de currículos de Sacristán (1998); os tipos de conhecimento para o ensino, Thames e Phelps (2008); o letramento estatístico de Gal (2002) e o ciclo investigativo de Guimarães e Gitirana (2013). Foram realizados dois estudos articulados entre si. O Estudo 1 investigou o currículo prescrito BNCC, Proposta Curricular do Estado da Paraíba e Edital e Guia do PNLD 2019 e o currículo apresentado, a partir da análise do manual de orientação de livros didáticos dos 1º e 5º anos do Ensino Fundamental sobre conteúdos de Estatística. O Estudo 2 investigou o currículo moldado pelo professor a partir de entrevistas com 20 professores de escolas públicas. Com relação ao currículo prescrito, os resultados mostraram que há consonância entre os documentos curriculares, sendo a BNCC o estruturador dos critérios exigidos para os demais. Sobre conteúdos de Estatística, a estrutura da BNCC ainda fica aquém do que está sendo proposto na área de Educação Estatística. Foram identificadas poucas atividades de Estatística propostas nos livros didáticos que levassem os alunos a realizar pesquisas, havendo uma concentração em atividades com interpretação de dados. Quanto ao currículo apresentado ao professor nos livros didáticos, as orientações continuam bem gerais. Já as orientações em formato de U, são distribuídas ao longo do livro do professor e refletem uma maior preocupação no direcionamento das atividades, apresentando objetivos e orientações específicas. Porém, foi observado que os professores demonstraram que não as leem, mesmo diante da pouca clareza quanto à compreensão dos objetivos propostos nas atividades, uma vez que não dominam os conteúdos de Estatística. Os professores apresentaram um conhecimento comum com muitas lacunas; um conhecimento especializado superficial; um desconhecimento de conteúdo e alunos que os impossibilita a alcançar as dúvidas e incompletudes apresentadas na aprendizagem dos alunos; o conhecimento de ensino é muito mais pela prática escolar; e um conhecimento de horizonte e currículo que é parcial e pouco utilizado no direcionamento das aulas. Assim, o currículo prescrito influencia na estrutura posta no currículo apresentado na forma de livro didático que, por sua vez, estabelece os conteúdos de Estatística que serão trabalhados em sala de aula. No entanto, a ausência de clareza quanto às especificidades nos conteúdos de Estatística, resulta em um ensino sem compreensão e aprofundamento na temática. É necessário que o professor tenha uma compreensão mínima dos tipos de conhecimento para ensinar Estatística para ter condições de criar seu currículo moldado e, de fato, ensinar. A ausência de tais conhecimentos faz com que o professor continue reproduzindo sem domínio o que está posto no currículo apresentad",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": [
+  "39997202"
+ ]
 }

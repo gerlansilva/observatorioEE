@@ -1,59 +1,59 @@
 {
-  "id": "capes-21814964",
-  "autor": "Paula Cristina Moreira Cabral",
-  "ano": 2016,
-  "tipo": "Dissertação",
-  "titulo": "APRENDER A CLASSIFICAR NOS ANOS INICIAIS DO ENSINO FUNDAMENTAL Recife",
-  "instituicao": "Universidade Federal de Pernambuco",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Gilda Lisboa Guimaraes",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Estatística; Classificação; Ensino aprendizagem; Anos Iniciais.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22APRENDER%20A%20CLASSIFICAR%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%20Recife%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=APRENDER%20A%20CLASSIFICAR%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%20Recife&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21814964"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "21814964",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Estatística",
-    "Classificação",
-    "Ensino aprendizagem",
-    "Anos Iniciais."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-21814964.svg",
-  "resumo": "A aprendizagem da Estatística vem sendo proposta desde o Ensino Fundamental como reflexo da sociedade atual que passa a lidar cada vez mais com uma grande quantidade de dados. Assim, é fundamental compreender essas informações sistematizadas e, principalmente, saber realizar pesquisas e sistematizar as informações a partir de seus interesses. Para tal, é importante inserir a criança no universo da pesquisa. Na realização de uma pesquisa é preciso compreender a importância de cada uma de suas fases e suas interpelações, considerando todas as etapas de um ciclo investigativo. Nesse estudo estamos interessados em uma dessas etapas: a classificação dos dados. Para organizar as informações, sejam elas em tabelas ou gráficos, é necessário saber classificar. Dessa forma, é de extrema importância levar aos alunos a criarem ou descobrirem critérios de classificação e não somente que eles conheçam determinadas classificações prontas. Nesse sentido, essa pesquisa teve como objetivo investigar a aprendizagem de alunos do 4º ano do Ensino Fundamental sobre a habilidade de classificar, considerando diferentes tipos de habilidades relacionadas à classificação. Participaram do estudo 103 alunos de três escolas públicas da Região Metropolitana do Recife organizados em três grupos: G1 – participava de uma sequência de atividades que envolvia a compreensão do descritor/critério; G2 – participava de uma sequência de atividades que envolvia a reflexão sobre elemento, classe e descritor/critério; G3 – não participava de sequencias de atividades, se constituindo como grupo controle. Foi realizado um pré-teste, uma sequência de atividades de ensino (grupos G1 e G2) e dois pós-testes com cada grupo. A sequência de atividades realizada em cada turma ocorreu em três dias, com aproximadamente duas horas de duração cada uma. Os resultados revelaram que os alunos dos três grupos apresentaram um fraco desempenho no pré-teste, demonstrando dificuldades em criar critérios para classificar livremente. Entretanto, após as vivencias das crianças nas sequencias de atividades foram observados avanços significativos na aprendizagem dos grupos G1 e G2 e não no G3. Dessa forma, fica evidente a possibilidade de aprendizagem dos alunos em criar critérios de classificação, independente do tipo de intervenção. Assim, podemos afirmar que alunos dos anos iniciais quando levados a refletir sobre como classificar demonstram capacidade e facilidade para aprender e compreender que há uma diversidade de critérios que podem ser utilizados desde que atenda as propriedades de exclusividade e exaustividade.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "coleta expandida (plural/vocabulário)"
-  ]
+ "id": "capes-21814964",
+ "autor": "Paula Cristina Moreira Cabral",
+ "ano": 2016,
+ "tipo": "Dissertação",
+ "titulo": "APRENDER A CLASSIFICAR NOS ANOS INICIAIS DO ENSINO FUNDAMENTAL Recife",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Gilda Lisboa Guimaraes",
+ "programa": "Educação Matemática e Tecnológica",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Estatística; Classificação; Ensino aprendizagem; Anos Iniciais.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22APRENDER%20A%20CLASSIFICAR%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%20Recife%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=APRENDER%20A%20CLASSIFICAR%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%20Recife&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/21814964"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "21814964",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Estatística",
+  "Classificação",
+  "Ensino aprendizagem",
+  "Anos Iniciais."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-21814964.svg",
+ "resumo": "A aprendizagem da Estatística vem sendo proposta desde o Ensino Fundamental como reflexo da sociedade atual que passa a lidar cada vez mais com uma grande quantidade de dados. Assim, é fundamental compreender essas informações sistematizadas e, principalmente, saber realizar pesquisas e sistematizar as informações a partir de seus interesses. Para tal, é importante inserir a criança no universo da pesquisa. Na realização de uma pesquisa é preciso compreender a importância de cada uma de suas fases e suas interpelações, considerando todas as etapas de um ciclo investigativo. Nesse estudo estamos interessados em uma dessas etapas: a classificação dos dados. Para organizar as informações, sejam elas em tabelas ou gráficos, é necessário saber classificar. Dessa forma, é de extrema importância levar aos alunos a criarem ou descobrirem critérios de classificação e não somente que eles conheçam determinadas classificações prontas. Nesse sentido, essa pesquisa teve como objetivo investigar a aprendizagem de alunos do 4º ano do Ensino Fundamental sobre a habilidade de classificar, considerando diferentes tipos de habilidades relacionadas à classificação. Participaram do estudo 103 alunos de três escolas públicas da Região Metropolitana do Recife organizados em três grupos: G1 – participava de uma sequência de atividades que envolvia a compreensão do descritor/critério; G2 – participava de uma sequência de atividades que envolvia a reflexão sobre elemento, classe e descritor/critério; G3 – não participava de sequencias de atividades, se constituindo como grupo controle. Foi realizado um pré-teste, uma sequência de atividades de ensino (grupos G1 e G2) e dois pós-testes com cada grupo. A sequência de atividades realizada em cada turma ocorreu em três dias, com aproximadamente duas horas de duração cada uma. Os resultados revelaram que os alunos dos três grupos apresentaram um fraco desempenho no pré-teste, demonstrando dificuldades em criar critérios para classificar livremente. Entretanto, após as vivencias das crianças nas sequencias de atividades foram observados avanços significativos na aprendizagem dos grupos G1 e G2 e não no G3. Dessa forma, fica evidente a possibilidade de aprendizagem dos alunos em criar critérios de classificação, independente do tipo de intervenção. Assim, podemos afirmar que alunos dos anos iniciais quando levados a refletir sobre como classificar demonstram capacidade e facilidade para aprender e compreender que há uma diversidade de critérios que podem ser utilizados desde que atenda as propriedades de exclusividade e exaustividade.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "coleta expandida (plural/vocabulário)"
+ ]
 }

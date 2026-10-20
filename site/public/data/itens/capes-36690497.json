@@ -1,57 +1,57 @@
 {
-  "id": "capes-36690497",
-  "autor": "Marilete Batista da Vitoria Abadi",
-  "ano": 2022,
-  "tipo": "Dissertação",
-  "titulo": "Modelagem Matemática Fuzzy e Percepção de Risco: Uma Parceria para Estudar Probabilidade Subjetiva",
-  "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
-  "cidade": "",
-  "estado": "Espírito Santo",
-  "regiao": "Sudeste",
-  "orientador": "Oscar Luiz Teixeira de Rezende",
-  "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Probabilidade Subjetiva; Modelagem Matemática Fuzzy. Ensino-Aprendizagem.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22MODELAGEM%20MATEM%C3%81TICA%20FUZZY%20E%20PERCEP%C3%87%C3%83O%20DE%20RISCO%3A%20UMA%20PARCERIA%20PARA%20ESTUDAR%20PROBABILIDADE%20SUBJETIVA%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=MODELAGEM%20MATEM%C3%81TICA%20FUZZY%20E%20PERCEP%C3%87%C3%83O%20DE%20RISCO%3A%20UMA%20PARCERIA%20PARA%20ESTUDAR%20PROBABILIDADE%20SUBJETIVA&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36690497"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "36690497",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Probabilidade Subjetiva",
-    "Modelagem Matemática Fuzzy. Ensino-Aprendizagem."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-36690497.svg",
-  "resumo": "Esta pesquisa de natureza qualitativa teve como propósito apresentar uma produção do conhecimento direcionada a compreender o conceito de Probabilidade Subjetiva. O objetivo geral foi analisar a aprendizagem da formação do conceito de Probabilidade Subjetiva dos alunos do 4º período do curso Técnico em Segurança do Trabalho, turno noturno, na modalidade pós-médio (subsequente) do Instituto Federal do Espírito Santo (Ifes) - campus Vitória/ES, durante uma atividade de Modelagem Matemática Fuzzy. A motivação por esse tema foi a oportunidade de abordar outro tipo de Probabilidade para além das apresentadas e destacadas nos documentos curriculares oficiais da Educação Básica e profissional, observar as relações intuitivas dos alunos e, a partir de suas concepções, construir um Sistema Baseado em Regras Fuzzy que seja capaz de quantificar a incerteza. Foram identificados no desenvolvimento da atividade elementos que caracterizam a compreensão da Probabilidade Subjetiva por intermédio dos seis argumentos formativos listados por Bassanezi. E o resultado final da pesquisa será materializado na forma de um e-book, com uma proposta de atividade de construção do conceito da Probabilidade sob uma perspectiva subjetiva",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "coleta expandida (plural/vocabulário)"
-  ]
+ "id": "capes-36690497",
+ "autor": "Marilete Batista da Vitoria Abadi",
+ "ano": 2022,
+ "tipo": "Dissertação",
+ "titulo": "Modelagem Matemática Fuzzy e Percepção de Risco: Uma Parceria para Estudar Probabilidade Subjetiva",
+ "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+ "cidade": "",
+ "estado": "Espírito Santo",
+ "regiao": "Sudeste",
+ "orientador": "Oscar Luiz Teixeira de Rezende",
+ "programa": "Educação em Ciências e Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Probabilidade Subjetiva; Modelagem Matemática Fuzzy. Ensino-Aprendizagem.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22MODELAGEM%20MATEM%C3%81TICA%20FUZZY%20E%20PERCEP%C3%87%C3%83O%20DE%20RISCO%3A%20UMA%20PARCERIA%20PARA%20ESTUDAR%20PROBABILIDADE%20SUBJETIVA%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=MODELAGEM%20MATEM%C3%81TICA%20FUZZY%20E%20PERCEP%C3%87%C3%83O%20DE%20RISCO%3A%20UMA%20PARCERIA%20PARA%20ESTUDAR%20PROBABILIDADE%20SUBJETIVA&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/36690497"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "36690497",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Probabilidade Subjetiva",
+  "Modelagem Matemática Fuzzy. Ensino-Aprendizagem."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-36690497.svg",
+ "resumo": "Esta pesquisa de natureza qualitativa teve como propósito apresentar uma produção do conhecimento direcionada a compreender o conceito de Probabilidade Subjetiva. O objetivo geral foi analisar a aprendizagem da formação do conceito de Probabilidade Subjetiva dos alunos do 4º período do curso Técnico em Segurança do Trabalho, turno noturno, na modalidade pós-médio (subsequente) do Instituto Federal do Espírito Santo (Ifes) - campus Vitória/ES, durante uma atividade de Modelagem Matemática Fuzzy. A motivação por esse tema foi a oportunidade de abordar outro tipo de Probabilidade para além das apresentadas e destacadas nos documentos curriculares oficiais da Educação Básica e profissional, observar as relações intuitivas dos alunos e, a partir de suas concepções, construir um Sistema Baseado em Regras Fuzzy que seja capaz de quantificar a incerteza. Foram identificados no desenvolvimento da atividade elementos que caracterizam a compreensão da Probabilidade Subjetiva por intermédio dos seis argumentos formativos listados por Bassanezi. E o resultado final da pesquisa será materializado na forma de um e-book, com uma proposta de atividade de construção do conceito da Probabilidade sob uma perspectiva subjetiva",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "coleta expandida (plural/vocabulário)"
+ ]
 }

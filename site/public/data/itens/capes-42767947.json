@@ -1,61 +1,61 @@
 {
-  "id": "capes-42767947",
-  "autor": "Katia Milani Lara Bossi",
-  "ano": 2024,
-  "tipo": "Tese",
-  "titulo": "Educação Estatística Mediado por Linguagem Computacional na Formação de Professores",
-  "instituicao": "Universidade Cruzeiro do Sul",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Juliano Schimiguel",
-  "programa": "ENSINO DE CIÊNCIAS",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Ensino de estatística; formação de professores; tecnologia digital; estatística descritiva.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20MEDIADO%20POR%20LINGUAGEM%20COMPUTACIONAL%20NA%20FORMA%C3%87%C3%83O%20DE%20PROFESSORES%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20MEDIADO%20POR%20LINGUAGEM%20COMPUTACIONAL%20NA%20FORMA%C3%87%C3%83O%20DE%20PROFESSORES&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42767947"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "42767947",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Ensino de estatística",
-    "formação de professores",
-    "tecnologia digital",
-    "estatística descritiva."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-42767947.svg",
-  "resumo": "O ensino de estatística desempenha um papel importante na capacitação para a interpretação de informações de inúmeras fontes que sumarizam os resultados por meio de gráficos, tabela dentre outras medidas estatísticas. As tecnologias digitais estão presentes em todos os contextos da sociedade e o uso da tecnologia para a análise de dados permite automatizar e simplificar diversos processos e, a manipulação de grandes bases de dados. É imprescindível capacitar o docente para propor atividades de aprendizagem nas quais os estudantes possam atribuir significados e desenvolver o pensamento estatístico por meio da integração de tecnologias. O objetivo geral dessa pesquisa é investigar e aplicar linguagem computacional como estratégia pedagógica no Ensino da Estatística envolvendo alunos do Programa de Pós-graduação para proporcionar aos alunos uma experiência enriquecedora no uso da linguagem de programação Python para a Análise de Dados, com um foco específico na Análise Exploratória de Dados (EDA). Os participantes do estudo consistiram em alunos da Pós-graduação (Mestrado e Doutorado) em Ensino de Ciências e Matemática de uma Universidade, situado na cidade de São Paulo. Este estudo se configurou como uma pesquisa exploratória com dados quantitativos e qualitativos. As técnicas de pesquisa que foram utilizadas na presente pesquisa serão: observação e questionário e para a análise de dados utilizamos a Análise de Conteúdo. Ao final da pesquisa podemos identificar que a possibilidade de integrar essas habilidades na formação docente mostrou-se viável e relevante, destacando a importância da inovação tecnológica e essa introdução à programação na educação estatística plantou as sementes para uma futura integração mais robusta e eficaz dessas ferramentas no contexto educacional, fortalecendo o ensino e a aprendizagem de maneira significativa.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-42767947",
+ "autor": "Katia Milani Lara Bossi",
+ "ano": 2024,
+ "tipo": "Tese",
+ "titulo": "Educação Estatística Mediado por Linguagem Computacional na Formação de Professores",
+ "instituicao": "Universidade Cruzeiro do Sul",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Juliano Schimiguel",
+ "programa": "Ensino de Ciências",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Ensino de estatística; formação de professores; tecnologia digital; estatística descritiva.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20MEDIADO%20POR%20LINGUAGEM%20COMPUTACIONAL%20NA%20FORMA%C3%87%C3%83O%20DE%20PROFESSORES%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20MEDIADO%20POR%20LINGUAGEM%20COMPUTACIONAL%20NA%20FORMA%C3%87%C3%83O%20DE%20PROFESSORES&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/42767947"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "42767947",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Ensino de estatística",
+  "formação de professores",
+  "tecnologia digital",
+  "estatística descritiva."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-42767947.svg",
+ "resumo": "O ensino de estatística desempenha um papel importante na capacitação para a interpretação de informações de inúmeras fontes que sumarizam os resultados por meio de gráficos, tabela dentre outras medidas estatísticas. As tecnologias digitais estão presentes em todos os contextos da sociedade e o uso da tecnologia para a análise de dados permite automatizar e simplificar diversos processos e, a manipulação de grandes bases de dados. É imprescindível capacitar o docente para propor atividades de aprendizagem nas quais os estudantes possam atribuir significados e desenvolver o pensamento estatístico por meio da integração de tecnologias. O objetivo geral dessa pesquisa é investigar e aplicar linguagem computacional como estratégia pedagógica no Ensino da Estatística envolvendo alunos do Programa de Pós-graduação para proporcionar aos alunos uma experiência enriquecedora no uso da linguagem de programação Python para a Análise de Dados, com um foco específico na Análise Exploratória de Dados (EDA). Os participantes do estudo consistiram em alunos da Pós-graduação (Mestrado e Doutorado) em Ensino de Ciências e Matemática de uma Universidade, situado na cidade de São Paulo. Este estudo se configurou como uma pesquisa exploratória com dados quantitativos e qualitativos. As técnicas de pesquisa que foram utilizadas na presente pesquisa serão: observação e questionário e para a análise de dados utilizamos a Análise de Conteúdo. Ao final da pesquisa podemos identificar que a possibilidade de integrar essas habilidades na formação docente mostrou-se viável e relevante, destacando a importância da inovação tecnológica e essa introdução à programação na educação estatística plantou as sementes para uma futura integração mais robusta e eficaz dessas ferramentas no contexto educacional, fortalecendo o ensino e a aprendizagem de maneira significativa.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

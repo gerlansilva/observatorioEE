@@ -1,61 +1,61 @@
 {
-  "id": "capes-38514464",
-  "autor": "Aline Lopes",
-  "ano": 2023,
-  "tipo": "Dissertação",
-  "titulo": "Educação financeira: uma sequência de ensino pautada em conceitos estatísticos",
-  "instituicao": "Universidade Tecnológica Federal do Paraná",
-  "cidade": "",
-  "estado": "Paraná",
-  "regiao": "Sul",
-  "orientador": "Leonardo Sturion",
-  "programa": "ENSINO DE MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Aprendizagem; Ensino fundamental; Educação financeira; Estatística; Orçamento familiar",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Educa%C3%A7%C3%A3o%20financeira%3A%20uma%20sequ%C3%AAncia%20de%20ensino%20pautada%20em%20conceitos%20estat%C3%ADsticos%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educa%C3%A7%C3%A3o%20financeira%3A%20uma%20sequ%C3%AAncia%20de%20ensino%20pautada%20em%20conceitos%20estat%C3%ADsticos&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38514464"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "38514464",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Aprendizagem",
-    "Ensino fundamental",
-    "Educação financeira",
-    "Estatística",
-    "Orçamento familiar"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-38514464.svg",
-  "resumo": "Com as atuais crises econômicas, informações sendo divulgadas a todo o momento pelas mídias sociais, a importância de se desenvolver um pensamento crítico, estatístico e matemático se tornam cada vez maior. A correta interpretação de dados estatísticos possibilita a melhor tomada de decisão em meio a área financeira, dessa forma, o desenvolvimento de competências e habilidades matemáticas descritas pela BNCC são capazes de melhorar a realidade social em que se vive. O professor como mediador do conhecimento ao proporcionar meios para este desenvolvimento no ambiente escolar permite que os alunos adquiram uma visão estatística, tornando-os capazes de planejar, calcular e projetar sua vida financeira, orientando pessoas da sua comunidade e atuando de forma ativa na sociedade. Partindo do conceito de que para proporcionar uma aprendizagem efetiva e significativa, realizar uma conexão entre os conhecimentos que o aluno já traz consigo, o conteúdo (novos conhecimentos) e a realidade em que o aluno está inserido, a presente pesquisa buscou analisar dados e atitudes relacionadas a área socioeconômica e financeira dos alunos do Nono Ano do Ensino Fundamental do Colégio Estadual Público do Município de Quatiguá-PR e seus familiares por meio de questionário. Por meio dos dados coletados, analisados e tabulados, foi elaborado uma proposta de sequência de ensino com atividades em torno do tema Educação Financeira utilizando-se de conceitos de estatística, objetivando a conscientização dos alunos sobre planejamento financeiro e mostrando formas de otimizar os recursos disponíveis, resultando em um e-book com estratégias e atividades que será o produto educacional, servindo como material de apoio para professores da Educação Básica. Com o desenvolvimento desta pesquisa esperou-se uma conscientização dos alunos com relação a Educação Financeira e a contextualização da Estatística dentro da realidade do aluno, permitindo que o mesmo possa interpretar dados estatísticos e se posicionar de maneira organizada e saudável frente a área financeira.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-38514464",
+ "autor": "Aline Lopes",
+ "ano": 2023,
+ "tipo": "Dissertação",
+ "titulo": "Educação financeira: uma sequência de ensino pautada em conceitos estatísticos",
+ "instituicao": "Universidade Tecnológica Federal do Paraná",
+ "cidade": "",
+ "estado": "Paraná",
+ "regiao": "Sul",
+ "orientador": "Leonardo Sturion",
+ "programa": "Ensino de Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Aprendizagem; Ensino fundamental; Educação financeira; Estatística; Orçamento familiar",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Educa%C3%A7%C3%A3o%20financeira%3A%20uma%20sequ%C3%AAncia%20de%20ensino%20pautada%20em%20conceitos%20estat%C3%ADsticos%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educa%C3%A7%C3%A3o%20financeira%3A%20uma%20sequ%C3%AAncia%20de%20ensino%20pautada%20em%20conceitos%20estat%C3%ADsticos&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/38514464"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "38514464",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Aprendizagem",
+  "Ensino fundamental",
+  "Educação financeira",
+  "Estatística",
+  "Orçamento familiar"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-38514464.svg",
+ "resumo": "Com as atuais crises econômicas, informações sendo divulgadas a todo o momento pelas mídias sociais, a importância de se desenvolver um pensamento crítico, estatístico e matemático se tornam cada vez maior. A correta interpretação de dados estatísticos possibilita a melhor tomada de decisão em meio a área financeira, dessa forma, o desenvolvimento de competências e habilidades matemáticas descritas pela BNCC são capazes de melhorar a realidade social em que se vive. O professor como mediador do conhecimento ao proporcionar meios para este desenvolvimento no ambiente escolar permite que os alunos adquiram uma visão estatística, tornando-os capazes de planejar, calcular e projetar sua vida financeira, orientando pessoas da sua comunidade e atuando de forma ativa na sociedade. Partindo do conceito de que para proporcionar uma aprendizagem efetiva e significativa, realizar uma conexão entre os conhecimentos que o aluno já traz consigo, o conteúdo (novos conhecimentos) e a realidade em que o aluno está inserido, a presente pesquisa buscou analisar dados e atitudes relacionadas a área socioeconômica e financeira dos alunos do Nono Ano do Ensino Fundamental do Colégio Estadual Público do Município de Quatiguá-PR e seus familiares por meio de questionário. Por meio dos dados coletados, analisados e tabulados, foi elaborado uma proposta de sequência de ensino com atividades em torno do tema Educação Financeira utilizando-se de conceitos de estatística, objetivando a conscientização dos alunos sobre planejamento financeiro e mostrando formas de otimizar os recursos disponíveis, resultando em um e-book com estratégias e atividades que será o produto educacional, servindo como material de apoio para professores da Educação Básica. Com o desenvolvimento desta pesquisa esperou-se uma conscientização dos alunos com relação a Educação Financeira e a contextualização da Estatística dentro da realidade do aluno, permitindo que o mesmo possa interpretar dados estatísticos e se posicionar de maneira organizada e saudável frente a área financeira.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": []
 }

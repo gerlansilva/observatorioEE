@@ -1,57 +1,57 @@
 {
-  "id": "capes-17860943",
-  "autor": "Dilson Henrique Ramos Evangelista",
-  "ano": 2015,
-  "tipo": "Tese",
-  "titulo": "Educação Estatística Crítica na formação do Engenheiro Ambiental",
-  "instituicao": "Universidade Est.paulista Júlio de Mesquita Filho/rio Claro",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Maria Lucia Lorenzetti Wodewotzki",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Estatística Crítica. Engenharia Ambiental. Projetos de Modelagem Estatística. Trabalho colaborativo",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20Cr%C3%ADtica%20na%20forma%C3%A7%C3%A3o%20do%20Engenheiro%20Ambiental%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20Cr%C3%ADtica%20na%20forma%C3%A7%C3%A3o%20do%20Engenheiro%20Ambiental&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/17860943"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "17860943",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Estatística Crítica. Engenharia Ambiental. Projetos de Modelagem Estatística. Trabalho colaborativo"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-17860943.svg",
-  "resumo": "A pesquisa exploratória teve como objetivo discutir e analisar o impacto do trabalho com projetos de modelagem estatística no processo de ensino e aprendizagem da Estatística no curso de Engenharia Ambiental, considerando a perspectiva sócio-crítica da educação. A Educação Estatística Crítica valoriza o papel que a Educação Estatística tem no desenvolvimento da capacidade democrática dos cidadãos. A proposta metodológica baseia-se em uma investigação de abordagem qualitativa, a partir da realização da pesquisa de campo, com os dados levantados em duas turmas participantes da disciplina de Estatística II da Universidade Federal de Rondônia. Através dessa pesquisa, observou-se a importância de proporcionar condições para que os alunos realizem projetos colaborativos para desenvolverem-se de forma autônoma, a fim de construir o próprio conhecimento, a partir da ousadia da busca, da pesquisa, transformando, assim, o exercício de pensar em construir. Concluiu-se que esse ambiente favoreceu a aprendizagem significativa crítica, promoveu o trabalho colaborativo, a interdisciplinaridade e contribuiu para a formação ambiental sócio-crítica dos estudantes, transformando-os para exercer a cidadania crítica. Os alunos desenvolveram uma postura investigativa, reflexiva e crítica ao trabalharem com situações reais do seu interesse por meio de projetos de modelagem.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-17860943",
+ "autor": "Dilson Henrique Ramos Evangelista",
+ "ano": 2015,
+ "tipo": "Tese",
+ "titulo": "Educação Estatística Crítica na formação do Engenheiro Ambiental",
+ "instituicao": "Universidade Est.paulista Júlio de Mesquita Filho/rio Claro",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Maria Lucia Lorenzetti Wodewotzki",
+ "programa": "Educação Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Estatística Crítica. Engenharia Ambiental. Projetos de Modelagem Estatística. Trabalho colaborativo",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20Cr%C3%ADtica%20na%20forma%C3%A7%C3%A3o%20do%20Engenheiro%20Ambiental%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%20Cr%C3%ADtica%20na%20forma%C3%A7%C3%A3o%20do%20Engenheiro%20Ambiental&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/17860943"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "17860943",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Estatística Crítica. Engenharia Ambiental. Projetos de Modelagem Estatística. Trabalho colaborativo"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-17860943.svg",
+ "resumo": "A pesquisa exploratória teve como objetivo discutir e analisar o impacto do trabalho com projetos de modelagem estatística no processo de ensino e aprendizagem da Estatística no curso de Engenharia Ambiental, considerando a perspectiva sócio-crítica da educação. A Educação Estatística Crítica valoriza o papel que a Educação Estatística tem no desenvolvimento da capacidade democrática dos cidadãos. A proposta metodológica baseia-se em uma investigação de abordagem qualitativa, a partir da realização da pesquisa de campo, com os dados levantados em duas turmas participantes da disciplina de Estatística II da Universidade Federal de Rondônia. Através dessa pesquisa, observou-se a importância de proporcionar condições para que os alunos realizem projetos colaborativos para desenvolverem-se de forma autônoma, a fim de construir o próprio conhecimento, a partir da ousadia da busca, da pesquisa, transformando, assim, o exercício de pensar em construir. Concluiu-se que esse ambiente favoreceu a aprendizagem significativa crítica, promoveu o trabalho colaborativo, a interdisciplinaridade e contribuiu para a formação ambiental sócio-crítica dos estudantes, transformando-os para exercer a cidadania crítica. Os alunos desenvolveram uma postura investigativa, reflexiva e crítica ao trabalharem com situações reais do seu interesse por meio de projetos de modelagem.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": []
 }

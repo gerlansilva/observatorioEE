@@ -1,54 +1,54 @@
 {
-  "id": "capes-20333631",
-  "autor": "Reinaldo Amirato Dias",
-  "ano": 2015,
-  "tipo": "Dissertação",
-  "titulo": "Proposta de Atividades Potencialmente Interdisciplinares Envolvendo Noções de Análise Combinatória e Probabilidade",
-  "instituicao": "Universidade do Grande Rio - Prof Jose de Souza Herdy",
-  "cidade": "",
-  "estado": "Rio de Janeiro",
-  "regiao": "Sudeste",
-  "orientador": "Eline das Flores Victer",
-  "programa": "ENSINO DAS CIÊNCIAS",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Ensino e Aprendizagem. Atividades potencialmente interdisciplinares. Educação básica. Análise Combinatória. Probabilidade.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Proposta%20de%20Atividades%20Potencialmente%20Interdisciplinarares%20Envolvendo%20No%C3%A7%C3%B5es%20de%20An%C3%A1lise%20Combinat%C3%B3ria%20e%20Probabilidade%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Proposta%20de%20Atividades%20Potencialmente%20Interdisciplinarares%20Envolvendo%20No%C3%A7%C3%B5es%20de%20An%C3%A1lise%20Combinat%C3%B3ria%20e%20Probabilidade&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20333631"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "20333631",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Ensino e Aprendizagem. Atividades potencialmente interdisciplinares. Educação básica. Análise Combinatória. Probabilidade."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-20333631.svg",
-  "resumo": "Este é um estudo qualitativo sobre a abordagem interdisciplinar dos conceitos básicos de análise combinatória e probabilidade na educação básica, desenvolvido a partir de dois questionamentos básicos: Quais as características que devem apresentar atividades consideradas como potencialmente interdisciplinares? É possível desenvolver atividades potencialmente interdisciplinares que envolvam conceitos de matemática da área da análise combinatória e probabilidade? Nos utilizamos do conceito de interdisciplinaridade como sendo uma das formas que articula o processo de ensino e de aprendizagem, como modo de pensar, agir, organizar currículo e fundamentar opções metodológicas do ensinar, podendo assim, servir como elemento orientador na formação de professores. Verificamos fortes indicações na literatura da área de que o ensino de noções de probabilidade e análise combinatória já no Ensino Fundamental seria essencial para fazer com que o aluno ingresse no Ensino Médio tendo boa noção sobre tratamento de dados, previsões e combinações, e que as atividades interdisciplinares seriam os melhores caminhos para dar significância a um assunto muitas vezes tratado de forma abstrata, e diminuir o comum distanciamento entre o conteúdo trabalhado na sala de aula e cotidiano do estudante. O Produto Educacional, fruto deste estudo é composto de seis atividades que envolvem possibilidades de trabalho em diversas áreas, conteúdos relevantes à formação do indivíduo, com significativas aplicações em situações do cotidiano, na busca de responder a necessidade de superação da visão fragmentada das áreas de conhecimento, de forma a recuperar a integração dos saberes. Para ampliar a potencialidade interdisciplinar das atividades implementamos uma oficina envolvendo treze professores que atuam em diferentes áreas. Compreendemos que a utilização deste Produto Educacional pode resultar em um ensino/aprendizagem distanciado do formato abstrato e mecânico, permitindo espaços para que os estudantes construam o conhecimento, pesquisem e dialoguem a respeito dos conceitos envolvidos. Estas atividades também subsidiam espaços para interessantes debates, com participação efetiva dos alunos e professores envolvidos.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": null
+ "id": "capes-20333631",
+ "autor": "Reinaldo Amirato Dias",
+ "ano": 2015,
+ "tipo": "Dissertação",
+ "titulo": "Proposta de Atividades Potencialmente Interdisciplinares Envolvendo Noções de Análise Combinatória e Probabilidade",
+ "instituicao": "Universidade do Grande Rio - Prof Jose de Souza Herdy",
+ "cidade": "",
+ "estado": "Rio de Janeiro",
+ "regiao": "Sudeste",
+ "orientador": "Eline das Flores Victer",
+ "programa": "Ensino das Ciências",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Ensino e Aprendizagem. Atividades potencialmente interdisciplinares. Educação básica. Análise Combinatória. Probabilidade.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Proposta%20de%20Atividades%20Potencialmente%20Interdisciplinarares%20Envolvendo%20No%C3%A7%C3%B5es%20de%20An%C3%A1lise%20Combinat%C3%B3ria%20e%20Probabilidade%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Proposta%20de%20Atividades%20Potencialmente%20Interdisciplinarares%20Envolvendo%20No%C3%A7%C3%B5es%20de%20An%C3%A1lise%20Combinat%C3%B3ria%20e%20Probabilidade&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20333631"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "20333631",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Ensino e Aprendizagem. Atividades potencialmente interdisciplinares. Educação básica. Análise Combinatória. Probabilidade."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-20333631.svg",
+ "resumo": "Este é um estudo qualitativo sobre a abordagem interdisciplinar dos conceitos básicos de análise combinatória e probabilidade na educação básica, desenvolvido a partir de dois questionamentos básicos: Quais as características que devem apresentar atividades consideradas como potencialmente interdisciplinares? É possível desenvolver atividades potencialmente interdisciplinares que envolvam conceitos de matemática da área da análise combinatória e probabilidade? Nos utilizamos do conceito de interdisciplinaridade como sendo uma das formas que articula o processo de ensino e de aprendizagem, como modo de pensar, agir, organizar currículo e fundamentar opções metodológicas do ensinar, podendo assim, servir como elemento orientador na formação de professores. Verificamos fortes indicações na literatura da área de que o ensino de noções de probabilidade e análise combinatória já no Ensino Fundamental seria essencial para fazer com que o aluno ingresse no Ensino Médio tendo boa noção sobre tratamento de dados, previsões e combinações, e que as atividades interdisciplinares seriam os melhores caminhos para dar significância a um assunto muitas vezes tratado de forma abstrata, e diminuir o comum distanciamento entre o conteúdo trabalhado na sala de aula e cotidiano do estudante. O Produto Educacional, fruto deste estudo é composto de seis atividades que envolvem possibilidades de trabalho em diversas áreas, conteúdos relevantes à formação do indivíduo, com significativas aplicações em situações do cotidiano, na busca de responder a necessidade de superação da visão fragmentada das áreas de conhecimento, de forma a recuperar a integração dos saberes. Para ampliar a potencialidade interdisciplinar das atividades implementamos uma oficina envolvendo treze professores que atuam em diferentes áreas. Compreendemos que a utilização deste Produto Educacional pode resultar em um ensino/aprendizagem distanciado do formato abstrato e mecânico, permitindo espaços para que os estudantes construam o conhecimento, pesquisem e dialoguem a respeito dos conceitos envolvidos. Estas atividades também subsidiam espaços para interessantes debates, com participação efetiva dos alunos e professores envolvidos.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": null
 }

@@ -1,61 +1,61 @@
 {
-  "id": "capes-30001671",
-  "autor": "Milka Rossana Guerra Cavalcanti",
-  "ano": 2018,
-  "tipo": "Tese",
-  "titulo": "ESCALA APRESENTADA EM GRÁFICOS: Conhecimentos Matemáticos para o Ensino dos anos iniciais do Ensino Fundamental (crianças e EJA)",
-  "instituicao": "Universidade Federal de Pernambuco",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Gilda Lisboa Guimaraes",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Estatística; Escala; Anos Iniciais; Formação de Professores; Educação de Jovens e Adultos",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22ESCALA%20APRESENTADA%20EM%20GR%C3%81FICOS%3A%20Conhecimentos%20Matem%C3%A1ticos%20para%20o%20Ensino%20dos%20anos%20iniciais%20do%20Ensino%20Fundamental%20%28crian%C3%A7as%20e%20EJA%29%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESCALA%20APRESENTADA%20EM%20GR%C3%81FICOS%3A%20Conhecimentos%20Matem%C3%A1ticos%20para%20o%20Ensino%20dos%20anos%20iniciais%20do%20Ensino%20Fundamental%20%28crian%C3%A7as%20e%20EJA%29&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30001671"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "30001671",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Estatística",
-    "Escala",
-    "Anos Iniciais",
-    "Formação de Professores",
-    "Educação de Jovens e Adultos"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-30001671.svg",
-  "resumo": "Aprender estatística significa aprender a pesquisar. Uma pesquisa envolve diversas fases, sendo uma delas a representação dos dados sistematizados. Para essa representação um dos elementos que precisa ser considerado é a escala. Entretanto, estudos têm mostrado que tanto alunos como professores ainda apresentam dificuldades com a escala. O objetivo desse estudo foi estabelecer Conhecimentos Matemáticos para o Ensino de escala apresentada em gráficos estatísticos necessários para desenvolver um processo de formação continuada de professores dos anos iniciais do Ensino Fundamental. Para tal, foram desenvolvidos três estudos de naturezas distintas, mas complementares. No Estudo 1, a partir da revisão da literatura, estabelecemos as habilidades necesárias para a compreensão de escala nos anos iniciais para cada tipo do Conhecimento Matemático para o Ensino (Mathematical Knowledge for Teaching - MKT). No estudo 2, investigamos o desempenho na interpretação e construção de escalas apresentadas em gráficos com 210 alunos do 1º ao 5º ano do Ensino Fundamental (crianças e adultos da EJA), o que nos possibilitou propor uma progressão (Conhecimento do Horizonte de Escala). No Estudo 3, desenvolvemos e analisamos um processo de formação continuada de professores envolvendo a aprendizagem de escalas apresentadas em gráficos considerando os diferentes tipos de Conhecimentos Matemáticos para o Ensino de Escala. Assim consideramos fundamental que os professores compreendam os seguintes tipos de Conhecimentos matemáticos necessários para aprendizagem do conceito de escala nos anos iniciais: Conhecimento Comum de Escala (saber localizar corretamente um valor na escala e saber construir corretamente a escala do gráfico); Conhecimento Especializado de Escala (considerar as especificidades dos diferentes intervalos da escala, considerar a diferença de dificuldade em localizar um valor implícito ou explícito na escala, considerar que os diferentes conjuntos numéricos influenciam no intervalo da escala e considerar que a proporcionalidade é um atributo da escala); Conhecimento de Escala e do Aluno (compreender as dificuldades e facilidades dos alunos para interpretar e construir a escala); Conhecimento de Escala e Ensino (explorar as habilidades, representar, localizar, analisar, comparar e construir escalas em diversas situações e com diferentes unidades escalares e variar as situações deensino e uso do conceito de escala envolvendo atividades de medida de comprimento, de reta numérica e de mapas); Conhecimento de Escala e Currículo (conhecer o que os programas curriculares oficiais (BNCC e currículos locais) prescrevem para o trabalho com escala e conhecer o que o livro didático propõe para o trabalho com escala); Conhecimento do Horizonte de Escala (compreender como vai se complexificando a compreensão do conceito de escala e os elementos que influenciam nesta gradação). Para essa complexificação é importante considerar o reconhecimento de elementos estruturais (título, eixos e fonte), a localização de valores explícitos e implícitos na escala nos diferentes tipos de gráfico e os diferentes intervalos da escala. Finalmente, as atividades desenvolvidas envolvendo os diferentes tipos de conhecimento foram capazes de levar as professoras a refletirem e aprenderem sobre os Conhecimentos Matemáticos para o Ensino de Escala representada em gráficos",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-30001671",
+ "autor": "Milka Rossana Guerra Cavalcanti",
+ "ano": 2018,
+ "tipo": "Tese",
+ "titulo": "ESCALA APRESENTADA EM GRÁFICOS: Conhecimentos Matemáticos para o Ensino dos anos iniciais do Ensino Fundamental (crianças e EJA)",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Gilda Lisboa Guimaraes",
+ "programa": "Educação Matemática e Tecnológica",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Estatística; Escala; Anos Iniciais; Formação de Professores; Educação de Jovens e Adultos",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22ESCALA%20APRESENTADA%20EM%20GR%C3%81FICOS%3A%20Conhecimentos%20Matem%C3%A1ticos%20para%20o%20Ensino%20dos%20anos%20iniciais%20do%20Ensino%20Fundamental%20%28crian%C3%A7as%20e%20EJA%29%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ESCALA%20APRESENTADA%20EM%20GR%C3%81FICOS%3A%20Conhecimentos%20Matem%C3%A1ticos%20para%20o%20Ensino%20dos%20anos%20iniciais%20do%20Ensino%20Fundamental%20%28crian%C3%A7as%20e%20EJA%29&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30001671"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "30001671",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Estatística",
+  "Escala",
+  "Anos Iniciais",
+  "Formação de Professores",
+  "Educação de Jovens e Adultos"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-30001671.svg",
+ "resumo": "Aprender estatística significa aprender a pesquisar. Uma pesquisa envolve diversas fases, sendo uma delas a representação dos dados sistematizados. Para essa representação um dos elementos que precisa ser considerado é a escala. Entretanto, estudos têm mostrado que tanto alunos como professores ainda apresentam dificuldades com a escala. O objetivo desse estudo foi estabelecer Conhecimentos Matemáticos para o Ensino de escala apresentada em gráficos estatísticos necessários para desenvolver um processo de formação continuada de professores dos anos iniciais do Ensino Fundamental. Para tal, foram desenvolvidos três estudos de naturezas distintas, mas complementares. No Estudo 1, a partir da revisão da literatura, estabelecemos as habilidades necesárias para a compreensão de escala nos anos iniciais para cada tipo do Conhecimento Matemático para o Ensino (Mathematical Knowledge for Teaching - MKT). No estudo 2, investigamos o desempenho na interpretação e construção de escalas apresentadas em gráficos com 210 alunos do 1º ao 5º ano do Ensino Fundamental (crianças e adultos da EJA), o que nos possibilitou propor uma progressão (Conhecimento do Horizonte de Escala). No Estudo 3, desenvolvemos e analisamos um processo de formação continuada de professores envolvendo a aprendizagem de escalas apresentadas em gráficos considerando os diferentes tipos de Conhecimentos Matemáticos para o Ensino de Escala. Assim consideramos fundamental que os professores compreendam os seguintes tipos de Conhecimentos matemáticos necessários para aprendizagem do conceito de escala nos anos iniciais: Conhecimento Comum de Escala (saber localizar corretamente um valor na escala e saber construir corretamente a escala do gráfico); Conhecimento Especializado de Escala (considerar as especificidades dos diferentes intervalos da escala, considerar a diferença de dificuldade em localizar um valor implícito ou explícito na escala, considerar que os diferentes conjuntos numéricos influenciam no intervalo da escala e considerar que a proporcionalidade é um atributo da escala); Conhecimento de Escala e do Aluno (compreender as dificuldades e facilidades dos alunos para interpretar e construir a escala); Conhecimento de Escala e Ensino (explorar as habilidades, representar, localizar, analisar, comparar e construir escalas em diversas situações e com diferentes unidades escalares e variar as situações deensino e uso do conceito de escala envolvendo atividades de medida de comprimento, de reta numérica e de mapas); Conhecimento de Escala e Currículo (conhecer o que os programas curriculares oficiais (BNCC e currículos locais) prescrevem para o trabalho com escala e conhecer o que o livro didático propõe para o trabalho com escala); Conhecimento do Horizonte de Escala (compreender como vai se complexificando a compreensão do conceito de escala e os elementos que influenciam nesta gradação). Para essa complexificação é importante considerar o reconhecimento de elementos estruturais (título, eixos e fonte), a localização de valores explícitos e implícitos na escala nos diferentes tipos de gráfico e os diferentes intervalos da escala. Finalmente, as atividades desenvolvidas envolvendo os diferentes tipos de conhecimento foram capazes de levar as professoras a refletirem e aprenderem sobre os Conhecimentos Matemáticos para o Ensino de Escala representada em gráficos",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": []
 }

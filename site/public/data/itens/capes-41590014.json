@@ -1,64 +1,64 @@
 {
-  "id": "capes-41590014",
-  "autor": "Andre Goncalves Tavares",
-  "ano": 2024,
-  "tipo": "Dissertação",
-  "titulo": "Contribuições de um curso de extensão sobre Educação Estatística, na formação inicial de professoras da Educação Infantil e dos anos iniciais",
-  "instituicao": "Universidade Estadual Paulista Júlio de Mesquita Filho - Campus Rio Claro",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Antonio Carlos de Souza",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação estatística; Letramento estatístico; Pensamento estatístico; Raciocínio estatístico; Formação inicial",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Contribui%C3%A7%C3%B5es%20de%20um%20curso%20de%20extens%C3%A3o%20sobre%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%2C%20na%20forma%C3%A7%C3%A3o%20inicial%20de%20professoras%20da%20Educa%C3%A7%C3%A3o%20Infantil%20e%20dos%20anos%20iniciais%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Contribui%C3%A7%C3%B5es%20de%20um%20curso%20de%20extens%C3%A3o%20sobre%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%2C%20na%20forma%C3%A7%C3%A3o%20inicial%20de%20professoras%20da%20Educa%C3%A7%C3%A3o%20Infantil%20e%20dos%20anos%20iniciais&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41590014"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "41590014",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação estatística",
-    "Letramento estatístico",
-    "Pensamento estatístico",
-    "Raciocínio estatístico",
-    "Formação inicial"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-41590014.svg",
-  "resumo": "O presente texto apresenta uma pesquisa de cunho qualitativo, que recorreu à Análise Textual Discursiva como metodologia de análise e seu objetivo é revelar algumas contribuições de um curso de extensão, em Educação Estatística, para a formação inicial de professoras que atuarão na Educação Infantil e nos anos iniciais do Ensino Fundamental. O curso em questão foi oferecido para os alunos e alunas do curso de Pedagogia da Universidade Estadual Paulista “Júlio de Mesquita Filho” (UNESP), Campus de Rio Claro, e nele foram realizados nove encontros presenciais, assim como foram propostas a realização de atividades remotas. Os dados foram obtidos considerando as falas das (três) participantes e os documentos escritos elaborados por elas no decorrer do curso. Os resultados apontam que, à medida em que o curso era desenvolvido, as participantes se mostraram mais confiantes, com melhor compreensão sobre as ideias estatísticas abordadas, apresentando uma maior facilidade na criação de atividades, assim como em pensar e abordar estatística nos anos iniciais do Ensino Fundamental e na Educação Infantil.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "letramento estatístico",
-    "pensamento estatístico",
-    "raciocínio estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-41590014",
+ "autor": "Andre Goncalves Tavares",
+ "ano": 2024,
+ "tipo": "Dissertação",
+ "titulo": "Contribuições de um curso de extensão sobre Educação Estatística, na formação inicial de professoras da Educação Infantil e dos anos iniciais",
+ "instituicao": "Universidade Estadual Paulista Júlio de Mesquita Filho - Campus Rio Claro",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Antonio Carlos de Souza",
+ "programa": "Educação Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação estatística; Letramento estatístico; Pensamento estatístico; Raciocínio estatístico; Formação inicial",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Contribui%C3%A7%C3%B5es%20de%20um%20curso%20de%20extens%C3%A3o%20sobre%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%2C%20na%20forma%C3%A7%C3%A3o%20inicial%20de%20professoras%20da%20Educa%C3%A7%C3%A3o%20Infantil%20e%20dos%20anos%20iniciais%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Contribui%C3%A7%C3%B5es%20de%20um%20curso%20de%20extens%C3%A3o%20sobre%20Educa%C3%A7%C3%A3o%20Estat%C3%ADstica%2C%20na%20forma%C3%A7%C3%A3o%20inicial%20de%20professoras%20da%20Educa%C3%A7%C3%A3o%20Infantil%20e%20dos%20anos%20iniciais&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41590014"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "41590014",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação estatística",
+  "Letramento estatístico",
+  "Pensamento estatístico",
+  "Raciocínio estatístico",
+  "Formação inicial"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-41590014.svg",
+ "resumo": "O presente texto apresenta uma pesquisa de cunho qualitativo, que recorreu à Análise Textual Discursiva como metodologia de análise e seu objetivo é revelar algumas contribuições de um curso de extensão, em Educação Estatística, para a formação inicial de professoras que atuarão na Educação Infantil e nos anos iniciais do Ensino Fundamental. O curso em questão foi oferecido para os alunos e alunas do curso de Pedagogia da Universidade Estadual Paulista “Júlio de Mesquita Filho” (UNESP), Campus de Rio Claro, e nele foram realizados nove encontros presenciais, assim como foram propostas a realização de atividades remotas. Os dados foram obtidos considerando as falas das (três) participantes e os documentos escritos elaborados por elas no decorrer do curso. Os resultados apontam que, à medida em que o curso era desenvolvido, as participantes se mostraram mais confiantes, com melhor compreensão sobre as ideias estatísticas abordadas, apresentando uma maior facilidade na criação de atividades, assim como em pensar e abordar estatística nos anos iniciais do Ensino Fundamental e na Educação Infantil.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "letramento estatístico",
+  "pensamento estatístico",
+  "raciocínio estatístico"
+ ],
+ "ids_duplicados": []
 }

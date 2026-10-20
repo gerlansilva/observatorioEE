@@ -1,61 +1,61 @@
 {
-  "id": "capes-41811157",
-  "autor": "Suellen Rodrigues de Freitas",
-  "ano": 2024,
-  "tipo": "Tese",
-  "titulo": "Conhecimentos de futuros professores para o ensino de tabelas e gráficos nos anos iniciais",
-  "instituicao": "Universidade Anhanguera de São Paulo",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Ruy Cesar Pietropaolo",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação matemática; Níveis de leitura de gráficos; Letramento estatístico; Licenciatura em pedagogia; Formação de professores dos anos iniciais",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Conhecimentos%20de%20futuros%20professores%20para%20o%20ensino%20de%20tabelas%20e%20gr%C3%A1ficos%20nos%20anos%20iniciais%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Conhecimentos%20de%20futuros%20professores%20para%20o%20ensino%20de%20tabelas%20e%20gr%C3%A1ficos%20nos%20anos%20iniciais&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41811157"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "41811157",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação matemática",
-    "Níveis de leitura de gráficos",
-    "Letramento estatístico",
-    "Licenciatura em pedagogia",
-    "Formação de professores dos anos iniciais"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-41811157.svg",
-  "resumo": "O propósito deste estudo foi investigar a ampliação da base de conhecimentos de um grupo de futuros professores dos anos iniciais do Ensino Fundamental para ensinar gráficos estatísticos por meio de uma formação específica, fundamentada na reflexão compartilhada sobre dificuldades de aprendizagem relacionadas ao tema. Essa formação foi apoiada na metodologia de ensino e de pesquisa Design Experiment de Paul Cobb et al (2003). Trata-se de uma pesquisa qualitativa que envolveu um grupo de oito estudantes do curso de Licenciatura em Pedagogia presencial de uma rede privada na cidade de São Paulo. A primeira fase da coleta de dados constituiu-se da aplicação de questionário com o objetivo de identificar perfil dos participantes e os respectivos conhecimentos sobre o tema da formação. A segunda fase, a do processo formativo, foi desenvolvida de modo a impulsionar o letramento estatístico segundo Gal (2002) e ampliar os conhecimentos de cada licenciando para o ensino de gráficos estatísticos utilizando os níveis de Curcio (1989). Em relação à fundamentação teórica, no que diz respeito aos conhecimentos que devem ser de domínio do professor, foram consideradas as categorias estabelecidas por Shulman (1986) e os argumentos apresentados por Tardif (2014) sobre a formação profissional docente. Para avaliar o processo formativo utilizou-se o conceito de Idoneidade Didática de Godino (2012, 2017) de seus estudos sobre o Enfoque Ontossemiótico do Conhecimento e da Instrução Matemática. A pesquisa revelou lacunas bastante significativas sobre os conhecimentos do conteúdo e, consequentemente, do pedagógico do conteúdo dos licenciandos. No entanto, os resultados da formação indicam que o processo formativo contribuiu significativamente para o desenvolvimento do Letramento Estatístico dos participantes, pois observou-se avanço substantivo quanto à leitura de gráficos e de tabelas de dupla entrada, além de ter promovido reflexões relevantes sobre o ensino desses objetos. A pesquisa mostra também que os cursos de Licenciatura em Pedagogia dão pouco destaque para o desenvolvimento competências, habilidades, conhecimentos e saberes para os futuros professores ensinarem matemática nos anos iniciais, em especial conceitos e procedimentos estatísticos.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "letramento estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-41811157",
+ "autor": "Suellen Rodrigues de Freitas",
+ "ano": 2024,
+ "tipo": "Tese",
+ "titulo": "Conhecimentos de futuros professores para o ensino de tabelas e gráficos nos anos iniciais",
+ "instituicao": "Universidade Anhanguera de São Paulo",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Ruy Cesar Pietropaolo",
+ "programa": "Educação Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação matemática; Níveis de leitura de gráficos; Letramento estatístico; Licenciatura em pedagogia; Formação de professores dos anos iniciais",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Conhecimentos%20de%20futuros%20professores%20para%20o%20ensino%20de%20tabelas%20e%20gr%C3%A1ficos%20nos%20anos%20iniciais%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Conhecimentos%20de%20futuros%20professores%20para%20o%20ensino%20de%20tabelas%20e%20gr%C3%A1ficos%20nos%20anos%20iniciais&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/41811157"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "41811157",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação matemática",
+  "Níveis de leitura de gráficos",
+  "Letramento estatístico",
+  "Licenciatura em pedagogia",
+  "Formação de professores dos anos iniciais"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-41811157.svg",
+ "resumo": "O propósito deste estudo foi investigar a ampliação da base de conhecimentos de um grupo de futuros professores dos anos iniciais do Ensino Fundamental para ensinar gráficos estatísticos por meio de uma formação específica, fundamentada na reflexão compartilhada sobre dificuldades de aprendizagem relacionadas ao tema. Essa formação foi apoiada na metodologia de ensino e de pesquisa Design Experiment de Paul Cobb et al (2003). Trata-se de uma pesquisa qualitativa que envolveu um grupo de oito estudantes do curso de Licenciatura em Pedagogia presencial de uma rede privada na cidade de São Paulo. A primeira fase da coleta de dados constituiu-se da aplicação de questionário com o objetivo de identificar perfil dos participantes e os respectivos conhecimentos sobre o tema da formação. A segunda fase, a do processo formativo, foi desenvolvida de modo a impulsionar o letramento estatístico segundo Gal (2002) e ampliar os conhecimentos de cada licenciando para o ensino de gráficos estatísticos utilizando os níveis de Curcio (1989). Em relação à fundamentação teórica, no que diz respeito aos conhecimentos que devem ser de domínio do professor, foram consideradas as categorias estabelecidas por Shulman (1986) e os argumentos apresentados por Tardif (2014) sobre a formação profissional docente. Para avaliar o processo formativo utilizou-se o conceito de Idoneidade Didática de Godino (2012, 2017) de seus estudos sobre o Enfoque Ontossemiótico do Conhecimento e da Instrução Matemática. A pesquisa revelou lacunas bastante significativas sobre os conhecimentos do conteúdo e, consequentemente, do pedagógico do conteúdo dos licenciandos. No entanto, os resultados da formação indicam que o processo formativo contribuiu significativamente para o desenvolvimento do Letramento Estatístico dos participantes, pois observou-se avanço substantivo quanto à leitura de gráficos e de tabelas de dupla entrada, além de ter promovido reflexões relevantes sobre o ensino desses objetos. A pesquisa mostra também que os cursos de Licenciatura em Pedagogia dão pouco destaque para o desenvolvimento competências, habilidades, conhecimentos e saberes para os futuros professores ensinarem matemática nos anos iniciais, em especial conceitos e procedimentos estatísticos.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "letramento estatístico"
+ ],
+ "ids_duplicados": []
 }

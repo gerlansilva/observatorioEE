@@ -1,59 +1,59 @@
 {
-  "id": "capes-28075102",
-  "autor": "Thays Rodrigues Votto",
-  "ano": 2018,
-  "tipo": "Dissertação",
-  "titulo": "As potencialidades lúdicas nas estratégias para o ensino e a aprendizagem estatística nos anos iniciais do ensino fundamental",
-  "instituicao": "Universidade Federal do Rio Grande",
-  "cidade": "",
-  "estado": "Rio Grande do Sul",
-  "regiao": "Sul",
-  "orientador": "Mauren Porciuncula Moreira da Silva",
-  "programa": "EDUCAÇÃO EM CIÊNCIAS QUÌMICA DA VIDA E SAÚDE ( UFSM - FURG)",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Estatística; Ludicidade.; Anos iniciais do Ensino Fundamental",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22As%20potencialidades%20l%C3%BAdicas%20nas%20estrat%C3%A9gias%20para%20o%20ensino%20e%20a%20aprendizagem%20estat%C3%ADstica%20nos%20anos%20iniciais%20do%20ensino%20fundamental%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=As%20potencialidades%20l%C3%BAdicas%20nas%20estrat%C3%A9gias%20para%20o%20ensino%20e%20a%20aprendizagem%20estat%C3%ADstica%20nos%20anos%20iniciais%20do%20ensino%20fundamental&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28075102"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "28075102",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Estatística",
-    "Ludicidade.",
-    "Anos iniciais do Ensino Fundamental"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-28075102.svg",
-  "resumo": "A Estatística e o Tratamento da Informação estão preconizados nos documentos oficiais que norteiam a Educação Básica, tanto nos Parâmetros Curriculares Nacionais - PCN, quanto na Base Nacional Comum Curricular - BNCC. Ambos os documentos salientam a importância de estimular nos alunos o desenvolvimento de um processo investigativo, por meio da coleta, organização e interpretação de dados, contribuindo para uma educação científica. Nesse sentido, uma das possibilidades é inter-relacionar a ludicidade à prática pedagógica. Podemos compreender a ludicidade como ação, construção e movimento, que possibilita ao sujeito um estado de plenitude, prazer e alegria, sendo um fenômeno interno do sujeito, que possui manifestações no exterior. Nesse contexto, o objetivo geral da dissertação visou compreender de que forma a Estatística está sendo abordada nos Anos Iniciais do Ensino Fundamental e como pode ser relacionada com a ludicidade. Na análise das práticas estatísticas e da ludicidade, presentes e/ou emergentes nas estratégias pedagógicas para o ensino de Estatística, utilizadas por professores da rede municipal de Rio Grande, a presente pesquisa tem metodologia qualitativa-quantitativa. Inicia com uma investigação quantitativa, através de uma amostragem probabilística. Nesta, 92 professores da rede responderam a um questionário sobre quais habilidades de Estatística estão desenvolvendo em sua prática pedagógica. Para fins de análise destes dados, utilizou-se a Estatística Descritiva. A partir desses resultados, foram selecionados sete professores, os quais alegaram no questionário ter desenvolvido pelo menos 9 das 17 habilidades elencadas. Estes realizaram uma entrevista semiestruturada, caracterizando a fase qualitativa desse estudo, no qual valeu-se da Análise de Conteúdo para tratamento e interpretação dos resultados. Emergiu do corpus analisado, a partir da fase quantitativa, que cerca de 90% dos professores investigados alegam desenvolver em sua prática pedagógica pelo menos uma habilidade estatística preconizada nos documentos oficiais, embora alguns o façam de forma inconsciente. Já a análise qualitativa nos permitiu categorizar os discursos docentes sob duas categorias gerais: o ensino e aprendizagem da Educação Estatística nos Anos Iniciais e a Educação Estatística e sua relação com as vivências lúdicas. Na primeira, constatamos que os professores realizam atividades que envolvem a coleta e discussão de informações, entretanto, uma minoria formaliza todas as etapas do ciclo investigativo de uma pesquisa. Emergiu das análises ainda, a crença de que alunos do ciclo de alfabetização não são capazes de compreender alguns tipos de gráficos. No que se refere à segunda categoria, de modo geral, os docentes compreendem a ludicidade por meio de sua materialidade em jogos e atividades lúdicas, implicando numa visão stricto sensu do lúdico, ao passo que uma minoria compreende esse fenômeno como uma dimensão subjetiva. Em relação às atividades estatísticas, os discursos docentes sugerem que atividades que envolvem construção de gráficos com dados oriundos de pesquisas com temas do interesse da turma, apresentam grande potencial lúdico. Outrossim, percebemos que a vivência lúdica pode estar presente nas práticas pedagógicas estatísticas possibilitando, dessa forma, aos alunos uma educação potencialmente lúdica. Compreendemos ainda que o diálogo com esses profissionais sobre o tema possibilita que os mesmos possam refletir sobre a teoria que fundamenta as atividades que desenvolvem.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-28075102",
+ "autor": "Thays Rodrigues Votto",
+ "ano": 2018,
+ "tipo": "Dissertação",
+ "titulo": "As potencialidades lúdicas nas estratégias para o ensino e a aprendizagem estatística nos anos iniciais do ensino fundamental",
+ "instituicao": "Universidade Federal do Rio Grande",
+ "cidade": "",
+ "estado": "Rio Grande do Sul",
+ "regiao": "Sul",
+ "orientador": "Mauren Porciuncula Moreira da Silva",
+ "programa": "Educação em Ciências Química da Vida e Saúde (UFSM – FURG)",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Estatística; Ludicidade.; Anos iniciais do Ensino Fundamental",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22As%20potencialidades%20l%C3%BAdicas%20nas%20estrat%C3%A9gias%20para%20o%20ensino%20e%20a%20aprendizagem%20estat%C3%ADstica%20nos%20anos%20iniciais%20do%20ensino%20fundamental%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=As%20potencialidades%20l%C3%BAdicas%20nas%20estrat%C3%A9gias%20para%20o%20ensino%20e%20a%20aprendizagem%20estat%C3%ADstica%20nos%20anos%20iniciais%20do%20ensino%20fundamental&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/28075102"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "28075102",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Estatística",
+  "Ludicidade.",
+  "Anos iniciais do Ensino Fundamental"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-28075102.svg",
+ "resumo": "A Estatística e o Tratamento da Informação estão preconizados nos documentos oficiais que norteiam a Educação Básica, tanto nos Parâmetros Curriculares Nacionais - PCN, quanto na Base Nacional Comum Curricular - BNCC. Ambos os documentos salientam a importância de estimular nos alunos o desenvolvimento de um processo investigativo, por meio da coleta, organização e interpretação de dados, contribuindo para uma educação científica. Nesse sentido, uma das possibilidades é inter-relacionar a ludicidade à prática pedagógica. Podemos compreender a ludicidade como ação, construção e movimento, que possibilita ao sujeito um estado de plenitude, prazer e alegria, sendo um fenômeno interno do sujeito, que possui manifestações no exterior. Nesse contexto, o objetivo geral da dissertação visou compreender de que forma a Estatística está sendo abordada nos Anos Iniciais do Ensino Fundamental e como pode ser relacionada com a ludicidade. Na análise das práticas estatísticas e da ludicidade, presentes e/ou emergentes nas estratégias pedagógicas para o ensino de Estatística, utilizadas por professores da rede municipal de Rio Grande, a presente pesquisa tem metodologia qualitativa-quantitativa. Inicia com uma investigação quantitativa, através de uma amostragem probabilística. Nesta, 92 professores da rede responderam a um questionário sobre quais habilidades de Estatística estão desenvolvendo em sua prática pedagógica. Para fins de análise destes dados, utilizou-se a Estatística Descritiva. A partir desses resultados, foram selecionados sete professores, os quais alegaram no questionário ter desenvolvido pelo menos 9 das 17 habilidades elencadas. Estes realizaram uma entrevista semiestruturada, caracterizando a fase qualitativa desse estudo, no qual valeu-se da Análise de Conteúdo para tratamento e interpretação dos resultados. Emergiu do corpus analisado, a partir da fase quantitativa, que cerca de 90% dos professores investigados alegam desenvolver em sua prática pedagógica pelo menos uma habilidade estatística preconizada nos documentos oficiais, embora alguns o façam de forma inconsciente. Já a análise qualitativa nos permitiu categorizar os discursos docentes sob duas categorias gerais: o ensino e aprendizagem da Educação Estatística nos Anos Iniciais e a Educação Estatística e sua relação com as vivências lúdicas. Na primeira, constatamos que os professores realizam atividades que envolvem a coleta e discussão de informações, entretanto, uma minoria formaliza todas as etapas do ciclo investigativo de uma pesquisa. Emergiu das análises ainda, a crença de que alunos do ciclo de alfabetização não são capazes de compreender alguns tipos de gráficos. No que se refere à segunda categoria, de modo geral, os docentes compreendem a ludicidade por meio de sua materialidade em jogos e atividades lúdicas, implicando numa visão stricto sensu do lúdico, ao passo que uma minoria compreende esse fenômeno como uma dimensão subjetiva. Em relação às atividades estatísticas, os discursos docentes sugerem que atividades que envolvem construção de gráficos com dados oriundos de pesquisas com temas do interesse da turma, apresentam grande potencial lúdico. Outrossim, percebemos que a vivência lúdica pode estar presente nas práticas pedagógicas estatísticas possibilitando, dessa forma, aos alunos uma educação potencialmente lúdica. Compreendemos ainda que o diálogo com esses profissionais sobre o tema possibilita que os mesmos possam refletir sobre a teoria que fundamenta as atividades que desenvolvem.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": []
 }

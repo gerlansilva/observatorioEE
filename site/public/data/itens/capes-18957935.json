@@ -1,58 +1,58 @@
 {
-  "id": "capes-18957935",
-  "autor": "Renata Rivas Tonouti",
-  "ano": 2013,
-  "tipo": "Dissertação",
-  "titulo": "Avaliação de um Programa de Ensino para aprendizagem de Probabilidade no ensino fundamental",
-  "instituicao": "Universidade Anhanguera de São Paulo",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Veronica Yumi Kataoka",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Probabilidade. Anos iniciais do Ensino Fundamental. Letramento probabilístico. Programa de ensino.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Avalia%C3%A7%C3%A3o%20de%20um%20Programa%20de%20Ensino%20para%20aprendizagem%20de%20Probabilidade%20no%20ensino%20fundamental%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Avalia%C3%A7%C3%A3o%20de%20um%20Programa%20de%20Ensino%20para%20aprendizagem%20de%20Probabilidade%20no%20ensino%20fundamental&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/18957935"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "18957935",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Probabilidade. Anos iniciais do Ensino Fundamental. Letramento probabilístico. Programa de ensino."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-18957935.svg",
-  "resumo": "O objetivo desse trabalho foi investigar como o programa de ensino proposto para abordar Probabilidade, com alunos do quarto ano do Ensino Fundamental, contribuiu para a aprendizagem dos conceitos de aleatoriedade, eventos previsíveis e imprevisíveis, equiprobabilidade, espaço amostral, quantificação de probabilidade e correlação e, por conseguinte, como favoreceu o desenvolvimento do letramento probabilístico dos alunos investigados. Foi empregado neste trabalho um programa de ensino proposto por Nunes, Bryant, Evans e Barros da Universidade de Oxford constante no projeto Childrens understanding of probability and risk, sendo replicado durante um ano em uma escola estadual de São Paulo. Inicialmente, os alunos, de três turmas do quarto ano escolar, foram divididos em três grupos, porém nessa pesquisa, foram investigados apenas dois grupos: controle (responderam somente aos testes e à entrevista) e aleatoriedade (intervenções de ensino sobre probabilidade). Foram aplicados quatro testes, uma entrevista e realizadas três intervenções de ensino, sendo que os resultados foram analisados qualitativamente. Durante as intervenções, percebeu-se que, usualmente, os alunos compartilhavam os conhecimentos durante a resolução das atividades e que os conceitos estavam sendo adquiridos no decorrer do processo, por exemplo, após a primeira intervenção, os alunos já utilizavam, durante os testes e as demais intervenções, os termos probabilísticos abordados. Na segunda intervenção, destaca-se o uso do computador e de materiais manipuláveis no desenvolvimento de atividades sobre espaço amostral antes da apresentação da árvore de possibilidades. Na terceira intervenção, os alunos do grupo aleatoriedade já determinavam a probabilidade de ocorrência de um evento simples. Os resultados dos testes dos alunos do grupo controle foram comparados com os do grupo da aleatoriedade o que revelou um avanço dos alunos do segundo grupo que apresentaram porcentagens de acerto maiores ou iguais nos pós-testes, indicando um efeito positivo na compreensão dos conceitos com as intervenções de ensino realizadas. Os resultados parecem indicar que o programa de ensino em questão, após algumas adaptações, pode ser utilizado para favorecer a compreensão de alunos dos anos iniciais do ensino fundamental sobre Probabilidade e, por conseguinte, propiciar o desenvolvimento probabilístico dos mesmos.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "letramento probabilístico",
-    "ensino de probabilidade"
-  ],
-  "ids_duplicados": []
+ "id": "capes-18957935",
+ "autor": "Renata Rivas Tonouti",
+ "ano": 2013,
+ "tipo": "Dissertação",
+ "titulo": "Avaliação de um Programa de Ensino para aprendizagem de Probabilidade no ensino fundamental",
+ "instituicao": "Universidade Anhanguera de São Paulo",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Veronica Yumi Kataoka",
+ "programa": "Educação Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Probabilidade. Anos iniciais do Ensino Fundamental. Letramento probabilístico. Programa de ensino.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Avalia%C3%A7%C3%A3o%20de%20um%20Programa%20de%20Ensino%20para%20aprendizagem%20de%20Probabilidade%20no%20ensino%20fundamental%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Avalia%C3%A7%C3%A3o%20de%20um%20Programa%20de%20Ensino%20para%20aprendizagem%20de%20Probabilidade%20no%20ensino%20fundamental&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/18957935"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "18957935",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Probabilidade. Anos iniciais do Ensino Fundamental. Letramento probabilístico. Programa de ensino."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-18957935.svg",
+ "resumo": "O objetivo desse trabalho foi investigar como o programa de ensino proposto para abordar Probabilidade, com alunos do quarto ano do Ensino Fundamental, contribuiu para a aprendizagem dos conceitos de aleatoriedade, eventos previsíveis e imprevisíveis, equiprobabilidade, espaço amostral, quantificação de probabilidade e correlação e, por conseguinte, como favoreceu o desenvolvimento do letramento probabilístico dos alunos investigados. Foi empregado neste trabalho um programa de ensino proposto por Nunes, Bryant, Evans e Barros da Universidade de Oxford constante no projeto Childrens understanding of probability and risk, sendo replicado durante um ano em uma escola estadual de São Paulo. Inicialmente, os alunos, de três turmas do quarto ano escolar, foram divididos em três grupos, porém nessa pesquisa, foram investigados apenas dois grupos: controle (responderam somente aos testes e à entrevista) e aleatoriedade (intervenções de ensino sobre probabilidade). Foram aplicados quatro testes, uma entrevista e realizadas três intervenções de ensino, sendo que os resultados foram analisados qualitativamente. Durante as intervenções, percebeu-se que, usualmente, os alunos compartilhavam os conhecimentos durante a resolução das atividades e que os conceitos estavam sendo adquiridos no decorrer do processo, por exemplo, após a primeira intervenção, os alunos já utilizavam, durante os testes e as demais intervenções, os termos probabilísticos abordados. Na segunda intervenção, destaca-se o uso do computador e de materiais manipuláveis no desenvolvimento de atividades sobre espaço amostral antes da apresentação da árvore de possibilidades. Na terceira intervenção, os alunos do grupo aleatoriedade já determinavam a probabilidade de ocorrência de um evento simples. Os resultados dos testes dos alunos do grupo controle foram comparados com os do grupo da aleatoriedade o que revelou um avanço dos alunos do segundo grupo que apresentaram porcentagens de acerto maiores ou iguais nos pós-testes, indicando um efeito positivo na compreensão dos conceitos com as intervenções de ensino realizadas. Os resultados parecem indicar que o programa de ensino em questão, após algumas adaptações, pode ser utilizado para favorecer a compreensão de alunos dos anos iniciais do ensino fundamental sobre Probabilidade e, por conseguinte, propiciar o desenvolvimento probabilístico dos mesmos.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "letramento probabilístico",
+  "ensino de probabilidade"
+ ],
+ "ids_duplicados": []
 }

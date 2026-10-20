@@ -1,64 +1,64 @@
 {
-  "id": "capes-37035273",
-  "autor": "Izabela Cristina Bezerra da Silva",
-  "ano": 2022,
-  "tipo": "Dissertação",
-  "titulo": "Ensino e Aprendizagem de Estatística nos Anos Iniciais do Ensino Fundamental: Literatura Infantil e História em Quadrinhos Como Recursos Pedagógicos",
-  "instituicao": "Universidade Federal de Pernambuco",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Gilda Lisboa Guimaraes",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Estatística; Literatura Infantil; História em Quadrinhos; Ciclo Investigativo; Anos iniciais.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20E%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20LITERATURA%20INFANTIL%20E%20HIST%C3%93RIA%20EM%20QUADRINHOS%20COMO%20RECURSOS%20PEDAG%C3%93GICOS%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20E%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20LITERATURA%20INFANTIL%20E%20HIST%C3%93RIA%20EM%20QUADRINHOS%20COMO%20RECURSOS%20PEDAG%C3%93GICOS&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37035273"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "37035273",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Estatística",
-    "Literatura Infantil",
-    "História em Quadrinhos",
-    "Ciclo Investigativo",
-    "Anos iniciais."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-37035273.svg",
-  "resumo": "Esta pesquisa teve por objetivo analisar como a literatura infantil e a história em quadrinhos podem auxiliar alunos do 5o ano do Ensino Fundamental a realizar pesquisas envolvendo todas as fases do ciclo investigativo. Acreditamos que o uso de recursos pedagógicos, como literatura infantil e histórias em quadrinhos, podem ser uma ótima estratégia para o processo de ensino e aprendizagem de conceitos estatísticos. Porém, ao se fazer uma revisão da literatura, foi constatado que existem poucos estudos que trazem uma abordagem envolvendo literatura infantil e Estatística, e que, com o uso de história em quadrinhos, nenhum estudo foi encontrado. A fundamentação teórica é embasada no Ciclo Investigativo de Guimarães e Gitirana (2013), que destaca a pesquisa como eixo do ensino e aprendizagem de Estatística, e no Letramento Estatístico de Gal (2002). Configura-se a problemática de investigação da dissertação a seguinte questão: Como o uso de diferentes recursos pedagógicos (literatura infantil e história em quadrinhos) pode favorecer o processo de ensino e aprendizagem de Estatística em turmas dos anos iniciais do Ensino Fundamental? Desse modo, realizamos um estudo qualitativo em quatro turmas do 5o ano do Ensino Fundamental, em escolas do município de Jaboatão dos Guararapes, por meio de diagnoses e, posteriormente, por intervenções com livros de literatura infantil ou histórias em quadrinhos, contemplando todas as fases do ciclo investigativo. As análises dos dados da diagnose, nas quatro turmas, foram muito semelhantes, evidenciando que os alunos de diferentes escolas apresentam dificuldades na compreensão de alguns conceitos estatísticos. Durante a intervenção, fomos observando a facilidade de aprendizagem dos alunos em referência aos conceitos abordados. Inicialmente, para desenvolver uma pesquisa, os alunos precisaram de uma mediação mais efetiva da pesquisadora/professora, o que não foi preciso na segunda pesquisa desenvolvida por eles de forma muito mais autônoma. Além disso, observamos com base nas argumentações dos alunos, que eles estavam interessados e estimulados a realizarem novas pesquisas, apresentando novos objetivos/questões, permitindo um novo ciclo investigativo. Apesar do pouco tempo de intervenção (apenas dois encontros), foi possível percorrer todas as fases do ciclo investigativo em cada turma, evidenciando a possibilidade da realização de pesquisas pelos alunos, utilizando literatura infantil ou história em quadrinhos, além de dar sugestões para que professores estimulem seus alunos a realizar pesquisa em sala de aula.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística"
-  ],
-  "ids_duplicados": [
-    "39997189"
-  ]
+ "id": "capes-37035273",
+ "autor": "Izabela Cristina Bezerra da Silva",
+ "ano": 2022,
+ "tipo": "Dissertação",
+ "titulo": "Ensino e Aprendizagem de Estatística nos Anos Iniciais do Ensino Fundamental: Literatura Infantil e História em Quadrinhos Como Recursos Pedagógicos",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Gilda Lisboa Guimaraes",
+ "programa": "Educação Matemática e Tecnológica",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Estatística; Literatura Infantil; História em Quadrinhos; Ciclo Investigativo; Anos iniciais.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20E%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20LITERATURA%20INFANTIL%20E%20HIST%C3%93RIA%20EM%20QUADRINHOS%20COMO%20RECURSOS%20PEDAG%C3%93GICOS%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20E%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NOS%20ANOS%20INICIAIS%20DO%20ENSINO%20FUNDAMENTAL%3A%20LITERATURA%20INFANTIL%20E%20HIST%C3%93RIA%20EM%20QUADRINHOS%20COMO%20RECURSOS%20PEDAG%C3%93GICOS&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/37035273"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "37035273",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Estatística",
+  "Literatura Infantil",
+  "História em Quadrinhos",
+  "Ciclo Investigativo",
+  "Anos iniciais."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-37035273.svg",
+ "resumo": "Esta pesquisa teve por objetivo analisar como a literatura infantil e a história em quadrinhos podem auxiliar alunos do 5o ano do Ensino Fundamental a realizar pesquisas envolvendo todas as fases do ciclo investigativo. Acreditamos que o uso de recursos pedagógicos, como literatura infantil e histórias em quadrinhos, podem ser uma ótima estratégia para o processo de ensino e aprendizagem de conceitos estatísticos. Porém, ao se fazer uma revisão da literatura, foi constatado que existem poucos estudos que trazem uma abordagem envolvendo literatura infantil e Estatística, e que, com o uso de história em quadrinhos, nenhum estudo foi encontrado. A fundamentação teórica é embasada no Ciclo Investigativo de Guimarães e Gitirana (2013), que destaca a pesquisa como eixo do ensino e aprendizagem de Estatística, e no Letramento Estatístico de Gal (2002). Configura-se a problemática de investigação da dissertação a seguinte questão: Como o uso de diferentes recursos pedagógicos (literatura infantil e história em quadrinhos) pode favorecer o processo de ensino e aprendizagem de Estatística em turmas dos anos iniciais do Ensino Fundamental? Desse modo, realizamos um estudo qualitativo em quatro turmas do 5o ano do Ensino Fundamental, em escolas do município de Jaboatão dos Guararapes, por meio de diagnoses e, posteriormente, por intervenções com livros de literatura infantil ou histórias em quadrinhos, contemplando todas as fases do ciclo investigativo. As análises dos dados da diagnose, nas quatro turmas, foram muito semelhantes, evidenciando que os alunos de diferentes escolas apresentam dificuldades na compreensão de alguns conceitos estatísticos. Durante a intervenção, fomos observando a facilidade de aprendizagem dos alunos em referência aos conceitos abordados. Inicialmente, para desenvolver uma pesquisa, os alunos precisaram de uma mediação mais efetiva da pesquisadora/professora, o que não foi preciso na segunda pesquisa desenvolvida por eles de forma muito mais autônoma. Além disso, observamos com base nas argumentações dos alunos, que eles estavam interessados e estimulados a realizarem novas pesquisas, apresentando novos objetivos/questões, permitindo um novo ciclo investigativo. Apesar do pouco tempo de intervenção (apenas dois encontros), foi possível percorrer todas as fases do ciclo investigativo em cada turma, evidenciando a possibilidade da realização de pesquisas pelos alunos, utilizando literatura infantil ou história em quadrinhos, além de dar sugestões para que professores estimulem seus alunos a realizar pesquisa em sala de aula.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística"
+ ],
+ "ids_duplicados": [
+  "39997189"
+ ]
 }

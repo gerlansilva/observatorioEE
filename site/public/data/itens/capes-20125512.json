@@ -1,64 +1,64 @@
 {
-  "id": "capes-20125512",
-  "autor": "Jose Carlos Thompson da Silva",
-  "ano": 2014,
-  "tipo": "Dissertação",
-  "titulo": "Jogo sobre Análise Combinatória e Formação Inicial de Professores de Matemática",
-  "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
-  "cidade": "",
-  "estado": "Espírito Santo",
-  "regiao": "Sudeste",
-  "orientador": "Sandra Aparecida Fraga da Silva",
-  "programa": "EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Análise Combinatória; Formação inicial de professores; Jogos matemáticos; Conhecimentos; educação básica; jogos matemáticos; ensino médio; educação profissional",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22JOGO%20SOBRE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20E%20FORMA%C3%87%C3%83O%20INICIAL%20DE%20PROFESSORES%20DE%20MATEM%C3%81TICA%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=JOGO%20SOBRE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20E%20FORMA%C3%87%C3%83O%20INICIAL%20DE%20PROFESSORES%20DE%20MATEM%C3%81TICA&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20125512"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "20125512",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Análise Combinatória",
-    "Formação inicial de professores",
-    "Jogos matemáticos",
-    "Conhecimentos",
-    "educação básica",
-    "jogos matemáticos",
-    "ensino médio",
-    "educação profissional"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-20125512.svg",
-  "resumo": "Neste trabalho realizamos um estudo investigativo junto a licenciandos do IFES de Vitória, inseridos no Programa Institucional de Bolsas de Iniciação à Docência - Pibid, com a finalidade de investigar diferentes conhecimentos de licenciandos de matemática ao discutir, elaborar, aplicar e validarum jogo matemático sobre análise combinatória para a educação básica. Esta pesquisa qualitativa de caráter colaborativo teve os momentos do jogo de Grando (2000), como fundamentação Teórico-Metodológica, fazendo uso do método descritivo para análise do objeto e dos sujeitos envolvidos na pesquisa. Num primeiro momento, a pesquisa teve uma abordagem de caráter exploratório, por meio de levantamento bibliográfico sobre produções nessa área em que se articulam Análise Combinatória, jogos matemáticos e formação inicial de professores de matemática. Num segundo momento realizamos a formação do grupo de pesquisa com os quais coletamos dados por meio de entrevistas (conversas, observações diretas e indiretas, questionários, registros de áudio e escrita). Com ogrupo realizamos um estudo sobre o conteúdo de Análise Combinatória, elaboramos um jogo de Combinatória (Combinando na Cidade) e aplicamos o material elaborado numa oficina realizada na III Semana da Matemática no Ifes/Vitória com licenciandos em matemática e professores. O material também foi aplicado em uma turma de licenciatura em matemática do Ifes/Vitória que cursava a disciplinade Análise Combinatória. Após as observações e modificações o material foi aplicado em duas escolas públicas localizadas no município da Serra/ES, com uma turmade 3º ano do ensino médio da EEEFM Belmiro Teixeira Pimenta e uma turma do 5º ano do ensino fundamental da EMEF Ministro Petrônio Portella. Durante a aplicação do jogo nas escolas não foi necessário fazer alterações no material, então consideramos a validade do mesmo. Fizemos as descrições dos encontros e identificamosos conhecimentos dos licenciandos tendo como base a teoria de Shulman (2005). Por fim fizemos a devolutiva com o grupo de pesquisa e a produção de um guia didático.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de combinatória"
-  ],
-  "ids_duplicados": []
+ "id": "capes-20125512",
+ "autor": "Jose Carlos Thompson da Silva",
+ "ano": 2014,
+ "tipo": "Dissertação",
+ "titulo": "Jogo sobre Análise Combinatória e Formação Inicial de Professores de Matemática",
+ "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+ "cidade": "",
+ "estado": "Espírito Santo",
+ "regiao": "Sudeste",
+ "orientador": "Sandra Aparecida Fraga da Silva",
+ "programa": "Educação em Ciências e Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Análise Combinatória; Formação inicial de professores; Jogos matemáticos; Conhecimentos; educação básica; jogos matemáticos; ensino médio; educação profissional",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22JOGO%20SOBRE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20E%20FORMA%C3%87%C3%83O%20INICIAL%20DE%20PROFESSORES%20DE%20MATEM%C3%81TICA%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=JOGO%20SOBRE%20AN%C3%81LISE%20COMBINAT%C3%93RIA%20E%20FORMA%C3%87%C3%83O%20INICIAL%20DE%20PROFESSORES%20DE%20MATEM%C3%81TICA&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/20125512"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "20125512",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Análise Combinatória",
+  "Formação inicial de professores",
+  "Jogos matemáticos",
+  "Conhecimentos",
+  "educação básica",
+  "jogos matemáticos",
+  "ensino médio",
+  "educação profissional"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-20125512.svg",
+ "resumo": "Neste trabalho realizamos um estudo investigativo junto a licenciandos do IFES de Vitória, inseridos no Programa Institucional de Bolsas de Iniciação à Docência - Pibid, com a finalidade de investigar diferentes conhecimentos de licenciandos de matemática ao discutir, elaborar, aplicar e validarum jogo matemático sobre análise combinatória para a educação básica. Esta pesquisa qualitativa de caráter colaborativo teve os momentos do jogo de Grando (2000), como fundamentação Teórico-Metodológica, fazendo uso do método descritivo para análise do objeto e dos sujeitos envolvidos na pesquisa. Num primeiro momento, a pesquisa teve uma abordagem de caráter exploratório, por meio de levantamento bibliográfico sobre produções nessa área em que se articulam Análise Combinatória, jogos matemáticos e formação inicial de professores de matemática. Num segundo momento realizamos a formação do grupo de pesquisa com os quais coletamos dados por meio de entrevistas (conversas, observações diretas e indiretas, questionários, registros de áudio e escrita). Com ogrupo realizamos um estudo sobre o conteúdo de Análise Combinatória, elaboramos um jogo de Combinatória (Combinando na Cidade) e aplicamos o material elaborado numa oficina realizada na III Semana da Matemática no Ifes/Vitória com licenciandos em matemática e professores. O material também foi aplicado em uma turma de licenciatura em matemática do Ifes/Vitória que cursava a disciplinade Análise Combinatória. Após as observações e modificações o material foi aplicado em duas escolas públicas localizadas no município da Serra/ES, com uma turmade 3º ano do ensino médio da EEEFM Belmiro Teixeira Pimenta e uma turma do 5º ano do ensino fundamental da EMEF Ministro Petrônio Portella. Durante a aplicação do jogo nas escolas não foi necessário fazer alterações no material, então consideramos a validade do mesmo. Fizemos as descrições dos encontros e identificamosos conhecimentos dos licenciandos tendo como base a teoria de Shulman (2005). Por fim fizemos a devolutiva com o grupo de pesquisa e a produção de um guia didático.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de combinatória"
+ ],
+ "ids_duplicados": []
 }

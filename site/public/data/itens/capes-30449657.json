@@ -1,61 +1,61 @@
 {
-  "id": "capes-30449657",
-  "autor": "Kenion Cesar Michelato Colaco",
-  "ano": 2019,
-  "tipo": "Dissertação",
-  "titulo": "Estatística no ensino médio: análise de conteúdos contidos em livros didáticos baseada na teoria dos registros de representações semióticas",
-  "instituicao": "Universidade Anhanguera de São Paulo",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Luiz Gonzaga Xavier de Barros",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Matemática; Estatística; Registros de Representações Semióticas; Metodologia da Análise de Conteúdo",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Estat%C3%ADstica%20no%20ensino%20m%C3%A9dio%3A%20an%C3%A1lise%20de%20conte%C3%BAdos%20contidos%20em%20livros%20did%C3%A1ticos%20baseada%20na%20teoria%20dos%20registros%20de%20representa%C3%A7%C3%B5es%20semi%C3%B3ticas%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estat%C3%ADstica%20no%20ensino%20m%C3%A9dio%3A%20an%C3%A1lise%20de%20conte%C3%BAdos%20contidos%20em%20livros%20did%C3%A1ticos%20baseada%20na%20teoria%20dos%20registros%20de%20representa%C3%A7%C3%B5es%20semi%C3%B3ticas&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30449657"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "30449657",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Matemática",
-    "Estatística",
-    "Registros de Representações Semióticas",
-    "Metodologia da Análise de Conteúdo"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-30449657.svg",
-  "resumo": "Este trabalho é o resultado de uma pesquisa para uma dissertação de mestrado que pretendeu investigar como os conteúdos de Estatística são tratados nos livros didáticos do Ensino Fundamental e Médio sob a perspectiva das representações semióticas. Como embasamento teórico foi escolhida a Teoria dos Registros das Representações Semióticas de Raymond Duval. Como metodologia de pesquisa, adotou-se a uma adaptação da Metodologia da Análise de Conteúdo de Laurence Bardin. Com base nos critérios estabelecidos na fase de pré-análise, foram escolhidos dois livros recomendados pelo Programa Nacional do Livro Didático (PNLD) de 2018 para serem analisados. Ainda na fase de pré-análise, foram categorizados os itens a serem pesquisados: frequências de distribuição, medidas de tendência central e medidas de dispersão. Após a análise dos livros, chegou-se à conclusão de que, os enfoques são realizados em estatística descritiva: distribuição de frequências, medidas de tendência central e medidas de dispersão, são realizadas em sua maioria utilizando representações da língua natural e algébricas, embora outras representações semióticas apareceram em menor quantidade como por exemplo as representações gráficas cartesianas ou setoriais. As conversões aconteceram em sua maioria entre o registro da língua natural e o registro algébrico. Embora os livros contenham um número grande de ilustrações, as representações semióticas e suas transformações cognitivas poderiam ser mais bem exploradas nesses textos.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-30449657",
+ "autor": "Kenion Cesar Michelato Colaco",
+ "ano": 2019,
+ "tipo": "Dissertação",
+ "titulo": "Estatística no ensino médio: análise de conteúdos contidos em livros didáticos baseada na teoria dos registros de representações semióticas",
+ "instituicao": "Universidade Anhanguera de São Paulo",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Luiz Gonzaga Xavier de Barros",
+ "programa": "Educação Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Matemática; Estatística; Registros de Representações Semióticas; Metodologia da Análise de Conteúdo",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Estat%C3%ADstica%20no%20ensino%20m%C3%A9dio%3A%20an%C3%A1lise%20de%20conte%C3%BAdos%20contidos%20em%20livros%20did%C3%A1ticos%20baseada%20na%20teoria%20dos%20registros%20de%20representa%C3%A7%C3%B5es%20semi%C3%B3ticas%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Estat%C3%ADstica%20no%20ensino%20m%C3%A9dio%3A%20an%C3%A1lise%20de%20conte%C3%BAdos%20contidos%20em%20livros%20did%C3%A1ticos%20baseada%20na%20teoria%20dos%20registros%20de%20representa%C3%A7%C3%B5es%20semi%C3%B3ticas&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30449657"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "30449657",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Matemática",
+  "Estatística",
+  "Registros de Representações Semióticas",
+  "Metodologia da Análise de Conteúdo"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-30449657.svg",
+ "resumo": "Este trabalho é o resultado de uma pesquisa para uma dissertação de mestrado que pretendeu investigar como os conteúdos de Estatística são tratados nos livros didáticos do Ensino Fundamental e Médio sob a perspectiva das representações semióticas. Como embasamento teórico foi escolhida a Teoria dos Registros das Representações Semióticas de Raymond Duval. Como metodologia de pesquisa, adotou-se a uma adaptação da Metodologia da Análise de Conteúdo de Laurence Bardin. Com base nos critérios estabelecidos na fase de pré-análise, foram escolhidos dois livros recomendados pelo Programa Nacional do Livro Didático (PNLD) de 2018 para serem analisados. Ainda na fase de pré-análise, foram categorizados os itens a serem pesquisados: frequências de distribuição, medidas de tendência central e medidas de dispersão. Após a análise dos livros, chegou-se à conclusão de que, os enfoques são realizados em estatística descritiva: distribuição de frequências, medidas de tendência central e medidas de dispersão, são realizadas em sua maioria utilizando representações da língua natural e algébricas, embora outras representações semióticas apareceram em menor quantidade como por exemplo as representações gráficas cartesianas ou setoriais. As conversões aconteceram em sua maioria entre o registro da língua natural e o registro algébrico. Embora os livros contenham um número grande de ilustrações, as representações semióticas e suas transformações cognitivas poderiam ser mais bem exploradas nesses textos.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

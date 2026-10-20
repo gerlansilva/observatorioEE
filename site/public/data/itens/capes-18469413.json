@@ -1,61 +1,61 @@
 {
-  "id": "capes-18469413",
-  "autor": "Daniel Anderson Muller",
-  "ano": 2015,
-  "tipo": "Dissertação",
-  "titulo": "Ensino e Aprendizagem de Estatística no Contexto do Ensino Médio Politécnico Pelo Desenvolvimento de uma Pesquisa de Campo",
-  "instituicao": "Universidade Federal do Rio Grande do Sul",
-  "cidade": "",
-  "estado": "Rio Grande do Sul",
-  "regiao": "Sul",
-  "orientador": "Luciana Neves Nunes",
-  "programa": "ENSINO DE MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Estatística,; Pesquisa de Campo; Ensino,; Aprendizagem; Politécnico.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20E%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NO%20CONTEXTO%20DO%20ENSINO%20M%C3%89DIO%20POLIT%C3%89CNICO%20PELO%20DESENVOLVIMENTO%20DE%20UMA%20PESQUISA%20DE%20CAMPO%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20E%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NO%20CONTEXTO%20DO%20ENSINO%20M%C3%89DIO%20POLIT%C3%89CNICO%20PELO%20DESENVOLVIMENTO%20DE%20UMA%20PESQUISA%20DE%20CAMPO&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/18469413"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "18469413",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Estatística,",
-    "Pesquisa de Campo",
-    "Ensino,",
-    "Aprendizagem",
-    "Politécnico."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-18469413.svg",
-  "resumo": "O presente estudo teve por objetivo desenvolver tópicos da Estatística a partir da realização de uma atividade prática de coleta e análise de dados da realidade, enfatizando o posicionamento crítico, a auto-organização, o trabalho coletivo e colaborativo dos alunos. A turma participante era composta por dezessete alunos do segundo ano do Ensino Médio Politécnico noturno de uma escola pública estadual no interior do Rio Grande do Sul. A atividade foi desenvolvida durante as aulas da disciplina de Seminário Integrado. Em grupo, todos planejaram e executaram uma pesquisa de campo focada em temáticas sugeridas pelos próprios alunos. Esta atividade destaca-se pelo fato dos dados terem sido coletados com base em uma amostra aleatória dos habitantes do município. Para realização das entrevistas com os moradores foi necessário que os alunos trabalhassem também fora do horário escolar, enfrentando algumas situações adversas, o que demonstra notável engajamento do grupo. Os resultados da pesquisa de campo foram compilados em planilhas e analisados pelos alunos em discussões na sala de aula. Posteriormente, os resultados considerados mais relevantes foram resumidos em gráficos e apresentados à comunidade escolar. A análise qualitativa de respostas dos alunos a questões específicas, com base na metodologia Discurso do Sujeito Coletivo, permitiu constatar a adequada compreensão dos conceitos de Estatística, e também evidencia a satisfação dos estudantes ao participar do processo. Ficou assim caracterizado o êxito da atividade, fazendo dela uma alternativa viável para promover o aprendizado de Estatística na Escola Básica. Ao final é apresentado um produto didático que consiste num roteiro básico para a realização de trabalhos semelhantes.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-18469413",
+ "autor": "Daniel Anderson Muller",
+ "ano": 2015,
+ "tipo": "Dissertação",
+ "titulo": "Ensino e Aprendizagem de Estatística no Contexto do Ensino Médio Politécnico Pelo Desenvolvimento de uma Pesquisa de Campo",
+ "instituicao": "Universidade Federal do Rio Grande do Sul",
+ "cidade": "",
+ "estado": "Rio Grande do Sul",
+ "regiao": "Sul",
+ "orientador": "Luciana Neves Nunes",
+ "programa": "Ensino de Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Estatística,; Pesquisa de Campo; Ensino,; Aprendizagem; Politécnico.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22ENSINO%20E%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NO%20CONTEXTO%20DO%20ENSINO%20M%C3%89DIO%20POLIT%C3%89CNICO%20PELO%20DESENVOLVIMENTO%20DE%20UMA%20PESQUISA%20DE%20CAMPO%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=ENSINO%20E%20APRENDIZAGEM%20DE%20ESTAT%C3%8DSTICA%20NO%20CONTEXTO%20DO%20ENSINO%20M%C3%89DIO%20POLIT%C3%89CNICO%20PELO%20DESENVOLVIMENTO%20DE%20UMA%20PESQUISA%20DE%20CAMPO&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/18469413"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "18469413",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Estatística,",
+  "Pesquisa de Campo",
+  "Ensino,",
+  "Aprendizagem",
+  "Politécnico."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-18469413.svg",
+ "resumo": "O presente estudo teve por objetivo desenvolver tópicos da Estatística a partir da realização de uma atividade prática de coleta e análise de dados da realidade, enfatizando o posicionamento crítico, a auto-organização, o trabalho coletivo e colaborativo dos alunos. A turma participante era composta por dezessete alunos do segundo ano do Ensino Médio Politécnico noturno de uma escola pública estadual no interior do Rio Grande do Sul. A atividade foi desenvolvida durante as aulas da disciplina de Seminário Integrado. Em grupo, todos planejaram e executaram uma pesquisa de campo focada em temáticas sugeridas pelos próprios alunos. Esta atividade destaca-se pelo fato dos dados terem sido coletados com base em uma amostra aleatória dos habitantes do município. Para realização das entrevistas com os moradores foi necessário que os alunos trabalhassem também fora do horário escolar, enfrentando algumas situações adversas, o que demonstra notável engajamento do grupo. Os resultados da pesquisa de campo foram compilados em planilhas e analisados pelos alunos em discussões na sala de aula. Posteriormente, os resultados considerados mais relevantes foram resumidos em gráficos e apresentados à comunidade escolar. A análise qualitativa de respostas dos alunos a questões específicas, com base na metodologia Discurso do Sujeito Coletivo, permitiu constatar a adequada compreensão dos conceitos de Estatística, e também evidencia a satisfação dos estudantes ao participar do processo. Ficou assim caracterizado o êxito da atividade, fazendo dela uma alternativa viável para promover o aprendizado de Estatística na Escola Básica. Ao final é apresentado um produto didático que consiste num roteiro básico para a realização de trabalhos semelhantes.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

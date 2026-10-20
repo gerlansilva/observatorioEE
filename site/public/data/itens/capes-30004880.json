@@ -1,60 +1,60 @@
 {
-  "id": "capes-30004880",
-  "autor": "Ariedja de Carvalho Silva",
-  "ano": 2019,
-  "tipo": "Dissertação",
-  "titulo": "O Uso de Material Manipulativo e a Produção de Desenhos no Desenvolvimento do Raciocínio Combinatório na Educação Infantil",
-  "instituicao": "Universidade Federal de Pernambuco",
-  "cidade": "",
-  "estado": "Pernambuco",
-  "regiao": "Nordeste",
-  "orientador": "Rute Elizabete de Souza Rosa Borba",
-  "programa": "EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Ensino-aprendizagem da Combinatória; Educação Infantil; Material de manipulação e desenhos",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20USO%20DE%20MATERIAL%20MANIPULATIVO%20E%20A%20PRODU%C3%87%C3%83O%20DE%20DESENHOS%20NO%20DESENVOLVIMENTO%20DO%20RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO%20NA%20EDUCA%C3%87%C3%83O%20INFANTIL%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20USO%20DE%20MATERIAL%20MANIPULATIVO%20E%20A%20PRODU%C3%87%C3%83O%20DE%20DESENHOS%20NO%20DESENVOLVIMENTO%20DO%20RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO%20NA%20EDUCA%C3%87%C3%83O%20INFANTIL&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30004880"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "30004880",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Ensino-aprendizagem da Combinatória",
-    "Educação Infantil",
-    "Material de manipulação e desenhos"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-30004880.svg",
-  "resumo": "A pesquisa desenvolvida, nesta dissertação de mestrado, se apoia na ideia de que as crianças desde a Educação Infantil podem ter acesso aos conteúdos matemáticos específicos. A abordagem deste estudo está voltada para o ensino da Combinatória com atividades adequadas a essa faixa etária, buscando incentivar nas crianças modos de pensar acerca das situações em que os elementos são combinados (arranjos, combinações, permutações e produto de medidas), pois estudos anteriores vêm demonstrando que as crianças novas já dão indícios de raciocínio combinatório, e este é um modo de pensar que necessita de longo período para se desenvolver. Para viabilizar este aprendizado, no presente estudo foi pensado o trabalho com dois recursos – material de manipulação e desenho – como potencializadores no processo de aprendizagem da Combinatória. Participaram 20 crianças da Educação Infantil, com cinco anos de idade, divididas igualmente em dois grupos, o primeiro - G1 - utilizou material de manipulação e o segundo - G2 - utilizou o desenho para representar suas resoluções. Foram realizadas três etapas (teste inicial, sessão de ensino e teste final), nas quais eram resolvidos quatro problemas combinatórios, um de cada tipo, com objetivo central de analisar a influência do uso de material de manipulação e da produção de desenhos na resolução de problemas combinatórios e, de modo mais especifico, sondar quais aspectos do raciocínio combinatório já se encontram em processo inicial de construção; verificar se e como o material de manipulação e a produção de desenhos podem auxiliar na ampliação dos raciocínios combinatórios e, por fim, analisar os desempenhos destas crianças por tipo de problema combinatório. Baseado no que vem sendo proposto por estudos anteriores, foi criada uma tabela de pontuação a partir das respostas dadas – variando de respostas não combinatórias, passando por respostas parcialmente corretas (com algumas combinações repetidas, ou não), chegando à pontuação máxima para as respostas de esgotamento de possibilidades. Os principais resultados encontrados corroboram com estudos anteriores de que desde o início da escolarização é possível o propor a resolução de situações combinatórias mais simples. O estudo evidencia ouso de material de manipulação e de desenhos como propulsores e facilitadores do aprendizado combinatório. A pesquisa aponta, ainda, o esgotamento de possibilidades como dificuldade a ser superada; o invariante de ordenação ainda pouco compreendido, principalmente nos problemas de arranjo, combinação e permutação; a falta de sistematização como dificultadora no levantamento de possibilidades; e o invariante de escolha como propriedade mais facilmente entendida pelas crianças. Conclui-se, assim, a possibilidade de trabalhar com material de manipulação e de desenhos como recursos de iniciais de ensino da Combinatória na Educação Infantil",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de combinatória",
-    "raciocínio combinatório"
-  ],
-  "ids_duplicados": []
+ "id": "capes-30004880",
+ "autor": "Ariedja de Carvalho Silva",
+ "ano": 2019,
+ "tipo": "Dissertação",
+ "titulo": "O Uso de Material Manipulativo e a Produção de Desenhos no Desenvolvimento do Raciocínio Combinatório na Educação Infantil",
+ "instituicao": "Universidade Federal de Pernambuco",
+ "cidade": "",
+ "estado": "Pernambuco",
+ "regiao": "Nordeste",
+ "orientador": "Rute Elizabete de Souza Rosa Borba",
+ "programa": "Educação Matemática e Tecnológica",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Ensino-aprendizagem da Combinatória; Educação Infantil; Material de manipulação e desenhos",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20USO%20DE%20MATERIAL%20MANIPULATIVO%20E%20A%20PRODU%C3%87%C3%83O%20DE%20DESENHOS%20NO%20DESENVOLVIMENTO%20DO%20RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO%20NA%20EDUCA%C3%87%C3%83O%20INFANTIL%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20USO%20DE%20MATERIAL%20MANIPULATIVO%20E%20A%20PRODU%C3%87%C3%83O%20DE%20DESENHOS%20NO%20DESENVOLVIMENTO%20DO%20RACIOC%C3%8DNIO%20COMBINAT%C3%93RIO%20NA%20EDUCA%C3%87%C3%83O%20INFANTIL&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30004880"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "30004880",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Ensino-aprendizagem da Combinatória",
+  "Educação Infantil",
+  "Material de manipulação e desenhos"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-30004880.svg",
+ "resumo": "A pesquisa desenvolvida, nesta dissertação de mestrado, se apoia na ideia de que as crianças desde a Educação Infantil podem ter acesso aos conteúdos matemáticos específicos. A abordagem deste estudo está voltada para o ensino da Combinatória com atividades adequadas a essa faixa etária, buscando incentivar nas crianças modos de pensar acerca das situações em que os elementos são combinados (arranjos, combinações, permutações e produto de medidas), pois estudos anteriores vêm demonstrando que as crianças novas já dão indícios de raciocínio combinatório, e este é um modo de pensar que necessita de longo período para se desenvolver. Para viabilizar este aprendizado, no presente estudo foi pensado o trabalho com dois recursos – material de manipulação e desenho – como potencializadores no processo de aprendizagem da Combinatória. Participaram 20 crianças da Educação Infantil, com cinco anos de idade, divididas igualmente em dois grupos, o primeiro - G1 - utilizou material de manipulação e o segundo - G2 - utilizou o desenho para representar suas resoluções. Foram realizadas três etapas (teste inicial, sessão de ensino e teste final), nas quais eram resolvidos quatro problemas combinatórios, um de cada tipo, com objetivo central de analisar a influência do uso de material de manipulação e da produção de desenhos na resolução de problemas combinatórios e, de modo mais especifico, sondar quais aspectos do raciocínio combinatório já se encontram em processo inicial de construção; verificar se e como o material de manipulação e a produção de desenhos podem auxiliar na ampliação dos raciocínios combinatórios e, por fim, analisar os desempenhos destas crianças por tipo de problema combinatório. Baseado no que vem sendo proposto por estudos anteriores, foi criada uma tabela de pontuação a partir das respostas dadas – variando de respostas não combinatórias, passando por respostas parcialmente corretas (com algumas combinações repetidas, ou não), chegando à pontuação máxima para as respostas de esgotamento de possibilidades. Os principais resultados encontrados corroboram com estudos anteriores de que desde o início da escolarização é possível o propor a resolução de situações combinatórias mais simples. O estudo evidencia ouso de material de manipulação e de desenhos como propulsores e facilitadores do aprendizado combinatório. A pesquisa aponta, ainda, o esgotamento de possibilidades como dificuldade a ser superada; o invariante de ordenação ainda pouco compreendido, principalmente nos problemas de arranjo, combinação e permutação; a falta de sistematização como dificultadora no levantamento de possibilidades; e o invariante de escolha como propriedade mais facilmente entendida pelas crianças. Conclui-se, assim, a possibilidade de trabalhar com material de manipulação e de desenhos como recursos de iniciais de ensino da Combinatória na Educação Infantil",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de combinatória",
+  "raciocínio combinatório"
+ ],
+ "ids_duplicados": []
 }

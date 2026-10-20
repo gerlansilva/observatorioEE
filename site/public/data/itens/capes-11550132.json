@@ -1,57 +1,57 @@
 {
-  "id": "capes-11550132",
-  "autor": "Cristiane Johann Evangelista",
-  "ano": 2013,
-  "tipo": "Dissertação",
-  "titulo": "As Atitudes, os Conhecimentos de Estatística e a Escolha Profissional dos Alunos do Ensino Médio de Ji-Paraná",
-  "instituicao": "Universidade Luterana do Brasil",
-  "cidade": "",
-  "estado": "Rio Grande do Sul",
-  "regiao": "Sul",
-  "orientador": "Arno Bayer",
-  "programa": "ENSINO DE CIÊNCIAS E MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MA",
-  "grau": "Mestrado Acadêmico",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Atitudes em relação à Estatística. Ensino de Estatística.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22As%20Atitudes%2C%20os%20Conhecimentos%20de%20Estat%C3%ADstica%20e%20a%20Escolha%20Profissional%20dos%20Alunos%20do%20Ensino%20M%C3%A9dio%20de%20Ji-Paran%C3%A1%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=As%20Atitudes%2C%20os%20Conhecimentos%20de%20Estat%C3%ADstica%20e%20a%20Escolha%20Profissional%20dos%20Alunos%20do%20Ensino%20M%C3%A9dio%20de%20Ji-Paran%C3%A1&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/11550132"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "11550132",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Atitudes em relação à Estatística. Ensino de Estatística."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-11550132.svg",
-  "resumo": "A pesquisa investigou 355 alunos do 3º ano do Ensino Médio da cidade de JiParaná, do Estado de Rondônia com o objetivo de conhecer as relações existentes entre as atitudes, os conhecimentos de Estatística e a escolha profissional dos alunos do terceiro ano do Ensino Médio de Ji-Paraná. As atitudes em relação à Estatística referem-se à valorização, ao apreço e ao interesse pelos conhecimentos em Estatística e por sua aprendizagem. A formação e consolidação de atitudes negativas em relação à Estatística podem comprometer a aprendizagem e, consequentemente, criar resistências ao seu uso, no desempenho profissional ou, ainda, em decisões pessoais. A baixa procura pelo Curso de Estatística da Universidade Federal de Rondônia nos últimos anos, a dificuldade relatada pelos alunos ao estudarem Estatística no início do curso e o alto índice de evasão no Bacharelado de Estatística motivaram esta investigação sobre as atitudes, os conhecimentos de Estatística e a escolha profissional dos alunos do terceiro ano do Ensino Médio de Ji-Paraná. Os instrumentos utilizados na pesquisa foram: questionário informativo, escala de atitudes em relação à Estatística e teste de conhecimentos estatísticos. A média dos escores da escala foi 52,5 pontos, o que revelou, em média, uma atitude positiva dos alunos em relação à Estatística. A escala apresentou excelente consistência interna, medida pelo Coeficiente Alpha de Cronbach (α), igual a 0,939. As atitudes em relação à Estatística variaram conforme o gênero. As atitudes dos homens foram significativamente mais favoráveis do que a das mulheres. Os alunos que citaram aplicações do cotidiano em que a Estatística pode ser utilizada tiveram atitudes significativamente mais favoráveis do que os alunos que não souberam citar aplicações da Estatística. O fato do aluno sentir dificuldade no estudo de Estatística influenciou significativamente suas atitudes. Os alunos em geral apresentaram baixo desempenho no teste de conhecimentos de Estatística. Os que tiveram melhor desempenho optaram em querer seguir seus estudos na área das exatas e os que tiveram baixo desempenho, na área das humanas. Os alunos que afirmaram não terem dificuldades em Estatística tiveram melhor desempenho. Quanto mais positivas foram as atitudes em relação à Estatística, melhor foi o desempenho na solução das questões de estatística. A maioria deles (72,6%) respondeu que gostariam de aprender mais Estatística. Apenas três alunos da amostra desejam fazer o curso de Estatística. Os cursos mais escolhidos foram Direito, Medicina e Engenharia Civil. Porém, 31,7% consideram a possibilidade de fazer um curso de Estatística e estes alunos tiveram atitudes mais positivas e melhor desempenho do que os que não consideraram essa possibilidade. Entre os investigados, 60,3% acreditam que a Estatística será importante para sua futura profissão, enquanto 39,7% acreditam que não será importante. Os alunos que consideraram a Estatística importante tiveram atitudes significativamente mais favoráveis do que aqueles que não acharam importante. As atitudes dos alunos que escolheram a área das exatas foram significativamente mais positivas do que os que escolheram a área das humanas. As atitudes em relação à Estatística influenciaram significativamente a opinião em relação à escolha profissional dos estudantes.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-11550132",
+ "autor": "Cristiane Johann Evangelista",
+ "ano": 2013,
+ "tipo": "Dissertação",
+ "titulo": "As Atitudes, os Conhecimentos de Estatística e a Escolha Profissional dos Alunos do Ensino Médio de Ji-Paraná",
+ "instituicao": "Universidade Luterana do Brasil",
+ "cidade": "",
+ "estado": "Rio Grande do Sul",
+ "regiao": "Sul",
+ "orientador": "Arno Bayer",
+ "programa": "Ensino de Ciências e Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MA",
+ "grau": "Mestrado Acadêmico",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Atitudes em relação à Estatística. Ensino de Estatística.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22As%20Atitudes%2C%20os%20Conhecimentos%20de%20Estat%C3%ADstica%20e%20a%20Escolha%20Profissional%20dos%20Alunos%20do%20Ensino%20M%C3%A9dio%20de%20Ji-Paran%C3%A1%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=As%20Atitudes%2C%20os%20Conhecimentos%20de%20Estat%C3%ADstica%20e%20a%20Escolha%20Profissional%20dos%20Alunos%20do%20Ensino%20M%C3%A9dio%20de%20Ji-Paran%C3%A1&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/11550132"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "11550132",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Atitudes em relação à Estatística. Ensino de Estatística."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-11550132.svg",
+ "resumo": "A pesquisa investigou 355 alunos do 3º ano do Ensino Médio da cidade de JiParaná, do Estado de Rondônia com o objetivo de conhecer as relações existentes entre as atitudes, os conhecimentos de Estatística e a escolha profissional dos alunos do terceiro ano do Ensino Médio de Ji-Paraná. As atitudes em relação à Estatística referem-se à valorização, ao apreço e ao interesse pelos conhecimentos em Estatística e por sua aprendizagem. A formação e consolidação de atitudes negativas em relação à Estatística podem comprometer a aprendizagem e, consequentemente, criar resistências ao seu uso, no desempenho profissional ou, ainda, em decisões pessoais. A baixa procura pelo Curso de Estatística da Universidade Federal de Rondônia nos últimos anos, a dificuldade relatada pelos alunos ao estudarem Estatística no início do curso e o alto índice de evasão no Bacharelado de Estatística motivaram esta investigação sobre as atitudes, os conhecimentos de Estatística e a escolha profissional dos alunos do terceiro ano do Ensino Médio de Ji-Paraná. Os instrumentos utilizados na pesquisa foram: questionário informativo, escala de atitudes em relação à Estatística e teste de conhecimentos estatísticos. A média dos escores da escala foi 52,5 pontos, o que revelou, em média, uma atitude positiva dos alunos em relação à Estatística. A escala apresentou excelente consistência interna, medida pelo Coeficiente Alpha de Cronbach (α), igual a 0,939. As atitudes em relação à Estatística variaram conforme o gênero. As atitudes dos homens foram significativamente mais favoráveis do que a das mulheres. Os alunos que citaram aplicações do cotidiano em que a Estatística pode ser utilizada tiveram atitudes significativamente mais favoráveis do que os alunos que não souberam citar aplicações da Estatística. O fato do aluno sentir dificuldade no estudo de Estatística influenciou significativamente suas atitudes. Os alunos em geral apresentaram baixo desempenho no teste de conhecimentos de Estatística. Os que tiveram melhor desempenho optaram em querer seguir seus estudos na área das exatas e os que tiveram baixo desempenho, na área das humanas. Os alunos que afirmaram não terem dificuldades em Estatística tiveram melhor desempenho. Quanto mais positivas foram as atitudes em relação à Estatística, melhor foi o desempenho na solução das questões de estatística. A maioria deles (72,6%) respondeu que gostariam de aprender mais Estatística. Apenas três alunos da amostra desejam fazer o curso de Estatística. Os cursos mais escolhidos foram Direito, Medicina e Engenharia Civil. Porém, 31,7% consideram a possibilidade de fazer um curso de Estatística e estes alunos tiveram atitudes mais positivas e melhor desempenho do que os que não consideraram essa possibilidade. Entre os investigados, 60,3% acreditam que a Estatística será importante para sua futura profissão, enquanto 39,7% acreditam que não será importante. Os alunos que consideraram a Estatística importante tiveram atitudes significativamente mais favoráveis do que aqueles que não acharam importante. As atitudes dos alunos que escolheram a área das exatas foram significativamente mais positivas do que os que escolheram a área das humanas. As atitudes em relação à Estatística influenciaram significativamente a opinião em relação à escolha profissional dos estudantes.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

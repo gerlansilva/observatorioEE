@@ -1,62 +1,62 @@
 {
-  "id": "capes-30449662",
-  "autor": "Michel da Costa",
-  "ano": 2019,
-  "tipo": "Tese",
-  "titulo": "Letramento Estatístico no contexto de uma Formação Continuada na modalidade EAD",
-  "instituicao": "Universidade Anhanguera de São Paulo",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Maria Elisabette Brisola Brito Prado",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Formação em serviço; Educação a distância; Educação estatística; Letramento estatístico; Tutoria EaD",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Letramento%20Estat%C3%ADstico%20no%20contexto%20de%20uma%20Forma%C3%A7%C3%A3o%20Continuada%20na%20modalidade%20EAD%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Letramento%20Estat%C3%ADstico%20no%20contexto%20de%20uma%20Forma%C3%A7%C3%A3o%20Continuada%20na%20modalidade%20EAD&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30449662"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "30449662",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Formação em serviço",
-    "Educação a distância",
-    "Educação estatística",
-    "Letramento estatístico",
-    "Tutoria EaD"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-30449662.svg",
-  "resumo": "A presente pesquisa buscou compreender as possibilidades da formação continuada em EaD ao propiciar o processo de Letramento Estatístico para um grupo de profissionais que atuam na tutoria de cursos do Ensino Superior na modalidade a distância. Esta investigação insere-se no Projeto Institucional “Mediação em EaD: contexto de um curso de Letramento Estatístico”, cujo propósito é propiciar a reflexão e possível melhoria das atuações pedagógicas dos participantes da formação continuada em serviço. A presente pesquisa de doutorado teve como objetivos específicos: identificar as concepções que permearam o desenho do curso; analisar as atividades desenvolvidas no processo formativo e conhecer o perfil dos participantes relacionados à sua formação, experiências e concepções acerca da Educação a Distância e do Letramento Estatístico. Em relação à fundamentação teórica, no que tange às discussões referentes ao Letramento Estatístico, foram utilizados os pressupostos de Gal e Batanero. Quanto à formação de professores, sustenta-se em Imbernón e Gatti, além de Freire e Soares nas questões da leitura do mundo, reconhecimento da educação dialética e compreensão da estatística como forma de intervenção no mundo e na tomada consciente de decisões, reconhecendo o potencial do letramento como forma de vivenciar situações que desenvolvam competências em contextos diversificados na formação do cidadão crítico. Utilizou a metodologia qualitativa, com interpretação dos dados coletados por meio dos seguintes instrumentos: documentos institucionais, entrevistas semiestruturadas, materiais e protocolos dos participantes do curso e do ambiente virtual, questionários e observações em encontros presenciais. O curso proporcionou reflexões acerca do Letramento Estatístico fazendo correlações com o cotidiano, ultrapassando os limites contextuais das instituições formais de ensino, favorecendo a apropriação de habilidades diversas relacionadas à interpretação de dados em tabelas, gráficos diversos, bem como o uso de medidas estatísticas para a análise de conjecturas distintas, por meio de conceitos padronizados e considerando as medidas de tendência central e as de tendência de dispersão. Os resultados deste estudo também apontam a necessidade de as Instituições de Ensino Superior que oferecem educação a distância proporcionarem formações constantes, nas quais os educadores vivenciem o papel do aluno e, por meio desse processo reflexivo, possam aperfeiçoar suas competências profissionais no tocante às práticas de letramento e melhoria nas mediações pedagógicas.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "letramento estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-30449662",
+ "autor": "Michel da Costa",
+ "ano": 2019,
+ "tipo": "Tese",
+ "titulo": "Letramento Estatístico no contexto de uma Formação Continuada na modalidade EAD",
+ "instituicao": "Universidade Anhanguera de São Paulo",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Maria Elisabette Brisola Brito Prado",
+ "programa": "Educação Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Formação em serviço; Educação a distância; Educação estatística; Letramento estatístico; Tutoria EaD",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Letramento%20Estat%C3%ADstico%20no%20contexto%20de%20uma%20Forma%C3%A7%C3%A3o%20Continuada%20na%20modalidade%20EAD%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Letramento%20Estat%C3%ADstico%20no%20contexto%20de%20uma%20Forma%C3%A7%C3%A3o%20Continuada%20na%20modalidade%20EAD&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/30449662"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "30449662",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Formação em serviço",
+  "Educação a distância",
+  "Educação estatística",
+  "Letramento estatístico",
+  "Tutoria EaD"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-30449662.svg",
+ "resumo": "A presente pesquisa buscou compreender as possibilidades da formação continuada em EaD ao propiciar o processo de Letramento Estatístico para um grupo de profissionais que atuam na tutoria de cursos do Ensino Superior na modalidade a distância. Esta investigação insere-se no Projeto Institucional “Mediação em EaD: contexto de um curso de Letramento Estatístico”, cujo propósito é propiciar a reflexão e possível melhoria das atuações pedagógicas dos participantes da formação continuada em serviço. A presente pesquisa de doutorado teve como objetivos específicos: identificar as concepções que permearam o desenho do curso; analisar as atividades desenvolvidas no processo formativo e conhecer o perfil dos participantes relacionados à sua formação, experiências e concepções acerca da Educação a Distância e do Letramento Estatístico. Em relação à fundamentação teórica, no que tange às discussões referentes ao Letramento Estatístico, foram utilizados os pressupostos de Gal e Batanero. Quanto à formação de professores, sustenta-se em Imbernón e Gatti, além de Freire e Soares nas questões da leitura do mundo, reconhecimento da educação dialética e compreensão da estatística como forma de intervenção no mundo e na tomada consciente de decisões, reconhecendo o potencial do letramento como forma de vivenciar situações que desenvolvam competências em contextos diversificados na formação do cidadão crítico. Utilizou a metodologia qualitativa, com interpretação dos dados coletados por meio dos seguintes instrumentos: documentos institucionais, entrevistas semiestruturadas, materiais e protocolos dos participantes do curso e do ambiente virtual, questionários e observações em encontros presenciais. O curso proporcionou reflexões acerca do Letramento Estatístico fazendo correlações com o cotidiano, ultrapassando os limites contextuais das instituições formais de ensino, favorecendo a apropriação de habilidades diversas relacionadas à interpretação de dados em tabelas, gráficos diversos, bem como o uso de medidas estatísticas para a análise de conjecturas distintas, por meio de conceitos padronizados e considerando as medidas de tendência central e as de tendência de dispersão. Os resultados deste estudo também apontam a necessidade de as Instituições de Ensino Superior que oferecem educação a distância proporcionarem formações constantes, nas quais os educadores vivenciem o papel do aluno e, por meio desse processo reflexivo, possam aperfeiçoar suas competências profissionais no tocante às práticas de letramento e melhoria nas mediações pedagógicas.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "letramento estatístico"
+ ],
+ "ids_duplicados": []
 }

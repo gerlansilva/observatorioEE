@@ -1,60 +1,60 @@
 {
-  "id": "capes-27406413",
-  "autor": "Daiane Aparecida Miliossi Morais Casagrande",
-  "ano": 2017,
-  "tipo": "Dissertação",
-  "titulo": "Uma Aplicação de Vlogs nas Aulas de Estatística na Educação Básica",
-  "instituicao": "Universidade Tecnológica Federal do Paraná",
-  "cidade": "",
-  "estado": "Paraná",
-  "regiao": "Sul",
-  "orientador": "Leonardo Sturion",
-  "programa": "ENSINO DE MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Básica; Estatística; Tecnologias Digitais; Vlogs",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Uma%20Aplica%C3%A7%C3%A3o%20de%20Vlogs%20nas%20Aulas%20de%20Estat%C3%ADstica%20na%20Educa%C3%A7%C3%A3o%20B%C3%A1sica%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma%20Aplica%C3%A7%C3%A3o%20de%20Vlogs%20nas%20Aulas%20de%20Estat%C3%ADstica%20na%20Educa%C3%A7%C3%A3o%20B%C3%A1sica&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27406413"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "27406413",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Básica",
-    "Estatística",
-    "Tecnologias Digitais",
-    "Vlogs"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-27406413.svg",
-  "resumo": "A utilização das mídias digitais é uma realidade em todos os meios sociais, e não deveria ser diferente na Educação. No entanto, em função da necessidade de mudanças por parte dos docentes e das escolas, a implementação do uso de tecnologias em salas de aula ainda é pequena. Neste context o, o propósito deste trabalho é apresentar uma análise sobre o ensino dos conteúdos de Estatística, pertencentes à disciplina de Matemática, ministrados no 7º ano do Ensino Fundamental da Educação Básica. O estudo foi realizado em uma escola pública do município de Cambé, buscando identificar a percepção dos alunos em relação aos conteúdos estudados e ao uso de recursos midiáticos nas aulas de estatística. A metodologia adotada foi de caráter descritivo quanti/qualitativo e contou com pesquisa bibliográfica e uma pesquisa de campo realizada no âmbito da escola objeto do estudo. Os recursos digitais inseridos nas aulas expositivas foram videoaulas preparadas especificamente com cada conteúdo e inseridas em um vlog de estatística. Por meio da análise dos questionários aplicados, das gravações e das anotações feitas durante a aplicação do trabalho, pôde-se constatar que os alunos que participaram da pesquisa tiveram uma boa participação nas aulas, ocorrendo melhorias no aprendizado e na compreensão dos conteúdos de alguns pontos de estatística. Concluindo, importante ressaltar que é necessário o professor estruturar os conteúdos das aulas em uma ordem cronológica. Primeiramente preparar os alunos com uma exposição teórica, em seguida, efetuar a inserção do vlog sobre o assunto, por último, finalizar a aula com um fechamento sanando as dúvidas dos alunos. Dessa forma, os alunos poderão perceber uma associação da teoria com a prática vivenciada por eles no seu dia a dia extraclasse.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-27406413",
+ "autor": "Daiane Aparecida Miliossi Morais Casagrande",
+ "ano": 2017,
+ "tipo": "Dissertação",
+ "titulo": "Uma Aplicação de Vlogs nas Aulas de Estatística na Educação Básica",
+ "instituicao": "Universidade Tecnológica Federal do Paraná",
+ "cidade": "",
+ "estado": "Paraná",
+ "regiao": "Sul",
+ "orientador": "Leonardo Sturion",
+ "programa": "Ensino de Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Básica; Estatística; Tecnologias Digitais; Vlogs",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Uma%20Aplica%C3%A7%C3%A3o%20de%20Vlogs%20nas%20Aulas%20de%20Estat%C3%ADstica%20na%20Educa%C3%A7%C3%A3o%20B%C3%A1sica%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Uma%20Aplica%C3%A7%C3%A3o%20de%20Vlogs%20nas%20Aulas%20de%20Estat%C3%ADstica%20na%20Educa%C3%A7%C3%A3o%20B%C3%A1sica&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27406413"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "27406413",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Básica",
+  "Estatística",
+  "Tecnologias Digitais",
+  "Vlogs"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-27406413.svg",
+ "resumo": "A utilização das mídias digitais é uma realidade em todos os meios sociais, e não deveria ser diferente na Educação. No entanto, em função da necessidade de mudanças por parte dos docentes e das escolas, a implementação do uso de tecnologias em salas de aula ainda é pequena. Neste context o, o propósito deste trabalho é apresentar uma análise sobre o ensino dos conteúdos de Estatística, pertencentes à disciplina de Matemática, ministrados no 7º ano do Ensino Fundamental da Educação Básica. O estudo foi realizado em uma escola pública do município de Cambé, buscando identificar a percepção dos alunos em relação aos conteúdos estudados e ao uso de recursos midiáticos nas aulas de estatística. A metodologia adotada foi de caráter descritivo quanti/qualitativo e contou com pesquisa bibliográfica e uma pesquisa de campo realizada no âmbito da escola objeto do estudo. Os recursos digitais inseridos nas aulas expositivas foram videoaulas preparadas especificamente com cada conteúdo e inseridas em um vlog de estatística. Por meio da análise dos questionários aplicados, das gravações e das anotações feitas durante a aplicação do trabalho, pôde-se constatar que os alunos que participaram da pesquisa tiveram uma boa participação nas aulas, ocorrendo melhorias no aprendizado e na compreensão dos conteúdos de alguns pontos de estatística. Concluindo, importante ressaltar que é necessário o professor estruturar os conteúdos das aulas em uma ordem cronológica. Primeiramente preparar os alunos com uma exposição teórica, em seguida, efetuar a inserção do vlog sobre o assunto, por último, finalizar a aula com um fechamento sanando as dúvidas dos alunos. Dessa forma, os alunos poderão perceber uma associação da teoria com a prática vivenciada por eles no seu dia a dia extraclasse.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": []
 }

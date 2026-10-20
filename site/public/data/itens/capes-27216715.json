@@ -1,63 +1,63 @@
 {
-  "id": "capes-27216715",
-  "autor": "Willian Damin",
-  "ano": 2018,
-  "tipo": "Tese",
-  "titulo": "A Educação Estatística e a Formação Inicial de Professores de Matemática: Contribuições de um Projeto para a Constituição dos Saberes Docentes",
-  "instituicao": "Universidade Tecnológica Federal do Paraná",
-  "cidade": "",
-  "estado": "Paraná",
-  "regiao": "Sul",
-  "orientador": "Guatacara dos Santos Junior",
-  "programa": "ENSINO DE CIÊNCIA E TECNOLOGIA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Formação inicial de professores de Matemática; Ensino de Estatística e Probabilidade; Competências estatísticas; Educação Matemática; Letramento estatístico",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22A%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20E%20A%20FORMA%C3%87%C3%83O%20INICIAL%20DE%20PROFESSORES%20DE%20MATEM%C3%81TICA%3A%20CONTRIBUI%C3%87%C3%95ES%20DE%20UM%20PROJETO%20PARA%20A%20CONSTITUI%C3%87%C3%83O%20DOS%20SABERES%20DOCENTES%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20E%20A%20FORMA%C3%87%C3%83O%20INICIAL%20DE%20PROFESSORES%20DE%20MATEM%C3%81TICA%3A%20CONTRIBUI%C3%87%C3%95ES%20DE%20UM%20PROJETO%20PARA%20A%20CONSTITUI%C3%87%C3%83O%20DOS%20SABERES%20DOCENTES&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27216715"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "27216715",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Formação inicial de professores de Matemática",
-    "Ensino de Estatística e Probabilidade",
-    "Competências estatísticas",
-    "Educação Matemática",
-    "Letramento estatístico"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-27216715.svg",
-  "resumo": "Esta tese está vinculada ao Programa de Pós-Graduação em Ensino de Ciência e Tecnologia (PPGECT), na Universidade Tecnológica Federal do Paraná (UTFPR), atrelada ao grupo de pesquisa Material Didático para o Ensino de Probabilidade e Estatística na Educação Básica e Superior. A pesquisa apresenta uma análise sobre as contribuições da oferta de um Projeto de Ensino de Estatística na formação inicial de professores de Matemática para o desenvolvimento das competências estatísticas e para a prática docente. Para alcançar o objetivo proposto, pautou-se em bases teóricas sobre a formação de professores de Matemática, as diretrizes curriculares nacionais para a formação de professores, os saberes docentes e, o campo da Educação Estatística e as competências estatísticas. Os procedimentos metodológicos adotados foram pautados nos conceitos da pesquisa qualitativa. Foi elaborado e implementado um projeto de ensino de Estatística, composto por tarefas de Estatística e Probabilidade, leitura e discussão de artigos científicos, investigação e estatística e os licenciandos foram convidados a elaborarem uma atividade de ensino. Participaram do projeto, 11 (onze) licenciandos de uma universidade pública do Estado do Paraná, Brasil, com duração de 36 (trinta e seis) aulas. Como instrumento para coleta dos dados, utilizou-se as tarefas de Estatística e Probabilidade, as narrativas de aprendizagem e os memoriais reflexivos. A análise dos dados coletados foi realizada à luz da teoria da Análise Textual discursiva que permitiu a interpretação e compreensão dos registros produzidos pelos licenciandos participantes. Dentre alguns dos resultados encontrados, destaca-se: 1) A relação intrínseca das competências estatísticas com o ensino e aprendizagem, pois o projeto realizado permitiu identificar as competências estatísticas como saberes disciplinares; 2) As ações do formador podem alterar as relações dos licenciandos com o saber; 3) A discussão da importância da aproximação e articulação entre Ensino Superior e Educação Básica; 4) A manifestação e desenvolvimento dos saberes docentes saberes necessários à docência. O desenvolvimento da pesquisa proporcionou elabor uma proposta pedagógica como um produto educacional, que colabore com o processo de formação inicial do licenciando em Matemática.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística",
-    "ensino de estatística",
-    "letramento estatístico"
-  ],
-  "ids_duplicados": []
+ "id": "capes-27216715",
+ "autor": "Willian Damin",
+ "ano": 2018,
+ "tipo": "Tese",
+ "titulo": "A Educação Estatística e a Formação Inicial de Professores de Matemática: Contribuições de um Projeto para a Constituição dos Saberes Docentes",
+ "instituicao": "Universidade Tecnológica Federal do Paraná",
+ "cidade": "",
+ "estado": "Paraná",
+ "regiao": "Sul",
+ "orientador": "Guatacara dos Santos Junior",
+ "programa": "Ensino de Ciência e Tecnologia",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Formação inicial de professores de Matemática; Ensino de Estatística e Probabilidade; Competências estatísticas; Educação Matemática; Letramento estatístico",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22A%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20E%20A%20FORMA%C3%87%C3%83O%20INICIAL%20DE%20PROFESSORES%20DE%20MATEM%C3%81TICA%3A%20CONTRIBUI%C3%87%C3%95ES%20DE%20UM%20PROJETO%20PARA%20A%20CONSTITUI%C3%87%C3%83O%20DOS%20SABERES%20DOCENTES%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=A%20EDUCA%C3%87%C3%83O%20ESTAT%C3%8DSTICA%20E%20A%20FORMA%C3%87%C3%83O%20INICIAL%20DE%20PROFESSORES%20DE%20MATEM%C3%81TICA%3A%20CONTRIBUI%C3%87%C3%95ES%20DE%20UM%20PROJETO%20PARA%20A%20CONSTITUI%C3%87%C3%83O%20DOS%20SABERES%20DOCENTES&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27216715"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "27216715",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Formação inicial de professores de Matemática",
+  "Ensino de Estatística e Probabilidade",
+  "Competências estatísticas",
+  "Educação Matemática",
+  "Letramento estatístico"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-27216715.svg",
+ "resumo": "Esta tese está vinculada ao Programa de Pós-Graduação em Ensino de Ciência e Tecnologia (PPGECT), na Universidade Tecnológica Federal do Paraná (UTFPR), atrelada ao grupo de pesquisa Material Didático para o Ensino de Probabilidade e Estatística na Educação Básica e Superior. A pesquisa apresenta uma análise sobre as contribuições da oferta de um Projeto de Ensino de Estatística na formação inicial de professores de Matemática para o desenvolvimento das competências estatísticas e para a prática docente. Para alcançar o objetivo proposto, pautou-se em bases teóricas sobre a formação de professores de Matemática, as diretrizes curriculares nacionais para a formação de professores, os saberes docentes e, o campo da Educação Estatística e as competências estatísticas. Os procedimentos metodológicos adotados foram pautados nos conceitos da pesquisa qualitativa. Foi elaborado e implementado um projeto de ensino de Estatística, composto por tarefas de Estatística e Probabilidade, leitura e discussão de artigos científicos, investigação e estatística e os licenciandos foram convidados a elaborarem uma atividade de ensino. Participaram do projeto, 11 (onze) licenciandos de uma universidade pública do Estado do Paraná, Brasil, com duração de 36 (trinta e seis) aulas. Como instrumento para coleta dos dados, utilizou-se as tarefas de Estatística e Probabilidade, as narrativas de aprendizagem e os memoriais reflexivos. A análise dos dados coletados foi realizada à luz da teoria da Análise Textual discursiva que permitiu a interpretação e compreensão dos registros produzidos pelos licenciandos participantes. Dentre alguns dos resultados encontrados, destaca-se: 1) A relação intrínseca das competências estatísticas com o ensino e aprendizagem, pois o projeto realizado permitiu identificar as competências estatísticas como saberes disciplinares; 2) As ações do formador podem alterar as relações dos licenciandos com o saber; 3) A discussão da importância da aproximação e articulação entre Ensino Superior e Educação Básica; 4) A manifestação e desenvolvimento dos saberes docentes saberes necessários à docência. O desenvolvimento da pesquisa proporcionou elabor uma proposta pedagógica como um produto educacional, que colabore com o processo de formação inicial do licenciando em Matemática.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística",
+  "ensino de estatística",
+  "letramento estatístico"
+ ],
+ "ids_duplicados": []
 }

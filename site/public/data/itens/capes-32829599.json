@@ -1,60 +1,60 @@
 {
-  "id": "capes-32829599",
-  "autor": "Thaisa Karina Kruger Kursancew",
-  "ano": 2020,
-  "tipo": "Dissertação",
-  "titulo": "Experiências com Literatura Infantil e Estatística na Educação Infantil",
-  "instituicao": "Universidade do Estado de Santa Catarina",
-  "cidade": "",
-  "estado": "Santa Catarina",
-  "regiao": "Sul",
-  "orientador": "Fabiola Sucupira Ferreira Sell",
-  "programa": "ENSINO DE CIÊNCIAS, MATEMÁTICA E TECNOLOGIAS",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Educação Infantil; Literatura Infantil; Estatística; Formação de Professores",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22EXPERI%C3%8ANCIAS%20COM%20LITERATURA%20INFANTIL%20E%20ESTAT%C3%8DSTICA%20NA%20EDUCA%C3%87%C3%83O%20INFANTIL%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=EXPERI%C3%8ANCIAS%20COM%20LITERATURA%20INFANTIL%20E%20ESTAT%C3%8DSTICA%20NA%20EDUCA%C3%87%C3%83O%20INFANTIL&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/32829599"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "32829599",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Educação Infantil",
-    "Literatura Infantil",
-    "Estatística",
-    "Formação de Professores"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-32829599.svg",
-  "resumo": "A presente dissertação refere-se a uma pesquisa desenvolvida em um curso de mestrado profissional tendo como objetivo investigar as implicações que podem ocorrer ao desenvolver práticas pedagógicas envolvendo a Literatura Infantil e a Estatística com crianças na faixa etária entre 5 e 6 anos de idade da Educação Infantil. O contexto de aplicação da pesquisa foi uma turma de 20 crianças da Educação Infantil na faixa etária entre 5 e 6 anos da rede municipal de Joinville. Dos resultados obtidos a partir dos registros de áudio e produções das crianças, bem como das percepções da pesquisadora, foi realizada a análise de dados por meio da Análise Textual Discursiva, na qual foram identificadas cinco categorias. A partir das análises destas categorias observou-se que as práticas pedagógicas envolvendo a Literatura Infantil e a Estatística promoveram a construção de conhecimentos por meio da observação da realidade, dos gráficos e das ilustrações, a interação entre as crianças, professora e o espaço ampliando o conhecimento das crianças e desenvolvendo a criticidade, a socialização de ideias e o despertar de sentimentos e sensações, a elaboração de brincadeiras e o desenvolvimento da imaginação para compreender a realidade e novas interpretações por meio das análises e relações quantitativas propiciadas pelas histórias e pela coleta, organização, análise e elaboração de gráficos. O produto educacional desta dissertação é um material de apoio destinado aos professores de Educação Infantil. Este material constituiu-se por estudos realizados referentes a Literatura Infantil e a Estatística em conjunto com as narrativas das práticas pedagógicas relativas as propostas de planejamentos realizadas e articuladas com os referenciais teóricos estudados nesta pesquisa. O objetivo deste material de apoio é ser uma ferramenta que visa contribuir com a formação de professores que tenham interesse em explorar a Literatura Infantil e a Estatística na primeira etapa da educação básica.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-32829599",
+ "autor": "Thaisa Karina Kruger Kursancew",
+ "ano": 2020,
+ "tipo": "Dissertação",
+ "titulo": "Experiências com Literatura Infantil e Estatística na Educação Infantil",
+ "instituicao": "Universidade do Estado de Santa Catarina",
+ "cidade": "",
+ "estado": "Santa Catarina",
+ "regiao": "Sul",
+ "orientador": "Fabiola Sucupira Ferreira Sell",
+ "programa": "Ensino de Ciências, Matemática e Tecnologias",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Educação Infantil; Literatura Infantil; Estatística; Formação de Professores",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22EXPERI%C3%8ANCIAS%20COM%20LITERATURA%20INFANTIL%20E%20ESTAT%C3%8DSTICA%20NA%20EDUCA%C3%87%C3%83O%20INFANTIL%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=EXPERI%C3%8ANCIAS%20COM%20LITERATURA%20INFANTIL%20E%20ESTAT%C3%8DSTICA%20NA%20EDUCA%C3%87%C3%83O%20INFANTIL&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/32829599"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "32829599",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Educação Infantil",
+  "Literatura Infantil",
+  "Estatística",
+  "Formação de Professores"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-32829599.svg",
+ "resumo": "A presente dissertação refere-se a uma pesquisa desenvolvida em um curso de mestrado profissional tendo como objetivo investigar as implicações que podem ocorrer ao desenvolver práticas pedagógicas envolvendo a Literatura Infantil e a Estatística com crianças na faixa etária entre 5 e 6 anos de idade da Educação Infantil. O contexto de aplicação da pesquisa foi uma turma de 20 crianças da Educação Infantil na faixa etária entre 5 e 6 anos da rede municipal de Joinville. Dos resultados obtidos a partir dos registros de áudio e produções das crianças, bem como das percepções da pesquisadora, foi realizada a análise de dados por meio da Análise Textual Discursiva, na qual foram identificadas cinco categorias. A partir das análises destas categorias observou-se que as práticas pedagógicas envolvendo a Literatura Infantil e a Estatística promoveram a construção de conhecimentos por meio da observação da realidade, dos gráficos e das ilustrações, a interação entre as crianças, professora e o espaço ampliando o conhecimento das crianças e desenvolvendo a criticidade, a socialização de ideias e o despertar de sentimentos e sensações, a elaboração de brincadeiras e o desenvolvimento da imaginação para compreender a realidade e novas interpretações por meio das análises e relações quantitativas propiciadas pelas histórias e pela coleta, organização, análise e elaboração de gráficos. O produto educacional desta dissertação é um material de apoio destinado aos professores de Educação Infantil. Este material constituiu-se por estudos realizados referentes a Literatura Infantil e a Estatística em conjunto com as narrativas das práticas pedagógicas relativas as propostas de planejamentos realizadas e articuladas com os referenciais teóricos estudados nesta pesquisa. O objetivo deste material de apoio é ser uma ferramenta que visa contribuir com a formação de professores que tenham interesse em explorar a Literatura Infantil e a Estatística na primeira etapa da educação básica.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": []
 }

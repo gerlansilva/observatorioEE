@@ -1,56 +1,56 @@
 {
-  "id": "capes-19304940",
-  "autor": "Ana Lucia Nogueira Junqueira",
-  "ano": 2014,
-  "tipo": "Tese",
-  "titulo": "Probabilidade na educação básica: uma abordagem do design experiment na formação continuada de professores",
-  "instituicao": "Universidade Anhanguera de São Paulo",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Maria Elisabette Brisola Brito Prado",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "noções básicas de probabilidade, design experiment, processo formativo, concepções dos professores.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Probabilidade%20na%20educa%C3%A7%C3%A3o%20b%C3%A1sica%3A%20uma%20abordagem%20do%20design%20experiment%20na%20forma%C3%A7%C3%A3o%20continuada%20de%20professores%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Probabilidade%20na%20educa%C3%A7%C3%A3o%20b%C3%A1sica%3A%20uma%20abordagem%20do%20design%20experiment%20na%20forma%C3%A7%C3%A3o%20continuada%20de%20professores&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19304940"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "19304940",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "noções básicas de probabilidade, design experiment, processo formativo, concepções dos professores."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-19304940.svg",
-  "resumo": "A pesquisa tem como propósito compreender as concepções dos professores sobre os conceitos básicos de probabilidade por meio de processo formativo baseado no design experiment. O estudo de probabilidade é mais complexo do que em geral se apresenta nos cursos de formação e requer um tipo de raciocínio que provoca uma ruptura do pensamento determinístico. Na revisão de literatura, dificuldades evidenciadas no desenvolvimento do pensamento estocástico podem ser detectadas tanto na sua origem e evolução histórica quanto em estudos atuais sobre a concepção dos professores. A presente pesquisa aborda conceitos básicos de probabilidade num processo formativo desenvolvido com professores do Ensino Fundamental II e Ensino Médio, da rede pública do Estado de São Paulo, integrantes do Projeto Observatório da Educação da UNIBAN/CAPES. A metodologia adotada na pesquisa segue o modelo do Design Experiment, defendido por Paul Cobb e seus colaboradores. A dinâmica de trabalho ocorre mediante encontros presenciais e acompanhamento a distância por meio de ambiente virtual de aprendizagem, especialmente preparado para este fim. Dessa forma, o processo formativo utiliza a tecnologia como recurso e como suporte por entender que potencializa a abordagem dos conteúdos e favorece perceber as concepções dos professores sobre os conceitos básicos de probabilidade. A fundamentação teórica articula a teoria sócio histórica epistemológica com teorias sobre formação de professores, educação estatística e o uso de tecnologias midiáticas. A análise evidencia que muitas das dúvidas, incompreensões e equívocos (misconceptions), presentes na maioria das pesquisas consultadas, foram também constatados, notadamente sobre probabilidade condicional, eventos independentes e mutuamente excludentes, e algumas falácias, como a da representatividade e do jogador. No que concerne à formação, a pesquisa detecta também algumas concepções relativas à prática do professor em sala de aula, entre elas, certa fragilidade no planejamento e reflexão de sua ação docente, pouca prática e alguma resistência com o uso de tecnologia no processo educacional. No entanto, sentem-se motivados com recursos familiares aos seus repertórios. Sobretudo, no aspecto de formação de professores derivado da pesquisa reforça-se minha opinião de que não basta o conhecimento pedagógico do conteúdo e o conhecimento tecnológico do conteúdo sem o conhecimento aprofundado do conteúdo específico, sem o qual não se consegue efetuar a amálgama destes três aspectos fundamentais para realizar a aprendizagem efetiva dos educandos. Dessa forma, outras pesquisas nessa direção devem ser realizadas por entender que podem contribuir para a melhoria da formação continuada dos professores e, consequentemente, de suas práticas em sala de aula.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "coleta expandida (plural/vocabulário)"
-  ]
+ "id": "capes-19304940",
+ "autor": "Ana Lucia Nogueira Junqueira",
+ "ano": 2014,
+ "tipo": "Tese",
+ "titulo": "Probabilidade na educação básica: uma abordagem do design experiment na formação continuada de professores",
+ "instituicao": "Universidade Anhanguera de São Paulo",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Maria Elisabette Brisola Brito Prado",
+ "programa": "Educação Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "noções básicas de probabilidade, design experiment, processo formativo, concepções dos professores.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Probabilidade%20na%20educa%C3%A7%C3%A3o%20b%C3%A1sica%3A%20uma%20abordagem%20do%20design%20experiment%20na%20forma%C3%A7%C3%A3o%20continuada%20de%20professores%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Probabilidade%20na%20educa%C3%A7%C3%A3o%20b%C3%A1sica%3A%20uma%20abordagem%20do%20design%20experiment%20na%20forma%C3%A7%C3%A3o%20continuada%20de%20professores&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19304940"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "19304940",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "noções básicas de probabilidade, design experiment, processo formativo, concepções dos professores."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-19304940.svg",
+ "resumo": "A pesquisa tem como propósito compreender as concepções dos professores sobre os conceitos básicos de probabilidade por meio de processo formativo baseado no design experiment. O estudo de probabilidade é mais complexo do que em geral se apresenta nos cursos de formação e requer um tipo de raciocínio que provoca uma ruptura do pensamento determinístico. Na revisão de literatura, dificuldades evidenciadas no desenvolvimento do pensamento estocástico podem ser detectadas tanto na sua origem e evolução histórica quanto em estudos atuais sobre a concepção dos professores. A presente pesquisa aborda conceitos básicos de probabilidade num processo formativo desenvolvido com professores do Ensino Fundamental II e Ensino Médio, da rede pública do Estado de São Paulo, integrantes do Projeto Observatório da Educação da UNIBAN/CAPES. A metodologia adotada na pesquisa segue o modelo do Design Experiment, defendido por Paul Cobb e seus colaboradores. A dinâmica de trabalho ocorre mediante encontros presenciais e acompanhamento a distância por meio de ambiente virtual de aprendizagem, especialmente preparado para este fim. Dessa forma, o processo formativo utiliza a tecnologia como recurso e como suporte por entender que potencializa a abordagem dos conteúdos e favorece perceber as concepções dos professores sobre os conceitos básicos de probabilidade. A fundamentação teórica articula a teoria sócio histórica epistemológica com teorias sobre formação de professores, educação estatística e o uso de tecnologias midiáticas. A análise evidencia que muitas das dúvidas, incompreensões e equívocos (misconceptions), presentes na maioria das pesquisas consultadas, foram também constatados, notadamente sobre probabilidade condicional, eventos independentes e mutuamente excludentes, e algumas falácias, como a da representatividade e do jogador. No que concerne à formação, a pesquisa detecta também algumas concepções relativas à prática do professor em sala de aula, entre elas, certa fragilidade no planejamento e reflexão de sua ação docente, pouca prática e alguma resistência com o uso de tecnologia no processo educacional. No entanto, sentem-se motivados com recursos familiares aos seus repertórios. Sobretudo, no aspecto de formação de professores derivado da pesquisa reforça-se minha opinião de que não basta o conhecimento pedagógico do conteúdo e o conhecimento tecnológico do conteúdo sem o conhecimento aprofundado do conteúdo específico, sem o qual não se consegue efetuar a amálgama destes três aspectos fundamentais para realizar a aprendizagem efetiva dos educandos. Dessa forma, outras pesquisas nessa direção devem ser realizadas por entender que podem contribuir para a melhoria da formação continuada dos professores e, consequentemente, de suas práticas em sala de aula.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "coleta expandida (plural/vocabulário)"
+ ]
 }

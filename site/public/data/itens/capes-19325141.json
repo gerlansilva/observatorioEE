@@ -1,57 +1,57 @@
 {
-  "id": "capes-19325141",
-  "autor": "Jarbas Dionisio Camargo",
-  "ano": 2014,
-  "tipo": "Dissertação",
-  "titulo": "O Ensino de Estatística e Matemática no 9° Ano do Ensino Fundamental: Uma Abordagem Versando sobre o Tema Água e Consumo Consciente",
-  "instituicao": "Universidade Federal do Rio Grande do Sul",
-  "cidade": "",
-  "estado": "Rio Grande do Sul",
-  "regiao": "Sul",
-  "orientador": "Luciana Neves Nunes",
-  "programa": "ENSINO DE MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "MP",
-  "grau": "Mestrado Profissional",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Ensino de Estatística. Ensino de Matemática. Aprendizagem significativa.",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20E%20MATEM%C3%81TICA%20NO%209%C2%B0%20ANO%20DO%20ENSINO%20FUNDAMENTAL%3A%20UMA%20ABORDAGEM%20VERSANDO%20SOBRE%20O%20TEMA%20%C3%81GUA%20E%20CONSUMO%20CONSCIENTE%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20E%20MATEM%C3%81TICA%20NO%209%C2%B0%20ANO%20DO%20ENSINO%20FUNDAMENTAL%3A%20UMA%20ABORDAGEM%20VERSANDO%20SOBRE%20O%20TEMA%20%C3%81GUA%20E%20CONSUMO%20CONSCIENTE&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19325141"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "19325141",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Ensino de Estatística. Ensino de Matemática. Aprendizagem significativa."
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-19325141.svg",
-  "resumo": "O presente trabalho tem como objetivo apresentar os principais resultados analisados em uma prática de ensino, realizada no segundo semestre de 2013, com um grupo de alunos do 9° ano do ensino fundamental na cidade de Esteio, Rio Grande do Sul. As atividades foram realizadas com o propósito de investigar possíveis contribuições de uma abordagem versando sobre o tema água e consumo consciente para aprendizagem significativa em Estatística e Matemática. Visando a identificar se os objetivos foram atingidos, à luz da teoria da aprendizagem significativa, de David Ausubel, realizou-se um estudo exploratório descritivo do material produzido durante as aulas, além da análise de anotações, via relatório da prática, sendo este um estudo de caso. Os resultados obtidos permitiram concluir que o projeto apresentou algumas contribuições para a aprendizagem significativa de conceitos matemáticos e estatísticos, no referido nível de ensino, pois na análise das falas dos alunos e na avaliação do material produzido por eles aparecem referências corretas aos conceitos de Estatística e de Matemática utilizados na prática de ensino.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "ensino de estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-19325141",
+ "autor": "Jarbas Dionisio Camargo",
+ "ano": 2014,
+ "tipo": "Dissertação",
+ "titulo": "O Ensino de Estatística e Matemática no 9° Ano do Ensino Fundamental: Uma Abordagem Versando sobre o Tema Água e Consumo Consciente",
+ "instituicao": "Universidade Federal do Rio Grande do Sul",
+ "cidade": "",
+ "estado": "Rio Grande do Sul",
+ "regiao": "Sul",
+ "orientador": "Luciana Neves Nunes",
+ "programa": "Ensino de Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "MP",
+ "grau": "Mestrado Profissional",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Ensino de Estatística. Ensino de Matemática. Aprendizagem significativa.",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20E%20MATEM%C3%81TICA%20NO%209%C2%B0%20ANO%20DO%20ENSINO%20FUNDAMENTAL%3A%20UMA%20ABORDAGEM%20VERSANDO%20SOBRE%20O%20TEMA%20%C3%81GUA%20E%20CONSUMO%20CONSCIENTE%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=O%20ENSINO%20DE%20ESTAT%C3%8DSTICA%20E%20MATEM%C3%81TICA%20NO%209%C2%B0%20ANO%20DO%20ENSINO%20FUNDAMENTAL%3A%20UMA%20ABORDAGEM%20VERSANDO%20SOBRE%20O%20TEMA%20%C3%81GUA%20E%20CONSUMO%20CONSCIENTE&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/19325141"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "19325141",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Ensino de Estatística. Ensino de Matemática. Aprendizagem significativa."
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-19325141.svg",
+ "resumo": "O presente trabalho tem como objetivo apresentar os principais resultados analisados em uma prática de ensino, realizada no segundo semestre de 2013, com um grupo de alunos do 9° ano do ensino fundamental na cidade de Esteio, Rio Grande do Sul. As atividades foram realizadas com o propósito de investigar possíveis contribuições de uma abordagem versando sobre o tema água e consumo consciente para aprendizagem significativa em Estatística e Matemática. Visando a identificar se os objetivos foram atingidos, à luz da teoria da aprendizagem significativa, de David Ausubel, realizou-se um estudo exploratório descritivo do material produzido durante as aulas, além da análise de anotações, via relatório da prática, sendo este um estudo de caso. Os resultados obtidos permitiram concluir que o projeto apresentou algumas contribuições para a aprendizagem significativa de conceitos matemáticos e estatísticos, no referido nível de ensino, pois na análise das falas dos alunos e na avaliação do material produzido por eles aparecem referências corretas aos conceitos de Estatística e de Matemática utilizados na prática de ensino.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "ensino de estatística"
+ ],
+ "ids_duplicados": []
 }

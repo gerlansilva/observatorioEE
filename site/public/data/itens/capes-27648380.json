@@ -1,60 +1,60 @@
 {
-  "id": "capes-27648380",
-  "autor": "Sandra Goncalves Vilas Boas Campos",
-  "ano": 2017,
-  "tipo": "Tese",
-  "titulo": "Sentido de Número e Estatística: Uma Investigação com Crianças do 1º Ano do Ciclo de Alfabetização",
-  "instituicao": "Universidade Estadual Paulista Júlio de Mesquita Filho ( Rio Claro )",
-  "cidade": "",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "orientador": "Maria Lucia Lorenzetti Wodewotzki",
-  "programa": "EDUCAÇÃO MATEMÁTICA",
-  "area": "Ensino",
-  "nivel_codigo": "",
-  "nivel": "",
-  "foco_codigo": "",
-  "foco": "",
-  "grau_codigo": "DO",
-  "grau": "Doutorado",
-  "conteudo": "",
-  "problema": "",
-  "metodologia": "",
-  "contribuicoes": "",
-  "palavras_chave": "Sentido de número; Investigação Matemática; Educação Estatística; Ciclo de alfabetização",
-  "referencial": "",
-  "revisado": false,
-  "links": {
-    "google_scholar": "https://scholar.google.com/scholar?q=%22Sentido%20de%20N%C3%BAmero%20e%20Estat%C3%ADstica%3A%20Uma%20Investiga%C3%A7%C3%A3o%20com%20Crian%C3%A7as%20do%201%C2%BA%20Ano%20do%20Ciclo%20de%20Alfabetiza%C3%A7%C3%A3o%22",
-    "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Sentido%20de%20N%C3%BAmero%20e%20Estat%C3%ADstica%3A%20Uma%20Investiga%C3%A7%C3%A3o%20com%20Crian%C3%A7as%20do%201%C2%BA%20Ano%20do%20Ciclo%20de%20Alfabetiza%C3%A7%C3%A3o&type=AllFields",
-    "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27648380"
-  },
-  "bdtd": {
-    "status": "",
-    "score": 0.0,
-    "candidato": null,
-    "consultado_em": "2026-10-20"
-  },
-  "capes": {
-    "status": "ok",
-    "score": 1.0,
-    "candidato": "27648380",
-    "consultado_em": "2026-10-20"
-  },
-  "autor_planilha": "",
-  "enriquecimento_manual": {},
-  "tags": [
-    "Sentido de número",
-    "Investigação Matemática",
-    "Educação Estatística",
-    "Ciclo de alfabetização"
-  ],
-  "thumbnail": "./assets/images/thumbs/capes-27648380.svg",
-  "resumo": "Nessa pesquisa procuramos compreender de que forma a Educação Estatística, pode contribuir para que as crianças do 1º ano do ciclo de alfabetização desenvolvam o Sentido de número. Participaram da pesquisa 30 crianças de uma turma do primeiro ano da Escola Municipal Dr. Gladsen Guerra de Rezende em Uberlândia/Minas Gerais. Para compreender a problemática da pesquisa, realizamos uma investigação de cunho qualitativo na modalidade estudo de caso e buscamos o referencial teórico na Educação Estatística, nos estudos sobre Sentido de Número e Investigação Matemática. A coleta de dados foi realizada, por meio de um conjunto de tarefas aos quais denominamos Contextos de investigação. A investigação, a descoberta, a reflexão e a validação foram elementos básicos no processo de construção e desenvolvimento das tarefas. Para elaboração das tarefas, apoiamos nos referenciais teóricos de Sentido de Número e Educação Estatística. Para o desenvolvimento, buscamos fundamentos teóricos da Investigação Matemática. Realizamos observação participante pois coube à pesquisadora a aplicação das tarefas. Para apreciação coletiva das tarefas, realizamos rodas de conversa. Para as análises, entrecruzamos esses três referenciais com os indicadores de sentido de número propostos por Mcintosh, Reys e Reys (1992). Constatamos que as tarefas do contexto da Estatística que favoreçam a exploração de números e suas relações, a partir de situações que permitam a criança coletar, tabular, analisar dados e comunicar suas ideias em um ambiente de discussão voltado para os processos de aprendizagem e de raciocínio, a metodologia e a interação de conceitos Estatísticos com os conceitos Matemáticos, a interrelação da Educação Estatística e da Investigação matemática, são elementos essenciais para o desenvolvimento do sentido de número. Os resultados permitem afirmar que as crianças tiveram, com a participação nessa pesquisa a oportunidade de desenvolverem o seu sentido de número.",
-  "resumo_idioma": "por",
-  "resumo_fonte": "CAPES",
-  "termos_busca": [
-    "educação estatística"
-  ],
-  "ids_duplicados": []
+ "id": "capes-27648380",
+ "autor": "Sandra Goncalves Vilas Boas Campos",
+ "ano": 2017,
+ "tipo": "Tese",
+ "titulo": "Sentido de Número e Estatística: Uma Investigação com Crianças do 1º Ano do Ciclo de Alfabetização",
+ "instituicao": "Universidade Estadual Paulista Júlio de Mesquita Filho ( Rio Claro )",
+ "cidade": "",
+ "estado": "São Paulo",
+ "regiao": "Sudeste",
+ "orientador": "Maria Lucia Lorenzetti Wodewotzki",
+ "programa": "Educação Matemática",
+ "area": "Ensino",
+ "nivel_codigo": "",
+ "nivel": "",
+ "foco_codigo": "",
+ "foco": "",
+ "grau_codigo": "DO",
+ "grau": "Doutorado",
+ "conteudo": "",
+ "problema": "",
+ "metodologia": "",
+ "contribuicoes": "",
+ "palavras_chave": "Sentido de número; Investigação Matemática; Educação Estatística; Ciclo de alfabetização",
+ "referencial": "",
+ "revisado": false,
+ "links": {
+  "google_scholar": "https://scholar.google.com/scholar?q=%22Sentido%20de%20N%C3%BAmero%20e%20Estat%C3%ADstica%3A%20Uma%20Investiga%C3%A7%C3%A3o%20com%20Crian%C3%A7as%20do%201%C2%BA%20Ano%20do%20Ciclo%20de%20Alfabetiza%C3%A7%C3%A3o%22",
+  "bdtd": "https://bdtd.ibict.br/vufind/Search/Results?lookfor=Sentido%20de%20N%C3%BAmero%20e%20Estat%C3%ADstica%3A%20Uma%20Investiga%C3%A7%C3%A3o%20com%20Crian%C3%A7as%20do%201%C2%BA%20Ano%20do%20Ciclo%20de%20Alfabetiza%C3%A7%C3%A3o&type=AllFields",
+  "capes": "https://sucupira.capes.gov.br/observatorio/detalhamento/teses-e-dissertacoes/27648380"
+ },
+ "bdtd": {
+  "status": "",
+  "score": 0.0,
+  "candidato": null,
+  "consultado_em": "2026-10-20"
+ },
+ "capes": {
+  "status": "ok",
+  "score": 1.0,
+  "candidato": "27648380",
+  "consultado_em": "2026-10-20"
+ },
+ "autor_planilha": "",
+ "enriquecimento_manual": {},
+ "tags": [
+  "Sentido de número",
+  "Investigação Matemática",
+  "Educação Estatística",
+  "Ciclo de alfabetização"
+ ],
+ "thumbnail": "./assets/images/thumbs/capes-27648380.svg",
+ "resumo": "Nessa pesquisa procuramos compreender de que forma a Educação Estatística, pode contribuir para que as crianças do 1º ano do ciclo de alfabetização desenvolvam o Sentido de número. Participaram da pesquisa 30 crianças de uma turma do primeiro ano da Escola Municipal Dr. Gladsen Guerra de Rezende em Uberlândia/Minas Gerais. Para compreender a problemática da pesquisa, realizamos uma investigação de cunho qualitativo na modalidade estudo de caso e buscamos o referencial teórico na Educação Estatística, nos estudos sobre Sentido de Número e Investigação Matemática. A coleta de dados foi realizada, por meio de um conjunto de tarefas aos quais denominamos Contextos de investigação. A investigação, a descoberta, a reflexão e a validação foram elementos básicos no processo de construção e desenvolvimento das tarefas. Para elaboração das tarefas, apoiamos nos referenciais teóricos de Sentido de Número e Educação Estatística. Para o desenvolvimento, buscamos fundamentos teóricos da Investigação Matemática. Realizamos observação participante pois coube à pesquisadora a aplicação das tarefas. Para apreciação coletiva das tarefas, realizamos rodas de conversa. Para as análises, entrecruzamos esses três referenciais com os indicadores de sentido de número propostos por Mcintosh, Reys e Reys (1992). Constatamos que as tarefas do contexto da Estatística que favoreçam a exploração de números e suas relações, a partir de situações que permitam a criança coletar, tabular, analisar dados e comunicar suas ideias em um ambiente de discussão voltado para os processos de aprendizagem e de raciocínio, a metodologia e a interação de conceitos Estatísticos com os conceitos Matemáticos, a interrelação da Educação Estatística e da Investigação matemática, são elementos essenciais para o desenvolvimento do sentido de número. Os resultados permitem afirmar que as crianças tiveram, com a participação nessa pesquisa a oportunidade de desenvolverem o seu sentido de número.",
+ "resumo_idioma": "por",
+ "resumo_fonte": "CAPES",
+ "termos_busca": [
+  "educação estatística"
+ ],
+ "ids_duplicados": []
 }
